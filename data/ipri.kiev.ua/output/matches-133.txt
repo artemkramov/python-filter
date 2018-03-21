@@ -1,0 +1,12 @@
+﻿2009-4-10
+09. — Vol. 11, N 4
+78-88
+alt="">PDF
+«Max-Min» Model for a Defense of Communication Networks Objects Problems
+Dodonov О.G., Kuzmychov A.I.
+The defense of strategic objects problem as a maximal flow/minimal cut in a network problem which is solved in the MS Excel by built-in module of mathematical optimization is interpreted. This approach is an illustration of modern method of forming and making responsible decisions with the use of mathematical and spreadsheet modeling. Fig.: 5. Refs: 10 titles.
+communication network, maximal flow, minimal cut, spreadsheet modeling, mathematical optimization in MS Excel.
+References</td><td>1. Wood K. Deterministic Network Interdiction / K. Wood // Mathematical and Computer Modeling. — 1993. — Vol. 17.<br>2. Brown G. Defending Critical Infrastructure / G. Brown, M. Carlyle, J. Salmeron, K. Wood // Interfaces. — 2006. — Vol. 36.<br>3. Salmeron J. Analysis of Electric Grid Security Under Terrorist Threat / J. Salmeron, K. Wood, R. Baldick // IEEE Transactions on Power Systems. — 2004. — Vol. 19.<br>4. Ford L.R. Flows in Networks / L.R. Ford, D.R. Fulkerson. — Princeton University. — NJ, 1962; пер. рос. Форд Л., Фалкерсон Д. Потоки в сетях. — М.: Мир, 1966.<br>5. Brown G. Solving Generalized Networks / G. Brown, R. McBride // Management Science. — 1984.— Vol. 30.<br>6. Anderson L. Application of the Maximum Flow Problem to Sensor Placement on Urban Road Networks for Homeland Security / Anderson L., Atwell R., Barnett D., Bovey R. — Homeland Security Affairs. — 2007. — Vol. I.<br>7. Fylstra D. Design and Use of the Microsoft Excel Solver / D. Fylstra, L. Lasdon, J. Watson, A. Waren // Interfaces, 1998.<br>8. Moore J.H. Decision modeling with Microsoft Excel / J H. Moore, L.R. Weatherford. — Prentice Hall, 2001; пер. рос. Мур Дж., Уэдерфорд Л. Экономическое моделирование в Microsoft Excel. — 6-е изд. — М.: «Вильямс», 2004.<br>9. Кузьмичов А.І. Лінійні задачі математичного програмування в MS Excel: навч. пос. / А.І. Кузьмичов, М.Г. Медведєв. — К.: АМУ, 2006.<br>10. Kuzmychov A. Operations Research: Optimization models for Decision-making: навч. пос. / А. Kuzmychov. — К.: АМУ, 2007.
+Файлы
+2009-4-10.pdf
+null

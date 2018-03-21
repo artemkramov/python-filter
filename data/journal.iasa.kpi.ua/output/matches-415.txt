@@ -1,0 +1,10 @@
+﻿null
+A. G. Malishevsky</em><br></p><p>
+109775
+6581">No 1 (2008
+109775/0">Malishevsky
+Using information on test costs and fault severities in the test case prioritization process
+A. G. Malishevsky
+This work has examined introducing information on test costs and fault severities into test case prioritization in regression testing. Methods to estimate test costs and fault severities are presented. New prioritization techniques and a metric to measure their efficiency are demonstrated. The application of these techniques and the metric, and also the influence of selecting test costs and fault severities on prioritization have been investigated.
+109775/104816">PDF (Русский)</a
+—

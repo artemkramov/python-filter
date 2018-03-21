@@ -1,0 +1,12 @@
+﻿2012-2-1
+12. — Vol. 14, N 2
+3-13&gt;
+alt="" width="50">PDF,DOC
+Influence of Thermal Processes in Si/AIIIBV RGB LED-Matrixes on the Reverse Micropro-cessor Control of Lighting
+Deminskyi P.V., Osinskyi V.I.
+It has been justified the necessity of monolithically integrated Si/AIIIBV light sources implementa-tion. The influence of the dynamics of temperature changes on the steps of modeling and implementation of monolithically integrated Si/AIIIBV light sources have been investigated and analyzed. The influence of temperature dynamics on the wavelength, intensity and color temperature of the samples has been studied. The values of LEDs sources brightness depending on the temperature are investigated. It is reported about the benefits and necessities of the implementation of multiple LEDs spaced in time in the reverse mode at monolithic integrated Si/AIIIBV light sources. Tabl.: 2. Fig.: 3. Refs: 13 titles.
+LED-matrix, monolithic integration, thermal dynamics, reversive inclusion, RGB.
+References</td><td>
+File
+2-1.pdf
+null

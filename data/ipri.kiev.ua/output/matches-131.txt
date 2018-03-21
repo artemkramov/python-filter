@@ -1,0 +1,12 @@
+﻿2009-4-8
+09. — Vol. 11, N 4
+59-67
+alt="">PDF
+Application of ATA Protocol Analyzer for Setting up Access to Data
+Kozhenevsky S.R.
+This design and operation principles of ATA protocol analyzers are considered. The description of their capabilities in applications of hard disk drive data recovery and repair is given. The method for data recovery from password protected HDDs on the base of analysis of exchange protocol between PC and storage device is proposed. Tab.: 2. Fig.: 5. Refs: 2 titles
+protocol analyzer, interface, ATA, Serial ATA, HDD, password, data recovery.
+References</td><td>1. INCITS 452-2008 (D1699): AT Attachment 8 — ATA/ATAPI Command Set.<br>2. Гук М. Интерфейсы устройств хранения: АТА, SCSI и другие. Энциклопедия / М. Гук. — СПб.: Питер, 2007. — 447 с.
+Файлы
+2009-4-8.pdf
+null

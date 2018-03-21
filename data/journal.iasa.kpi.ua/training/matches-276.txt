@@ -1,0 +1,10 @@
+﻿null
+V. Ye. Mukhin</em><br><br>Ukraine</p><p></p><p>Мухін Вадим Євгенійович,</p><p>доцент, кандидат технічних наук, доцент кафедри обчислювальної техніки факультету інфор-матики та обчислювальної техніки Національного технічного університету України «КПІ», Київ</p><p>
+106716
+6349">No 4 (2010
+106716/0">Mukhin
+Means for security risk minimization in distributed computer systems
+V. Ye. Mukhin
+The structure of means for security risk minimization in distributed computer systems is developed, and the functioning of the basic blocks of the suggested structure is formalized. Also, estimation of the security threat level, the integrated assessment of the damage due to attacks on to the vulnerabilities, and the risk assessment for the security threat realization are proposed. An approach to the risk analysis on the basis of estimation of the danger level of safety threat factors and the probability of safety threat realization with division of the factors into related groups is suggested, which is also based on the constructed special security risk matrix for security risk minimization.
+106716/101751">PDF (Русский)</a
+—

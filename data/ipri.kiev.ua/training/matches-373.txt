@@ -1,0 +1,12 @@
+﻿2015-1-3
+14. — Vol. 17, N 1
+28-35
+alt="" width="50">PDF,DOC
+Fractal method of forming etalon images in vision systems
+Yuzefovich V.V., Butochnov A N., Mezentsev A.V., Mironyuk S.V.
+Based on the analysis of existing methods of image processing in vision systems, there is proposed to use a fractal method for forming etalon images as the most appropriate by criterion of computational feasibility. Fig.: 5. Refs: 10 titles.
+reference image, method, interrelation functions, fractal dimension, image analysis, image processing.
+References</td><td>
+File
+1-3.pdf
+null

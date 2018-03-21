@@ -1,0 +1,12 @@
+﻿2013-4-3
+13. — Vol. 15, N 4
+23–31
+alt="" width="50">PDF,DOC
+Modeling the Consolidated Information Resource for Communicative Interaction with Users of University Department Web Page
+M. O. Kotylo, Yu. O. Syerov
+The main issues of development of consolidated information resource as a communication link for interaction with entrants and graduates of the university department were considered. The goal, expected effects of the Internet forum creating, incoming and outgoing data of resource were defined. A system analysis of the research object was conducted, data flow diagram and entity-relationship diagram were created. Tabl.: 1. Fig.: 2. Refs: 7 titles.
+Іnternet forum, web communication, consolidated resource, modeling, data flow diagram, entity-relationship diagram.
+References</td><td>
+File
+4-3.pdf
+null

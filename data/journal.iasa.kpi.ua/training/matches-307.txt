@@ -1,0 +1,10 @@
+﻿null
+A. I. Peschansky</em><br><br>Ukraine</p><p></p><p>Песчанський Олексій Іванович,</p><p>кандидат фізико-математичних наук, доцент кафедри вищої математики Севастопольського національного технічного університету, Україна, Севастополь</p><p>
+106968
+6358">No 2 (2010
+106968/0">Peschansky
+Calendar maintenance of a single-component system with minimal fallback renewal
+A. I. Peschansky
+Strategy for minimal fallback renewal with periodical total replacement is considered taking into account the time of renewal. For single-component systems, an alternating process of minimal renewal is introduced and its asymptotic behavior is investigated using tauberian theorems. Optimal terms of total replacement are determined.
+106968/101969">PDF (Русский)</a
+—

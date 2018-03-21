@@ -1,0 +1,12 @@
+﻿2010-4-1
+10. — Vol. 12, N 2
+3-12
+alt="">PDF
+Study of Filtering Schemes for Route Information Processing Algorithms in Dynamic Objects Monitoring Systems
+Kozheshkurt V.I., Iuzefovych V.V.
+The choice of rational filtering schemes of moving (dynamic) objects parameters for solving problems of their support taking into account the parameters of existing surveillance systems and maneuvering capabilities of objects is carried out. Analysis of the effectiveness of using various filtering schemes was carried out through statistical modeling. Fig.: 4. Refs: 6 titles.
+dynamic object, Kalman filter, adaptive filter, support, antialiasing.
+References</td><td>1. Кузьмин С.З. Основы проектирования систем цифровой обработки радиолокационной информации / С.З. Кузьмин. — М.: Радио и связь, 1986.— 352 с.<br>2. Жук С.Я. Методы оптимизации дискретных динамических систем со случайной структурой. — Монография / С.Я. Жук. — К.: НТУУ «КПИ», 2008. — 232 с.<br>3. Кузьмин С.З. Цифровая радиолокация. Введение в теорию / С.З. Кузьмин. — К.: Издательство КВіЦ, 2000. — 428 с.: ил.<br>4. http://en.wikipedia.org/wiki/Alpha_beta_filter.<br>5. Жук С.Я. Адаптивная фильтрация параметров движения маневрирующего объекта в прямоугольной системе координат / С.Я. Жук, В.И. Кожешкурт, В.В. Юзефович // Реєстрація, зберігання і оброб. даних. — 2009. —Т. 11, № 2. — С. 12–24.<br>6. Теоретичні та методологічні основи створення розподілених інформаційно-аналітичних систем (ІАС) моніторингу множини динамічних об’єктів у реальному часі (Звіт про НДР (закл.), шифр «Контроль»). — Книга 2. — К.: ІПРІ НАН України. — 2009. — 222 с. Держ. реєс. № 0107U002592; УДК 004.75:004.9.
+Файлы
+2010-4-1.pdf
+null

@@ -1,0 +1,12 @@
+﻿2013-1-5
+13. — Vol. 15, N 1
+45-52
+alt="" width="50">PDF,DOC
+Studying of Node Importance Characteristics in Co-Author Network
+Balagura I.V., Lande D.V., Gorbov I.V.
+The co-author network in areas of «Information and computer engineering» and «Cybernetics» of the Ukrainika naukova abstract database is studied in the work. Main characteristics of co-author network and authors are determined. There is shown that co-author network consists of loosely coupled scholar schools and teams. Is shown that applying of nodes centrality characteristics allow to determine authors of scientific works which are heads of scholar schools, make a significant contribution and support com¬munication between scientific teams. Tabl.: 2. Fig.: 1. Refs: 16 titles.
+co-author networks, the Ukrainika naukova abstract database, UKRMARC format, scientific communication, node characteristics.
+References</td><td>
+File
+1-5.pdf
+null

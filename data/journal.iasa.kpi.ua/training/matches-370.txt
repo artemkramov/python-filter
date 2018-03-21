@@ -1,0 +1,11 @@
+﻿s
+A. A. Pavlov</em><br><br>Ukraine</p><p></p><p>Павлов Олександр Анатолійович,</p><p>академік Академії наук вищої школи, професор, доктор технічних наук, декан факультету інформатики та обчислювальної техніки Національного технічного університету України «КПІ», Київ</p><p></p></div><div></div><div><p><em>A. V. Chekhovskiy</em><br><br>Ukraine</p><p></p><p>Чеховський Олександр Володимирович,</p><p>студент факультету інформатики та обчислювальної техніки Національного технічного університету України «КПІ», Київ</p><p>
+108468
+6452">No 1 (2009
+108468/0">Pavlov
+Multidimensional polynomial regression construction. Active experiment
+A. A. Pavlov, A. V. Chekhovskiy
+A constructive method for restoration of multidimensional polynomial regression represented with extra description is considered. Distribution of noises is optional with unknown but finite dispersion. The solution to the problem is based on the possibility of an active experiment. Practical recommendations for using the method are proposed.
+108468/103446">PDF (Русский)</a
+—
+null

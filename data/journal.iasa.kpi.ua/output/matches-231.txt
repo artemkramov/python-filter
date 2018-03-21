@@ -1,0 +1,11 @@
+﻿s
+I. V. Maksimey</em><br><br>Belarus</p><p></p></div><div></div><div><p><em>D. N. Shevchenko</em><br><br>Belarus</p><p>
+106401
+6331">No 3 (2011
+106401/0">Maksimey
+The technology of the simulation modeling of the parametric failures of the technical systems
+I. V. Maksimey, D. N. Shevchenko
+The approach and automation for the deserete-event simulation modeling of parametric failures of technical systems are offered. It is given the example of the model creation and decisions of the known theoretical problem of the analysis of the parametric failure of technical system. The possibilities of simulation modeling of the complex practical problems are shown.
+106401/101520">PDF (Русский)</a
+—
+null

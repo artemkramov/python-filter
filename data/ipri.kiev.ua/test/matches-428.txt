@@ -1,0 +1,12 @@
+﻿2016-2-8
+16. — Vol. 18, N 2
+67–74
+alt="" width="50">PDF,DOC
+A structural and analytical simulation and animation of technological processes in engineering complexes
+Denisenko A.V.
+For complex engineering systems (CES), it is typical that the time change of value of influencing parameters (temperature, level, pressure, flow, speed of movement, etc.) takes place. Then the dynamic model of the CES can be represented by a system of linear (nonlinear) differential and algebraic equations, the latter in the case of linear transfer functions. The complicated technical systems and complexes have another feature associated with such concepts as the «condition» and «event» that may have a certain relationship with each other. Mathematical and structural forms of modeled problems situation are the apparatus of Petri nets, where the conditions are positions, and events is junctions. Fig.: 7. Refs: 3 titles.
+engineering systems, discrete-continuous systems and networks, Petri nets, Adobe Flash.
+References</td><td>
+File
+2-8.pdf
+null

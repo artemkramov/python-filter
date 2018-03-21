@@ -1,0 +1,11 @@
+﻿s
+V. D. Romanenko</em><br>заступник директора з науково-педагогічної роботи Навчально-наукового комплексу "Інститут прикладного системного аналізу" НТУУ "КПІ" МОН та НАН України, Київ<br>Ukraine</p><p></p><p>Романенко Віктор Демидович,</p><p>професор, доктор технічних наук, заступник директора з науково-педагогічної роботи Навчально-наукового комплексу "Інститут прикладного системного аналізу" НТУУ "КПІ" МОН та НАН України, Київ</p><p></p></div><div></div><div><p><em>Y. L. Milyavsky</em><br>аспірант Навчально-наукового комплексу "Інститут прикладного системного аналізу" НТУУ "КПІ" МОН та НАН України, Київ<br>Ukraine</p><p></p><p>Мілявський Юрій Леонідович,</p><p>аспірант Навчально-наукового комплексу "Інститут прикладного системного аналізу" НТУУ "КПІ" МОН та НАН України, Київ</p><p>
+73417
+4375">No 4 (2011
+73417/0">Romanenko
+Synthesis of multivariate coordinating multidimensional coordination control systems with multirate sampling in deterministic environment
+V. D. Romanenko, Y. L. Milyavsky
+The control problem of relations between the output coordinates of the multidimensional multirate objects in deterministic environment is formulated and solved. A new control algorithm that ensures simultaneous fulfillment of both monitoring and coordinating problems in transient and steady states is proposed. The results of numerical simulation, confirming the practical significance of this development are shown.
+73417/68800">PDF (Українська)</a
+—
+null

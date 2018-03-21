@@ -1,0 +1,12 @@
+﻿Ciganok
+08. — Vol. 10, N 3
+96-101
+width="25px" alt="">PDF,DOC
+The Investigation of Rank Reversal Phenomenon at Applying Pair-Wise Comparison Methods
+Tsyganok V.V.
+The reasons of alternatives’ ranking derangement (rank reversal), observed while calculating their weights using pair-wise comparison methods, are analysed. Cases of alternative addition to and its exclu-sion from the set of evaluated alternatives are considered. The method of averaged weights’ calculation based on pair-comparisons’ matrices, obtained from expert group, that allows to save the ranking after adding a new alternative to the set of alternatives, whose weights were calculated before, is proposed. As a result of experimental investigation, the main characteristic parameters of the proposed method were obtained. Tabl.: 3. Refs: 7 titles.
+decision support systems, pair-wise comparisons methods, rank reversal.
+References</td><td>1. Belton V. On a Shortcoming of Saaty’s Method of Analytic Hierarchies / V. Belton, T. Gear // Omega. — 1983. — 11. — Р. 228–230.<br>2. Dyer J.S. Remarks on the Analytic Hierarchy Process / J.S. Dyer // Management Sci. — 1990. — 36. — Р. 249–258.<br>3. Kumar N.V., Ganesh L.S. An Еmpirical Аnalysis of the Use of the Analytic Hierarchy Process for Estimating Membership Values in a Fuzzy Set // Fuzzy Sets and Systems. — 1996. — 82. — Р. 1–16.<br>4. Saaty T.L. The Analytic Hierarchy Process / T.L. Saaty — N.Y.: McGraw-Hill, 1980.<br>5. Тоценко В.Г. О проблеме реверса рангов альтернатив при многокритериальном оценива-нии / В.Г. Тоценко // Проблемы управления и информатики. — 2006. — № 3. — С. 65–75.<br>6. Циганок В.В. Комбінаторний алгоритм парних порівнянь зі зворотним зв’язком з експертом / В.В. Циганок // Реєстрація, зберігання і оброб. даних. — 2000. — Т. 2, № 2. — С. 92–102.<br>7. Циганок В.В. Метод обчислення ваг альтернатив на основі результатів парних порівнянь, проведених групою експертів / В.В. Циганок // Реєстрація, зберігання і оброб. даних. — 2008. — Т. 10, № 2. — С. 121–127.
+Файлы
+Agr_Gr-RangRevers.doc
+null

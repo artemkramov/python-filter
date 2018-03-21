@@ -1,0 +1,10 @@
+﻿null
+V. V. Skobelev</em><br><br>Ukraine</p><p></p><p>Скобелєв Володимир Володимирович,</p><p>аспірaнт Інституту прикладної математики і механіки НАН України, Донецьк</p><p>
+106956
+6356">No 3 (2010
+106956/0">Skobelev
+Analysis of free-running automaton over a finite ring
+V. V. Skobelev
+The analog over the finite ring of chaotic dynamical free-running system is investigated. The structure of the model under investigation is characterized in terms of automaton theory. Problems of parametric identification and identification of the initial state are solved. The structure of fixed points in the mapping realized by the initial automaton is characterized.
+106956/101956">PDF (Русский)</a
+—

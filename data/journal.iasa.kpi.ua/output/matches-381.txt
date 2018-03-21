@@ -1,0 +1,11 @@
+﻿s
+V. P. Simonenko</em><br><br>Ukraine</p><p></p><p>Сімоненко Валерій Павлович,</p><p>доктор технічних наук, професор Національного технічного університету України «КПІ», Київ</p><p></p></div><div></div><div><p><em>S. I. Simonenko</em><br><br>Ukraine</p><p></p><p>Сімоненко Світлана Іванівна,</p><p>асистент Національного технічного університету України «КПІ», Київ</p><p>
+108558
+6453">No 4 (2008
+108558/0">Simonenko
+Method for step-by-step construction of timetable for educational institutions
+V. P. Simonenko, S. I. Simonenko
+A method and an algorithm for solving a timetable problem for educational institutions with a standard week are proposed. The algorithm makes it possible to achieve an acceptable version of timetable via a finite number of steps determined by the number of lessons and the educational week structure. Organizational, methodical and psychophysiological requirements are taken into account. The quality of timetables built using the proposed algorithm is not less than 0.65 on average.
+108558/103502">PDF (Русский)</a
+—
+null

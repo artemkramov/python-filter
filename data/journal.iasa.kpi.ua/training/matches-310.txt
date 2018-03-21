@@ -1,0 +1,11 @@
+﻿s
+M. Z. Zgurovsky</em><br><br>Ukraine</p><p></p><p>Згуровський Михайло Захарович,</p><p>академік НАН України, професор, доктор технічних наук, ректор Національного технічного університету України «КПІ», директор Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p></p></div><div></div><div><p><em>A. A. Pavlov</em><br><br>Ukraine</p><p></p><p>Павлов Олександр Анатолійович,</p><p>академік Академії наук вищої школи, професор, доктор технічних наук, декан факультету інформатики та обчислювальної техніки Національного технічного університету «КПІ», Україна, Київ</p><p></p></div><div></div><div><p><em>A. S. Shtankevich</em><br><br>Ukraine</p><p></p><p>Штанькевич Олексій Степанович,</p><p>аспірант кафедри автоматизованих систем обробки інформації і управління факультету інформатики та обчислювальної техніки Національного технічного університету «КПІ», Україна, Київ</p><p>
+107129
+6364">No 1 (2010
+107129/0">Zgurovsky
+Modified method for analysis of hierarchies
+M. Z. Zgurovsky, A. A. Pavlov, A. S. Shtankevich
+An efficient methodology is proposed for searching for a winner among a great number of alternatives in the Analytic Hierarchy Process using optimization models of object priority searching according to empirical pairwise comparison matrixes. Two different models of empirical pairwise comparison matrixes are considered. A demonstrative example is given.
+107129/102106">PDF (Русский)</a
+—
+null

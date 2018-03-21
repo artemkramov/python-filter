@@ -1,0 +1,12 @@
+﻿Senchenko
+05. — Vol. 7, N 1
+43-51
+width="50" alt="">PDF,DOC
+Macroeconomic Factors Analysis Tools
+Boychenko A.V., Senchenko V.R.
+An approach to creating the macroeconomic factors monitoring system is considered. A complex of technological solutions to provide the analysis and visualization of data for this subject domain is offered. Features of facilities for visual analysis of statistical data and data logical model developed within the scope of the monitoring system is presented. Fig.: 8. Refs.: 10 titles.
+information-analytical system, macroeconomic factors, database, monitoring.
+References</td><td>1. Федоров А. Microsoft Data Analyzer — анализ данных в Microsoft Office // Компьютер Пресс. — 2002. — № 2.<br>2. Арнхейм Р. Новые очерки по психологии искусства: Пер. с англ. — М.: Прометей, 1994.<br>3. Грэхем И. Объектно-ориентированные методы. Принципы и практика. Третье издание: Пер. с англ. — М.: Издательский дом «Вильямс», 2004. — 880 с.<br>4. Спирли Э. Корпоративные хранилища данных. Планирование, разработка, реализация. Том. 1: Пер. с англ. — М.: Издательский дом «Вильямс», 2001. — 400 с.<br>5. Deductor — описание аналитического пакета. Лаборатория BaseGroup.<br>http://www.basegroup.ru/deductor/description.htm<br>6. Аналитические бизнес приложения. Oracle ® Financial Analyzer.<br>http://www.ucg.com.ua/analyticapplications.html<br>7. Financial Observer Technical Description. http://www.cad.ntu-kpi.kiev.ua<br>8. Юдина Т.Н., Карасев О.И., Богомолова А.В., Сеннов Р.А. Базы данных по социально-эко-номической статистике Российской Федерации с Интернет-доступом. http://www.ecsocman.edu.ru/db<br>9. Сенченко В.Р., Бойченко А.В. та ін. Створення інформаційно-аналітичної системи Рахун-кової палати України: Звіт з НДР. — УкрІНТІ; № ДР 0103U004614. — К., 2004.<br>10. Материалы Семинара ЕВРОСАИ: «Использование информационных технологий в ау-дите исполнения государственного бюджета». — 2001. — 25-27 сентября. — Варшава (Польша). http://www.ach.gov.ru/ eurosai/
+File
+RZOD2_04.doc
+null

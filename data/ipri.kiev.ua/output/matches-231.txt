@@ -1,0 +1,12 @@
+﻿2011-3-10
+11. — Vol. 13, N 3
+106-116&gt;
+alt="" width="50">PDF,DOC
+Aggregated Projects Groups Management
+Kuzminykh V.A., Koval A.V., Khaustov D.V., Korostelova E.Y.
+Questions of forming the aggregated projects groups analysis system of the corporate projects management system is considered. An approach to creating software tools of analysis of project activity in enterprises with a hierarchical organizational structure is offered. Tab.: 2. Fig.: 3. Refs: 3 titles
+corporate projects management system, project portfolios management, strategy of enterprise development, hierarchical organizational structure.
+References</td><td>1. Керівництво з управління інноваційними проектами і програмами організацій: Моногра- фія: пер. на українську мову під ред. проф. Ярошенка Ф.О. — К.: Новий друк. — 2010. — 160 с.<br>2. The Standard for Program Management / PMI. — 2008. — 324 с.<br>3. The Standard for Portfolio Management / PMI. — 2008. — 146 с.<br>4. Managing Sucessful Projects with PRINCE2 / The Stationery Office. — 2009. — 342 p.<br>5. Томас М. Каппелс. Финансово-ориентированное управление проектами / Томас М. Кап- пелс: пер. с англ. — М.: Олимп-Бизнес, 2008.<br>6. Кэтлин Бенко, Ф. Уоррен Мак-Фарлан. Управление портфелями проектов. Соответствие проектов стратегическим целям компании / Кэтлин Бенко, Ф. Уоррен Мак-Фарлан: пер. с англ. — М.: Вильямс, 2007.<br>7. Скотт Беркун. Искусство управления IT-проектами / Беркун Скотт. — Серия: Бестселле- ры O'Reilly. — С.-Петербург: Питер, 2011.<br>8. A Guide to the Project Management Body of Knowledge / Project Management Institute. — 2008. — 459 p.
+File
+3-10.pdf
+null

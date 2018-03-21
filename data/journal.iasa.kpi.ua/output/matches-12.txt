@@ -1,0 +1,11 @@
+﻿null
+Kateryna V. Moravetska</em><br><a href="http://orcid.org/0000-0002-1406-0878">ORCID iD</a>The National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute", Kyiv<br>Ukraine</p><p></p><p>Moravetska Kateryna Vitaliivna,</p><p>a Ph.D. student at the National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute", Kyiv, Ukraine.</p><p>
+111899
+7139">No 4 (2017
+111899/0">Moravetska
+Measure construction on surfaces embedded into Riemann manifolds with uniform structure
+Kateryna V. Moravetska
+A finite-dimensional Riemann manifold with a uniform structure and the corresponding Riemann measure of the volume were considered. For an embedded surface an induced Riemann volume measure can be constructed with the tensor induced by an embedding. An alternative approach to the construction of an associated surface measure is proposed. The construction assumes an assignment of the differential form associated with the surface and a set of pairwise commuting vector fields on the manifold, strictly transversal to the surface. Under the action of the flow of the vector fields with small values of t, the subset on the surface transforms into a neighborhood on the manifold, and by passing to the limit the value of the surface measure can be obtained. It is shown that the construction of a surface measure using the mentioned alternative approach yields an exactly induced Riemann measure of the volume.</div><br></div><div><h4>Keywords</h4><br><div>Riemann manifold; volume measure; vector field; surface measure
+111899/114238">PDF (Українська)</a
+—
+><br><br>DOI:<a href="https://doi.org/10.20535/SRIT.2308-8893.2017.4.11">https://doi.org/10.20535/SRIT.2308-8893.2017.4.11</a

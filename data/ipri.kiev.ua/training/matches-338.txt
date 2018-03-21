@@ -1,0 +1,12 @@
+﻿2014-1-7
+14. — Vol. 16, N 1
+56-64
+alt="" width="50">PDF,DOC
+Factor Analysis Based on Association Rules
+Zayko T.A., Oliinyk A.A., Subbotin S.A.
+The problem of factor analysis in transactional databases is considered. A method of factor analysis based on association rules is proposed. The developed method presumes extraction rules of the given transaction database that allows assess the equivalence of the terms of features, eliminate redundant features, thereby reducing the search space and reducing the time of analysis, and to form groups of qualitatively similar features. The experiments on test problems of factor analysis are conducted. Fig.: 2. Refs: 12 titles.
+association rule, base of transactions, term of feature, factor analysis.
+References</td><td>
+File
+1-7.pdf
+null

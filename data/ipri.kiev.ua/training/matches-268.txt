@@ -1,0 +1,12 @@
+﻿2012-3-3
+12. — Vol. 14, N 3
+20-31
+alt="" width="50">PDF,DOC
+Cortege Analysis of the Most Significant Correspondences Between Descriptions of Objects in Metric Recognition Problems
+Vlasenko N.V., Mashtalir V.P.
+Modifications of methods for similarity calculation based on ranging elements descriptions values have been proposed for structural recognition of video objects. The results of computer experiments of the synthesized measures stability in presence of the most widespread noise types are presented. Fig.: 4. Refs: 12 titles.
+metric recognition methods, similarity measure, the description in the form of a set of elements, SURF, ranging, averaging, valuable correspondences, correct classification probability.
+References</td><td>
+File
+3-3.pdf
+null

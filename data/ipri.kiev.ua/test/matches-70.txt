@@ -1,0 +1,12 @@
+﻿Klimenko
+08. — Vol. 10, N 3
+18-28
+width="25px" alt="">PDF,DOC
+Technology of Simulation of Production Processes with the Sequential Organization
+Klimenko A.V.
+The way of formalization of production processes with the sequential organization at presence of probabilistic characteristics of technological operations and an opportunity of occurrence of failures of the equipment is considered. The approach to research of production processes on the basis of application of the Monte-Carlo method, semimarkovian processes and procedures of the analysis of operational conditions is described. The structure and technology of the use of simulation automatization means for investigated objects are given. Fig.: 1. Refs: 6 titles.
+technological processes of manufacture, semimarkovian model, programming technological complex of simulation.
+Ссылки</td><td>1. Зайченко Ю.П. Исследование операций: Учебное пособие / Ю.П. Зайченко. — К.: Издат. дом. «Слово», 2002. — 688 с.<br>2. Смородин В.С. Агрегатная система автоматизации моделирования вероятностных технологических процессов производства / В.С. Смородин // Математичнi машини i системи. — 2007. — № 1. — С. 105–110.<br>3. Гончаров А.Н. Об одной методике имитационного моделирования вероятностных технологических процессов производства / А.Н. Гончаров, И.В. Максимей, В.С. Смородин [и др.] // Математичнi машини i системи. — 2008. — № 1. — С. 133–138.<br>4. Максимей И.В. Задачи и модели исследования операций. Ч. 3. Технология имитации на ЭВМ и принятие решений: Учебное пособие / И.В. Максимей, В.Д. Левчук, С.П. Жогаль. — Гомель: БелГУТ, 1999. — 150 с.<br>5. Смородин В.С., Максимей И.В. Методы и средства имитационного моделирования технологических процессов производства: монография / В.С. Смородин, И.В. Максимей // М-во образования РБ, Гомельский государственный университет имени Франциска Скорины. — Гомель: ГГУ им. Ф. Скорины, 2007. — 369 с.<br>6. Гончаров А.Н. Управление резервированием и восстановительными операциями с помощью имитационного моделирования при возникновении отказов в технологических процессах опасного производства / А.Н. Гончаров, И.В. Максимей, В.С. Смородин // Проблемы управления и информатики. — 2007. — № 1. — С. 48–60.
+Файлы
+statja.doc
+null

@@ -1,0 +1,12 @@
+﻿2014-2-1
+14. — Vol. 16, N 2
+7-13
+alt="" width="50">PDF,DOC
+The Study of Amorphous Chalcogenide Materials of Memory Elements Based on Phase Transitions
+Kyrylenko V.K., Marjan V.M., Durkot M.O., Rubish V.M.
+A stand was developed that allows simultaneously measure the temperature dependences of the electrical resistance (R) and optical transmittance (0) of films in the region of temperatures 300-560 K. The temperature dependences of R and 0 amorphous films of antimony-selenium have been studied. It is shown that their crystallization is accompanied by a sharp decrease of these parameters. The temperature range of film transition from amorphous to a crystalline state depends on the film composition, material for contacts and heat treatment conditions. Fig.: 7. Refs: 18 titles.
+amorphous films, phase transition, memory elements.
+References</td><td>
+File
+2-2.pdf
+null

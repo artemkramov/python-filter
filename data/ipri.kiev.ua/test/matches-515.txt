@@ -1,0 +1,12 @@
+﻿Matov
+07. — Vol. 9, N 1
+87-99
+width="25px" alt="">PDF,DOC
+Block Convolutional Codes in Integrity Check Tasks
+Mаtоv О.Y., Vаsylenko V.S.
+The task of construction of block convolutional code with the use of encoding–decoding algorithms, which are inherent to the classic noise-combating, correcting convolutional code which would be able to provide the detection and correction of double distortions, is considered. Fig.: 5. Refs: 4 titles.
+base code word, distortion, convolutional code, information exchange.
+References</td><td>1. Матов А.Я. Основы теории передачи дискретной информации: Учеб. пособ. — К.: КВИРТУ ПВО, 1977. — 242 с., ил.<br>2. Кунегин С.В. Системы передачи информации. Курс лекций. — М.: в/ч 33965, 1997. — 317 с., ил.<br>3. Норенков И.П., Трудоношин В.А. Телекоммуникационные технологии и сети. — М.: МГТУ им. Н.Э.Баумана, 1999. — 432 с., ил.<br>4. Василенко В.С., Матов О.Я. Узагальнені завадостійкі коди в задачах забезпечення цілісно-сті інформаційних об’єктів. Код умовних лишків // Реєстрація, зберігання і оброб. даних. — 2006. — Т. 6, № 4. — С. 82–93.
+Файлы
+UDK_004.doc
+null

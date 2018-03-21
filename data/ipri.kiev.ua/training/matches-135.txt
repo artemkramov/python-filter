@@ -1,0 +1,12 @@
+﻿2009-4-11
+09. — Vol. 11, N 4
+89-96
+alt="">PDF
+Revelation and Counteraction to the Internet-Based Information Operations
+Zubok V.Yu.
+Methods of IT resources reconnaissance and utilization of their vulnerabilities to neutralize the opponent’s information influences in process of information assaults, which are often named information operations (info ops) are investigation. Diagrams and real examples of public resources analysis are provided. The algorithm of IT structure investigation is equally suitable for own vulnerabilities tests. Suggestions about preventive events for retarding reconnaissance of protected IT resources by the rival are given. Fig.: 5. Refs: 4 titles.
+information operations Internet, network reconnaissance, network vulnerabilities, public resources, network scanning.
+References</td><td>1. Information Operations Roadmap — DoD US. — 30 October 2003. — 78 p.<br>2. Фурашев В.М. Інформаційні операції крізь призму системи моніторингу та інтеграції Інтернет-ресурсів / В.М. Фурашев, Д.В. Ланде // Правова інформатика. — 2009. — № 2(22). — С. 49–57.<br>3. Klevinsky T.J. Hack I.T. — Security Through Penetration Testing / T.J. Klevinsky, S. Laliberte, A. Gupta. — Addison -Wesley Professional, 2002.<br>4. Chris McNab. Network Security Assessment. — [2-nd еd.] / McNab. Chris. — O’Reilly, 2008.
+Файлы
+2009-4-11.pdf
+null

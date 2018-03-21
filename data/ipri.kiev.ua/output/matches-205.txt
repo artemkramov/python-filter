@@ -1,0 +1,12 @@
+﻿2011-1-9
+11. — Vol. 13, N 1
+87-93&gt;
+alt="" width="50">PDF,DOC
+Limiting Values of Channels Capacity of Distributed Networks at Ensuring the Given Integrity of Information Objects
+Mаtоv О.Yа., Vаsylenko V.S., Dubchak O.V.
+The capabilities increasing and limiting values of capacity of transmission channels are considered. Fig.: 3. Refs: 3 titles.
+discretization, channel capacity, signal-to-noise ratio, channel bandwidth.
+References</td><td>1. Матов О.Я. Пропускна спроможність каналу та доступність інформаційних об’єктів у роз- поділених мережах / О.Я. Матов., В.С. Василенко, О.В. Дубчак // Реєстрація, зберігання і оброб. даних. — 2009. — Т. 11, № 2. — С. 77–82.<br>2. Алишев Я.В. Предельная пропускная способность и потенциальная помехоустойчивость оптических сетей и систем телекоммуникаций / Я.В. Алишев // Доклады БГУИР. — 2004. — Т. 2, № 2. — С. 43–45.<br>3. Василенко В.С. Узгодження продуктивності інформаційних джерел із ресурсами каналів розподілених мереж. Амплітудна дискретизація / В.С. Василенко // Реєстрація, зберігання і оброб. даних. — 2009. — Т. 11, № 3. — С. 60–65.
+File
+1-9.pdf
+null

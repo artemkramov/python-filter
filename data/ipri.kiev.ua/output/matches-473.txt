@@ -1,0 +1,12 @@
+﻿Fleitman
+05. — Vol. 7, N 1
+52-61
+width="50" alt="">PDF,DOC
+Ensuring the Survivability of Corporate Information Systems at Partial Destruction of Com-munication Links
+Fleytman D.V.
+The problem of ensuring the survivability of corporate information systems at partial destruction of communication links is considered. A method of redirection of information flows to network arcs with capacity reserves is described. An algorithm of bringing the solution of a formulation problem to the solu-tion of a maximization problem for multicommodity network flows is given. Fig.: 4. Refs.: 5 titles.
+сorporate information system, survivability, network flows, peak flow, multicommodity network flow, communication links.
+References</td><td>1. Додонов А.Г., Флейтман Д.В. К вопросу живучести корпоративных информационных си-стем. // Реєстрація, зберігання і оброб. даних. — 2004. — Т. 6, № 2. — С. 33–41.<br>2. Зайченко Е.Ю., Зайченко Ю.П. Задача о нахождении максимального потока в сетях АТМ и метод ее решения // Наукові праці Донецького національного технічного університету. Вип. 48: / [Редкол.: Кунцевич В.М. (голова) та ін.]<br>3. Зайченко Е.Ю. Сети АТМ: Моделирование, анализ и оптимизация. — К., 2003.<br>4. Флейтман Д.В. Жизненный цикл и живучесть корпоративных информационных систем. // Реєстрація, зберігання і оброб. даних. — 2004. — Т. 6, № 3. — С. 74–84.<br>5. Ху Т. Целочисленное программирование и потоки в сетях. — М.: Мир, 1974.
+File
+RZOD2_04.doc
+null

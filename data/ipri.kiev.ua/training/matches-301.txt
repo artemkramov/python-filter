@@ -1,0 +1,12 @@
+﻿2013-1-11
+13. — Vol. 15, N 1
+100-110
+alt="" width="50">PDF,DOC
+Applied Models for Complex Method of Advanced Diagnostics of Complex Dynamic Objects Operation
+Chokha Y.M.
+Models of implementation of universal integrated control calculation method and especially its practical implementation in the environment of the settlement and information systems to ensure operational depth evaluation of the current technical state of typical complex aircraft objects have been analyzed. Fig.: 6. Refs: 5 titles.
+automated data processing, in-depth diagnostics, complex method, object of exploitation.
+References</td><td>
+File
+1-11.pdf
+null

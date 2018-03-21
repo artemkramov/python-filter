@@ -1,0 +1,12 @@
+﻿2016-3-4
+16. — Vol. 18, N 3
+39–53
+alt="" width="50">PDF,DOC
+Diffraction Control of Optical Discs Microrelief
+Antonov E.E., Shyhovets A.V.
+Microrelief diffraction characteristics of optical discs with different profile of pits are studied. Calibration diffraction curves for polarized laser light are obtained for the determination of the optical parameters of microrelief. Diffraction properties of multilayer disk structures are calculated, including metalized disc surfaces. Tabl.: 1. Fig.: 11. Refs: 10 titles.
+optical disc, diffraction control, pit wall tilt, vector diffraction model, depth of the microrelief, disc metallization.
+References</td><td>
+File
+3-4.pdf
+null

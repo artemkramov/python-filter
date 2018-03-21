@@ -1,0 +1,12 @@
+﻿Mukan
+07. — Vol. 9, N 2
+26-32
+width="25px" alt="">PDF,DOC
+Algorithm of Testing the Hypothesis about Normality of a Random Vector
+Mukan O.V., Vasilenko V.A., Yegorov O.A., Arteev T.M.
+The algorithm of testing the hypothesis about Gaussian distribution of two-dimensional random vector is considered. The cumulative test as a measure of a divergence of selective and hypothetical dis-tribution in algorithm is used. Results of research of dependence of capacity of cumulative test from vol-ume of sample are given. The way of increasing efficiency of cumulative test is offered. Fig.: 5. Refs.: 5 titles.
+algorithm, normal random vector, hypothesis, cumulative test.
+References</td><td>1. Барзилович Е.Ю., Савенков М.В. Статистические методы оценки состояния авиационной техники. — М.: Транспорт, 1987. — 240 с.<br>2. Дружинин Г.В. Надежность автоматизированных производственных систем. — 4-е изд., пер. и доп. — М.: Энергоатомиздат, 1986. — 480 с.<br>3. Абрамов О.В., Бернацкий Ф.И., Здор В.В. Параметрическая коррекция систем управления. — М.: Энергоатомиздат, 1982. — 176 с.<br>4. Оптимизация радиоэлектронной аппаратуры / Маслов А.Я., Чернышов А.А., Ведерников В.В. и др. / Под. Ред. А.Я. Маслова, А.А. Чернышева. — М.: Радио и связь, 1982. — 200 с.<br>5. Мукан О.В., Бушмелев П.А., Олейник С.А. Математические модели оценки локальных по-казателей достоверности многоразового контроля пригодности однопараметрических объектов РЭО // Материалы ВНК училища.: Сб. статей. — К.:КВВАИУ, 1989. — Вып. 1. — С. 23–27.
+Файлы
+Algoritm_vektora_1_stolbec_22_03.doc
+null

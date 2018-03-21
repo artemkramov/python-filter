@@ -1,0 +1,12 @@
+﻿2015-3-9
+15. — Vol. 17, N 3
+83–91
+alt="" width="50">PDF,DOC
+Decision support within design-oriented organizational management by means of VBA
+Dodonov O.G., Kuzmichov А.I., Bocharov V.V.
+For rapid response of information system managing a project realized within Excel and changes of the original data one should reduce the number of main and subsidiary operations being performed manually. To do this, by means of embedded programming language VBA, it has been performed a service software module that automates the execution of these transactions in the form of multifunctional macros. Developed for practical use, the workbook template is built for project managers without programming experience. The size of the network model «works-hubs» with an expanded set of precedence relations is not limited. It is planned solving the problem of planning and scheduling of the project by critical path method (CPM) and simulation (PERT) reducing the duration of the project tasks in the «time-cost» construction time schedule and resource demand of the circuit network model. Fig.: 3. Refs: 5 titles.
+рroject management, net model of a project, schedule of a project, time-cost problem, method CPM/PERT, spreadsheet model of a project.
+References</td><td>
+File
+3-9.pdf
+null

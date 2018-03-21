@@ -1,0 +1,12 @@
+﻿2010-4-2
+10. — Vol. 12, N 2
+13-21
+alt="">PDF
+Combining of Methods of Fast Shading
+Romaniuk A.N., Romaniuk O.V., Malovanyi
+The issues of combined usage of different shading methods in computer graphic systems to increase productivity of final visualization are considered. Fig.: 4. Refs: 6 titles.
+shading, rendering, diffuse and specular components of color.
+References</td><td>1. Херн Д. Компьютерная графика и стандарт OpenGL / Д. Херн, М. Бейкер. — М.: Издательский дом «Вільямс», 2005.— 1168 с.<br>2. Akenine-Moller T. Real-Time Rendering / T. Akenine-Moller, N. Hoffman., E. Haines. Wellesley: A. Peters, 2007. —1045 р.<br>3. Романюк О.Н. Високопродуктивні методи та засоби зафарбовування тривимірних графічних об’єктів. Монографія / О.Н. Романюк, А.В. Чорний. — Вінниця: УНІВЕСУМ-Вінниця, 2006. — 190 с.<br>4. Калютов А.В. Введение в фотореалистическую графику / А.В. Калютов. — СПб.: Политехника, 2006. — 118 с.<br>5. Роджерс Д. Математические основы машинной графики / Д. Роджерс, Дж. Адамс: Пер. с англ. — М.: Мир, 2001. —604 с. 6<br>. Романюк О.Н. Адаптивна нормалізація векторів нормалей при визначенні дифузної та спекулярної складових кольору / О.Н. Романюк, О.М. Мельников // Реєстрація, зберігання і оброб. даних. — 2006. — Т. 8, № 3.— С. 11–19.
+Файлы
+2010-4-2.pdf
+null

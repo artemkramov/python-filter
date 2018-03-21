@@ -1,0 +1,12 @@
+﻿Tocenko
+05. — Vol. 7, N 1
+94-103
+width="50" alt="">PDF,DOC
+Expert System of Diagnosing by Non-Structural Characteristics
+Totsenko V.G., Petrova E.A., Chernyavskaya L.А.
+Expert system of fruit trees diagnosing by non-structural characteristics is described. For determin-ing non-structural characteristics values methods of paired comparisons of a diagnosis object which a basic standard are used. Methods and results of an experimental investigation of dependence of results authenticity on user qualification which give evidence of their poor correlation are given. Tabl.: 3. Fig.: 7. Refs.: 3 titles.
+diagnostics, expert systems.
+References</td><td>1. Тоценко В.Г. Методы и системы поддержки принятия решений. Алгоритмический аспект. — К.: Наук. думка. — 2002. — 382 с.<br>2. Тоценко В.Г. Обобщенная концепция экспертных систем диагностирования // Электрон. моделирование. — 1995. — № 5. — С. 26–33.<br>3. Тоценко В.Г., Скрипник И.В. Метод определения оценок надежности сетей // Электрон. моделирование. — 1992. — № 5. — С. 55–58.
+File
+RZOD2_04.doc
+null

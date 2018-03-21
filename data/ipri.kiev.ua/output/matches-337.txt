@@ -1,0 +1,12 @@
+﻿2014-1-6
+14. — Vol. 16, N 1
+50-55
+alt="" width="50">PDF,DOC
+Specialized Processors for Realization of Authentication of Subjects (objects) of Interaction Based on Recurrent Sequences
+Iaremchuk I.E.
+The principles of specialized processors for realization of authentication of subjects (objects) of interaction based on the Vk recurrent sequences are presented. Compared to the known analogues the developed processors, although less speedy, but provide a higher level of cryptographic reliability during authentication and also have larger possibilities of their application in systems using mathematical apparatus of the recurrent sequences. Fig.: 2. Refs: 5 titles.
+specialized processors, information security, cryptography, authentication of interaction parties, recurrent sequences.
+References</td><td>
+File
+1-6.pdf
+null

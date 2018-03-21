@@ -1,0 +1,12 @@
+﻿2010-1-11
+10. — Vol. 12, N 1
+89-105
+width="50" alt="">PDF,DOC
+Evaluation of Enterprise Quality Management System on the Basis of Cluster Analysis
+Kovalev A.I.
+Quantitative method of evaluation of enterprise functioning quality that is necessary for revealing the effectiveness of realizable improvements is offered. The evaluation is carried out within the scope of auditing the enterprise management system and it is considered as recognition of regularities in audit data (clusters). The numerical presentation of audit data by way of example of choosing recognition algorithm in their fixed classes and construction of checking procedure are considered. The numerical set of audit observation in the form of data profiles and dendrogram is given. Tabl.: 3. Fig.: 4. Refs: 7 titles.
+quality, recognition, evaluation, cluster analysis, audit, enterprise.
+References</td><td>1. ДСТУ ISO 19011:2003. Настанови щодо здійснення аудитів систем управління якістю і (або) екологічного управління (ISO 19011:2002, IDT). — К.: Держспоживстандарт України, 2004. — 24 с. Оценивание системы управления качеством предприятия на основе кластерного анализа ISSN 1560-9189 Реєстрація, зберігання і обробка даних, 2010, Т. 12, № 1 105<br>2. Оптнер С. Л. Системный анализ для решения проблем бизнеса и промышленности / Стан- форд Л. Оптнер; пер. с англ. — М.: Концепт, 2006. — 206 с.<br>3. ДСТУ ISO 9001:2009. Системи управління якістю. Вимоги. Введ. 01.09.2009. — К.: Держс- поживстандарт України, 2009. — 23 с.<br>4. Машинная геометрия и графика / Аджиев В.Д., Пасько А.А., Пилюгин В.В. и др. — М.: Знание, 1990. —47 с.<br>5. Факторный, дискриминантный и кластерный анализ / Дж.-О. Ким, Ч.У. Мьюллер, У.Р. Клекка и др.; пер. с англ. под ред. И.С. Енюкова. — М: Финансы и статистика, 1989. — 215 с.<br>6. Енюков И.С. Методы, алгоритмы, программы многомерного статистического анализа / И.С. Енюков. — М.: Финансы и статистика, 1989. — 232 с.<br>7. Статистические методы для ЭВМ / Под ред. К. Энслейна, Э. Рэлстона, Г.С. Уилфа; пер. с англ. под ред. М.Б. Малютова. — М.: Наука, 1986. — 464 с.
+File
+RZOD2_04.doc
+null

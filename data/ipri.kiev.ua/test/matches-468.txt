@@ -1,0 +1,12 @@
+﻿Vinnickii
+06. — Vol. 8, N 1
+74-83
+width="25px" alt="">PDF,DOC
+Method of Estimation for Effective Functioning of a Personal Radio Call System
+Konahovich G.F., Vinnitskyi V.P., Potapov V.G.
+Analysis of the personal radio call system functioning is reduced to the researching of the behaviour in time of the logic-dynamical stochastic network. The introduced and improved system of analytical procedures as a method for estimating effectiveness of such class telecommunication systems is offered. Fig.: 3. Refs: 4 titles.
+personal radio call, model of functioning, convolution of functions, message delivery.
+References</td><td>1. Бабаков В.Ю., Воробьев О.В., Карпов Л.П., Певцов Н.В., Привалов А.А., Рыжков А.Е., Си-верс М.А. Современные системы персонального радиовызова. — СПб.: Судостроение, 1998. — 72 с.<br>2. Кокс Д.Р., Смит В.Л. Теория восстановления — М.: Сов. радио, 1967. — 299 с.<br>3. Деч Г. Руководство к практическому применению преобразования Лапласа и z-преобра-зования — М.: Наука, 1971. — 288 с.<br>4. Вінницький В.П., Поліщук В.Г. Термінальне устаткування та передавання інформації в те-лекомунікаційних системах — К.: ІВЦ видавництво «Політехніка», 2004. — 436 с.
+File
+Gotovaja_statja.doc
+null

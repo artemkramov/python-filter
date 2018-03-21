@@ -1,0 +1,12 @@
+﻿2009-3-9
+09. — Vol. 12, N 4
+75-82
+alt="">PDF
+Three-Level Сorporate Project Management System
+Kuzminykh V.О.
+The question of the formation of corporate project management system is considered. An approach for creating three-level structure of corporate project management system in enterprises with a hierarchical organizational structure is proposed. Fig.: 1. Tab.: 1. Refs: 3 titles.
+corporate project management system, project management, hierarchical organizational structure.
+References</td><td>1. Руководство к своду знаний по управлению проектами (Руководство PMBOK). — Институт управления проектами, 2004. —238 с.<br>2. Мир управления проектами. Основы, методы, организация, применение; под ред. Х. Решке, Х. Шелле. — М.: Аланс, 1994.<br>3. Фатрелл Р. Управление программными проектами / Р. Фатрелл, Д. Шафер, Л. Шафер; пер. с англ. — М.: Вильямс, 2003.
+Файлы
+2009-3-9.pdf
+null

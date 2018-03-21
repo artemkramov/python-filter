@@ -1,0 +1,12 @@
+﻿2015-1-7
+14. — Vol. 17, N 1
+77-87
+alt="" width="50">PDF,DOC
+Implementation of scenario approach in project management on the basis of typical tasks
+Koval O.V., Kuzminikh V.A.
+The problems of communication between the functional units of the tasks and objectives of the project schedule are discussed. For businesses with a functional organizational structure there is proposed using the scenarios of projects on the basis of typical tasks that are defined by functional responsibilities units. Creation a repository of scripts and a repository of typical tasks has been proposed. The research presents the data processing scheme for the analysis of project implementation. The structure of the software project management scenarios using typical problems has been suggested. Fig.: 3. Refs: 10 titles.
+corporate system of project management, project scenario, typical tasks , repository of scripts, repository of tasks, project registry.
+References</td><td>
+File
+1-7.pdf
+null

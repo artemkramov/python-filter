@@ -1,0 +1,12 @@
+﻿2015-3-5
+15. — Vol. 17, N 3
+48–55
+alt="" width="50">PDF,DOC
+Building a digital signature algorithm with use of functions of generalized quaternions
+Kalinovsky Jа.A., Boyarinova Yu.E., Sukalo A.S.
+The investigation touches upon the use of hypercomplex number system of the fourth dimension: a generalization of quaternions for to build a digital signature algorithm. Tabl.: 3. Refs: 18 titles.
+generalized quaternions, exponential function, logarithmic function, digital signature.
+References</td><td>
+File
+3-5.pdf
+null

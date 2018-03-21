@@ -1,0 +1,12 @@
+﻿Novotarskii
+07. — Vol. 9, N 4
+49-59
+width="25px" alt="">PDF,DOC
+Process Algebra for Modeling Complex Systems with Real Working Loading
+Nesterenko B.B., Novotarskiy M.A.
+A brief review of modern means for the description of complex systems models is given. It is shown that for increase of adequacy of models the problem of development of new low-level formal means for the objects’ description (process algebras) is actual. Basic concepts of known process algebras are shortly described and the process algebra that is focused on simulation of complex systems with real working loading is offered. Questions of definition of equivalence of a system and a model are considered. An example of the description of the homogeneous computing environment in terms of process algebra is given. Fig.: 1. Refs.: 12 titles.
+process algebra, process, action, behavioural equivalence, strong bisimulation.
+References</td><td>1. Fritzson P. Principles of Object-Oriented Modeling and Simulation with Modelica 2.1. — San Francisco: Wiley-IEEE Press, 2004. — 944 p.<br>2. Karris T.S. Introduction to Simulink with Engineering Applications. — Fremont: Orchard Publi-cations, 2006. — 584 p.<br>3. Дьяконов В. VisSim+MathCad+MATLAB. Визуальное математическое моделирование. — М.: Солон-Пресс, 2004. — 384 с.<br>4. Буч Г., Якобсон А. UML. Классика CS. — С.Петербург: Из-во «Питер», 2006. — 736 с.<br>5. Питерсон Дж. Теория сетей Петри и моделирование систем. — М.: Мир, 1984. — 264 с.<br>6. Нестеренко Б.Б., Новотарский М.А. Мультипроцессорные системы. — К.: Институт ма-тематики АН Украины, 1995. — 408 с.<br>7. Milner R. Communication and Concurrency. — London: Prentice-Hall, 1989. — 260 p.<br>8. Хоар Ч. Взаимодействующие последовательные процессы. — М.: Мир, 1989. — 264 с.<br>9. Bergstra J.A., Klop J.W. Algebra for Communicating Processes with Abstraction // J. of Theoret-ical Computer Science. — 1985. — Vol. 37. — P. 77–121.<br>10. Hilston J. A Compositional Approach to Performance Modelling. — Cambridge University Press. —1996. — 168 p.<br>11. Glynn P.W. A GSMP Formalism for Discrete Event Simulation // Proc. of the IEEE. — 1989. — Vol. 77, N 1. — P. 14–23.<br>12. Main M. Trace, Failure and Testing Equivalences for Communicating Processes // International Journal of Parallel Programming. — 1987. — Vol.16, N 5. — P. 383–400.
+File
+statja.doc
+null

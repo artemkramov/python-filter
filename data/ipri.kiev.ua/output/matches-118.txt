@@ -1,0 +1,12 @@
+﻿2009-3-5
+09. — Vol. 12, N 4
+42-52
+alt="">PDF
+Neural-Network Property Analysis and Comparison Criteria for Solving Diagnostics and Pattern Recognition Problems
+Subbotin S.A.
+The set of criteria for numerical estimation of neural and neuro-fuzzy network properties is proposed. It allows to estimate flexibility, uniformity, computation parallelism, hierarchy, preliminary organization in training, functional modularity, generalization, trainability, interpretability, reliability, memory distribution, model variability, and effectiveness. Applying the proposed criteria in practice allows to automate the process of neural-network model building for solving diagnostics and pattern recognition problems. Refs: 7 titles.
+neural-network, neuro-fuzzy network, criterion of comparison, pattern recognition.
+References</td><td>1. Нейросетевые системы управления / В.А. Терехов, Д.В. Ефимов, И.Ю. Тюкин, В.Н. Антонов. — СПб.: Изд-во С.-Петербургского ун-та, 1999. —265 с.<br>2. Миркес Е.М. Нейроинформатика: учеб. пособ. для студентов. — Красноярск: ИПЦ КГТУ, 2002.— 347 с.<br>3. Субботін С.О. Неітеративні, еволюційні та мультиагентні методи синтезу нечіткологічних і нейромережних моделей: Монографія / С.О. Субботін, А.О. Олійник, О.О. Олійник; під заг. ред. С.О. Субботіна. — Запоріжжя: ЗНТУ, 2009. —375 с.<br>4. Cубботин С.А. Методика и критерии сравнения моделей и алгоритмов синтеза искусственных нейронных сетей // Радiоелектронiка. Iнформатика. Управлiння. — 2003. — № 2. — С. 109–114.<br>5. Субботин С.А. О сравнении нейросетевых моделей // Нейроинформатика и ее приложения: Материалы XI Всероссийского семинара, 3–5 октября 2003 г.; под ред. А.Н. Горбаня, Е.М. Миркеса. — Красноярск: ИВМ СО РАН, 2003. — С. 152–153.<br>6. Нейрокомпьютер как основа мыслящих ЭВМ. — М.: Наука, 1993. — 239 с.<br>7. Головко В.А. Нейронные сети: обучение, организация и применение: учеб. пособ. для вузов / Общ. ред. А.И. Галушкина. — М.: ИПРЖР, 2001.— 256 с.
+Файлы
+2009-3-5.pdf
+null

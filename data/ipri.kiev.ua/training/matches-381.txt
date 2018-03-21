@@ -1,0 +1,12 @@
+﻿2015-1-10
+14. — Vol. 17, N 1
+108-120
+alt="" width="50">PDF,DOC
+Self-learning neural network technologies in the systems of structural recognition of visual objects
+Berestovskii A.E., Vlasenko A.N., Gorokhovatskiy V.A.
+The issues of analysis and image recognition in intelligent systems of computer vision were discussed. Based on Kohonen network, there was proposed technology of self-recognition for the system of structural recognition of visual objects. As a result, the transformation of descriptions to the vector format takes place, which reduces the computational cost. The results of experiments are shown. Tabl.: 5. Fig.: 4. Refs: 7 titles.
+computer vision, image recognition, characteristic signs, structural description, characteristic features, structural description, self-organizing neural network.
+References</td><td>
+File
+1-10.pdf
+null

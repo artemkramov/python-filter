@@ -1,0 +1,12 @@
+﻿2012-3-12
+12. — Vol. 14, N 3
+115–120
+alt="" width="50">PDF,DOC
+Improving Feedback with an Expert While Defining Criteria Priorities
+Kadenko S.V.
+An idea is suggested for simplifying the procedure of feedback with an expert while defining the relative alternative (decision variant) weights of the estimation criteria based on given rankings of the alternatives according to these criteria and global criterion G. Instead of swapping relative alternatives in all mono-criterion rankings it is suggested to swap alternatives only in their rankings according to «dicta-tor» criteria, i.e., in rankings, closest to the global ranking of the alternatives. Result of the improved feedback procedure is a set of mono-criterion rankings allowing to get the given global ranking after ag-gregation. Tabl.: 3. Refs: 9 titles.
+expert, alternative, ordinal estimate, ranking, weight, criterion, feedback.
+References</td><td>
+File
+3-12.pdf
+null

@@ -1,0 +1,12 @@
+﻿2016-2-1
+16. — Vol. 18, N 2
+6–12
+alt="" width="50">PDF,DOC
+Functionally oriented model of adaptive short-term forecasting of electrical load
+Voloshko A.V., Music N.Y. and Bochulya P.O.
+A method for adaptively selecting of threshold projected wavelet coefficients and the method of electrical load forecasting by segmenting the information signal on the low and high frequency components have been proposed. A comparative analysis of the accuracy of prediction of the proposed method with known methods of forecasting has been demonstrated. Tabl.: 1. Fig.: 3. Refs: 21 titles.
+forecasting, wavelet analysis, forecasting error.
+References</td><td>
+File
+2-1.pdf
+null

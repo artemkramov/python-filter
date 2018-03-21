@@ -1,0 +1,10 @@
+﻿null
+S. D. Shtovba</em><br></p><p>
+109719
+6579">No 2 (2008
+109719/0">Shtovba
+Modeling the quantitative figures of operator activity reliability by fuzzy knowledge bases
+S. D. Shtovba
+Application of various fuzzy knowledge bases for modeling multifactor operator activity reliability is studied. The proposed constrains provide fuzzy model transparency during training upon experimental data set. Some examples of fuzzy reliability model creation are presented and compared with the regression curves.
+109719/104772">PDF (Українська)</a
+—

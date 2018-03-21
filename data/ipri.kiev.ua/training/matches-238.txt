@@ -1,0 +1,12 @@
+﻿2011-4-6
+11. — Vol. 13, N 4
+51-59&gt;
+alt="" width="50">PDF,DOC
+Features of Data Acquisition and Recovery from Modern Digital Video Recorders
+Kozhenevsky S.R., Prokopenko S.D.
+The article is dedicated to the problem of data acquisition and recovery from modern digital video recorders (DVR). Information about DVR design and principles of operation is given. The solution to the problem of gaining access to video records is presented. Methods of data acquisition and recovery from DVRs and their features are analyzed. Practical advices about the organization of data acquisition from DVRs are given.
+digital video recorder, DVR, data acquisition, data recovery.
+References</td><td>1. На рынке систем видеонаблюдения отсутствуют единые стандарты на спо- собы хранения, обработки и экспорта видеозаписей. Это не позволяет разработать единую процедуру съема и восстановления данных, которая была бы применима для всех ситуаций и рынке моделей видеорегистраторов.<br>2. Для выполнения работ по съему и восстановлению данных требуются зна- ния о принципах хранения данных на DVR и высокая квалификация специа- листов.<br>3. Разработанные авторами практические рекомендации позволяют миними- зировать риск повреждения и искажения видеозаписей при съеме и восстановле- нии данных на видеорегистраторах.
+File
+4-6.pdf
+null

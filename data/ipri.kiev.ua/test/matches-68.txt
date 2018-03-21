@@ -1,0 +1,12 @@
+﻿Sigal
+08. — Vol. 10, N 2
+128-133
+width="25px" alt="">PDF,DOC
+Algorithm of Resource Allocation Between Projects at Threshold Function of the Degree of Project’s Performance
+Sigal T.G.
+The algorithm of resource allocation when function of a degree of project’s performance is thresh-old function is offered. Thus hierarchy of the purposes is linear. The example of work of decision-making support system on resource allocation between «Solon-MKW» projects in which the given algorithm has been realized is presented. Tabl.: 1. Fig.: 4. Refs.: 9 titles.
+project, resource allocation, function of a degree of project’s performance, hierarchy of the purposes.
+Ссылки</td><td>1. Tavana M., Smither J.W., Anderson R.V. D-side: A Facility and Workforce Planning Group Multi-Criteria Decision Support System for Johnson Space Center // Computers &amp; Operation Research. — 2007. — Vol. 34, Issue 6. — P. 1646–1673.<br>2. www.expert_choice.com<br>3. АСЕО ПРИОРИТЕТНОСТЬ ФИНАНСИРОВАНИЯ // SOFTEL: сто компьютерных про-грамм для бизнеса (каталог бизнес-софта, 1997–1998). — М.: Хамтех Паблишер, 1997. — С. 149–155.<br>4. Zopounidis C., Doumpos M. A Preference Dissaggregation Decision Support System for Fi-nancial Classification Problems // European Journal of Operational Research. — 2001. — Vol. 130, N 2. — Р. 402–413.<br>5. Radulescu C.Z., Radulescu M. Project Portfolio Selection Models and Decision Support // Studies in Informatics and Control. — 2001. — Vol. 10, N 4. — Р. 29–35.<br>6. Тоценко В.Г., Сігал Т.Г. Мультикритеріальна система підтримки прийняття рішень з ро-зширеними можливостями // Реєстрація, зберігання і оброб. даних. — 2005. — Т. 7, № 3. — C. 98–107.<br>7. Montero G., Rodriguez E., Montenegro R., Escobar J.M., Gonzalez-Yuste J.M. Genetic Algo-rithms for an Improved Parameter Estimation with Local Refinement of Tetrahedral Meshes in a Wind Model // Advances in Engineering Software. — 2005. — Vol. 36, Issue 1. — P. 3–10.<br>8. Aguilar Madeira J.F., Rodrigues H., Pina H. Multi-Objective Optimization of Structures To-pology by Genetic Algorithms // Advances in Engineering Software. — 2005. — Vol. 36, Issue 1. — P. 21–28.<br>9. Lee Z.-J., Lee C.-Y. A Hybrid Search Algorithm with Heuristics for Resource Allocation Problem // Information Sciences. — 2005. — Vol. 173. — P. 155–167.
+Файлы
+Statja_porog_proekty1.doc
+null

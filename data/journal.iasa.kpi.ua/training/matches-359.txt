@@ -1,0 +1,11 @@
+﻿s
+O. M. Terentyev</em><br><br>Ukraine</p><p></p><p>Терентьєв Олександр Миколайович,</p><p>інженер першої категорії Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p></p></div><div></div><div><p><em>P. I. Bidiuk</em><br><br>Ukraine</p><p></p><p>Бідюк Петро Іванович,</p><p>професор, доктор технічних наук, професор Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p></p></div><div></div><div><p><em>L. O. Korshevnyuk</em><br><br>Ukraine</p><p></p><p>Коршевнюк Лев Олександрович,</p><p>аспірант Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p>
+108436
+6423">No 2 (2009
+108436/0">Terentyev
+Algorithm of probabilistic inference in Bayes networks
+O. M. Terentyev, P. I. Bidiuk, L. O. Korshevnyuk
+A novel algorithm for formation of probabilistic inference in Bayes networks on the basis of the training data, which is more exact and simple compared to conventional ones, is offered.
+108436/103386">PDF (Русский)</a
+—
+null

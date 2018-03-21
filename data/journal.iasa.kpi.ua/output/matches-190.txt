@@ -1,0 +1,10 @@
+﻿null
+D. A. Zaitsev</em><br>професор Міжнародного гуманітарного університету, Україна, Одеса<br>Ukraine</p><p></p><p>Зайцев Дмитро Анатолійович,</p><p>доктор технічних наук, професор Міжнародного гуманітарного університету, Україна, Одеса</p><p>
+71925
+4265">No 2 (2012
+71925/0">Zaitsev
+Inhibitor Petri Net, which performs any given Turing machine
+D. A. Zaitsev
+The inhibitor Petri net with a fixed structure that executes an arbitrary given Turing machine was constructed. The tape of the Turing machine, its program and states are encoded by the marking of 10 dedicated places of the Petri net. The rules of Turing machine work are encoded by a single control flow within the inhibitor Petri net, which is composed of the sequence operators, branching, and cycle. Subnets which implement arithmetic, comparison and copying operations are used.
+71925/66902">PDF (Русский)</a
+—

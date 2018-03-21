@@ -1,0 +1,12 @@
+﻿Zinchuk
+08. — Vol. 10, N 2
+95-100
+width="25px" alt="">PDF,DOC
+Method of Generalization of Thematic Cards by a Colour Analysis
+Gaydarzhy V.I., Zinchuk A.Ya.
+Main destination of thematic cards is providing of users with spatially-localized thematic infor-mation about a natural environment and socio-economic objects and phenomena for the solution of national-economic and scientific problems, and also for the general aims of cognition of the world around. Technology based on a visual analysis and generalization of graphic image of thematic cards is considered. The presence of a set of simple thematic cards on the basis of which one can obtain the generalized card by using one of considered methods of colour analysis is assumed. Fig.: 3. Refs.: 8 titles.
+thematic card, generalized thematic card, visual analysis, technology.
+Ссылки</td><td>1. DATA+ [Электронный ресурс]. — Режим доступа: www.dataplus.ru<br>2. ERSI [Электронный ресурс]. — Режим доступа: www.esri.com<br>3. Intergraph [Электронный ресурс]. — Режим доступа: www.intergraph.com<br>4. Pitney Bowes MapInfo [Электронный ресурс]. — Режим доступа: www.mapinfo.com<br>5. Билич Ю.С., Васмут А.С. Проектирование и составление карт. — М.: Недра, 1984. — 368 с.<br>6. Карты [Электронный ресурс]. — Режим доступа: http://atlas.edu.ru/goskomstat/gis.php?data=A1<br>7. Мир Карт [Электронный ресурс]. — Режим доступа: http://www.mirkart.ru/russia/maplist.shtml<br>8. Тикунов В.С. Моделирование в картографии: Учебник. — М.: Изд-во МГУ, 1997. — 405 с.
+Файлы
+Statja.doc
+null

@@ -1,0 +1,12 @@
+﻿2012-4-8
+12. — Vol. 14, N 4
+73–80
+alt="" width="50">PDF,DOC
+Methodical Aspects of the Conceptual Design of Automated Systems
+Samokhvalov Yu.Ya., Naumenko E.M., Burba O.I.
+An approach to structuring the process of conceptual design of automated systems has been considered. There are offered the methods of formalization of the stage of system conception variants, choice a variant that best takes into account user requirements, and the expected results of the selected variant. Tabl.: 3. Fig.: 3. Refs: 17 titles.
+automated system, conception, user requirements, the method of analysis of hierarchies, efficiency.
+References</td><td>
+File
+4-8.pdf
+null

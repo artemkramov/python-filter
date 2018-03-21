@@ -1,0 +1,11 @@
+﻿s
+A. T. Djamalov</em><br>заступник генерального директора Національного аерокосмічного агенства Науково-дослідного інституту аерокосмічної інформатики, Азербайджан, Баку<br>Azerbaijan</p><p></p><p>Джамалов Алісейн Талиб,</p><p>кандидат технічних наук, заступник генерального директора Національного аерокосмічного агенства Науково-дослідного інституту аерокосмічної інформатики, Азербайджан, Баку</p><p></p></div><div></div><div><p><em>R. M. Ragimov</em><br>заступник директора Національного аерокосмічного агенства Науково-дослідного інституту аерокосмічної інформатики, Азербайджан, Баку<br>Azerbaijan</p><p></p><p>Рагімов Рауф Махмуд,</p><p>кандидат технічних наук, заступник директора Національного аерокосмічного агенства Науково-дослідного інституту аерокосмічної інформатики, Азербайджан, Баку</p><p>
+74200
+4375">No 4 (2011
+74200/0">Djamalov
+Forecasting of soil erosion processes on the routes of the pipelines based on geoinformation technologies and high resolution satellite images
+A. T. Djamalov, R. M. Ragimov
+The possibility of forecasting of erosion processes in the soil on the route of the main pipelines (MP), which allows to select the optimal route of the MP with minimal risk, is investigated. Universal Soil Loss Equation (USLE) is compiled, all the variables in USLE are defined. The raster map of USLE model for the selected test area and table estimates of the intensity of soil loss are received.
+74200/69665">PDF (Русский)</a
+—
+null

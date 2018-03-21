@@ -1,0 +1,11 @@
+﻿s
+M. Z. Zgurovskiy</em><br><br>Ukraine</p><p></p><p>Згуровський Михайло Захарович,</p><p>академік НАН України, професор, доктор технічних наук, ректор Національного технічного університету України «КПІ», директор Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p></p></div><div></div><div><p><em>A. I. Petrenko</em><br><br>Ukraine</p><p></p><p>Петренко Анатолій Іванович,</p><p>професор, доктор технічних наук, завідувач кафедри систем автоматизованого проектування Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p>
+107130
+6364">No 1 (2010
+107130/0">Zgurovskiy
+Е-science on a way to the semantic Grid Part 1: Conversion of Web- and Grid- technologies
+M. Z. Zgurovskiy, A. I. Petrenko
+The evolution of Grid-systems on the way to the so-called semantic Grid, in which information and services have distinct definitions promoting cooperative work for computers and people, has been investigated. Also, the tendency to convention of Grid- and Web-services on the basis of using the service-oriented architecture (SOA), where Web is used as a Grid information infrastructure, is shown.
+107130/102105">PDF (Українська)</a
+—
+null

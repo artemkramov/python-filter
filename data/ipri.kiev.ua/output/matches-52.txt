@@ -1,0 +1,12 @@
+﻿Gorbov
+08. — Vol. 10, N 2
+3-12
+width="25px" alt="">PDF,DOC
+The Using of Methods for Accelerated Ageing of the Optical Media for Estimating their Life Expectancy
+Gorbov I.V.
+Stress conditions for accelerated ageing of optical media and changing of their properties during ar-tificial ageing are analyzed. A possibility of estimating data life expectancy of optical media and deter-mining a period of time, after which a stored information must be recopied, is shown. Tabl.: 2. Fig.: 7. Refs.: 8 titles.
+optical disc, failure, life expectancy, accelerated ageing, updated errors, decoder, stress conditions.
+References</td><td>1. Basil Manns and Chandru J. Shahani. Longevity of CD Media / Research at the Library of Congress. — Washington DC. — 2003. — 14 p.<br>2. Slattery O., Lu R., Zheng J., Byers F., Tang X. Stability Comparison of Recordable Optical Discs — a Study of Error Rates in Harsh Conditions // Journal of Research of the National Institute of Stand-ards and Technology. — 2004. — Vol. 109, N 5. — P. 517–524.<br>3. ISO 18921:2002. Imaging Materials — Compact Discs (CD-ROM) — Method for Estimating the Life Expectancy Based on the Effects of Temperature and Relative Humidity. — 1-st ed. — 2002. — 21 p.<br>4. Byers F. Optical Discs for Archiving // National Institute of Standards and Technology, 2004. — Режим доступу: http://www.itl.nist.gov/div895/gipwog/StabilityStudy.pdf<br>5. Okino Y., Irie M., Kubo T., Okuda M. Estimating a Life Expectancy of Highdensity Recordable Optical Disks // Proc. SPTE. — 2005. — Vol. 5966. — Р. 5966 17-1–5966 17-4.<br>6. Левин Б.Р. Справочник по надежности / Пер. с англ. W. Grant Ireson. — М.: Мир, 1969. — Т. 1. — 340 с.<br>7. Okino Y., Irie M., Kubo T. A New Approach for Estimating the Life Expectancy of Optical Disk for Dogotal Archival Storage // Jap. J. Аppl. Phys. — 2005. — Vol. 44, N 5B. — P. 3513–3515.<br>8. Optical Media Longevity Study // National Institute of Standards and Technology, 2005. — Ре-жим доступу: http://www.itl.nist.gov/div895/gipwog/Public%20SP%20500-263%20November%202005.pdf
+Файлы
+Gorbov.doc
+null

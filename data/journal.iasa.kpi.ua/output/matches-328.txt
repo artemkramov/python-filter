@@ -1,0 +1,11 @@
+﻿s
+M. O. Sopin</em><br><br>Ukraine</p><p></p><p>Сопін Михайло Олегович,</p><p>кандидат фізико-математичних наук, доцент кафедри комп’ютерних систем і технологій Буковинського університету, Україна, Чернівці</p><p></p></div><div></div><div><p><em>Y. J. Vyklyuk</em><br><br>Ukraine</p><p></p><p>Виклюк Ярослав Ігорович,</p><p>кандидат фізико-математичних наук, доцент кафедри комп’ютерних систем і технологій Буковинського університету, Україна, Чернівці</p><p>
+107272
+6372">No 4 (2009
+107272/0">Sopin
+Socio-economic system management using noise
+M. O. Sopin, Y. J. Vyklyuk
+A dynamic system that models an advertising campaign process is examined for separate randomly changing factors. The features of the system adaptation to the environment are studies. The system stagnation effect is defined as location of the system in the region of control parameters, within which multiplicative noise-induced biostability exists. It is shown that a concern person can use the uncertainty factor to achieve his goal.
+107272/102240">PDF (Русский)</a
+—
+null

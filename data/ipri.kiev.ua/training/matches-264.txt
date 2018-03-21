@@ -1,0 +1,12 @@
+﻿2012-2-12
+12. — Vol. 14, N 2
+116-124
+alt="" width="50">PDF,DOC
+Rules for Improving Consistency of Individual Expert Rankings at the Moment of Group Assessments
+Kadenko S.V.
+It has been outlined the idea of an algorithm for organizing feedback with experts to improve con-sistency of individual alternative rankings during their aggregation. It is suggested that a set of individual rankings can be considered consistent enough for aggregation, of the summary relation obtained on their basis is transitive. If the relation is intransitive, aggregation of individual rankings is considered unac-ceptable, and experts should be addressed with suggestions of changing previously given rankings of al-ternatives in such a way that the summary relation becomes transitive. It is proposed the strict problem statement and the idea of solution algorithm. Tabl.: 5. Refs: 12 titles.
+expert estimates, ranking, rank, transitivity, alternative.
+References</td><td>
+File
+2-12.pdf
+null

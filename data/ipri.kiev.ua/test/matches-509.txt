@@ -1,0 +1,12 @@
+﻿Kuzemin
+07. — Vol. 9, N 1
+27-34
+width="25px" alt="">PDF,DOC
+Interpretation Model of the Avalanche Climate Appearance Environment Analysis
+Kuzemin A.Ya., Lyashenko V.V., Fastova D.V.
+An important problem of avalanche risks forecasting is considered. The model of situations formalization, which is based on the interpretation of distribution series of probabilities and delimitation of avalanche hazard degree sets, is offered. The possibility of using the model on real data is shown. Necessity for applying the given model for forecasting the time characteristic of avalanches descent is proved. Fig.: 5. Refs: 6 titles.
+geoinformation system, interpretation model, avalanche hazard, set formalization, avalanche climate forecasting.
+References</td><td>1. Гляциологический словарь. — Л.: Гидрометеоиздат, 1984. — 526 с.<br>2. Дяченко О.Н., Фастова Д.В., Куземин Ю.А. Прогнозирование лавинной опасности и при-нятие решений // Материалы 1-й Междунар. конф. «Глобальные информационные системы. Про-блемы и тенденции их развития». — Харьков: ХНУРЭ, 2006. — С. 290–291.<br>3. Fuhn P. An Оverview of Аvalanche Forecasting Мodels and Мethods. — Oslo: NGI. — 1998. — N 203. — Р. 19–27.<br>4. Buser O., Butler, M. and Good W. Avalanche Forecast by the Nearest Neighbors Method. —IAHS, 1987. — N 162. — P. 557–569.<br>5. Ижболдина В.А. Аэросиноптические условия образования и схода метелевых лавин на Кольском полуострове // Сб. Исследования снега и лавин в Хибинах. — Л., Гидрометеоиздат, 1975. — С. 51–63.<br>6. Исаев А.А. Опыт детализации специализированных прогнозов лавинной опасности для перевала Камчик // Тр. САНИГМИ. — 1998. — Вып. 157(238). — С. 14–19.
+Файлы
+statya_new.doc
+null

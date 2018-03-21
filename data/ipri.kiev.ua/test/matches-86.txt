@@ -1,0 +1,12 @@
+﻿Kozhenevskii
+08. — Vol. 10, N 4
+56-64
+width="25px" alt="">PDF,DOC
+Data Recovery from Hard Disks with Spindle Motor Seizure
+Kozhenevsky S.R.
+The technology for data recovery from hard disks w?th sp?ndle motor se?zure, design features of spindle motors and spindle motor controllers of modern hard disk drives are offered. Their operation in different motor modes is analyzed. Spindle motor control circuit that provides the capability of flexible adjustment of motor speed is proposed. Designed on its base controller can be used in systems for magnetic recording analysis and data recovery that use direct access to HDD platters. Design of equipment that allows to fix the spindle motor plates position and provide their alignment relative to spindle is proposed. Tabl.: 1. Fig.: 7. Refs: 4 titles.
+spindle motor, alignment, platters, controller, rotating speed stability, PWM, SmoothDrive technology, hard disk drive, rotor.
+References</td><td>1. Коженевский С.Р. Взгляд на жесткий диск «изнутри». Перезапись информации / С.Р. Коженевский. — К.: ООО «ЕПОС», 2006. — 120 с.<br>2. Коженевский С.Р. Безопасность хранения информации на жестких магнитных дисках. Ч. 1 / С.Р. Коженевский. — К.: ООО «ЕПОС», 2006. — 192 с<br>3. Коженевский С.Р. Взгляд на жесткий диск «изнутри». Механика и сервосистема / С.Р. Коженевский. — К.: ООО «ЕПОС», 2007. — 128 с.<br>4. Аппаратно-програмный комплекс «РС-3000» для восстановления работоспособности и ремонта HDD с интерфейсом IDE [Електронний ресурс]: сайт фирмы «ACE Laboratory» / www.acelab.ru
+Файлы
+Vosstanovlenie_informacii.doc
+null

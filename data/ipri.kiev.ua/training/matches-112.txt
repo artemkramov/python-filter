@@ -1,0 +1,12 @@
+﻿Cybulskaja
+05. — Vol. 7, N 1
+29-36
+width="50" alt="">PDF,DOC
+The Realization of Convolution with Recursive Procedures for 3D-Reconstruction Algorithms
+Zakidalsky A.I., Tsibulskaya E.A.
+A method of calculation of convolution, based on the application of fast Fourier transform (FFT) is considered. Variants of program realization of convolution are resulted. It is shown that the use of FFT allows to increase the calculation efficiency of convolution and to reduce the time of its performance. Tabl.: 1. Refs.: 5 titles.
+3D-reconstruction, convolution, fast Fourier transform.
+References</td><td>1. Терновой К.С., Синьков М.В., Закидальский А.И., Яник А.Ф. и др. Введение в современную томографию. — К.: Наук. думка, 1983. — 345 c.<br>2. Рабинер Л., Гоулд Б. Теория и применение цифровой обработки сигналов. — М.: Мир, 1978. — 848 с.<br>3. Cooley J.W. and Tukey J.W. An algorithm for the machine calculation of complex Fourier series // Math. Comput. — 1965. — Vol. 19, N 90. — Р. 297–301.<br>4. Войнаровский Мирослав. Программирование. Быстрое преобразование Фурье. — 2002. — http://psi-logic.narod.ru/fft/fft1.htm<br>5. Просеков О.В. Разработка алгоритма БПФ для нетрадиционного числа точек // Сб. докла-дов I научно-технической конф. молодых специалистов ЦНИИ «Морфизприбор» — Санкт-Петербург (Россия). — 2003, 22–25 апреля. — С. 116–121.
+File
+RZOD2_04.doc
+null

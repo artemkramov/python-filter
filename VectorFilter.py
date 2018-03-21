@@ -1,9 +1,9 @@
 import re
 
+
 class VectorFilter(object):
 
     def __init__(self):
-        self.row_length = 0
         self.word_count = 0
         self.ratio_length = 0
         self.ratio_symbols = 0
@@ -16,9 +16,6 @@ class VectorFilter(object):
         return vector
 
     def parse_row(self, row):
-        # Get length
-        self.row_length = len(row)
-
         # Get word count
         self.word_count = len(row.split())
 

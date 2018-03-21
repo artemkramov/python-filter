@@ -1,0 +1,10 @@
+﻿null
+D. M. Chabanenko</em><br>аспірант кафедри економічної кібернетики Черкаського національного університету ім. Богдана Хмельницького, Україна, Черкаси<br>Ukraine</p><p></p><p>Чабаненко Дмитро Миколайович,</p><p>аспірант кафедри економічної кібернетики Черкаського національного університету ім. Богдана Хмельницького, Україна, Черкаси</p><p>
+71778
+3681">No 3 (2012
+71778/0">Chabanenko
+Discrete Fourier-continuation as an algorithm of financial-economic time series forecasting
+D. M. Chabanenko
+The time series forecasting method, based on determination of the frequencies spectrum, is offered. The method is based on time series approximation in the interval training of analytic function, that contains the trend and harmonic oscillations combination. The effectiveness of the proposed method for the financial-economical time series forecasting is showed with the help of experimental approbation.
+71778/66770">PDF (Українська)</a
+—

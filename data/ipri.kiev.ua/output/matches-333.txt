@@ -1,0 +1,11 @@
+﻿Kalinovskii
+05. — Vol. 7, N 1
+32-42
+width="50" alt="">PDF,DOC
+Development and Research of Algorithms for Image Construction of Inverse Functions from Hypercomplex Variable
+Sinkov M.V., Kalinovsky J.A., Boyarinova Yu.E.
+hypercomplex numerical system, inverse functions, quaternion.
+References</td><td>1. Калиновский Я.А., Роенко Н.В., Синьков М.В. Методы построения нелинейностей в рас-ширениях комплексных чисел // Кибернетика и системный анализ. — 1996. — № 4. — C. 178–181.<br>2. Catoni F. Hypercomplex Numbers, Functions of Hypercomplex Variable and Physical Fields (RT/ERG/94/18). On line: http//www.studi131.casaccia.enea.it/enea/it/rt/exg9418.html (1994).<br>3. Синьков М.В., Калиновский Я.А., Постникова Т.Г., Синькова Т.В. Логарифмическая функ-ция от кватерниона // Реєстрація, зберігання і оброб. даних. — 2002. — Т. 4, № 1. — С. 35–37.<br>4. Кантор И.Л., Солодовников А.С. Гиперкомплексные числа. — М.: Наука, 1973. — 144 с.<br>5. Бранец В.Н., Шмыглевский И.П. Применение кватернионов в задачах ориентации твердо-го тела. — М.: Наука,1973. — 319 с.<br>6. Шабат Б.В. Введение в комплексный анализ. Ч. 1. — М.: Физматгиз, 1985. — 336 с.
+File
+RZOD2_04.doc
+null

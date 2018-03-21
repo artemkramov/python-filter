@@ -1,0 +1,12 @@
+﻿2015-1-8
+14. — Vol. 17, N 1
+88-98
+alt="" width="50">PDF,DOC
+Features on realization of measurement system for geophysical metrological vibration platform based on the laser digital interferometry
+Kosyak I.V., Tsubin O.A.
+The analysis of existing vibration platforms for certification of geophysical instruments is carried out. The research results of the geophysical metrological vibration platform based on the laser digital interferometry are presented and analyzed. The influence of interfering factors on the measurement of the value oscillation vibration platform is considered. Tabl.: 1. Fig.: 3. Refs: 18 titles.
+interferometer, vibration platform, laser, interference signal, testing, seismometer, calibration.
+References</td><td>
+File
+1-8.pdf
+null

@@ -1,0 +1,11 @@
+﻿s
+P. I. Anpilogov</em><br>Київський національний університет будівництва і архітектури, Київ<br>Ukraine</p><p></p><p>Анпілогов Павло Іванович,</p><p>кандидат технічних наук, доцент Київського національного університету будівництва і архітектури, Київ, Україна.</p><p></p></div><div></div><div><p><em>V. M. Mykhailenko</em><br>Кафедра прикладної математики Київського національного університету будівництва і архітектури, Київ<br>Ukraine</p><p></p><p>Михайленко Віктор Мефодійович,</p><p>доктор технічних наук, професор кафедри прикладної математики Київського національного університету будівництва і архітектури, Київ, Україна.</p><p>
+108905
+6467">No 3 (2008
+108905/0">Anpilogov
+Principles for creation of automated system of expert tariff estimation for services on water delivery and drainage
+P. I. Anpilogov, V. M. Mykhailenko
+The efficient formation of tariff services on water delivery and drainage is considered. The creation and introduction of the automated tariff estimation for this problem solution are offered. Special technical means for control and measurement of basic technological parameters are required for the system to be realized. Definition of these parameters is a necessary condition for formation of the objective values of the tariff cost component.
+108905/103818">PDF (Українська)</a
+—
+null

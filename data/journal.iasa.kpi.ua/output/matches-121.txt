@@ -1,0 +1,10 @@
+﻿null
+Yu. A. Zak</em><br><br>Germany</p><p>
+43899
+2553">No 3 (2013
+43899/0">Zak
+Criteria and methods of fuzzy sets comparison
+Yu. A. Zak
+The criteria and methods are developed to determine the relative preference, to compare and rank the performance of a decision represented by fuzzy sets. The choice of a specific algorithm for comparing and ranking operations &nbsp;is determined by the core of the &nbsp;problem and the subjective preferences of ta decision maker. The approaches are developed on the basis of a comparison of a&nbsp;group of indicators that guarantee an obtaining the desired result, as well as multi-criteria models for solving the formulated problem. The developed models and methods can be widely used in the portfolio selection problems, &nbsp;in the prospective production planning, &nbsp;fuzzy regression analysis and mathematical programming &nbsp;problems with fuzzy data.
+43899/40176">PDF (Українська)</a></div><div><h4>References</h4><br><div><p>Борисов В.В., Круглов В.В., Федулов Ф.С. Нечеткие цели и сети. — М.: Горячая линия, Телеком, 2007. — 284 с.</p><p>Лю Б. Теория и практика неопределенного программирования. Пер. с англ. — М.: БИНОМ, Лаборатория знаний, 2005. — 416 с.</p><p>Rommelfanger H.J. Entscheiden bei Unscharfe: Fuzzy Decision Support-</p><p>Systeme. — Berlin-Heidelberg: Springer-Verlag, Secondedition, 1994. — 328 s.</p><p>Rommelfanger H.J. Fuzzy-Optimierungsmodelle in praktischen Anwendungen. — W. Habenicht, B. Scheubrein, R. Scheubrein (Hrsg.) "Multi-Criteria und Fuzzy-Systeme in Theorie und Praxis". — Wiesbaden: Deutscher Universitäts-Verlag, 2003. — 325 s.</p><p>Duboi D., Prade H. Fuzzy Sets and Systems: Theorir and Applications. — New York, London, Toronto: Academie Press, 1980. — 326 p.</p><p>Зак Ю.А. Принятие многокритериальных решений. — М.: Экономика, 2011. — 236 с.</p><p>Zack Yu.A. A Determined Equivalent and Algorithms of Solving a Fuzzy-linaer Programming Problem // Journal of Automation and Information Sciences. — 2011. — 43, № 2. — P. 7–22.</p></div><br
+—

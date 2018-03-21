@@ -1,0 +1,12 @@
+﻿Sukach
+08. — Vol. 10, N 3
+37-45
+width="25px" alt="">PDF,DOC
+A Method of Redistribution of a Regional Automobile Transport Streams on the Basis of Simulation
+Sukach E.I.
+A stand of simulation of transport systems is offered. It allows to control and predict the condition of railway net and to automate the process of transit transport streams of a region in conditions of random influences. Refs: 4 titles.
+simulation, transit transport streams, transport net.
+References</td><td>1. Зайченко Ю.П. Исследование операций / Ю.П. Зайченко. — К.: Издат. дом «Слово», 2002. — 320 с.<br>2. Максимей И.В. Использование имитационного моделирования для нахождения инте-грального максимального потока в транспортной сети региона / И.В. Максимей, Е.И. Сукач, П.В. Гируц // Реєстрацiя, зберiгання i оброб. даних. — 2008. — Т. 10, № 1. — С. 49–58.<br>3. Сукач Е.И. Использование логико-вероятностного моделирования для исследования ха-рактеристик транспортной сети / Е.И. Сукач // Известия Гомельского гос. ун-та им. Ф. Скорины. — 2007. — № 5 (44). — С. 77–81.<br>4. Максимей И.В. Средства технологической поддержки имитационного эксперимента / И.В. Максимей, Е.И. Сукач. — Гомель: ГГУ им. Ф.Скорины, 2002. — 107 с.
+Файлы
+Statja.doc
+null

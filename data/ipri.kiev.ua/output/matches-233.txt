@@ -1,0 +1,12 @@
+﻿2011-4-2
+11. — Vol. 13, N 4
+11-22&gt;
+alt="" width="50">PDF,DOC
+The Normalized Form of Representation of the Exponential Function in Commutative Hypercomplex Number Systems
+Kalinovsky Ja.A., Bojarinova Ju.E.
+The normalized form of representation of the exponential function in the commutative hypercomplex number systems (HNSs), its structure, methods of construction and capabilities of use for solving the problem of determining the isomorphism of various HNSs is considered. Tabl.: 1. Refs: 5 titles.
+hypercomplex number system, exponential, characteristic equation, isomorphism, multiple roots.
+References</td><td>1. Синьков М.В. Конечномерные гиперкомплексные числовые системы. Основы теории. Применения / Синьков М.В., Бояринова Ю.Е., Калиновский Я.А. — К.: Инфодрук, 2010. — 388 с.<br>2. Hamilton W.R. Researches Respecting Quaternions: First Series / W.R. Hamilton // Transactions of the Royal Irish Academy. — 1848. — Vol. 21. — Рart 1. — P. 199–296.<br>3. Kahler U. Die Anwendung der Hyperkomplexen Funktionentheorie auf Die Losung Partieller Differentialgleichungen [Электронный ресурс] / U. Kahler. — 1998. — Режим доступа: www.tuchemnitz. de/mathematik/prom_habil/promint.pdf<br>4. Brackx F. The Exponential Function of a Quaternion Variable / F. Brackx // Applicable Analysis. — 1979. — Vol. 8. — P. 265–276.<br>5. Olariu S. Complex Numbers in n Dimensions [Электронный ресурс] / S. Olariu. — 2000. — Режим доступа: www.arXiv:math/0011044
+File
+4-2.pdf
+null

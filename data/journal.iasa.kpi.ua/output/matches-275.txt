@@ -1,0 +1,11 @@
+﻿s
+T. Paksoy</em><br><br>Turkey</p><p></p><p>Паксой Туран,</p><p>кандидат наук, доцент університету Сельчук, Турція, Конья</p><p></p></div><div></div><div><p><em>E. Özceylan</em><br><br>Turkey</p><p></p><p>Оцейлан Ерен,</p><p>кандидат наук, дослідник університету Сельчук, Турція, Конья</p><p></p></div><div></div><div><p><em>G.-W. Weber</em><br><br>Turkey</p><p></p><p>Вебер Герхард-Вільгельм,</p><p>професор Інституту прикладної математики Середньосхідного технічного університету, Турція, Анкара</p><p>
+106715
+6349">No 4 (2010
+106715/0">Paksoy
+A multi-objective mixed integer programming model for multi echelon supply chain network design and optimization
+T. Paksoy, E. Özceylan, G.-W. Weber
+This paper applies a mixed integer linear programming to designing a multi echelon supply chain network (SCN) via optimizing commodity transportation and distribution of a SCN. Proposed model attempts to aim multi objectives of SCN by considering total transportation costs and capacities of all echelons. The model composed of three different objective functions. The first one is minimizing the total transportation costs between all echelons. Second one is minimizing of holding and ordering costs in distribution centers (DCs) and the last objective function is minimizing the unnecessary and unused capacity of plants and DCs.
+106715/101750">PDF</a
+—
+null

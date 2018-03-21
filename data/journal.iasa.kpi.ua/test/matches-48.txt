@@ -1,0 +1,10 @@
+﻿null
+Yu. А. Zak</em><br></p><p>
+43463
+2531">No 1 (2015
+43463/0">Zak
+Alternative algorithms for defuzzification
+Yu. А. Zak
+In the case of overlap (overlay) and different size linguistic terms in asymmetric membership functions represented as LR-intervals, in contrast to the known defuzzification methods, the value of the output variable is calculated in the range considered only in the L-th or R-th parts of linguistic terms that overlap. Algorithms and formula expressions are proposed for calculating the output variable, which is determined on the basis of Fuzzy-inference. Proposed algorithms can be used in control systems, technical and medical diagnostics.
+43463/39914">PDF (Русский)</a></div><div><h4>References</h4><br><div><p>Заде Л. Понятие лингвистической переменной и его применение к принятию приближенных решений. — М.: Мир, 1976. —169 с.</p><p>Zadeh L.A. Fuzzy sets // Information and Control. — 1965. — 8 (3). — Р. 338–353.</p><p>Zimmermann H-J. Fuzzy set theory and its applications. — Boston: Kluwer Academic Publishers, 2001.</p><p>Rommelfanger H. Entscheiden bei Unschärfe. Fuzzy Decision Support-Systeme. — Berlin: Springer-Verlag, 1988. — 304 s.</p><p>Зак Ю.А. Принятие решений в условиях размытых и нечетких данных. — М.: URSS, Либроком, 2012. — 349 с.</p><p>Згуровский М., Зайченко Ю. Модели и методы принятия решений в нечетких условиях. — К.: Наук. думка, 2013. — 275 с.</p><p></p></div><br
+—

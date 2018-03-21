@@ -1,0 +1,11 @@
+﻿s
+Yu. P. Zaychenko</em><br><br>Ukraine</p><p></p><p>Зайченко Юрій Петрович,</p><p>професор, доктор технічних наук, професор Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p></p></div><div></div><div><p><em>I. M. Petrosiuk</em><br><br>Ukraine</p><p></p><p>Петросюк Ірина Михайлівна,</p><p>магістр Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p></p></div><div></div><div><p><em>M. S. Yaroshenko</em><br><br>Ukraine</p><p></p><p>Ярошенко Максим Сергійович,</p><p>спеціаліст Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p>
+107271
+6372">No 4 (2009
+107271/0">Zaychenko
+Investigation of fuzzy neural networks for object recognition in electrooptical images
+Yu. P. Zaychenko, I. M. Petrosiuk, M. S. Yaroshenko
+The problem of object recognition in electrooptical images obtained using multispectral optical systems is considered. A fuzzy neural network is suggested for the solution of this problem. Different training algorithms for fuzzy neural network are considered, and the results of experimental investigations of their efficiency on the basis of real data are presented.
+107271/102239">PDF (Русский)</a
+—
+null

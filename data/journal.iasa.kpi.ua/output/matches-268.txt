@@ -1,0 +1,11 @@
+﻿s
+I. Ia. Naumenko</em><br><br>Ukraine</p><p></p><p>Науменко Ігор Якович,</p><p>завідувач відділу ОКБ «Шторм» Національного технічного університету України «КПІ», Київ</p><p></p></div><div></div><div><p><em>V. I. Kyzyma</em><br><br>Ukraine</p><p></p><p>Кизима Володимир Іванович,</p><p>старший науковий співробітник ОКБ «Шторм» Національного технічного університету України «КПІ», Київ</p><p>
+106499
+6337">No 1 (2011
+106499/0">Naumenko
+Echo sounding in wave guides with out reference and a priori data about acoustic velocity and points
+I. Ia. Naumenko, V. I. Kyzyma
+The new method of echo sounding in acoustic wave guides, using multimode structure of signal, which eliminates range measurement error, resulted by absence of a priori data about acoustic velocity and needn’t reference rejectors is described. The way of its implementation in artesian and inspection wells is proposed, lab test results are given.
+106499/101593">PDF (Українська)</a
+—
+null

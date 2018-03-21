@@ -1,0 +1,12 @@
+﻿Fedorenko
+08. — Vol. 10, N 2
+87-94
+width="25px" alt="">PDF,DOC
+Digital Filters with Low Parametric Sensitivity
+Fedorenko O.V.
+Calculation of parametric sensitivity of digital filters with real and hypercomplex coefficients is considered. Calculation of parametric sensitivity of digital filters with real and triplex coefficients is mode. The comparative analysis of the obtained values of sensitivity of the given filters is carried out. The method of decreasing the parametric sensitivity of digital filters with hypercomplex coefficients and results of decreasing the parametric sensitivity of the digital filter with triplex coefficients are presented. Fig.: 5. Refs.: 11 titles.
+digital filters, parametric sensitivity, summary parametric sensitivity, hypercomplex numerical systems, decrease of parametric sensitivity.
+Ссылки</td><td>1. Петренко А.И. Основы автоматизации проектирования. — К.: Техника, 1982. — 295 с.<br>2. Сигорский В.П., Петренко А.И. Алгоритмы анализа электронных схем. Изд. 2-е. — М.: Сов. радио, 1978. — 608 с.<br>3. Петренко А.И., Лошаков В.Н., Тетельбаум А.Я., Шрамченко Б.Л. Автоматизированное проектирование СБИС на базовых кристаллах. — М.: Радио и связь, 1988. — 160 с.<br>4. Синьков М.В., Губарени Н.М. Непозиционные представления в многомерных числовых системах. — К.: Наук. думка, 1979. — 140 с.<br>5. Синьков М.В., Калиновский Я.А., Ковалевская И.Л., Изык Л.Б. Гиперкомплексные число-вые системы, их структуры, особенности и возможности применения для моделирования. Теория и применение моделирующих систем. — К.: Наук. думка, 1986.<br>6. Пухов Г.Е., Евдокимов В.Ф., Синьков М.В. Разрядноаналоговые вычислительные системы — М.: Сов. радио, 1978. — 256 с.<br>7. Toyoshima H. Computationally Efficient Implementation of Hypercomplex Digital Filters // IEICE Trans. Fundamentals. ? 2002, Aug. ? E85-A, 8. ? P. 1870–1876.<br>8. Schutte H.-D., Wenzel J. Hypercomplex Numbers in Digital Signal Processing // Proc. IEEE Int. Conf. on Circuits and Systems. — New Orleans, 1990.<br>9. Higuchi S., Toyoshima H. Design of Hypercomplex All-Pass Filters to Realize Complex Transfer Functions // IEIC Technical Report. ? 1999 ? Vоl. 98, N 516. ? P.39–44.<br>10. Бизин А. Т. Введение в цифровую обработку сигналов. — Новосибирск, 1998. — 66 с.<br>11. Каліновський Я.О. Методи комп’ютерного моделювання та обчислень з використанням гіперкомплексних числових систем: Дис. ... доктора техн. наук: 01.05.02; Захищена 17.09.2007; Затв. 17.01.2008. — К., 2007. — 417 с.: іл. — Бібліогр.
+Файлы
+Fedorenko.doc
+null

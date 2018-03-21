@@ -1,0 +1,11 @@
+﻿s
+P. I. Bidiuk</em><br><br>Ukraine</p><p></p><p>Бідюк Петро Іванович,</p><p>професор, доктор технічних наук, професор Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p></p></div><div></div><div><p><em>A. V. Fedorov</em><br><br>Ukraine</p><p></p><p>Федоров Андрій Васильович,</p><p>студент Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p>
+108466
+6452">No 1 (2009
+108466/0">Bidiuk
+Probabilistic forecasting of price forming at stock exchange
+P. I. Bidiuk, A. V. Fedorov
+Two types of mathematical models are proposed to forecast processes of stock price forming. The probabilistic model in the form of the dynamic Bayesian network and the autoregressive model mutually supplement each other, which improves the quality of trading decision making. Also, a model is proposed to forecast nonstandard situations.
+108466/103444">PDF (Українська)</a
+—
+null

@@ -1,0 +1,12 @@
+﻿Bojarinova
+05. — Vol. 7, N 1
+103-114
+width="50" alt="">PDF,DOC
+Restoration of Information in a Secret Sharing Problem for the Second Order Hypercomplex Numerical Systems with the Help of Euclidian Algorithm
+Boyarinova Yu.E., Odarich Ya.V.
+Examples of restoration of a secret by using Euclidian algorithm at representing information in the second order hypercomplex numerical systems are considered. Refs.: 8 titles.
+Euclidian algorithm, secret sharing problem, complex numbers, double numbers, dual numbers.
+References</td><td>1. Синьков М.В., Бояринова Ю.Е., Калиновский Я.А., Трубников П.В. Развитие задачи разде-ления секрета // Реєстрація, зберігання і оброб. даних. — 2003. — Т. 5, № 4. — С. 90–96.<br>2. Бояринова Ю.Е., Одарич Я.В., Трубников П.В. Разработка алгоритмов восстановления ин-формации в задаче разделения секрета // Реєстрація, зберігання і оброб. даних. — 2004. — Т. 6, № 4. — С. 107–112.<br>3. Синьков М.В., Бояринова Ю.Е., Калиновский Я.А., Трубников П.В. Расширение возможно-стей постановки задачи разделения секрета. Безопасность информации в информационно-телекоммуникационных системах. Материали VІІ международной научно-практической конфе-ренции. — С. 64–65.<br>4. Бояринова Ю.Е., Одарич Я.В., Трубников П.В. Реализация алгоритма Евклида для задачи разделения секрета // Реєстрація, зберігання і оброб. даних. — 2004. — Т. 6, № 3. — С. 58–65.<br>5. Ноден П., Китте К. Алгебраическая алгоритмика с упражнениями и решениями. — М.: Мир, 1999. — 720 с.<br>6. Синьков М.В., Губарени Н.М.. Непозиционные представления в многомерных числовых системах. — К.: Наук. думка, 1979. — 138 с.
+File
+RZOD2_04.doc
+null

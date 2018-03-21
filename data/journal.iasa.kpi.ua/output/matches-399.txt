@@ -1,0 +1,11 @@
+﻿s
+V. K. Zadiraka</em><br></p><p></p></div><div></div><div><p><em>I. V. Sergienko</em><br></p><p>
+109716
+6579">No 2 (2008
+109716/0">Zadiraka
+From scientific results to computer technology
+V. K. Zadiraka, I. V. Sergienko
+Computer technologies for solution of complex problems in calculus and applied mathematics with given characteristics of the accuracy and operation speed have been developed. They are based on the computation error theory, the common optimal algorithm theory, and application of computation optimization reserves. Some examples of high-quality solution of complex problems are considered.
+109716/104769">PDF (Українська)</a
+—
+null

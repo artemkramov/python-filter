@@ -1,0 +1,12 @@
+﻿2011-4-4
+11. — Vol. 13, N 4
+31-38&gt;
+alt="" width="50">PDF,DOC
+Means of Access to Documentary Information Resources in the Web Space
+Lande D.V.
+Technologies and ways of access of users to documentary resources in web space are considered. Recommendations about creation of a specialized network metasearch engine are given. Fig.: 4. Refs: 6 titles.
+information retrieval system, metasearch engine, document, information source, web space, web resources.
+References</td><td>1. Додонов А.Г. Современные поисковые технологии - проблемы и некоторые пути их реше- ния / А.Г. Додонов, Д.В. Ланде, В.Г. Путятин // Реєстрація, зберігання і оброб. даних. — 2010. — Т. 12, № 3. — С. 36–55.<br>2. Додонов А.Г. Методы и средства мониторинга, адаптивного агрегирования и обобщения информационнных потоков / А.Г. Додонов, Д.В. Ландэ // Информационные технологии и безопас- ность. Проблемы научного и правового обеспечения кибербезопасности в современном мире. Ма- териалы международной научной конференции ИТБ-2011. — К.: ИПРИ НАН Украины, 2011. — С. 6–9.<br>3. Bradford S.C. Sources of Information on Specific Subjects, Engineering // An Illustrated Weekly Journal (London). — 1934 (26 January). — 137. — P. 85–86.<br>4. Ландэ Д.В. Поиск знаний в Internet. Профессиональная работа. — М.: «Вильямс», 2005. — 272 с.<br>5. Document Management. Portable Document Format. Part 1: PDF 1.7 // Adobe Systems Inc. — 2008. — 756 р. — http://www.adobe.com/devnet/acrobat/PDFs/PDF32000_2008.PDF<br>6. Ландэ Д.В. Отражение целевой тематики в публикациях и электронных препринтах ArXiv / Д.В. Ландэ, А.А. Снарский // Матеріали 16-ї Міжнар. наук.-техн. конф. «Електромагнітні та акус- тичні методи неруйнівного контролю матеріалів та виробів», 21–26 лютого 2011 р. — Славське Львівської області. — С. 74–77.
+File
+4-4.pdf
+null

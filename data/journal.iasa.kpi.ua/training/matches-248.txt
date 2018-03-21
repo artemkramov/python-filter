@@ -1,0 +1,11 @@
+﻿s
+V. I. Bessarab</em><br><br>Ukraine</p><p></p></div><div></div><div><p><em>E. Ye. Zaytseva</em><br><br>Ukraine</p><p></p></div><div></div><div><p><em>E. G. Kovalenko</em><br><br>Ukraine</p><p>
+106466
+6335">No 2 (2011
+106466/0">Bessarab
+Usage of the apparatus of idempotent algebra for the analysis of the processes in network with the provision of integrated services
+V. I. Bessarab, E. Ye. Zaytseva, E. G. Kovalenko
+The implementation of algebra is equations "min-plus" for network analysis with the provision of integrated services is show. The protocol is operation RSVP is considered. The possibility of network resources control depending on the requirements for the delays by traffic type, is shown. The variant of the transmission rout calculation is proposed, taking into account restrictions for the delay.
+106466/101561">PDF (Русский)</a
+—
+null

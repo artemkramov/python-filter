@@ -1,0 +1,12 @@
+﻿Lande
+06. — Vol. 8, N 1
+67-73
+width="25px" alt="">PDF,DOC
+An Approach to Analysis of News Streams as Discrete Signals
+Lande D.V.
+A data processing model in which text information streams are considered as discrete signals is de-scribed. Frequency-semantic ranks of terms or documents are used as peak values of signals. Creation of the toolkit providing viewing of so-called «marginal» messages on subject-matter determined by user query is validated. The method actually answers the question — what are the least mentioned subjects within determined subject-matter for some time past. Refs: 9 titles.
+information streams, processing of signals, Internet, text corpus, ranking
+References</td><td>1. Ландэ Д.В., Брайчевский С.М. Современные информационные потоки: актуальная про-блематика // Научно-техническая информация. Сер. 1. — 2005. — № 11. — С. 21–33.<br>2. Del Corso G.M., Gulli A., and Romani F. Ranking a Stream of News // Proc. 14-th International World Wide Web Conference. — Chiba (Japan). — 2005. — Р. 97–106.<br>3. Ландэ Д.В. Сканер системы контент-мониторинга InfoStream // Открытые информацион-ные и компьютерные интегрированные технологии: Сб. науч. трудов. — Харьков: НАКУ «ХАИ», 2005. — Вып. 28. — С. 53–58.<br>4. Salton G., Allan J. and Buckley C. Approaches to Passage Retrieval in Full Text Information Systems // ACM SIGIR Conference on R&amp;D in Information Retrieval. — 1993. — Р. 49–58.<br>5. Baeza-Yates R. and Ribeiro-Neto B. Modern Information Retrieval. — Addison-Wesley, 1999.<br>6. Chakrabarti Soumen. Mining the Web. Discovery Knowledge from Hypertext Data. — San Francisco: Publisher Morgan Kaufmann, 2002. — 344 p.<br>7. Heaps H.S. Information Retrieval: Computation and Theoretical Aspects. — Orlando: Aca-demic Press Inc., FL, 1978. — Р. 206–208.<br>8. Zipf, George Kingsley. Human Behaviour and the Principle of Least Effort. — Cambridge: Wesley, MA, 1949.<br>9. Ландэ Д.В. Поиск знаний в Internet. Профессиональная работа. — М.: Вильямс, 2005. — 272 с.
+File
+test-signal-art.doc
+null

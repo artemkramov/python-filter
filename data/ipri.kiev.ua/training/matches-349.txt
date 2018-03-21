@@ -1,0 +1,12 @@
+﻿2014-2-7
+14. — Vol. 16, N 2
+74-86
+alt="" width="50">PDF,DOC
+Research a Statistical Security of Digital Signature Methods Based on Recurrent Sequences
+Iaremchuk Iu.E.
+The research are conducted for statistical security of the digital signature method based on recurrent Vk sequences and made his comparison with well-known Feige-Fiat-Shamir and Schnorr methods. The results of analysis showed that, in general, the method based on Vk sequences has a high level of statisti¬cal security. This is especially true for small key lengths that recommends it for use primarily in digital signature systems, in which the use of larger keys is not so important. Tabl.: 4. Fig.: 8. Refs: 11 titles.
+cryptography, digital signature, cryptographic reliability, statistical security, recurrent sequences.
+References</td><td>
+File
+2-8.pdf
+null

@@ -1,0 +1,12 @@
+﻿2013-2-2
+13. — Vol. 15, N 2
+17–28
+alt="" width="50">PDF,DOC
+Algorithmic and Structural Circuit Technology Characteristics for Hardware Implementation of Operations with Quaternions in Functional Processors
+Kalinovsky Ja.F., Boyarinova Ju.E., Tarasenko V.P., Klyatchenko J.M.
+The principal possibility of multiprocessor systems based on programmable integrated circuits with actually already achieved level of integration for direct hardware implementation of complete system operations with quaternions has been shown. Tabl.: 1. Fig.: 7. Refs: 10 titles.
+hypercomplex number system, quaternions, the multiplication operation, functional processor, multi-processing information, EPLD, SIMD-architecture.
+References</td><td>
+File
+2-2.pdf
+null

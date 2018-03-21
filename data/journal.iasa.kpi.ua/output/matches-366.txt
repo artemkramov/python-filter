@@ -1,0 +1,11 @@
+﻿s
+B. Werners</em><br><br>Germany</p><p></p><p>Вернерс Брігітта,</p><p>професор, доктор наук, завідувач кафедри дослідження операцій Рурського університету, Німеччина, Бохум</p><p></p></div><div></div><div><p><em>Y. P. Kondratenko</em><br><br>Ukraine</p><p></p><p>Кондратенко Юрій Пантелійович,</p><p>професор, доктор технічних наук, професор кафедри інтелектуальних інформаційних систем Чорноморського державного університету ім. Петра Могили, Україна, Миколаїв</p><p>
+108464
+6452">No 1 (2009
+108464/0">Werners
+Tanker routing problem with fuzzy demands of served ships
+B. Werners, Y. P. Kondratenko
+The routing problem for tanker-refuellers is considered. The tankers start at the bunkering company and must serve several ships in different ports. In principle the modeling and algorithmic approaches for capacitated vehicle routing problems can be used. Since the demands of the ships are uncertain and vague they are modeled using fuzzy sets. The first compromise solution can interactively be modified to meet the decision makers requirements with respect to the different criteria. The results are demonstrated using a small example.
+108464/103443">PDF</a
+—
+null

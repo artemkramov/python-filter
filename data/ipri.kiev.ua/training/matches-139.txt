@@ -1,0 +1,12 @@
+﻿2010-1-3
+10. — Vol. 12, N 1
+23-29
+width="50" alt="">PDF,DOC
+Parameters Calculation Methods of Fluorescent Multilayer Disc Recording and Intermediate Layers
+Belyak E.V.
+Possibility of constructing fluorescent multilayer media information layer structure based on the structure of modern optical discs (CD, DVD, HD-DVD, Blu-ray) is considered. Optimal parameters of the media and media drive (linear dimensions of pits, intermediate layer thickness, radii and total area of the fringe regions) are calculated. Advantages and disadvantages of the model, and optical recording further prospects are analyzed. Tabl.: 1. Fig.: 4. Refs: 3 titles.
+CD, DVD, HD-DVD, Blu-ray, fluorescent multilayer disc, recording layer, objective lense aperture
+References</td><td>1. Надщільний оптичний запис інформації / В.В. Петров, А.А.Крючин, С.М. Шанойло, В.Г. Кравець [та ін.]: Відп. ред. О.Г. Додонов — НАН України, Ін-т проблем реєстрації інформації. — К., 2009.— 282 с.<br>2. Данилов В.В. Перспективи збільшення поверхневої щільності оптичного запису/ В.В. Да- нилов, Беляк Є.В. // Вісник Донецького університету. — 2008. —Т. 1. — С. 241–247.<br>3. Беляк Є.В. Математичне моделювання процесу зчитування даних з багатошарового фото- люмінесцентного носія інформації / Є.В. Беляк // Реєстрація, зберігання і оброб. даних. — 2009. — Т. 11, № 4. — С. 3–9.
+File
+RZOD2_04.doc
+null

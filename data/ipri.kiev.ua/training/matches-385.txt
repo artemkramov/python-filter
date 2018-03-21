@@ -1,0 +1,12 @@
+﻿2015-2-3
+15. — Vol. 17, N 2
+29–38
+alt="" width="50">PDF,DOC
+Methodology of selection of informative parts of images on the basis of theory of fractal analysis
+Mezentsev A.V., Mironiuk S.V., Sotnikov A.M., Tarshyn V.A.
+The methodology of localization of informative parts of images of surface of boresighting, based on the use of theory of fractal analysis, is offered. The methodology is used for operative creation of reference patterns of the cross-correlation-extreme systems of navigation (aiming). Fig.: 4. Refs: 11 titles.
+reference pattern, method, objective saturation, fractal dimension, analysis of images, processing of images.
+References</td><td>
+File
+2-3.pdf
+null

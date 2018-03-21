@@ -1,0 +1,12 @@
+﻿2014-3-3
+14. — Vol. 16, N 3
+25-44
+alt="" width="50">PDF,DOC
+Computer modeling of organizational control aviation complex
+Dodonov A.G., Putyatin V.G., Kutsenko S.A., Niziyenko B.I., Yurasov A.A., Dodonov E.A.
+The principles of construction, the structure of computer models and computer modeling technology, aimed at creating a system of organizational control aviation complex, are considered. Tabl.: 1. Fig.: 3. Refs: 5 titles.
+aviation complex, task, modeling, system, structure, scenario, function.
+References</td><td>
+File
+3-3.pdf
+null

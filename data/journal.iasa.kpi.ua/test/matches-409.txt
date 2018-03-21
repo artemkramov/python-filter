@@ -1,0 +1,10 @@
+﻿null
+T. V. Podladchikova</em><br></p><p>
+109766
+6579">No 2 (2008
+109766/0">Podladchikova
+Creation of adaptive models parameter estimation for moving object under uncertainty
+T. V. Podladchikova
+Mathematical models in the problem of the object position estimation have been created with taking into account the nonlinear dependence of the parameters being measured on the coordinates in which the object movement is determined. The results of the comparative analysis of the identification algorithm of a priori undetermined model parameters and of the adaptive estimation of object state for the measurement models described by linear and nonlinear equations are presented.
+109766/104807">PDF (Русский)</a
+—

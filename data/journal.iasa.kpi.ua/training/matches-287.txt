@@ -1,0 +1,10 @@
+﻿null
+K. S. Sunduchkov</em><br><br>Ukraine</p><p></p><p>Сундучков Костянтин Станіславович,</p><p>професор, доктор технічних наук, заступник директора з наукової роботи Інституту телекомунікаційних систем НТУУ «КПІ», Україна, Київ</p><p>
+106907
+6356">No 3 (2010
+106907/0">Sunduchkov
+Optimization of telecommunication network fragment
+K. S. Sunduchkov
+A method for analysis and determination of telecommunication network parameters is developed, and their mathematic models are constructed along with determination of the parameter domains and ranges of independent variables. A method for optimization and criterion of optimization are presented. An example of searching for optimal parameters of telecommunication network is provided.
+106907/101909">PDF (Русский)</a
+—

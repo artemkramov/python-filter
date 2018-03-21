@@ -1,0 +1,11 @@
+﻿s
+N. R. Kondratenko</em><br>професор кафедри захисту інформації Вінницького національного технічного університету, Україна, Вінниця<br>Ukraine</p><p></p><p>Кондратенко Наталія Романівна,</p><p>доцент, кандидат технічних наук, професор кафедри захисту інформації Вінницького національного технічного університету, Україна, Вінниця</p><p></p></div><div></div><div><p><em>O. O. Snihur</em><br>студентка Вінницького національного технічного університету, Україна, Вінниця<br>Ukraine</p><p></p><p>Cнігур Ольга Олексіївна,</p><p>студентка Вінницького національного технічного університету, Україна, Вінниця</p><p>
+71749
+3681">No 3 (2012
+71749/0">Kondratenko
+Interval membership functions application in social data clustering
+N. R. Kondratenko, O. O. Snihur
+An approach to the solution of clustering problem on the basis of interval fuzzy sets of 2 type using know validity index, is proposed. The methods working is show on the example of the world countries clustering according to their development level. Influence of degree of fuzziness on fuzzy clustering results is investigated.
+71749/66744">PDF (Українська)</a
+—
+null

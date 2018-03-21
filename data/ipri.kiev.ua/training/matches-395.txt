@@ -1,0 +1,12 @@
+﻿2015-3-4
+15. — Vol. 17, N 3
+30–47
+alt="" width="50">PDF,DOC
+Methodological aspects of choice of the components of corporate information and analytical system with the criterion of survivability
+Putyatin V.G.
+The approaches regarding the creation and selection of the components of corporate information and analytical system, taking into account many of the requirements and criterion of survivability have been considered. Refs: 7 titles.
+choice, persistence, component, technique, the corporate system, method.
+References</td><td>
+File
+3-4.pdf
+null

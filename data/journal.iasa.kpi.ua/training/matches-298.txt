@@ -1,0 +1,11 @@
+﻿s
+M. Z. Zgurovsky</em><br><br>Ukraine</p><p></p><p>Згуровський Михайло Захарович,</p><p>академік НАН України, професор, доктор технічних наук, ректор Національного технічного університету України «КПІ», директор Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p></p></div><div></div><div><p><em>A. І. Petrenko</em><br><br>Ukraine</p><p></p><p>Петренко Анатолій Іванович,</p><p>професор, доктор технічних наук, завідувач кафедри систем автоматизованого проектування Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p>
+106959
+6358">No 2 (2010
+106959/0">Zgurovsky
+Е-Science on the way to semantic Grid. Part 2: Semantic Web- and semantic Grid
+M. Z. Zgurovsky, A. І. Petrenko
+The semantic Web, based on metadata, ontology, and software agents, is investigated as a foundation for the semantic Grid, in which information and services have clear determination, which gives computers and people the possibility to cooperate rather with knowledge than with information (as that is done at present). Approaches to ontology and Web- and Grid-services with and without state, their cooperation, architecture, and the existent realizations of the semantic Grid are considered.
+106959/101961">PDF (Українська)</a
+—
+null

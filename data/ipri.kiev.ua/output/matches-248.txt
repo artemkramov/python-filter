@@ -1,0 +1,12 @@
+﻿2012-1-7
+12. — Vol. 14, N 1
+66-74&gt;
+alt="" width="50">PDF,DOC
+Cryptographic Protection of Information Objects by Block Transformation from the Posi-tional Namber System into the Residual Classes System
+Mаtоv О.Y., Vаsylenko V.S., Vаsylenko M.Y.
+The use of block cryptographic transformation by using the numder system in residual classes for the tasks of providing privacy of information objects of the automated systems is offered. Fig.: 1. Refs: 4 titles.
+information, privacy, cryptographic transformations, residual classes, number systems.
+References</td><td>
+File
+1-7.pdf
+null

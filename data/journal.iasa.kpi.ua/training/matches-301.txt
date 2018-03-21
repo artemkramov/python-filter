@@ -1,0 +1,10 @@
+﻿null
+Yu. Р. Zaychenko</em><br><br>Ukraine</p><p></p><p>Зайченко Юрій Петрович,</p><p>професор, доктор технічних наук, професор Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p>
+106962
+6358">No 2 (2010
+106962/0">Zaychenko
+Сredit risk estimation on the base of fuzzy logic
+Yu. Р. Zaychenko
+The problem of credit risk estimation is considered. The classical method of credit risk estimation based on borrower’s credit rating determination is presented. A novel method of credits rating determination based on fuzzy logic systems (Mamdani algorithm) is suggested. Rules for fuzzy credit rating determination and general class of borrower’s are formulated. Some applications of the suggested fuzzy method are presented.
+106962/101963">PDF (Русский)</a
+—

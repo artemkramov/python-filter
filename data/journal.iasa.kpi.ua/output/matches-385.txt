@@ -1,0 +1,10 @@
+﻿null
+I. A. Kutsenko</em><br><br>Ukraine</p><p></p><p>Куценко Ігор Анатолійович,</p><p>кандидат фізико-математичних наук, науковий співробітник факультету кібернетики Київського національного університету ім.&nbsp;Тараса Шевченка, Україна, Київ</p><p>
+108562
+6453">No 4 (2008
+108562/0">Kutsenko
+Construction of approximate mean-square and minimax multidimensional spline-function on chaotic net
+I. A. Kutsenko
+The transition from a problem of construction of both mean-square and minimax approximate multidimensional spline-functions on a chaotic net to a problem of finding the solution for overdefined systems of algebraic linear equations is offered. The transition is carried out by means of reduction of the results of the variation theory on construction of multidimensional spline-functions on a chaotic net to the simple algebraic conditions.
+108562/103506">PDF (Українська)</a
+—

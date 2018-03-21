@@ -1,0 +1,11 @@
+﻿null
+Yuriy A. Zack</em><br><a href="http://www.optimorum.de">http://www.optimorum.de</a><br><br>Germany</p><p></p><p>Yuriy Zack,</p><p>Dokt.-Ing., the scientific expert and consultant, Aachen, Germany.</p><p>
+118886
+7035">No 3 (2017
+118886/0">Zack
+Company valuation based on discounted financial flows and its residual value under fuzzy data
+Yuriy A. Zack
+When using a profitable method for estimating the value of a business, a number of indicators of the volumes of expected cash flows, the values of the discount coefficients, as well as the amount of "discounted income" in each year of operation and for the entire forecasted period during which the investor expects to own the business and the residual value of assets are fuzzy sets with Functions belonging to a rectangular, triangular and trapezoidal type. Based on the methods of fuzzy arithmetic and the apparatus of discrete Fuzzy-Markov chains, the resulting fuzzy sets are calculated, which determine the valuation of the business from the standpoint of a specific investor and from the point of view of the owner by the business. Unlike the known approaches, the ranges of possible market values of business predicted by both parties ensure the acceptable by each side risk of possible loss of profit, solve the questions of expediency of further negotiations and determine the boundaries for values for each of the parties.</div><br></div><div><h4>Keywords</h4><br><div>cost of business purchase; discounted cash flows; residual assets of the enterprise; Fuzzy-arithmetic; discrete Fuzzy-Markov chains; effective ranges of projected volumes of value
+118886/113247">PDF (Русский)</a
+—
+><br><br>DOI:<a href="https://doi.org/10.20535/SRIT.2308-8893.2017.3.05">https://doi.org/10.20535/SRIT.2308-8893.2017.3.05</a

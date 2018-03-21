@@ -1,0 +1,11 @@
+﻿s
+Iu. G. Kryvonos</em><br>заступник директора Інституту кібернетики ім. В.М. Глушкова НАН України, Київ<br>Ukraine</p><p></p><p>Кривонос Юрій Георгійович,</p><p>академік НАН України, доктор фізико-математичних наук, заступник директора Інституту кібернетики ім.&nbsp;В.М.&nbsp;Глушкова НАН України, Київ</p><p></p></div><div></div><div><p><em>Iu. V. Krak</em><br>професор кафедри моделювання складних систем Київського національного університету ім. Тараса Шевченка, Україна, Київ<br>Ukraine</p><p></p><p>Крак Юрій Васильович,</p><p>доктор фізико-математичних наук, професор кафедри моделювання складних систем Київського національного університету ім.&nbsp;Тараса Шевченка, Україна, Київ</p><p></p></div><div></div><div><p><em>O. V. Barmak</em><br>старший науковий співробітник Інституту кібернетики ім. В.М. Глушкова НАН України, Київ<br>Ukraine</p><p></p><p>Бармак Олександр Володимирович,</p><p>доцент, кандидат технічних наук, старший науковий співробітник Інституту кібернетики ім.&nbsp;В.М.&nbsp;Глушкова НАН України, Київ</p><p>
+73420
+4375">No 4 (2011
+73420/0">Kryvonos
+Computer-based modeling of Ukrainian sigh language
+Iu. G. Kryvonos, Iu. V. Krak, O. V. Barmak
+A mathematical model and its software implementation for sign language speech obtaining and reproduction using 3d human model has been suggested. The technology of enough realistically reproduction of 3d model of the traffic received from the motion picture of the particular person — the bearer of the sigh language, — is proposed.
+73420/68803">PDF (Українська)</a
+—
+null

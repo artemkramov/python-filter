@@ -1,0 +1,12 @@
+﻿Koval
+06. — Vol. 8, N 1
+84-91
+width="25px" alt="">PDF,DOC
+Virtual Measuring Complex for Research of Transitional Processes in the Electric Circuits of Arbitrary Configuration
+Tarasenko M.G., Koval V.P.
+The developed virtual measuring complex for research of transitional processes in electric circuits is considered. Oscillograms of voltage, current and light flux at a transitional process in the thermal sources of light are obtained. Fig.: 5. Refs: 6 titles.
+transitional process, analog-digital converter, sensor, switching device.
+References</td><td>1. Гегель П. Как превратить персональный компьютер в измерительный комплекс: Пер. с фр. А.Э. Бряндинского / Под ред. Г.В. Куликова. — М.: ДМК, 1999. — 122 с.<br>2. Георгобиани С.А., Клыков М.Е. и др. Автоматизированая контрольно-измерительная уста-новка для проверки электрических и тепловых характеристик электромагнитных ПРА // Светотех-ника. — 2004. — № 3. — С. 2–5.<br>3. Комбинированный прибор — приставка к компьютеру АСК-4106 (генератор+осцилло-граф) (AKTAKOM). — http://www.aktakom.ru.<br>4. Романов В. Виртуальные осциллографы // Электронные компоненты и системы. — 2000. — № 3. — С. 43.<br>5. Романов В. Виртуальные мультиметры // Электронные компоненты и системы. — 2000. — № 5. — С. 41.<br>6. Романов В. Виртуальные приборы // Электронные компоненты и системы. — 2000. — № 9. — С. 46–47.
+File
+Tarasenko_Koval.doc
+null

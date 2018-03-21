@@ -1,0 +1,12 @@
+﻿2009-1-3
+10. — Vol. 12, N 2
+20-26
+alt="">PDF
+Algorithm for Computing 1D-Convolution by Using Hypercomplex Numbers
+Sinkov M.V., Zakydalsky A.I., Tsybulska Е.O.
+The algorithm for computing 1D real convolution with conversion to 2D Fourier transform and using hypercomplex numbers is presented. The computing complexity of developed algorithm by using various hypercomplex numerical systems is analyzed. Tabl.: 2. Fig.: 2. Refs: 5 titles.
+convolution, discrete Fourier transform, fast Fourier transform, hypercomplex numerical systems.
+References</td><td>1. Chicheva M.A. On Various Schemes of 2D-DFT Decomposition with Data Representation in the Quaternion Algebra / M.A.Chicheva, M.V.Pershina // Image Processing &amp; Communications. — 2004. — Vol. 2, N.1.— Р. 13–20. —Published by the Institute of Telecommunications Bydgoszcz, Poland.<br>2. Алиев М.В. Алгоритмы двумерного ДПФ с представлением данных в алгебре гиперкомплексных чисел / М.В. Алиев, М.А. Чичева // кн. Алгебра и линейная оптимизация: Труды международного семинара, посвященного 90-летию со дня рождения С.Н. Черникова.— Екатеринбург: УрО РАН, 2002.— С. 18–26.<br>3. Felsberg M. Fast Algorithms of Hypercomplex Fourier Transform / M. Felsberg, T. Bulov, G.Sommer, V.M. Chernov // The Art of Scientific Computing. — 2006.— Р. 232–254.<br>4. Каліновський Я.О. Методи комп’ютерного моделювання та обчислень з використанням гіперкомплексних числових систем: дис. ... доктора техн. наук: 01.05.02 / Я.О.Каліновський; НТУУ «КПІ»— К., 2007. — 417 с.<br>5. Рабинер Л. Теория и применение цифровой обработки сигналов / Л. Рабинер, Б. Гоулд. — М.: Мир, 1978. — 848 с.
+Файлы
+2009-1-3.pdf
+null

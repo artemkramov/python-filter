@@ -1,0 +1,12 @@
+﻿2012-1-9
+12. — Vol. 14, N 1
+85-90&gt;
+alt="" width="50">PDF,DOC
+The Organization Based on Game Theory of Multipath Secure Data Communication
+Kulakov Y.A., Lukashenko V.V., Kogan A.V.
+A method for improving the security of routing in wireless networks using game theory, which is used to deal with the presence of the most effective and most economical way to perform any complex tasks is proposed. Fig.: 2. Refs: 12 titles.
+multipath routing, secure routing, game theory, wireless networks.
+References</td><td>
+File
+1-9.pdf
+null

@@ -1,0 +1,12 @@
+﻿2014-1-9
+14. — Vol. 16, N 1
+79-87
+alt="" width="50">PDF,DOC
+Development and Researches of Fitness of Expert Tool «Fractal-M» for Authentication of Announcer on the Parameters of Vocal Signals
+Solovyov V.I., Rybalskiy O.V.
+The process of researches, developments and verifications of fitness of the program and methodology, is considered for authentication of announcer on the parameters of signals of speech. The fractal method of presentation of identification signs is used in development of the program. Fig.: 2. Refs: 19 titles.
+announcer, authentication, frequency of basic tone, phonogram, fractal, examination.
+References</td><td>
+File
+1-9.pdf
+null

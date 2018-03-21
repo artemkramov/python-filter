@@ -1,0 +1,12 @@
+﻿2013-2-5
+13. — Vol. 15, N 2
+48–54
+alt="" width="50">PDF,DOC
+The New Internet Exchange Points Analisys
+Zubok V.Yu.
+A study of three Ukrainian Internet traffic exchange points has been completed. Comparison of network characteristics such as a degree distribution, the average geodesic path, clustering coefficient made possible to find both similar features and significant differences in the topology of these networks, which can be used in the process of searching for optimal nodes to connect to the Internet or to allocate own information resources. Tabl.: 2. Fig.: 3. Refs: 5 titles.
+Internet exchange points, topological distance, transitivity.
+References</td><td>
+File
+2-5.pdf
+null

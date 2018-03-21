@@ -1,0 +1,10 @@
+﻿null
+A. I. Petrenko</em><br><br>Ukraine</p><p></p><p>Петренко Анатолій Іванович,</p><p>професор, доктор технічних наук, завідувач кафедри систем автоматизованого проектування Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p>
+108560
+6453">No 4 (2008
+108560/0">Petrenko
+Grid and Data Mining for intellectual data processing
+A. I. Petrenko
+The difference in implementation of the Data Mining methods for data processing and the classic statistical methods of analysis and OLAP systems is considered. Hidden links and laws discovered by Data Mining are reviewed for various problems (association, classification, sequence, clusterization, prognostication). The Data Mining application fields and an example of the ADaM system, working in the Grid environment and processing scientific data remotely, are described.
+108560/103504">PDF (Українська)</a
+—

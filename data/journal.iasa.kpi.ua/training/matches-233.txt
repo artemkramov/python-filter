@@ -1,0 +1,11 @@
+﻿s
+A. A. Kargin</em><br><br>Ukraine</p><p></p></div><div></div><div><p><em>E. E. Pyatikop</em><br><br>Ukraine</p><p>
+106404
+6331">No 3 (2011
+106404/0">Kargin
+Models of key elements representation in the problem of component recognition of the character of text
+A. A. Kargin, E. E. Pyatikop
+The stage of formation of key elements (nodes) for solving the problem of component recognition of the character is considered. The formation of the nodes is based on fuzzy models of primary visual cortex cells. The mathematical description of the node as fuzzy model and the degree of fuzzy similarity of nodes are described. Examples of comparison the nodes with nodes prototypes are shown.
+106404/101522">PDF (Русский)</a
+—
+null

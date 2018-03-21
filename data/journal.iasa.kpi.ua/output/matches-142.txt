@@ -1,0 +1,10 @@
+﻿null
+A. Yu. Maltsev</em><br><br>Ukraine</p><p>
+45845
+2674">No 2 (2013
+45845/0">Maltsev
+The canonical mode of the bilinear form on a pair of spaces which are in duality relation
+A. Yu. Maltsev
+The linear spaces, which are in relation of duality: the bilinear functionals on pairs of dual spaces, which satisfy a certain condition of nondegeneracy, are studied. Duality theory clarifies certain properties of bilateral symmetry of linear spaces quite difficult to visualize, but absolutely fundamental. In particular dualism "wave – particle" in quantum physics finds adequate mathematical interpretation in the language of linear duality of linear spaces. Therefore, all the results of the mathematical theory of duality are useful for understanding the specific physical phenomena. The theory of quantized fields in quantum field theory was a natural development of the principle of corpuscular-wave dualism. A theorem on bringing a bilinear form on a pair of spaces which are in duality relation to the canonical form is proved. The method of constructing the canonical basis is found. The analogs of the theorem Feature for linear and bilinear functionals are presented.
+45845/42019">PDF (Русский)</a></div><div><h4>References</h4><br><div><p>Weinberg S. The Quantum Theory of Fields, Vol. 1: Foundations. — NY: Cambridge University Press, 1995. — 400 p.</p><p>Cao T.Y. Conceptual Developments of 20th Century. Field Theories. — NY: Cambridge University Press, 1998. — 456 p.</p><p>Weinberg S. The Quantum Theory of Fields, Vol. 2: Modern applications. —</p><p>NY: Cambridge University Press, 1995. — 502 p.</p><p>Морен К. Методы гильбертова пространства. — М.: Мир, 1965. — 570 с.</p><p>Рудин У. Функциональный анализ. — М.: Мир, 1975. — 443 с.</p><p>Рисс Ф., Секифальви-Надь Б. Лекции по функциональному анализу. — М.: Мир, 1979. — 592 с.</p></div><br
+—

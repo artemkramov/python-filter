@@ -1,0 +1,11 @@
+﻿s
+Yu. P. Zaychenko</em><br><br>Ukraine</p><p></p></div><div></div><div><p><em>M. Esfandiyarfard</em><br></p><p>
+109720
+6579">No 2 (2008
+109720/0">Zaychenko
+Investment portfolio optimization under uncertainty
+Yu. P. Zaychenko, M. Esfandiyarfard
+The problem of investment portfolio optimization under uncertainty is considered. A mathematical model of this problem is elaborated, and an algorithm of its solution using a nonlinear programming is proposed. The experimental investigation of the approach proposed has been carried out, and comparison of the optimal portfolios obtained by the fuzzy and Markovitz models was performed. By the example of the Moscow Stock Exchange, it is shown that the solutions are quite different. The interpretation of the ressults obtained is presented.
+109720/104773">PDF (Русский)</a
+—
+null

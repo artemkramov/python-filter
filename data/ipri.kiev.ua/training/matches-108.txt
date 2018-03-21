@@ -1,0 +1,12 @@
+﻿2009-2-6
+10. — Vol. 12, N 2
+59-69
+alt="">PDF
+The Automation of Data Processing and Analyzing for the Simulation of the Railway System
+Sukach E.I.
+The facilities for automation of simulation of the railway system functioning in the conditions of random actions are described. A technique of definition of the most effective variant of the network organization allowing to coordinate in time and in space to moving of cargo transport streams is offered. Fig.: 1. Refs: 4 titles.
+simulation model, railway system, transport streams, schedule of assembling trains.
+References</td><td>1. Управление эксплуатационной работой и качеством перевозок на железнодорожном транспорте / под ред. П.С. Грунтова. — М.: Транспорт, 1994 —543 с.<br>2. Максимей И.В. Автоматизация этапов разработки и эксплуатации имитационных моделей транспортных систем / И.В. Максимей, Е.И. Сукач, Е.А. Ерофеева, П.В. Гируц // Проблемы программирования. — 2008. — № 4. — C. 104–111.<br>3. Программно-технологические комплексы имитации сложных дискретных систем / В.Д. Левчук, И.В. Максимей. —Гомель: ГГУ им.Ф.Скорины, 2006.—263 с.<br>4. Максимей И.В. Имитационное моделирование вероятностных характеристик функционирования железнодорожной сети / И.В. Максимей, Е.И. Сукач, Е.А. Ерофеева, П.В. Гируц // Математические машины и системы. — 2008. — № 4. — C. 147–153.
+Файлы
+2009-2-6.pdf
+null

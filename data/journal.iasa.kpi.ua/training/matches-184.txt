@@ -1,0 +1,10 @@
+﻿null
+T. A. Zheldak</em><br>доцент Національного гірничого університету, Україна, Дніпропетровськ<br>Ukraine</p><p></p><p>Желдак Тімур Анатолійович,</p><p>кандидат технічних наук, доцент Національного гірничого університету, Україна, Дніпропетровськ</p><p>
+71773
+3681">No 3 (2012
+71773/0">Zheldak
+Application of inverse dependencies in mathematical models of complex objects and systems
+T. A. Zheldak
+A method of constructing approximating polynomials functions of many variables, based on the use of the negative degrees in polynomials and the application of the limitation on the total value of the product variable to polynoms is presented. The usage of the penalty function for the number of polynomial members is suggested. The optimum value of the proposed penalty functions coefficient is experimentally obtained.
+71773/66765">PDF (Українська)</a
+—

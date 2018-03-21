@@ -1,0 +1,12 @@
+﻿2010-3-11
+10. — Vol. 12, N 2
+99-107
+alt="">PDF
+Three-Level Project Management Corporate System
+Kuzminykh V.A., Khaustov D.V., Korostelova Ye.Yu.
+The questions of risk management in a project management corporate system are considered. An approach to creation of quantitative estimation of risks of implementation of projects and on its basis of determination of quality estimation of the state of project and possible operations for the removal of negative consequences from the influence of risks is proposed. Tabl.: 3. Fig.: 2. Refs: 5 titles.
+project management corporate system, risk management, analysis of influence of risks.
+References</td><td>1. Руководство к своду знаний по управлению проектами (Руководство PMBOK). Институт управления проектами. — 2004. — 238 с.<br>2. Мир управления проектами. Основы, методы, организация, применение; под ред. Х. Решке, Х. Шелле. — М. Аланс, 1994.<br>3. Фатрелл Р. Управление программными проектами / Р. Фатрелл, Д. Шафер, Л. Шафер / Пер. с англ. — М.: Вильямс, 2003.<br>4. Артамонов А.А. Некоторые аспекты качественной оценки рисков проекта методом «вероятность – потери» на основе общей классификации // Реконструкция Санкт-Петербург. — 2003: Международная научно-практическая конференция. Сб. докладов. Часть III. — СПб.: СПбГАСУ, 2002.— С. 109–113.<br>5. Артамонов А.А. Функции Управления рисками в процессе реализации инвестиционных строительных проектов: автореф. дис. на соискание ученой степени канд. эконом. наук. / А.А. Артамонов. — Санкт-Петербург, 2003.
+Файлы
+2010-3-11.pdf
+null

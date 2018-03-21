@@ -1,0 +1,12 @@
+﻿2015-2-7
+15. — Vol. 17, N 2
+61–71
+alt="" width="50">PDF,DOC
+Neural and Bayesian networks in the problem of credit risk analysis
+Kuznietsova N.V., Bidyuk P.I.
+The research touches upon analysis of defaults for credit borrowers of financial institution using three types of mathematical models and actual statistical data from a bank. The results of the three models constructing in the form of back propagation neural net, static Bayesian network and their combination are given. A series of computing experiments were performed to estimate defaults among credit borrowers using each model separately and their combined (integrated) version. It is shown that the best forecasting result on the samples studied provides combined model and it was established that solving the problem of default forecasting for a bank clients requires application of several different models an integrated usage of which provides a possibility for reaching better final results of forecasting. Tabl.: 3. Fig.: 3. Refs: 10 titles.
+integrated approach, neural networks, Bayesian networks, сredit risks.
+References</td><td>
+File
+2-7.pdf
+null

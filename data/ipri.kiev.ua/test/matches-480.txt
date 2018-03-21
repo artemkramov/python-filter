@@ -1,0 +1,12 @@
+﻿Pilkevich
+06. — Vol. 8, N 2
+72-79
+width="25px" alt="">PDF,DOC
+Digital Means of Correction of the Frequency Spectra of Signals
+Denisyuk А.Yu, Pilkevich I.A.
+A structural scheme of a digital autocompensator for the increase of information of the radioloca-tion means during their operation in the conditions of the active broad-band interferences is developed. A system of filters, allowing to realize the correction of different types, is proposed. An estimation of the effectiveness of a digital autocompensator is conducted. Tabl.: 2. Fig.: 2. Refs.: 4 titles.
+autocompensator, throwaway castable interference transmitters.
+References</td><td>1. Денисюк А.Ю. Використання математичних методів наближення з метою підвищення ефективності заглушення активних широкосмугових перешкод // Вісник Житомирського держав-ного технологічного університету / Технічні науки. — Житомир: ЖДТУ, 2004. — Вип. № 3(30). — С. 58–61.<br>2. Теоретические основы радиолокации / Под ред. Я.Д.Ширмана. — М.: Сов. радио, 1970. — 560 с.<br>3. Папалески Н.Д. Радиопомехи и борьба с ними. — М.: Гостехиздат, 1944. — 650 с.<br>4. Ширман Я.Д., Манжос B.И. Теория и техника обработки радиолокационной информации на фоне помех. — М.: Радио и связь, 1981. — 416 с.
+File
+Stattja.doc
+null

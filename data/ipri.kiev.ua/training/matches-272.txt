@@ -1,0 +1,12 @@
+﻿2012-3-7
+12. — Vol. 14, N 3
+70-80
+alt="" width="50">PDF,DOC
+Estimation of the Performance of Typical Project Tasks at Enterprises with a Functional Organization Structure
+Kuzminykh V.A., Koval О.V., Voronko M.P
+The questions of correspondence between functional tasks of departments and project tasks are investigated. The suggestion of assessing the execution time of the standard functional tasks of enterprise departments using the results of the previous project tasks execution has been made. The development of the standard functional tasks repository has been suggested. The scheme of the data processing for the project execution timeliness assessment is given. Recommendations on reducing the risk of the planned project execution time excess using the time parameters for the standard functional department tasks from repository during the project planning are given. Fig.: 2. Refs: 8 titles.
+corporate project management system, statistical estimation, project execution risks, the repository tasks.
+References</td><td>
+File
+3-7.pdf
+null

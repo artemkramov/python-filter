@@ -1,0 +1,12 @@
+﻿2009-1-4
+10. — Vol. 12, N 2
+27-32
+alt="">PDF
+The Diagram of a Deviation of Measurements Run Elements from Local Linear Approximations
+Lande D.V., Snarskij A.A.
+The method of revealing and visualization of trends, periodicities, local features in measurements runs ?L-method basing on DFA technology (Detrended Fluctuation Analysis) is offered. The essence of a method consists in display of values of an absolute deviation of points of accumulation run of values of measurements from corresponding values of linear approximation. It is shown, that the ?L-method in some cases allows to define better local features, than the wavelet-analysis. The offered approach, which is simple in realization, can be applied at the analysis of time series in such areas as economy and sociology. Fig.: 6. Refs: 6 titles.
+measurements run, linear approximation, wavelet-analysis, Detrended Fluctuation Analysis, ?L-method.
+References</td><td>1. Peng C.K. Mosaic Organization of DNA Nucleotides / Peng C.K, Buldyrev S.V, Havlin S, Simons M, Stanley H.E, Goldberger A.L. // Phys. Rev. E. — 1994/ — 49(2). — P. 1685–1689.<br>2. Peng C.K. Quantification of Scaling Exponents and Crossover Phenomena in Nonstationary Heartbeat Time Series / Peng C.K, Havlin S., Stanley H.E., Goldberger A.L. // Chaos. — 1995. — Vol. 5. — P. 82.<br>3. Додонов А.Г. Самоподобие массивов сетевых публикаций по компьютерной вирусологии / А.Г. Додонов, Д.В. Ландэ // Реєстрація, зберігання і оброб. даних. — 2007. — Т. 9, № 2. — С. 53– 60.<br>4. Система контент-мониторинга InfoStream. URL [Электронный ресурс]: http://infostream.ua/<br>5. Астафьева Н.М. Вейвлет-анализ: основы теории и примеры применения / Н.М. Астафьева // Успехи физических наук. — 1996. —Т. 166, № 11. —С. 1145–1170.<br>6. Buckheit J. Wavelab and Reproducible Research / Buckheit J., Donoho D. // Stanford University Technical Report 474: Wavelets and Statistics Lecture Notes, 1995. — 27 p.
+Файлы
+2009-1-4.pdf
+null

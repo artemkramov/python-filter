@@ -1,0 +1,12 @@
+﻿2010-1-5
+10. — Vol. 12, N 1
+39-48
+width="50" alt="">PDF,DOC
+Network Information Streams as a Substantial Constituent of Information-Analytical Systems
+Dodonov A.G., Lande D.V., Zhygalo V.V.
+Approaches to creation of means for monitoring, adaptive aggregation and generalisation of information streams from global computer networks for providing information-analytical activity are presented. The concept of adaptive aggregation of information is offered, the short description of experimental system PDF Science Search (PDFSS) is given. The practical importance of work consists in justification of approaches and means of creating the public information-analytical environment for carrying out scientific-analytical researches. Fig.: 5. Refs: 9 titles.
+global computer network, information stream, information network technologies, information analytical environment, adaptive aggregation of information.
+References</td><td>1. Ландэ Д.В. Основы интеграции информационных потоков / Д.В. Ландэ. — К.: Інжиніринг, 2006.— 240 с.<br>2. Lande D. Informationsfluesse im Internet / D. Lande, S. Braichevski, D. Busch // IWP — Information Wissenschaft &amp; Praxis, 59(2007). — Vol. 5. —Р. 277–284.<br>3. Додонов О.Г. Інформаційно-аналітична підтримка прийняття управлінських рішень / О.Г. Додонов, В.Г. Путятін, В.О. Валетчик // Реєстрація, зберігання і оброб. даних. — 2005. — Т. 7, № 2. — С. 77–93.<br>4. Ланде Д.В. Новітні підходи й технології інформаційно-аналітичної підтримки прийняття рішень // Національна безпека: український вимір: щокв. наук. зб. / Рада нац. безпеки і оборони України, Ін-т пробл. нац. безпеки. — К., 2008. — Вип. 1–2 (20–21). — C. 87–105.<br>5. Додонов А.Г. Самоподобие массивов сетевых публикаций по компьютерной вирусологии / А.Г. Додонов, Д.В. Ландэ // Реєстрація, зберігання і оброб. даних. — 2007. — Т. 9, № 2. — С. 53– 60.<br>6. Додонов А.Г. Организация сети информационных прокси-серверов / А.Г. Додонов, Д.В. Ландэ // Реєстрація, зберігання і оброб. даних. — 2006.— Т. 8, № 3. — С. 24–31.<br>7. Document Management — Portable Document Format. — Part 1: PDF 1.7 [Елетронний ре- сурс] // Adobe Systems Inc. — 2008. — 756 р. — Режим доступу: http://www.adobe.com/devnet/ acrobat/PDFs/PDF32000_2008.PDF<br>8. Ландэ Д.В. Дорожная карта сетевого поискового бизнеса / Д.В. Ландэ // Сети и бизнес. — 2009.— № 3. — C. 102–106.<br>9. Meng W. Building Efficient and Effective Metasearch Engines / W. Meng, C. Yu, K.L. Liu // ACM Comput. Surv. — 2002, Mar. — 34, 1 — Р. 48–89.
+File
+RZOD2_04.doc
+null

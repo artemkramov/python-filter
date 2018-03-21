@@ -1,0 +1,12 @@
+﻿2012-4-7
+12. — Vol. 14, N 4
+65–72
+alt="" width="50">PDF,DOC
+A Reduction Method on Finding Out Signal Parameter’s Calculation of the Output of Multi-channel Device of Otimal Spatial-Temporal Treatment of Signals
+Mezentsev A.
+The study presented is the first of its kind to identify the new method of determination of criterion’s value of correlation of signal to (the hindrance + a noise) of the output of multichannel device of optimal spatial-temporal treatment of signals on a background different origin hindrances in the conditions of plenty of spatial and temporal channels of reception that allows to promote the fast-acting of special calculators by the radio-location stations. Refs: 3 titles.
+spatial-temporal treatment of signals, cross-correlation matrix, a correlation of signal to (the hindrance + a noise), active and passive hindrances, combined hindrances, dimension, spatial and temporal channels of reception.
+References</td><td>
+File
+4-7.pdf
+null

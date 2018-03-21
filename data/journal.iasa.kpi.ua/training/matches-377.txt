@@ -1,0 +1,10 @@
+﻿null
+V. D. Levchuk</em><br><br>Belarus</p><p></p><p>Левчук Віктор Дмитрович,</p><p>доцент, кандидат технічних наук, доцент кафедри математичних проблем управління Гомельського державного університету ім. Ф. Скорини, Білорусь, Гомель</p><p>
+108553
+6453">No 4 (2008
+108553/0">Levchuk
+Trial of program and technological tools for automation of service process simulation
+V. D. Levchuk
+The results of the trial of program and technological tools for automation of service process simulation obtained via applying them to the operation of two Homel regional post offices are discussed. Methods for analysis of the quality of postal services are described. They are spread trivially over other problem areas. Technology of the system analysis of the "bottlenecks" change in the course of simulation experiment is considered. It permits one to study complicated processes under conditions markedly different from the conventional operation of post offices.
+108553/103499">PDF (Русский)</a
+—

@@ -1,0 +1,11 @@
+﻿s
+Y. Matsuki</em><br></p><p></p></div><div></div><div><p><em>P. Bidyuk</em><br></p><p></p></div><div></div><div><p><em>V. Kozyrev</em><br></p><p>
+29484
+1726">No 2 (2014
+29484/0">Matsuki
+Empirical investigation of the theory of production function, with the data of alloy production in Ukraine
+Y. Matsuki, P. Bidyuk, V. Kozyrev
+<p>In this research, a mathematical form of production function is investigated, which is a concept of microeconomics theory, with the actual data from the factory in Dnepropetrovsk Region of Ukraine, which produces the alloys from several input materials. A linear form of the production function was selected as the model, which consists of the variables that represent input materials together with their weighting factors, then the Lagrangean multiplier technique was used to transform this model in order to find the conditions for maximizing the output of the production, under a&nbsp;given cost constraint. The obtained conditions present the mathematical relations between the prices and the quantities of the input materials, which include unknown weighting factors. In order to get the values of the weighting factors, statistical analysis is made with the actual data. The result shows statistical significance of the model, therefore it is concluded that the selected linear function can be the production function.</p>
+29484/26107">PDF</a></div><div><h4>References</h4><br><div><p>Browning E.K., Browning J.M. Microeconomic Theory and Application, Third Edition. — Glenview: Scott, Foresman and Company, 1989. — 637 p.</p></div><br
+—
+null

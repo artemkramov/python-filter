@@ -1,0 +1,12 @@
+﻿2009-1-1
+09. — Vol. 12, N 2
+3-10
+alt="">PDF
+The Influence of Refractive Index on Optical Media Data Layer Relief Depth
+Gorbov I.V.
+The model of a playback signal from optical media with relief-phase data recording is created. The playback signal dependence on depth of data layer structure obtained on the surface of substrates with various refractive indices is investigated. Relief depth values required for compatibility of developed long-term data storage media with CD format and playing on conventional optical disc players are calculated for various high-stable transparent materials. Tabl.: 1. Fig.: 7. Refs: 7 titles.
+optical media, long-term data storage, data layer structure, playback signal, CD.
+References</td><td>1. Металеві носії для довготермінового зберігання інформації / [В.В. Петров, А.А. Крючин,С.М. Шанойло та ін.]. — К.: Наук. думка, 2005. — 132 с.<br>2. Горбов І.В. Оптичні дискові носії для довготермінового зберігання даних / І.В. Горбов,В.О. Беляковський // Реєстрація, зберігання і оброб. даних. — 2007. — Т. 9, № 3. —С. 73–87.<br>3. Seehausen G. Influence of Pit Geometry on Readout Signals of Optical Data Disc Drives / G.Seehausen // Electronics Letters. — 1992.— Vol. 28, N 18.— P. 1709–1711.<br>4. Effect of Edge Rounding and Sloping on the Readout Signal of the Information Pits on Оptical Disks / Y. Li, H. Lee, E. Wolf // Optical Engineering. — 2003. — Vol. 42, N 9. — P. 2707–2720.<br>5. Борн М. Основы оптики / М. Борн, Э. Вольф; пер. с англ. С.Н. Бреуса, А.И. Головашкина,А.А. Шубина. — М.: Наука, 1973.— 720 с.<br>6. Pohlmann K.C. The Compact Disk Handbook / Ken C. Pohlmann. — Madison, 1992. — 352 p.7. ISO/IEC 10149:1995 (E). Information Еechnology — Data Interchange on Read-Only 120 mm Optical Data Disks (CD-ROM). — 1995. — 40 p.
+Файлы
+2009-1-1.pdf
+null

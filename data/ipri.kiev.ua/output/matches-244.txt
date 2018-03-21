@@ -1,0 +1,12 @@
+﻿2012-1-4
+12. — Vol. 14, N 1
+35-48&gt;
+alt="" width="50">PDF,DOC
+Construction of High-Dimensional Isomorphic Hypercomplex Number Systems
+Boyarinova Yu.E., Gorodko N.A.
+Some problems of constructing isomorphic hypercomplex number systems (HNS) with the dimen-sion multiplication operator are considered. Multiplication tables of high-dimensional HNSs and isomor-phism operators are obtained. Refs: 15 titles.
+hypercomplex number system, isomorphism, dimension multiplication operator.
+References</td><td>
+File
+1-4.pdf
+null

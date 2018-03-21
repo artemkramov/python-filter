@@ -1,0 +1,12 @@
+﻿2016-4-1
+16. — Vol. 18, N 4
+3–11
+alt="" width="50">PDF,DOC
+Features of the ultrasonic welding of optical mikroprismatic elements wih a dosing of energy.
+Britsky A.I., Kosyak I.V., Tokalin O.A., Tsubin O.A.
+Because of the existence of thermal defects of the microstructure as result of ultrasonic welding of optical elements on the basis of microprism the permissible range of absorbed ultrasound energy is significantly reduced. The possibilities of the control of dosing of energy of ultrasonic influence during welding to improve the quality were observed. It was described the implemented device for metering energy by integrating data on the operating current of the generator of ultrasonic frequency, comparing it with an adjustable predetermined level and interrupt generation. The results of experiments using this device were showed the possibilities and practical use of this. Installed the reasons for limiting the accuracy of batching of energy were discussed. Fig.: 7. Refs: 5 titles.
+microprism, ultrasonic welding, thermal defects of the microstructure, the permissible energy range, а dosing of energy.
+References</td><td>
+File
+4-1.pdf
+null

@@ -1,0 +1,12 @@
+﻿Gorokhovatskii
+08. — Vol. 10, N 4
+75-85
+width="25px" alt="">PDF,DOC
+Structural Image Recognition on the Basis of Models of Attributes Voting of Characteristic Points
+Gorohovatsky V.A., Putyatin E.P.
+Questions of intellectual information processing in computer vision systems are considered. Meth-ods of structural image recognition based on the voting models are investigated. Formalization of the recognition problem is performed, approaches for construction of hierarchical decisions and a function of conformity to a class are offered, results of computer modeling are discussed. Tabl.: 1. Fig. 3, Refs: 10 titles.
+computer vision, image recognition, characteristic points, function of conformity, local and global decisions, relations, voting.
+References</td><td>1. Шлезингер М. Десять лекций по статистическому и структурному распознаванию / М. Шлезингер, В. Главач. — К.: Наук. думка, 2004. — 535 с.<br>2. Путятин Е.П. Обработка изображений в робототехнике / Е.П. Путятин, С.И. Аверин. — М.: Машиностроение, 1990. — 320 с.<br>3. Путятін Є.П. Методи та алгоритми комп’ютерного зору: навч. посіб. / Є.П. Путятін, В.О. Гороховатський, О.О. Матат. — Харків: ТОВ «Компанія СМІТ», 2006. — 236 с.<br>4. Гороховатский В.А. Распознавание изображений в условиях неполной информации / В.А. Гороховатский. — Харьков: ХНУРЭ, 2003. — 112 с.<br>5. Путятин Е.П. Распознавание изображений в пространстве инвариантных локальных при-знаков / Е.П. Путятин, В.А. Гороховатский, С.В. Кузьмин // Радиоэлектроника и информатика. — 2006, № 1(32). — С. 69–73.<br>6. Шапиро Л. Компьютерное зрение / Л. Шапиро, Дж. Стокман; пер. с англ. — М.: Бином. 2006. — 752 с.<br>7. Lowe D.G. Distinctive Image Features from Scale-Invariant Keypoints // International Journal of Computer Vision. — 2004. — 60, N 2. — Р. 91–110.<br>8. Schmid C. Local Greyvalue Invariants for Image Retrieve / C. Schmid, R. Mohr // IEEE Trans. Pattern Analysis and Machine Intelligence. —1997. — Vol. 5, N 19. — P. 530–535.<br>9. Duda R.O. Pattern Classification. — 2 ed. / R.O. Duda, P.E. Hart, D.G. Stork. — Wiley, 2000. — 738 p.<br>10. Kim S. Biologically Motivated Perceptual Feature: Generalized Robust Invariant Feature / S. Kim, I.-S. Kweon. — In Asian Conference of Computer Vision (ACCV–06). — 2006. — P. 305–314.
+Файлы
+stattja.doc
+null

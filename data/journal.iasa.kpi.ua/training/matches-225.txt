@@ -1,0 +1,10 @@
+﻿null
+O. S. Balabanov</em><br>старший науковий співробітник Інституту програмних систем НАН України, Київ<br>Ukraine</p><p></p><p>Балабанов Олександр Степанович,</p><p>кандидат технічних наук, старший науковий співробітник Інституту програмних систем НАН України, Київ</p><p>
+74202
+4375">No 4 (2011
+74202/0">Balabanov
+From covariation to causation. Discovery of structures of dependency in data
+O. S. Balabanov
+The current methodology of output casual models and structures of systems of probabilistic dependencies of stafistical data of passive observation is analysed. The problems, features, traps and limitations of the methods of the inductive identification of casual relation in the unit of marcov properties and bayesias nets are highlighted. Several stages of casual models according to the level of their validity and adequacy of the data source are emphasized. The statistical pattern, which brings the justification of a finding about casual nature of the connections between two variables to the test of a set of statistical facts of (in)dependency is formulated.
+74202/69666">PDF (Українська)</a
+—

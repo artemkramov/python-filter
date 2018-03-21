@@ -1,0 +1,11 @@
+﻿s
+P. Kasyanov</em><br>Кафедра диференціальних рівнянь механіко-математичного факультету Київського національного університету ім. Тараса Шевченка, Київ<br>Ukraine</p><p></p><p>Касьянов Павло Олегович,</p><p>кандидат фізико-математичних наук, асистент кафедри диференціальних рівнянь механіко-математичного факультету Київського національного університету ім. Тараса Шевченка, Київ, Україна.</p><p></p></div><div></div><div><p><em>V. Mel'nik</em><br>Навчально-науковий комплекс "Інститут прикладного системного аналізу" НАН України та Міносвіти і науки України, Київ<br>Ukraine</p><p></p><p>Мельник Валерій Сергійович,</p><p>член-кореспондент НАН України, доктор фізико-математичних наук, завідувач відділу Навчально-наукового комплексу "Інститут прикладного системного аналізу" НАН України та Міносвіти і науки України, Київ.</p><p>
+108911
+6467">No 3 (2008
+108911/0">Kasyanov
+On some topological properties for special classes of Banach spaces. Part 2
+P. Kasyanov, V. Mel'nik
+We consider some classes of infinite-dimensional Banach spaces with integrable derivatives. A compactness lemma for nonreflexive spaces is obtained. However some main topological properties for the given spaces are obtained.
+108911/103828">PDF</a
+—
+null

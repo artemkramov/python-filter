@@ -1,0 +1,12 @@
+﻿2016-1-5
+16. — Vol. 18, N 1
+42–51
+alt="" width="50">PDF,DOC
+Researches of characteristics of domestic radiopaque fabrics H1, H2 and H3 with the use of different combinations of theirs
+Yaremchuk Yu.Е., Kataiev V.S., Guzhko M.Ju, Pavlovskiy P.V.
+Experimentally investigated the domestic radiopaque fabrics H1, H2 and H3 for determination of shielding factor for different combinations of the fabrics. Radar experimentally investigated tissue domestic production H1, H2 and H3 and determined the overall rate of screening for different variations of the combination of these tissues. The laboratory measurements have been performed in the frequency range taking into consideration the placing of the fibers. The results have been obtained for both horizontal and for vertical locations. For researches touching upon the antenna emitting device there are used several screening combinations of the fabrics: H1-H2, H3-H2 and H1-H3. The measurement results have showed that, for all combinations of the fabrics, the screening factor varies considerably through frequency band and depends on the location of the fabric fibers. Fig.: 6. Refs: 11 titles.
+information security, spurious radiation, radiopaque fabrics, screening coefficient.
+References</td><td>
+File
+1-5.pdf
+null

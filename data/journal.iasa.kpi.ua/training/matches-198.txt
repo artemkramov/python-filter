@@ -1,0 +1,11 @@
+﻿s
+M. Z. Zgurovsky</em><br><a href="http://orcid.org/0000-0001-5896-7466">ORCID iD</a>ректор Національного технічного університету України "КПІ", директор Навчально-наукового комплексу "Інститут прикладного системного аналізу" НТУУ "КПІ" МОН та НАН України, Київ<br>Ukraine</p><p></p><p>Згуровський Михайло Захарович,</p><p>академік НАН України, професор, доктор технічних наук, ректор Національного технічного університету України "КПІ", директор Навчально-наукового комплексу "Інститут прикладного системного аналізу" НТУУ "КПІ" МОН та НАН України, Київ</p><p></p></div><div></div><div><p><em>Yu. P. Zaychenko</em><br>професор Навчально-наукового комплексу "Інститут прикладного системного аналізу" Національного технічного університету України "КПІ" МОН та НАН України, Україна, Київ<br>Ukraine</p><p></p><p>Зайченко Юрій Петрович,</p><p>професор, доктор технічних наук, професор Навчально-наукового комплексу "Інститут прикладного системного аналізу" Національного технічного університету України "КПІ" МОН та НАН України, Україна, Київ</p><p>
+71978
+4265">No 2 (2012
+71978/0">Zgurovsky
+Complex bankruptcy risk analysis of the enterprises under uncertainty. Part 2
+M. Z. Zgurovsky, Yu. P. Zaychenko
+Different methods of enterprise bankruptcy risk analysis with application of fuzzy neural networks with the algorithms of finding Mamdani and Zukamoto are proposed. Experimental research of a clear method of Altman, fuzzy multi-method of Nedosekin and FNN in problems of analysis of risk of bankruptcy, which are considered on the example of the enterprises of Ukraine, are carried out, their efficiency is estimated and the most adequate method for Ukrainian economy was determined.
+71978/66951">PDF (Русский)</a
+—
+null

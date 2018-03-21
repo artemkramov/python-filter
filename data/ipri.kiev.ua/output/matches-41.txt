@@ -1,0 +1,12 @@
+﻿Zakidalskii
+08. — Vol. 10, N 1
+44-48
+width="25px" alt="">PDF,DOC
+Minimization of Calculations in the Algorithm of Volume Reconstruction
+Zakidalsky A.I.
+It is suggested to use preliminary interpolation of convolute projection data during realization of in-verted projection in the algorithm of volume reconstruction. Analysis results of difficulty of different ways for interpolation realization are prеsented, the estimation of error because of presence in the spec-trum of a signal of constituents higher than Nyquist frequency is given. It is suggested to use the truncated sinc-interpolation with Lanczos window, to provide exactness comparable with interpolation on the basis of the fast Fourier transform, but with computational complexity by an order lesser. Tabl.: 2. Fig.: 3. Refs.: 4 titles.
+volume reconstruction, inverted projection, convolution, interpolation, reconstruction algorithm.
+References</td><td>1. Терновой К.С., Синьков М.В., Закидальский А.И., Яник А.Ф., Тарасенко-Зеленая Л.И. Вве-дение в современную томографию. ? К.: Наук. думка, 1983. ? 232 с.<br>2. Ланцош К. Практические методы прикладного анализа / Пер. с англ. / Под ред. А.М. Лоп-шица. — М.: Гос. изд-во. физ.-мат. лит., 1961 — 524 с.<br>3. Закидальский А.И. О вопросах развития алгоритмов объемной реконструкции в компью-терной томографии // Реєстрація, зберігання і оброб. даних. — 2002. — Т. 4, № 4. — С. 30–34.<br>4. Синьков М.В., Закидальский А.И. Объемная реконструкция «больших» объектов на томо-графах с ограниченной по размерам матрицей детекторов // Реєстрація, зберігання і оброб. даних. — 2003. — Т. 5, № 3. — С. 18–25.
+Файлы
+stattja.doc
+null

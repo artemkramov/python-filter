@@ -1,0 +1,11 @@
+﻿s
+I. V. Redko</em><br><br>Ukraine</p><p></p></div><div></div><div><p><em>T. V. Podladchikova</em><br><br>Ukraine</p><p></p></div><div></div><div><p><em>V. N. Podladchikov</em><br><br>Ukraine</p><p>
+106464
+6335">No 2 (2011
+106464/0">Redko
+Increasing of estimation efficiency for parameters of distribution of limited experimental data
+I. V. Redko, T. V. Podladchikova, V. N. Podladchikov
+To study the statistical properties of estimates under conditions of limited experimental data it is proposed in the work to combine the experimental data processing with the procedure of simulation modeling, which simulates the continuing of the experimentation under the same conditions. The proposed methodology is used to increase the efficiency the estimation of exponent of the solar flares distribution law.
+106464/101559">PDF (Русский)</a
+—
+null

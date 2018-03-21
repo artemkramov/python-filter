@@ -1,0 +1,12 @@
+﻿Landeh
+06. — Vol. 8, N 3
+24-31
+width="25px" alt="">PDF,DOC
+The Organization of Information Proxy Servers Network
+Dodonov A.G., Lande D.V.
+Problems of the modern web-space which prevent to consider it as a reliable and viable information resource are given. The approach to the organization of the network infrastructure allowing to solve a set of problems based on use of content-monitoring systems and information proxies network is described. Fig.: 2. Refs: 9 titles.
+Internet resources, information proxy server, reliability, data availability, information network in-frastructure, web content.
+References</td><td>1. Додонов А.Г., Клещев Н.Т., Клименко В.Г. Анализ отраслевых вычислительных сетей. — Л.: Судостроение, 1990. — 256 с.<br>2. Вимоги до захисту інформації WEB-сторінки від несанкціонованого доступу. НД ТЗІ 2.5-010-03. — К.: ДСТСЗІ СБ України, 2003. — 20 с.<br>3. Уэйнрайт П. Apache для профессионалов. — М.: Лори, Wrox Press Ltd, 2001. — 474 с.<br>4. Дюбуа П. MySQL. — М.: ИД «Вильямс», 2004. — 1056 с.<br>5. Фурашев В.Н., Ландэ Д.В., Григорьєв А.Н., Фурашев А.В. Электронное информационное общество Украины: взгляд в настоящее и будущее // Академия правовых наук Украины. Научно-исследовательский центр правовой информатики. — К.: Инжиниринг, 2005. — 163 с.<br>6. Азаров С.С., Додонов А.Г. Информационные техологии: кибервойны, информационные войны и сетевые войны: Сб. науч. тр. Международной конференции «Информационные техноло-гии и безопасность». Вып. 5. — К.: Национальная академия наук Украины, 2003. — C. 3–11.<br>7. Ландэ Д.В. Данные в кармане // CHIP/Украина. — 2002. — № 6. — С. 82–85.<br>8. Ландэ Д.В. Сканер системы контент-мониторинга InfoStream // Открытые информацион-ные и компьютерные интегрированные технологии: Сб. науч. тр. Вып. 28. — Харьков: Аэрокос-мический ун-т «ХАИ», 2005. — С. 53–58.<br>9. Ланде Д.В., Фурашев В.М, Григор’єв О.М. Програмно-апаратний комплекс інформаційної підтримки прийняття рішень: Науково-методичний посібник. — К.: ТОВ «Інжиніринг, 2006. — 48 с.
+File
+proxy-art.doc
+null

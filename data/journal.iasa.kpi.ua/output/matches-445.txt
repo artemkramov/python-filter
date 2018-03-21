@@ -1,0 +1,11 @@
+﻿null
+Oksana S. Pichugina</em><br><a href="http://orcid.org/0000-0002-7099-8967">ORCID iD</a>The Department of Applied Mathematics of Kharkiv National University of Radio Electronics, Kharkiv<br>Ukraine</p><p></p><p>Oksana Sergeevna Pichugina,</p><p>Candidate of physical and mathematical sciences, an associate professor, a doctoral student at the Department of Applied Mathematics of Kharkiv National University of Radio Electronics, Kharkiv, Ukraine.</p>Research areas: Combinatorial Optimization; Mathematical Modeling; Graph Theory.<p>
+103892
+7139">No 4 (2017
+103892/0">Pichugina
+Optimization over the general signed permutation set of permutations
+Oksana S. Pichugina
+A general signed permutation set is introduced. Approaches to optimization on it that are based on its mapping into the Euclidean space are considered. In the scope of the study, properties of the Euclidean combinatorial set and its convex hull - the general signed permutohedron are derived. They include set’s cardinality, an irreducible H-representation of the polyhedron, its dimension, the vertex and adjacency vertex criteria, and the number of combinatorially nonisomorphic polyhedra of a fixed dimension. The behavior of some classes of functions over the general signed permutation set is investigated. Functional-analytical representations of this set are constructed including polyhedral-superspherical and strict superspherical. Explicit solutions of a linear problem and a projection problem over the general signed permutation set are presented. The research allows applying continuous methods to optimization on the discrete set and obtaining both exact and approximate solutions with accuracy estimates.</div><br></div><div><h4>Keywords</h4><br><div>combinatorial optimization; the polyhedral-spherical set; signed permutations; the general permutation set; the binary set; a supersphere; the polyhedral-surface method; the conditional gradient method
+103892/114234">PDF (Русский)</a
+—
+><br><br>DOI:<a href="https://doi.org/10.20535/SRIT.2308-8893.2017.4.07">https://doi.org/10.20535/SRIT.2308-8893.2017.4.07</a

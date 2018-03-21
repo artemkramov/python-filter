@@ -1,0 +1,12 @@
+﻿2013-2-4
+13. — Vol. 15, N 2
+39–47
+alt="" width="50">PDF,DOC
+Identification of Voice Characteristics on the Base of Wavelet Transformation Maximums
+Solovyev V.I.
+The results of studies on the development of the methodology and mathematical model of detection and analysis of self-similar structures in the utterances of audio files have been demonstrated. The model allows through Morlet wavelet basis to allocate the spatial domain scaling graphs geometric formations with ridge-like structure. It is shown that these structures, under certain conditions, are of the one-to-one correspondence to the individual characteristics of the voice. Fig.: 4. Refs: 26 titles.
+self-similar structure, parts of speech, the identification of individual characteristics of voice.
+References</td><td>
+File
+2-4.pdf
+null

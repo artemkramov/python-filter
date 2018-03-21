@@ -1,0 +1,10 @@
+﻿null
+S. Zhuk</em><br><br>Ukraine</p><p></p><p>Жук Сергій Миколайович,</p><p>кандидат фізико-математичних наук, молодший науковий співробітник Київського національного університету ім.&nbsp;Тараса Шевченка, Україна, Київ</p><p>
+106967
+6358">No 2 (2010
+106967/0">Zhuk
+Minimax recursive state estimation for linear discrete-time descriptor systems
+S. Zhuk
+This paper describes an approach to the online state estimation of systems described by a general class of linear noncausal time-varying difference descriptor equations subject to uncertainties. An approach is based on the notions of a linear minimax estimation and an index of causality introduced here for singular difference equations. The online minimax observer is derived by the application of the dynamical programming and Moore's pseudoinverse theory to the minimax estimation problem.
+106967/101968">PDF</a
+—

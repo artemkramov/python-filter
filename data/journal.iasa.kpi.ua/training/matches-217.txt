@@ -1,0 +1,11 @@
+﻿s
+A. N. Alekseychuk</em><br>професор кафедри Інституту спеціального зв’язку та захисту інформації Національного технічного університету України "КПІ", Україна, Київ<br>Ukraine</p><p></p><p>Олексійчук Антон Миколайович,</p><p>доктор технічних наук, професор кафедри Інституту спеціального зв’язку та захисту інформації Національного технічного університету України "КПІ", Україна, Київ</p><p></p></div><div></div><div><p><em>S. V. Gryshakov</em><br>здобувач Інституту спеціального зв’язку та захисту інформації Національного технічного університету "КПІ", Україна, Київ<br>Ukraine</p><p></p><p>Гришаков Сергій Володимирович,</p><p>здобувач Інституту спеціального зв’язку та захисту інформації Національного технічного університету "КПІ", Україна, Київ</p><p>
+73419
+4375">No 4 (2011
+73419/0">Alekseychuk
+Unasymptotic estimates of random coding efficiency in the system of information transfer channel with take-off
+A. N. Alekseychuk, S. V. Gryshakov
+The efficiency of random coding during the multiple irredundant messages transmission through a binary symmetric channel with take-off is investigated. Unasymptotic estimates of the reliability of message recovery by a legitimate recipient of information and the sustainability of their protection in take-out channel are obtained.
+73419/68802">PDF (Русский)</a
+—
+null

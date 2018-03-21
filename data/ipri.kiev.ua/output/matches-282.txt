@@ -1,0 +1,12 @@
+﻿2012-4-4
+12. — Vol. 14, N 4
+33–40
+alt="" width="50">PDF,DOC
+Principle of Search Informative Wavelet-Transformed Values in Conditions of a Partial Restoration of the Initial Data
+Voloshko A.V., Lutchyn T.N.
+A method of selecting informative coefficients being derived after the wavelet-transform has been proposed for searching a particular value of the entire original data base. For that search the decomposi-tion-tree has been investigated by using that the functional connections were determined between the original and transformed data. Tabl.: 2. Fig.: 6. Refs: 5 titles.
+wavelet-transform, functional links, search of informative values.</td><td>
+References</td><td>
+File
+4-4.pdf
+null

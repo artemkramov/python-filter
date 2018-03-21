@@ -1,0 +1,11 @@
+﻿s
+Mykola I. Ilin</em><br><a href="http://orcid.org/0000-0002-1655-1128">ORCID iD</a>The Institute of Physics and Technology of National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute", Kyiv<br>Ukraine</p><p></p><p>Mykola Ilin,</p><p>a scientific researcher at the Institute of Physics and Technology of National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute", Kyiv, Ukraine.</p><p></p></div><div></div><div><p><em>Oleksii M. Novikov</em><br><a href="http://orcid.org/0000-0002-7802-7890">ORCID iD</a>National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute", Kyiv<br>Ukraine</p><p></p><p>Oleksii Novikov,</p><p>Doctor of Technical Sciences, professor, a vice-rector on educational work at National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute", Kyiv, Ukraine.</p><p>
+117180
+7035">No 3 (2017
+117180/0">Ilin
+Identification of the intensity of air pollution sources based on hybrid computer systems
+Mykola I. Ilin, Oleksii M. Novikov
+The method of identification of the intensity of the sources of chemically interacting pollutants is presented. The implemented model includes the phenomenon of self-purification in reaching the limit concentration. For computational implementation the possibility is shown of using parallel methods based on Nvidia CUDA graphic processing units. The method of source identification combined with the parallel computing implementation using the modified red-black ordering (D4) method reduces simulation time by 12 times and the RAM usage by 30% when using the Nvidia c2050 graphics accelerator in comparison with the node of the NTUU "KPI" cluster.</div><br></div><div><h4>Keywords</h4><br><div>parametric identification method; atmospheric pollution; hybrid computing systems; GPGPU
+117180/111278">PDF (Українська)</a
+—
+><br><br>DOI:<a href="https://doi.org/10.20535/SRIT.2308-8893.2017.3.03">https://doi.org/10.20535/SRIT.2308-8893.2017.3.03</a

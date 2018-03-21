@@ -1,0 +1,10 @@
+﻿null
+N. I. Nedashkovskaya</em><br><br>Ukraine</p><p></p><p>Недашківська Надія Іванівна,</p><p>кандидат технічних наук, доцент Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p>
+106899
+6356">No 3 (2010
+106899/0">Nedashkovskaya
+Multicriteria decision making using the maximin аnalytic hierarchy process (AHP)
+N. I. Nedashkovskaya
+Different types of rank reversals are investigated when the modified AHP with maximin synthesis is used to solve a multicriteria decision making problem. The rank reversal effect is modeled, and the conditions for its occurring in the maximin synthesis are established.
+106899/101904">PDF (Русский)</a
+—

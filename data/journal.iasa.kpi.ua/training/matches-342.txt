@@ -1,0 +1,11 @@
+﻿s
+M. Z. Zgurovsky</em><br><br>Ukraine</p><p></p><p>Згуровський Михайло Захарович,</p><p>академік НАН України, професор, доктор технічних наук, ректор Національного технічного університету України «КПІ», директор Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p></p></div><div></div><div><p><em>A. A. Pavlov</em><br><br>Ukraine</p><p></p><p>Павлов Олександр Анатолійович,</p><p>академік Академії наук вищої школи, професор, доктор технічних наук, декан факультету інформатики та обчислювальної техніки Національного технічного університету України «КПІ», Київ</p><p>
+107840
+6391">No 3 (2009
+107840/0">Zgurovsky
+Hierarchic planning with network representation of technological processes and limited resources as a Decision Making Problem
+M. Z. Zgurovsky, A. A. Pavlov
+The effective planning problem in systems with network representation of technological processes and limited resources is researched. The use of hierarchic planning models is grounded. It has been shown that even the effective problem solution by one scalar criterion is only the first stage of effective planning realization as a decision making problem with a poorly formalized global goal.
+107840/102787">PDF (Русский)</a
+—
+null

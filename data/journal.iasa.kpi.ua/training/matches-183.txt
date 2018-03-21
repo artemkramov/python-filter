@@ -1,0 +1,11 @@
+﻿s
+P. I. Bidyuk</em><br>професор Навчально-наукового комплексу "Інститут прикладного системного аналізу" НТУУ "КПІ" МОН та НАН України, Київ<br>Ukraine</p><p></p><p>Бідюк Петро Іванович,</p><p>професор, доктор технічних наук, професор Навчально-наукового комплексу "Інститут прикладного системного аналізу" НТУУ "КПІ" МОН та НАН України, Київ</p><p></p></div><div></div><div><p><em>M. M. Konovaliuk</em><br>аспірант Навчально-наукового комплексу "Інститут прикладного системного аналізу" НТУУ "КПІ" МОН та НАН України, Київ<br>Ukraine</p><p></p><p>Коновалюк Максим Михайлович,</p><p>аспірант Навчально-наукового комплексу "Інститут прикладного системного аналізу" НТУУ "КПІ" МОН та НАН України, Київ</p><p>
+71771
+3681">No 3 (2012
+71771/0">Bidyuk
+Determining the risk measure VaR using parameters of stochastic volatility model
+P. I. Bidyuk, M. M. Konovaliuk
+To describe the dynamics of conditional variance the stochastic volatility model is proposed the structure of which reflects actual changes of variance for financial hetero-scedastic processes. The stochastic volatility model parameters estimates are computed with the Markov chain Monte Carlo technique using Open BUGS environment. To reduce the computation time an appropriate model specification was proposed. The estimates of the conditional variance, computed by the Monte Carlo method, were used for forecasting the value of possible losses VaR for selected financial stock processes represented by statistical data. The quality of forecasts is quite acceptable for decision making in stock trading.
+71771/66764">PDF (Українська)</a
+—
+null

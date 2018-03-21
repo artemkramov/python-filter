@@ -1,0 +1,10 @@
+﻿null
+А. P. Makhort</em><br><br>Ukraine</p><p>
+43891
+2553">No 3 (2013
+43891/0">Makhort
+On the impact on the equilibrium in the economic system of the nonlinear dependence of the of goods consumption structure from the price
+А. P. Makhort
+The equilibrium conditions of an open economy system, contained monopolies, are investigated. The principles of economy equilibrium are set in a Walras sense. The presence of a goods production in the model is considered. All consumers in the economy are insatiable. The prices dependence of a consumption bundle formation of economy subjects are taken into account. The algorithm of determination of economy equilibrium states is proposed. The influence of prices dependence of consumption structure on characteristics of equilibrium states is considered. The conditions of absence of monopoly negative influences on the economy are investigated. The optimal equilibrium state in a sense of a satisfaction of consumption needs is determined. The estimation expressions of monopoly taxation are obtained. The relation between selection of a taxation strategy and the realization of a particular equilibrium state is discovered.
+43891/40173">PDF (Українська)</a></div><div><h4>References</h4><br><div><p>Гончар М.С. Математичні основи інформаційної економіки. — К.: Ін-т. теор. фізики, 2007. — 464 с.</p><p>Debreu G. Existence of competitive equilibrium // Handbook of Mathematical Economics. — Amsterdam: North-Holland Publishing Company, 1982. — vol. II. — P. 698–742.</p><p>Махорт А.П. Вплив насичуваності споживачів на умови досягнення рівноваги в економічній системі // Системні дослідження та інформаційні технології. — 2008. — № 4. — С. 86 – 96.</p><p>Махорт А.П. Оптимізація монопольних впливів в економічній системі з урахуванням оподаткування // Доповіді НАН України. — 2006. — № 12. — С. 74–80.</p><p></p></div><br
+—

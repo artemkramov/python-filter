@@ -1,0 +1,11 @@
+﻿s
+I. V. Zhdanova</em><br><br>Ukraine</p><p></p><p>Жданова Ірина Валеріївна,</p><p>кандидат технічних наук, доцент кафедри інформаційної безпеки Фізико-технічного інституту Національного технічного університету України «КПІ», Київ</p><p></p></div><div></div><div><p><em>O. M. Novikov</em><br><br>Ukraine</p><p></p><p>Новіков Олексій Миколайович,</p><p>професор, доктор технічних наук, директор Фізико-технічного інституту Національного технічного університету України «КПІ», Київ</p><p>
+106818
+6349">No 4 (2010
+106818/0">Zhdanova
+Control of one-sided viscous oil filtration process under conditions of limited pressure gradient
+I. V. Zhdanova, O. M. Novikov
+A control algorithm for аn one-sided process with a multivalue obstacle is proposed. The model of the process is represented in the variational inequality form with a nonsmooth functional of accordance. The algorithm is applied to the oil filtration control problem with a limited pressure gradient.
+106818/101881">PDF (Українська)</a
+—
+null

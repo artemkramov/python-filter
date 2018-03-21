@@ -1,0 +1,11 @@
+﻿s
+T. V. Kozulіa</em><br><br>Ukraine</p><p></p><p>Козуля Тетяна Володимирівна,</p><p>кандидат географічних наук, доцент кафедри автоматизованих систем управління Національного технічного університету «Харківський політехнічний інститут», Україна, Харків</p><p></p></div><div></div><div><p><em>N. V. Sharonova</em><br><br>Ukraine</p><p></p><p>Шаронова Наталія Валеріївна,</p><p>професор, доктор технічних наук, завідувач кафедри інтелектуальних комп’ютерних систем Національного технічного університету «Харківський політехнічний інститут», Україна, Харків</p><p>
+106819
+6349">No 4 (2010
+106819/0">Kozulіa
+Practical realization of the corporative ecological system concept for integral estimation of ecological health risk
+T. V. Kozulіa, N. V. Sharonova
+Practical and theoretical fundamentals for the necessity and advisability of introduction of the corporative ecological system (CES) into the decision making system are prescuted. Mathematical approaches are defined to the determination, of interactions between the CES components, the ascertainment of breaking risk from the appearance of negative influence factor, and the introduction of health risk estimation as a danger criterion of a socioeconomic system. An algorithm of the CES state determination on the basis of health risk estimation is presented.
+106819/101882">PDF (Українська)</a
+—
+null

@@ -1,0 +1,12 @@
+﻿2016-2-7
+16. — Vol. 18, N 2
+61–66
+alt="" width="50">PDF,DOC
+A model of functioning process of the aircraft’s cross-correlation extreme navigation system and the factors affecting on the accuracy and productivity of the image processing
+Меzеntcеv A.V., Butоchnоv A.N., Uzеfоvich V.V., Мirоnuk S.V.
+A generalized model of functioning process of the cross-correlation extreme navigation systems taking into account basic factors of the indeterminacy of functioning conditions due to the influence of various interferences is proposed. Fig.: 1. Refs: 12 titles.
+model, reference pattern, cross-correlation-extreme navigation system, analysis, image processing, interference, noise.
+References</td><td>
+File
+2-7.pdf
+null

@@ -1,0 +1,11 @@
+﻿null
+Bohdan M. Popovych</em><br><a href="http://orcid.org/0000-0002-1869-1407">ORCID iD</a>Educational and Scientific Complex "Institute for Applied System Analysis" of the National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute", Kyiv<br>Ukraine</p><p></p><p>Bohdan Mykolayovych Popovych,</p><p>a student at Educational and Scientific Complex "Institute for Applied System Analysis" of the National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute", Kyiv, Ukraine.</p><p>
+119440
+7139">No 4 (2017
+119440/0">Popovych
+Forecasting non-linear non-stationary processes in economics and finances
+Bohdan M. Popovych
+A decision-making support system for research and construction of mathematical models describing processes in economics and finance has been developed; for estimation of forecasts for performing computational experiments. An information analytical system for modeling and forecasting processes in economy and finance based on regression models with a moving average has been created. The results of forecasting prices for selected assets are presented with the help of both the developed software product and the existing products for statistical data processing. For the analysis of the results, the quality criteria for estimating the constructed models and the quality of the estimates of the forecasts were used. The software was designed and developed to implement the tasks. The analysis, modeling and forecasting of gold prices, shares of "Ukrnafta" and "Motor Sich" companies were carried out.</div><br></div><div><h4>Keywords</h4><br><div>Decision support system; nonlinear processes; nonstationary processes; heteroscedastic processes; autoregressive model of the moving average
+119440/114231">PDF (Русский)</a
+—
+><br><br>DOI:<a href="https://doi.org/10.20535/SRIT.2308-8893.2017.4.04">https://doi.org/10.20535/SRIT.2308-8893.2017.4.04</a

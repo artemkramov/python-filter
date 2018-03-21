@@ -1,0 +1,12 @@
+﻿KHadzhinov
+07. — Vol. 9, N 2
+77-87
+width="25px" alt="">PDF,DOC
+Model and classification of database replication techniques
+Wlodzimierz Khadzynov, Mateusz Maksymiuk
+Construction of a universal mathematic-logical model of replication pro-cesses in data bases is considered. The fundamental definitions of notions for different types of replication are given. The classification of replication tech-niques is proposed and the respective efficiency criteria are determined. The variants of realization for system architecture, locking strategy, servers interaction, transaction termination, database platforms, correctness criteria of transaction terminator are discussed.
+database replication, distributed database, transaction, locking transactions, isolation transactions.
+References</td><td>1. Ciciani B., Dias D.M. Analysis of Replication in Distributed Database Systems // IEEE Transac-tions on Knowledge and Data Engineering. — June, 1990. — Vol. 2, N 2.<br>2. Gray J.N., Helland P., O’Neil P., and Shasha D. The Dangers of Replication and a Solution // Proc. of the 1996 International Conf. on Management of Data. — Montreal (Canada). — June, 1996.<br>3. Wiesmann M. Group Communications and Database Replication: Techniques, Issues and Per-formance // Lausanne, EPFL. — 2002.<br>4. Carrey M.J., Livny M. Distributed Concurrency Control Performance: A Study of Algorithms, Distribution, and Replication. — Los Angeles (California). — 1988.<br>5. Berenson H., Bernstein P. A Critique of ANSI SQL Isolation Levels. — San Jose, 1995.<br>6. Kemme B. Database Replication for Clusters of Workstations. — Swiss Federal Institute of Technology (ETH). — Zurich, 2000.<br>7. Lin Y. Database Replication in Wide Area Networks. — 2005.<br>8. Wiesmann M., Pedone F., Schiper A., Kemme B., Alonso G. Database Replication Techniques: a Three Parameter Classification. — Swiss Federal Institute of Technology (ETH). — Zurich, 2000.
+Файлы
+Mod-nov.doc
+null

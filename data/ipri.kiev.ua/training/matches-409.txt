@@ -1,0 +1,12 @@
+﻿2015-4-8
+15. — Vol. 17, N 4
+71–92
+alt="" width="50">PDF,DOC
+Choice of a rational variant of the technical implementation of complex organizational-technical systems in the context of multicriteriality
+Putyatin V.G.
+The method of selecting compromise of the technical implementation of a complex organizational and technical system with taking into consideration of a set of additive criteria has been considered. Fig.: 3. Refs: 16 titles.
+system, option, task, optimization, multicriteriality, method, compromise.
+References</td><td>
+File
+4-8.pdf
+null

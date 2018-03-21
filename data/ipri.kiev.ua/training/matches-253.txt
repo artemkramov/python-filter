@@ -1,0 +1,12 @@
+﻿2012-2-2
+12. — Vol. 14, N 2
+14-24
+alt="" width="50">PDF,DOC
+Simplifying the Procedure of Defining the Vectors Using Spherical-Angular Interpolation
+Romanyuk O.N., Obidnyk M.D., Melnykov O.M.
+Modification of the method of spherical-angular interpolation of vectors for the toning has been suggested. Simplifying of calculation as compared with basic method is achieved by the fact that the angle between normals of neighboring pixels in rasterization lines is calculated once for the entire range. The error that occurs while using the proposed modification is calculated. Fig.: 8. Refs: 9 titles.
+normal, spherical-angular interpolation, range, rasterization.
+References</td><td>
+File
+2-2.pdf
+null

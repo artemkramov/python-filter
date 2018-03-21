@@ -1,0 +1,12 @@
+﻿2010-2-10
+10. — Vol. 12, N 2
+103-112
+alt="">PDF
+Strategy of Innovative Activity on the Basis of Technology Foresight Methodology
+Zgurovsky M.Z., Pankratova N.D.
+Methodology of scenario analysis, realization of which is based on successive implementation of the basic stages of technological foresight process, is given. It allows to form the integral process of foresight and develop a group of scenarios of the future behaviour of a research object. On the basis of the offered methodology the exposure of critical technologies priorities by Power Engineering and Power Efficiency direction in Ukraine is conducted. Tabl.: 2. Fig.: 3. Refs: 7 titles.
+technology foresight, tool, scenario analysis, decision-making, energy-saving technology.
+References</td><td>1. Згуровский М.З. Технологическое предвидение / М.З. Згуровский, Н.Д. Панкратова. — К.: ІВЦ Издательство «Политехника», 2005. — 155 с. М. З. Згуровский, Н. Д. Панкратова 112<br>2. Згуровский М.З. Информационная платформа сценарного анализа задач технологического предвидения / М.З. Згуровский, Н.Д. Панкратова // Кибирнетика и системный анализ. —2003.— С. 112 – 124.<br>3. Zgurovsky M.Z. System Analysis: Theory and Applications / M.Z. Zgurovsky, N.D. Pankratova. — Springer. — 2007. — 475 p.<br>4. Zgurovsky M. The Scenario Analysis Platform as an Methodological Base of the National ForesighProgram of Ukraine // System Research and Information Technologies. — 2003. — № 1.— P. 7–25.<br>5. Панкратова Н.Д. Математическое обеспечение задач технологического предвидения применительно к отрасли промышленности / Н.Д. Панкратова // Системні дослідження та інформаційні технології. — 2003. — № 1.— С. 26–33.<br>6. Згуровский М.З. Системный анализ. Проблемы, методология, приложения / М.З. Згуровский, Н.Д. Панкратова. — К.: Наук. думка, 2005. — 744 с.<br>7. Pankratova N.D. The Scenario Analysis Information Platform for Technology Foresight Problems / N.D. Pankratova // Proceedings of Seminar on Technology Foresight Methods and Practices for Ukraine. — 31 August – 4 September 2004.— National Technical University of Ukraine «KPI». — 2004. — P. 186–217.
+Файлы
+2010-2-9.pdf
+null

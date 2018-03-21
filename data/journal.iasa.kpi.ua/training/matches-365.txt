@@ -1,0 +1,10 @@
+﻿null
+K. E. Petrov</em><br><br>Ukraine</p><p></p><p>Петров Костянтин Едуардович,</p><p>доцент, кандидат технічних наук, старший науковий співробітник проблемної науково-дослідницької лабораторії автоматичних систем управління Харківського національного університету радіоелектроніки, Україна, Харків</p><p>
+108463
+6452">No 1 (2009
+108463/0">Petrov
+Comparative identification of model of formation of sustainable development index
+K. E. Petrov
+A uniform technique for definition of the indexes and indicators that are used for estimation of the level of sustainable development of a country is offered. An approach to construction of model of the sustainable development index is developed, which takes into account three basic components: economic, ecological and social. The method for comparative structural-parametrical identification of the model by using the set of possible structures described by the Kolmogorov-Gabor polynom is considered.
+108463/103442">PDF (Русский)</a
+—

@@ -1,0 +1,12 @@
+﻿Zoran
+05. — Vol. 7, N 1
+24-31
+width="50" alt="">PDF,DOC
+Adaptive uniform polar quantization
+Zoran H. Peric, Marko Milojkovic, Dragan Antic, Aleksandra Z. Jovanovic
+A simple and complete analysis for an optimal uniform polar quantizer with respect to mean-square error (MSE) as efficient quantization technique for any number of points N (Fixed-Rate) is given. Conditions for the optimality of the polar quantizer and all main equations for phase partitions and optimal number of levels are presented. Improved performance over product polar quantization and scalar uniform quantization proposed in the literature is afforded by allowing a variable number of phases at each magnitude level.
+information supply, scientific information resources, electronic magazines, corporate network, telecommunication access.
+References</td><td>1. Arslan F.T. Adaptive Bit Rate Allocation in Compression of SAR Images with JPEG2000. — The University of Arizona (USA), 2001.<br>2. Peric Z.H., Vasic B.V. Optimal Number Phase Divisions in Polar Quantization // Advances in Electrical and Computer Engineering. — 2003. — Vol. 3(10), N 1(19). — P. 5–11.<br>3. Moo P.W., Neuhoff D.L. Uniform Polar Quantization Revisited // Proc. IEEE Int. Symp. Infor-mation Theory ISIT’98. — Cambridge (USA). —1998, Aug. — P. 100.<br>4. Hui D., Neuhoff D.L. Asymptotic Analysis of Optimal Fixed-Rate Uniform Scalar Quantization // IEEE Transaction on Information Theory. — 2001, March. — Vol. 47. — P. 957–977.<br>5. Abramowitz M. and Stegun I. Handbook of Mathematical Functions. — New York: Dover.<br>6. Himmelblau D.M. Applied Nonlinear Programming. — U.S.A: McGraw-Hill, Inc., 1972.<br>7. Popat K. and Zeger K. Robust Quantization of Memoryless Sources Using Dispersive FIR Filters // IEEE Trans. Commun. — 1992, Nov. — Vol. 40. — P. 1670–1674.<br>8. Jayant N.S.and Noll P. DIGITAL CODING OF WAVEFORMS Principles and Applications to Speech and Video. — New Jersey: Prentice-Hall, 1984.<br>9. Minoli D. Voice Over MPLS Planning and Designing Networks. — McGraw-Hill. Pub, 2002.
+File
+RZOD2_04.doc
+null

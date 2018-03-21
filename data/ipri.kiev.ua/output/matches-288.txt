@@ -1,0 +1,12 @@
+﻿2012-4-10
+12. — Vol. 14, N 4
+88–101
+alt="" width="50">PDF,DOC
+Analysis of the Status and Functional Requirements for Modern Engineering Solutions to Create Automated Systems for Personnel Management
+Khramova I.О.
+Analysis of the current legal and regulatory framework governing the functions and responsibilities of the departments’ staff for human resource management and synthesized requirements for the functional processes of the modern automation systems for personnel management have been proposed. Refs: 15 titles.
+human resource management, automated system, functional requirements.
+References</td><td>
+File
+4-10.pdf
+null

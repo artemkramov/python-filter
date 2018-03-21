@@ -1,0 +1,11 @@
+﻿s
+V. V. Yasinsky</em><br><br>Ukraine</p><p></p><p>Ясінський Василь Васильович,</p><p>професор, кандидат фізико-математичних наук, директор Інституту моніторингу якості освіти Національного технічного університету України «КПІ», докторант Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p></p></div><div></div><div><p><em>O. A. Kapustian</em><br><br>Ukraine</p><p></p><p>Капустян Олена Анатоліївна,</p><p>кандидат фізико-математичних наук, завідувач науково-дослідного сектора факультету кібернетики Київського національного університету ім. Тараса Шевченка, Україна, Київ</p><p>
+107277
+6372">No 4 (2009
+107277/0">Yasinsky
+Approximate extreme solutions for evolutional inclusions of subdifferential type
+V. V. Yasinsky, O. A. Kapustian
+The problem of finding of approximate optimal feedback control was considered for an evolutional inclusion of the subdifferential type, perturbed by ε<em>F(y)</em>, where ε&gt;0 is a small parameter and<em>F</em>is a multivalued mapping. On condition that for ε=0 the problem has unique solution<em>u[t,y]</em>in the feedback form, it was proved that the formula<em>u[t,y]</em>provides an approximate synthesis for the initial problem for small ε&gt;0.
+107277/102245">PDF (Українська)</a
+—
+null

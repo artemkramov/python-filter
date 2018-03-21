@@ -1,0 +1,11 @@
+﻿s
+B. E. Panchenko</em><br><br>Ukraine</p><p></p></div><div></div><div><p><em>I. N. Pysanko</em><br><br>Ukraine</p><p>
+106416
+6331">No 3 (2011
+106416/0">Panchenko
+About topology of normalization ways in the relation frame
+B. E. Panchenko, I. N. Pysanko
+In the normalization ways in the universal frame of the relational databases and the topology of these ways are investigated. Theorem about closure of normalization ways in a relational frame has been proved. The theorem allows using a relational frame as a unique database schemes carrier, normalized to the higher forms. It also allows analyzing the existing and embedded databases for their anomalies and the impact on the software usage during the operation.
+106416/101527">PDF (Русский)</a
+—
+null

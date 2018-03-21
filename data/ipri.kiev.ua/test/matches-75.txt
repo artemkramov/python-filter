@@ -1,0 +1,12 @@
+﻿Ostashevskii
+08. — Vol. 10, N 3
+67-79
+width="25px" alt="">PDF,DOC
+Reserve Set Calculation Strategy of Hardware Complex of an Automated Processing System of Coordinate Information on Moving Objects
+Butochnov A.N., Ostashevsky V.B., Tsytsarev V.N.
+The approximate strategy based on approach for calculation of reliability characteristics of hardware complex using adequacy characteristics of reserve set is offered. Reliability characteristics of hardware complex can be obtained through multiplying reliability characteristics calculated for unlimited reserve set by corresponding adequacy characteristics of reserve set. Tabl.: 4. Fig.: 3. Refs: 3 titles.
+reserve set calculation strategy, reliability characteristics, adequacy characteristics, reserve set supplementation strategy, reliability flowchart.
+References</td><td>1. Буточнов А.Н. Оценка надежности многофункциональных программно-технических ком-плексов / А.Н. Буточнов, В.В. Августовский, В.Н. Цыцарев // Реєстрація, зберігання і оброб. даних. — 2008. — Т. 10, № 1. — С. 80–90<br>2. Козлов Б.А. Справочник по расчету надежности аппаратуры радиоэлектроники и автоматики / Б.А. Козлов, И.А. Ушаков. — М.: Советское радио, 1975. — 472 с.<br>3. Черкесов Г.Н. Надежность аппаратно-программных комплексов: Учебное пособие / Г.Н. Черкесов. — СПБ.: Питер, 2005. — 479 с.
+Файлы
+Metodika_rascheta_ZIP_COI_1.doc
+null

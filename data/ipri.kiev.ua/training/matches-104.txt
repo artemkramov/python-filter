@@ -1,0 +1,12 @@
+﻿2009-2-2
+10. — Vol. 12, N 2
+12-24
+alt="">PDF
+Adaptive Filtration of Parameters of Maneuvering Object Movement in Rectangular Coordinate System
+Zhuk S.Y., Kozheshkurt V.I., Yuzefovych V.V.
+The optimal and quasi-optimal algorithms of adaptive filtration of parameters of maneuvering object movement in rectangular coordinate system on the basis of the mixed Markov processes theory in discrete time are synthesized. The analysis of quasi-optimal algorithm is executed by a method of statistical modeling on the computer on a test example. Fig.: 6. Refs: 5 titles.
+maneuvering object, discrete dynamic system with the casual structure, mixed Markov processes, adaptive filtration, а posteriori density of probability.
+References</td><td>1. Кузьмин С.З. Цифровая радиолокация / С.З. Кузьмин.—К.: «КВІЦ», 2000.—428 с.<br>2. Сейдж Э. Теория оценивания и ее применение в связи и управлении / Э. Сейдж, Дж. Мелс. М.: Связь, 1976.—496 с.<br>3. Казаков И.Е. Стохастические системы со случайной сменой структуры / И.Е. Казаков // Известия АН СССР. Техническая кибернетика.—1989.—№ 1.—С. 58–79.<br>4. Гриценко Н.С. Адаптивное оценивание. Ч. 2 / Н.С. Гриценко, В.П. Логинов, К.К. Севостьянов // Зарубежная радиоэлектроника.—1985.—№ 3.—С. 27–50.<br>5. Жук С.Я. Методы оптимизации дискретных динамических систем со случайной структурой/ С.Я. Жук: [Монография].—К.: НТУУ «КПИ», 2008.—232 с.
+Файлы
+2009-2-2.pdf
+null

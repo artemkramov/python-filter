@@ -1,0 +1,12 @@
+﻿2011-2-11
+11. — Vol. 13, N 2
+97-105
+alt="" width="50">PDF,DOC
+The Method for Research of the Nonlinear Autonomous Dynamical Systems Structural Stability
+Katulev A.N., Kozheshkurt V.I.
+A method, algorithm and results of solving a practical problem for researching structural stability in the sense of Andronov and Pontryagin of the nonlinear autonomous dynamical systems described by ordinary differential equations are presented. This method is based on the idea of the study of critical points, namely the bifurcation of the adjoint Hamiltonian system without the use of Lyapunov functions and potential functions. The reliability of the method is substantiated theoretically and confirmed by coincidence of the computational experiment results obtained by the developed method with the results of studying the structural stability of the potential autonomous nonlinear systems. Fig.: 2. Refs: 4 titles.
+structural stability, dynamical system, bifurcation, catastrophe, feedback, eigenvalue, functional matrix.
+References</td><td>1. Андронов A.A. Большие системы / A.A. Андронов, Л.С. Понтрягин. — ДАН СССР, 1937. — Т. 14.<br>2. Шамолин М.В. Динамические системы с переменной диссипацией: подходы, методы, при- ложения / М.В. Шамолин // Фундаментальная и прикладная математика. Центр новых информаци- онных технологий МГУ. — Издательский дом «Открытые системы», 2008. — Т. 14, № 3. — С. 3– 237.<br>3. Неделько Н.С. Использование теории катастроф к анализу поведения экономических сис- тем / Н.С. Неделько // Вестник МГТУ. — 2010. — Т. 13, № 1. — С. 223–227.<br>4. Gilmore R. Catastrophe Theory for Scientists and Engineers / R. Gilmore. — A Willey- Intersclence Publication, John Wiley and Sons. — New-York-Chichester-Brislane-Toronto, 1981.
+File
+2-11.pdf
+null

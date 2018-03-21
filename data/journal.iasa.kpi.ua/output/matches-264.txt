@@ -1,0 +1,10 @@
+﻿null
+T. O. Govorushchenko</em><br><br>Ukraine</p><p></p><p>Говорущенко Тетяна Олександрівна,</p><p>кандидат технічних наук, доцент кафедри системного програмування Хмельницького національного університету, Україна, Хмельницьк</p><p>
+106495
+6337">No 1 (2011
+106495/0">Govorushchenko
+Retesting in process of software expert examination (verification and validation) process
+T. O. Govorushchenko
+The tasks of the software expert examination were described. It was proposed to use retesting in order to check the software conformity according to the set requirements, estimation of quality and faultlessness of the developed software. Neuronet categorical model and neuronet process of the software retesting were developed. The program realization and researches of artificial neural network simulation model in Matlab package were realized. The increasing reliability of the software retesting process was estimated. The structure and program realization of the system of detection the retesting necessity on the basis of the report about the main test were developed and implemented.
+106495/101589">PDF (Українська)</a
+—

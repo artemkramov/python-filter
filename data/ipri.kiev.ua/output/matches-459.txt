@@ -1,0 +1,12 @@
+﻿2017-2-2
+17. — Vol. 19, N 2
+11–23
+alt="" width="50">PDF,DOC
+System of hypercpomplex operations in Maple.
+Kalinovsky J.А., Boyarinova Y.E., Sukalo A.S. and Khitsko J.V.
+The program-algorithmic system of operations on hypercomplex numbers is considered. The most important procedures included in the system, its structure, listing of programs, and examples of their application are presented. Operating with hypercomplex numbers, especially in symbolic form, causes considerable difficulties associated with their multidimensionality. Therefore, for successful operation with such objects, specialized software-algorithmic systems are required. The most suitable ones for creating this type of system are the languages of symbolic calculations. Moreover, many of them have the means to operate with some hypercomplex number systems, for example, with complex numbers, quaternions, Clifford algebras, etc.From the existing numerous languages of computer algebra, the most common are MatLab, Mathcad, Mathematica and Maple. The authors in their work chose the computer algebra system Maple, as one of the most developed, accessible and easily mastered. Since the Maple computer algebra system allows the creation of private packets of various computational procedures, the algorithmic-software complex of hypercomplex computations (hereinafter — ASC) is a packet having its own identifier. ASC can be called up, included to the program and transported to other computers. From the ASC procedures it is possible to generate calculation programs using the tools of the algorithmic language Maple. The ASC can be installed on any computer with the Windows operating system and Maple computer computing system to be no lower than the 5th version. The ASC is open for replenishment with new procedures and editing of existing procedures by any user of Maple. Fig.: 1. Refs: 6 titles.
+hypercomplex numerical system, procedure, computer algebra, operation, Maple.
+References</td><td>
+File
+2017-2-2.pdf
+null

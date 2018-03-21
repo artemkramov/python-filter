@@ -1,0 +1,11 @@
+﻿s
+O. V. Kukhareva</em><br><br>Ukraine</p><p></p><p>Кухарєва Оксана Валентинівна,</p><p>аспірантка Національного технічного університету України «КПІ», Україна, Київ</p><p></p></div><div></div><div><p><em>S. A. Kukharev</em><br><br>Ukraine</p><p></p><p>Кухарєв Сергій Олександрович,</p><p>аспірант Національного технічного університету України «КПІ», Україна, Київ</p><p>
+107273
+6372">No 4 (2009
+107273/0">Kukhareva
+Research into the occupancy of network elements when modifying parameters of MPLS technology network
+O. V. Kukhareva, S. A. Kukharev
+A problem of the dependence of network element occupancy on link capacities and input flows intensity is formulated. The results of experimental research carried out using the program system are presented.
+107273/102241">PDF (Українська)</a
+—
+null

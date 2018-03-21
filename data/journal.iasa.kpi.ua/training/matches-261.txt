@@ -1,0 +1,10 @@
+﻿null
+A. I. Peschansky</em><br><br>Ukraine</p><p></p><p>Песчанський Олексій Іванович,</p><p>доктор технічних наук, професор кафедри вищої математики Севастопольського національного технічного університету, Україна, Севастополь</p><p>
+106492
+6337">No 1 (2011
+106492/0">Peschansky
+The calendar maintenance for elements of monotonous system with its minimal emergency restoration
+A. I. Peschansky
+The semi-markov model of calendar maintenance of monotonous-structured system, including the minimal emergency restoration of its elements, is built. The stationary reliability characteristics and economic indicators of system functioning quality are received. The optimum period for implementation of the maintenance of its elements is defined.
+106492/101586">PDF (Русский)</a
+—

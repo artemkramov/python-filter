@@ -1,0 +1,10 @@
+﻿null
+A. V. Shportko</em><br><br>Ukraine</p><p></p><p>Шпортько Олександр Володимирович,</p><p>аспірант кафедри інформатики та прикладної математики Рівненського державного гуманітарного університету, Україна, Київ</p><p>
+106960
+6358">No 2 (2010
+106960/0">Shportko
+Loss-free compression of RGB-images using a palette
+A. V. Shportko
+The possibilities of RGB-image compression without losses using a palette are considered. A version of the algorithm for realization of the compression with partition of the result into a trend and noise components is described. The results of using the program developed according to the offered algorithm for compression of the images of the ACT set are presented.
+106960/101962">PDF (Українська)</a
+—

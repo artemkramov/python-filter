@@ -1,0 +1,12 @@
+﻿2016-2-3
+16. — Vol. 18, N 2
+22–30
+alt="" width="50">PDF,DOC
+Multi-agent approach to modeling an information and analytical system
+Dodonov V.О., Lande D.V., Putyatin V.G.
+It is considered some questions of realization of multi-agent approach to modeling of information and analytical system which is realized in the form of the appropriate information technology, for to utilize further application of scenario approach. The multi-agent model of distribution of the information messages containing references to information resources on the Internet is provided. Characteristics of growth of quantity of special retweets of the chosen messages are analyzed. As a result of the described researches, the multi-agent model of distribution of the information messages containing references to information resources in the Internet is constructed. The results of modeling are checked by research of a real network of microblogs Twitter. The found regularities can be used when forming databases of information and analytical systems, when studying anomalies in statistics of references to separate information materials, and respectively, for identification of information transactions, artificially supported information campaigns. Fig.: 2. Refs: 11 titles.
+multi-agent model, active agent, modeling, system, scenario.
+References</td><td>
+File
+2-3.pdf
+null

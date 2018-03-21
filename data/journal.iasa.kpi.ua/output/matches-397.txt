@@ -1,0 +1,11 @@
+﻿s
+М. V. Boichuk</em><br>Кафедра економіко-математичного моделювання Чернівецького національного університету ім. Юрія Федьковича, Чернівці<br>Ukraine</p><p></p><p>Бойчук Мирослав Васильович,</p><p>кандидат фізико-математичних наук, доцент кафедри економіко-математичного моделювання Чернівецького національного університету ім. Юрія Федьковича, Чернівці, Україна.</p><p></p></div><div></div><div><p><em>N. M. Shmurygina</em><br>Кафедра фізико-математичних та природничих дисциплін Буковинського університету, Чернівці<br>Ukraine</p><p></p><p>Шмуригіна Наталія Михайлівна,</p><p>старший викладач кафедри фізико-математичних та природничих дисциплін Буковинського університету, Чернівці, Україна.</p><p>
+108914
+6467">No 3 (2008
+108914/0">Boichuk
+Dynamic model of intersector balance taking into account control of contamination without lags
+М. V. Boichuk, N. M. Shmurygina
+A model of dynamic intersector balance taking into account control of contamination is considered. The investigation of it has resulted in offering algorithms of calculation of the main values of capital, investments, non productive consumption, labour resources, gross output of basic products and products of auxiliary production, eventual products, regional managements — values of investments, as well as points of switching of investment managements.
+108914/103830">PDF (Українська)</a
+—
+null

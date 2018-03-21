@@ -1,0 +1,12 @@
+﻿Bojarinova
+05. — Vol. 7, N 1
+21-28
+width="50" alt="">PDF,DOC
+Biplex Numerical Systems and Functions in Them
+Sinkov M.V., Boyarinova Y.E., Kalinovsky J.A, Sinkova T.V.
+Algorithms of carrying out arithmetic and algebraic operations, the construction of such nonlinear functions as exponential function, trigonometrical and hyperbolic functions, and the inverse to them functions in biplex numerical systems are considered. Tabl.: 2. Fig.: 1. Refs: 8 titles.
+cryptographical security, secret sharing scheme, access hierarchy, residue ring.
+References</td><td>1. Синьков М.В., Калиновский Я.А О связи систем дифференциальных уравнений с гипер-комплексными числовыми системами: Сб. Проблемы регистрации информации. — К.: Наук. дум-ка, 1991. — С. 100–103.<br>2. Синьков М.В., Калиновский Я.А., Синькова Т.В. Некоторые линейные и нелинейные опе-рации обобщенных комплексных чисел // Реєстрація, зберігання і оброб. даних. — 2002. — Т. 4, № 3. — С. 55–61.<br>3. Синьков М.В., Калиновский Я.А., Постникова Т.Г., Синькова Т.В. Построение сопряжен-ностей в гиперкомплексных числовых системах. Ч. 1. Online: http://www.hypercomplex.ru/sinkov.zip. — 2002.<br>4. Калиновский Я.А., Роенко Н.В., Синьков М.В. Методы построения нелинейностей в рас-ширениях комплексных чисел // Кибернетика и системный анализ. — 1996. — № 4. — C. 178–181.<br>5. Синьков М.В., Каліновський Я.О., Боярінова Ю.Є. Розробка та дослідження алгоритмів по-будови зображення обернених функцій від гіперкомплексного змінного // Реєстрація, зберігання і оброб. даних. — 2005. — Т. 7, № 1. — С. 32–42.<br>6. Кантор И.Л., Солодовников А.С. Гиперкомплексные числа. — М.: Наука, 1973. — 144 с.<br>7. Bardhan D., Osler T.J. An Еasy Introduction to Biplex Numbers Mathematics and Computer Education. — 2002. — 36. — Р. 278–286.<br>8. Sobczyk G. The Hyperbolic Number Plane // The College Mathematics Journal. — 1995. —26(4). — Р. 268–280 р.
+File
+RZOD2_04.doc
+null

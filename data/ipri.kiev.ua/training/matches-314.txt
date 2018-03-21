@@ -1,0 +1,12 @@
+﻿2013-3-3
+13. — Vol. 15, N 3
+26–34
+alt="" width="50">PDF,DOC
+Mathematical Model of Interconnection Pattern for the Optical Computing Devices with Dy-namically Reconfigurable Architecture
+Lipinskii A.Y.
+The mathematical model of interconnection pattern formed in the photorefractive crystal was built. The modeling of pattern record process was conducted. The diffracted beams propagation direction changes were shown according to the structure of pattern that illustrates the reconfiguration possibility of optical interconnections in the acousto-optic optoelectronic computing devices. Fig.: 5. Refs: 16 titles.
+acousto-optic modulators, dynamically reconfigurable architecture, optical interconnections, interconnection pattern, photorefractive environment.
+References</td><td>
+File
+3-3.pdf
+null

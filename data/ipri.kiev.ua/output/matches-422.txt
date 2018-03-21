@@ -1,0 +1,12 @@
+﻿Kossko
+06. — Vol. 8, N 1
+3-8
+width="25px" alt="">PDF,DOC
+Formation of Information Relief in Certain Nonmetal Materials
+Kossko I.A., Kryuchin A.A., Kravets V.G., Mohnyuk A.A., Oberemok A.S.
+An opportunity of forming the information relief in certain nonmetal materials obtained by a tech-nique of reaction baking and hot pressing (SiC, SiC+В4С and Si3N4, Si3N4+В4С, AlN) as well as in monocrystalline silicon is investigated. For obtaining a microrelief the plasmochemical etching technique is used. Tabl.: 1. Fig.: 2. Refs: 7 titles
+ceramics, plasmochemical etching, information relief.
+References</td><td>1. Петров В.В., Крючин А.А., Шанойло С.М. та ін. Металеві носії для довготермінового зберігання інформації. — К.: Наук. думка, 2005. — 132 с.<br>2. Bifano T.G., Fawcett H.E., Bierden P.A. Precision Manufacture of Optical Disc Master Stampers // Precision Engineers. — 1997, Jan. — Vol. 20, N 1. — Р. 54–62.<br>3. Bifano T.G., Fawcett H.E., T. Drueding T. Neutral Ion Figuring of Chemically Vapor Deposited Silicon Carbide // Opt.Eng. — 1994. — 33. — Р. 967–974.<br>4. Miyamoto I., Shhuhara A. Ion Beam Machining of Tungsten Carbide Chips — Fabrication of Fine Patterns // Ann CIRP. — 1991. — Р. 40.<br>5. Miyamoto I., Ezewa T., Itabashi K. Ion Beam Fabrication of Diamond Probes for a Scanning Tunneling Microscope. — 1991. — 2. — P. 52–56.<br>6. Egert C.M. Roughness Evolution of Optical Materials Induced by Ion Beam Milling // Proc. SPIE. — 1992. — Р. 1752.<br>7. Drueding T.W., Wilson S., Fawcett S.C., Bifano T.G. Ion Beam Figuring of Small Optical Components // Opt. Eng. — 1995. — 34. — Р. 3565–3571.
+File
+StatjaKeramika.doc
+null

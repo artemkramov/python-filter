@@ -1,0 +1,12 @@
+﻿2010-1-4
+10. — Vol. 12, N 1
+30-38
+width="50" alt="">PDF,DOC
+Features of Solving Problems of Parameter Identification of Dynamic Systems in Conditions of Interval Uncertainty
+Martsenyuk Ye.O.
+The problem of parameter identification of linear dynamic systems by methods of analysis of interval data is considered. It is shown that in the case of taking into account the initial interval approximations of discrete values of the predicted characteristics, this problem is the problem of solving interval system of nonlinear algebraic equations. The features of formation and properties of the solution of such systems are investigated. Tabl.: 1. Fig.: 2. Refs: 7 titles.
+interval system of nonlinear algebraic equations, predicted characteristic.
+References</td><td>1. Дивак М. Ідентифікація параметрів моделей «вхід–вихід» динамічних систем на основі ін- тервального підходу / М. Дивак, П. Стахів, І. Каліщук // Вісник Тернопільського державного тех- нічного університету. — 2004. —Т. 9, № 4. — С. 109–117.<br>2. Дивак М.П. Особливості побудови інтервальної системи алгебричних рівнянь та методу її розв’язку в задачах ідентифікації лінійного інтервального різницевого оператора./ М.П. Дивак, Т.М. Дивак // Зб. наук. праць. — К.: МННЦ ІТС НАН та МОН України, 2009. — С. 35–43.<br>3. Дивак М.П. Моделювання лінійних динамічних систем із заданою структурою вимірюван- ня методами аналізу інтервальних даних / М.П. Дивак, А.В. Пукас, Є.О. Марценюк, І.Ф. Войтюк // Зб. пр. Моделювання та керування станом еколого-економічних систем регіону. — К.: МННЦ ІТС. — 2008. — С. 79–91.<br>4. Кунцевич В. Получение гарантированных оценок в задачах параметрической идентифика- ции / В. Кунцевич, М. Лычак // Автоматика. — 1982. — № 4. — С. 49–59.<br>5. Шарый С.П. Интервальный анализ: прошлое, настоящее и будущее / С.П. Шарый // Наука в Сибири. — 1997. — № 41 (2127). — С. 3.<br>6. Куржанский А.Б. Задача идентификации — теория гарантированных оценок / А.Б. Куржа- нский // Автоматика и телемеханика. — 1991. — № 4. — С. 3–26.<br>7. Дивак М. Ітераційний метод пошуку допустимого розв’язку ІСЛАР в задачах ідентифікації параметрів динамічних моделей «вхід–вихід» / М. Дивак, П. Стахів, І. Максимова // Відбір та об- робка інформації. — 2005.— Вип. 23 (99). — С. 40–48.
+File
+RZOD2_04.doc
+null

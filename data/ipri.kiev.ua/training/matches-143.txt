@@ -1,0 +1,12 @@
+﻿2010-1-7
+10. — Vol. 12, N 1
+55-66
+width="50" alt="">PDF,DOC
+Retroreflector Elements Characteristics Improvement Using Measurement and Correction of a Cutter Angle
+Borodin Y.A., Lapchuk A.S., Shyhovets A.V.
+Angle characteristics of microprism retroreflectors are analyzed. The original method of measurement and correction of a cutter angle to maximize optical efficiency of reflected back light is proposed. The different original schemes and examples of cutter angle measurement are presented. Tabl.: 2. Fig.: 10. Refs: 8 titles.
+retroreflector, microprism, measurement of a cutter angle, correction of a cutter angle.
+References</td><td>1. Моделирование свойств асимметричных световозвращающих элементов./ В.В. Петров, С.М. Шанойло, А.А. Крючин [и др.] // Реєстрація, зберігання і оброб. даних. — 2007. — Т. 9, № 2.—С. 17–25.<br>2. Світлоповертання: проблеми та досягнення / В.В. Петров, С.М. Шанойло, Є.Є. Антонов // Реєстрація, зберігання і оброб. даних. — 2008.— Т. 10, № 1.— С. 3–15.<br>3. Оптические характеристики световозвращающих элементов / Е.Е. Антонов, С.М. Шанойло, А.В. Шиховец [и др.] // Реєстрація, зберігання і оброб. даних. — 2008. — Т. 10, № 2. — С. 13–22.<br>4. Патент 74034 України, G02B5/124, B32B3/00. Спосіб виготовлення призмоподібних світлоповертальних елементів / В.В. Петров, С.М. Шанойло, О.І. Гранат, Л.В. Бутенко, А.А. Крючин,В.М. Зенін, В.Д. Ковтун, О.К. Войтенко, В.О. Заболотний, П.В. Майстренко, А.В. Ковальчук (Україна); ІПРІ НАН України. — № 2003076449; заявл. 10.07.2003; опубл. 17.10.2005. — 2 с.5. В.В. Петров. Програмно-апаратний комплекс для контролю світлотехнічних характерис-тик світлоповертальних елементів / В.В. Петров, О.І. Бріцький, Ле Зичун, Кван Бишенг // Реєстра-ція, зберігання і оброб. даних. — 2008. —T. 10, № 2. —С. 69–76.<br>6. Макалара Д. Оптический производственный контроль / Д. Макалара. — М.: Машиностроение, 1985.<br>7. US Patent 6767102 B1. Retroreflective Articles Having Microcubes, and Tools and Methods for Forming Microcubes / Heenan [et al.]; 2004, Jul. 27.<br>8. Зубаков В.Г. Технология оптических деталей / В.Г. Зубаков. — М.: Машиностроение, 1985.
+File
+RZOD2_04.doc
+null

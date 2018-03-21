@@ -1,0 +1,12 @@
+﻿2010-2-7
+10. — Vol. 12, N 2
+69-80
+alt="">PDF
+Graphic Coding Representation of Information: Data Coding and Decoding Technology
+Dychka I.A., Onai M.V., Novosad M.V.
+The technique of construction of graphic codes for representation of alphanumeric data and the formalized procedure of decoding which simplifies technology of recognition of two-dimensional graphic codes is offered. Within the limits of a technique of graphic codes construction the method of data compression which is based on division of the alphabet into character sets is developed. The method provides data compression on the average of 30 %. It is shown, that it is necessary to use correctional codes which correct multiple errors for reliable reading graphical-code signs. Encoding algorithm input data of correctional Reed-Solomon code and graphic symbols recognition are in detail considered. The technology of error correction in the scanned data on the basis of Reed-Salomon code is developed. Tabl.: 2. Fig.: 4. Refs: 8 titles.
+graphic code, codeword, data compression, error syndrome, Reed-Solomon code, correctional code, Galois field.
+References</td><td>1. Армад В.А. Штриховые коды в системах обработки информации / В.А. Армад, В.В. Железнов. — М.: Радио и связь, 1989. — 92 с.<br>2. Williams Ted. Two-Dimensional Codes / Ted Williams. — Data Capture Institute, 1995.— 30 p.<br>3. Burke Harry E. Elements of a Bar Code System / Burke Harry E. // Hewlett Packard, Palo Alto, CA, USA, 1983. — 120 p.<br>4. Craig K. Harmon. Reading Between the Lines: An Introduction to Bar Code Technology / Craig K. Harmon, Adams Russ. — North American Technology Inc. — Petersborough, NH (USA), 1984. — 320 p.<br>5. Тарасенко В.П. Штрихові коди та їх застосування / В.П. Тарасенко, І.А. Дичка, В.І. Голуб. — К.: Корнійчук, 2000. — 175 с., іл.<br>6. Williams Ted. Data Matrix is Lazerlight Systems / Ted Williams. — Computype Inernational Inc., 1990.— 22 p.<br>7. Andy Longacre. A Maxi Code Overview. — Welch Allyn Inc., 1998. — 36 p.<br>8. Блейхут Р. Теория и практика кодов, контролирующих ошибки. — М.: Мир, 1986.— 576 с.
+Файлы
+2010-2-7.pdf
+null

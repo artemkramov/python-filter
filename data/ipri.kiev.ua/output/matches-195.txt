@@ -1,0 +1,12 @@
+﻿2010-4-9
+10. — Vol. 12, N 2
+83-89
+alt="">PDF
+Conditions of Frequency-Power Balance and Carrying Capacity of Computer Networks Channels
+Mаtоv О.Y., Vаsylenko V.S., Vаsylenko M.I.
+Conditions of increasing carrying capacity in computer networks channels on the basis of providing conditions of frequency-power balance are considered. As a variant of increasing carrying capacity capabilities of sampling channel pass band are considered. Fig.: 1. Refs: 5 titles
+channel carrying capacity, signal-to-noise ratio, channel pass band, spectral density of noise power, frequency sampling.
+References</td><td>1. Алишев Я.В. Предельная пропускная способность и потенциальная помехоустойчивость оптических сетей и систем телекоммуникаций / Я.В. Алишев // Доклады БГУИР. — 2004. — Т. 2, № 2. — С. 43–45.<br>2. Василенко В.С. Моделі забезпечення цілісності інформаційних об’єктів // Матеріали V міжнар. наук.-практ. конф. «VEDE А VZNIK – 2009/2010» — 27 грудня 2009 – 05 січня 2010 / В.С. Василенко. — Praha: «Publishing House» «Education and Science» s.r.o. 2009. —Т. 12.— С. 81–84.<br>3. Василенко В.С. Модель підвищення пропускної спроможності каналів обчислювальних мереж. Пряме розширення смуги пропускання каналів // Матеріали V міжнар. наук.-практ. конф. «ZPRAVY VEDECKE IDEJE – 2009» 27.10–05.11.2009 / В.С. Василенко. — INFLACNI BEZPENOST. — Praha: «Publishing House» «Education and Science» s.r.o. 2009. —Т. 12. — С. 49–51.<br>4. Матов О.Я. Пропускна спроможність каналу та доступність інформаційних об’єктів у розподілених мережах / О.Я. Матов, В.С. Василенко, О.В. Дубчак // Реєстрація, зберігання і оброб. даних. — 2009. — Т. 11, № 2. — С. 77– 82.<br>5. Бунин С.Г. Вычислительные системы с пакетной радиосвязью / С.Г. Бунин, А.П. Войтер. — К.: Техніка, 1989. — 223 с.
+Файлы
+2010-4-9.pdf
+null

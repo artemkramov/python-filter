@@ -1,0 +1,12 @@
+﻿2011-4-3
+11. — Vol. 13, N 4
+23-30&gt;
+alt="" width="50">PDF,DOC
+Face Image Verification in the Space of Invariant Features Based on Trace Transforms
+Gorohovatsky A.V.
+The problem of human face image verification is studied. A method of processing invariant features for recognition on the basis of analysing the image projection functions systems is proposed. The conducted experiments confirm high speed and normal operation of an approach. Tabl.: 1. Fig.: 2. Refs: 6 titles.
+computer vision, recognition, face verification, invariant features, projection transform, Trace/Radon.
+References</td><td>1. Face Recognition Homepage [Электронный ресурс]. — Режим доступа: http://www.facerec. org/algorithms/<br>2. Шапиро Л. Компьютерное зрение / Л. Шапиро, Дж. Стокман.; [пер. с англ. А.А. Богуслав- ского под ред. С.М. Соколова]; М.: БИНОМ. Лаборатория знаний, 2006. — 752 с.<br>3. Гороховатский А.В. Проекционные методы в задачах нормализации и распознавания изо- бражений / А. В. Гороховатский // АСУ и приборы автоматики. — 2009. — № 147. — С. 64–70.<br>4. Гороховатский А.В. Анализ статистических особенностей набора инвариантных признаков / А.В. Гороховатский // Інтелектуальні системи прийняття рішень і проблеми обчислювального інтелекту (ISDMCI’2010): зб. наук. праць міжн. наук. конф.: Євпаторія, 17–22 травня 2010. — Херсон: ХНТУ. — Т. 2. — С. 340–342.<br>5. Gorokhovatsky A.V. Image Invariant Recognition Methods in the Space of Projections / A.V. Gorokhovatsky // Прикладна радіоелектроніка. — 2010. — Т. 9, № 4. — С. 574–576.<br>6. Open Computer Vision Library [Электронный ресурс]. — Режим доступа: http://opencvlibrary.sourceforge.net<br>7. Turan J. Trace Transform Based Invariant Object Recognition System / J. Turan, D. Siskovicova, P. Filo // Radioelektronika, 13-th International Czech–Slovak Scien. Conf. — Brno (Czech Republic), 2003. — P. 150–153. — [Электронный ресурс] — Режим доступа: www.urel.feec.vutbr.cz/ra2007/ archive/ra2003/papers/150.pdf<br>8. Petrou M. Affine Invariant Features from the Trace Transform / M. Petrou, A. Kadyrov // IEEE Transactions on Pattern Analysis and Machine Intelligence. — 2004. — Vol. 26, N 1. — P. 30–44.
+File
+4-3.pdf
+null

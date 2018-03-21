@@ -1,0 +1,12 @@
+﻿Kadenko
+08. — Vol. 10, N 1
+137-149
+width="25px" alt="">PDF,DOC
+Modified Relative Criterion Weight Calculation Methods Based on Ordinal Estimates
+Kadenko S.V.
+A modified relative criterion weight calculation method based on ordinal estimates is described. The method modification is aimed at weight calculation based on several precedents. Such issues as the method’s convergence and precision are also addressed. The problem statement, the description of each algorithm step and results of its testing, as well as examples and tables illustrating the work of the speci-fied method are included. Tabl.: 3. Fig.: 3. Refs.: 7 titles.
+decision-making, ordinal estimates, ranking, relative weight coefficient, learning algorithm, Kemeni distance.
+References</td><td>1. Каденко С.В. Визначення відносної вагомості критеріїв на основі ординальних оцінок // Реєстрація зберігання і оброб. даних. — 2006. — Т. 8, № 2. — С. 100–110.<br>2. Терехов С.А. Лекции по теории и приложениям искусственных нейронных сетей. Глава 4. — Лаборатория Искусственных Нейронных Сетей НТО-2. — Снежинск: ВНИИТФ, 1998. — Элек-тронная версия.<br>3. Тоценко В.Г. Методы определения групповых многокритериальных ординальных оценок с учетом компетентности экспертов // Проблемы управления и информатики. — 2005. — № 5. — С. 84–89 (Vitaliy G. Totsenko. Method of Determination of Group Multicriteria Ordinal Estimates with Ac-count of Expert Competence // J. of Automation and Information Sciences. — 2005. — Vol. 37. — Issue 10, Р. 19–23).<br>4. Тоценко В.Г. Методы и системы поддержки принятия решений. — К.: Наук. думка, 2002. — С. 215–229.<br>5. Ранжирування університетів Times Higher Education Supplement.— www.thes.co.uk<br>6. Ранжирування вищих навчальних закладів Shanghai Jiao Tong University. — http://ed.sjtu.edu.cn)<br>7. Ранжирування вищих навчальних закладів Webometrics. — www.webometrics.info
+Файлы
+Method_for_several_examples_291007.doc
+null

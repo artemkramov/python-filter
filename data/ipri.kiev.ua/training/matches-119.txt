@@ -1,0 +1,12 @@
+﻿2009-3-6
+09. — Vol. 12, N 4
+52-59
+alt="">PDF
+Information Resources Protection
+Smirnova N.А., Gaidargi V.I.
+The classification of existent security threats of web-portal is considered. An overview of existent control management systems (CMS) and their components — security systems is given. Main part is dedicated to designing the universal high-level security system, which is intended for providing resource protection from most types of attacks. Fig.: 1. Refs: 9 titles.
+security system, security, information, information resources, attack.
+References</td><td>1. Computer Crime and Security Survey/ Computer Security Institute (CSI). — San Francisco Federal Bureau of Investigation's (FBI) Computer Intrusion Squad. — Режим доступа: http://www.usdoj.gov/criminal/cybercrime/CSI_FBI.htm<br>2. Global Information Security Survey/ Paul Van Cessel, Technology and Security Risk Services, Ernst&amp;Young. — Режим доступа: http://www.ey.com/UA/en/Issues/Managing-risk/Informationsecurity-and-privacy/Assurance---Advisory---Technology-and-Security-Risk---Global-Information-Security-Survey-2008<br>3. Секреты хакеров. Безопасность Web-приложений — готовые решения/ [Джоел Скембрей, Майк Шема, Йен-Минг Чен, Дэвид Вонг]. — М.: Вильямс, 2003. — 384 с.: ил.<br>4. Валентин Цирлов. Основы информационной безопасности / Валентин Цирлов. — М: Феникс, 2008. — 256 с.<br>5. Горнаков Сергей. Осваиваем популярные системы управления сайтом (CMS) / Горнаков С.Г. — М.: ДМК-Пресс, 2009. — 336 с.<br>6. Apache Lenya — Open Source Content Management (Java/XML) / The Apache Software Foundation. — The Apache Lenya Community. — Режим доступа: http://lenya.apache.org/<br>7. OpenCms, the Open Source Content Management System (CMS)/ Alkacon Software GmbH. — Режим доступа: http://www.opencms.org/en/<br>8. JCR—Java Code Reviewer / John Dickson.—Режим доступа: http://jcodereview.sourceforge.net/<br>9. Products — Magnoliac..— Simple Open Source Content Management / Magnolia International Ltd. — Режим доступа: http://www.magnolia-cms.com/home/products.html
+Файлы
+2009-3-6.pdf
+null

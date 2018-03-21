@@ -1,0 +1,12 @@
+﻿2010-4-4
+10. — Vol. 12, N 2
+31-42
+alt="">PDF
+Segmentation of Speech Signals Based on Viterbi Algorithm
+Tkachenko O.M., Bilichenko N.O., Dzis O.V.
+The problem of speech segmentation in creating databases of speech data is considered. It is proposed to use the Viterbi algorithm in conjunction with the methods of recognition for presegmentation of speech data. To improve the accuracy of the segment boundaries is offered to use statistical information about the duration of phonemes. The obtained results can be used for development of Ukrainian-language speech data base. Tab.: 2. Fig.: 4. Refs: 9 titles.
+segmentation, Viterbi algorithm, speech recognition, speech data, markup.
+References</td><td>1. Carson-Berndsen J. Framework for Cross-Language Automatic Phonetic Segmentation / Kalu U. Ogbureke, Julie Carson-Berndsen // ICASSP 2010: IEEE International Conference on Acoustics, Speech and Signal Processing. — Dallas, Texas (USA). — 2010.<br>2. Григорян Р.Л. Метод выделения монологических составляющих с использованием идентификации дикторов на основе векторного квантования / Р.Л. Григорян, С.А. Репалов, С.С. Коршунов // «Штучний iнтелект» 3’2006. — Донецьк, 2006.<br>3. Жуйков В.Я. Алгоритм автоматической классификации сегментов речи на основе автокорреляционных и энергетических характеристик / В.Я. Жуйков, Н.Н. Кузнецов, А.Н. Харченко // Электроника и связь. — НТУУ «КПИ». — 2010. — № 5(58).<br>4. Сорокин В.Н. Сегментация и распознавание гласных / В.Н. Сорокин, А.И. Цыплихин // Информационные процессы. — 2004. —Т. 4, № 2. — C. 202–220.<br>5. Каркульовський В.І. Особливості методів сегментації мовленнєвих сигналів / В.І. Каркульовський, В.С. Ткаченко // Комп’ютерні системи проектування. Теорія і практика. Вісник НУ «Львівська політехніка» № 651. — Львів: Видавництво НУ «Львівська політехніка», 2009. — C. 144–148.<br>6. Богданов Д.С. База речевых фрагментов русского языка «ISABASE» / Д.С. Богданов, О.Ф. Кривнова, А.Я. Подрабинович, В.В. Фарсобина // Интеллектуальные технологии ввода и обработки информации. — М., 1998.<br>7. Рабинер Л.Р. Цифровая обработка речевых сигналов / Л.Р. Рабинер, Р.В. Шафер. — М.: Радио и связь, 1981. — 496 с.<br>8. Биков М.М. Моделювання процесу аналізу і класифікації голосових команд / М.М. Биков, Т.В. Грищук // Монографія. — Вінниця: ВНТУ, 2009.— 129 с.<br>9. Ткаченко О.М. Аналіз підходів до розпізнавання мовлення при побудові фонемних вокодерів / О.М. Ткаченко, О.В. Дзісь // Інформаційні технології та комп’ютерна інженерія. — 2009. —№ 3. — С. 93–101.
+Файлы
+2010-4-4.pdf
+null

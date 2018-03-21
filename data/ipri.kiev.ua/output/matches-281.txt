@@ -1,0 +1,12 @@
+﻿2012-4-3
+12. — Vol. 14, N 4
+24–32
+alt="" width="50">PDF,DOC
+Criteria Conceived Commutative Hypercomplex Number Systems Direct Sum of Low-Dimensional Systems
+Kalinovsky J.А.
+It is considered the representativeness criteria of commutative hypercomplex number systems di-rect sum of low-dimensional systems. Those allow construct the efficient algorithms for the classification of hypercomplex number systems. Refs: 9 titles.
+hypercomplex number system, isomorphism, exponent, base, direct sum.</td><td>
+References</td><td>
+File
+4-3.pdf
+null

@@ -1,0 +1,12 @@
+﻿Matov
+05. — Vol. 7, N 1
+66-76
+width="50" alt="">PDF,DOC
+Estimation of Time of Message Delivery in Protocols of Exchange Organization in Telecom-munication Systems
+Маtоv O.Y., Vаsylеnkо V.S., Budko M.M.
+Approaches relative to the analysis of efficiency of information exchange protocols in the telecom-munication systems by speed and correctness of transmission and by a complex index are offered. Ex-pressions for their calculations are given. Fig.: 4. Refs.: 3 titles.
+correctness of information, hindrance, information exchange, message, exchange protocols, telecommunication system, speed of transmission.
+References</td><td>1. Матов О.А., Василенко В.С. Будько М.М. Аналіз протоколів обміну інформацією у теле-комунікаційних системах // Реєстрація, зберігання і оброб. даних. — 2004. — Т. 6, № 4. — С. 82–93.<br>2. Василенко В.С., Колесніков М.Ю., Косяк І.В. Защита информации на оптических картах // Безпека інформації. — 1995. — № 3. — С. 42–48.<br>3. Будько М.М., Василенко В.С., Короленко М.П. Варіант формалізації процесу захисту інфо-рмації в комп’ютерних системах та оптимізації його цільової функції // Реєстрація, зберігання і оброб. даних. — 2000. — Т. 2, № 2. — С. 73– 84.
+File
+RZOD2_04.doc
+null

@@ -1,0 +1,12 @@
+﻿2014-4-1
+14. — Vol. 16, N 4
+3-11
+alt="" width="50">PDF,DOC
+Application of non-canonical hyper-complex numerical systems to optimize total parametric sensitivity of reversible digital filters
+Kalinovsky Jа.A., Khitsko I.V.
+Constructing optimal parametric sensitivity method based on using of non-canonical hypercomplex number systems (HNS) is proposed and investigated. It has been shown that the use of non-canonical HNS with grater number of non-zero structure constants in multiplication table can significantly improve the sensitivity of the digital filter. Fig.: 6. Refs: 11 titles.
+non-canonical hyper-complex number system, digital filter, hypercomplex numbers, frequency response, filter sensitivity.
+References</td><td>
+File
+4-1.pdf
+null

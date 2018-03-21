@@ -1,0 +1,11 @@
+﻿s
+A. Z. Melikov</em><br><br>Azerbaijan</p><p></p><p>Меліков Агасі Зарбалі огли,</p><p>член-кореспондент НАН Азербайджану, професор, доктор технічних наук, завідувач лабораторії Інституту кібернетики НАН Азербайджану, Баку</p><p></p></div><div></div><div><p><em>A. M. Velibekov</em><br><br>Azerbaijan</p><p></p><p>Велібеков Амір Махмуд огли,</p><p>аспірант Інституту інформаційних технологій НАН Азербайджану, Баку</p><p>
+107841
+6391">No 3 (2009
+107841/0">Melikov
+Numerical method for analysis of wireless communication networks with complex scheme of channels reservation and queues
+A. Z. Melikov, A. M. Velibekov
+Simple computational procedures for approximate calculation of the quality rating of service in wireless cellular networks with a shared reservation scheme for impatient handover calls are proposed. New calls are waiting in either finite or infinite queue. The proposed procedures have high accuracy in both macro- and micro- cells in which the intensities of new and handover traffics are markedly different. Results of numerical experiments are presented.
+107841/102788">PDF (Русский)</a
+—
+null

@@ -1,0 +1,11 @@
+﻿s
+N. V. Kuznyetsova</em><br><br>Ukraine</p><p></p><p>Кузнєцова Наталія Володимирівна,</p><p>аспірантка Національного технічного університету України «КПІ», Київ</p><p></p></div><div></div><div><p><em>P. I. Bidyuk</em><br><br>Ukraine</p><p></p><p>Бідюк Петро Іванович,</p><p>доктор технічних наук, професор Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p>
+106490
+6337">No 1 (2011
+106490/0">Kuznyetsova
+Information technology for financial data analysis based on the integrated method
+N. V. Kuznyetsova, P. I. Bidyuk
+In the paper the basic features of financial data are discussed and a new integrated method for financial data analysis is proposed. The new informational technology on the basis of integrated method of data analysis is proposed and its possibility of application for the borrower’s creditworthiness assessment is illustrated in practice.
+106490/101584">PDF (Українська)</a
+—
+null

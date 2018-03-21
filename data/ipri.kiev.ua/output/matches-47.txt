@@ -1,0 +1,12 @@
+﻿Matov
+08. — Vol. 10, N 1
+91-102
+width="25px" alt="">PDF,DOC
+Model of Threats in the Distributed Networks
+Mаtоv О.Y., Vаsylenko V.S.
+The questions of information resources security of a distributed computer network are considered, characteristics and mechanisms of realization of threats in distributed networks are given, and a model of threats is offered. Tabl.: 1. Refs.: 11 titles.
+threat, violator, resources, model of threats.
+References</td><td>1. Матов О.Я., Василенко В.С., Будько М.М. Оцінка захищеності в локальних обчислюваль-них мережах // Вісті Академії інженерних наук України. — К., 2005. — № 2. — С. 59?73.<br>2. Maximum Security: A Hacker’s Guide to Protecting Your Internet Site and Network. — http://zaphod.redwave.net/books/hackg/index.htm<br>3. TCP під прицілом. — http://www.hackzone. ru/articles/tcp.html<br>4. Деякі проблеми FTP. — http://www. hackzone.ru /articles/ftp.html<br>5. Атака на DNS, або нічний кошмар мережного адміністратора. — http://www.hackzone.ru/ articles/dns?poison.html<br>6. Медведовский И.Д. Семьянов П.В. Леонов Д.Г. Атака на Интернет. — М.: Видавництво ДВК, 1999.<br>7. Соболев К.И. Дослідження системи безпеки з Windows NT 4.0 HackZone: Територія злому. — 1998. — № 1?2.<br>8. Переповнення буфера в WIN32. — http://www.void.ru/stat/9907/20.html<br>9. EXPLOITи переповнення буфера на PERL’е (http://www.void.ru/stat/0102/02.html).<br>10. Теорія та практика атак FORMAT STRING. — http://www.void.ru/stat/0102/27.html+http: //www.void. ru/stat/0102/28.html<br>11. Перехоплення пакетів TCP: Захист від флуда. — http://www.void. ru/stat/9907/19.html
+Файлы
+Stattja_33_Model_zagroz_v__rozpod_lenikh_merezhakh.doc
+null

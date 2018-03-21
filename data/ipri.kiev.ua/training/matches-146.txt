@@ -1,0 +1,12 @@
+﻿2010-1-9
+10. — Vol. 12, N 1
+73-78
+width="50" alt="">PDF,DOC
+Choice of Size of Control Base for the Conditional Remainder Code
+Mаtоv О.Y., Vаsylenko V.S.
+Requirements to the size of control base in the tasks of protection of integrity for information objects of telecommunication networks in the conditions of application of the generalized conditional remainder code are considered. Fig.: 1. Refs: 3 titles.
+distortion, noiseproof coding, conditional remainder code, base numbers.
+References</td><td>1. Василенко В.С. Использование ВУ-кодов для повышения верности информации в радіоканалах / В.С. Василенко // Матеріали 28 НТС Асоціації зв’язку України. — К.: КВІРТУ ППО. — 1991.— С. 23.<br>2. Акушский И.Я. Машинная арифметика в остаточных класах / И.Я. Акушский, Д.И. Юдицкий. — М.: Сов. радио, 1966. — 421 с.<br>3. Василенко В.С. Узагальнені завадостійкі коди в задачах забезпечення цілісності інформаційних об’єктів. Код умовних лишків / В.С. Василенко, О.Я. Матов // Реєстрація, зберігання і оброб. даних. — 2006. —Т. 6, № 4. — С. 82–93.
+File
+RZOD2_04.doc
+null

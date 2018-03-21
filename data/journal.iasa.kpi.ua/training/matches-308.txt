@@ -1,0 +1,11 @@
+﻿s
+E. M. Ugryumova</em><br><br>Ukraine</p><p></p><p>Угрюмова Катерина Михайлівна,</p><p>аспірантка Національного аерокосмічного університету ім.&nbsp;М.Є.&nbsp;Жуковського «ХАІ», Україна, Харків</p><p></p></div><div></div><div><p><em>A. A. Tronchuk</em><br><br>Ukraine</p><p></p><p>Трончук Олексій Адамович,</p><p>аспірант Національного аерокосмічного університету ім.&nbsp;М.Є.&nbsp;Жуковського «ХАІ», Україна, Харків</p><p></p></div><div></div><div><p><em>V. E. Afanasjevska</em><br><br>Ukraine</p><p></p><p>Афанасьєвська Вікторія Євгенівна,</p><p>аспірантка Національного аерокосмічного університету ім.&nbsp;М.Є.&nbsp;Жуковського «ХАІ», Україна, Харків</p><p>
+106969
+6358">No 2 (2010
+106969/0">Ugryumova
+Information technology for generation of engineering system elements on the basis of discrete data on analogs
+E. M. Ugryumova, A. A. Tronchuk, V. E. Afanasjevska
+Methodology and a computer decision support system for engineering system element habit generation are offered. Formal mathematical models of the system have been constructed using artificial neural networks. Control variables that are consistent with the desired quality criteria are determined on the basis of the evolutional method with regularization.
+106969/101970">PDF (Русский)</a
+—
+null

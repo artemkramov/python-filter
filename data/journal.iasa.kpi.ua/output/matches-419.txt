@@ -1,0 +1,11 @@
+﻿s
+V. D. Romanenko</em><br></p><p></p></div><div></div><div><p><em>O. V. Bilyi</em><br></p><p>
+109779
+6581">No 1 (2008
+109779/0">Romanenko
+Design and adaptive setting of GARCH models for forecasting dispersions of heteroscedastic processes with multirate discretization
+V. D. Romanenko, O. V. Bilyi
+Theoretical propositions concerning design of GARCH models for forecasting conditional dispersions of heteroscedastic processes under discretization of input disturbances with small sampling periods and output coordinates with large ones are considered. The dynamics of processes in a stochastic medium is described by models of autoregression and sliding mean with multirate discretization. An algorithm for adaptive setting of the GARCH model coefficients concerning the sliding mean is developed. Experimental results for adaptive setting of GARCH model optimal coefficients as well as forecasting conditional dispersions under optimal coefficients are presented.
+109779/104820">PDF (Русский)</a
+—
+null

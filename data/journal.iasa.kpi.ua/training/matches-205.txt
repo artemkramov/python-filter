@@ -1,0 +1,11 @@
+﻿s
+A. A. Yarovyy</em><br>доцент кафедри інтелектуальних систем Вінницького національного технічного університету, Україна, Вінниця<br>Ukraine</p><p></p><p>Яровий Андрій Анатолійович,</p><p>доцент, кандидат технічних наук, доцент кафедри інтелектуальних систем Вінницького національного технічного університету, Україна, Вінниця</p><p></p></div><div></div><div><p><em>R. S. Vlasyuk</em><br>старший інспектор головного центру міжнародних зв’язків Вінницького національного технічного університету, Україна, Вінниця<br>Ukraine</p><p></p><p>Власюк Раїса Сергіївна,</p><p>магістрант, старший інспектор головного центру міжнародних зв’язків Вінницького національного технічного університету, Україна, Вінниця</p><p>
+73127
+4358">No 1 (2012
+73127/0">Yarovyy
+Neural net intellectual system development for energy center of spot images forecasting in the laser beam profiling system
+A. A. Yarovyy, R. S. Vlasyuk
+The development of a neural net intellectual system for energy centers (EC) spot images forecasting in the processes of laser beam profiling (LB) is done. Actuality of the problem of coordinates forecasting of EC of laser beam profile is proved. Methods of forecasting are considered and the appropriateness of usage the neural net model is justified. Computer simulation of forecasting system is carried out and also on the basis of the obtained results the requirements are formulated and software implementation of intelligent system is performed.
+73127/68446">PDF (Українська)</a
+—
+null

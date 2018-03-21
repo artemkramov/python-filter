@@ -1,0 +1,11 @@
+﻿s
+M. S. Siavavko</em><br><br>Ukraine</p><p></p><p>Сявавко Мар’ян Степанович,</p><p>професор, доктор фізико-математичних наук, завідувач кафедри обчислювальної математики та моделювання Інституту новітніх технологій та управління ім.&nbsp;В.&nbsp;Чорновола, Україна, Львів</p><p></p></div><div></div><div><p><em>T. V. Pasichnyk</em><br><br>Ukraine</p><p></p><p>Пасічник Тимофій Васильович,</p><p>доцент, кандидат фізико-математичних наук, завідувач кафедри інформаційних технологій Львівського національного аграрного університету, Україна, Львів</p><p></p></div><div></div><div><p><em>V. P. Tymkiv</em><br><br>Ukraine</p><p></p><p>Тимків Володимир Пилипович,</p><p>завідувач відділення обліку та фінансів Коломийського економіко-правового коледжу (відділення Київського національного торговельно-економічного університету), Україна, Коломия</p><p>
+106971
+6358">No 2 (2010
+106971/0">Siavavko
+Fuzzy arithmetic in problems of interindustry balance
+M. S. Siavavko, T. V. Pasichnyk, V. P. Tymkiv
+To solve problems of interindustry balance, the use of fuzzy-step theory is proposed. Fuzzy logic methods are shown to enable quantitative interpretation of qualitative factors. To find a normal solution to incorrectly-assigned tasks or ill-conditioned systems, the use of the fractionally rational algorithm is offered. Examples of solutions to fuzzy problems are given.
+106971/101972">PDF (Українська)</a
+—
+null

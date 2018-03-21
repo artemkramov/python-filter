@@ -1,0 +1,12 @@
+﻿Kosjak
+08. — Vol. 10, N 2
+83-86
+width="25px" alt="">PDF,DOC
+Improvement of a Measuring System of a Laser-Beam Recorder Positioner Drive
+Kosyak I.V.
+Improvement of a measuring system of a laser-beam recorder positioner drive with the purpose of increasing the precision of its movement is presented. Realization of the given measuring system on the basis of a sine-cosine interpolator by using multiplying digital-analog converters is proposed. Fig.: 1. Refs.: 3 titles.
+positioner, interference signal, master disk, track pitch, signal processing, sine-cosine interpolator.
+Ссылки</td><td>1. Казанский Н.Л. Исследовательский комплекс для решения задач компьютерной оптики / Сборник «Компьютерная оптика». — Самара-Москва. — 2006. — № 29. — С. 58–77.<br>2. Брицкий А.И. Управление приводами станции лазерной записи оптической информации // Реєстрація, зберігання і оброб. даних. — 2000. — Т. 2, № 3. — С. 11–14.<br>3. Преснухин Л.Н. Фотоэлектрические преобразователи информации. — М.: Машинострое-ние, 1974. — 376 с.
+Файлы
+statja.doc
+null

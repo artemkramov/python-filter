@@ -1,0 +1,12 @@
+﻿2011-4-1
+11. — Vol. 13, N 4
+3-11&gt;
+alt="" width="50">PDF,DOC
+Improved CARMA Locality Estimation Model for Peer List Reordering and Its Experimental Validation
+G. V. Poryev, V. A. Poryev
+The improvement of CARMA network model by addition of locality flavor as well as IPv6 support are concerned. The direct experimental evidence of the improvement of the efficiency of the peer-to-peer networks in terms of the network throughput using previously proposed CARMA locality awareness methods is established. The possible influences of the dynamics of the number of seeding and peering nodes in a swarm (including those directly connected to the test rig) are analyzed and taken into account. Main results indicate average 2,5 % improvement in transfer speed in comparison with clean unbiased transfer modes.
+Internet, distributed networks, peer-to-peer networks, locality, clustering.
+References</td><td>1. Frazer K.D. NSFNET: a Partnership for High-Speed Networking: Final Report, 1987–1995. — Merit Network, 1996.<br>2. Claffy K. Traffic Characteristics of the T1 NSFNET Backbone / Claffy K., Polyzos G.C., Braun H.W. — In INFOCOM93, 1993. — P. 885–892.<br>3. Poryev G. CARMA-Based MST Approximation for Multicast Provision in P2P Networks / Poryev G., Schloss H., Oechsle R. — In Proceedings of the Sixth International Conf. on Networking and Services (ICNS 2010). — IEEE: Cancun (Mexico). — P. 123–128.<br>4. Poryev G. CARMA: A Distance Estimation Method for Internet Nodes and its Usage in P2P Networks / G. Poryev, H. Schloss, R. Oechsle // Internation. J. on Advances in Networks and Services. — IARIA. — 2010. — Vol. 4, N 3,4. — P. 114–128.<br>5. Poryev G.V. Using the Internet Registries to Construct Structural Model for Locality Estimation in the Overlay Networks / G.V. Poryev // Реєстрацiя, зберiгання i оброб. даних. — 2011. — Т. 13, № 1. — С. 78–86.<br>6. Алишев Н.И. Развитые методы взаимодействия ресурсов в распределенных системах / Н.И. Алишев. — К.: Сталь, 2009. — 448 с.
+File
+4-1.pdf
+null

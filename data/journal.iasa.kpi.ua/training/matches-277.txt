@@ -1,0 +1,10 @@
+﻿null
+N. V. Аndreev</em><br><br>Ukraine</p><p></p><p>Андрєєв Микола Варфоломійович,</p><p>доктор фізико-математичних наук, провідний науковий співробітник Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p>
+106718
+6349">No 4 (2010
+106718/0">Аndreev
+Decision making theory in optimal stopping problems
+N. V. Аndreev
+An optimal decision making rule for a producer with growing inventory in the given period and specified the current price and probabilistic price distribution in the following period is given. Decision making models in optimal stopping problems of the Markov sequences with deterministic or stochastic revalue are constructed. The Вayesian decision making procedure in a statistical hypotheses testing problem is performed.
+106718/101753">PDF (Українська)</a
+—

@@ -1,0 +1,12 @@
+﻿Matov
+06. — Vol. 8, N 4
+64-74
+width="25px" alt="">PDF,DOC
+Generalized Noise Combating Codes in the Tasks of Providing Integrity of Information Hold-ing Objects in the Conditions of Natural Factors Influence
+Mаtоv О.Ya., Vаsylenko V.S.
+Generalized noise combating codes for the use in the tasks of providing integrity of information holding objects in the conditions of natural factors influence are proposed. Fig.: 3. Refs.: 4 titles.
+distortion discovery, distortion correction, integrity control, noise combating correcting codes.
+References</td><td>1. Матов О.А., Василенко В.С. Узагальнені завадостійкі коди в задачах забезпечення цілісно-сті інформаційних об’єктів. Код умовних лишків. // Реєстрація, зберігання і оброб. даних. — 2006. — Т. 8, № 3. — С. 48–66.<br>2. Дубровский В.В. CDMA — взгляд глазами профессионала // mailto:v_dubrovskii@mail.ru.<br>3. Акушский И.Я., Юдицкий Д.И. Машинная арифметика в остаточных классах. — М.: Сов. радио, 1966. — 421 с.<br>4. Василенко В.С., Будько М.М., Короленко М.П. Контроль и відновлення цілісності інформації в автоматизованих системах // Правове, нормативне та метрологічне забезпечення Системи захисту інформації в Україні. — К.: НТУУ «КПІ», 2002. — Вип. 4. — С. 119–128.
+File
+stattja.doc
+null

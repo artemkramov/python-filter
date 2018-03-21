@@ -1,0 +1,10 @@
+﻿null
+A. I. Peschansky</em><br><br>Ukraine</p><p></p><p>Песчанський Олексій Іванович,</p><p>кандидат фізико-математичних наук, доцент кафедри вищої математики Севастопольського національного технічного університету, Україна, Севастополь</p><p>
+108429
+6423">No 2 (2009
+108429/0">Peschansky
+Maintenance for monotonic system with allowance of the total failure time of each element
+A. I. Peschansky
+A semi-Markov model of maintenance for a parallel system has been constructed with allowance of the total failure time of each element. The stationary indexes of the quality of the system functioning have been determined. Optimal values of the failure time of the elements for precautionary maintenance of the system have been found.
+108429/103379">PDF (Русский)</a
+—

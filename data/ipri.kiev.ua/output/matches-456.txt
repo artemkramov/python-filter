@@ -1,0 +1,12 @@
+﻿Cibulskaja
+06. — Vol. 8, N 1
+31-36
+width="25px" alt="">PDF,DOC
+Algorithmic and Programming Realization of Cone-Beam to Fan-Beams Transformation Al-gorithm
+Sinkov M.V., Zakidalskiy A.I., Tsibulska E.A.
+The main principles of work and programming realization of cone-beam to fan-beams transfor-mation algorithm are described. Results of research of algorithm productivity at various variants of scan-ning are shown. Tabl.: 1. Refs: 3 titles.
+tomography reconstruction, algorithm, volumetric reconstruction, cone-beam, parallel fan-beams.
+References</td><td>1. Закидальский А.И., Цыбульская Е.А. Преобразование конусного пучка в квазипараллель-ные слои веерного типа для повышения производительности реконструкции томографических изображений // Реєстрація, зберігання і оброб. даних. — 2004. — Т. 6, № 2. — С. 27–32.<br>2. Синьков М.В., Закидальский А.И., Самбыкина Э.Е., Цыбульская Е.А. Разработка алгоритмов объемной реконструкции «больших» объектов // Реєстрація, зберігання і оброб. даних. — 2003. — Т. 5, № 4. — С. 43–50.<br>3. Цыбульская Е.А. Моделирование высокопроизводительного томографического алгоритма реконструкции промышленных объектов // Реєстрація, зберігання і оброб. даних. — 2005. — Т. 7, № 4. — С. 54–57.
+File
+art0106.doc
+null

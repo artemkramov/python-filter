@@ -1,0 +1,12 @@
+﻿2010-4-3
+10. — Vol. 12, N 2
+22-30
+alt="">PDF
+Using Fuzzy Estimations in the Prognosis Graph Method
+Samokhvalov Yu.Ya., Butochnov O.M., Naumenko E.M., Burba O.I.
+Mechanisms of treatment of fuzzy estimations in the proper procedures of prognosis graph method are offered. Tabl.: 1. Fig.: 1. Refs: 2 titles.
+network planning and management, prognostication, examination, fuzzy estimations.
+References</td><td>1. Глушков В.М. О прогнозировании на основе экспертных оценок / В.М. Глушков // Кибернетика. — 1969. — № 2. —С. 8–17.<br>2. Самохвалов Ю.Я. Экспертное оценивание. Методический аспект / Ю.Я. Самохвалов, Е.М. Науменко. — К.: ДУИКТ, 2007. — 262 с.
+Файлы
+2010-4-3.pdf
+null

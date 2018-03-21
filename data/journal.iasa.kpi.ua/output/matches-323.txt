@@ -1,0 +1,11 @@
+﻿s
+M. Z. Zgurovsky</em><br><br>Ukraine</p><p></p><p>Згуровський Михайло Захарович,</p><p>академік НАН України, професор, доктор технічних наук, ректор Національного технічного університету України «КПІ», директор Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p></p></div><div></div><div><p><em>O. A. Pavlov</em><br><br>Ukraine</p><p></p><p>Павлов Олександр Анатолійович,</p><p>академік Академії наук вищої школи, професор, доктор технічних наук, декан факультету інформатики та обчислювальної техніки Національного технічного університету України «КПІ», Київ</p><p></p></div><div></div><div><p><em>E. B. Misiura</em><br><br>Ukraine</p><p></p><p>Місюра Олена Борисівна,</p><p>старший науковий співробітник, кандидат технічних наук, старший науковий співробітник Науково-дослідного інституту інформаційних процесів при Національному технічному університеті України «КПІ», Київ</p><p>
+107252
+6372">No 4 (2009
+107252/0">Zgurovsky
+PDC-algorithms and intractable combinatorial optimization problems
+M. Z. Zgurovsky, O. A. Pavlov, E. B. Misiura
+Based on the analysis of PDC-algorithms for intractable combinatorial optimization problems, general principles of their building are formulated and generalizations about increasing the effectiveness of their using are given. A possibility of constructing new PDC-algorithms on the basis of the existed ones is analyzed.
+107252/102234">PDF (Русский)</a
+—
+null

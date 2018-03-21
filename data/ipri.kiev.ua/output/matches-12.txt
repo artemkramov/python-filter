@@ -1,0 +1,12 @@
+﻿Bilan
+05. — Vol. 7, N 1
+97-102
+width="50" alt="">PDF,DOC
+Increase of Cryptofirmness and Speed of the Blowfish Algorithm in Data Channels
+Bilan S.М., Shvarts I.M.
+The possibility of using the Blowfish algorithm to transmit information over communication chan-nels in private corporate nets as well as in Global net is considered. The method of improving the algo-rithm and its realization as a program, which is the Mapi-client of the Exchange mail server are proposed. Fig.: 6. Refs.: 5 titles.
+information protection, cryptographic algorithm, mail server, encoding.
+References</td><td>1. Организация и современные методы защиты информации. — М.: Концерн «Банковский Деловой центр», 1998. — 465 с.<br>2. Брюс Шнайер. Прикладная криптография. Протоколы, алгоритмы и исходные тексты на языке С. 2-е издание. — М.: Дело, 2003. — 524 с.<br>3. Smith J.L. The Design of Lucifer. A Cryptographic Device for Data Communication, RC 3326, White Plains: IBM Research.<br>4. Горбенко И.Д., Долгов В.И., Рублинецкий В.И. Мифы и реальность // Безопасность инфор-мации. — 1996. — № 2. — С. 17–25.<br>5. Biham E. and Shamir A. Differential Cryptanalysis of the Data Encryption Standard. — Springer-Verlag, 1993.
+File
+RZOD2_04.doc
+null

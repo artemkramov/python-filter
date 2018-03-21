@@ -1,0 +1,10 @@
+﻿null
+O. E. Kirik</em><br></p><p>
+109778
+6581">No 1 (2008
+109778/0">Kirik
+Algorithms of iterative quadratic programming for optimal flow distribution problems
+O. E. Kirik
+The quadratic programming problem which serves as an auxiliary one in the solution of nonlinear flow distribution problems is reduced to an unconstrained dual problem with a continuously-differentiable piecewise quadratic objective function. Instead of maximization of this implicit function, consecutive maximization of the specific quadratic functions is developed. These functions are constructed in such a way that at the end of the iterative procedure, the coincidence of the obtained solution with the maximum point of the dual problem can be achieved.
+109778/104819">PDF (Українська)</a
+—

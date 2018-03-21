@@ -1,0 +1,12 @@
+﻿2015-4-2
+15. — Vol. 17, N 4
+11–20
+alt="" width="50">PDF,DOC
+Mathematical modeling representations of exponential and logarithmic functions in the hypercomplex numerical system of generalized quaternions
+Kalinovsky Y.A., Boyarinova Y.E., Sukalo A.S.
+The process of mathematical modeling representations of exponential and logarithmic functions in hypercomplex number system using generalized quaternion defining a linear differential equation with hypercomplex coefficients is being considered. Some properties of these representations and their relationship with the concepts of exponents in specific non-commutative hypercomplex numerical systems dimension four have been considered. Refs: 21 titles.
+mathematical modeling, hypercomplex numerical system of generalized quaternions, exponential function, logarithmic function.
+References</td><td>
+File
+4-2.pdf
+null

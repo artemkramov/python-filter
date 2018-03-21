@@ -1,0 +1,12 @@
+﻿Kravec
+06. — Vol. 8, N 4
+3-12
+width="25px" alt="">PDF,DOC
+Information Recording Using Two-Photon Absorption in Pyrazoline Dye Films
+Kravets V.G., Beliak E.V., Kryuchin A.A., Petrov V.V., Shershukov V.M., Yashchuk V.P., Prygodjuk O.A.
+Effect of two-photon absorption in pyrazoline dye films has been revealed. Such nonlinear optical properties of the dye films could be used for creating the multilayer recording media for compact disks. Photoluminescence spectra of these films have also been investigated. It was found that photolumines-cence spectra vary under irradiation of dye films by infrared light. Fig.: 3. Refs: 10 titles.
+optical recording, luminescence, two-photon absorption, pyrazoline dyes
+References</td><td>1. Rapaport A., Ayrault K., Matthew-Daniel E. St., Bass M. Visible Light Emission from Dyes Ex-cited by Simultaneous Absorption of Two Different Frequency Beams of Light // Appl. Phys. Lett. — 1999. — Vol. 74, N 3. — P. 329–331.<br>2. Pudavar H.E., Joshi M.P., Prasad P.N., Reinhardt B.A. High-Density Three-Dimensional Optical Data Storage in a Stacked Compact Disk Format with Two-Photon Writing and Single Photon ReadOut // Appl. Phys. Lett. — 2001. — Vol. 74, N 9. — P. 1338–1341.<br>3. Wang M.M., Esener C., McCormick F.B., Cokgor I., Dvornikov A.S. and Rentzepis P.M. Exper-imental Characterization of a Two-Photon Memory // Opt. Lett. — 1997. — Vol. 22. — P. 558–560.<br>4. Sivaraman R., Clarson S.J., Lee B.K., Steckl A.J., Reinhardt B.A. Photoluminescence Studies and Read/Write Process of a Strong Two-Photon Absorbing Chromophore // Appl. Phys. Lett. — 2000. — Vol. 77, N 3. — P. 328–330.<br>5. U.S. Patent 6039898. Optical Memory Device and a Method for Manufacturing Thereof / Boris Glushko; 21 March, 2000.<br>6. Burrows E., Forrest S.R., Sapoch L.S. et al. Organic Vapor Phase Deposition: A New Method for the Growth of Orgacic Tgin Films with Large Optical Nonlinearities // J. Crys. Growth. — 1995. — Vol. 156. — P. 91.<br>7. Шен И. Р. Принципы нелинейной оптики. — М.: Мир, 1989. — 605 с.<br>8. Perry I.W., Marder S.M., Perry R.J., Sleva E.T. Organic Materials for Non-Linear Optics // Proc. SPIE. — 1991. — Vol. 1560. — P. 302–310.<br>9. Красовицкий Б.М., Афанасиади Л.М. Препаративная химия органических люминофоров. — Харьков, 1997. — 185 с.<br>10. Плотников Г.С., Зайцев В.Б. Физические основы молекулярной электроники. — МГУ.: Физ. ф-т., 2000. — 164 с.
+File
+Manusc_Record_Two-Photon-PL-Dye-00.doc
+null

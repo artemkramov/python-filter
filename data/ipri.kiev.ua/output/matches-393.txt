@@ -1,0 +1,12 @@
+﻿2015-3-2
+15. — Vol. 17, N 3
+15–21
+alt="" width="50">PDF,DOC
+Complex networks with modified rule of preferred connection
+Snarsky A.A., Zarvansky I.A.
+A modification of the rules of the preferred connection (connection with faultfinding) has been proposed. The connection with faultfinding applies to network models constructed by the algorithm Barabási-Albert and model (u, v)-flowers. The results of numerical modeling of the proposed models have been demonstrated. There are considered the values of the various characteristics of the simulated networks. It is shown that the characteristics of the networks behave similarly to phase transitions of the second kind. Fig.: 3. Refs: 9 titles.
+сomplex networks, phase transition, Pareto law.
+References</td><td>
+File
+3-2.pdf
+null

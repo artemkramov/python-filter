@@ -1,0 +1,10 @@
+﻿null
+A. Yu. Shelestov</em><br><br>Ukraine</p><p></p><p>Шелестов Андрій Юрійович,</p><p>старший науковий співробітник, кандидат технічних наук, доцент Інституту космічних досліджень НАН та НКА України, Київ</p><p>
+107838
+6391">No 3 (2009
+107838/0">Shelestov
+Grid node modeling based on Petri networks
+A. Yu. Shelestov
+The node of Grid system was investigated using the Petri network approach. A model of the working node was constructed and its structural properties were investigated. In particular, it is shown that the constructed network is bounded, alive and free of inaccessible places. Analysis of the mutex and fairness properties was performed for the model.
+107838/102785">PDF (Русский)</a
+—

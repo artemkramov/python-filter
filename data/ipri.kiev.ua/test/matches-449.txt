@@ -1,0 +1,12 @@
+﻿2017-1-2
+17. — Vol. 19, N 1
+9–21
+alt="" width="50">PDF,DOC
+A mathematical apparatus for data analysis for forecasting nonlinear non-stationary processes.
+Shulkevych T.V., Baklan I.V., Nesterenko O.V., Selin Yu.M.
+A mathematical apparatus which can be used in data analysis problems of different nature for forecasting nonlinear non-stationary processes is expounded. Fig.: 5. Refs: 14 titles.
+nonlinear transient processes, forecasting, ecological processes, economic processes.
+References</td><td>
+File
+2017-1-2.pdf
+null

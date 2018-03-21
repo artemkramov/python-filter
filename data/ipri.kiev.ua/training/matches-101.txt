@@ -1,0 +1,12 @@
+﻿2009-1-11
+10. — Vol. 12, N 2
+87-92
+alt="">PDF
+Schema of Secret Sharing by Using Lagrange Polynomials
+Boyarynova I.E., Sinkova T.V.
+Possibility of the use of hypercomplex numbers as coefficients of Lagrange polynomial is considered. Tabl.: 1. Refs: 6 titles
+problem of secret sharing, Lagrange polynomial, Gauss fundamental theorem.
+References</td><td>1. Ященко В.В. Введение в криптографию / Ященко В.В. — М.: МЦНМО, 2001. —288 с.<br>2. Шнайер Б. Прикладная криптографія / Шнайер Б. –М.: Триумф, 1995. — 816 с.<br>3. Shamir A. How to Share a Secret / Shamir A. // Communications of the ACM. —1979, Nov. — Vol. 24, N. 11. —P. 612–613.<br>4. Акушский И.Я. Машинная арифметика в остаточных классах / Акушский И.Я., Юдицкий Д.И. — М.: Сов. Радио, 1968. — 440 с.<br>5. Синьков М.В. Развитие задачи разделения секрета / Синьков М.В., Бояринова Ю.Е., Калиновский Я.А., Трубников П.В. // Реєстрація, зберігання і оброб. даних. — 2003. — Т. 5, № 4. — С. 90–96.<br>6. Синьков М.В. Непозиционные представления в многомерных числовых системах / Синьков М.В., Губарени Н.М. — К.: Наук. думка, 1979. — 140 с.
+Файлы
+2009-1-11.pdf
+null

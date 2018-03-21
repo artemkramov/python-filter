@@ -1,0 +1,11 @@
+﻿null
+I. V. Velbitsky</em><br>Glushkov Fund, Kyiv<br>Ukraine</p><p></p><p>I. V. Velbitsky,</p><p>professor, Doctor of Phys.-Math. Sciences, the president of the Glushkov Fund, Kyiv, Ukraine.</p><p>
+117212
+7035">No 3 (2017
+117212/0">Velbitsky
+Smart visual 3D+ polyglot-concept of programming without programming languages
+I. V. Velbitsky
+It is proposed to use a new simple, smart, and mathematically rigorous programming concept by oriented graphs consisting of only horizontal arcs, on which from above and below texts are recorded in any languages – Russian, English, Chinese, Mathematical, etc. The mathematical language is strictly defined as part of elementary mathematics (its expressions and formulas for recording conditions and actions) that can be written on the graphical arcs of the new concept and executed on the computer. Traditional programming languages are not used, but their libraries (intelligence) are saved with the ability to access them from graphics programs using appropriate functions with or without parameters. Any program from this library can be automatically translated into a single new graphical sheath. Such a graph is an intellectual polyglot, it can be 3D+, has the ISO 8631/1989 standard and only one is effectively used throughout the life cycle of the process of developing, executing and using the programs. The new concept uses a single mathematical (graphical) method for recording algorithms, data, programs and network graphs of their development, which has much better (up to 100+ times) characteristics by clarity, simplicity, compactness, speed of entering them into the computer and, as a result, the efficiency of the generated computer code. The article gives the history of the appearance and verification of a new concept, a description of its essence, the implemented environment for graphic programming and the benefits of its use.</div><br></div><div><h4>Keywords</h4><br><div>Graphical programming; Graphs loaded through arcs; Single logical and abstract algorithm, data and program scheme; Polyglot, 3D and multi-dimensional programming; Color, drawing and network schedules in programming; Self-documentation and documenting of decision motivation
+117212/111299">PDF (Русский)</a
+—
+><br><br>DOI:<a href="https://doi.org/10.20535/SRIT.2308-8893.2017.3.09">https://doi.org/10.20535/SRIT.2308-8893.2017.3.09</a

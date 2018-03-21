@@ -1,0 +1,12 @@
+﻿Alekseichuk
+05. — Vol. 7, N 1
+44-53
+width="50" alt="">PDF,DOC
+A Perfect Multi-Secret Sharing Scheme Over a Modulo m Residue Ring
+Aleksejchuk А.N., Voloshin A.L.
+A construction of a perfect multi-secret sharing scheme, which is based on linear transformations over a residue integer ring, is proposed. The necessary and sufficient conditions of the existence of this scheme are established and its construction algorithm for any given access hierarchy are described. The obtained results generalize the known statements about properties of linear secret sharing schemes over finite fields, vector spaces and Galois rings. Refs: 12 titles.
+cryptographical security, secret sharing scheme, access hierarchy, residue ring.
+References</td><td>1. Jackson W.-A., Martin K.M., O’Keefe C.M. Multisecret Threshold Schemes // Advances in Cryp-tology — CRYPTO’93. — Lecture Notes in Computer Science. — Vol. 773. — P. 126–135.<br>2. Blundo C., De Santis A., Di Crescenzo G., Gaggia A.G., Vaccaro U. Multi-Secret Sharing Schemes // Advances in Cryptology — CRYPTO’95. — Lecture Notes in Computer Science. — Vol. 832. — P. 150–163.<br>3. Stinson D.R. An Explication of Secret Sharing Schemes // Designs, Codes and Cryptography. — 1992. — Vol. 2. — P. 357–390.<br>4. Seberry J., Charnes Ch., Pieprzyk J., Safavi-Naini R. 41 Crypto Topics and Application. CRC Handbook of Algorithms and Theory of Computation. — CRC Press: Baca Raton, 1999. — P. 1–51.<br>5. Franklin M., Yung M. Communication Complexity of Secure Computation // Proceedings of 24th Annual ACM Symposium on Theory of Compruting, 1992. — P. 699–710.<br>6. Simmons G.J. How to (really) Share a Secret // Advances in Cryptology — CRYPTO’88. — Lecture Notes in Comput. Science, 1990. — P. 390–448.<br>7. Blundo C., De Santis A., Vaccaro U. Efficient Sharing of Many Secrets // Proceedings of STACS’93. — Lecture Notes in Computer Science. — Vol. 665. — P. 692–703.<br>8. Brickell E.F. Some Ideal Secret Sharing Schemes // J. Combin. Math. and Combin. Comput. — 1989. — № 9. — P. 105–113.<br>9. Ashikhmin A., Barg A. Minimal Vectors in Linear Codes // IEEE Trans. on Inform. Theory. — 1998. — Vol. 5. — P. 2010–2018.<br>10. Van Dijk M. A Linear Construction of Perfect Secret Sharing Schemes // Advances in Cryptology — EUROCRYPT’94. — Lecture Notes in Comput. Science. — Vol. 950. — P. 23–34.<br>11. Елизаров В.П. Конечные кольца. Основы теории. — М., 1993. — 255 с.<br>12. Ноден П., Китте К. Алгебраическая алгоритмика: Пер. с франц. — М.: Мир, 1999. — 720 с.
+File
+RZOD2_04.doc
+null

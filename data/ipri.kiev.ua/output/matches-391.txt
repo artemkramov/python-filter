@@ -1,0 +1,12 @@
+﻿2015-2-8
+15. — Vol. 17, N 2
+72–82
+alt="" width="50">PDF,DOC
+Estimation of alternative project solutions using the DEA optimization methodology in Excel
+Bocharov V.V., Dodonov O.G., Kuzmychov А.I.
+In project management, the portfolio is formed by sequential objective selection among a given set of projects as a homogeneous objects, each of which is characterized by a set of identical input and output in the specified measurements, dividing the population into two classes , namely, the leaders and outsiders. Multi-step evaluation process being a subdividing of given set of similar objects with the updated I/O into two independent classes is completed, if necessary, by the definition of a single winner. Methodology DEA, used for such division, is characterized by objectivity evaluation process of func-tional efficiency of objects, because each of them uses its own best ratios of I/O with respect to similar relationships of all objects. Methods of estimating the application based on mathematical optimization tool unit, which is implemented as a software module in Excel and automatically operates as active spreadsheet template. Fig.: 3. Refs: 3 titles.
+DEA (Data Envelopment Analysis), organizational structure, operational efficiency, evaluation and comparative analysis, linear programming, uniform objects, project management, model «input-output», simplex method, add-in Excel Solver.
+References</td><td>
+File
+2-8.pdf
+null

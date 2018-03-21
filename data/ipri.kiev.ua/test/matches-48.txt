@@ -1,0 +1,12 @@
+﻿Boichenko
+08. — Vol. 10, N 1
+103-115
+width="25px" alt="">PDF,DOC
+Requirements to Systems for Monitoring Factors of Influences on Vitality
+Boychenko A.V.
+The factors of the influence on vitality are defined and existing facilities of monitoring the distribut-ed computer networks are considered. The requirements to systems for monitoring factors of influences on vitality are designed. The general architecture of the complex monitoring system is offered. Tabl.: 1. Fig.: 3. Refs.: 14 titles.
+vitality, monitoring system, software requirements.
+References</td><td>[1] Додонов А.Г., Кузнецова М.Г., Горбачик Е.С. Введение в теорию живучести вычисли-тельных систем. — К.: Наук. думка, 1990. — 184 с.<br>[2] Кузнєцова М.Г. Застосування механізмів підвищення живучості для забезпечення захи-щеності інформаційного ресурсу в розподілених системах. Реєстрація, зберігання і обробка даних, 2006, Т. 8, № 3.<br>[3] Mead N., Ellison R., Linger R., Longstaff T., McHugh J. Survivable Network Analysis Method. TECHNICAL REPORT. CMU/SEI-2000-TR-013. ESC-2000-TR-013. 2000. 00tr013.pdf<br>[4] Varner P., Knight j. Security Monitoring, Visualization and System Survivability. Department of Computer Science University of Virginia. 2001. Varner-10-09.pdf.<br>[5] Lipson H. Evolutionary Systems Design: Recognizing Changes in Security and Survivability Risks. CERT. 2006. 06tn027.pdf<br>[6] Соммервил И. Инженерия программного обеспечения. 6-е издание. Пер. с англ. – М.: Из-дательский дом "Вильямс", 2002. – 624с.<br>[7] Андрейчук Н.Д., Бурков Ю.Ю. Застосування технологій Internet для моніторингу стану складних систем шляхом використання розподільних баз даних. "Стратегічна Панорама" №3, 99.<br>[8] Дудко С. Параметричний підхід до аналізу системи управління. Вісник державної служби. №3 2002.<br>[9] Denning D. An Intrusion Detection Model. // IEEE Transactions on Software Engineering, 13, 2, 222-232, 1987, pp.2-16.
+Файлы
+a07dia7req_8K.doc
+null

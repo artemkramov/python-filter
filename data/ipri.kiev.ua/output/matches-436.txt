@@ -1,0 +1,12 @@
+﻿2016-3-7
+16. — Vol. 18, N 3
+67–74
+alt="" width="50">PDF,DOC
+Problems of Expert Data Representation in Decision Support Systems
+S.V. Kadenko
+It has been described the basic peculiarities of interaction with an expert, characterizing different expert examination stages. It is shown that at each examination stage, involving the physical expert, certain problems arise, resulting, mostly, from the difference between the form of information representation by the expert and the form of information input into the decision support system. Conceptual recommendations are suggested, allowing examination organizers to avoid the detected problems and make the process of expert data collection more substantial and constructive. Suggested recommendations are to be used as a methodical basis during expert examinations and development of interface for decision support systems. Fig.: 7. Refs: 12 titles.
+decision-maker, expert, knowledge engineer, decision support system, criteria hierarchy, expert estimate.
+References</td><td>
+File
+3-7.pdf
+null

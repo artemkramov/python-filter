@@ -1,0 +1,12 @@
+﻿2017-2-6
+17. — Vol. 19, N 2
+61–68
+alt="" width="50">PDF,DOC
+Features for providing of cyber security.
+Prysiazhniuk M.M. and Cyfra E.I.
+Modern onrush of information technologies, informatisation, computerisation and creation of global information space formed fundamentally new substances — information society, information- and cyberspace, which have inexhaustible potential and become instrumental in economic and social development of all countries. Globalization conduces to the rapid information exchange that allows more effective development of humanity. At the same time privileges of modern cyberspace produced row of problems connected to vulnerability of information sphere to cyber threats. Therefore there is a need for a reliable cybernetic security system. The analysis of historical factors of «cyberspace» concept creation is conducted in the article, the features of cyber threats are opened up, the comparative analysis of cyber security strategies of leading countries is carried out, the complex of problems of domestic cyber security is pointed, the necessity of creation of the national cyber security system is substantiated and top priorities and tasks of counteraction threats in the cyberspace of Ukraine are pointed. Refs: 20 titles.
+cyberspace, cyber threats, cybersecurity.
+References</td><td>
+File
+2017-2-6.pdf
+null

@@ -1,0 +1,12 @@
+﻿Alekseichuk
+06. — Vol. 8, N 1
+92-102
+width="25px" alt="">PDF,DOC
+Multi-Secret Sharing Scheme with Broadcast Message Based on Linear Transformations Over a Residue Ring Modulo m
+Aleksejchuk А. N., Voloshin A. L.
+The conception of a secret sharing scheme with broadcast message for the sharing of d ? 2 secrets (d-SSSBM) is introduced. A construction of a perfect d-SSSBM based on linear transformations over a residue ring of integers is proposed. Necessary and sufficient conditions for existence of such a scheme and an algorithm of it’s construction for any predefined access hierarchy are established. Refs: 5 titles.
+cryptographical security, secret sharing scheme, access hierarchy, residue ring.
+References</td><td>1. Simmons G.J. How to (Really) Share a Secret // Advances in Cryptology — CRYPTO’88. — Lecture Notes in Comput. Science, 1990. — P. 390–448.<br>2. Harn L., Hwang T., Laih C., Lee J. Dynamic Threshold Scheme Based on the Definition of Сross-Рroduct in a N-dimensional Linear Space // Advances in Cryptology — EUROCRYPT’89. — Lecture Notes in Comput. Science. — Vol. 435. — P. 286–298.<br>3. Martin K. Discrete Structures in the Theory of Secret Sharing. — PhD Th. — University of London. — 1991.<br>4. Blundo C., Cresti A., De Santis A., Vaccaro U. Fully Dynamic Secret Sharing Schemes // Advances in Cryptology — CRYPTO’93. — Lecture Notes in Comput. Science, 1994. — P. 110–125.<br>5. Алексейчук А.Н., Волошин А.Л. Совершенная схема множественного разделения секрета над кольцом вычетов по модулю m // Реєстрація, зберігання і оброб. даних. — 2005. — Т. 7, № 4. — С. 44–53.
+File
+RZOD3_05.DOC
+null

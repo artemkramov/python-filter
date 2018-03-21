@@ -1,0 +1,12 @@
+﻿2015-2-4
+15. — Vol. 17, N 2
+39–46
+alt="" width="50">PDF,DOC
+Classification of information security threats to computer systems for remote data processing
+Korpan Y.V.
+It is provided a definition of key terms related to information security, the security conditions are counted for the computer systems and the general classification of information security threats is demonstrated. In the present classification of information security threats they are divided into three categories: threats to be specific to the software; threats to be directed to the computer network; threats to be touched upon on the hardware of the information system. The threats, related to each of these categories, are divided into groups according to characteristic of the features. It was determined their impact on the system and methods of protection. Tabl.: 1. Refs: 7 titles.
+: information security, integrity, availability, confidentiality, the threat of attack.
+References</td><td>
+File
+2-4.pdf
+null

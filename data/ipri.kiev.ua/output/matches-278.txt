@@ -1,0 +1,12 @@
+﻿Tocenko
+05. — Vol. 7, N 1
+98-107
+width="50" alt="">PDF,DOC
+Multi-Criteria Decision-Making Support System with Expanded Capabilities
+Totsenko V.G., Sigal T.G.
+Construction of a multi-criteria decision-making support system with the expanded capabilities has been considered. The analysis of the existing decision-making support systems based on multi-criteria estimation has been carried out and the ways of their improvement has been found. The concept and structure of the system under discussion have been given. The system developed differs from existing ones in its capability of sharing quantitative and qualitative criteria for group determination of the im-portance of criteria and alternatives, and a capability of distribution of resources between alternatives. Fig.: 5. Refs: 8 titles.
+multi-criteria decision-making support system, expert estimations, group expert estimation methods, quantitative and qualitative criteria, distribution of resources.
+References</td><td>1. www.expert_choice.com<br>2. Быстрый рейтинг // SOFTEL: сто компьютерных программ для бизнеса (каталог бизнес-софта, 1997–1998). — М.: Хамтех Паблишер, 1997. — С. 134–138.<br>3. СПВР МАІ // SOFTEL: сто компьютерных программ для бизнеса (каталог бизнес-софта, 1997–1998). — М.: Хамтех Паблишер, 1997. — С. 139–142.<br>4. Выбор проекта (АСЕО Выбор проекта) // SOFTEL: сто компьютерных программ для биз-неса (каталог бизнес-софта, 1997–1998). — М.: Хамтех Паблишер, 1997. — С. 143–148.<br>5. Приоритетность финансирования (АСЕО Приоритетность финансирования) // SOFTEL: сто компьютерных программ для бизнеса (каталог бизнес-софта, 1997–1998). — М.: Хамтех Паб-лишер, 1997. — С. 149–155.<br>6. Оценка и выбор (ІАС Оценка и выбор) // SOFTEL: сто компьютерных программ для биз-неса (каталог бизнес-софта, 1997–1998). — М.: Хамтех Паблишер, 1997. — С. 156–165.<br>7. Миллер Г. Магическое число семь плюс или минус два // Инж. психология. — М.: Прог-ресс, 1964.<br>8. Тоценко В.Г. Методы и системы поддержки принятия решений. Алгоритмический аспект. — К.: Наук. думка, 2002. — 382 с.
+File
+RZOD2_04.doc
+null

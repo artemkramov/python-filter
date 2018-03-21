@@ -1,0 +1,12 @@
+﻿2011-3-6
+11. — Vol. 13, N 3
+62-71&gt;
+alt="" width="50">PDF,DOC
+Test Plan of Hardware Write Blockers for Computer Forensics Applications
+Kozhenevsky S.R., Prokopenko S.D.
+The principles of design of modern write blockers for computer forensics applications are considered. The requirements for such devices are elaborated. The common principles of carrying-out the tests are developed. The test plan of hardware write blockers with SATA and PATA interfaces ia offered. It can be applied when carrying-out certification testing. Tab.: 1. Fig.: 2. Refs: 6 titles.
+computer forensics, data acquisition, write blocker, test plan, certification, write protection, hard disk, HDD.
+References</td><td>1. National Institute of Justice. Special Report. Test Results for Hardware Write Block Device: FastBloc IDE (Firmware Version 16). — 2006.<br>2. National Institute of Justice. Special Report. Test Results for Hardware Write Block Device: ICS ImageMasster DriveLock IDE (Firmware Version 17). — 2006.<br>3. National Institute of Standards and Technology. Hardware Write Blocker (HWB). Assertions and Test Plan. — 2005.<br>4. AT Attachment 8 — ATA/ATAPI Command Set (ATA8-ACS). — 2008. — Rev. 6a.<br>5. James R. Lyle. A Strategy for Testing Hardware Write Block Devices. Digital Investigation / James R. Lyle. — 2006. —3S. — Р. S3–S9.<br>6. Аппаратный блокиратор записи EPOS WriteProtector. Руководство пользователя. — ООО «ЕПОС», 2011.
+File
+3-6.pdf
+null

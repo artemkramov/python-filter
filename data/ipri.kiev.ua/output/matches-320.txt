@@ -1,0 +1,12 @@
+﻿2013-4-1
+13. — Vol. 15, N 4
+3–12
+alt="" width="50">PDF,DOC
+Optical Recording of Micro- and Nano- Relief Structures on Inorganic Resists Ge-Se
+Indutny I.Z., Kryuchyn A.A., Borodin Yu.A., Danko V.A., Lukanyuk M.V., Minko V.I., Shepelyavyi P.E., Gera E.V., Rubish V.M.
+The results of experimental studies on recording of microrelief structures using a focused laser radiation with a wavelength of 405 nm to photoresist films of inorganic system Ge-Se have been presented. It is shown that the microrelief structures having depth of 100 nm can be obtained on the inorganic photo-resists of GeSe3. Increase of the germanium content (when studied composition GeSe2) did not allow getting the microrelief structures with depth required for the manufacture of master disks used in the manufacturing of DVD and BD disks. The films with a high content of Se (GeSe8) are characterized by the presence of crystalline inclusions, and can not be applied for the microrelief structures for recording information on disks-originals. Tabl.: 2. Fig.: 4. Refs: 19 titles.
+inorganic photo-resist, optical recording, micro-relief structure.
+References</td><td>
+File
+4-1.pdf
+null

@@ -1,0 +1,12 @@
+﻿2017-2-1
+17. — Vol. 19, N 2
+3–10
+alt="" width="50">PDF,DOC
+Problems of long-term data storage
+D. Yu. Manko, Ie. V. Beliak and Ye. M. Morozov
+This paper is devoted to analysis of problems of long-term information storage. A short historical overview of the methods of long-term information storage is presented. The overview briefly covers a period from ancient times up to nowadays. The fundamental problems faced by both researchers and private companies working in the field of long-term data storage are highlighted. The main problems come along this long-term data storage, known as digital dark ages are shown. Different ways of overcoming them are revealed. It is shown that many scientific facilities successfully resolved the task of data corruption due to degradation over time and external influence. It is noted that the Institute for information recording, NAS of Ukraine is a research facility proposed and realized a way of overcoming the longevity of data carrier problem. The analysis of the principles of the work of «fast» memory is made, its variants are presented. The possibility of introducing the principles of «fast» visual memory on optical media is considered and discussed.
+visual memory, digital dark ages, optical media, QR code.
+References</td><td>
+File
+2017-2-1.pdf
+null

@@ -1,0 +1,12 @@
+﻿Naumenko
+07. — Vol. 9, N 4
+132-139
+width="25px" alt="">PDF,DOC
+An Approach to an Estimation of Efficiency of the Automated Aystems on Early Design Stages
+Naumenko E.M., Kozlov N.S.
+An approach to an estimation of efficiency of the automated system on early design stages in conditions of significant uncertainty of the information environment is offered. Practical use of the suggested approach allows to make the proved decisions on expediency of creation of a system and its expected efficiency. Tabl.: 1. Fig.: 2. Refs.: 5 titles.
+estimation of the efficiency, automated system, parameters of efficiency, expert methods, method of the hierarchy analysis.
+References</td><td>1. Герасимов Б.М., Грабочевский Г.Г., Рюмшин Н.А. Нечеткие множества в задачах проекти-рования управления и обработки информации. — К.: Промінь, 2002. — 137 с.<br>2. Саати Т. Принятие решений. Метод анализа иерархий. — М. Радио и связь, 1993. — 314 с.<br>3. Современные проблемы управления силами ВМФ: Теория и практика. Состояние и пер-спективы / И.В.Соловьев, В.В.Геков, С.М.Доценко и др.; Под ред. В.И.Куроедова. — К.: Политех-ника, 2006. — 432 с.<br>4. Техническое задание на проектирование Системы обработки информации. (Контракт № М095UABJ/E022D17K). — К.: ИПРИ НАН Украины, 2003. — 80 с.<br>5. Технические предложения по разработке системы обработки информации (Системы). Кни-га № 2. Обоснование технических требований на разработку Системы. — К.: ИПРИ НАН Украи-ны, 2003. — 206 с.
+File
+Podkhod_k_ocenke_ehffektivnosti__AS.doc
+null

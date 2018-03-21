@@ -1,0 +1,12 @@
+﻿2016-4-6
+16. — Vol. 18, N 4
+55–66
+alt="" width="50">PDF,DOC
+High stability temperature control of the laser diode for interferometry.
+Kosyak I.V.
+The analysis and research of systems temperature stabilization have been carried out. The features of the design and construction of automatic temperature control systems are considered. A realization of highly stable temperature control of the laser diode for interferometry is proposed. Tabl.: 1. Fig.: 10. Refs: 15 titles.
+thermo-stabilization, PID controller, laser, high-stable temperature controller.
+References</td><td>
+File
+4-6.pdf
+null

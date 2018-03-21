@@ -1,0 +1,12 @@
+﻿Maksimei
+08. — Vol. 10, N 1
+49-58
+width="25px" alt="">PDF,DOC
+The Use of Simulation Modeling for Finding the Internal Maximum Stream in a Transport Network of a Region
+Maksimey I.V., Sukach E.I., Giruts P.V.
+The use of a generalized simulation model of a regional transport network is offered. It takes into consideration the influence of casual internal streams and a probable ageing of the roads for finding a maximum stream in a network and determining «bottle-necks» in a network. Refs.: 4 titles.
+imitation models, transport network, maximum stream.
+References</td><td>1. Задачи и модели ИСО. Ч. 1. Аналитические модели исследования операций: Учеб. пособ. / И.В. Максимей, С.И. Жогаль / Под общ. ред. И.В. Максимея. — Гомель: БелГУТ, 1999. — 109 с.<br>2. Максимей И.В. Имитационное моделирование на ЭВМ / И.В. Максимей. — М.: Радио и связь, 1988. — 232 с<br>3. Максимей И.В. Исследование вероятностных транспортных потоков региона с использо-ванием метода имитационного моделирования / Максимей И.В., Сукач Е.И., Гируц П.Л., Пикуль А.В. // Информационные системы и технологии (IST`2006): Материалы Ш Международной конференции. — Минск, 1–3 ноября 2006 г. / Академия управления при Президенте Республики Беларусь. — Минск, 2006. — Ч. 2. — С. 178–183.<br>4. Сукач Е.И. Использование логического моделирования для исследования сложных систем // Известия Гомельского гос. ун-та им. Ф. Скорины, 2004. — № 4(25). — С. 60–64.
+Файлы
+Statja.doc
+null

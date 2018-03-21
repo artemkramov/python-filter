@@ -1,0 +1,11 @@
+﻿s
+Е. Martynov</em><br><br>Ukraine</p><p></p><p>Мартинов Євген Сергійович,</p><p>доктор фізико-математичних наук, завідувач лабораторії грід-обчислень у фізиці Інституту теоретичної фізики ім. М.М.&nbsp;Боголюбова НАН України, Київ</p><p></p></div><div></div><div><p><em>S. Svistunov</em><br><br>Ukraine</p><p></p><p>Свістунов Сергій Якович,</p><p>кандидат технічних наук, старший науковий співробітник Інституту теоретичної фізики ім. М.М. Боголюбова НАН України, Київ</p><p></p></div><div></div><div><p><em>G. Zinovjev</em><br><br>Ukraine</p><p></p><p>Зінов’єв Геннадій Михайлович,</p><p>професор, завідувач відділу фізики високих щільностей енергії Інституту теоретичної фізики ім. М.М. Боголюбова НАН України, Київ</p><p>
+107836
+6391">No 3 (2009
+107836/0">Martynov
+Academic segment of Ukrainian Grid infrastructure
+Е. Martynov, S. Svistunov, G. Zinovjev
+Ukrainian Academic Grid (UAG) is presented as a powerful computing resource for fundamental and applied scientific research which are carried out at the NAS of Ukraine (NASU). Information on activity, structure, computational power and problems of UAG follows a short historical outlook. Contribution of UAG to the Ukrainian National Grid Initiative (UNGI) is emphasized. Examples of a cooperation of NASU institutes with international grid projects and organizations, in particular, with WLCG, EGEE and EGI are presented. Prospects of UAG and UNGI activities in developing various Grid applications within various scientific areas are shown.
+107836/102783">PDF</a
+—
+null

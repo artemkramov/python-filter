@@ -1,0 +1,11 @@
+﻿s
+V. D. Romanenko</em><br><br>Ukraine</p><p></p></div><div></div><div><p><em>Y. L. Milyavsky</em><br><br>Ukraine</p><p>
+106462
+6335">No 2 (2011
+106462/0">Romanenko
+Multivariate object coordinating control with multirate sampling in stochastic environment
+V. D. Romanenko, Y. L. Milyavsky
+The problem of the optimal control of the correlations between the output cordinates of multidimentional multirate object in a stochastic environment is formulated and implemented. The main schemes of the control systems organization, optimization criteria for such systems are considered. Also the algorithm of digital control is developed on the basis of the problem of multicriteria absolute optimization. The results of numerical simulations, which confirm the practical value of this development, are presented.
+106462/101557">PDF (Українська)</a
+—
+null

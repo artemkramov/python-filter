@@ -1,0 +1,11 @@
+﻿s
+A. S. Makarenko</em><br><br>Ukraine</p><p></p><p>Макаренко Олександр Сергійович,</p><p>професор, доктор фізико-математичних наук, завідувач відділу прикладного нелінійного аналізу Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p></p></div><div></div><div><p><em>D. A. Krushinskii</em><br><br>Ukraine</p><p></p><p>Крушинсьий Дмитро Андрійович,</p><p>аспірант Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p>
+107203
+6364">No 1 (2010
+107203/0">Makarenko
+Modeling of pedestrian circulation on the basis of cellular automatons
+A. S. Makarenko, D. A. Krushinskii
+A cellular automaton method for modeling of situations occurring during pedestrian circulation, in particular under the action of unpredictable factors, is presented. Cellular automaton models capable to reproduce most of events of this circulation are considered, and it is shown that they can be improved by introduction of mental factors.
+107203/102187">PDF (Українська)</a
+—
+null

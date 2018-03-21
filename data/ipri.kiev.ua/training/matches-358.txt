@@ -1,0 +1,12 @@
+﻿2014-3-4
+14. — Vol. 16, N 3
+45-53
+alt="" width="50">PDF,DOC
+Linguistic studies of research collaboration using the «Ukrainika naukova» abstracts database
+Balagura I.V., Lande D.V.
+It is proposed to use computer linguistics methods for fulfilling scientometric investigation of the «Ukrainika naukova» abstract database. In this area, the new method of scientometric investigation is revealed. The method is based on computer linguistics and allows detailed studying of scientific collaboration between authors, sorting out the most communicative scientists, allocating scientific groups of investigators and determining key words for specified scientific groups. Fig.: 3. Refs: 20 titles.
+computational linguistics, the «Ukrainika naukova» abstract database, co-author network, co-word network, research collaboration.
+References</td><td>
+File
+3-4.pdf
+null

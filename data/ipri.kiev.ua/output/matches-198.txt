@@ -1,0 +1,12 @@
+﻿2011-1-3
+11. — Vol. 13, N 1
+21-28&gt;
+alt="" width="50">PDF,DOC
+Models of Complexing Similarity Measures for Structural Descriptions of Images
+Gorohovatsky V.A., Polyakova T.V., Putyatin E.P.
+Questions of information processing in intellectual systems of computer vision are discussed. The construction of similarity measures by complexing polytypic features in order to improve classification reliability of images for comparison of structural descriptions is proposed. Results of computer modeling are shown. Tab.: 2. Fig.: 1. Refs: 9 titles.T
+computer vision, structural image recognition methods, characteristic features, measure of similarity, complexing, relation, noise immunity.
+References</td><td>1. Гороховатский В.А. Структурное распознавание изображений на основе моделей голосования признаков характерных точек / В.А. Гороховатский, Е.П. Путятин // Реєстрація, зберігання і оброб. да- них. — 2008. — Т. 10, № 4. — С. 75–85.<br>2. Rahtu E. Object Classi?cation with Multi-Scale Autoconvolution / E. Rahtu, J. Heikkila // In Proceedings of ICPR04. — Cambridge (England), 2004. — Vol. 3. — P. 37–40.<br>3. Гороховатский В.А. Повышение быстродействия метода аффинных инвариантов при сопос- тавлении структурных описаний визуальных объектов / В.А. Гороховатский, Т.В. Полякова // Системи управління, навігації та зв’язку: зб. наук. пр. — К.: ЦНДІ навігації і управління, 2009. — Вип. 2(10). — С. 85–89.<br>4. Гороховатский В.А. Метод структурного распознавания изображений с использованием раз- нотипных признакою / В.А. Гороховатский, Т.В. Полякова // VII міжн. науково-практ. конф. «Матема- тичне та програмне забезпечення інтелектуальних систем (MPZIS-2009)». Тези доповідей. — Дніпр-к: ДНУ, 25–27 листопада 2009. — C. 71–72.<br>5. Баклицкий В.К. Методы фильтрации сигналов в корреляционно-экстремальных системах нави- гации / В.К. Баклицкий, А.М. Бочкарев, М.П. Мусьяков. — М.: Радио и связь, 1986. — 216 с.<br>6. Айвазян С.А. Прикладная статистика: Классификация и снижение размерности / С.А. Айвазян, В.М. Бухштабер, И.С. Енюков, Л.Д. Мешалкин. — М.: Финансы и статистика, 1989. — 607 с.<br>7. Раушенбах Г.В. Меры близости и сходства / В кн.: Анализ нечисловой информации в социоло- гических исследованиях. — М.: Наука, 1986. — С. 169–203.<br>8. Шапиро Л. Компьютерное зрение / Л. Шапиро, Дж. Стокман; пер. с англ. — М.: БИНОМ. Ла- боратория знаний, 2006. — 752 с.<br>9. Рассел С. Искусственный интеллект: современный подход; 2-е изд. / С. Рассел, П. Норвиг; пер. с англ. — М.: Изд. дом «Вильямс», 2006. — 1408 с.
+File
+1-3.pdf
+null

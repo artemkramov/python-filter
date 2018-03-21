@@ -1,0 +1,12 @@
+﻿2009-1-5
+10. — Vol. 12, N 2
+33-42
+alt="">PDF
+Modern Technologies of Information Resources Integration
+Matov О.Ya, Khramova I.О.
+Modern information integration technologies for solving the tasks of shared information space development from existing autonomous information resources of governmental authorities while solving complex multidisciplinary problems are considered. Refs: 7 titles.
+information resource, integration, shared information space.
+References</td><td>1. Матов О.Я. Проблеми горизонтальної інтеграції інформаційних ресурсів у багаторівневих організаційних структурах з динамічною конфігурацією / О.Я Матов, І.О. Храмова // Реєстрація, зберігання і оброб. даних. — 2007. —Т. 9, № 3.— С. 88–97.<br>2. Friedman T. Magic Quadrant for Data Integration Tools / Ted Friedman, Mark A. Beyer, Andreas Bitterer // Gartner RAS Core Research Note G00160825. — 2008.<br>3. Матов О.Я. Перспективні інформаційні технології та розвиток GRID-систем у високопродуктивних глобально-розподілених обчислювальних інфраструктурах корпоративної співпраці / О.Я. Матов, І.О. Храмова // Реєстрація, зберігання і оброб. даних. — 2004. — Т. 6, № 1. — С. 85–98.<br>4. Матов О.Я. Проблеми використання GRID-технології як базису інтеграції інформаційно-аналітичних ресурсів для підтримки процесів електронного урядування / О.Я Матов, І.О. Храмова // Вісті Академії інженерних наук України. — 2005. —№ 2 . — С. 82–89.<br>5. Матов О.Я. Динамічна інтеграція інформаційних ресурсів єдиної інформаційної інфраструктури ринку електроенергії / О.Я Матов, І.О. Храмова // Функціонування та розвиток ринків електроенергії та газу: зб. наук. праць / Інститут проблем моделювання в енергетиці НАН України ім. Г.Є. Пухова. — К., 2006.— С. 93–98.<br>6. Mehdi Hatami SOA: Providing Enterprise-Wide Information Access // InfoManagement Direct.— April 13, 2007. — Режим доступу: http://www.information-management.com/infodirect/20070413/1080889-1.html<br>7. Microsoft Windows Server 2003 Microsoft Message Queuing. — Режим доступу: http://www.microsoft.com/windowsserver2003/technologies/msmq/default.mspx
+Файлы
+2009-1-5.pdf
+null

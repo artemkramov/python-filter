@@ -1,0 +1,12 @@
+﻿2014-1-2
+14. — Vol. 16, N 1
+9-18
+alt="" width="50">PDF,DOC
+Algorithms for Fast Computation of Cyclic Convolutions with the Notion of Discrete Signals Hypercomplex Numbers
+Kalinovsky J.A., Sinkova T.S.
+It has been presented methods for the synthesis of algorithms of fast computing cyclic convolution of numeric array having length of 2n. These methods are based on the representation of special hypercomplex number systems that have such the isomorphic to them systems where performance of hypercomplex operations requires lesser real operations. Refs: 9 titles.
+cyclic convolution, numerical hypercomplex system, isomorphism, basis, the number of transactions.
+References</td><td>
+File
+1-2.pdf
+null

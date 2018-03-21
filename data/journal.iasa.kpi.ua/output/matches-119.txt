@@ -1,0 +1,11 @@
+﻿s
+Y. Matsuki</em><br></p><p></p></div><div></div><div><p><em>P. I. Bidyuk</em><br><br>Ukraine</p><p>
+43890
+2553">No 3 (2013
+43890/0">Matsuki
+Theory, algorithm and condition for aggregating economic benefit and health damagesof coal fuel combustion
+Y. Matsuki, P. I. Bidyuk
+The purpose of the research is to test a possibility of using the theory of utility function in economics theory [1] for aggregating different kinds of variables such as economic benefit and ecological damages of industrial activities. An example of coal fuel combustion for electricity generation [2, 3] is selected for this test, which produces both economic benefit and human health damages. Several mathematical models for the utility function are tested with the data of the volume of combustions and the amount of air pollutions of twenty seven Oblasts of Ukraine by the regression analysis [4]. Consistent results are obtained upon the theory and the statistical data analysis. It is concluded that the prices take important role to give the weighting factor through the aggregation process of various indicators (independent variables) because in this theory the prices make up the total budget, which gives the constraints for maximizing the utility with given values such as number and volume of the indicators.
+43890/40172">PDF (Українська)</a></div><div><h4>References</h4><br><div><p>Browning E.K., Browning J.M. Microeconomic Theory and Application. — Glenview: Scott, Forsman and Company, 1989. — 637 p.</p><p>Matsuki Y., Brondzia O., Maslyukivska O. External Cost as an Indicator for Sustainable Electricity Generation Systems, System Research &amp; Information Technologies, December. — 2010. — № 4. — P. 18–32.</p><p>Мацукі Й. Оцінка зовнішніх витрат як зведеного показника сталого промислового розвитку — дослідження забрудненого повітря в України, РОЗДІЛ 3, 3.1, Частина 2, Аналіз сталого розвитку — глобальний і регіональний контексти: У 2 ч. / Міжнар. рада з науки (ICSU) [та ін.]; наук. кер. М.З. Згуровський. — К.: Політехніка, 2011.— С. 198–210.</p><p>Goldberger A.S. A Course in Econometrics. — Cambridge: Harvard University Press. — 1991. — 405 p.</p><p>Coal. — Wikipedia — http://en.wikipedia.org/wiki/Coal.</p><p>Сarbon tax — Wikipedia, the free encyclopedia, http://en.wikipedia.org/wiki/ Carbon_tax.</p></div><br
+—
+null

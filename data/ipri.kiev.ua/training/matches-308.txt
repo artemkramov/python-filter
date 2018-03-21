@@ -1,0 +1,12 @@
+﻿2013-2-7
+13. — Vol. 15, N 2
+65–72
+alt="" width="50">PDF,DOC
+Improvement of Geophysical Instruments Based on Digital Laser Interferometry
+Britsky O.I.
+The results of studies on the use of digital laser interferometers to improve the accuracy characteris-tics, frequency and dynamic range of geophysical instruments: seismometers, delta-gravity meters and tilt-meters have been demonstrated. It is shown the expediency of using the digital interferometers for building the precision calibration vibration platforms. Fig.: 10. Refs: 6 titles.
+digital interferometer, a seismometer, delta-gravimeter, tilt-meter, nano-measurements, vibration platform.
+References</td><td>
+File
+2-7.pdf
+null

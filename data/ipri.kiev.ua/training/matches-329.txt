@@ -1,0 +1,12 @@
+﻿2013-4-9
+13. — Vol. 15, N 4
+86–96
+alt="" width="50">PDF,DOC
+Elicitation of Possible Scientific Expert Groups at Co-Authorship Network Using Decision Support Methods
+Gorbov I.V., Kadenko S.V., Balagura I.V., Manko D.Yu., Andriichuk O.V.
+It is considered computer a science field via the Ukrainika naukova abstract data base. A few centralities indexes of the network were determined. The distinguishability of expert groups and scientific Schools was shown. Usage of decision methods for clusters at the co-authorship network was revealed. Ways of ordinal factor analysis for calculation of significance of particular centralities were defined. Tabl.: 3. Fig.: 3. Refs: 25 titles.
+co-authorship networks, the Ukrainika naukova abstract database, centrality, ordinal factorial analysis.
+References</td><td>
+File
+4-9.pdf
+null

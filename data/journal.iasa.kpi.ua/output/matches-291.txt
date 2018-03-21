@@ -1,0 +1,10 @@
+﻿null
+A. I. Povoroznyuk</em><br><br>Ukraine</p><p></p><p>Поворознюк Анатолій Іванович,</p><p>доцент, кандидат технічних наук, професор кафедри обчислювальної техніки та програмування Національного технічного університету «Харківський політехнічний інститут», Україна, Харків</p><p>
+106940
+6356">No 3 (2010
+106940/0">Povoroznyuk
+Synthesis of combined decision rule (DR) in computer systems of medical diagnostics
+A. I. Povoroznyuk
+A method for synthesis of combined decision rule in computer systems of medical diagnostics through interaction of hierarchical structures of diagnostic signs and conditions is proposed on the basis of analysis of a priori conditional probabilities, their uncertainties, and expert estimates of the structures of symptomatic complexes.
+106940/101936">PDF (Українська)</a
+—

@@ -1,0 +1,10 @@
+﻿null
+N. N. Diduk</em><br></p><p>
+109767
+6579">No 2 (2008
+109767/0">Diduk
+Signal pairs and their applications
+N. N. Diduk
+A notion of a signal pair is introduced, and the main ways of its application are considered. In particular, it is demonstrated that signal pairs may be subjected to transformations similar to the well known ones in the elementary probability theory. By using the transformations, one can construct new uncertainty spaces which are able to describe complex types of uncertainty, e.g., a polyprobability type. Some relative examples are considered.
+109767/104808">PDF (Русский)</a
+—

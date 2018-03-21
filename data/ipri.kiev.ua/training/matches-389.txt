@@ -1,0 +1,12 @@
+﻿Savchuk
+05. — Vol. 7, N 1
+78-84
+width="50" alt="">PDF,DOC
+The Use of Neural Networks for Character Recognition
+Savchuk T.A., Yarema E.A.
+The researches of methods of character recognition with the help of neural networks are carried out. An intellectual module of artificial neural networks which functions by the principle of perceptron and has an opportunity to recognize hand-written characters with noisiness up to 40 % is created. Fig.: 3. Refs: 2 titles.
+character recognition, artificial neural network, adaptive resonant theory, perceptron, synapse.
+References</td><td>1. Уоссермен Ф. Нейрокомпьютерная техника: Теория и практика: Пер. на русский язык / Ю.А.Зуев, В.А.Точенов, 1992. — 184 с.<br>2. Месюра В.І., Ваховська Л.М. Основи проектування систем штучного інтелекту: Навчальній посібник. — Вінниця: ВДТУ, 2000. — 96 с. — укр. мовою.
+File
+RZOD2_04.doc
+null

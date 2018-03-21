@@ -1,0 +1,12 @@
+﻿Cibulskaja
+05. — Vol. 7, N 1
+62-70
+width="50" alt="">PDF,DOC
+Fast Convolution on the Basis of the FFT
+Sinkov M.V., Zakidalsky A.I., Tsibulskaya E.A.
+The practical questions on using the fast Fourier transform of N-length complex signals for increas-ing efficiency of calculations of discrete convolution at the expense of simultaneous processing of two valid sequences each of N-length are considered. The conditions of choosing a minimum period for ring convolution are given and the estimation of convolution’s error of calculation through reducing the length of a core is presented. The complexity of convolution’s realization in elementary operations is estimated. The advantages of calculation of long convolutions in frequency area are shown. Fig.: 4. Refs: 4 titles.
+fast convolution, fast Fourier transform, tomographic reconstruction.
+References</td><td>1. Рабинер Л., Гоулд Б. Теория и применение цифровой обработки сигналов. — М.: Мир, 1978. — 848 с.<br>2. Cooley J.W. and Tukey J.W. An Algorithm for the Machine Calculation of Complex Fourier Se-ries // Math. Comput. — 1965. — Vol. 19, N. 90. — Р. 297–301.<br>3. Войнаровский М. Программирование. Быстрое преобразование Фурье. — 2002. http://psi-logic.narod.ru/fft/fft1.htm<br>4. Implementing Fast Fourier Transform Algorithms of Real-Valued Sequences with the TMS320 DSP Family. APPLICATION REPORT: SPRA291. Robert Matusiak, 1997.
+File
+RZOD2_04.doc
+null

@@ -1,0 +1,12 @@
+﻿2013-2-3
+13. — Vol. 15, N 2
+29–38
+alt="" width="50">PDF,DOC
+Visibility Graph as a Tool for the Network Analysis of Measurement Series
+Snarskii A.A., Lande D.V.
+An overview of the network analysis methods of the measurements series based on algorithms for constructing visibility graphs is given. The original dynamic visibility of graph algorithms and compa-ctified horizontal visibility graph for the language network has been described. Fig.: 4. Refs: 30 titles.
+visibility graph, dynamical visibility graph, complex network, language network, measurement series, digital signal processing.
+References</td><td>
+File
+2-3.pdf
+null

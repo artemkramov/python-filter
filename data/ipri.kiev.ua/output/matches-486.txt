@@ -1,0 +1,12 @@
+﻿Beljak
+06. — Vol. 8, N 3
+3-10
+width="25px" alt="">PDF,DOC
+Technology of the Luminescent Identification Elements recording on the Optical Disc Surface
+Belуak Е.V.
+An efficiency of the complex copy protection methods has been analyzed. Possibility of the lumi-nescent protective elements recording on the optical disc cover and work surface has been considered. Pyrazoline composite dyes with high luminescence quantum yield and photosensitivity values were syn-thesized. RGB-matrix of the luminescent image, barcode and corrupted sectors laser recording scheme was proposed. Tabl.: 1. Fig.: 4. Refs: 4 titles.
+optical disc, illegal copying, luminescent photopolymer, pyrazoline dyes, RGB-triad, luminescent barcode, corrupted sectors.
+References</td><td>1. IFPI Enforcement Bulletin: June 2005 (www.ifpi.org.ua).<br>2. Беляк Е.В., Кравец В.Г., Крючин А.А., Косско И.А., Погодина А.А. Использование красителей с люминесцентным откликом для создания регистрирующих сред и защиты компакт-дисков // Реєстрація, зберігання і оброб. даних. — 2002. — Т. 4, № 3. — С. 15–22.<br>3. Пат. України № 66954, МПК6 G11 B7/24. Спосіб захисту компакт-дисків з використанням люмінесцентного захисного шару / Кравець В.Г., Пригун О.В., Беляк Є.В., Крючин А.А. (Україна); Опубл. 2004; Бюл. № 6.<br>4. Ishikawa M., Kawata Y, Egami C., Sugihara O. and Okamoto N. Reflection-Type Confocal Readout for Multilayered Optical Memory // Opt. Lett. — 1998. — Vol. 23, N 23. — С. 1781–1783.
+File
+Z_MAN.DOC
+null

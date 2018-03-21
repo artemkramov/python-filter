@@ -1,0 +1,12 @@
+﻿Senchenko
+07. — Vol. 9, N 1
+42-55
+width="25px" alt="">PDF,DOC
+Information-Analytical Technologies in the Sphere of the Financial Control State Budget
+Dodonov O.G., Senchenko V.R., Gagarin O.O.
+Main features of using information-analytical technologies in the sphere of the financial control of the state budget are considered. The methods of building domain models for financial control of the state budget are offered. The domain model is based on the multivariate data model. Using this model allowed to build the kernel of the modern information-analytical system with sufficient granularity. Tabl.: 1. Fig.: 4. Refs: 8 titles.
+information-analytical technologies, macroeconomic indicators, domain model, information resources, data bank, database.
+References</td><td>1. Марк Д.А., Мак’Гоуэн К. Методологія структурного аналізу і проектування. — М.: Мета-Технология, 1993.<br>2. Дейт К. Дж., Введение в системы баз даннях. — 6-е издание / Пер. с англ. — К., М., Спб.: Издательский дом «Вильямс», 1999. — 848 с<br>3. Материалы V Конгресса ЕВРОСАИ: «Использование средств информационной техноло-гии в контроле за исполнением государственного бюджета». — М. — http://www.ach.gov.ru/eurosai/<br>4. Tozik A. Computerisation of Control Activity as a Tool to Increase the Efficiency of State Control. — http://www.eurosai.org/eng/magazine/Eu11in.pdf<br>5. Материалы Семинара ЕВРОСАИ: «Использование информационных технологий в аудите исполнения государственного бюджета». — Варшава. — http://www.ach.gov.ru/eurosai/<br>6. Шуремов Е. Инструменты финансового анализа — критерии выбора. —http://www.masters.donntu.edu.ua/2002/fem/kulbaka/li<br>7. Проблема консолидации аналитических данных — результаты исследование TDW. — http://www.iso.ru/cgi-bin/main/<br>8. Guidelines for Internal Control Standards for the Public Sector. —http://members.magnet.at/intosai/Level3/Guidelines/3_InternalContrStand/
+Файлы
+UDK_681.doc
+null

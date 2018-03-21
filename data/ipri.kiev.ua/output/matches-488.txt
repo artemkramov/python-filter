@@ -1,0 +1,12 @@
+﻿Bojarinova
+06. — Vol. 8, N 3
+20-23
+width="25px" alt="">PDF,DOC
+About Differential Equations, Determining Some Functions of Hypercomplex Variable
+Sinkov M.V., Kalinovsky J.A., Boyarinova J.E., Fedorenko A.V.
+One method of simplification of differential equation, solution, determining such nonlinear func-tions of hypercomplex variable as hyperbolic and trigonometric ones is considered. Refs: 8 titles.
+differential equation, hypercomplex numbers, nonlinear function.
+References</td><td>1. Синьков М.В., Губарени Н.М. Непозиционные представления в многомерных числовых системах. — К.: Наук. думка., 1979. — 138 с.<br>2. Синьков М.В., Калиновский Я.А, Роенко Н.В. Методы построения нелинейностей в расши-рениях комплексных чисел // Кибернетика и системный анализ. — 1996. — № 4. — С. 178–181.<br>3. Калиновский Я.А. Разработка алгоритмов решения однородных линейных дифференци-альных уравнений первого порядка от гиперкомплексного переменного // Реєстрація, зберігання і оброб. даних. — 2001. — Т. 3, № 1. — С. 22–29.<br>4. Patrick Reany. Complex Clifford Algebra and Nth-Оrder Linear Differential Equations // Ap-plied Clifford Algebras. — 1993. — 3, N 2. — Р. 121–127. On line: www.ajnpx.com/pdf/math/Clifford/ CAA&amp;LIN_DIFF.pdf.<br>5. Kahler U. Die Anwendung der Hyperkomplexen Funktionentheorie auf Die Losung Partieller Differentialgleichungen. — 1998. On line: www.tu-chemnitz.de/mathematik/prom_habil/promint.pdf.<br>6. Kahler U. Clifford Analysis and the Navier-Stokes Equations over Unbounded Domains // Ap-plied Clifford Аlgebras. — 2001. — 11 (S2). — Special issue «Clifford analysis». — Р. 305–318. On line: www.mat.ua.pt/uwek/publications.html.<br>7. Gibbon J.D. A Quaternionic Structure in the Three-Dimensional Euler and Ideal MHD Equa-tions. On line: www.ma.ic.ac.uk/~jdg/quat2.pdf. 2001.<br>8. S. De Leo, Ducati C.C. Solving Simple Quaternionic Differential Equations // J. Math. Physic. — 2003. — 44. — Р. 2224-2233.
+File
+O_differencialnykh_uravnenijakh.doc
+null

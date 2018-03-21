@@ -1,0 +1,12 @@
+﻿2009-4-9
+09. — Vol. 11, N 4
+68-77
+alt="">PDF
+Dynamic Sample Rate Conversion on the Basis of Polyphase Filter
+Kosyak I.V.
+The possibility of using polyphase filter on the basis of the Farrow structure for dynamic sample rate conversion and its application in digital signal processing are considered. Fig.: 6. Refs: 10 titles.
+sample rate conversion, polyphase filter, Farrow structure, polynomial interpolation, signal approximation.
+References</td><td>1. Russell A.I. Efficient Arbitrary Sampling Rate Conversion with Recursive Calculation of Coefficients / A.I. Russell, P.E. Beckmann // IEEE Trans. Signal Process. — 2002, April. — Vol. 50, N 4. — P. 854–865.<br>2. Johansson H. Reconstruction of Nonuniformly Sampled Bandlimited Signals Using Time- Varying Discrete-Time FIR Filters / H. Johansson, P. Lowenborg // EURASIP Journal on Applied Signal Processing. — 2006. — Vol.— P. 1–18.<br>3. Tertinek S. Reconstruction of Nonuniformly Sampled Bandlimited Signals Using a Differentiator- Multiplier Cascade / S. Tertinek, C. Vogel // IEEE Trans. Circuits Syst. —2008, Sep. — Vol. 55, N 8. — P. 2273–2286.<br>4. Crochiere R. Multirate Digital Signal Processing / R. Crochiere, L.R. Rabiner. — Englewood Cliffs, NJ:Prentice-Hall, 1983.<br>5. Richard G. Lyons. Understanding Digital Signal Processing / Richard G. Lyons. — Prentice Hall, 2004.<br>6. Erup L. Interpolation in Digital Modems. — Part II: Implementation and Performance / L. Erup, F.M. Gardner, and R.A. Harris // IEEE Transactions On Communications. — 1993, June.— Vol. 41, N 6. — P. 998–1008.<br>7. Gardner F.M. Interpolation in Digital Modems. — Part I: Fundamentals / F.M. Gardner // IEEE Transactions On Communications. —1993, March. — Vol. 41, N 3. —P. 502–508.<br>8. Ljiljana M. Multirate Filtering for Digital Signal Processing: MATLAB Applications / M. Ljiljana. — Information Science Reference, 2009.<br>9. Корн Г. Справочник по математике / Корн Г., Корн Т.: Пер. с англ. Под ред. И.Г. Арамановича. — М.: Наука, 1977. —832 с.: ил.<br>10. Гашков С.Б. Системы счисления и их применение / С.Б. Машков —М.: МЦНМО, 2004. — 52 с.
+Файлы
+2009-4-9.pdf
+null

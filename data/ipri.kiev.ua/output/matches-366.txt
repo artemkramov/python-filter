@@ -1,0 +1,12 @@
+﻿2014-4-5
+14. — Vol. 16, N 4
+34–43
+alt="" width="50">PDF,DOC
+An approach to evaluation of survivability of scientific publications in the long-term storage in the Internet environment
+Lande D.V., Berezin B.A.
+It has been defined the features of scientific publications presentaiton on the Internet that effect on their survivability in the long-term storage. The models to evaluate survivability of scientific publications are proposed and their usage is being shown. Tabl.: 1. Fig.: 6. Refs: 8 titles.
+evaluation of survivability, scientific publications, long-term storage, republication, availability, data formats.
+References</td><td>
+File
+4-5.pdf
+null

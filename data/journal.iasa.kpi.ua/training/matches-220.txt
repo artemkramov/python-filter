@@ -1,0 +1,10 @@
+﻿null
+V. Yo. Simashko</em><br>доцент кафедри економічної кібернетики Рівненського державного гуманітарного університету, Україна, Рівне<br>Ukraine</p><p></p><p>Сімашко Володимир Йосипович,</p><p>кандидат технічних наук, доцент кафедри економічної кібернетики Рівненського державного гуманітарного університету, Україна, Рівне</p><p>
+73422
+4375">No 4 (2011
+73422/0">Simashko
+Methods and technologies of reducing peak-loads in the corporate information systems with the centralized data preservation
+V. Yo. Simashko
+Peak overloads which arise in the big corporate information systems with the centralized data preservation are described. Methods and the technologies, which allow to reduse or liquidate peak overloads on servers and on a system network are offered.
+73422/68805">PDF (Українська)</a
+—

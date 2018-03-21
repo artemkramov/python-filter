@@ -1,0 +1,12 @@
+﻿2009-3-8
+09. — Vol. 12, N 4
+66-74
+alt="">PDF
+An Approach to Personnel Selection-Related Decisions
+Kadenko S.V., Tsyganok V.V.
+An ordinal estimation experience-based method for selecting candidates, applying for vacancies, is suggested. A linear programming-based algorithm for defining personnel estimation criterion weights is described. A numerical example of the algorithm’s work is given. Tabl.: 1. Fig.: 2. Refs: 10 titles.
+decision-making, ordinal estimate, ranking, criterion.
+References</td><td>1. Keeney, R.L. Decisions with Multiple Objectives: Preferences and Value Tradeoffs / R.L. Keeney, H. Raiffa. — Cambridge University Press. — New York, 1993.<br>2. Saaty, T.L. The Analytic Hierarchy/Network Process / T.L. Saaty // RACSAM. — 2008. — 102 (2). —P. 251–318.<br>3. Тоценко В.Г. Методы и системы поддержки принятия решений. Алгоритмический аспект / В.Г. Тоценко; ИПРИ НАНУ. — К.: Наук. думка, 2002. —382 с.<br>4. Тоценко В.Г. Методы определения групповых многокритериальных ординальных оценок с учетом компетентности экспертов / В.Г. Тоценко // Проблемы управления и информатики. — 2005.— № 5. — С. 84–89.<br>5. Kemeny J.G. Mathematical Models in the Social Sciences / J.G. Kemeny, L. Snell. — MIT Press, Cambridge, MA. — 1973.<br>6. Гнатієнко Г.М. Експертні технології прийняття рішень / Г.М. Гнатієнко, В.Є. Снитюк. — К.: ТОВ «Маклаут», 2008. — 444 с.<br>7. Каденко С.В. Удосконалення методу визначення коефіцієнтів відносної вагомості критеріїв на основі ординальних оцінок / С.В. Каденко // Реєстрація зберігання і оброб. даних. — 2008. — Т. 10, № 1 –– С. 137–149.<br>8. Kadenko, S. V. Experience-based Decision Support Methods Using Ordinal Expert Estimates /S.V. Kadenko // Proceedings of the Tenth International Symposium for the AHP/ANP (ISAHP 2009) — Режим доступу: http://isahp.org.<br>9. Arrow K.J. Social Choice and Individual Values, 2nd ed. / K.J. — Arrow. — Wiley, New York, 1963.<br>10. Каденко С.В. Определение параметров иерархии критериев типа «дерево» на основе ординальних оценок / С.В. Каденко // Проблемы управления и информатики. — 2008. — № 4 –– С. 84–92.
+Файлы
+2009-3-8.pdf
+null

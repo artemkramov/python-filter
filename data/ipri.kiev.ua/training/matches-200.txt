@@ -1,0 +1,12 @@
+﻿Granat
+05. — Vol. 7, N 1
+17-27
+width="50" alt="">PDF,DOC
+Analysis of Information of Light Reflected from Retromirrors
+Petrov V.V., Kravets V.G., Kryuchin A.A., Shanoylo S.M., Granat O.I., Zenin V.N.
+An analysis of energy and photometry characteristics of light reflected from retromirrors is carried out. A choice of a luxmeter for analyzing the reflected light which has spectral response similar to the human eye and the linearity of response is made. Measurements of light characteristics for the manufac-tured mirrors and a comparison with foreign analogues are made. Fig.: 3. Refs: 10 titles.
+retromirror, luxmeter, candela, spectral response.
+References</td><td>1. Jacobs S.F. Experiments with Retrodirective arrays // Opt. Engineering. — 1982. — Vol. 21. — P. 281–285.<br>2. Орлов В.К., Вирник Ю.З., Воротилин С.П. и др. Уголковые отражатели для динамической компенсации оптических неоднородностей // Квант. Электр. — 1978. — Т. 5. — С. 1389–1393.<br>3. US Patent 3,684,348. Int. cl. G 02b 5/12. Retroreflective material / William R. Rowland; Aug. 15, 1972.<br>4. US Patent 6,303, 058, Int. cl. B 29D 011/00. Method of Making Profiled Retroreflective Mark-ing Material / Kelley et. al.; Oct. 16, 2001.<br>5. US Patent. 5,866,236, Int. cl. B 32B 3/00. Article with Holographic and Retroreflective Features / Faykish et. al.; Feb. 2, 1999.<br>6. Eckhardt H.D. Simple Model of Corner Reflector Phenomena // Applied Optics. — 1971. — 10, N 7. — Р. 1559–1566.<br>7. Борн М., Вольф Е. Основы оптики. — М.: Наука, 1970. — 855 с.<br>8. Матвеев А.Н. Оптика. — М.: Высш. шк., 1985. — 351 с.<br>9. Сивухин Д.В. Общий курс физики. Оптика. — М.: Наука, 1980. — 752 с.<br>10. E-808-81. Standard Practice for Describing Retroreflection. Annual Book of ASTM Standards. — 1981, April 24. — Vol. 0601.
+File
+RZOD2_04.doc
+null

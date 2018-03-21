@@ -1,0 +1,12 @@
+﻿2010-3-10
+10. — Vol. 12, N 2
+93-98
+alt="">PDF
+Agreement of Informative Sources Productivity with Distributed Networks Channel Resources
+Matov О.Ya., Vasylenkо V.S., Dubchak O.V.
+Capabilities of increasing data transmission channels capacity with the purpose of agreement of information sources productivity with distributed networks channel resources are considered. Fig.: 4. Refs: 4 titles.
+amplitude quantization, channel capacity, distributed computer networks, signal-tonoise ratio, channel bandwidth, frequency quantization.
+References</td><td>1. Шеннон К. Работы по теории информации и кібернетики / К. Шеннон. — М., 1963.<br>2. Матов О.Я. Пропускна спроможність каналу та доступність інформаційних об’єктів у розподілених мережах / О.Я. Матов, В.С. Василенко, О.В. Дубчак // Реєстрація, зберігання і оброб. даних. — 2009. — Т. 11, № 2. — С. 77–82.<br>3. Алишев Я.В. Предельная пропускная способность и потенциальная помехоустойчивость оптических сетей и систем телекоммуникаций / Я.В. Алишев // Доклады БГУИР. — 2004. — Т. 2, № 2. — С. 43–45.<br>4. Василенко В.С. Узгодження продуктивності інформаційних джерел із ресурсами каналів розподілених мереж. Амплітудна дискретизація / В.С. Василенко // Реєстрація, зберігання і оброб. даних. — 2009. — Т. 11, № 3. — С. 60–65.
+Файлы
+2010-3-10.pdf
+null

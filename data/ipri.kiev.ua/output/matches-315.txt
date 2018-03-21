@@ -1,0 +1,12 @@
+﻿2013-3-4
+13. — Vol. 15, N 3
+35–41
+alt="" width="50">PDF,DOC
+Hypercomplex Approach to Modeling of Reputation in Social Networks
+Lande D.V., Kalinovsky J.A, Boyarinova Y.E.
+It has been discussed one of the characteristics of agents in social networks — the reputation, as well as the possibility of using hypercomplex data representation for modeling and estimate of reputation. Refs: 14 titles.
+reputation, social network, hypercomplex number, hypercomplex numerical system.
+References</td><td>
+File
+3-4.pdf
+null

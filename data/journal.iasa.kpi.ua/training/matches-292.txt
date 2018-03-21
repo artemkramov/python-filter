@@ -1,0 +1,11 @@
+﻿s
+O. V. Seraya</em><br><br>Ukraine</p><p></p><p>Сіра Оксана Володимирівна,</p><p>доцент, кандидат технічних наук, доцент Національного технічного університету «Харківський політехнічний інститут», Україна, Харків</p><p></p></div><div></div><div><p><em>D. A. Domin</em><br><br>Ukraine</p><p></p><p>Дьомін Дмитро Олександрович,</p><p>кандидат технічних наук, професор кафедри ливарного виробництва Національного технічного університету «Харківський політехнічний інститут», Україна, Харків</p><p>
+106942
+6356">No 3 (2010
+106942/0">Seraya
+Estimation of representative truncated orthogonal subplans of complete factor experiment plan
+O. V. Seraya, D. A. Domin
+A criterion for estimation of the quality of a truncated orthogonal subplan of the complete factor experiment plan is introduced, which characterizes the level of mixing effects of the factors and their interactions. A method for calculation the degree of representativeness for truncated orthogonal plans is proposed. Taking into account of the criterion makes it possible to improve the estimate accuracy for multifactor regression under the conditions of small selection.
+106942/101939">PDF (Русский)</a
+—
+null

@@ -1,0 +1,12 @@
+﻿2012-3-6
+12. — Vol. 14, N 3
+58-69
+alt="" width="50">PDF,DOC
+Mеthodological Aspects of Creating Heightened Survivability Corporative Information Ana-lytical Systems
+Dodonov О.G., Kuznyetsova M.G., Gorbachyk O.S.
+The main methodological approaches to Heightened Survivability Corporative Information Ana-lytical Systems (CIAS) creation have been considered. The development of methodology on the Surviva-bility theory base is proposed. The possibility of survivability mechanisms’ embedding in CIAS during system construction using the functional profiles has been demonstrated. Refs: 9 titles.
+Corporative Information Analytical Systems, survivability, methodology.
+References</td><td>
+File
+3-6.pdf
+null

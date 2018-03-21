@@ -1,0 +1,12 @@
+﻿2011-1-8
+11. — Vol. 13, N 1
+78-86&gt;
+alt="" width="50">PDF,DOC
+Using the Internet registries to construct а structural model for locality estimation in the overlay networks
+G. V. Poryev
+The structure of the database files of the regional Internet registries is analyzed. With the help of proposed method for the locality class estimation is calculated the topological affinity for arbitrary address pairs without using any service traffic. The proposed locality class metric can be used as a distance substitute instead of the traditional trace and ping metrics to construct optimal overlay structure of the distributed and peer-to-peer networks.
+Internet, distributed networks, peer-to-peer networks, locality, regional registries.
+References</td><td>1. Фурашев В. Параметры украинского сегмента Internet как сложной сети / В. Фурашев, В. Зубок, Д. Ланде // Открытые информационные и компьютерные технологии: сб. науч. тр. — 2008. — Т. 40. — С. 235–242.<br>2. Poryev G. Multi-Tier Locality Awareness in Distributed Networks / G. Poryev // Iнформацiйнi технологiї та комп’ютерна iнженерiя. — 2009. — № 3(16). — С. 13–17.<br>3. Poryev G. CARMA Based MST Approximation for Multicast Provision in P2P Networks / G. Poryev, H. Schloss, R. Oechsle // In Proceedings of the Sixth International Conf. on Networking and Services (ICNS 2010) / IEEE. — Cancun (Mexico). — 2010. — Р. 123–128.
+File
+1-8.pdf
+null

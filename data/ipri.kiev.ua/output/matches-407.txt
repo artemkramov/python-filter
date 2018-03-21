@@ -1,0 +1,12 @@
+﻿2015-4-6
+15. — Vol. 17, N 4
+49–58
+alt="" width="50">PDF,DOC
+Counteraction to destructive influence during archival storage of information objects on optical media
+Berezin B.A., Primushko S.I.
+Components to evaluate the survivability of information objects in the archival storage on optical media are proposed. The resulting estimates can be used to optimize the properties of the media and to maintain the survivability of the stored information objects. Tabl.: 1. Fig.: 4. Refs: 18 titles.
+information objects, optical media, evaluation of survivability, CD/DVD, sapphire optical disc, сomputer archive.
+References</td><td>
+File
+4-6.pdf
+null

@@ -1,0 +1,12 @@
+﻿2012-2-6
+12. — Vol. 14, N 2
+59-66
+alt="" width="50">PDF,DOC
+Adaptation of Distributed Information Infrastructures for Government Bodies Interaction
+Khramova I.О.
+An approach to improve the adaptive properties of the distributed information infrastructure components to evolutionary changes in the operating environment, using modern information techno-logies is under consideration. The approach can be used to create a joint information space from existing stand-alone information resources for government bodies to solve complex multidisciplinary problems. Tabl.: 1. Refs: 9 titles.
+information resource, information space, adaptation.
+References</td><td>
+File
+2-6.pdf
+null

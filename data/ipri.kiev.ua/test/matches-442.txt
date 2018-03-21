@@ -1,0 +1,12 @@
+﻿2016-4-5
+16. — Vol. 18, N 4
+44–54
+alt="" width="50">PDF,DOC
+Wiki-index of authors’ popularity of scientific publications.
+Lande D.V., Andrushchenko V.B., Balagura I.V.
+A new index for estimation of authors' popularity of scientific articles, which is calculated on the analysis of online encyclopedia Wikipedia (Wikipedia Index — WI) containing millions of articles and representatively represents almost all areas of knowledge. Unlike other scientometric indices, the index is available to evaluate the popularity of an author, his influence in the most «knowledge area» over the Internet, namely the encyclopedia Wikipedia. The algorithms and calculation of Wiki-index with help of probing this network encyclopedia. The examples of calculation of the Wiki-index for famous scientists and method of construction of information networks namely models of specific branches based on automated monitoring and analysis of network information resources reference have been proposed. The network concepts corresponding to headlines from Wikipedia have been considered. Tabl.: 1. Fig.: 4. Refs: 7 titles.
+Wikipedia, аuthor’s popularity estimation, Wikipedia Index, information networks, subject domains.
+References</td><td>
+File
+4-5.pdf
+null

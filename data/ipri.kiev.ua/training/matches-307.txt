@@ -1,0 +1,12 @@
+﻿2013-2-6
+13. — Vol. 15, N 2
+55–64
+alt="" width="50">PDF,DOC
+Decoder for quadrature Interference Signals
+Kosyak I.V.
+The analysis and research of interference signals of the interferometric system for measuring ultra-small linear movements has been accomplished. The features of devices performing reverse counting the numbers of interference fringes are considered. The realization of the device reversely counting the in-crement intervals for the signal’s phase has been suggested. Fig.: 7. Refs: 13 titles.
+interference signal, interferometer, signal’s phase, reversible counter, interference fringe.
+References</td><td>
+File
+2-6.pdf
+null

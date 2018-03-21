@@ -1,0 +1,10 @@
+﻿null
+N. B. Shakhovska</em><br><br>Ukraine</p><p>
+106483
+6335">No 2 (2011
+106483/0">Shakhovska
+A formal representation of the data space in the form of algebraic system
+N. B. Shakhovska
+Problems of data processing from the different sources are analyzed. The formal model of date space and operations on it are described. It is shown that algebraic systems of data space and data warehouses are subclasses of algebraic system of "data space" class. The features of data integration from different sources are determined. The scheme of data integration and means of data exchange is developed.
+106483/101578">PDF (Українська)</a
+—

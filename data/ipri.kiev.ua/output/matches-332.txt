@@ -1,0 +1,12 @@
+﻿2014-1-3
+14. — Vol. 16, N 1
+19-27
+alt="" width="50">PDF,DOC
+Studying the Properties of a Single Hypercomplex Generalization of Quaternions
+Turenko A.S.
+The basic properties of hypercomplex generalization of quaternions as anti-quaternions have been presented. Also, it is introduced the definition and investigated the anti-quaternions conjugation, their rate and zero divisor, and how to perform operations with them. Fig.: 2. Refs: 7 titles.
+antyquaternion, hypercomplex numerical system, zero divisor, pseudorate, conjugate anti-quaternion.
+References</td><td>
+File
+1-3.pdf
+null

@@ -1,0 +1,11 @@
+﻿s
+V. Bachinskiy</em><br><br>Ukraine</p><p></p><p>Бачинський Владислав Анатолійович,</p><p>інженер 1-ї категорії ПрАТ «МТС України», Київ</p><p></p></div><div></div><div><p><em>V. Giorgizova-Gay</em><br><br>Ukraine</p><p></p><p>Гіоргізова-Гай Вікторія Шалвівна,</p><p>кандидат технічних наук, доцент Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p>
+106498
+6337">No 1 (2011
+106498/0">Bachinskiy
+Choosing a dynamic routing protocol in the corporate IP network
+V. Bachinskiy, V. Giorgizova-Gay
+A brief review and comparative description of the dynamic routing protocols, which are the most widespread in corporate IP networks. Some recommendations for the choice of protocol depending on sizes and requirements of corporate network are offered.
+106498/101592">PDF (Русский)</a
+—
+null

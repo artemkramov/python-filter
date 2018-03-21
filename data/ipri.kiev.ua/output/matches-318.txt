@@ -1,0 +1,12 @@
+﻿2013-3-7
+13. — Vol. 15, N 3
+61–70
+alt="" width="50">PDF,DOC
+Coloured Petri Net Model of Two-Phase Commit Protocol With Multiple Participants
+M. Iwaniak, W. Khadzhynov
+In this work the usage of Coloured Petri Net for modeling and simulation of Two Phase Commit protocol with multiple cohorts is presented. Brief overview of Coloured Petri Nets is introduced. Two-Phase Commit protocol is briefly described than introduced as Coloured Petri Net model. By initial marking adaptation a few scenarios for 2PC protocol are presented with the use of the reachability analysis.
+Coloured Petri Net, distributed transactions, 2PC, Two-Phase Commit protocol.
+References</td><td>
+File
+3-7.pdf
+null

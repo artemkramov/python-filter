@@ -1,0 +1,12 @@
+﻿2014-2-4
+14. — Vol. 16, N 2
+42-51
+alt="" width="50">PDF,DOC
+Study of Symmetries Operator of Isomorphism Hypercomplex Number Systems and Their Application for the Synthesis of Algorithms of Fast Calculations of Cyclic Convolution
+Kalinovsky J.A.
+It is presented the results of research of symmetries operator isomorphism for hypercomplex number systems. Using these isomorphisms allowed synthesize algorithms for fast calculations of cyclic convolution numeric arrays having length 2” with reduced to number of real operations. Refs: 7 titles.
+cyclic convolution, numerical hypercomplex system, isomorphism, basis, the number of transactions.
+References</td><td>
+File
+2-5.pdf
+null

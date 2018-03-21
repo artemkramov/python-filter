@@ -1,0 +1,12 @@
+﻿Krjuchin
+05. — Vol. 7, N 1
+3-13
+width="50" alt="">PDF,DOC
+Polarimetry of CD Substrates
+Savenkov S.N., Kryuchin A.A., Oberemok E.A. Yakubchak V.V.
+The results of experimental investigations for anisotropy of optical disk information storage sub-strates by total Muller polarimetry method are given. It is shown that values of birefringence in CD sub-strates manufactured from polycarbonate depend strongly on manufacturing conditions. The conducted investigations have shown that anisotropy in substrates made from monocrystal sapphire is substantially lower. Fig.: 14. Refs: 8 titles.
+birefringence, anisotropy, Muller polarimetry, compact disk
+References</td><td>1. Azzam R., Bashara N.M. Ellipsometry and Polarized Light. — Amsterdam (North-Holland), 1984.<br>2. Savenkov S.N. Optimization and Structuring of the Instrument Matrix for Polarimetric Measurements // Opt. Eng. — 2002. — 41. — Р. 965–972.<br>3. Савенков С.М., Оберемок Е.А., Юштін К.Е. Проблема похибок при вимірюванні матриць Мюллера ряду поляризаційних класів об’єктів з ізотропною деполяризацією // Укр. фіз. жур. —2002. — Т. 47, № 9. — С. 898–903.<br>4. Savenkov S.N. Scattering (Mueller) Matrices and Experimental Determination of Matrix Ele-ments. Chapter 4 in «From Spectroscopy to Remotely Sensed Spectra of Terrestrial Ecosystems» / R.S. Muttiah ed. — Dordrecht (Netherlands): Kluwer Academic Publishers, 2002. — Р. 85–107.<br>5. Cloude S.R. Group Theory and Polarization Algebra // Optik. — 1986. — 75. — Р. 26–36.<br>6. Cloude S.R. and Pottier E. Concept of Polarization Anisotropy in Optical Scattering // Opt. Eng. — 1995. — 34. — Р. 1599–1610.<br>7. Mar’enko V.V., Savenkov S.N. Representation of Arbitrary Mueller Matrix on the Basis of Circu-lar and Linear Anisotropy // Opt. Spec. — 1994. — 76. — Р. 94–96.<br>8. Оберемок Є.А., Савенков С.М. Розв’язок оберненої задачі поляриметрії для детермінова-них об’єктів на основі неповних матриць Мюллера // Укр. фіз. жур. — 2002. — Т. 47, № 8. — С. 803–807.
+File
+RZOD2_04.doc
+null

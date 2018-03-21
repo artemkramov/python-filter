@@ -1,0 +1,12 @@
+﻿2010-2-8
+10. — Vol. 12, N 2
+81-87
+alt="">PDF
+Features of the Application of Genetic Algorithm for Searching Optimal Paths on the Graph
+Bilous R.V., Pogorily S.D.
+The complexity of genetic algorithm for searching optimal paths on the graph is analyzed. The influence of genetic algorithm parameters on the character of convergence of the solution is researched. Tabl.: 1. Fig.: 5. Refs: 7 titles.
+routing, genetic algorithm, problem of searching optimal paths on the graph.
+References</td><td>1. Погорілий С.Д. Формування та аналіз паралельних схем алгоритму Дейкстри / С.Д. Погорілий, Ю.В. Бойко, Р.В. Білоус // Математичні машини і системи. — 2008. —Т. 4. — С. 61–71.<br>2. Погорілий С.Д. Генетичний алгоритм розв’язання задачі маршрутизації в мережах / С.Д. Погорілий, Р.В. Білоус // Проблеми програмування. — 2010. —№ 2–3: Спец. вип. — С. 171–178.<br>3. Седжвик P. Фундаментальные алгоритмы на С++. Алгоритмы на графах / Р. Седжвик; пер. с англ. — СПб: ООО «ДиаСофтЮП», 2002. — 496 с.<br>4. Ахо А. Структуры данных и алгоритмы / А. Ахо, В. Хопкрофт, Дж. Д. Ульман. — М.: Диалектика, 2003.— 384 с.<br>5. Gen M. Genetic Algorithms and Engineering Optimization / M. Gen, R. Cheng. — New York: Wiley, 2000.<br>6. Goldber D.E. Genetic Algorithms in Search, Optimization, and Machine Learning / D.E. Goldber MA: Addison-Wesley, 2000.<br>7. Sateesh Kumar P. Genetic Zone Routing Protocol / P. Sateesh Kumar, S. Ramachandram // Journal of Theoretical and Applied Information Technology. — 2008.
+Файлы
+2010-2-8.pdf
+null

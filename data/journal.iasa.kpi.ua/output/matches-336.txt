@@ -1,0 +1,11 @@
+﻿s
+Yu. P. Zaychenko</em><br><br>Ukraine</p><p></p><p>Зайченко Юрій Петрович,</p><p>професор, доктор технічних наук, професор Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p></p></div><div></div><div><p><em>S. V. Rogoza</em><br><br>Ukraine</p><p></p><p>Рогоза Світлана Валеріївна,</p><p>магістр Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p></p></div><div></div><div><p><em>V. A. Stolbunov</em><br><br>Ukraine</p><p></p><p>Столбунов Володимир Андрійович,</p><p>аспірант Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p>
+107360
+6391">No 3 (2009
+107360/0">Zaychenko
+Comparative analysis of methods for evaluation of enterprises bankruptcy risk
+Yu. P. Zaychenko, S. V. Rogoza, V. A. Stolbunov
+The problem of analysis bankruptcy risk of enterprises is considered. Altmann’s classical method of discriminate analysis is described, and its highs and lows are analized. Possibility of its application to the Ukrainian economy is estimated. Furthermore, the fuzzy sets approach to bankruptcy risk analysis is described. The application of fuzzy neural networks with different algorithms of fuzzy inference is considered. The results of comparative investigations of different methods for bankruptcy analysis are presented.
+107360/102318">PDF (Русский)</a
+—
+null

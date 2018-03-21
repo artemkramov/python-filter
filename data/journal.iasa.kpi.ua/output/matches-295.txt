@@ -1,0 +1,11 @@
+﻿s
+V. V. Ostapenko</em><br><br>Ukraine</p><p></p><p>Остапенко Валентин Володимирович,</p><p>професор, доктор фізико-математичних наук, завідувач відділу чисельних методів оптимізації Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p></p></div><div></div><div><p><em>I. L. Iakunina</em><br><br>Ukraine</p><p></p><p>Якуніна Ірина Львівна,</p><p>кандидат фізико-математичних наук, науковий співробітник відділу чисельних методів оптимізації Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p>
+106953
+6356">No 3 (2010
+106953/0">Ostapenko
+Minkowski function in packing problems
+V. V. Ostapenko, I. L. Iakunina
+The problem of packing, which consists in the most rational placement of group of given objects, is considered. Since in modeling of the placement of goods, cutout of material and similar processes a question arises about non-intersection of objects so a new approach to construction of non-intersection conditions is offered through an inequality specified by the Minkowski function. Analytical formulas that describe the Minkowski functions from the difference/sum of various objects are constructed.
+106953/101952">PDF (Русский)</a
+—
+null

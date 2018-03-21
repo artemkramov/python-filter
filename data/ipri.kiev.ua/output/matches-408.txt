@@ -1,0 +1,12 @@
+﻿2015-4-7
+15. — Vol. 17, N 4
+59–70
+alt="" width="50">PDF,DOC
+The method for optimization of unstructured group of experts in the conditions of liquidation of the emergency situations
+Yaremchuk Yu.E., Nikiforova L.O., Shyyan A.A.
+A method for optimization of unstructured group of experts, which is based on the typology of human activity and typology of binary relationships, has been developed. A system of quantitative indicators for calculation of the optimal level of information transmission between the types is obtained. The system of quantitative indicators for calculation of the level of optimality in the joint activities of the two experts is obtained, too. The features of the application of this method are illustrated through example, which describes the use of each stage of the method. The results of testing the method on a real enterprise are described. Tabl.: 3. Fig.: 2. Refs: 8 titles.
+emergency situation, disaster liquidation, expert, unstructured group, optimization.
+References</td><td>
+File
+4-7.pdf
+null

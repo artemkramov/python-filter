@@ -1,0 +1,12 @@
+﻿Valetchik
+07. — Vol. 9, N 1
+56-72
+width="25px" alt="">PDF,DOC
+The System Approach to Designing the Automated Information Processing and Management Systems
+Putyatin V.G., Valetchik V.А., Dodonov V.А.
+The analysis of common principles of the system approach to designing the automated informa-tion processing and management systems is executed. The iterative logic circuit of designing, within the framework of which three basic classes of tasks solved on each of stages are allocated is offered. The description of decisive procedures which are carried out within the limits of each stage is given. Fig.: 2. Refs: 7 titles.
+system, system approach, designing, alternative, choice.
+References</td><td>1. Конторов Д.С., Голубев-Новожилов Ю.С. Введение в радиолокационную системотехнику. — М.: Сов.радио, 1981. — 368 с.<br>2. Холл А.Д. Опыт методологии для системотехніки / Пер. с англ.; Под ред. Г.Н. Поварова. — М.: Радио и связь, 1988. — 488 с.<br>3. Окунев Ю.Б., Плотников В.Г. Принципы системного подхода к проектированию в технике связи. — М.: Связь, 1976. — 184 с.<br>4. Овчинников В.Г. Методология проектирования автоматизированных информационных си-стем: основы системного подхода. — М.: Компания Спутник+, 2005. — 285 с.<br>5. Рейнгольд Л.Д. Структурирование информации. Системный подход. — М.: Наука, 2004. — 200 с.<br>6. Шумский А.А., Шелупанов А.А. Системный анализ в защите информации. — М.: Из-во «Ге-лиос АРВ», 2005. — 224 с.<br>7. Щедровицкий Г.П. Принципы и общая схема методологической организации системно-структурных исследований и разработок. — В книге Системные исследования. — М: Наука. — Ежегодник. Системные исследования, 1981. — С. 192–227.
+Файлы
+Statja.doc
+null

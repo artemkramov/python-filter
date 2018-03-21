@@ -1,0 +1,12 @@
+﻿Kuzemin
+07. — Vol. 9, N 2
+33-41
+width="25px" alt="">PDF,DOC
+Situational Model of Avalanche and Nonavalanche Microsituations Construction
+Dyachenko O.N., Kuzemin A.Ya., Lyashenko V.V., Toroev A.A.
+A high-priority topic of the risk management in emergency situations is considered. The situational model which makes possible to increase a management efficiency risk of emergency avalanche situa-tions is proposed. The model represents decomposition of avalanche and nonavalanche situations on a set of microsituations. Wilcoxon criterion as a microsituations similarity measure is used. Tabl.: 5. Fig.: 4. Refs.: 7 titles.
+avalanche, situation, statistics, model, analysis.
+References</td><td>1. Алымов В.Т. и др. Анализ техногенного риска: Учеб. пособие. — М.: Круглый год, 2000. — 157 с.<br>2. Клыков Ю.И. Семиотические основы ситуационного управления. — М.: МИФИ, 1974. — 220 с.<br>3. Поспелов Д.А. Ситуационное управление: теория и практика. — М.: Наука, 1986. — 288 с.<br>4. Obled, Ch. and Good, W. Recent Developments of Avalanche Forecasting by Discriminant Analyses Techniques: A Methodological Review and Some Applications to the Parsenn Area (Davos, Switzerland) // J. Glaciol. — 1980. — 25, N 92. — Р. 315–346.<br>5. Boyne H.S. and Williams K. Analyses of Avalanche Prediction from Meteorological Data at Berthoud Pass, Colorado // Proc. of the International Snow Science Workshop. — Breckenridge (USA), 1992. — Р. 229–235.<br>6. Общая теория статистики: Учебник / Т.В. Рябушкин, М.Р. Ефимова, И.М. Ипатова, Н.И. Яковлева. — М.: Финансы и статистика, 1981. — С. 27.<br>7. Просветов Г.И. Эконометрика. Задачи и решения. — C.-Пб.: РДЛ, 2005. — 104 с.
+Файлы
+Analiz_mikrosituaci.doc
+null

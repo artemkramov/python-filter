@@ -1,0 +1,12 @@
+﻿2017-2-4
+17. — Vol. 19, N 2
+36–54
+alt="" width="50">PDF,DOC
+On a problem of high-precision trajectory measurements by optical means.
+Putyatin V.G. and Dodonov V.A.
+The arrangement of the high-precision trajectory measurements of optical tools in field testing of radar technology and methods of collecting, recording and processing of measuring information to assess the accuracy characteristics (detection range, azimuth, elevation, yaw angle and speed of flight of the aircraft) test samples using radar aerial objects with the standard reflective features has been considered. Tabl.: 5. Fig.: 1. Refs: 15 titles.
+estimation, trajectory measurements, testing range, testing, processing, cinetheo-dolite.
+References</td><td>
+File
+2017-2-4.pdf
+null

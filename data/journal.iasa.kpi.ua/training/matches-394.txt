@@ -1,0 +1,10 @@
+﻿null
+A. V. Sholokhov</em><br>Кафедра математичних методів системного аналізу Навчально-наукового комплексу "Інститут прикладного системного аналізу" НАН України та Міносвіти і науки України, Київ<br>Ukraine</p><p></p><p>Шолохов Олексій Вікторович,</p><p>асистент кафедри математичних методів системного аналізу Навчально-наукового комплексу "Інститут прикладного системного аналізу" НАН України та Міносвіти і науки України, Київ.</p><p>
+108910
+6467">No 3 (2008
+108910/0">Sholokhov
+Suboptimal approximation of the sum of ellipsoids and ellipsoid/hypersphere intersection
+A. V. Sholokhov
+A robust algorithm for building an ellipsoid set of the guaranteed estimation of controlled discrete linear system which is influenced by external disturbances with the nonstatic given properties, has been proposed. The measuring channel contains background noises. The algorithm is also efficient in the case of incorrect assumptions about the initial state of the system. In conclusion, the results of the computer modeling, which show the change in the information value depending on the ellipsoid/hypersphere intersection and the relationship between the uncertainty of external disturbances and obstacles for measurements are presented.
+108910/103827">PDF (Русский)</a
+—

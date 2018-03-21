@@ -1,0 +1,11 @@
+﻿s
+V. P. Martsenyuk</em><br><br>Ukraine</p><p></p></div><div></div><div><p><em>D. V. Vakulenko</em><br><br>Ukraine</p><p></p></div><div></div><div><p><em>I. Ye. Andrushchak</em><br><br>Ukraine</p><p>
+106417
+6331">No 3 (2011
+106417/0">Martsenyuk
+Optimal control of drug therapy and physiotherapy models for the problem of reconstraction of bone tissue
+V. P. Martsenyuk, D. V. Vakulenko, I. Ye. Andrushchak
+The problem of building the drug therapy and physiotherapy models is presented as a problem of an optimal control with state limits for the model of reconstruction of bone tissue. The model includes the follocoing factors: population of osteocytes, osteoblasts and the density of the matrix. This approach has been numerically implemented using VisSim software.
+106417/101528">PDF (Українська)</a
+—
+null

@@ -1,0 +1,12 @@
+﻿2012-4-6
+12. — Vol. 14, N 4
+52–64
+alt="" width="50">PDF,DOC
+Modern Videoadapter Architectures. GPGPU Technology (Part 1)
+Pogorilyy S.D, Vitel D.Yu, Vereshchynsky O.A.
+A comparative analysis of new videoadapters architectures (Tesla, Fermi and Kepler) and development tools for NVidia CUDA applications creation has been performed. The basic methods of global memory usage are described. The methods on the flows forming to the abovementioned hardware and software platforms have been considered. Tabl.: 3. Fig.: 3. Refs: 10 titles.
+General-purpose graphics processing units (GPGPU), NVidia Compute Unified Device Architecture (CUDA), DirectCompute, OpenCL, Single Instruction Multiple Data (SIMD), Single Instruction Multiple Threads (SIMT), shaders, Message Passing Interface (MPI), hierarchical thread organization, synchronization model, memory model, heterogeneous distributed systems, dynamical parallelism, dynamical memory allocation, videoadapter architectures (Tesla, Fermi, Kepler).
+References</td><td>
+File
+4-6.pdf
+null

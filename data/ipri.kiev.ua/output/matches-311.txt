@@ -1,0 +1,12 @@
+﻿Goldaevich
+05. — Vol. 7, N 1
+14-20
+width="50" alt="">PDF,DOC
+Analysis of Methods for Fabrication of Near-Field Optical Fiber Probes for Superdense In-formation Recording Systems
+Goldayevich Е E.
+The following methods for near-field optical fiber probes fabrication as a mechanical heating-pulling method, chemical etching methods, photoplastic near-field optical probe replication from nano-mould fabrication method, and combined methods are considered. The focused ion-beam milling method for optical fiber probe tapered tip aperture forming is considered. Fig.: 6. Refs: 6 titles.
+near-field optical probe, superdense information recording, heating-pulling method, chemical etching method, photoplastic replication from nanomould fabrication method, focused ion-beam milling.
+References</td><td>1. Mufei Xiao. Fabrication of Probe Tips for Reflection SNOM: Chemical Etch and Heating Pulling Methods // J. Vac. Sci. Tech. — 1997, Jul. — Vol. 15(4). — Р. 1516–1520.<br>2. Haber L.H., Schaller R.D., Johnson J.C., Saykally R.J. Shape Control of Near-Field Probes Using Dynamic Meniscus Etching // Journal of Microscopy. — 2004, Apr. — Vol. 214. — Pt. 1. — Р. 27–35.<br>3. Пат. 6905627 США, МКИ B 44 C 001/22. Etching Method for Fabricating High-Quality Opti-cal Fiber Probe: Пат. 6905627 США, МКИ B44C 001/22/ P.-K. Wei (Тайвань); Academia Sinica. — № 340572; Заявл. 10.01.03; Опубл. 14.06.05; НКИ 216/97. — C. 11.<br>4. Пат. 6633711 США, МКИ G 02 B 006/00. Focused Ion-Beam Fabrication of Fiber Probes for Use in Near-Field Scanning Optical Microscopy: Пат. 6633711 США, МКИ G02B 006/00/ S.Pilevar (США); University of Maryland. — № 584788; Заявл. 01.06.00; Опубл. 14.10.03; НКИ 385/123. — C. 17.<br>5. Kim G.M., Kim B.J., Ten Have E.S., Segerink F., Van Hulst N.F., Brugger J. Photoplastic Near-Field Optical Probe with Sub-100 nm Aperture Made by Replication from a Nanomould // Journal of Microscopy. — 2003, March. — Vol. 209. — Pt. 3. — Р. 267–271.<br>6. Пат. 20050161594 США, МКИ H 01 J 003/14. Plasmon Enhanced Near-Field Optical Probes: Пат. 20050161594 США, МКИ H01J 003/14/ R.E.Hollingsworth (США); № 072017; Заявл. 04.03.05; Опубл. 28.07.05; НКИ 250/234. — C. 25.
+File
+RZOD2_04.doc
+null

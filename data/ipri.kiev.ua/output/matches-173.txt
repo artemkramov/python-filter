@@ -1,0 +1,12 @@
+﻿2010-2-23
+10. — Vol. 12, N 2
+232-237
+alt="">PDF
+Problem of Resource Allocation as an Extension of Decision Support Systems Capabilities
+Tsyganok V.V.
+A method of solving the problem of resource allocation using decision support systems is proposed. The problem after discretization is solved using a modified genetic algorithm. The method is implemented for practical use in the «Solon-3» decision support system. Fig.: 4. Refs: 4 titles.
+decision support systems, resource allocation, genetic algorithm.
+References</td><td>1. Сігал Т.Г. Алгоритм розподілу ресурсів між проектами при пороговій функції ступеню виконання проекту / Т.Г. Сигал // Реєстрація, зберігання і оброб. даних. — 2008. —Т. 10, № 2. — С. 128–133.<br>2. Holland J.H. Adaptation in Natural and Artificial Systems / J.H.. Holland. — University of Michigan Press, Ann Arbor, 1975.<br>3. Тоценко В.Г. Об одном подходе к поддержке принятия решений при планировании исследований и развития. Часть 2. Метод целевого динамического оценивания альтернатив / В.Г. Тоценко // Проблемы управления и информатики. — 2001. — № 2.— С. 127–139.<br>4. Тоценко В.Г. Комп’ютерна програма «Система підтримки прийняття рішень «СОЛОН-3» (СППР СОЛОН-3) / В.Г. Тоценко, П.Т. Качанов, В.В. Циганок // Свідоцтво про державну реєстрацію авторського права на твір № 8669. — Міністерство освіти і науки України державний департамент інтелектуальної власності. Зареєстровано 31.10.2003.
+Файлы
+2010-2-23.pdf
+null

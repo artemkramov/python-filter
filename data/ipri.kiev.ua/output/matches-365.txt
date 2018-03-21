@@ -1,0 +1,12 @@
+﻿2014-4-4
+14. — Vol. 16, N 4
+28–33
+alt="" width="50">PDF,DOC
+Modelling of choice on the optimal method for counteract of information security threats
+Nikiforova L.O., Iaremchuk Iu.E., Shiyan A.A.
+A mathematical model for choice of the method of countering of information security threats is ob-tained. The general formula for calculation of the economic effect from the method of counteracting to information security threats is derived. Conditions, under which using of a given method of countering to information security threats is economically feasible, are obtained. Optimization model for the problem of choice the method for counteracting to information security threats is constructed. Refs: 9 titles.
+information security, methods for countering to the threat, methods for evaluation of chances, mathematical model, economic efficiency.
+References</td><td>
+File
+4-4.pdf
+null

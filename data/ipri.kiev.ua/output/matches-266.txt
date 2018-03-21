@@ -1,0 +1,12 @@
+﻿2012-3-2
+12. — Vol. 14, N 3
+12-19
+alt="" width="50">PDF,DOC
+System Records High-Density Optical Disks
+Kosyak I.V.
+The analysis and research of optical disc recording systems of high density have been carried out. The features of the development of optical recording disc DVD and Blue-Ray format have been consid-ered. Realization of the control device of semiconductor laser with wavelength of 405 nm for recording formats Blu-Ray, DVD and CD has been suggested. Tabl.: 1. Fig.: 7. Refs: 15 titles.
+optical disk mastering, disk-original, recording format, the laser.
+References</td><td>
+File
+3-2.pdf
+null

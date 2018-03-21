@@ -1,0 +1,12 @@
+﻿2014-4-6
+14. — Vol. 16, N 4
+44–53
+alt="" width="50">PDF,DOC
+Estimation of quality of reference patterns for the correlation-extreme navigation systems
+Yuzefovych V.V., Butochnov O.Н., Mezentsev А.V., Myronyuk S.V.
+A decision of task of estimation of quality of reference patterns of surface which is created for the correction of flight of the guided aircrafts, due to the correlation-extreme systems of navigation is exam-ined in the article. It is suggested to solve this task by analysis of characteristics of criterion function of comparison of current and etalon images with their possible distortions. Fig.: 4. Refs: 4 titles.
+etalon image, current image, estimation of quality, inter-correlation function, difference function.
+References</td><td>
+File
+4-6.pdf
+null

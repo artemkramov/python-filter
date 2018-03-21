@@ -1,0 +1,12 @@
+﻿Sinkov
+05. — Vol. 7, N 1
+55-61
+width="50" alt="">PDF,DOC
+Modular Operations on Hypercomplex Numbers in the System of Computer Mathematics MAPLE
+Sinkov М.V., Boyarinova Y.Е., Каlinovsky J.О., Postnikova Т.G., Sinkova Т.V.
+The procedures of execution of modular operations in hypercomplex numerical systems are consid-ered. The position of this package in the structure of Maple computer mathematics system is defined. The application of designed toolkit on the basis of the task of sharing a secret is considered. Refs: 8 titles.
+hypercomplex numerical system, modular operations, computer mathematics, mathematical package Maple, residual classes, representability of hypercomplex numbers.
+References</td><td>1. Синьков М.В., Боярінова Ю.Є., Каліновський Я.О., Постнікова Т.Г., Синькова Т.В. Алгоритмічно - програмний інструментарій аналітичних обчислень над гіперкомплексними числами в системі комп’ютерної математики MAPLE. - Реєстрація, зберігання і обробка даних. – 2005. – Т. 7. - №2. - С.<br>2. Аладьев В, Шишаков М. Автоматизированное рабочее место. Математический пакет Maple V. М.: Лаборатория Базовых Знаний – 2000-572стр.<br>3. Дьяконов В.П. Maple 9 в математике, физике и образовании –М.: Солон • 2004. • 688 стр.<br>4. Синьков М.В., Бояринова Ю.Е., Калиновский Я.А., Трубников П.В. Развитие задачи разделения секрета. - Реєстрація, зберігання і обробка даних. – 2003. – Т. 5. - №4. - С.90-96<br>5. Акушский И.Я., Юдицкий Д.И. Машинная арифметика в остаточных классах. – М.:Советское радио, 1968. – 438 стр.<br>6. Бояринова Ю.Е., Одарич Я.В., Трубников П.В. Реализация алгоритма Евклида для задачи разделения секрета. Реєстрація, зберігання і обробка даних. – 2004. – Т. 6 - №3. - С.58-65<br>7. Виноградов И.М. Основы теории чисел. - М: Наука - 1972-168 стр.<br>8. П.Ноден, К.Китте. Алгебраическая алгоритмика с упражнениями и решениями. М.: Мир, 1999.-720 стр.
+File
+RZOD2_04.doc
+null

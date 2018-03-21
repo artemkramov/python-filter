@@ -1,0 +1,12 @@
+﻿2012-4-9
+12. — Vol. 14, N 4
+81–87
+alt="" width="50">PDF,DOC
+Cryptographic Security of the Encryption Methods Based on Transformations Using Residual Classes
+Mаtоv О.Ya., Vаsylenko V.S., Vаsylenko M.Yu.
+For the tasks of ensuring confidentiality of the information objects of automated systems it has been considered the approaches to the evaluation of cryptographic resistance of proposed cryptographic transformations through the use of residual classes. Fig.: 2. Refs: 5 titles.
+information, privacy, cryptographic transformations, plus classes, the numeral system.
+References</td><td>
+File
+4-9.pdf
+null

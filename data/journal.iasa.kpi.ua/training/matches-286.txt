@@ -1,0 +1,11 @@
+﻿s
+B. E. Panchenko</em><br><br>Ukraine</p><p></p><p>Панченко Борис Євгенович,</p><p>кандидат фізико-математичних наук, старший науковий співробітник Інституту кібернетики НАН України, Київ</p><p></p></div><div></div><div><p><em>I. M. Pysanko</em><br><br>Ukraine</p><p></p><p>Писанко Іван Миколайович,</p><p>науковий співробітник Науково-технічного центру панорамних акустичних систем НАН України, Запоріжжя</p><p>
+106903
+6356">No 3 (2010
+106903/0">Panchenko
+On the completeness and uniqueness of universal framework in relational model of data
+B. E. Panchenko, I. M. Pysanko
+Ideas about routes for normalization in the universal framework of relational databases and their topology are introduced. A theorem about the completeness and uniqueness of the relational framework is formulated and proved.
+106903/101906">PDF (Русский)</a
+—
+null

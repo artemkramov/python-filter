@@ -1,0 +1,12 @@
+﻿2015-1-2
+14. — Vol. 17, N 1
+16-27
+alt="" width="50">PDF,DOC
+High efficiency excitation of near-field probe based on optical plasmon microstrip line using connector SU-8
+Morozov Ye.M., Lapchuk A.S.
+It is presented and analyzed an architecture that enables high efficiency end-fire coupling of nearfield probe based on optical plasmon microstrip line (NPOPML) with fiber-optical probe using connector SU-8. Optimization of the proposed design of the connector SU-8 based on the numerical analysis was carried out. The obtained results showed that the coupling efficiency and transmission of connector SU-8 at the laser wavelength of 405 nm is 79 % and 73 % respectively. Calculated value of the excitation efficiency of the fundamental quasi-TM00-mode of NPOPML is 68 %. The proposed connection architecture of NPOPML with the fiber-optic probe using connector SU-8 and its optimization principle can be used in the development of near-field plasmonic devices. Fig.: 11. Refs: 15 titles.
+near-field plasmonic device, near-field probe based on optical plasmon microstrip line, connector SU-8, excitation efficiency.
+References</td><td>
+File
+1-2.pdf
+null

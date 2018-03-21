@@ -1,0 +1,12 @@
+﻿2015-3-3
+15. — Vol. 17, N 3
+22–29
+alt="" width="50">PDF,DOC
+Automatic construction of terminological network as a domain model
+Lande D.V., Prishchepa S.V., Sinkova T.V.
+It is offered an algorithm for building terminological networks — Domain knowledge (DK) models based on representational tags set, as result of big data network probing. It is based on network that relies on related authors interests. This network is composed of scientometric «Google Scholar Citations» web-service tags, which match it’s nodes with some kind of semantic relations between them. Rules for automatic construction of relevant publications list based on given network are also listed. Offered approach can be applied, in particular, to bibliographic databases, which contains authors’ lists and keywords tags, as well as to many others areas of science. Fig.: 4. Refs: 9 titles.
+Domain knowledge models, Google Scholar Citations, bibliography, networks probing, networks visualization.
+References</td><td>
+File
+3-3.pdf
+null

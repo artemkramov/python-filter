@@ -1,0 +1,12 @@
+﻿Nesterenko
+08. — Vol. 10, N 4
+25-36
+width="25px" alt="">PDF,DOC
+Methodology of the Situation Control in the Automated Systems for Providing a Necessary Level of Information Security of State Power
+Nesterenko O.V.
+The question of the formalized statement of a problem of the situation control in the conditions of functioning in the public authorities of the proper automated information-analytical systems for providing run-time firmness of fulfillment of the entrusted functions by the public authority, contribution to fight against information entropy, expansion of access to information in the process of decision-making by experts and governing body as a substantial factor of providing information security of public authority is considered. Refs: 7 titles.
+automation, management, control, situation, information security, public authority.
+References</td><td>1. Нестеренко О.В. Інформаційна інфраструктура органів державної влади для забезпе-чення електронного урядування / О.В. Нестеренко // Зв’язок. — 2004. — № 2. — С. 28–30.<br>2. Додонов О.Г. Архітектура автоматизованих інформаційно-аналітичних систем органів державної влади / О.Г. Додонов, О.В. Нестеренко, М.М. Будько // Математичні машини і системи. — 2003. — № 3,4. — С. 138–146.<br>3. Access to Information: Making it Work for Canadians / Report of the Access to Information Review Task Force. — Public Works and Government Services, Ottawa. — Catalogue Number BT22-83/2002-MRC. — 2002. — 225 p.<br>4. Нестеренко О.В. Інформаційний підхід до забезпечення керування в автоматизованих ін-формаційно-аналітичних системах органів влади / О.В. Нестеренко // Реєстрація, зберігання і об-роб. даних. — 2008. — Т. 10 № 3. — С. 46–55.<br>5. Петров Э.Г. Методы и средства принятия решений в социально-экономических и техни-ческих системах / Э.Г. Петров, М.В. Новожилова, И.В. Гребенюк, Н.А. Соколова. — Херсон: Олді-плюс, 2003. — 380 с.<br>6. Згуровский М.В. Исследование социальных процессов на основе методологии системного анализа / М.В. Згуровский, А.В. Доброногов, Т.Н. Померанцева. — К.: Наук. думка, 1997. — 221 с.<br>7. Бурый А.С. Структурная сложность распределенных информационно-управляющих систем / А.С. Бурый // Изв. РАН. Техн. кибернетика. — 1994. — № 5. — С. 160–207.
+Файлы
+METODOLOGIJA_STVORENNJA_AS_DLJA_IB_DV.doc
+null

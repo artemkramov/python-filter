@@ -1,0 +1,12 @@
+﻿Smorodin
+06. — Vol. 8, N 3
+74-88
+width="25px" alt="">PDF,DOC
+Simulation Modeling of Production Process Control Technology
+Smorodin V.S.
+Complex of simulation modeling for obtaining information when checking an operation and control of technological process of production is offered to use. Fig.: 2. Refs: 3 titles.
+technological processes of production, simulation model, checking an operation.
+References</td><td>1. Максимей И.В., Смородин В.С., Сукач Е.И. Способ моделирования агрегатами технологи-ческих процессов опасного производства // Электрон. моделирование. — 2005. — Т. 27. — № 6. — С. 101–109.<br>2. Максимей И.В., Смородин В.С., Сукач Е.И. Система автоматизации экспериментов, реали-зующая агрегатный способ имитации технологических процессов // Информатика. — 2005. — № 1. — С. 25–31.<br>3. Жогаль С.П., Максимей И.В. Задачи и модели исследования операций. Ч. 1. Аналитические модели исследования операций: Учебное пособие. — Гомель: БелГУТ, 1999. — 110 с.
+File
+Tekhnologija_upravlenija.doc
+null

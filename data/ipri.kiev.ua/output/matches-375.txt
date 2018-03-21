@@ -1,0 +1,12 @@
+﻿2015-1-5
+14. — Vol. 17, N 1
+46-67
+alt="" width="50">PDF,DOC
+Models and algorithms for the analysis of structural reliability of complex multi-organizational technical systems
+Dodonov A.G., Putyatin V.G.
+The description of the models and algorithms to analyze the structural reliability of complex multi- organizational and technical systems under fairly general assumptions about the distribution laws uptime and recovery time of the constituent parts have been performed. Tabl.: 2. Refs: 12 titles.
+algorithm, analysis, model, reliability, description, estimation, index, system, structure.
+References</td><td>
+File
+1-5.pdf
+null

@@ -1,0 +1,10 @@
+﻿null
+S. V. Pustova</em><br><br>Ukraine</p><p></p><p>Пустова Світлана Вікторівна,</p><p>аспірант Національного авіаційного університету, Україна, Київ</p><p>
+108555
+6453">No 4 (2008
+108555/0">Pustova
+Single retrial lossless queueing system with Erlang distribution of orbit cycle time
+S. V. Pustova
+A single retrial lossless queueing system with Erlang distribution of the call time on the orbit cycle is considered. An analytical model for the system of the M / M / 1 / 0 /// E<sub>2</sub>type is developed, and an algorithm for calculation of the system performance characteristics is constructed. The results obtained are analyzed.
+108555/103500">PDF (Українська)</a
+—

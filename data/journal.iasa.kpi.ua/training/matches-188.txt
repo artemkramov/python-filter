@@ -1,0 +1,11 @@
+﻿s
+M. Z. Zgurovsky</em><br><a href="http://orcid.org/0000-0001-5896-7466">ORCID iD</a>ректор Національного технічного університету України "КПІ", директор Навчально-наукового комплексу "Інститут прикладного системного аналізу" НТУУ "КПІ" МОН та НАН України, Київ<br>Ukraine</p><p>Згуровський Михайло Захарович, академік НАН України, професор, доктор технічних наук, ректор Національного технічного університету України "КПІ", директор Навчально-наукового комплексу "Інститут прикладного системного аналізу" НТУУ "КПІ" МОН та НАН України, Київ</p></div><div></div><div><p><em>A. I. Petrenko</em><br><br>Ukraine</p><p>
+71923
+4265">No 2 (2012
+71923/0">Zgurovsky
+Processing of scientific data in the conditions of the information "boom"
+M. Z. Zgurovsky, A. I. Petrenko
+Modern science (е-science) is based on treatment of potentially enormous volumes of information. Tendencies and prospects of information technologies development in the conditions of information "boom", which embrace the question of providing data quality and compatibility, metadata and data semantics usage, long-term data maintenance, intellectual processing of data (Data Mining), data search in existent sources taking into account the heterogeneity of these resources, data influence on choice of the platform and its service-oriented architecture, Grid and Cloud Integration Opportunities and also European initiatives on this subjects, are considered.
+71923/66901">PDF (Українська)</a
+—
+null

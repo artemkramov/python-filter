@@ -1,0 +1,12 @@
+﻿Smorodin
+08. — Vol. 10, N 2
+53-68
+width="25px" alt="">PDF,DOC
+Technology of Simulation Modeling of Control Systems for Probabilistic Processes of Manu-facture
+Smorodin V.S.
+Features of control systems for probabilistic processes of manufacture are considered, urgency of imitating modeling of such objects of research is determined. The formal model of management for probabilistic technological processes of manufacture is offered. On the basis of the account of features of components interactions of such control systems the library of imitating models of process management elements is offered. The technology of using a modeling automation system for technological manufacture processes is presented. Fig.: 2. Refs.: 7 titles.
+control systems, probabilistic technological processes, modeling automation system.
+Ссылки</td><td>1. Гончаров А.Н., Максимей И.В., Смородин В.С. Управление резервированием и восстанови-тельными операциями с помощью имитационного моделирования при возникновении отказов в технологических процессах опасного производства // Проблемы управления и информатики. — 2007. — № 1. — С. 48–60.<br>2. Гончаров А.Н., Максимей И.В., Смородин В.С., Клименко А.В., Езерский Д.Н. Об одной ме-тодике имитационного моделирования вероятностных технологических процессов производства // Математичнi машини i системи. — 2008. — № 1. — С. 133–138.<br>3. Гончаров А.Н., Смородин В.С. Формализация технологических процессов опасного произ-водства на основе теории принятия решений // Известия Гомельского гос. ун-та им. Ф. Скорины. — 2005. — № 5 (32). — С. 23–26.<br>4. Смородин В.С. Методика контроля и принятия решений при имитационном моделирова-нии технологических процессов опасного производства // Проблемы управления и информатики. — 2006. —№ 5. — С. 79–91.<br>5. Смородин В.С. Агрегатная система автоматизации моделирования вероятностных технологических процессов производства // Математичнi машини i системи. — 2007. — № 1. — С. 105–110.<br>6. Гончаров А.Н. Особенности имитационного моделирования управляемых технологических процессов опасного производства // Известия Гомельского гос. ун-та им. Ф. Скорины. — 2007. — № 5 (44). — С. 101–105.<br>7. Смородин В.С. Верификация имитационных моделей технологических процессов произ-водства с переменой структурой // Математичнi машини i системи. — 2007. — № 3, 4. — С. 162–167.
+Файлы
+Statja_08_06_23_Smorodin.doc
+null

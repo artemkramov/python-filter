@@ -1,0 +1,12 @@
+﻿Pilkevich
+05. — Vol. 7, N 1
+40-54
+width="50" alt="">PDF,DOC
+The Algorithm of Processing Registration Data with Due Account of a Priori Connections Be-tween Them
+Pilkevych I.A.
+The solution of a problem for obtaining simultaneous exact statistical estimations of several numerical parameters (registration data) by experimental data on condition that registration data are connected a priori by well-known finite equations is considered. The obtained conditional estimations have a higher exactness by comparison with unconditional ones obtained by methods of classical parametrical evaluation exclusively by registration data. The problem is set and solved in general form so that the methods and results of its solution can be used for the simultaneous estimation of parameters totality of the registration object of any physical nature if connection between the registration data in the form of the finite equations is established a priori. Refs: 7 titles.
+a priori connection, simultaneous estimation, conditional estimation of the registration data.
+References</td><td>1. Левин Б.Р. Теоретические основы статистической радиотехники. Т. 2. — М.: Сов. радио, 1975. — 392 с.<br>2. Пількевич І.А. Методика сумісного оцінювання декількох параметрів за результатами ви-мірів з урахуванням апріорних зв’язків між ними // Проблеми створення, випробування, застосу-вання та експлуатації складних інформаційних систем: Зб. наук. пр. – Житомир: ЖВІРЕ, 2004. — Вип. 8. — С. 184–195.<br>3. Ширман Я.Д., Манжос В.Н. Теория и техника обработки радио¬локационной информации на фоне помех. — М.: Радио и связь, 1981. — 416 с.<br>4. Колмогоров А.Н., Фомин С.В. Элементы теории функций и функционального анализа. — М.: Наука, 1976. — 542 с.<br>5. Эльсгольц Л.Э. Дифференциальные уравнения и вариационное исчисление. — М.: Наука, 1969. — 424 с.<br>6. Левин Б.Р. Теоретические основы статистической радиотехники. Т. 1. — М.: Сов. радио, 1974. — 552 с.<br>7. Ефимов Н.В. Розендорн Э.Р. Линейная алгебра и многомерная геометрия. — М.: Наука, 1974. — 544 с.
+File
+RZOD2_04.doc
+null

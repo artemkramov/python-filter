@@ -1,0 +1,11 @@
+﻿s
+A. Z. Melikov</em><br>Лабораторія Інституту кібернетики НАН Азербайджану, Баку<br>Azerbaijan</p><p></p><p>Меліков Агасі Зарбалі огли,</p><p>член-кореспондент НАН Азербайджану, професор, доктор технічних наук, завідувач лабораторії Інституту кібернетики НАН Азербайджану, Баку.</p><p></p></div><div></div><div><p><em>A. M. Velibekov</em><br>Інститут інформаційних технологій НАН Азербайджану, Баку<br>Azerbaijan</p><p></p><p>Велібеков Амір Махмуд огли,</p><p>аспірант Інституту інформаційних технологій НАН Азербайджану, Баку.</p><p>
+108907
+6467">No 3 (2008
+108907/0">Melikov
+Calculation of characteristics of mixed multichannel service system with channels reservation
+A. Z. Melikov, A. M. Velibekov
+Algorithms for approximate calculation of the characteristics of mixed multichannel service system with two types of calls is proposed. In this system, impatient high priority calls are serviced on the basis of channel reservation scheme while low priority calls may be queued in either finite or infinite buffer. The results of numerical experiments are presented.
+108907/103826">PDF (Русский)</a
+—
+null

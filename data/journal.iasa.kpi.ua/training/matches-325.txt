@@ -1,0 +1,11 @@
+﻿s
+A. А. Ligun</em><br><br>Ukraine</p><p></p><p>Лигун Анатолій Олександрович,</p><p>професор, доктор фізико-математичних наук, професор кафедри прикладної математики Дніпродзержинського державного технічного університету, Україна, Дніпродзержинськ</p><p></p></div><div></div><div><p><em>A. А. Shumeiko</em><br><br>Ukraine</p><p></p><p>Шумейко Олександр Олександрович,</p><p>професор, доктор технічних наук, професор кафедри програмного забезпечення електронно-обчислювальних машин Дніпродзержинського державного технічного університету, Україна, Дніпродзержинськ</p><p></p></div><div></div><div><p><em>V. М. Zhurba</em><br><br>Ukraine</p><p></p><p>Журба Віталій Миколайович,</p><p>аспірант Дніпродзержинського державного технічного університету, Україна, Дніпродзержинськ</p><p>
+107269
+6372">No 4 (2009
+107269/0">Ligun
+Algorithm for development of optimal pairs of filters (coding and recovery) adaptive to multivariable function
+A. А. Ligun, A. А. Shumeiko, V. М. Zhurba
+An algorithm for development of optimal pairs of filters of any complexity for (coding and recovery which are) adaptive to multivariable function is proposed.
+107269/102236">PDF (Українська)</a
+—
+null

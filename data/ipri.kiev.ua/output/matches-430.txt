@@ -1,0 +1,12 @@
+﻿2016-3-2
+16. — Vol. 18, N 3
+12–19
+alt="" width="50">PDF,DOC
+An optimization electronic simulation of multi-target system tasks
+Dodonov O.G., Kuzmychov А.I.
+An unique, being complicatedly organized, multidisciplinary system complex is considered as a coordinated of super-system with multilevel structure composed of different types of objects and groups with different local features, requirements and objectives, high complexity and total internal interactions individual components. At the stage of simulation of the super-system behaviour during any time interval where the local and generalized targets, requirements determined and provided the necessary resources there are applied specific analytical methods and tools for multi-target optimization of wide scale problems. Refs: 10 titles.
+multilevel structure, multi-objective, multi-optimization, multi target programming, target programming, system engineering, system management, SoS, systems engineering and management.
+References</td><td>
+File
+3-2.pdf
+null

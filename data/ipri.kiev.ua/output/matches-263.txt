@@ -1,0 +1,12 @@
+﻿2012-2-11
+12. — Vol. 14, N 2
+106-115
+alt="" width="50">PDF,DOC
+Multi-Objective Optimization in Intelligent Decision Support Systems
+Sirodgea I.B., Kuzomin А.Ya., Shtukin M.V.
+Development of methodology of a complex solution of a problem of decision making in conditions multi-objective optimization and uncertainties of the data fixed classes on the basis of intellectual models and methods of engineering of quantum engineering knowledge has been carried out. Refs: 22 titles.
+multi-objective optimization, quantum engineering knowledge, utility function, interval uncertainty, decision making.
+References</td><td>
+File
+2-11.pdf
+null

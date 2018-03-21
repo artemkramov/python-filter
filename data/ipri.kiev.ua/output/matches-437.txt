@@ -1,0 +1,12 @@
+﻿2016-3-8
+16. — Vol. 18, N 3
+75–86
+alt="" width="50">PDF,DOC
+Application of tools for text analysys as an instrument for optimizing decision support in the tasks of eleborating plans of social and economic development of Ukraine
+Terentiev O.M., Prosyankina-Zharova T.I., Savastiyanov V.V.
+A question of the use of SAS Text Mining tools in tasks of decision support has been examined. Text analytics tools are used to automate the preliminary analysis of the problem, determining factors in the external environment research problems of agricultural development, based on the need to reorient markets and food security of a country. The basic problem of analyzing large volumes of unstructured text information in the problems of multi criteria analysis of alternatives in decision support systems is analyzed. Using content analysis and analysis of emotional coloring of online publications one can significantly improve the quality of decisions through processing more expert opinions and ideas about the possible course of events and formalize the problem according with the target set. The general recommendations for the use of SAS Text Mining tools in the information and analytical center of the administration of agriculture production have been proposed. Tabl.: 2. Fig.: 1. Refs: 22 titles.
+problems with weak structure, text information, multi criteria analysis of alternatives, decision support system, Internet resources, agriculture, text mining.
+References</td><td>
+File
+3-8.pdf
+null

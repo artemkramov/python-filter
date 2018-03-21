@@ -1,0 +1,12 @@
+﻿2014-2-5
+14. — Vol. 16, N 2
+52-61
+alt="" width="50">PDF,DOC
+Mathematical Model for Description of Ill-Posed Problems
+Goncharenko Yu.Yu.
+Identification of images in some cases requires busting from many models and based on these algorithms, which belongs to the class of ill-posed problems. It is shown that the mathematical description of ill-posed problems defined by the complex of elements defined in Hilbert spaces, for a bounded linear operator which determines the approximate solution associated with accurate one, followed by further regularization. It is carried out one of the above mentioned methods that in practice requires of a priori classifications to be added. Refs: 6 titles.
+mathematical model, Hilbert space, ill-posed problem, prior features.
+References</td><td>
+File
+2-6.pdf
+null

@@ -1,0 +1,12 @@
+﻿2016-1-7
+16. — Vol. 18, N 1
+63–69
+alt="" width="50">PDF,DOC
+Improvement of protection for WEB resources from attacks based on combined heuristic and statistical approach
+Prysiazhnyi D.P.
+It is demonstrated the description of an improvement of protection for WEB resources from attacks. The improvement is based on the combined using of both heuristic and statistical approaches. The protection utilizes a classification of the most common attacks, the probability of an attack and heuristic methods for selecting countermeasures. Tabl.: 1. Fig.: 1. Refs: 14 titles.
+WEB resource, attack, defence, statistics, heuristics.
+References</td><td>
+File
+1-7.pdf
+null

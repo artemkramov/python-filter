@@ -1,0 +1,12 @@
+﻿Dodonov
+07. — Vol. 9, N 4
+91-106
+width="25px" alt="">PDF,DOC
+Methodology of Systematic Design and Development of the Automated Systems of Information Processing and Management
+Dodonov V.А.
+The questions of the systems approach to design and engineering of complex technical systems are considered. The iterative scheme of design, within the framework of which the basic tasks solved on each of stages are allocated, is offered. The description of decisive procedures on acceptance of the project decision is given. Fig.: 2. Refs.: 9 titles.
+system, systems approach, design, project, alternative, choice, estimation.
+References</td><td>1. Путятин В.Г., Валетчик В.А., Додонов В.А. Системный подход к проектированию автома-тизированных систем обработки информации и управления // Реєстрація, зберігання і оброб. да-них. — 2007. — Т. 9, № 1. — С. 56–72.<br>2. Окунев Ю.Б., Плотников В.Г. Принципы системного подхода к проектированию в технике связи. — М.: Связь, 1976. — 184 с.<br>3. Овчинников В.Г. Методология проектирования автоматизированных информационных си-стем: основы системного подхода. — М.: Компания Спутник+, 2005. — 285 с.<br>4. Автоматизация поискового проектирования; Под ред. А.И. Половинкина. — М.: Радио и связь, 1981. — 256 с.<br>5. Бусленко Н.П., Калашников В.В., Коваленко И.Н. Лекции по теории сложных систем. — М.: Советское радио, 1973. — 450 с.<br>6. Месарович М., Мако Д., Такахара И. Теория иерархических многоуровневых систем. — М.: Мир, 1973. — 344 с.<br>7. Левин Г.М., Танаев В.С. Декомпозиционные методы оптимизации проектных решений. — Минск: Наука и техника, 1978. — 240 с.<br>8. Михалевич В.С., Волкович В.Л. Вычислительные методы исследования и проектирования сложных систем. — М.: Наука, 1982. — 286 с.<br>9. Зыков А.А. Теория конечных графов. — Новосибирск: Наука, 1969. — 543 с.
+File
+Statja.doc
+null

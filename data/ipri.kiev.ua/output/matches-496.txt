@@ -1,0 +1,12 @@
+﻿Levchuk
+06. — Vol. 8, N 3
+89-103
+width="25px" alt="">PDF,DOC
+Simulation of a Technological Process of Production with the Hierarchical Structure
+Levchuk V.D.
+The approach to the formalization of technological processes of production with the hierarchical structure on the base of the simulator MICIC4 tools is offered. It is shown by simulation experiments designing that developed tools are effective for these objects studying. Tabl.: 1. Fig.: 8. Refs: 3 titles.
+technological process of production with the hierarchical structure, MICIC4 tools, simulation model, assembly-disassembly production, simulation experiment, tools application
+References</td><td>1. Технология системного моделирования / Под общ. ред. С.В. Емельянова, В.В. Калашнико-ва и др. — М.: Машиностроение; Берлин: Техник, 1988. — 520 с.<br>2. Лоу А., Кельтон В. Имитационное моделирование. Классика CS. 3-е изд. — СПб.: Питер; К.: BHV, 2004. — 847 с.<br>3. Левчук В.Д. Базовая схема формализации системы моделирования MICIC4 // Проблеми програмування. — 2005. — № 1. — С. 85–96.
+File
+liauchuk-ress-tpp.doc
+null

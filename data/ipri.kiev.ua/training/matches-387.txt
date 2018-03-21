@@ -1,0 +1,12 @@
+﻿2015-2-5
+15. — Vol. 17, N 2
+47–52
+alt="" width="50">PDF,DOC
+Method of detecting falsification in medical images
+Zorylo V.V., Lebedeva O.Y.
+In today’s world of information security issues are very important. One of the problems is the pro-tection of digital signals from the rigging in particular is revealing a digital image tampering. Digital photos are used in virtually all areas of human activity, including medicine. Medical images can be tampered with, for example, to change the diagnosis, if it affects the device to work or receive medical insurance. In this paper, we propose a method to detect the falsification of digital medical images made by cloning, in a post-processing of the cloned area in such means as brightness correction, image blurring. Fig.: 2. Refs: 10 titles.
+digital image, medical digital image, integrity violations, cloning, image blurring, brightness correction, blocks of complex shape.
+References</td><td>
+File
+2-5.pdf
+null

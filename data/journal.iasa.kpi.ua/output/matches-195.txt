@@ -1,0 +1,11 @@
+﻿s
+V. D. Danchuk</em><br>завідувач кафедри електроніки та обчислювальної техніки Національного транспортного університету, Україна, Київ<br>Ukraine</p><p></p><p>Данчук Віктор Дмитрович,</p><p>професор, доктор фізико-математичних наук, завідувач кафедри електроніки та обчислювальної техніки Національного транспортного університету, Україна, Київ</p><p></p></div><div></div><div><p><em>V. V. Svatko</em><br>аспірант кафедри електроніки та обчислювальної техніки Національного транспортного університету, Україна, Київ<br>Ukraine</p><p></p><p>Сватко Віталій Володимирович,</p><p>аспірант кафедри електроніки та обчислювальної техніки Національного транспортного університету, Україна, Київ</p><p>
+71975
+4265">No 2 (2012
+71975/0">Danchuk
+Optimization of ways search by a graph in the dynamic task of traveling salesman by the method of the modified ant algorithm
+V. D. Danchuk, V. V. Svatko
+The method of solving the task of minimum graph way search on the basis of using the modified ant algorithm, in which the length of ribs of bidirectional oriented graph is variable, is offered. The method of local search is used in order to optimize the parameters of probabilistic-proportional search of minimum ribs distance for a graph.
+71975/66948">PDF (Українська)</a
+—
+null

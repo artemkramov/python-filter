@@ -1,0 +1,10 @@
+﻿null
+Ju. Bokhonov</em><br>доцент Навчально-наукового комплексу "Інститут прикладного системного аналізу" НТУУ "КПІ" МОН та НАН України, Київ<br>Ukraine</p><p></p><p>Бохонов Юрій Євгенович,</p><p>кандидат фізико-математичних наук, доцент Навчально-наукового комплексу "Інститут прикладного системного аналізу" НТУУ "КПІ" МОН та НАН України, Київ</p><p>
+71980
+4265">No 2 (2012
+71980/0">Bokhonov
+About one approach to determination of periodic solutions of a nonlinear ordinary differential equation of the second order
+Ju. Bokhonov
+The approach to determining of periodic solutions of the nonlinear differential second order equation is proposed. The approach is based on construction of the Green’s function for differential operator defined on the functions, which satisfy boundary conditions. Necessary and sufficient conditions for the existence of periodic solutions of the equation are shown.
+71980/66953">PDF (Українська)</a
+—

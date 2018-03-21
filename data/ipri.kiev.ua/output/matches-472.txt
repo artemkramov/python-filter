@@ -1,0 +1,12 @@
+﻿SHerepa
+06. — Vol. 8, N 1
+114-123
+width="25px" alt="">PDF,DOC
+Analysis of Weighted Keywords in Documents of CDS/ISIS Databases
+Sherepa T.A.
+Principles of data automatic indexing for document’s key words extracting in CDS/ISIS databases in order to improve completeness and accuracy of information search results are explained. Tabl.: 1. Refs: 12 titles.
+automatic indexing, data retrieval, search queries, significant terms, weighted keyword, discrimination power, associated terms, tezaurus.
+References</td><td>1. Про затвердження Державної програми розвитку діяльності Національної бібліотеки України імені В.І. Вернадського на 2005–2010 роки: Постанова Кабінету Міністрів України від 25 серпня 2004 р. № 1085.<br>2. UNESCO CDS-ISIS databases [Electronic Resource]. — Way of access: URL: http://www.unesco.org/. — Title from the screen.<br>3. Шерепа Т.А. Система галузевих серій електронних видань: основні концептуальні поло-ження // Бібл. вісн. — 2004. — № 1. — С. 26–29.<br>4. Про використання Відкритих форматів даних та Вільного програмного забезпечення в державних установах і державному секторі господарства: Проект Закону України від 18 червня 2003 р.<br>5. Солтон Дж. Динамические библиотечно-информационные системы. — М.: Мир, 1979. — 558 с.<br>6. ISIS Application Program Interface ISIS_DLL User’s Manual Preliminary Version BIREME, Sao Paulo, July 2001 [Electronic Resource]. — Way of Access: URL: http://www.bireme.br/.<br>7. Широков В.А. Всеукраїнський лінгвістичний діалог у контексті теорії лексикографічних систем // Мовознавство. — 2003. — № 6. — Way of Аccess: URL: http://ulif.org.ua/ulp<br>8. Ермаков А.Е., Плешко В.В. Компьютерная лингвистика и интеллектуальные технологии: труды Международной конференции Диалог’2004. — М.: Наука, 2004 [Электронный ресурс]. — Way of access: URL: http://www.rco.ru/article.asp?ob_no=627<br>9. Як дібрати С Л О В О ? [Електронний ресурс]. — Way of access: URL: http://dict.linux.org.ua/dict/other/SSR/RE1.html.<br>10. Семенов Ю.А. Современные поисковые системы [Электронный ресурс]. — Way of access: URL: http://www.penza.fio.ru/misc/admin/tcpip/retr4514.htm.<br>11. Ланкастер Ф.У. Информационно-поисковые системы. — М.: Мир, 1972. — 308 с.<br>12. IDAMS Statistical Software [Electronic Resource]. — Way of Access: URL: http://www.unesco.org/webworld/idams. — Title from the screen.
+File
+sherepa.doc
+null

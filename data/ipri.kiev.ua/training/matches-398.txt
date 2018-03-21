@@ -1,0 +1,12 @@
+﻿2015-3-7
+15. — Vol. 17, N 3
+65–74
+alt="" width="50">PDF,DOC
+Procedure of «zeroing» under control and restore the integrity of data objects in the code of conditional deductions
+Mаtоv О.Y., Vаsylenko V.S.
+It is proposed high-speed control procedures and the integrity of correction distortion for information objects of telecommunication networks based on the algorithm «zeroing» under conditions of application of the code of conditional residuals. Tabl.: 1. Fig.: 1. Refs: 4 titles.
+FEC, code of conditional residuals, integrity monitoring, control base, the base code, restoring the integrity of the, distortion.
+References</td><td>
+File
+3-7.pdf
+null

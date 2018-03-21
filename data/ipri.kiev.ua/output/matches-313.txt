@@ -1,0 +1,12 @@
+﻿2013-3-2
+13. — Vol. 15, N 3
+20–25
+alt="" width="50">PDF,DOC
+Design of Nanostructured Luminofor Coating for a Multi-Junction Solar Cell / Ie. V. Beliak, D. Yu. Manko, A. A. Kryuchyn
+Ie. V. Beliak, D. Yu. Manko, A. A. Kryuchyn
+Design of the highly efficient solar cells is a hot area of semiconductor physics and material science. One of the major concerns is a substantial shift between the solar radiation spectra and optical absorption spectra of a photoelectric transducer. A new method based on synthesis of luminophor layer functioning as a radiation converter was proposed. It’s shown that nanostructured pyrazoline coatings could convert the incoming solar radiation into the secondary optical radiation for optimal matching with the active spectral range of the solar cell. Results of the experimental investigation revealed high potential capabilities for optical properties engineering of the luminophor through laser annealing. It was found that produced samples of nanostructured organic composites are characterized by sufficiently enough spectral shift (200-400 nm) that can be varied by doping during synthesis, high quantum yield (near 80 %), and are enough stable under circumstances of intensive long term radiation.
+luminophor coating, quantum yield, white zeolite, pyrazoline dye, nanostructured materials, solar cell.
+References</td><td>
+File
+3-2.pdf
+null

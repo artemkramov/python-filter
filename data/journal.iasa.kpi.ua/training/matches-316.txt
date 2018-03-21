@@ -1,0 +1,11 @@
+﻿s
+V. І. Ivanenko</em><br><br>Ukraine</p><p></p><p>Іваненко Віктор Іванович,</p><p>доктор технічних наук, професор Національного технічного університету «КПІ», Україна, Київ</p><p></p></div><div></div><div><p><em>V. M. Mikhalevich</em><br><br>Ukraine</p><p></p><p>Міхалевич Вадим Михайлович,</p><p>кандидат фізико-математичних наук, доцент Української Києво-Могилянської академії, Україна, Київ</p><p>
+107199
+6364">No 1 (2010
+107199/0">Ivanenko
+To modeling of stochastic situations in decision making
+V. І. Ivanenko, V. M. Mikhalevich
+The definitions of lottery and matrix models of the decision making situation with a stochastic cause-effect mechanism are given. It is shown that these models are equivalent for the simulation of broad class of such situations.
+107199/102184">PDF (Русский)</a
+—
+null

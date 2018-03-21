@@ -1,0 +1,12 @@
+﻿2015-2-2
+15. — Vol. 17, N 2
+14–28
+alt="" width="50">PDF,DOC
+Synthesis of matrix representations of generalized quaternions
+Kalinovsky J.A., Boyarinova Y.E., Sukalo A.S.
+It is synthesized matrix representations of a class of non-commutative hypercomplex number sys-tems of the fourth dimension built with the help of non-commutative procedures of doubling of the Grassmann-Clifford systems of the second dimension. Refs: 12 titles.
+quaternion, generalized quaternion, hypercomplex number system, matrix representation, the procedure of doubling the Grassmann-Clifford.
+References</td><td>
+File
+2-2.pdf
+null

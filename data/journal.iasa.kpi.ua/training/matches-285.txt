@@ -1,0 +1,11 @@
+﻿s
+Yu. P. Butsenko</em><br><br>Ukraine</p><p></p><p>Буценко Юрій Павлович,</p><p>кандидат фізико-математичних наук, доцент кафедри математичного аналізу та теорії ймовірностей Національного технічного університету України «КПІ», Україна, Київ</p><p></p></div><div></div><div><p><em>Yu. G. Savchenko</em><br><br>Ukraine</p><p></p><p>Савченко Юлій Григорович,</p><p>доктор технічних наук, професор кафедри звукотехніки та реєстрації інформації факультету електроніки Національного технічного університету України «КПІ», Україна, Київ</p><p>
+106901
+6356">No 3 (2010
+106901/0">Butsenko
+On-line control of calculations in terms of information redundancy
+Yu. P. Butsenko, Yu. G. Savchenko
+The problem of reliable control over industrial computer systems is considered. Generalization of the redundant variable method for any information processes with any hardware/software implementation is proposed.
+106901/101905">PDF (Русский)</a
+—
+null

@@ -1,0 +1,10 @@
+﻿null
+Yu. А. Zak</em><br>науковий співробітник Європейського центру з мехатроніки, Германія, Аахен<br>Germany</p><p>Зак Юрій Олександрович, доктор технічних наук, науковий співробітник Європейського центру з мехатроніки, Германія, Аахен
+71976
+4265">No 2 (2012
+71976/0">Zak
+Partition into subsets and building admissible and optimal sequence of the tasks set performance on multiple machines
+Yu. А. Zak
+The properties of the problems of building the admissible and optimal schedules for implementation of N tasks on the m machines under the condition of a loss of time on changeovers are investigated. On the basis of the established properties the operators of the inclusions are constructed from a consideration of the descriptions subsets, which do not contain admissible solutions. The algorithms for computing lower bounds for various optimality criteria and algorithms for solving the problems, which are considered by sequential algorithm optimization are proposed.
+71976/66949">PDF (Русский)</a
+—

@@ -1,0 +1,12 @@
+﻿2012-3-9
+12. — Vol. 14, N 3
+92–98
+alt="" width="50">PDF,DOC
+Design of the up-diffused transactions by means of petrinets
+A.A. Nechaev, D.V. Lande
+It has been considered the restoration of edges in networks after their removal by destructive influences. The study results for the networks have been obtained by three algorithms: Barabashi-Albert; throwing by the edges; a real network of concepts and information links between them in the Web publications. It has been found that using the algorithm discussed in the real network is restored approximately 50 % bonds, and in artificial networks of such connections is only 25 %. Fig.: 5. Refs: 8 titles.
+complex networks, latent connection, vulnerability, modeling, maintainability, scale-free networks.
+References</td><td>
+File
+3-9.pdf
+null

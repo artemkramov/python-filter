@@ -1,0 +1,12 @@
+﻿2013-1-10
+13. — Vol. 15, N 1
+90-99
+alt="" width="50">PDF,DOC
+Enhancements to the Targeted Dynamic Alternatives Estimation Method and Features of Its Application
+Tsyganok V.V.
+Enhancement of the targeted dynamic alternatives estimation method based on expert knowledge base in decision-making support systems, which is used to determine the projects ratings is provided. The most important improvements of the method to include the definition of compatibility goals through more efficient algorithm, determining an appropriate planning interval for each generated knowledge base together with the definition of the set of fixed points of the timeline for further calculation of project ratings for formed time intervals, enabling alternatives dynamic evaluation with respect to any (not just the main) goal, partial performing of project implementation, the determination of the integral relative effectiveness of the projects. Enhanced methods are used to improve efficiency and functionality and allow wider practically apply the method in modern decision-making support systems. Fig.: 5. Refs: 6 titles.
+decision-making support, the targeted dynamic alternatives estimation method, groups of compatible goals, integrated measure for the projects relative efficiency.
+References</td><td>
+File
+1-10.pdf
+null

@@ -1,0 +1,12 @@
+﻿2013-2-8
+13. — Vol. 15, N 2
+73–81
+alt="" width="50">PDF,DOC
+Authentication Method of Interaction Parties Based on Reccurent Sequences
+Yaremchuk Yu.Е.
+It has been suggested a method for authentication of the interaction parties, based on recurrent Vk sequences and their dependencies. An analysis of cryptographic reliability and computational com-plexity shows that the proposed method is more robust in providing, in general, approximately the same computation complexity as the well-known counterparts. An important advantage of the proposed method is that it provides a significant simplification of procedures for authentication testing. Fig.: 1. Refs: 7 titles.
+informational security, cryptography, authentication, digital signature, recurrent sequences.
+References</td><td>
+File
+2-8.pdf
+null

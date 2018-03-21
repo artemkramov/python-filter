@@ -1,0 +1,12 @@
+﻿Matov
+08. — Vol. 10, N 3
+89-95
+width="25px" alt="">PDF,DOC
+Estimation of Influencing of Channels Parameters on Availability of Information in Tele-communications
+Mаtоv О.Y., Vаsylenko V.S.
+The influence of channels state on the relative speed as a main component of availability in the procedures of information exchange in telecommunication systems is considered. The analysis of dependence of relative speed on channels state for information exchange protocols is proposed, the expressions for it calculation are given. Fig.: 1. Refs: 5 titles.
+relative speed, base code word, distortion, availability of information, information exchange, telecommunications.
+References</td><td>1. Бунин С.Г. Сравнительная оценка СПД с решающей обратной связью и с использованием корректирующих кодов / С.Г. Бунин, В.С. Василенко // УСiМ. —1992. — № 9/10. — С. 30–35.<br>2. Матов О.Я. Аналіз протоколів обміну інформацією у телекомунікаційних процедурах / О.Я. Матов, В.С. Василенко, М.М. Будько // Реєстрація, зберігання і оброб. даних. — 2004. — Т. 6, № 4. — С. 82–93.<br>3. Матов О.Я. Оцінка часу доставки повідомлень у протоколах організації обміну в телеко-мунікаційних процедурах / О.Я. Матов, В.С. Василенко, М.М. Будько // Реєстрація, зберігання і оброб. даних. — 2005. — Т. 7, № 2. — С. 66–76.<br>4. Бабак В.П. Оцінка впливу параметрів каналів на відносну швидкість в процедурах обміну інформацією в телекомунікаційних системах / В.П. Бабак, О.К. Юдін, В.С. Василенко // Вісник НАУ. — 2005. — № 4. — С. 3–7.<br>5. Бунин С.Г. Вычислительные системы с пакетной радиосвязью / С.Г. Бунин, А.П. Войтер — К.: Техніка, 1989. — 223 с.
+Файлы
+Stattja_62__V_dpr__PR__Oc_nka_vplivu_para.doc
+null

@@ -1,0 +1,11 @@
+﻿s
+V. D. Romanenko</em><br><br>Ukraine</p><p></p><p>Романенко Віктор Демидович,</p><p>професор, доктор технічних наук, заступник директора з навчальної роботи Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p></p></div><div></div><div><p><em>A. A. Reutov</em><br><br>Ukraine</p><p></p><p>Реутов Олексій Андрійович,</p><p>студент Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p>
+107204
+6364">No 1 (2010
+107204/0">Romanenko
+Synthesis of dynamic process forecasting functions for models in state space on the basis of Diophant equations
+V. D. Romanenko, A. A. Reutov
+Theoretical propositions are considered concerning design of one-rate and multirate systems for forecasting state and measurement vectors under one-rate discretization of all coordinates as well as under discretization of control and disturbance vectors with small sampling periods and of state and measurement vectors with large ones. Forecasting functions are developed by using Diophant equations in matrix polinoms. The results of experimental research of the developed forecasting functions under one-rate and multirate discretization are presented.
+107204/102188">PDF (Русский)</a
+—
+null

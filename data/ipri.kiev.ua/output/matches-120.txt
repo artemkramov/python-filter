@@ -1,0 +1,12 @@
+﻿2009-3-7
+09. — Vol. 12, N 4
+60-65
+alt="">PDF
+Coordination of the Productivity of Information Resources of Distributed Networks Channels. Peak Discretisation
+Vasylenkо V.S.
+Possibilities of increasing data transmission channel capacity with the purpose of coordinating the productivity of information sources with the distributed networks channels resources are considered. Fig.: 4. Refs: 3 titles.
+peak discretisation, channel capacity, distributed networks, signal-to-noise ratio, bandwidth channel, frequency discretisation.
+References</td><td>1. Шеннон К. Работы по теории информации и кибернетики / К. Шеннон. — М., 1963.<br>2. Матов О.Я. Пропускна спроможність каналу та доступність інформаційних об’єктів в розподілених мережах / О.Я. Матов, В.С. Василенко, О.В. Дубчак // Реєстрація, зберігання і оброб. даних. — 2009. — Т. 11, № 2. — С. 77–82.<br>3. Алишев Я.В. Предельная пропускная способность и потенциальная помехоустойчивость оптических сетей и систем телекоммуникаций / Я.В. Алишев // Доклады БГУИР. —2004. — Т. 2, № 2. — С. 43–45.
+Файлы
+2009-3-7.pdf
+null

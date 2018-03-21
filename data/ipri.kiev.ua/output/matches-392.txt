@@ -1,0 +1,12 @@
+﻿2015-3-1
+15. — Vol. 17, N 3
+3–14.
+alt="" width="50">PDF,DOC
+Experimental investigation of the 2D diffractive optical element for speckle reduction efficiency dependence on its speed and inclination angle
+Prygun A.V., Lapchuk A.S., Pashkevich G.A., Borodin Yu.O.
+Speckle suppression efficiency by moving 2D diffractive optical element based on a pseudo-random Barker code binary sequence is investigated. Experimental data of speckle contrast dependence on laser radiation wavelength, on the diffractive structure height, on the speed of its movement, as well as on the angle between the direction of diffractive structure wedges and diffractive optical element movement are presented. The coefficient of speckle suppression coefficient (ratio of speckle contrast before and after the method application) of 14, 16 and 3 for the wavelengths of 632,8 nm, 532 nm and 405 nm is obtained respectively. The obtained experimental data reaffirm the high efficiency of the method of speckle suppression. Tabl.: 2. Fig.: 7. Refs: 7 titles.
+laser projector, speckle, noise, speckle suppression, diffractive optical element, Barker code, experiment, speed, direction, inclination angle.
+References</td><td>
+File
+3-1.pdf
+null

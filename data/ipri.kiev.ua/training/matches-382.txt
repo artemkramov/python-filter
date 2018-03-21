@@ -1,0 +1,12 @@
+﻿2015-1-11
+14. — Vol. 17, N 1
+121-128
+alt="" width="50">PDF,DOC
+Modelling of the cooperation between government agencies and media during emergency situations
+Iaremchuk Iu.E., Nikiforova L.O., Shiyan A.A., Kasiyanenko V.H.
+The problem on the cooperation between government agencies and media for effective action before and during emergency situations is developed. The simulation uses a model of shared decision-making for aggregation benefits that choosing individuals, which is modified for the conditions of the problem. With using of this, it is proposed the functional model of cooperation between government agencies and the media in emergency situations with the use of feedbacks for the normalization of public opinion. The algorithm for functioning of such model is described. Fig.: 3. Refs: 10 titles.
+emergency situation, modelling, cooperation, media, government agencies.
+References</td><td>
+File
+1-11.pdf
+null

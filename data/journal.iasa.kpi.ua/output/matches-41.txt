@@ -1,0 +1,10 @@
+﻿null
+A. Ph. Makhort</em><br></p><p>
+43411
+2531">No 1 (2015
+43411/0">Makhort
+On equilibrium of an open economy under presence of unused funds and specified consumption levels
+A. Ph. Makhort
+An open economic system is studied in which monopolies and non-insatiable consumers are present. The levels of consumption needs and taxation rates of consumers in the economic system are specified. The presence of non-insatiable consumers leads to a creation of unused funds in the economy. The unused funds cause the decrease in the economy functioning efficiency. The equilibrium states of the economy are determined that correspond to minimal values of unused funds. The&nbsp;equilibrium principles are a Walrasian type. The algorithm for solving the economy equilibrium problem was proposed. The determined limitations of model characteristics provide an existence of such economic system's equilibrium. The characteristics of an equilibrium state that is optimal in terms of an efficiency of an economy functioning are determined as in the case of the presence of monopolies and absence of monopolies.
+43411/39814">PDF (Українська)</a></div><div><h4>References</h4><br><div><p>Гончар М.С. Математичні основи інформаційної економіки. — К.: Ін-т теор. фізики, 2007. — 464 с.</p><p>Debreu G. Existence of competitive equilibrium // Handbook of Mathematical Economics / Ed. by K.J. Arrow and M.D. Intriligator. — Amsterdam: North-Holland Publishing Company, 1982. — II. — P. 698–742.</p><p>Канторович Л.В., Акилов Г.П. Функциональный анализ. — М.: Наука, 1977. — 442 с.</p><p>Махорт А.П. Про вибір стратегії оподаткування в економічній системі за наявності монополістів // Системні дослідження та інформаційні технології. — 2011. — № 2. — С. 76–87.</p></div><br
+—

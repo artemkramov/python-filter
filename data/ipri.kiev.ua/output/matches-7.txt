@@ -1,0 +1,12 @@
+﻿Lande
+07. — Vol. 9, N 2
+53-60
+width="25px" alt="">PDF,DOC
+Self-Similarity of Network Publications Files on Computer Virology
+Dodonov A.G., Lande D.V.
+An approach to the organization of the analysis of a thematic publications stream on computer vi-rology, submitted in web-space, is described. The fractal nature of information streams is proved, the basic algorithms used during researches are described and forecasts conclusions on the basis of persistent properties of time series are given. Fig.: 7. Refs.: 12 titles.
+Internet resources, self-similarity, correlations, fractal analysis, information streams, computer viruses.
+References</td><td>1. Додонов А.Г., Ландэ Д.В. Организация сети информационных прокси-серверов // Реєстра-ція, зберігання і оброб. даних. — 2006. — Т. 8, № 3. — С. 24–31.<br>2. Gianna M. Del Corso, Antonio, Francesco Romani. Ranking a Stream of News // Proc. of the 14th International Conf. on World Wide Web. — Chiba (Japan). — 2005. — P. 97–106.<br>3. Брайчевский С.М., Ландэ Д.В. Современные информационные потоки: актуальная про-блематика // Научно-техническая информация. Сер. 1. — 2005. — Вып. 11. — С. 21–33.<br>4. Федер Е. Фракталы. — М.: Мир, 1991. — 254 с.<br>5. Fractal Geometry of Information Space as Represented by Cocitation Clustering / Van Raan A.F. J. // Scientometrics. —1991. — Vol. 20, N 3. — Р. 439–449.<br>6. Ландэ Д.В. Фрактальные свойства тематических информацийнных потоков из Интернет // Реєстрація, зберігання і оброб. даних. — 2006. — Т. 8, № 2. — С. 93–99.<br>7. Иванов С.А. Стохастические фракталы в Информатике // Научно-техническая информа-ция. Сер. 2. — 2002. — № 8. — С. 7–18.<br>8. Безруков Н.Н. Компьютерная вирусология. — К.: УРЕ, 1991. — 416 с.<br>9. Григорьев А.Н., Ландэ Д.В., Бороденков С.А., Мазуркевич Р.В., Пацьора В.Н. InfoStream. Мониторинг новостей из Интернет: технология, система, сервис: Научно-методическое пособие. — К.: ООО «Старт-98», 2007. — 40 с.<br>10. Peng C.-K., Havlin S., Stanley H.E., Goldberger A.L. Quantification of Scaling Еxponents and Сrossover Рhenomena in Nonstationary Heartbeat Тime Series // CHAOS. — 1995. — Vol. 5. — P. 82.<br>11. Stanley H.E., Amaral L.A.N., Goldberger A.L., Havlin S., Ivanov P.Ch., Peng C.-K. Statistical Рhysics and Рhysiology: Мonofractal and Мultifractal Аpproaches // Physica A. — 1999. — Vol. 270. — P. 309.<br>12. Павлов А.Н., Сосновцева О.В., Зиганшин А.Р. Мультифрактальный анализ хаотической динамики взаимодействующих систем // Изв. ВУЗов. Прикладная нелинейная динамика. — 2003. — Т. 11, №. 2. — С. 39–54.
+Файлы
+Landeh.doc
+null

@@ -1,0 +1,12 @@
+﻿CHokha
+08. — Vol. 10, N 3
+56-66
+width="25px" alt="">PDF,DOC
+Features of Realisation of a Complex Control-Estimated Method in Processes of Diagnosing Complex Dynamical Objects of Aeronautical Engineering
+Chokha Y.N., Fedorchuk A.P.
+Methodological stages of realisation of a versatile complex control-estimated method and features of its practical realisation in the environment of the automated estimated-information systems for providing a timely profound estimation of a current technical condition of typical complex objects of aeronautical engineering and support of making the operational decision by the aircraft service personnel are considered. Tabl.: 1. Fig.: 5. Refs: 6 titles.
+object of aeronautical engineering, parameters monitoring system, diagnosing method, decision-support system.
+References</td><td>1. Чоха Ю.М. Реалізація комплексного контрольно-розрахункового методу діагностування в середовищі експертної системи типового ГТД / Ю.М. Чоха, В.А.Лихоманенко, О.П. Федорчук // Труди Національної академії оборони України. — 2005. — Вип. 58. — С. 297–302.<br>2. Чоха Ю.М. Математична діагностична модель робочого процесу ТРДД з низьким рівнем контролепридатності / Ю.М. Чоха // Вестник двигателестроения. — Запоріжжя: ОАО «Мотор Січ». — 2003. — № 1. — С. 100–103.<br>3. Чоха Ю.Н. Методика применения функционально-тестового метода идентификации неис-правностей ТРДД в среде динамической ЭСД / Ю.М. Чоха // Вестник двигателестроения. — Запо-ріжжя: ОАО «Мотор Січ», 2004. — № 2. — С.173–176.<br>4. Пат. 30615 Україна, МПК G07C 3/14. Сигналізатор автоматизований інформативно-діагностичний для оперативної оцінки технічного діагнозу складних динамічних об’єктів техніч-ної експлуатації / Ю.М. Чоха та ін. — НАУ. — № 2007 06233; Заявл. 05.06.2007; Опубл. 11.03.2008. — Бюл. № 5.<br>5. Заявка № 2007 06234 Україна. Спосіб комбінований функціонально-тестовий оперативної оцінки технічного діагнозу газотурбінного двигуна і його конструктивних вузлів проточної части-ни / Чоха Ю.М. та ін. — Заявл. 05.06. 2007; позит. ріш. № 7443/1 від 04.06.2008.<br>6. Лозицкий Л.П. Оценка технического состояния авиационных ГТД / Л.П. Лозицкий, А.К. Янко, В.Ф. Лапшов. — М.: Транспорт, 1982. — 160 с.
+Файлы
+Stattja.doc
+null

@@ -1,0 +1,11 @@
+﻿s
+O. M. Romanjuk</em><br>аспірант кафедри спеціалізованих комп’ютерних систем факультету прикладної математики Національного технічного університету України "КПІ", Україна, Київ<br>Ukraine</p><p></p><p>Романюк Олександр Миколайович,</p><p>аспірант кафедри спеціалізованих комп’ютерних систем факультету прикладної математики Національного технічного університету України "КПІ", Україна, Київ</p><p></p></div><div></div><div><p><em>A. S. Sapigora</em><br>інженер Інституту теоретичної фізики ім. М.М. Боголюбова НАН України, Київ<br>Ukraine</p><p></p><p>Сапігора Антон Сергійович,</p><p>інженер Інституту теоретичної фізики ім. М.М. Боголюбова НАН України, Київ</p><p></p></div><div></div><div><p><em>S. Ya. Svictunov</em><br>старший науковий співробітник Інституту теоретичної фізики ім. М.М. Боголюбова НАН України, Київ<br>Ukraine</p><p></p><p>Свістунов Сергій Якович,</p><p>кандидат технічних наук, старший науковий співробітник Інституту теоретичної фізики ім. М.М. Боголюбова НАН України, Київ</p><p></p></div><div></div><div><p><em>O. I. Marchenko</em><br>доцент кафедри спеціалізованих комп’ютерних систем факультету прикладної математики Національного технічного університету України "КПІ", Україна, Київ<br>Ukraine</p><p></p><p>Марченко Олександр Іванович,</p><p>кандидат технічних наук, доцент кафедри спеціалізованих комп’ютерних систем факультету прикладної математики Національного технічного університету України "КПІ", Україна, Київ</p><p>
+73128
+4358">No 1 (2012
+73128/0">Romanjuk
+Creation of the environment of the scientific applications implementation in the Grid with the use of GridSphere and Vine Toolkit as part of an integrated scientific gateway
+O. M. Romanjuk, A. S. Sapigora, S. Ya. Svictunov, O. I. Marchenko
+A method of realization of the scientific applications implementation in Grid environment through a scientific gateway, which is built using GridSphere and Vine Toolkit tools, is offered. An architecture model of such scientific gateway is provided. The peculiarities of using the technology of Flex and the process of building a web application for the proposed scientific gateway on the example of the creation of the test portlet are considered.
+73128/68447">PDF (Українська)</a
+—
+null

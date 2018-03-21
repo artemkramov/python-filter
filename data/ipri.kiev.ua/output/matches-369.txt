@@ -1,0 +1,12 @@
+﻿2014-4-7
+14. — Vol. 16, N 4
+54–63
+alt="" width="50">PDF,DOC
+Cloud service provider selection using reinforcement learning approach and providers’ reputation
+Myroshnikova I.Yu., Novikov A.N.
+Reputation-oriented reinforcement learning approach was proposed for cloud service provider selection problem. Provider reputation in the approach is based on their service using experience and users’ estimates. Modelling results for providers with fixed service parameters demonstrated the decreasing number of steps, required for system learning, as compared with reinforcement learning approaches without considering providers’ reputation. Fig.: 4. Refs: 12 titles.
+cloud computing, provider selection task, reinforcement learning, reputation, broker, auction model.
+References</td><td>
+File
+4-7.pdf
+null

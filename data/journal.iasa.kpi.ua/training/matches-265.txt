@@ -1,0 +1,10 @@
+﻿null
+M. Fattakhova</em><br><br>Azerbaijan</p><p></p><p>Фаттахова Мехрибан Іса кизи,</p><p>кандидат технічних наук, доцент, провідний науковий співробітник відділу теорії телетрафіку Інституту Кібернетики НАН Азербайджану, Баку</p><p>
+106497
+6337">No 1 (2011
+106497/0">Fattakhova
+Approximate analysis of models of monoservice wireless networks of microcellular structure
+M. Fattakhova
+The formulas of approximate calculation of quality service indicators of new and handover calls in wireless networks of microcellular structure, where polytypic calls of both types form queues of unlimited or limited size. Results of numerical experiments are given.
+106497/101591">PDF (Русский)</a
+—

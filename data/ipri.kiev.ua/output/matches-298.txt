@@ -1,0 +1,12 @@
+﻿2013-1-9
+13. — Vol. 15, N 1
+82-89
+alt="" width="50">PDF,DOC
+Binary Trees Approach to Speedup Address Range Lookup in Peer-to-Peer Solutions
+G. V. Poryev
+It has been analyzed specifics of underlying algorithms for address range lookup. Concerning the storage of IP ranges, the drawbacks and bottlenecks of existing implementations have been determined. A new, faster method based on binary trees for storing and accessing the IP range databases is proposed.
+binary trees, distributed networks, peer-to-peer.
+References</td><td>
+File
+1-9.pdf
+null

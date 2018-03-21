@@ -1,0 +1,12 @@
+﻿2016-1-3
+16. — Vol. 18, N 1
+23–31
+alt="" width="50">PDF,DOC
+Forecast of time series using their segmentation based on wavelet analysis of scalogram
+Voloshko А.V., Muzyka N.Yu.
+It is presented a methodological approach in developing models predicting time series which is in application of the properties of frequency-ordered energy coefficients of orthogonal analysis of the levels of wavelet decomposition for to identify long-term trends, seasonal and noise components. Then, it is performed a segmentation of the results of wavelet decomposition of the time series and forecast of each segment separately. Fig.: 3. Refs: 19 titles.
+orthogonal transformation, wavelet analysis, forecast, prediction error.
+References</td><td>
+File
+1-3.pdf
+null

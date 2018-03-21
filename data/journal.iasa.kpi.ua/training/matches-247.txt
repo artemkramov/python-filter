@@ -1,0 +1,10 @@
+﻿null
+P. V. Chetyrbok</em><br><br>Ukraine</p><p>
+106465
+6335">No 2 (2011
+106465/0">Chetyrbok
+Invariance by scalar criterion of images recognition
+P. V. Chetyrbok
+An isomorphic mapping of the set of distinctive images to a set of real numbers from the interval [0,1] is built, that allows to combine classification of distinctive images with the behavior of scalar criterion in the space of errors. The proposed in the article functional and decision rule (scalar criterion for images recognition) allow to create a model of neuron network invariant to the transformation of images, which are recognised.
+106465/101560">PDF (Русский)</a
+—

@@ -1,0 +1,12 @@
+﻿2009-2-3
+10. — Vol. 12, N 2
+25-36
+alt="">PDF
+The Method of Forming the Tolerance Ellipsoid Estimation of Parameters for Interval Models on the Basis of Extraction of Basic Active Limitations from the Interval System of Linear Algebraic Equations
+Dyvak M. P., Kozak O. L.
+The method of forming configuration of the tolerance ellipsoid estimation of area of models parameters, which is oriented in the direction of the largest «elongation» of the real area, on the basis of analysis of interval data is offered. The example of method application is considered. Fig.: 3. Refs: 5 titles.
+tolerance ellipsoidal estimation, interval model, interval system of linear algebraic equations.
+References</td><td>1. Бакан Г.М. Теоретико-множественная идентификация линейных объектов в классе размытых эллипсоидальных множеств / Г.М. Бакан, Н.Н. Куссуль // Автоматика. —1990. — № 4. —С. 72–78.<br>2. Лычак М.М. Идентификация и оценивание состояния объектов управления на основе множественного подхода / М.М. Лычак // Проблемы управления и информатики. — 1999. — № 5.— С. 34–41.<br>3. Дивак М.П. Допустиме оцінювання області параметрів радіоелектронних кіл в класі еліпсоїдів / М.П. Дивак // Теоретична електротехніка. — 2002. — Вып. № 56. — С. 113–122.<br>4. Шарый С.П. Решение интервальной линейной задачи о допусках / С.П. Шарый // Автоматика и телемеханика. — 2004. — № 10. — С. 147–162.<br>5. Дивак М. П. Метод локалізації гарантованих оцінок в задачах параметричної ідентифікації / М.П. Дивак // Вимірювальна та обчислювальна техніка в технологічних процесах. — 2000. — № 4. — С. 12–17.
+Файлы
+2009-2-3.pdf
+null

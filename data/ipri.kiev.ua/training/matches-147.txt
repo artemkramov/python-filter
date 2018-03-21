@@ -1,0 +1,12 @@
+﻿2010-1-10
+10. — Vol. 12, N 1
+79-88
+width="50" alt="">PDF,DOC
+Justification of the Long-Term Storage Electronic Documents Archives Firmware Choice
+Petrov I.V., Stetsenko A.M., Solonina N.V.
+The results of researches of formation processes of relief nanostructures by using methods of inorganic laser photolithography are presented. It is shown that the application of inorganic photoresists on the basis of chalcogenide vitreous semiconductors for forming relief nanostructures with the sizes of tens of nanometers is promising, experience of using of inorganic photoresists in the process of CD mastering is summarized. Tabl.: 1. Fig.: 1. Refs: 24 titles.
+electronic archives, robotized libraries, archive departments, software products.
+References</td><td>1. Додонов О.Г. Методологія створення Національного реєстру електронних інформаційних ресурсів / О.Г. Додонов, О.В. Нестеренко, А.В. Бойченко // Реєстрація, зберігання і оброб. даних. — 2005. —Т. 7, № 3. — С. 88–97.<br>2. Будущее хранения информации — за Blu-ray [Электронный ресурс] // Корпорация Элект- ронный архив. — Режим доступа: http://ncm.ru/news/news_000.shtm<br>3. Оптические накопители ЭЛАР НСМ BD [Электронный ресурс] // Корпорация Электрон- ный архив.— Режим доступа: http://ncm.ru/nsm_bd.shtm<br>4. Горбов І.В. Вплив показника заломлення матеріалу підкладки на глибину інформаційного рельєфу оптичних носіїв / І.В. Горбов // Реєстрація, зберігання і оброб. даних. — 2009. — Т. 11, № 1. — С.<br>5. Описание компонентов ПО Саперион [Электронный ресурс]. — Режим доступа: http://saperion.ru/comp_55.htm<br>6. Система электронного архива с обеспечением доступа к нему граждан и организаций. Описание программного обеспечения. — Технический проект. — 2004.— С. 5–10.<br>7. Описание программного обеспечения QStar HSM [Электронный ресурс] // Корпорация Электронный архив. — Режим доступа: http://ncm.ru/po/qstar_hsm.shtm<br>8. Лавринюк А.Г. Електронні архіви. Проблеми та перспективи / А.Г. Лавринюк // Щорічна зустріч керівників державних архівних служб України, Росії та Білорусі. — 10-12.09.2009.
+File
+RZOD2_04.doc
+null

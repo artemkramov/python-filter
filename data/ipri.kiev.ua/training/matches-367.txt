@@ -1,0 +1,12 @@
+﻿Dodonov
+05. — Vol. 7, N 1
+58-65
+width="50" alt="">PDF,DOC
+Joint Processing of Trajectory Measuring Data at Testing the Complex Information-Control Systems
+Dodonov А.G., Putyatin V.G., Valetchik V.А.
+A method of trajectory measurements, which uses a joint processing of the measuring data, ob-tained from the proving ground means of external trajectory measurements and special onboard measuring equipment with the full-scale tests of the complex information-control systems at their constant disposition is considered. Refs: 8 titles.
+system, method, trajectory, estimation, model, information, processing.
+References</td><td>1. Мудров В.Н., Кушко В.Л. Методы обработки измерений: квазиправдоподобные оценки. — М.: Радио и связь, 1983. — 304 с.<br>2. Эльясберг П.Е. Определение движения по результатам измерений. — М.: Наука, 1976. — 416 с.<br>3. Жданюк Б.Ф. Основы статистической обработки траекторных измерений. — М.: Сов. радио, 1978. — 384 с.<br>4. Линник Ю.В. Метод наименьших квадратов и основы математико-статистической теории обработки наблюдений. — М.: Физматгиз, 1962. — 352 с.<br>5. Пустыльник Е.И. Статистические методы анализа и обработки наблюдений. — М.: Наука, 1968. — 288 с.<br>6. Тьюки Дж. Анализ результатов наблюдений. — М.: Мир, 1981. — 692 с.<br>7. Бакулев П.А. Радиолокационные системы. — М.: Радиотехника, 2004. — 320 с.<br>8. Поршнев С.В. Радиолокационные методы измерений экспериментальной баллистики. — Екатеринбург: Уральское Отделение РАН, 1999. — 210 с. br&gt;8. Поршнев С.В. Радиолокационные методы измерений экспериментальной баллистики. — Екатеринбург: Уральское Отделение РАН, 1999. — 210 с.
+File
+RZOD2_04.doc
+null

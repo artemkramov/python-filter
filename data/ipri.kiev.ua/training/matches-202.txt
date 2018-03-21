@@ -1,0 +1,12 @@
+﻿2011-1-6
+11. — Vol. 13, N 1
+56-66&gt;
+alt="" width="50">PDF,DOC
+Investigation of Data Interchange Protocols of Modern PCs and Hard Disk Drives
+Kozhenevsky S.R., Prokopenko S.D.
+Actual commands that PC exchanges with HDD are investigated. Experiments on various software and hardware platforms are conducted. Here particular attention was given to commands modifying data on hard disks. Theoretical principles of interaction between PCs and HDDs are presented. Common description of ATA interface standard and command sets used in it is given. Tabl.: 4. Fig.: 2. Refs: 7 titles.
+write blocker, protocol analyzer, interface, ATA standard, Serial ATA, operating system, write commands, command feature set, hard disk.
+References</td><td>1. Гук М. Аппаратные интерфейсы ПК. Энциклопедия / М. Гук. — СПб.: Питер, 2002. — 528 с. 2. AT Attachment 8 — ATA/ATAPI Command Set (ATA8-ACS). Rev. 6a, 2008. 3. Коженевский С.Р. Безопасность хранения информации на жестких магнитных дисках. Часть I / С.Р. Коженевский. — К.: ООО «ЕПОС», 2006. — 192 с. 4. Анализатор протоколов EPOS ATA Analyzer. Руководство по эксплуатации. — 2010. 5. Коженевский С.Р. Использование анализатора протоколов интерфейса АТА для установ- ления доступа к данным / С.Р. Коженевский // Реєстрація, зберігання і оброб. данних. — 2009. — Т. 11, № 4. — С. 59–67. 6. Центр восстановления информации ЕПОС. — Режим доступа: www.epos.ua 7. Technical Committee T13 AT Attachment. — Reference: www.t13.org
+File
+1-6.pdf
+null

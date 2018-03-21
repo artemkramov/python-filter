@@ -1,0 +1,10 @@
+﻿null
+O. G. Filatov</em><br><br>Ukraine</p><p></p><p>Філатов Олександр Григорович,</p><p>кандидат технічних наук, доцент факультету електроенерготехніки та автоматики Національного технічного університету України «КПІ», Україна, Київ</p><p>
+106966
+6358">No 2 (2010
+106966/0">Filatov
+Design of state regulator for discrete-time system of modal control
+O. G. Filatov
+A procedure for design of a state regulator for a discrete-time control system is proposed. It is based on the theory of modal control and provides arbitrary and maximal degree of stability for a closed system in the space of variable states and their average integral values. The results obtained are illustrated by an example.
+106966/101967">PDF (Русский)</a
+—

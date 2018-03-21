@@ -1,0 +1,11 @@
+﻿s
+T. L. Mazurok</em><br><br>Ukraine</p><p></p></div><div></div><div><p><em>Y. K. Todorcev</em><br><br>Ukraine</p><p>
+106415
+6331">No 3 (2011
+106415/0">Mazurok
+Neural network implementation of intellectual support of decision-making in the automatically controlled training
+T. L. Mazurok, Y. K. Todorcev
+A formal logical-mathematical model of training control is built in the conditions of competency approach. A neuro fuzzy approach of decision-making, based on sequential determination of the degree of integration and detection of the most significant impact of intersubject on the achieving of competencies, is offered. The results of practical realization are shown.
+106415/101526">PDF (Українська)</a
+—
+null

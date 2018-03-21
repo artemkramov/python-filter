@@ -1,0 +1,11 @@
+﻿s
+V. Ya. Danylov</em><br></p><p></p></div><div></div><div><p><em>I. Ya. Naumenko</em><br></p><p></p></div><div></div><div><p><em>V. I. Kyzyma</em><br></p><p>
+109774
+6581">No 1 (2008
+109774/0">Danylov
+Problems of acoustic sounding wells and hardware system for their solution
+V. Ya. Danylov, I. Ya. Naumenko, V. I. Kyzyma
+Problems facing further development of acoustic sounding method for casing annuluses of wells are considered. The acoustic field in the wave guide an annular tube is calculated, and the first critical frequency is found. A sounding bandwidth is recommended. Sounding equation for wells is derived, and the main errors of liquid level measurement are analysed.
+109774/104815">PDF (Українська)</a
+—
+null

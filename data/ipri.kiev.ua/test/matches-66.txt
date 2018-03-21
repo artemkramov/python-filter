@@ -1,0 +1,12 @@
+﻿Ciganok
+08. — Vol. 10, N 2
+121-127
+width="25px" alt="">PDF,DOC
+The Method of Alternative’s Weights Calculation Based on Group Experts’ Pair-Compa-risons Results
+Tsyganok V.V.
+The method that allows making a calculation of averaged weights of estimated objects (alternatives) based on expert information, namely pair-comparisons matrices, obtained from experts’ group, is proposed. The level of every expert’s competence in the question under consideration is taken into account. The method’s main characteristic parameters, obtained as a result of experimental investigation, are presented. The iterative way of the method’s implementation is considered. Tabl.: 2. Fig.: 1. Refs.: 3 titles.
+pair-wise comparisons, ideally consistent pair-wise comparisons matrix, group expert estimation methods
+Ссылки</td><td>1. Zgurovsky M.Z., Totsenko V.G., Tsyganok V.V. Group Incomplete Paired Comparisons with Account of Expert Competence // Mathematical and Computer Modelling. — 2004, Febr. — Vol. 39, N 4–5. — P. 349–361.<br>2. Циганок В.В. Комбінаторний алгоритм парних порівнянь зі зворотним зв’язком з експертом // Реєстрація, зберігання і оброб. даних. — 2000. — Т. 2, № 2. — С. 92–102.<br>3. Тоценко В.Г., Циганок В.В., Качанов П.Т., Деев А.А., Качанова Е.В., Торба Л.Т. Экспери-ментальное исследование методов получения кардинальных экспертных оценок альтернатив. Ч. I. Методы без обратной связи с экспертом // Проблемы управления и информатики. — 2003. — № 1. — С. 34–48.
+Файлы
+statja.doc
+null

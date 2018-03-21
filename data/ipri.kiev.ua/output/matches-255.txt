@@ -1,0 +1,12 @@
+﻿2012-2-4
+12. — Vol. 14, N 2
+38-47
+alt="" width="50">PDF,DOC
+Algorithm for Calculating the Parameters of the Circular Focusing Microprism Structures
+Antonov E.E.
+The algorithm of calculation parameters of micro-prism elements for focusing the optical images and creating the sensors of bio-sensing systems has been proposed. The calculations of dependence of refraction angle on radius of circular refractive structures for variants of constant microrelief step and for constant depth have been completed. Analysis of ways for improving the optical characteristics by the use of refractive-diffractive structures have been performed. Tabl.: 1. Fig.: 11. Refs: 6 titles.
+microprism element, relief step, the angle of refraction, reflection coefficient, diffraction of light, chromatism.
+References</td><td>
+File
+2-4.pdf
+null

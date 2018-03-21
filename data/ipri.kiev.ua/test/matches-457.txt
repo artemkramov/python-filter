@@ -1,0 +1,12 @@
+﻿2017-1-9
+17. — Vol. 19, N 1
+72–80
+alt="" width="50">PDF,DOC
+Analysis of risks in network models of projects by means of simulating optimization methods.
+Kuzmychov A.I.
+The risk analysis object is a network model of a unique project, where the duration of the work is probabilistic in nature. The final parameters of the model are the risk assessment of the violation of the planned parameters in the course of the project being that duration or total costs. The parameters are calculated using the integrated technology of simulating optimization. Fig.: 12. Refs: 7 titles.
+simulation and optimization modelling, risk analysis, project management, network model of a project, instrumental environment of ASP Excel, simulating optimization.
+References</td><td>
+File
+2017-1-9.pdf
+null

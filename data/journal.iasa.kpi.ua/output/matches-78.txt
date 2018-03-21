@@ -1,0 +1,11 @@
+﻿s
+Javanshir F. Mamedov</em><br>The Information Technologies and Programming department of Sumgait State University, Sumgait<br>Azerbaijan</p><p></p><p>Mamedov Javanshir Firudin oglu,</p><p>Doctor of Technical Sciences, a professor at the Information Technologies and Programming department of Sumgait State University, Sumgait, Azerbaijan.</p><p></p></div><div></div><div><p><em>Arzu G. Aliyeva</em><br>The Information Technologies and Programming department of Sumgait State University, Sumgait<br>Azerbaijan</p><p></p><p>Aliyev Arzu Gabil gizi,</p><p>an assistant at the Information Technologies and Programming department of Sumgait State University, Sumgait, Azerbaijan.</p><p>
+117204
+7035">No 3 (2017
+117204/0">Mamedov
+Creation of a corporative network for the composes scheme of the technological park of a higher educational school
+Javanshir F. Mamedov, Arzu G. Aliyeva
+The problem of creating a corporate network of the proposed composes scheme of the technological park on the basis of the Sumgait State University is considered in the article. The main requirements for the effective functioning of the technological park in higher educational establishments are determined. The creation of a corporate network in a technology park based on functional subsystems of educational, research, production and economic purposes, which would ensure effective automated information interaction of the subsystems of the SSU industrial park, and also planning information flows between these divisions, is justified. The structure of technical support on the basis of the chosen means for the organization of a reliable corporate network of the technological park is proposed. The structure of the schematic deployment of technical units of the corporate network on the basis of UniFi in the technopark of the Sumgait State University is proposed.</div><br></div><div><h4>Keywords</h4><br><div>technopark of HES; scientific profile; corporative network; route planning; information flow
+117204/111294">PDF (Русский)</a
+—
+><br><br>DOI:<a href="https://doi.org/10.20535/SRIT.2308-8893.2017.3.06">https://doi.org/10.20535/SRIT.2308-8893.2017.3.06</a

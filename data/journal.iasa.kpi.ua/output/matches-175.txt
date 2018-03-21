@@ -1,0 +1,11 @@
+﻿s
+М. О. Bazhenov</em><br>аспірант Національного технічного університету "Харківський політехнічний інститут", Україна, Харків<br>Ukraine</p><p></p><p>Баженов Микола Олександрович,</p><p>аспірант Національного технічного університету "Харківський політехнічний інститут", Україна, Харків</p><p></p></div><div></div><div><p><em>B. М. Sokolov</em><br>аспірант Національного технічного університету "Харківський політехнічний інститут", Україна, Харків<br>Ukraine</p><p>Соколов Борис Миколайович, аспірант Національного технічного університету "Харківський політехнічний ін ститут", Україна, Харків
+71735
+3681">No 3 (2012
+71735/0">Bazhenov
+Ensuring the quality of formation of the requirements conceptual model for the software
+М. О. Bazhenov, B. М. Sokolov
+The problem of formation of requirements conceptual model for the software on the basis of the requirements, which are received from the stakeholders. The model is formed on the basis of the method of semantic-syntactic representation of the text. The procedure of quality control consists of analysis of the relevance of the document, PAS (Predicate Argument Structure) analysis and model validation by stakeholders. An example of glossaries filling was made.
+71735/66732">PDF (Русский)</a
+—
+null

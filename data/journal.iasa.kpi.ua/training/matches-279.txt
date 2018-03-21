@@ -1,0 +1,11 @@
+﻿s
+O. E. Kirik</em><br><br>Ukraine</p><p></p><p>Кірік Олена Євстафіївна,</p><p>старший науковий співробітник, кандидат фізико-математичних наук, вчений секретар Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p></p></div><div></div><div><p><em>V. V. Ostapenko</em><br><br>Ukraine</p><p></p><p>Остапенко Валентин Володимирович,</p><p>професор, доктор фізико-математичних наук, завідувач відділу Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p>
+106723
+6349">No 4 (2010
+106723/0">Kirik
+Optimal hydroresources distribution in network-structured irrigation systems
+O. E. Kirik, V. V. Ostapenko
+A mathematical model of transportation and distribution of resources with a generalized conservation law is created. For this optimization problem of flow retention within the given limits, algorithms for efficient nonlinear programming are developed. The proposed approach gives the opportunity to solve problems of flow distribution with multitype nonlinear objective functions for networks with any number of closed loops.
+106723/101758">PDF (Українська)</a
+—
+null

@@ -1,0 +1,12 @@
+﻿2016-1-2
+16. — Vol. 18, N 1
+14–22
+alt="" width="50">PDF,DOC
+Development of representations of hyperbolic and trigonometric nonlinearities inside the system of generalized quaternions
+Kalinovsky Ja.A., Boyarinova Yu.E., Sinkova T.V., Sukalo A.S.
+It is considered the process of mathematical modeling for representations of hyperbolic and trigonometric nonlinearities in hypercomplex number system of generalized quaternions by the method of associated system of differential equations. Some properties of the representations and their relationship with the representations of nonlinearities in certain noncommutative hypercomplex numerical systems having dimension four have been analyzed. Fig.: 4. Refs: 11 titles.
+hypercomplex number system, basis, hypercomplex functions, hyperbolic functions, trigonometric functions, generalized of the quaternions.
+References</td><td>
+File
+1-2.pdf
+null

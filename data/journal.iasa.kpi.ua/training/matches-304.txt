@@ -1,0 +1,11 @@
+﻿s
+N. V. Krapuhina</em><br><br>Russian Federation</p><p></p><p>Крапухіна Ніна Володимирівна,</p><p>професор, кандидат технічних наук, директор Московського державного інституту сталі та сплавів, завідувач кафедри інженерної кібернетики, Росія, Москва</p><p></p></div><div></div><div><p><em>S. V. Pronichkin</em><br><br>Russian Federation</p><p></p><p>Пронічкін Сергій Васильович,</p><p>аспірант Московського державного інституту сталі та сплавів, Росія, Москва</p><p></p></div><div></div><div><p><em>A. S. Rykov</em><br><br>Russian Federation</p><p></p><p>Риков Олександр Семенович,</p><p>академік РАПН, доктор технічних наук, професор кафедри автоматизованих систем управління Московського державного інституту сталі та сплавів, Росія, Москва</p><p>
+106965
+6358">No 2 (2010
+106965/0">Krapuhina
+Formation of expert subgroups based on consensus and deriving generalized estimate of multiattribute objects
+N. V. Krapuhina, S. V. Pronichkin, A. S. Rykov
+New algorithms for handling expert estimates of multiattribute objects are considered and used for estimation of the competences of students estimated by several experts using many criteria. The application of the developed algorithms helps to make a more adequate decision to preferences of the PMD compared to the existing algorithms.
+106965/101966">PDF (Русский)</a
+—
+null

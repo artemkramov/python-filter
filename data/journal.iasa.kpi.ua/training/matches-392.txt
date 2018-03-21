@@ -1,0 +1,11 @@
+﻿s
+A. A. Kobozeva</em><br>Кафедра прикладної математики та інформаційних технологій у бізнесі Одеського національного університету, Одеса<br>Ukraine</p><p></p><p>Кобозєва Алла Анатоліївна,</p><p>кандидат фізико-математичних наук, доцент кафедри прикладної математики та інформаційних технологій у бізнесі Одеського національного університету, Одеса, Україна.</p><p></p></div><div></div><div><p><em>E. V. Narimanova</em><br>Кафедра прикладної математики та інформаційних технологій у бізнесі Одеського національного університету, Одеса<br>Ukraine</p><p></p><p>Наріманова Олена Вікторівна,</p><p>аспірантка кафедри прикладної математики та інформаційних технологій у бізнесі Одеського національного університету, Одеса, Україна.</p><p>
+108906
+6467">No 3 (2008
+108906/0">Kobozeva
+Stegoimage disturb sensitivity estimate
+A. A. Kobozeva, E. V. Narimanova
+Mathematical foundation, on the basis of which was created the method of stegoimage disturb sensitivity estimate, regardless of explotable steganographic algorithm and area of immersion of secret information, permissive to formulate the process of solving a problem of selection a container with the least sensitivity to the disturb influence of stegoimage, was developed.
+108906/103822">PDF (Русский)</a
+—
+null

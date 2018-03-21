@@ -1,0 +1,12 @@
+﻿Maksimei
+05. — Vol. 7, N 1
+71-87
+width="50" alt="">PDF,DOC
+Technology of Imitation and Processing the Results of Automation System of Modeling Prob-abilistic Technological Processes of Production
+Maximey I.V., Goncharov A.N., Smorodin V.S.
+Features of imitation technology and processing the results of modeling in the operational environ-ment of the system for automation of modeling probabilistic technological processes of production are reported. Composition of operators for imitation organization, collection and processing a standard imitation statistics is given. Tabl.: 1. Refs: 8 titles.
+technology of imitation, processing the results of modeling, probabilistic technological processes of production.
+References</td><td>1. Зайченко Ю.П. Исследование операций: учебное пособие. — К.: Издат. дом. «Слово», 2002. — 688 с.<br>2. Жогаль С.П., Максимей И.В. Задачи и модели исследования операций. Ч. 1. Аналитические модели исследования операций: Учебное пособие. — Гомель: БелГУТ, 1999. — 109 с.<br>3. Максимей И.В. Имитационное моделирование на ЭВМ. — М.: Радио и связь, 1988. — 222 с.: ил.<br>4. Максимей И.В., Смородин В.С., Сукач Е.И., Соболь И.В. Система автоматизации модели-рования вероятностных технологических процессов, реализующая агрегатный способ имитации // Проблемы программирования. — 2004. — № 4. — С. 25–31.<br>5. Максимей И. В., Серегина В. С. Задачи и модели исследования операций. Ч. 2. Методы не-линейного и стохастического программирования: Учебное пособие. — Гомель: БелГУТ, 1999. — 103 с.<br>6. Фаронов П.В., Шумаков В.В. Delphi 5. Руководство разработчика баз данных. — М.: Но-лидж, 2000. — 640 с.: ил.<br>7. Боровиков В.П. STATISTIKA. Искусство анализа данных на компьютере: для профессио-налов. 2-е изд. — СПб.: Питер, 2003. — 688 с.: ил.<br>8. Максимей И.В., Левчук В.Д., Жогаль С.П. и др. Задачи и модели исследования операций. Ч. 3. Технология имитации на ЭВМ и принятие решений: Учебное пособие. — Гомель: БелГУТ, 1999. — 150 с.
+File
+RZOD2_04.doc
+null

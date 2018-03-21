@@ -1,0 +1,12 @@
+﻿2016-1-4
+16. — Vol. 18, N 1
+32–41
+alt="" width="50">PDF,DOC
+Traces of editing in digital phonograms performed by method of excision and transposition of fragments
+Rybalsky O.V., Solovyov V.I., Zhuravel V.V.
+It is considered the processes taking place when editing of digital phonograms performed by method of excision and transposition of fragments in such phonograms. There are theoretically and experimentally demonstrated that edition, made by the method, lead to traces inside the treated digital phonograms. It is shown that the traces of such a treatment appears as an additional high-frequency spectral constituents and change the fractal structure of speech signals and signals of noises of pauses in area of small scales of similar structures. Fig.: 6. Refs: 6 titles.
+apparatus of the digital audio recording, digital phonogram, noises of phonogram, noises of apparatus of record, spectrum of signals, fractal struct.
+References</td><td>
+File
+1-4.pdf
+null

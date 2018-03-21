@@ -1,0 +1,12 @@
+﻿2016-4-2
+16. — Vol. 18, N 4
+12–23
+alt="" width="50">PDF,DOC
+Constructing representations of the logarithmic function in the same class of commutative hypercomplex numerical systems of fourth dimension.
+Kalinovskiy J.A., Boyarinova Y.E., Sukalo A.S.
+The process of constructing a class of commutative hypercomplex number systems of the fourth dimension with the help of doubling Grassmann-Clifford procedure has been considered. It has been synthesized representation of exponential and logarithmic functions of the hypercomplex variable in this class, and apply these methods to other classes of commutative hypercomplex numerical systems. Refs: 16 titles.
+hypercomplex number system, the exponential function, logarithmic function, the process of doubling the Grassmann-Clifford.
+References</td><td>
+File
+4-2.pdf
+null

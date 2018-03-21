@@ -1,0 +1,12 @@
+﻿Rubish
+08. — Vol. 10, N 2
+32-36
+width="25px" alt="">PDF,DOC
+Apparatus for Investigation of Liquid Etching Processes of Film Objects — Media for Holog-raphy and Optical Information Recording
+Tarnaj A.A., Kyrylenko V.K., Rubish V.M., Gera E.V.
+An apparatus for investigations of liquid etching kinetics of thin chalcogenide vitreous films (inor-ganic resist) in static, dynamic with circulation and dynamic with utilization of the etchant, modes in the temperature range of 293–353 K and obtaining an information microrelief is developed. Fig.: 4. Refs.: 10 titles.
+inorganic resist, liquid etching, dissolving rate, microrelief.
+Ссылки</td><td>1. Семак Д.Г., Різак В.М., Різак І.М. Фототермоструктурні перетворення халькогенідів. — Ужгород: Закарпаття, 1999. — 392 с.<br>2. Петров В.В., Крючин А.А., Шанойло С.М., Костюкевич С.А., Кравец В.Г., Лапчук А.С. Оп-тические диски: история, состояние, перспективы развития. — К.: Наук. думка, 2003. — 176 с.<br>3. Teteris J., Reinfelde M. Application of Amorphous Chalcogenide Semiconductor Thin Films in Optical Recording Technologies // J. of Optoelectronics and Advanced Materials. — 2003. — Vol. 5, N 5. — P. 1355–1360.<br>4. Петров В.В., Крючин А.А., Костюкевич С.О., Рубіш В.М. Неорганічна фотолітографія. — К.: ІМФ НАНУ, 2007. — 195 с.<br>5. Венгер Е.Ф., Мельничук А.В., Стронский А.В. Фотостимулированные процессы в халько-генидных стеклообразных полупроводниках и их практическое применение. — К.: Академперио-дика, 2007. — 283 с.<br>6. Борн М., Вольф Э. Основы оптики. — М.: Наука, 1973. — 721 с.<br>7. Пинзеник В.П., Фролова Н.П., Туряница И.И. Селективное травление светочувствительных слоев систем As(Ge)–S(Se) // Некристал. полупроводники. — Ужгород: Патент, 1989. — Ч. 1. — С. 228–230.<br>8. Пинзеник В.П., Фролова Н.П., Туряница И.И. Фотоиндуцированные изменения в слоях ха-лькогенидных стеклообразных полупроводников и параметры селективного растворения // Успехи научной фотографи. — 1990. — Т. 26. — С. 50–52.<br>9. Mednikarov B.D. Vacuum deposited As2Se3 — Photoresist. Some Properties and Outlooks // Bulgarian Chemical Communs, 1993. — Vol. 26, N 3/4. — P. 502–513.<br>10. Зенкин С.А., Мамедов С.Б., Михайлов М.Д. и др. Механизм взаимодействия монолитных стекол и аморфных пленок системы As–S с растворами аминов // Физ. и химия стекла. — 1997. — Т. 23, № 5. — С. 560–568.
+Файлы
+statja.doc
+null

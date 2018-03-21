@@ -1,0 +1,11 @@
+﻿s
+P. P. Maslyanko</em><br><br>Ukraine</p><p></p><p>Маслянко Павло Павлович,</p><p>кандидат технічних наук, доцент кафедри прикладної математики Національного технічного університету України «КПІ», Київ</p><p></p></div><div></div><div><p><em>Y. R. Zemlyanskiy</em><br><br>Ukraine</p><p></p><p>Землянський Юрій Романович,</p><p>аспірант Національного технічного університету України «КПІ», Київ</p><p></p></div><div></div><div><p><em>A. V. Riabushenko</em><br><br>Ukraine</p><p></p><p>Рябушенко Андрій Віталійович,</p><p>аспірант Національного технічного університету України «КПІ», Київ</p><p>
+106489
+6337">No 1 (2011
+106489/0">Maslyanko
+System analysis of forecasting methods for financial and investment activities
+P. P. Maslyanko, Y. R. Zemlyanskiy, A. V. Riabushenko
+System analysis of forecasting methods for financial and investment activities is implemented in order to create a forecasting component for control system of financial and investment activities. Criteria and methods for automatic selection of forecasting models are developed. The selection algorithm of the best forecasting model among the possible according to the given criteria is proposed.
+106489/101583">PDF (Українська)</a
+—
+null

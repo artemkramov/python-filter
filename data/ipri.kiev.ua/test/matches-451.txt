@@ -1,0 +1,12 @@
+﻿2017-1-4
+17. — Vol. 19, N 1
+34–39
+alt="" width="50">PDF,DOC
+Scientometric analysis of co-word networks taken from publications of a scientific team.
+Lande D.V., Balagura I.V., Pohorilyi S.D., Dubchak N.A.
+The using of co-word networks for determining the priority scientific topics of research are suggested. It is proposed how to define terms that are the intersection of the networks of the co-authors of a scientific team and those common in the field of research in the abstract database. Testing the algorithm is presented on the example of the analysis of the term networks on scientific publications in physics in the Scopus database of the research team of the Kiev National University Taras Shevchenko. Fig.: 4. Refs: 6 titles.
+co-word networks, scientific team, abstract database, Scopus, priority scientific topics.
+References</td><td>
+File
+2017-1-4.pdf
+null

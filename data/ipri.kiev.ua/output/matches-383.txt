@@ -1,0 +1,12 @@
+﻿2015-2-1
+15. — Vol. 17, N 2
+3–13
+alt="" width="50">PDF,DOC
+Features of the energy distribution in ultrasonic welding for microprism optical elements
+Tоkalin O.A.
+A model of wave energy transfer in axial-symmetric optical elements during ultrasonic welding is proposed. Given the symmetry of the model obtained an approximate solution of the boundary value problem was obtained, wave amplitudes of longitudinal and transverse vibrations and resonance frequency were defined. The planar distribution of the elastic energy and the contributions of it components were calculated. The main contribution to the сentral maximum of the energy distribution in the working frequency range was given by planar oscillations. Reducing the negative impact on the weld quality is the correction of energy absorption due to the local increase of wave damping due to internal stresses. Fig.: 5. Refs: 10 titles.
+ultrasonic welding, the elastic vibrations and waves, elastic energy, resonance.
+References</td><td>
+File
+2-1.pdf
+null

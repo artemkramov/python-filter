@@ -1,0 +1,12 @@
+﻿2013-2-9
+13. — Vol. 15, N 2
+82–89
+alt="" width="50">PDF,DOC
+Cyclicity of Control Operations on an Arbitrary Modulus
+Mаtоv О.Ya., Vаsylenko V.S., Vаsylenko M.Yu.
+For the tasks of ensuring integrity of information objects, it is discussed some approaches for identi-fying and assessing to cyclical control operations by an arbitrary module. Refs: 4 titles.
+immunity, control modulo cycle, cyclicity.
+References</td><td>
+File
+2-9.pdf
+null

@@ -1,0 +1,12 @@
+﻿2012-2-10
+12. — Vol. 14, N 2
+98-105
+alt="" width="50">PDF,DOC
+Elements of Combinatorial Approach in Determining the Consistency Spectral Coefficient of Experts’ Pairwise Comparisons
+Tsyganok V.V.
+The spectral approach is one of the most theoretically proven approaches to determining the con-sistency of a set of expert paired comparisons with support decision making in weakly structured do-mains. In order to improve the reliability determination of the consistency spectral coefficient for matrices of paired comparisons, a more complete usage of the information contained in the matrix, using the elements of a combinatorial approach to the formation of the components of the spectra is proposed. Applying this approach avoids unnecessary references to experts during organizing feedback to achieve a sufficient level of consistency. Tabl.: 3. Fig.: 3. Refs: 10 titles.
+expert estimation, paired comparison, the spectral approach to determining the consistency, combinatorial approach to determining the weights of alternatives, decision-making support.
+References</td><td>
+File
+2-10.pdf
+null

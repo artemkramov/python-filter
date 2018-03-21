@@ -1,0 +1,12 @@
+﻿2016-4-3
+16. — Vol. 18, N 4
+24–32
+alt="" width="50">PDF,DOC
+Constructing representations of the logarithmic function in the same class of commutative hypercomplex numerical systems of fourth dimension.
+Dodonov O.G., Kuzmichov A.I.
+Optimal purpose — «what/who to where for best allocation / assignment / placement» is the most common type of practical situations. Using example on solving several problems of specific purposes with different difficulty levels, it is shown an equipment construction and implementation of appropriate computer model solvers using Excel Solver, OpenSolver, WinQSB which are easy to apply for an average researcher or user. Fig.: 6. Refs: 8 titles.
+linear (quadratic generalized) purpose problem, location and layout of objects, appointment to narrow places and targets, problems on matching, matching and assignment problems, location-allocation and layout problems.
+References</td><td>
+File
+4-3.pdf
+null

@@ -1,0 +1,11 @@
+﻿s
+E. G. Levchenko</em><br><br>Ukraine</p><p></p></div><div></div><div><p><em>R. B. Prus</em><br><br>Ukraine</p><p>
+106474
+6335">No 2 (2011
+106474/0">Levchenko
+Economic optimization problems in data security systems
+E. G. Levchenko, R. B. Prus
+The mathematical model and method of determination of the optimal distribution of the resources between the objects of data security are developed. A criterion function on the basis of which the illustrative calculations in a system of two information objects were done, is formulated. The directions of the proposed method development are outlined.
+106474/101569">PDF (Українська)</a
+—
+null

@@ -1,0 +1,12 @@
+﻿2012-4-5
+12. — Vol. 14, N 4
+41–51
+alt="" width="50">PDF,DOC
+Scientometrics Studies of the Co-Authorship Networks of the «Ukrainika naukova» Database
+Lande D.V., Balagura I.V.
+The study of collaboration patterns for various scientific area of Ukraine, using complex networks, has been performed. The employment of monopoly position estimation methods for some scientific areas has been proposed. The rich-club phenomenon was detected for coauthorship networks. The coauthorship networks of mathematics, physics, economics, low, linguistics were studied using data of the «Ukrainika naukova» abstract database. It has been demonstrated that Pareto-Lotka principle is correctly fulfilled for co-authorship network nodes. Tabl.: 4. Fig.: 5. Refs: 29 titles.
+co-authorship networks, rich-club phenomenon, the «Ukrainika naukova» abstract database, UKRMARC format.</td><td>
+References</td><td>
+File
+4-5.pdf
+null

@@ -1,0 +1,12 @@
+﻿2012-4-2
+12. — Vol. 14, N 4
+11–23
+alt="" width="50">PDF,DOC
+The Use of Hyper-Complex Number Systems for Mathematical Modeling of Limit Modes Electrical Systems
+Klipkov S.I.
+It has been considered restrictions of classical complex variable theory to analyze complex equa-tions for steady-state mode electrical systems due non-analyticity complex power as a function of com-plex voltages. It is shown that the vector components of complex real hyper-complex solutions appear in a subset of the domain of existence of established modes of the confluent complex matrices first approximation, the formation of which uses the notion pseudo-derivative of the. Thus, that significantly simplifies the mathematical modeling of limit modes for electrical systems. Tabl.: 2. Fig.: 1. Refs: 15 titles.
+hyper-complex numerical system, electrical system, power complex, analytical function.</td><td>
+References</td><td>
+File
+4-2.pdf
+null

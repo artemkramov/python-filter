@@ -1,0 +1,12 @@
+﻿2015-1-9
+14. — Vol. 17, N 1
+99-107
+alt="" width="50">PDF,DOC
+Encoding algorithms of information objects in the code of conditional deductions
+Matov O.Ya., Vasylenko V.S.
+The possibilities of application of algorithms for encoding information objects in the code conditional deductions have been considered. Refs: 5 titles.
+coding, information objects, integrity.
+References</td><td>
+File
+1-9.pdf
+null

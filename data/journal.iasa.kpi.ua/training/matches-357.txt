@@ -1,0 +1,11 @@
+﻿s
+I. I. Kovalenko</em><br><br>Ukraine</p><p></p><p>Коваленко Ігор Іванович,</p><p>професор, доктор технічних наук, завідувач кафедри програмного забезпечення автоматизованих систем Національного університету кораблебудування ім. адм. Макарова, Україна, Миколаїв</p><p></p></div><div></div><div><p><em>O. A. Kudin</em><br><br>Ukraine</p><p></p><p>Кудін Олег Олексійович,</p><p>Науковий співробітник Навчально-наукового центру інформаційних технологій Національного університету кораблебудування ім. адм. Макарова, Україна, Миколаїв</p><p>
+108432
+6423">No 2 (2009
+108432/0">Kovalenko
+Modeling of module systems using the discrete theory of patterns
+I. I. Kovalenko, O. A. Kudin
+Principles of the discrete theory of patterns and pattern networks, which is new trend in analyzing and simulating module systems are described. Examples of the use of pattern networks in modeling local networks and notation of scripts on the basis of the AND-OR-chart (trees) are demonstrated.
+108432/103382">PDF (Русский)</a
+—
+null

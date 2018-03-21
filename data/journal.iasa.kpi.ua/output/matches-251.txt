@@ -1,0 +1,11 @@
+﻿s
+V. V. Kriuchkovsky</em><br><br>Ukraine</p><p></p></div><div></div><div><p><em>D. V. Khodakov</em><br><br>Ukraine</p><p>
+106470
+6335">No 2 (2011
+106470/0">Kriuchkovsky
+Implementation of decisions
+V. V. Kriuchkovsky, D. V. Khodakov
+Processes of decisions implementation concerning enterprise, are analysed in detail. Mathematical control models of decision implementation are developed. The processes of preparation, making and implementation the decisions are combined in a single process, which provides one target function — solution of the optimal system control problem (object of management) which eliminates the gap, which exists earlier, between preparation, making the decisions and their implementation.
+106470/101565">PDF (Русский)</a
+—
+null

@@ -1,0 +1,10 @@
+﻿null
+I. I. Korol</em><br><br>Ukraine</p><p></p><p>Король Ігор Іванович,</p><p>доцент, кандидат фізико-математичних наук, доцент кафедри диференціальних рівнянь та математичної фізики Ужгородського національного університету, Україна, Ужгород</p><p>
+107280
+6372">No 4 (2009
+107280/0">Korol
+Integration of perametrized multi-point boundary value problems
+I. I. Korol
+By using a modification of a numerical-analytic method for successive approximations, the problems of the existence and construction of approximate solutions for multi-point boundary value problems are considered for the systems of ordinary nonlinear differential equations with unknown parameters.
+107280/102248">PDF (Українська)</a
+—

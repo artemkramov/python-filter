@@ -1,0 +1,11 @@
+﻿s
+V. I. Ivanenko</em><br>професор Національного технічного університету України "КПІ", Україна, Київ<br>Ukraine</p><p></p><p>Іваненко Віктор Іванович,</p><p>професор, доктор технічних наук, професор Національного технічного університету України "КПІ", Україна, Київ</p><p></p></div><div></div><div><p><em>V. M. Mykhalevich</em><br>доцент кафедри математики Національного університету "Києво-Могилянська академія", Україна, Київ<br>Ukraine</p><p></p><p>Михалевич Вадим Михайлович,</p><p>доцент, кандидат фізико-математичних наук, доцент кафедри математики Національного університету "Києво-Могилянська академія", Україна, Київ</p><p>
+71757
+3681">No 3 (2012
+71757/0">Ivanenko
+To the uncertainty in the parametric schemes of decision-making problems
+V. I. Ivanenko, V. M. Mykhalevich
+A sufficiently broad class of parametric problems of decisionmaking, considered from the point of obtaining the criteria of optimality, the relationship of preferences on the solution, can be divided into two subclasses: problem with uncertainty (equivocation of the solution) and problems without uncertainty (so-called deterministic problems). Criterion of existence of uncertainty is necessary for classification, and such criterion are suggested in the work.
+71757/66751">PDF (Русский)</a
+—
+null

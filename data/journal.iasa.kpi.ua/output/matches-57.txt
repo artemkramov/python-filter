@@ -1,0 +1,11 @@
+﻿s
+V. V. Yurchenko</em><br></p><p></p></div><div></div><div><p><em>А. O. Litovchenko</em><br></p><p>
+37426
+2130">No 4 (2014
+37426/0">Yurchenko
+Emi execution service - the key to provide interoperability of Grid infrastructures
+V. V. Yurchenko, А. O. Litovchenko
+Implementation of the EMI Execution Service (ES) specification will ensure inter-operability in Grid infrastructures, including the NGI-UA, since a single set of specifica-tions and a common job management interface will be used. This paper presents the results of the study of applying of the EMI-ES specification to provide interoperability in the Ukrainian national grid. During the research next features were studied: the structure of the EMI-ES specification, developed on the basis of the analysis of computing services in industrial environments by Working Group OGF Production Grid Infrastructure (PGI), functionality in data staging, presented by elements of stage-in (file download), and stage-out (extraction of results). The modular structure of the EMI-ES, which allows launching cross submissions between different middleware and computing elements, is represented. The execution order of the ES submission command is reviewed and shown schematically. The implementation of the EMI-ES service in middleware ARC is described. Next steps in development of the EMI Execution Service (ES) are also described.
+37426/33559">PDF</a></div><div><h4>References</h4><br><div><p>EMI-Compute. — http://www.eu-emi.eu/compute.</p><p>EMI Execution Service Factsheet. — http://www.eu-emi.eu/documents/10147/31168/EMI-ES.pdf.</p><p>EMI Execution Service Specification. — https://twiki.cern.ch/twiki/pub/EMI/EmiExecutionService/ EMI-ES-Speci_cation v1.16.odt.</p></div><br
+<p>1. EMI-Compute. — http://www.eu-emi.eu/compute.</p><p>2. EMI Execution Service Factsheet. — http://www.eu-emi.eu/documents/10147/31168/EMI-ES.pdf.</p><p>3. EMI Execution Service Specification. — https://twiki.cern.ch/twiki/pub/EMI/EmiExecutionService/ EMI-ES-Speci_cation v1.16.odt.<br><br></p>
+null

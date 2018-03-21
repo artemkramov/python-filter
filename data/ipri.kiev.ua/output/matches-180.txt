@@ -1,0 +1,12 @@
+﻿2010-3-6
+10. — Vol. 12, N 2
+65-70
+alt="">PDF
+Development of a Distributed Geoinformation System for Emergency Control
+Kuzomin А.Ya., Klymov I.N., Buhtiyarova I.A.
+Main principles of constructing a distributed geoinformation system for emergency control are considered. The issues of detailed implementation, functioning, reading and recording operations in similar solutions are investigated. Fig.: 1. Refs: 3 titles.
+emergency, GIS, distributed systems, data storage, data clusters.
+References</td><td>1. Галиновский О.И. Методологические проблемы регистрации информационных ресурсов / О.И. Галиновский // Доклады III Международного конгресса «Развитие информатизации и системы научно-технической информации в Республике Беларусь. Стратегия формирования информационного общества». — Минск, 2003.<br>2. Kuzemin A. Situation Centres in Modern Safe / A. Kuzemin // International Journal on Information Theories &amp; Applications. — Bulgaria. — 2004. — Vol. 11, N 1.— P. 79–82.<br>3. Кривоногов С.К. Правовые основы использования GPS в России / С.К. Кривоносов // ГИС Обозрение. — М.: Издательский центр геоинформационных технологий СО РАН, 2003. — С. 7–11.
+Файлы
+2010-3-6.pdf
+null

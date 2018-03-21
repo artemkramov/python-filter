@@ -1,0 +1,11 @@
+﻿s
+S. A. Smirnov</em><br></p><p></p></div><div></div><div><p><em>I. M. Tereshchenko</em><br></p><p>
+43410
+2531">No 1 (2015
+43410/0">Smirnov
+The procedure for computing the local currency in reflexive games
+S. A. Smirnov, I. M. Tereshchenko
+The problem of decision making under conflict situation with multi-criteria uncertainty was considered. We proposed combining the usual way of finding a solution for a complex system that used the utility theory with the game approach under conditions of a reflexive interaction. Reflexive behavior modeling provides the ability to analyze a situation where decisions are different from ones for non-reflexive rational behavior, explore and reveal the internal reasons for this behavior. This problem solution is based on the use of the concept of local currency, proposed by V.A. Lefebvre. His original formulation of the problem has been rethought with the aim to take into account an ambiguity of interests of players. On the basis of this concept extension, a procedure was created to determine the local currency for resolving the conflict in terms of the multi-criteria choice. To calculate an accurate assessment of the opponent's local currency based on nominally known criteria, the interactive method of Geoffrion-Dyer-Feinberg was used. Its usage allowed to find the gradient vector of the local currency with local substitution rates, which were determined by the expert procedure, and determine the efficient reflexive strategy for a&nbsp;player.
+43410/39813">PDF (Українська)</a></div><div><h4>References</h4><br><div><p>Лефевр В.А., Баранов П.В., Лепский В.Е. Внутренняя валюта в рефлексивных играх // Техническая кибернетика. — 1969. — № 4. — С. 29–33.</p><p>Денисов А.А. Нетократия и рефлексия: Засекречивание в постиндустриальном обществе // Рефлексивные процессы и управление. — 2007. — 7, № 1. — С. 33–50.</p><p>Ларичев А.И. Теория и методы принятия решений, а также Хроники событий в Волшебных Странах: Учебник. Изд. второе, перераб. и доп. — М.: Логос, 2002. — 392 с.</p><p>Лотов А.В., Поспелова И.И. Многокритериальные задачи принятия решений: Учеб. пособие. — М.: МАКС Пресс, 2008. — 197 с.</p><p>Штойер Р. Многокритериальная оптимизация: теория, вычисления и приложения. — М.: Радио и связь, 1992. — 504 с.</p><p></p></div><br
+—
+null

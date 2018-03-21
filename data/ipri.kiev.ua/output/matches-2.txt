@@ -1,0 +1,12 @@
+﻿Borovickii
+07. — Vol. 9, N 2
+3-16
+width="25px" alt="">PDF,DOC
+Мeasurement of Line-Spread Function of Optical Microscope
+Borovytsky V.N.
+A technique for calculation of a line-spread function of microscope optical system based on using optimal linear spatial filtration of a digital image of a half-plane is proposed. The line-spread functions of typical optical systems of microscopes measured experimentally by the proposed technique are presented. The comparison analysis of experimental and theoretically calculated line-spread functions is performed. Tabl.: 1. Fig.: 5. Refs.: 13 titles.
+optical microscope, spatial resolution, line spread function, digital image, measurement.
+References</td><td>1. Kapitsa H.G. Mycroscopy from the Very Beginning. — 2nd revised edition. — Carl Zeiss Jena, 1997 — 48 p.<br>2. Иванова Т.А., Кирилловский В.К. Проектирование и контроль оптики микроскопов. — Ле-нинград: Машиностроение. Ленингр. отд-ние, 1984. — 231 с., ил.<br>3. Борн М., Вольф Э. Основы оптики: Пер. с англ. С. Н. Бреуса / Под ред. Г. П. Мотулевича. — М.: Наука. — Гл. ред. физ.-мат. лит., 1973. — 720 с.<br>4. Сороко Л.М. Основы голографии и когерентной оптики. — М.: Наука. — Гл. ред. физ.-мат. лит., 1971. — 616 с., ил.<br>5. Mahajan V.N. Optical Imaging and Aberrations. Part II. — Wave Diffraction Optics. — Bel-lingham: SPIE Рress, 2001. — 464 p.<br>6. Williams C.S., Becklund O.A. Introduction to the Optical Transfer Function. — Bellingham: SPIE Press, 2002. — 414 p.<br>7. Шульман М.Я. Измерение передаточных функций оптических систем. — Ленинград: Ма-шиностроение. — Ленингр. отд-ние, 1980. — 208 с., ил.<br>8. Кривояз Л.М., Пуряев Д.Т., Знаменская М.А. Практика измерительной оптической лабора-тории. — М.: Машиностроение, 1974 — 332 с.<br>9. Боровицкий В.Н. Выбор цифровой камеры для оптического микроскопа // Технология и конструирование радиоэлектронной аппаратуры. — 2004. — № 1. — С. 100–104.<br>10. Purity... Unity…Quality for Microscopy and Histology. Каталог компании Electron Microsco-py Sciences. — N XIV. — Ft Washington: EMS, 2004. — 624 р.<br>11. Optics and Optical Instruments. Каталог компании Edmund Industrial Optics. — Barrington: Edmund Industrial Optics, 2006. — 354 p.<br>12. Шестов М.С. Выделение оптических сигналов на фоне случайных помех. — М.: Сов. ра-дио, 1967. — 348 с., ил.<br>13. Шлюфер Е. Обработка сигналов: цифровая обработка дискретизированных сигналов. — К.: Либiдь, 1992. — 296 с., ил.
+Файлы
+Experiment_PSF_short.doc
+null

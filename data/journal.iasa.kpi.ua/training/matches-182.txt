@@ -1,0 +1,11 @@
+﻿s
+S. S. Fedin</em><br>професор кафедри метрології, стандартизації і сертифікації Київського національного університету технологій і дизайну, Україна, Київ<br>Ukraine</p><p></p><p>Федін Сергій Сергійович,</p><p>доцент, доктор технічних наук, професор кафедри метрології, стандартизації і сертифікації Київського національного університету технологій і дизайну, Україна, Київ</p><p></p></div><div></div><div><p><em>N. A. Zubretska</em><br>доцент кафедри метрології, стандартизації і сертифікації Київського національного університету технологій та дизайну, Україна, Київ<br>Ukraine</p><p></p><p>Зубрецька Наталія Анатоліївна,</p><p>доцент, кандидат технічних наук, доцент кафедри метрології, стандартизації і сертифікації Київського національного університету технологій та дизайну, Україна, Київ</p><p></p></div><div></div><div><p><em>A. S. Goncharov</em><br>аспірант кафедри метрології, стандартизації і сертифікації Київського національного університету технологій та дизайну, Україна, Київ<br>Ukraine</p><p></p><p>Гончаров Олександр Сергійович,</p><p>аспірант кафедри метрології, стандартизації і сертифікації Київського національного університету технологій та дизайну, Україна, Київ</p><p>
+71770
+3681">No 3 (2012
+71770/0">Fedin
+The forecasting of production competitiveness according to the whole set of quality attributes based on neural network modeling
+S. S. Fedin, N. A. Zubretska, A. S. Goncharov
+On the basis of formalization the problem of spatial extrapolation in neural network logical basis the approach to creation neural network models of forecasting of different purpose products competitiveness is offered. The neural network model of expert system for assessment and forecasting of competitiveness of the products by the totality of single indicators of quality and price is developed. The practical implementation of model is carried out on the example of the household refrigerators.
+71770/66763">PDF (Русский)</a
+—
+null

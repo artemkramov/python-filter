@@ -1,0 +1,11 @@
+﻿s
+N. I. Alishov</em><br>провідний науковий співробітник Інституту кібернетики НАН України, Київ<br>Ukraine</p><p></p><p>Алішов Надір Ісмаіл-огли,</p><p>доктор технічних наук, старший науковий співробітник, провідний науковий співробітник Інституту кібернетики НАН України, Київ</p><p></p></div><div></div><div><p><em>V. A. Marchenko</em><br>науковий співробітник Інституту кібернетики НАН України, Київ<br>Ukraine</p><p></p><p>Марченко Віталій Анатолійович,</p><p>кандидат технічних наук, науковий співробітник Інституту кібернетики НАН України, Київ</p><p></p></div><div></div><div><p><em>A. N. Mischenko</em><br>аспірант Інституту кібернетики НАН України, Київ<br>Ukraine</p><p></p><p>Міщенко Олександр Миколайович,</p><p>аспірант Інституту кібернетики НАН України, Київ</p><p>
+71977
+4265">No 2 (2012
+71977/0">Alishov
+Algorithms for replacement of keys-containers during streaming encoding information using indirect encryptions
+N. I. Alishov, V. A. Marchenko, A. N. Mischenko
+A new approach of building streaming encoding systems using the indirect method of stenography is described. The algorithms of various implementations of the proposed approach are shown.
+71977/66950">PDF (Русский)</a
+—
+null

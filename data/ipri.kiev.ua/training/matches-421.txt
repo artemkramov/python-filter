@@ -1,0 +1,12 @@
+﻿2016-2-2
+16. — Vol. 18, N 2
+13–21
+alt="" width="50">PDF,DOC
+A study of efficiency usage of representations for functions of hyper-complex variable
+Kalinovsky J.A., Boyarinova Y.E.
+It is investigated the reduction of the amount of calculation when using representations for functions of hyper-complex variable such as exponent, trigonometric and hyperbolic ones as compared with their direct calculation utilizing the summation of infinite power series. Tabl.: 2. Refs: 14 titles.
+hyper-complex number system, the exponential function, trigonometric function, hyperbolic function, the amount of computation.
+References</td><td>
+File
+2-2.pdf
+null

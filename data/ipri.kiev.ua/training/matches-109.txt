@@ -1,0 +1,12 @@
+﻿2009-2-7
+10. — Vol. 12, N 2
+70-76
+alt="">PDF
+Application of Service-Oriented Architectures for Information Resources Integration
+Khramova I.О.
+Some issues of service-oriented architecture application for solving the task of autonomous information resources horizontal integration are considered. Refs: 8 titles.
+service-oriented architecture, information resource, integration, metadata.
+References</td><td>1. ebXML Specs. — Режим доступу: http://www.ebxml.org/specs/index.htm<br>2. UDDI Version 3.0.2 Specification. — Режим доступу: http://www.oasis-open.org/committees/uddi-spec/doc/spec/v3/uddi-v3.0.2-20041019.htm<br>3. SOAP Tutorial. — Режим доступу: http://www.w3schools.com/soap/default.asp<br>4. XML Tutorial. — Режим доступу: http://www.w3schools.com/xml/default.asp<br>5. Черняк Л. SOA и сервисы данных / Л. Черняк // Открытые системы. — 2008. — № 2. — Режим доступу: http://www.osp.ru/os/2008/02/4923630/<br>6. Матов О.Я. Проблеми горизонтальної інтеграції інформаційних ресурсів у багаторівневих організаційних структурах з динамічною конфігурацією / О.Я Матов, І.О. Храмова // Реєстрація, зберігання і оброб. даних. — 2007. —Т.9, № 3. — С. 88–97.<br>7. Матов О.Я. Динамічна інтеграція інформаційних ресурсів єдиної інформаційної інфраструктури ринку електроенергії / О.Я Матов, І.О. Храмова // Функціонування та розвиток ринків електроенергії та газу: зб. наук. праць / Інститут проблем моделювання в енергетиці НАН України ім. Г.Є.Пухова. — К., 2006.— С. 93–98.<br>8. Матов О.Я. Перспективні інформаційні технології та розвиток GRID-систем у високо продуктивних глобально-розподілених обчислювальних інфраструктурах корпоративної співпраці / О.Я Матов, І.О. Храмова // Реєстрація, зберігання і оброб. даних. — 2004. — Т. 6, № 1. — С. 85– 98.
+Файлы
+2009-2-7.pdf
+null

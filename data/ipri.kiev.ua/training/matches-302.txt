@@ -1,0 +1,12 @@
+﻿2013-2-1
+13. — Vol. 15, N 2
+3–16
+alt="" width="50">PDF,DOC
+Resolution and Prismatic Effect of Micro-Prism Fresnel Elements
+Antonov E.E.
+The methods of measuring visual acuity and resolution test charts in ophthalmology and physics have been considered. A stand for the experimental measurement of resolution capability of images using barcode line gratings has been built. The dependence of the resolution of the images formed by the micro-prism Fresnel elements from the value of such prismatic elements has been investigated. The algorithm for the visual acuity definition by means of the resolution test images has been proposed. Tabl.: 1. Fig.: 11. Refs: 11 titles.
+micro-prism element, test barcode line grating, visual acuity, angle of refraction, reflection coefficient, diffraction of light, chromatism.
+References</td><td>
+File
+2-1.pdf
+null

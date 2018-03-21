@@ -1,0 +1,12 @@
+﻿2010-2-18
+10. — Vol. 12, N 2
+198-201
+alt="">PDF
+Optoelectronic Data Stream Processing Devices
+Danilov V.V., Lipinsky A.Y., Rudiakova A.N.
+The analogous and discrete optoelectronic acousto-optic stream data processing devices such as the acousto-optic correlators/convolvers with the eight bit equivalent precision and optoelectronic acousto-optic processors with much higher precision are considered. The mathematical description of the signal transformation processes by the discrete optoelectronic acousto-optic devices is presented. Fig.: 2. Refs: 5 titles.
+data stream processing, acousto-optic correlator/convolver, discrete acousto-optic processor, optoelectronic devices for discrete data processing.
+References</td><td>1. Asakawa K. Photonic Crystal Quantum Dot Integrated Circuit for Innovative All-Optical Digital Processor / K. Asakawa // 4-th International Conference on Advanced Optoelectronics and Lasers (CAOL). — 2008. — P. 18–20.<br>2. Woods D. Parallel and Sequential Optical Computing / D. Woods, T.J. Naughton // Optical Super Computing. — 2008. — Vol. 5172. — P. 70–86.<br>3. Белов П.А. Оптические процессоры: достижения и новые идеи / П.А. Белов, В.Г. Беспалов, В.Н. Васильев [и др.] // Проблемы когерентной и нелинейной оптики: сб. статей; под ред. И.П. Гурова и С.А. Козлова. — СПб: СПбГУ ИТМО, 2006. — 268 с.<br>4. Lipinskii A.Y. Acoustooptic Binary Coding Based on Space-Time Integration and Its Application to Ultrafast High-Resolution Digital-Analog Conversion / A.Y. Lipinskii, A.N. Rudiakova, V.V. Danilov // IEEE Photonics Technology Letters. — 2008.— Vol. 20, N 24. — P. 2087–2089.<br>5. Рудякова А.Н. Оптоэлектронные акустооптические устройства обработки дискретной информации / А.Н. Рудякова, А.Ю. Липинский, В.В. Данилов // Вісник Державного університету інформаційно- комунікаційних технологій. — 2007. —Т. 5, № 4. — С. 51–59.
+Файлы
+2010-2-18.pdf
+null

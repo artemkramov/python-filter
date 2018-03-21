@@ -1,0 +1,10 @@
+﻿null
+V. A. Gorohovatsky</em><br><br>Ukraine</p><p></p><p>Гороховатський Володимир Олексійович,</p><p>кандидат технічних наук, доцент кафедри інформатики Харківського національного університету радіоелектроніки, Україна, Харків</p><p>
+106494
+6337">No 1 (2011
+106494/0">Gorohovatsky
+Estimation of structural objects similarity as sets of component
+V. A. Gorohovatsky
+Problems of image comparison of visual objects in systems of computer vision are considered. The measures of similarity which takes into account distortion and occurrence of the false component in the structural description are suggested. The analysis of properties of methods is implemented, results of computer modeling for real images are described.
+106494/101588">PDF (Русский)</a
+—

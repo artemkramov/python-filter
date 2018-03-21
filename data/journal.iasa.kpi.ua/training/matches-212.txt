@@ -1,0 +1,10 @@
+﻿null
+L. L. Hart</em><br>завідувач лабораторії оптимізації складних систем Дніпропетровського національного університету ім. Олеся Гончара, Україна, Дніпропетровськ<br>Ukraine</p><p></p><p>Гарт Людмила Лаврентіївна,</p><p>доцент, кандидат фізико-математичних наук, завідувач лабораторії оптимізації складних систем Дніпропетровського національного університету ім.&nbsp;Олеся Гончара, Україна, Дніпропетровськ</p><p>
+73342
+4358">No 1 (2012
+73342/0">Hart
+A projection-iteration algorithm of solution the ill-posed integral equations of Volter
+L. L. Hart
+The problem of applying the projection-iteration approach to the solution of ill-posed integral equations of Volter of the first kind is investigated. The comparative analysis of the suggested computational schemes, which use the various ways of a regularization parameter choice is carried out, the practical convergence of these schemes for solving concrete problems is demonstrated.
+73342/68657">PDF (Українська)</a
+—

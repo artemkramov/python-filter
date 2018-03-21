@@ -1,0 +1,12 @@
+﻿2009-1-2
+10. — Vol. 12, N 2
+11-19
+alt="">PDF
+False Conformity Filtration of Key Points Descriptors on the Basis of Geometrical Data Analysis
+Gorohovatsky V.A.
+Questions of structural approaches improvement at the data analysis in systems of computer vision are considered. Filtration methods on the basis of the spatial information as a way of false attributes elimination are investigated. Formalization of a problem is carried out, approaches for clusterisation in the space of geometrical transformations are suggested, results of computer modeling are discussed. Fig.: 2. Refs: 10 titles.
+computer vision, visual objects comparison, key points, descriptors, conformity, filtration, geometrical transformations, clusterisation.
+References</td><td>1. Шапиро Л. Компьютерное зрение / Л. Шапиро, Дж. Стокман; пер. с англ.—М.: Бином, 2006.—752 с.<br>2. Lowe D.G. Distinctive Image Features from Scale-Invariant Keypoints / D.G. Lowe // International Journal of Computer Vision. — 2004. — 60, N 2. — Р. 91–110.<br>3. Путятин Е.П. Распознавание изображений в пространстве инвариантных локальных признаков / Е.П. Путятин, В.А. Гороховатский, С.В. Кузьмин // Радиоэлектроника и информатика. —2006.— № 1(32). — С. 69–73.<br>4. Гороховатский В.А. Иерархия пространственных отношений структурных признаков в задачах сопоставления визуальных объектов / В.А. Гороховатский // Системи управління, навігації та зв’язку. — К.: Центральний наук.-досл. інститут навігації і управління, 2008. — Вип. 3(7). — С. 85–89.<br>5. Прикладная статистика: Классификация и снижение размерности: Справ. изд. / С.А. Айвазян, В.М. Бухштабер, И.С. Енюков, Л.Д. Мешалкин; под ред. С.А. Айвазяна. — М.: Финансы и статистика, 1989. — 607 с.<br>6. Гороховатский В.А. Структурное распознавание изображений на основе моделей голосования признаков характерных точек / В.А. Гороховатский, Е.П. Путятин // Реєстрація, зберігання і оброб. даних.—2008.—Т. 10, № 4.—С. 75–85.<br>7. Duda R.O. Pattern Сlassification / R.O. Duda, P.E. Hart, D.G. Stork. — 2 ed. — Wiley, 2000. —738 p.<br>8. Мандель И.Д. Кластерный анализ / И.Д. Мендель. — М.: Финансы и статистика, 1988. —176 с.<br>9. Путятін Є.П. Методи та алгоритми комп’ютерного зору: навч. посіб. / Є.П. Путятін, В.О. Гороховатський, О.О. Матат. — Харків: ТОВ «Компанія СМІТ», 2006. — 236 с.<br>10. http://www1.cs.columbia.edu/CAVE/software/softlib/coil-20.php
+Файлы
+2009-1-2.pdf
+null

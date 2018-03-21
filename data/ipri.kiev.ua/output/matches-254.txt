@@ -1,0 +1,12 @@
+﻿2012-2-3
+12. — Vol. 14, N 2
+25-37
+alt="" width="50">PDF,DOC
+Mathematical Models of Moving Objects
+Tsybulska Е.O.
+The mathematical formalization methods of the different type motion objects to create a model of the environment in an automated system for monitoring moving objects are considered. The motion objects are presented as an operation of basis transformation using the hyper-complex number system of quaternions. Fig.: 4. Refs: 5 titles.
+mathematical model, moving object, trajectory of motion, quaternion.
+References</td><td>
+File
+2-3.pdf
+null

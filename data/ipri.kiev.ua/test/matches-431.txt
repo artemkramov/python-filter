@@ -1,0 +1,12 @@
+﻿2016-3-3
+16. — Vol. 18, N 3
+20–38
+alt="" width="50">PDF,DOC
+Review of the features and abilities of content-monitoring of national segment inside the Internet
+Lande D.V., Berezin B.A., Dodonov V.A.
+On the example of the Chinese segment of network information space the main comparative characteristics of representation of a national information resource and a world segment of the Internet are considered. Abilities to collect of the Chinese segment of the content by using RSS feeds and software tools for web resources monitoring are shown. Tabl.: 1. Fig.: 18. Refs: 31 titles.
+internet content, the Chinese segment of the Internet, the Worldwide segment of the Internet, RSS feeds, monitoring system.
+References</td><td>
+File
+3-3.pdf
+null

@@ -1,0 +1,10 @@
+﻿null
+Maria Haigh</em><br>Assistant Professor in the School of Information Studies, University of Wisconsin-Milwaukee, USA<br>United States</p><p></p><p>Maria Haigh,</p><p>Assistant Professor in the School of Information Studies, University of Wisconsin-Milwaukee, USA</p><p>
+73126
+4358">No 1 (2012
+73126/0">Haigh
+Requirements engineering for business stakeholders: applying quality views framework to software
+Maria Haigh
+We conducted a survey of more than 300 business stakeholders, asking them to specify their views on software quality requirements within established quality framework. The results showed business role-related differences in specific areas. The paper also considers the implications of these results and their relevance to software requirements analysis.
+73126/68445">PDF</a
+—

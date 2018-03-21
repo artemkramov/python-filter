@@ -1,0 +1,11 @@
+﻿s
+О. М. Bashnyаkov</em><br>старший науковий співробітник Київського національного університету ім. Тараса Шевченка, Україна, Київ<br>Ukraine</p><p></p><p>Башняков Олександр Миколайович,</p><p>кандидат фізико-математичних наук, старший науковий співробітник Київського національного університету ім. Тараса Шевченка, Україна, Київ</p><p></p></div><div></div><div><p><em>V. V. Pichkur</em><br>доцент Київського національного університету ім. Тараса Шевченка, Україна, Київ<br>Ukraine</p><p></p><p>Пічкур Володимир Володимирович,</p><p>доктор фізико-математичних наук, доцент Київського національного університету ім. Тараса Шевченка, Україна, Київ</p><p></p></div><div></div><div><p><em>I. V. Khitko</em><br>молодший науковий співробітник Київського національного університету ім. Тараса Шевченка, Україна, Київ<br>Ukraine</p><p></p><p>Хітько Іван Володимирович,</p><p>кандидат фізико-математичних наук, молодший науковий співробітник Київського національного університету ім. Тараса Шевченка, Україна, Київ</p><p>
+71777
+3681">No 3 (2012
+71777/0">Bashnyаkov
+Conditions of practical stability of discrete systems and Lyapunov functions
+О. М. Bashnyаkov, V. V. Pichkur, I. V. Khitko
+Building of optimal estimates of initial data sets and phase constraints for discrete systems with help of Lyapunov functions is considered. Optimal estimates of initial data sets in the form of a ball and ellipsoid classes are obtained for linear discrete systems with convex phase constraints.
+71777/66769">PDF (Українська)</a
+—
+null

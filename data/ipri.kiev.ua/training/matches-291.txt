@@ -1,0 +1,12 @@
+﻿2013-1-2
+13. — Vol. 15, N 1
+14-22
+alt="" width="50">PDF,DOC
+Development of Algorithms for Accelerated Computation of Elements of Recurrent Sequences for Cryptographic Purposes
+Iaremchuk Iu.E.
+It has been presented algorithms for fast computation of elements of recurrent Vk sequences for positive and negative values of the n index of this sequence. For each of these values, it was considered two possible algorithm variants — based both on the binary method, and on the method of decomposing the sequence element index. It has been obtained some complexity evaluations of the presented algorithms showing that the complexity of the Vk sequence computing under the module is approximately at the same level as the corresponding exponentiation, which enables efficient use of recurrent Vk and Uk sequences for various cryptographic purposes. Refs: 8 titles.
+recurrent sequence, information, information security, cryptography.
+References</td><td>
+File
+1-2.pdf
+null

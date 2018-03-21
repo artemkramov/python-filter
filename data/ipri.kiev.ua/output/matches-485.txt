@@ -1,0 +1,12 @@
+﻿Kadenko
+06. — Vol. 8, N 2
+100-110
+width="25px" alt="">PDF,DOC
+Relative Сriterion Weight Calculation Based on Ordinal Estimates
+Kadenko S.V.
+Relative criterion weight calculation method based on ordinal estimates is considered. The dis-cussed method is an iteration one similar to neuronal network learning methods. Problem statement, de-scription of each algorithm step and results of its testing, as well as examples and tables illustrating the work of the specified method are proposed. Tabl.: 5. Fig.: 6. Refs: 4 titles.
+decision-making, ordinal estimates, ranking, relative weight coefficient, learning algorithm, learning epoch.
+References</td><td>1. Тоценко В.Г. Методы и системы поддержки принятия решений. — К.: Наукова думка, 2002. — 382 с.<br>2. Тоценко В.Г. Методы определения групповых многокритериальных ординальных оценок с учетом компетентности экспертов // Проблемы управления и информатики. — 2005. — № 5. — С. 84–89 (Method of Determination of Group Multicriteria Ordinal Estimates with Account of Expert Competence // Journal of Automation and Information Sciences. — 2005. — Vol. 37).<br>3. Терехов С.А. Лекции по теории и приложениям искусственных нейронных сетей». — Эле-ктронная версия // Лаборатория Искусственных Нейронных Сетей НТО-2. — Снежинск: ВНИИТФ, 1998. — Глава 4.<br>4. Стелак Г. Интеллектуальные системы поддержки принятия решений. — К., 2004. — С. 75–83.
+File
+Article_2.doc
+null

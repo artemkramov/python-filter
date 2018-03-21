@@ -1,0 +1,11 @@
+﻿s
+S. V. Tytenko</em><br><br>Ukraine</p><p></p><p>Титенко Сергій Володимирович,</p><p>асистент кафедри автоматизації проектування енергетичних процесів та систем теплоенергетичного факультету Національного технічного університету України «КПІ», Київ</p><p></p></div><div></div><div><p><em>A. A. Gagarin</em><br><br>Ukraine</p><p></p><p>Гагарін Олександр Олександрович,</p><p>доцент, кандидат технічних наук, доцент кафедри автоматизації проектування енергетичних процесів та систем теплоенергетичного факультету Національного технічного університету України «КПІ», Київ</p><p>
+108467
+6452">No 1 (2009
+108467/0">Tytenko
+Learning Web-content Tree-Net model as a basis for integration of knowledge management and on-going learning
+S. V. Tytenko, A. A. Gagarin
+The article represents a hierarchical network model of learning Web-content for support to on-going learning on the basis of knowledge management. Hierarchical, binary and group relations among the content elements are described, which serve for structuring and cataloguing the Web-content, its reusing, searching for thematic and associative content and building a personal learning environment.
+108467/103445">PDF (Українська)</a
+—
+null

@@ -1,0 +1,12 @@
+﻿2012-1-5
+12. — Vol. 14, N 1
+49-56&gt;
+alt="" width="50">PDF,DOC
+Information-Technology Approach to Complex Substantiation of Requirements for Automated Systems
+Samokhvalov Yu.Ya., Naumenko E.M., Burba O.I.
+One of the possible approacheas substantiation of requirements for automated systems is consid-ered. Its methodological basis are models and methods to construct a look of the system and a plan of its realization, which allow to provide the complexity of the formation of substantiated requirements within the scope of a single information-functional process. Tabl.: 1. Refs: 17 titles.
+substantiation, requirements, technical look, automated system, information techno-logy, information processing facilities, algorithm, model, graph.
+References</td><td>
+File
+1-5.pdf
+null

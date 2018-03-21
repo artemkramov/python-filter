@@ -1,0 +1,11 @@
+﻿s
+M. V. Demchyshyn</em><br>аспірант кафедри засобів захисту інформації Національного авіаційного університету, Україна, Київ<br>Ukraine</p><p></p><p>Демчишин Мирослав Володимирович,</p><p>аспірант кафедри засобів захисту інформації Національного авіаційного університету, Україна, Київ</p><p></p></div><div></div><div><p><em>Y. H. Levchenko</em><br>доцент кафедри засобів захисту інформації Національного авіаційного університету, Україна, Київ<br>Ukraine</p><p></p><p>Левченко Євген Григорович,</p><p>доцент, кандидат фізико-математичних наук, доцент кафедри засобів захисту інформації Національного авіаційного університету, Україна, Київ</p><p>
+71760
+3681">No 3 (2012
+71760/0">Demchyshyn
+The influence of objects vulnerability on the decision of direct and inverse problems of the information safety
+M. V. Demchyshyn, Y. H. Levchenko
+Optimization of the resources distribution between protection information objects is carried out on the basis of the mathematical model in which the objective function determines the amount of released information. The situations when it should go from resources concentration on one of the objects to their division between two objects were described and shown graphically. The influence of the possibility of delivery by the attack of the definite amount of resources on the ultimate result is shown.
+71760/66753">PDF (Українська)</a
+—
+null

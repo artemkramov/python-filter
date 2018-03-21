@@ -1,0 +1,12 @@
+﻿2016-1-8
+16. — Vol. 18, N 1
+70–77
+alt="" width="50">PDF,DOC
+A multi-agent model of information dissemination in social networks
+Lande D.V., Hraivoronska A.n., Berezin B.А.
+It is demonstrated the rules of the multi-network operation. Statistical regularities associated with the «lifecycle» of agents, namely, information messages have been determined. The statistical distributions touching upon likes and reposts have been found within the model corresponding to the Weibull distribution as seen from the results of simulation. These simulations have been verified by examining the real microblogging network Twitter. Fig.: 4. Refs: 5 titles.
+Social network, Modeling, Weibull distribution, Multi-agent system, Information dissemination.
+References</td><td>
+File
+1-8.pdf
+null

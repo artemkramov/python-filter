@@ -1,0 +1,12 @@
+﻿Leonteva
+05. — Vol. 7, N 1
+108-117
+width="50" alt="">PDF,DOC
+Development of Decision-Making Support System for an Integrated Estimation of a Financial Condition of the Enterprise
+Azarova A.О., Leontyeva L.L.
+Multilevel decision-making support system for an estimation of a financial condition of the enter-prise is developed. It is offered the formalization of decision-making support system to make with use of the mathematical apparatus of threshold elements and the algorithm of decision-making with its help is considered. Tabl.: 1. Fig.: 2. Refs: 7 titles.
+decision-making support system, financial condition of enterprise, mathematical apparatus of threshold elements.
+References</td><td>1. Егоров Б.М., Ланцев В.С., Тоценко В.Г. Синтез схем на пороговых элементах / Под ред. Вавилова Е.Н. — М.: Сов. радио, 1970. — 368 с.<br>2. Азарова А.О., Воронюк О.В. Складання оптимальної множини параметрів при оцінці фі-нансового стану підприємства // Економіка: проблеми теорії та практики. — Дніпропетровськ. — 2004. — С. 1143–1149.<br>3. Азарова А.О., Воронюк О.В. Аналіз методів оцінки фінансового стану підприємства // Ма-теріали доповіді на міжвузівській науково-практичній конференції вчених, викладачів та практич-них працівників «Розвиток фінансово-кредитної системи України в умовах ринкових трансформа-цій». — Вінниця, 2003. — С. 261–262.<br>4. Азарова А.О. Розробка системи прийняття рішення на порогових елементах // Вісник ВПІ. — 1999. — № 4. — С. 44–47.<br>5. Азарова А.О. Математична формалізація якісних критеріїв оцінювання кредитоспро-можності позичальника комерційного банку // Зб. матеріалів міжнародного симпозіуму «Наука і підприємництво». — Вінниця–Львів,1997. — С. 35–39.<br>6. Азарова А.О., Леонтьєва Л.Л. Комплексна оцінка фінансового стану підприємства // Віс-ник ВПІ. — 2005. — № 3. — С. 17–24.<br>7. Азарова А.О. Розробка методики формалізації первинної вхідної інформації при складанні багаторівневих СППР // Реєстрація, зберігання і оброб. даних. — 2000. — Т. 2, № 4. — С. 96–104.
+File
+RZOD2_04.doc
+null

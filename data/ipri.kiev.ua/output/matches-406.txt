@@ -1,0 +1,12 @@
+﻿2015-4-5
+15. — Vol. 17, N 4
+39–48
+alt="" width="50">PDF,DOC
+Review of methods of events extraction «from the stream of news»
+Pryshchepa S.V.
+The problems and relevance of extracting events have been considered. The main methods on extraction of events are analyzed and their classification is performed. Examples and description of the main methods of the extraction are demonstrated. There is found out and proved the need for cooperative use of the methods based on the rules as well as methods based on statistics. Fig.: 4. Refs: 12 titles..
+event extraction, classification of extraction methods, review of event extraction me-thods.
+References</td><td>
+File
+4-5.pdf
+null

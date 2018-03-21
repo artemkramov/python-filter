@@ -1,0 +1,12 @@
+﻿2010-3-2
+10. — Vol. 12, N 2
+16-24
+alt="">PDF
+Base Operations for Relief Forming and Changing the Shape of Complex Functional Surfaces in Computer Visualization Systems
+Vyatkin S.I., Romaniuk A.N., Romaniuk O.V.
+The issues of using perturbation functions for real time visualization of 3D objects surfaces are considered. Methods for defining and visualization of 3D surfaces, adopted for realization on graphic accelerators are proposed. Realization of methods of defining function transformation for geometric operations: offsetting, projection, metamorphosis (morphing), twisting, sweeping are proposed. Fig.: 7. Refs.: 6 titles.
+scalar perturbation functions, free forms, unit three-dimensional cube, morphing, offsetting, twisting.
+References</td><td>1. Bloomenthal J. Convolution Surfaces / J. Bloomenthal, K. Shoemake // SIGGRAPH’91, Computer Graphics. — 1991. — Vol. 25, N 4. —P. 251–256.<br>2. Muraki S. Volumetric Shape Description of Range Data Using «Blobby Model» / S. Muraki // Computer Graphics. — July, 1991. — 25(4). — P. 227–235.<br>3. Wyvill G. Data Structure for Soft Objects / G. Wyvill, C. McPheeters, B. Wyvill // The Visual Computer. — 1986. —2(4).— P. 227–234.<br>4. Вяткин С.И. Моделирование сложных поверхностей с применением функций возмущения / С.И. Вяткин // Автометрия. — 2007.—Т. 43, № 3. — C. 40–47.<br>5. Геометрическое моделирование и визуализация функционально-заданных объектов / С.И. Вяткин, Б.С. Долговесов, А.В. Есин [и др.] // Автометрия. — 1999. — № 6.— С. 84.<br>6. Романюк О.Н. Високопродуктивні методи та засоби зафарбовування тривимірних графічних об’єктів. Монографія / О.Н. Романюк, А.В. Чорний. — Вінниця: УНІВЕСУМ-Вінниця, 2006.— 190 с.
+Файлы
+2010-3-2.pdf
+null

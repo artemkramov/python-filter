@@ -1,0 +1,10 @@
+﻿null
+S. S. Fedin</em><br><br>Ukraine</p><p></p><p>Федін Сергій Сергійович,</p><p>кандидат технічних наук, доцент Київського національного університету технологій та дизайну, Україна, Київ</p><p>
+106963
+6358">No 2 (2010
+106963/0">Fedin
+Forecast and probabilistic estimations of technical object longevity
+S. S. Fedin
+Based on the methodology of the Markov analysis, a probabilistic approach to forecast and estimation of the longevity of technical objects is offered. A mathematical model of the longevity forecast is developed with the use of statistical data characterizing the initial and final distribution of the service term of technical objects.
+106963/101964">PDF (Русский)</a
+—

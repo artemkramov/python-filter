@@ -1,0 +1,12 @@
+﻿2016-3-1
+16. — Vol. 18, N 3
+3–11
+alt="" width="50">PDF,DOC
+Investigation of properties of generalized hyper-number systems of the fourth order found with help of the Grassmann-Clifford doubling procedure
+Kalinovsky J.A., Boyarinova Y.E., Sukalo A.S.
+Using the Grassmann-Clifford doubling procedure, the generalized hyper-complex number systems (HNS) of the fourth order has been formed. Available options in the definition of these systems makes them a generalization of whole classes of various HNS. It has been studied the algebraic and functional properties of generalized HNS and their relationship with the HNS lower dimensions. Refs: 23 titles.
+hyper-complex number system, the Grassmann-Clifford doubling procedure, HNS basis, a characteristic equation, an exponential function, associated system of differential equations, commutative.
+References</td><td>
+File
+3-1.pdf
+null

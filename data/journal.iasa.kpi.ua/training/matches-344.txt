@@ -1,0 +1,11 @@
+﻿s
+E. I. Nenakhov</em><br><br>Ukraine</p><p></p><p>Ненахов Едуард Іванович,</p><p>провідний науковий співробітник, доктор фізико-математичних наук, старший науковий співробітник Інституту кібернетики ім. В.М. Глушкова НАН України, Київ</p><p></p></div><div></div><div><p><em>L. A. Sobolenko</em><br><br>Ukraine</p><p></p><p>Соболенко Лідія Опанасівна,</p><p>старший науковий співробітник, кандидат фізико-математичних наук, старший науковий співробітник Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p>
+107843
+6391">No 3 (2009
+107843/0">Nenakhov
+Linearization method and unsmooth optimization
+E. I. Nenakhov, L. A. Sobolenko
+Two modifications of nonstandard application of linearization method to solve unsmooth optimization problems are considered. On the basis of its modification for solve problems of back-convex programming, there has been developed an applied programs packet called Packing. The effectiveness of the packet and its modifications is illustrated by examples of different packing and arrangement of the objects.
+107843/102789">PDF (Русский)</a
+—
+null

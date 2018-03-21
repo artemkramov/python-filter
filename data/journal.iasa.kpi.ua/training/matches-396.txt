@@ -1,0 +1,11 @@
+﻿s
+P. Taylan</em><br>Кафедра математики університету Дикле, Даярбакір<br>Turkey</p><p></p><p>Тайлан Пакизе,</p><p>професор кафедри математики університету Дикле, Даярбакір, Туреччина.</p><p></p></div><div></div><div><p><em>G.-W. Weber</em><br>Інститут прикладної математики Середньосхідного технічного університету, Анкара<br>Turkey</p><p></p><p>Вебер Герхард-Вільгельм,</p><p>професор Інституту прикладної математики Середньосхідного технічного університету, Анкара, Туреччина.</p><p>
+108913
+6467">No 3 (2008
+108913/0">Taylan
+New approaches to regression in financial mathematics and life sciences by generalized additive models
+P. Taylan, G.-W. Weber
+This paper introduces into and improves the theoretical research done by the authors in the last two years in the applied area of GAMs (generalized additive models) which belong to the modern statistical learning, important in many areas of prediction, e.g., in financial mathematics and life sciences, e.g., computational biology and ecology. These models have the form<em>ψ</em>(<em>x</em>)= β<sub>0</sub>+∑<sub><em>j</em>=1</sub><sup><em>m</em></sup><em>f<sub>j</sub></em>(<em>x<sub>j</sub></em>), where<em>ψ</em>are functions of the predictors, and they are fitted through local scoring algorithm using a scatterplot smoother as building blocks proposed by Hastie and Tibshirani (1987). Aerts, Claeskens and Wand (2002) studied penalized spline generalized additive models to derive some approximations. We present a mathematical modeling by splines based on a new clustering approach for the input data x, their density, and the variation of the output data y. We bounding (penalizing) second order terms (curvature) of the splines, we include a regularization of the inverse problem, contributing to a more robust approximation. In a first step, we present a refined modification and investigation of the backfitting algorithm previously applied to additive models. Then, by using the language of optimization theory, we initiate future research on solution methods with mathematical programming.
+108913/103829">PDF</a
+—
+null

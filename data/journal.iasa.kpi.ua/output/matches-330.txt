@@ -1,0 +1,11 @@
+﻿s
+V. D. Romanenko</em><br><br>Ukraine</p><p></p><p>Романенко Віктор Демидович,</p><p>професор, доктор технічних наук, , заступник директора з навчальної роботи Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p></p></div><div></div><div><p><em>Yu. L. Milyavsky</em><br><br>Ukraine</p><p></p><p>Мілявський Юрій Леонідович,</p><p>магістрант Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p>
+107275
+6372">No 4 (2009
+107275/0">Romanenko
+Forecasting of maximal conditional dispersions for multidimensional processes with multirate discretization on the basis of adaptive GARCH models
+V. D. Romanenko, Yu. L. Milyavsky
+A method for synthesis of GARCH models for forecasting maximal conditional dispersions of multidimensional heteroskedastic processes under discretisation of input disturbances with small sampling periods and of output coordinates with large ones is considered. The dynamics of processes in a stochastic medium is described by matrix-polinomial models of autoregression and a sliding mean with multirate discretization. An algorithm for adaptive setting of GARCH models is developed. Experimental results for such a setting as well as forecasting of maximal conditional dispersions under optimal coefficients are presented.
+107275/102243">PDF (Русский)</a
+—
+null

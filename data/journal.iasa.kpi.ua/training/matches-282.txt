@@ -1,0 +1,10 @@
+﻿null
+Alexey G. Malishevsky</em><br></p><p></p><p>Малишевський Олексій Григорович,</p><p>доктор філософії, старший науковий співробітник Навчально-наукого комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p>
+106820
+6349">No 4 (2010
+106820/0">Malishevsky
+Prioritization of tests as a method for fast detection of faults
+Alexey G. Malishevsky
+The use of information on the test costs and fault severities in the prioritization process in a regression testing is considered. Methods for estimation of test costs and fault severities are described. Fault severity is explored in relation to the program reliability. Three methods for incorporating the information into the prioritization process are investigated. The effects of the scale of test cost and fault severities on the efficiency of the methods for prioritization is established.
+106820/101883">PDF (Русский)</a
+—

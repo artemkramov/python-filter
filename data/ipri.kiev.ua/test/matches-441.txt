@@ -1,0 +1,12 @@
+﻿2016-4-4
+16. — Vol. 18, N 4
+33–43
+alt="" width="50">PDF,DOC
+Multilayer perceptron as the primary instrument for image clustering.
+Gorokhovatskiy O.V., Peredriy O.O.
+A multilayer perceptron as an instrument of the primary analysis of the image, in particular, its application to search for regions of interest or clusterization is described. Various implementations of training procedures to receive a minimum structure of a net, select size of areas effectively and choose the step size between the regions are considered. Coefficient for comparison of matrixes with class labels is proposed, examples of its usage are shown. Experimental investigations have confirmed the effectiveness of the proposed methods. Tabl.: 4. Fig.: 7. Refs: 9 titles.
+linear (quadratic generalized) purpose problem, location and layout of objects, appointment to narrow places and targets, problems on matching, matching and assignment problems, location-allocation and layout problems.
+References</td><td>
+File
+4-4.pdf
+null

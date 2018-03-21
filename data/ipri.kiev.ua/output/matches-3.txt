@@ -1,0 +1,12 @@
+﻿Antonov
+07. — Vol. 9, N 2
+17-25
+width="25px" alt="">PDF,DOC
+Simulation of Properties of Asymmetric Retroreflective Elements
+Petrov V.V., Shanoylo S.M., Kryuchyn A.A., Antonov E.E., Kravets V.G
+An analysis of geometrical and lighting characteristics of asymmetric retroreflective elements is conducted. The method for calculation of parameters of such elements is proposed. Optimum values of geometrical sizes of elements with maximal retroreflection at the given entrance angle are determined. Fig.: 5. Refs.: 4 titles.
+retroreflective element, entrance angle, reflection coefficient, effective surface.
+References</td><td>1. US Pat. 4,895,428, Int.cl. G02B 5/124. High Efficienvcy Retroreflective Material / J.C.Nelson, S.Cobb (USA); Jan.23, 1990.<br>2. Борн М., Вольф Э. Основы оптики. — М.: Наука, 1973. — 720 с.<br>3. Ландсберг Г. Оптика. — М.: Наука, 1976. — 928 с.<br>4. Пат. 71672 України, МКИ 7 G02B5/12. Спосіб виготовлення світлоповертальних елементів / В.В.Петров, С.М.Шанойло, Л.В.Бутенко, А.А.Крючин, В.М.Зенін, В.Д.Ковтун, О.К.Войтенко (Україна); ІПРІ НАН України. — № 2002108488; Заявл. 25.10.2002; Опубл. 15.12.2004. — 2 с.
+Файлы
+Statja_optimizacija__150207.doc
+null

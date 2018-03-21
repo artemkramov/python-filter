@@ -1,0 +1,10 @@
+﻿null
+Yu. О. Zak</em><br><br>Germany</p><p>
+106468
+6335">No 2 (2011
+106468/0">Zak
+Quantitative methods of the expert views processing, while assessing the quality and availability submitted for financing innovative projects
+Yu. О. Zak
+The methodology of obtaining the complex quantitative assessment of the efficiency of the submitted for the examination projects, based on processing the views of independent expert group and building the ranking series on the basis of proposed complex criteria of efficiency is proposed. Inconsistent views of individual experts are considered as important indicators of examination results. Restrictions, which allow to exclude the projects, that do not meet the specified requirements from the further consideration, are formulated. The models of nonlinear boolean programming are proposed in order to recruit the most competent group of experts for each projects.
+106468/101563">PDF (Русский)</a
+—

@@ -1,0 +1,12 @@
+﻿2009-2-8
+10. — Vol. 12, N 2
+77-82
+alt="">PDF
+Channel Capacity and Availability of Information Objects in Distributed Networks
+Mаtоv О.Y., Vаsylenko V.S., Dubchak O.V.
+Variants and directions of increasing data transmission channel capacity and, as a result, the increase of availability of information objects of distributed computer networks are considered. Fig.: 4. Refs: 3 titles.
+availability of information, channel capacity, distributed computer networks, signal-tonoise ratio, channel pass band.
+References</td><td>1. Шеннон К. Работы по теории информации и кибернетики / К. Шеннон. — М., 1963.<br>2. Алишев Я.В. Предельная пропускная способность и потенциальная помехоустойчивость оптических сетей и систем телекоммуникаций / Я.В. Алишев // Доклады БГУИР. 2004. — Т. 2, № 2. — С. 43–45.<br>3. Локальные компьютерные сети. Электронный учебник. — Режим доступу: http://dvoika.net/infor/top/Glava%2012/Index1.htm.
+Файлы
+2009-2-8.pdf
+null

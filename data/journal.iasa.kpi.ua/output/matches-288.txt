@@ -1,0 +1,11 @@
+﻿s
+S. A. Liakhov</em><br><br>Ukraine</p><p></p><p>Ляхов Сергій Олександрович,</p><p>аспірант Європейського університету, Україна, Київ</p><p></p></div><div></div><div><p><em>Ya. I. Vikliuk</em><br><br>Ukraine</p><p></p><p>Виклюк Ярослав Ігорович,</p><p>доцент, кандидат фізико-математичних наук, доцент кафедри комп’ютерних систем і технологій Буковинського університету, Україна, Чернівці</p><p>
+106910
+6356">No 3 (2010
+106910/0">Liakhov
+Method for recreant flow determination using a modified gravitation model on the basis of fuzzy logic
+S. A. Liakhov, Ya. I. Vikliuk
+A method for calculation of index territory attractivity on the basis of fuzzy logic is proposed. The modified gravitation model used for forecast of the number of potential recreants is improved by this method. Calculations based on the new model are performed, and a comparative analysis of the obtained results is presented.
+106910/101912">PDF (Українська)</a
+—
+null

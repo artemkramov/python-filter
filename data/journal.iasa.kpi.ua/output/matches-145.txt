@@ -1,0 +1,11 @@
+﻿null
+Sergii Nikolaiev</em><br><a href="http://orcid.org/0000-0002-2025-8469">ORCID iD</a>Educational and Scientific Complex "Institute for Applied System Analysis" of the National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute", Kyiv<br>Ukraine</p><p></p><p>Sergii Sergiiovych Nikolaiev,</p><p>a Ph.D. student at Educational and Scientific Complex "Institute for Applied System Analysis" of the National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute", Kyiv, Ukraine.</p><p>Research areas: artificial intelligence, machine and deep learning, obtaining biosignals from video, video processing.</p><p>
+83858
+7035">No 3 (2017
+83858/0">Nikolaiev
+Metric and algorithm for similarity between two temporal event sequences calculation
+Sergii Nikolaiev
+In several data analysis applications on temporal events flows, the problem of measuring "similarity" of these sequences arises. There are many different definitions of event sequences but in this paper under the term "sequence of events" the ordered array of the event occurrence times will be understood. In this paper the metric and procedure for similarity calculation between two ordered event sequences is presented. The procedure as the output returns measure of two event flows similarity and set of corresponding indices pairs which represent the mapping of the events between the input sequences.</div><br></div><div><h4>Keywords</h4><br><div>time stamped quasi periodic events; temporal event sequences similarity metric; computing distance between two real arrays of different length; accuracy, recall, precision for temporal event sequences; algorithm for distance of two event flows estimation
+83858/111350">PDF</a
+—
+><br><br>DOI:<a href="https://doi.org/10.20535/SRIT.2308-8893.2017.3.12">https://doi.org/10.20535/SRIT.2308-8893.2017.3.12</a

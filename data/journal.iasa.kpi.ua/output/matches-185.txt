@@ -1,0 +1,10 @@
+﻿null
+М. М. Diduk</em><br>старший науковий співробітник Інституту кібернетики ім. В.М. Глушкова НАН України, Київ<br>Ukraine</p><p></p><p>Дідук Микола Миколайович,</p><p>кандидат фізико-математичних наук, старший науковий співробітник Інституту кібернетики ім. В.М. Глушкова НАН України, Київ</p><p>
+71775
+3681">No 3 (2012
+71775/0">Diduk
+The measures of internal and external information (on example of probabilistic situations of uncertainty). Part I
+М. М. Diduk
+It is shown, that the idea of information, which is invested in the foundation of modern Cybernetics, and the belief on the ways of its studying and its transformations, are incorrect. For the first time a direct link of the information and situations of uncertainty is found out (where there was no uncertainty, the information could not appear). It is shown, that transformations of the information cannot be carried out otherwise than by the way of transformation of the respective situations of uncertainty. It is received the conclusion that the system of information measures which have been proposed by C. Shannon, requires the development and replenishment with new measures designed to measure the intensity of the transformations. The first example of the "authentic" transformation of the information — quantization, is considered, and the first measure of transformation intensity is built.
+71775/66767">PDF (Русский)</a
+—

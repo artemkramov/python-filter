@@ -1,0 +1,12 @@
+﻿2010-3-1
+10. — Vol. 12, N 2
+3-15
+alt="">PDF
+The Analysis of the Reliability of Mechanical Systems by Using a Method of Probability-Algebraic Simulation
+Sukach E.I.
+An approach to research of characteristics of the reliability of mechanical systems, considering the probability nature of accumulation of damages by components of a system and statistical character of interference of damages in the process of system service is described. A method of probability-algebraic simulation of reliability characteristics of functionally complex systems by reliability characteristics of components making them up is offered. Fig.: 4. Refs: 4 titles.
+reliability of mechanical systems, deterioration, logic-probabilistic simulation, simulation.
+References</td><td>1. Богданофф Дж. Вероятностные модели накопления повреждений / Дж. Богданофф, Ф. Козин. — М.: Мир, 1989 —341 с.<br>2. Сосновский Л.А. Основы трибофатики / Л.А. Сосновский. — Гомель: БелГУТ, 2003. — Т. 1. — 242 с.<br>3. Сукач Е.И. Расширение метода логико-вероятностного моделирования сложных систем / Е.И. Сукач, Д.В. Ратобыльская, В.Н. Кулага // Моделирование и анализ безопасности и риска в сложных системах: труды Международной научной школы МАБР. — 2009, 7–11 июля, 2009 г. — Санкт-Петербург: ГУАП-2009. — С. 471–476.<br>4. Сукач Е.И. Вероятностно-алгебраический метод моделирования сложных систем/ Е.И. Сукач, Д.В. Ратобыльская, В.Н. Кулага // Материалы научно-практической конференции «Имитационное моделирование. Теория и практика. ИММОД-2009», Санкт-Петербург, 21–23 октября 2009 г.— Санкт-Петербург. — 2009. —Т. 1. — С. 187–191.
+Файлы
+2010-3-1.pdf
+null

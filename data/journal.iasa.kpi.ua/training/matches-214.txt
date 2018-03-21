@@ -1,0 +1,11 @@
+﻿s
+O. D. Gorbatyuk</em><br>асистент кафедри систем управління літальних апаратів Інституту електроніки і систем управління Національного авіаційного університету, Україна, Київ<br>Ukraine</p><p></p><p>Горбатюк Ольга Дем’янівна,</p><p>асистент кафедри систем управління літальних апаратів Інституту електроніки і систем управління Національного авіаційного університету, Україна, Київ</p><p></p></div><div></div><div><p><em>K. V. Melnik</em><br>асистент кафедри систем управління літальних апаратів Інституту електроніки і систем управління Національного авіаційного університету, Україна, Київ<br>Ukraine</p><p></p><p>Мельник Костянтин Володимирович,</p><p>кандидат технічних наук, асистент кафедри систем управління літальних апаратів Інституту електроніки і систем управління Національного авіаційного університету, Україна, Київ</p><p>
+73344
+4358">No 1 (2012
+73344/0">Gorbatyuk
+A comparative review of linear matrix inequalities method and H∞-optimization with regard to the problem of external disturbance suppression for the unstable object stabilization
+O. D. Gorbatyuk, K. V. Melnik
+The problem of limited modulo external disturbances suppression for the stabilization of the helicopter hovering is considered. The solution of the assigned problem is implemented by linear matrix inequalities (LMI) method and H∞-optimization. The Analysis of the obtained results of synthesis is carried out both analytically and with the help of stabilization system modeling in Simulink environment. Interpretation of the obtained results is presented.
+73344/68659">PDF (Русский)</a
+—
+null

@@ -1,0 +1,12 @@
+﻿2017-2-3
+17. — Vol. 19, N 2
+24–35
+alt="" width="50">PDF,DOC
+Optimization models of reconfiguring network structures.
+Kuzmychov A.I. and Dodonov E.O.
+It is proposed the optimization models of integrated problems of location service centers (servers) in a network structure with simultaneous allocation clients to servers, built in an accessible and powerful spreadsheet environment for the formation of organizational and management solutions and providing a flexible operation of the communication system through its reconfiguration namely by the definition of its renewed structure and functions. Fig.: 8. Refs: 8 titles.
+optimization problems on servers’ location and clients’ setting (location/allocation problems), reconfiguration of network, service systems and centers, spreadsheet modeling and optimization.
+References</td><td>
+File
+2017-2-3.pdf
+null

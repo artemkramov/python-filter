@@ -1,0 +1,12 @@
+﻿2015-1-4
+14. — Vol. 17, N 1
+36-45
+alt="" width="50">PDF,DOC
+Study of relations between the generalized quaternions and procedure of doubling of hypercomplex numerical systems
+Kalinovsky Ya.O., Boyarinova Yu.E., Sukalo A.S.
+The class of non-commutative hypercomplex number systems of 4-dimension, constructed by using of non-commutative procedure of Grassman-Clifford doubling of 2-dimensional systems is investigated and established their relations with the generalized quaternions. Algorithms of the operations and methods of algebraic characteristics calculation in them, such as conjugation, normalization and a type of zero dividers have been investigated. Tabl.: 3. Refs: 14 titles.
+quaternion, generalized quaternion, hypercomplex number system, zero divisor, pseudonorm, conjugation, Grassman-Clifford procedure of doubling.
+References</td><td>
+File
+1-4.pdf
+null

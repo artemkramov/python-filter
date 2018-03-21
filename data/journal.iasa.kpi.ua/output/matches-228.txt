@@ -1,0 +1,10 @@
+﻿null
+N. V. Gorban</em><br><br>Ukraine</p><p>
+74208
+4375">No 4 (2011
+74208/0">Gorban
+Long-time forecasts for state functions of quasilinear hyperbolic systems in Rn
+N. V. Gorban
+The quasilinear hyperbolic system in R<sup>n</sup>with non-linear in general case interaction function is considered. The asymptotic behaviour of weak solutions for considered problem is investigated. The existing of trajection and global attractors for all weak solutions of investigated problem is proved. It is proved that the trajectories of all weak solutions passing to the stationary states.
+74208/69670">PDF (Українська)</a
+—

@@ -1,0 +1,11 @@
+﻿s
+V. D. Romanenko</em><br></p><p></p></div><div></div><div><p><em>Yu. L. Milyavsky</em><br></p><p>
+43464
+2531">No 1 (2015
+43464/0">Romanenko
+Coordinates ratio control for a cognitive model of a complex system under an unstable impulse process
+V. D. Romanenko, Yu. L. Milyavsky
+The ratio control of cognitive maps (CM) coordinates under an unstable impulse process is discussed. To solve this problem, the method for stabilization of CM nodes at given levels was developed, which generated controls impacting all CM nodes. For this purpose, CM dynamics is represented as an "input – output" model in complete values of CM nodes coordinates. For closed loop system stabilization, a reference model with preassigned values of poles is built. Control law parameters are evaluated based on the identity of this model and the closed loop characteristic polynomial. The problem of CM coordinates ratio control is solved without feedback based on master controls which are formed using linear ratios between CM coordinates. Practical example of CM for commercial bank operations is discussed. The problem of maintaining the specified ratio between volumes of loans and deposits portfolios under an unstable impulse process is solved by means of digital modeling.
+43464/39915">PDF (Русский)</a></div><div><h4>References</h4><br><div><p>Робертс Ф.С. Дискретные математические модели с приложениями к социальным, биологическим и экологическим задачам. Пер. с англ. — М.: Наука, 1986. — 496 с.</p><p>Авдеева З.К., Коврига С.В., Макаренко Д.И., Максимов В.И. Когнитивный подход в управлении // Проблемы управления. — 2002. — № 3. — С. 2–8.</p><p>Романенко В.Д., Милявский Ю.Л. Обеспечение устойчивости импульсных процессов в когнитивных картах на основе моделей в пространстве состояний // Системні дослідження та інформаційні технології. — 2014. — № 1. — С. 26 – 42.</p><p>Романенко В.Д., Милявский Ю.Л., Реутов А.А. Метод адаптивного управления неустойчивыми импульсными процессами в когнитивных картах на основе эталонных моделей // Проблемы управления и информатики. — 2015. — № 2. — С. 35–45.</p><p>Романенко В.Д., Мілявський Ю.Л. Синтез багатовимірних координуючих систем керування з різнотемповою дискретизацією в детермінованому середовищі // Системні дослідження та інформаційні технології. — 2011. — № 4. — С. 7–20.</p><p></p></div><br
+—
+null

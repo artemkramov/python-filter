@@ -1,0 +1,10 @@
+﻿null
+O. E. Kirik</em><br>вчений секретар Навчально-наукового комплексу "Інститут прикладного системного аналізу" НТУУ "КПІ" МОН та НАН України, Київ<br>Ukraine</p><p></p><p>Кірік Олена Євстафіївна,</p><p>старший науковий співробітник, кандидат фізико-математичних наук, вчений секретар Навчально-наукового комплексу "Інститут прикладного системного аналізу" НТУУ "КПІ" МОН та НАН України, Київ</p><p>
+74203
+4375">No 4 (2011
+74203/0">Kirik
+The problem of solution existence in the flow distribution problems
+O. E. Kirik
+Questions of the existence of a solution for the problem of flow distribution in power networks are investigated. The algorithm of a priori definition of restrictions compatibility of this problem is formulated. A model with the system of equations of continuity, built in such a way as to ensure the existence of a feasible solution provided to minimize disruption customer orders is constructed.
+74203/69667">PDF (Українська)</a
+—

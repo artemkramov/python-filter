@@ -1,0 +1,12 @@
+﻿Antonov
+08. — Vol. 10, N 3
+3-17
+width="25px" alt="">PDF,DOC
+Technology of Manufacturing and Method of Utilizing in Ophthalmology of Fresnel Micro-prism Elements
+Petrov V.V., Sergienko N.M., Rykov S.A., Antonov E.E., Shanoylo S.M., Shevkolenko M.V.
+An analysis of optical characteristics of Fresnel microprism elements is conducted. The features of manufacturing technology and methods of utilizing such elements in ophthalmology are investigated. Diagnostic method for optical surfaces quality by diffraction phenomena is proposed. The method of measurement the value of concomitant strabismus by modified Fresnel prisms is developed. Fig.: 8. Refs: 8 titles.
+Fresnel microprism element, illumination losses coefficient, manufacturing technology, diffraction phenomena, concomitant strabismus.
+Ссылки</td><td>1. Урмахер Л.С. Оптические средства коррекции зрения / Л.С. Урмахер, Л.И. Айзенштат. — М.: Медицина, 1990. — 256 с.<br>2. Патент 18152 України А61В3 /08. Пристрій для вимірювання кута косоокості / Сергієнко М.М., Петров В.В., Риков С.О., Шанойло С.М., Шевколенко М.В., Крючин А.А.: заявник Київська міська клінічна лікарня «Центр мікрохірургії ока». — № u200607554; Заявл.07.07.2006; Опубл.16.10.2006; Бюл № 10.<br>3. Патент 25549 України, А61В 3/08. Пристрій для діагностики косоокості / Петров В.В., Сер-гієнко М.М., Риков С.О., Шанойло С.М., Шевколенко М.В., Крючин А.А., Антонов Є.Є: заявник ІПРІ НАН України. — № u200704035, Заявл.12.04.2007; Опубл.10.08.2007; Бюл. № 12.<br>4. Борн М. Основы оптики / М. Борн, Э. Вольф. — М.: Наука, 1973. — 720 с.<br>5. Світлоповертання: проблеми та досягнення / В.В. Петров, С.М. Шанойло, Є.Є. Антонов [та ін.] // Реєстрація, зберігання і оброб. даних. — 2008. — Т. 10, № 1. — С. 3–15.<br>6. Ландсберг Г.С. Оптика. — М.: Наука, 1976. — 928 с.<br>7. Применение призматических линз в офтальмологии / Т.П. Кащенко, С.Г. Чернышова, Ю.З. Розенблюм [и др.] // Вестник оптометрии. — 2005. — № 1. — С. 33–27.<br>8. Wright K.W. Handbook of Pediatric Strabismus and Amblyopia / K.W. Wright, P.H. Spigel, L.S. Thompson // Springer Science+Busness Media, Inc. — 2006. — Р. 143–160.
+Файлы
+statja.doc
+null

@@ -1,0 +1,12 @@
+﻿2016-2-5
+16. — Vol. 18, N 2
+40–52
+alt="" width="50">PDF,DOC
+Prediction of lifetime of data storage on optical disks
+Petrov V.V., Kryuchin A.A., Berezin B.O., Beliak I.V., Shyhovets O.V.
+The results of analysis of usage of accelerated guaranteed information lifetime estimation methods are presented. Particular attention is paid to testing of media for long-term storage of information. The main causes of a significant difference in terms of data storage on compact discs during accelerated testing have been determined. Fig.: 9. Refs: 137 titles.
+optical media, accelerated testing, long-term storage of information.
+References</td><td>
+File
+2-5.pdf
+null

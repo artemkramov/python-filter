@@ -1,0 +1,12 @@
+﻿2015-2-6
+15. — Vol. 17, N 2
+53–60
+alt="" width="50">PDF,DOC
+Stability of control attributes of code of conditional residues in terms of threats for integrity of information objects
+Mаtоv О.Y., Vаsylenko V.S.
+The possibilities of collisions application of control features in the code of conditional residues in terms of threats for the integrity of information objects have been investigated. Tabl.: 1. Refs: 7 titles.
+hashing, data objects, cryptographic transformations.
+References</td><td>
+File
+2-6.pdf
+null

@@ -1,0 +1,12 @@
+﻿2015-3-6
+15. — Vol. 17, N 3
+56–64
+alt="" width="50">PDF,DOC
+Investigation of combinational characteristics of domestic radio-stable fabrics M1, M2 and M3
+Yaremchuk Yu.E., Katayev V.S., Sinyugin V.V.
+The research of domestic radio-stable fabrics M1, M2 and M3 for determination of shielding factor for different combinations of the fabrics has been performed. It is defined screening coefficient both in case of horizontal and in case of vertical layout of the fabrics. In the research it is used the following installation. When the receiving antenna was in the dielectric box enveloped each of three fabrics in different combinations. The results of measurement show that combinations of the fabrics M1-M2 and M2-M3 have the same parameters and higher screening coefficient. However, combination M1-M3 have wider band but smaller screening coefficient. Fig.: 6. Refs: 12 titles.
+information security, spurious radiation, radio-stable fabrics, screening coefficient.
+References</td><td>
+File
+3-6.pdf
+null

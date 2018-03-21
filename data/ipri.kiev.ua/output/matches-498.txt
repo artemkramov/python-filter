@@ -1,0 +1,12 @@
+﻿Goldaevich
+06. — Vol. 8, N 4
+13-21
+width="25px" alt="">PDF,DOC
+Analysis of Plasmon Influence on the Transmission Efficiency of Near-Field Elements of Su-perdense Optical Information Recording Systems
+Goldayevich E.E.
+The theory of surface plasmons origin in air–metal–dielectric interfaces radiated by incident light of visible spectrum is considered. A possibility of plasmon resonance near-field enhancement is theoretically shown. Examples of near-field optical recording elements having enhanced resolution because of surface plasmons influence are given. Fig.: 6. Refs: 6 titles.
+surface plasmons, dispersion relation, transmission efficiency, near-field optical recording.
+References</td><td>1. Drezet A., Hohenau A., Krenn J.R., Brun M., Huant S. Surface Plasmon Мediated Near-Field Imaging and Оptical Аddressing in Nanoscience // Micron. — 2006.<br>2. Hashizume J., Koyama F. Plasmon Enhanced Optical Near-Field Probing of Metal Nanoaperture Surface Emitting Laser // Opt. Express. — 2004. — Vol. 12. — Р. 6391–6396.<br>3. Bouhelier A., Renger J., Beversluis M.R., Novotny L. Plasmon-Сoupled Tip-Еnhanced Near-Field Оptical Microscopy // J. Microscopy. — 2003, June. — Vol. 210. — Pt 3. — Р. 220–224.<br>4. Goto K., Masuda Y., Kirigaya T., Kurihara K., Mitsugi S. New Optical Disk System of Ultrahigh Density and High Data Rate Using 2-D VCSEL Array // The Bulletin of School of High-Technology for Human Welfare Tokai Univ. — 2004. — Vol. 14. — Р. 23–33.<br>5. Olkkonen J.T. Study of High Throughput Aperture for Near-Field Optical Data Storage // Optical Data Storage, OSA Technical Digest Series (Optical Society of America), 2003. — Р. TuD3.<br>6. Sun L., Wang J., Zhang E., Tian Q. Study on the Mechanism of Super-Resolution Near-Field Structure High-Density Optical Data Storage // Jpn. J. Аppl. Рhys. — 2003. — Vol. 42(1), N 8. — Р. 5113–5116.
+File
+statja.doc
+null

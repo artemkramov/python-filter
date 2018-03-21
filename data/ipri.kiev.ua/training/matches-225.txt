@@ -1,0 +1,12 @@
+﻿2011-3-4
+11. — Vol. 13, N 3
+30-39&gt;
+alt="" width="50">PDF,DOC
+Сonstruct of Gigh-Dimension Hypercomplex Number Systems Using the Dimension Multiplication Procedure
+Boyarinova Yu.E.
+The construction of new high-dimension hypercomplex number systems using the dimension multiplication procedure is studied. This allows to construct low- and high-filled multiplication tables of isomorphic hypercomplex number systems, which can be used in the synthesis of digital filters. The properties of the dimension multiplication procedure are considered. Refs.: 8 titles
+hypercomplex number systems, table of multiplication, dimension multiplication procedure.
+References</td><td>1. Дослідження та використання гіперкомплексних числових систем в задачах динаміки, кінематіки та кодування інформації застосування / [Синьков М.В., Каліновський Я.О., Боярінова Ю.Є. та ін.] // Пріоритети наукової співпраці ДФФД і БРФФД. — К., 2007. ? C. 21–34. — (Бібліотека Держфонду фундаментальних досліджень).<br>2. Синьков М.В. Конечномерные гиперкомплексные числовые системы. Основы теории. Применения / Синьков М.В., Бояринова Ю.Е., Калиновский Я.А. — К.: Инфодрук, 2010. — 388 с.<br>3. Chaitin-Chatelin F. Computation with Hypercomplex Numbers [Электронный ресурс] / F. Chaitin-Chatelin, T. Meskauskas, A. Zaoui // GERFACS Technical Report TR/PA/00/69. — Режим доступа: http://www.gerfacs.fr (2000).<br>4. Сильвестров В.В. Системы чисел / В.В. Сильвестров // Соросовский образовательный журнал. — 1998. — № 8. — С. 121–127.<br>5. Baez J.C. The Octonions [Электронный ресурс] / J.C. Baez. — Режим доступа: http://math/ucr.edu/home/baez/Octonions/ octonions.html (2001).<br>6. Chaitin-Chatelen F. Geometry and Algebra [Электронный ресурс] / F. Chaitin-Chatelen, T. Meskauskas, A. Zaoui // CERFACS Technical Report TR/PA/00/74. — Режим доступа: http://www.cerfacs.fr/algor/reports/2000/TR-PA-00-74.ps.gz (2000).<br>7. Chaitin-Chatelen F. The Сomputing Рower of Geometry [Электронный ресурс] / F. Chaitin- Chatelin // CERFACS Technical Report TR/PA/99/74. — Режим доступа: http://www.cerfacs.fr/algor/ reports/2000/ TR-PA-99-74.ps.gz (1999).<br>8. Кантор И.Л. Гиперкомплексные числа / И.Л. Кантор, А.С. Солодовников. — М.: Наука, 1973. — 144с.
+File
+3-3.pdf
+null

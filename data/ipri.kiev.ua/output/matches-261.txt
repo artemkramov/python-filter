@@ -1,0 +1,12 @@
+﻿2012-2-9
+12. — Vol. 14, N 2
+89-97
+alt="" width="50">PDF,DOC
+Application of Semiconductor Digital Interferometers in High-Density Optical Recording and Geophysical Measurements
+Britsky A.I.
+The results of development and some results upon researches of digital semiconductor inter-ferometers are presented. The possibility of their use in nano-measurements, particularly for laser beam control in high-density optical data storage, seismic measurements and gravimetry, has been clearly demonstrated. Fig.: 9. Refs: 6 titles.
+nano-measurements, digital interferometer, nano-motion control, optical data storage, geophysical measurements.
+References</td><td>
+File
+2-9.pdf
+null

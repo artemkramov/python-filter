@@ -1,0 +1,10 @@
+﻿null
+A. G. Zrazhevsky</em><br><br>Ukraine</p><p></p><p>Зражевський Олексій Григорович,</p><p>аспірант Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p>
+107205
+6364">No 1 (2010
+107205/0">Zrazhevsky
+Methods for building models of long-term prediction of financial time series
+A. G. Zrazhevsky
+Methods for prediction of the financial time series with external conditions are developed. An algorithm of step-by-step construction of linear regression equations with different combinations of repressors is offered. The linear optimization problem is applied to meet the external conditions. The algorithm is used for long-term prediction of the time series according to the requirements of Ukrainian banks on juristic persons credits in 2007.
+107205/102189">PDF (Українська)</a
+—

@@ -1,0 +1,12 @@
+﻿2012-2-8
+12. — Vol. 14, N 2
+79-88
+alt="" width="50">PDF,DOC
+Process-Oriented Model of Information Support for an Enterprise
+Kovalev A.I.
+It has been accomplished the description of data-ware as a component of manufacturing enterprise management in its modern process presentation. The data-ware of enterprise is connected with quality of functioning, which is defined by effectiveness and efficiency of the according process-oriented standards. Tabl.: 4. Fig.: 4. Refs: 4 titles.
+information support, process approach, management, modeling, enterprise.
+References</td><td>
+File
+2-8.pdf
+null

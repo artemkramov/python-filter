@@ -1,0 +1,12 @@
+﻿2013-3-1
+13. — Vol. 15, N 3
+3–19
+alt="" width="50">PDF,DOC
+Analysis of Nearfield Method for Optical Data Storage Using Microstrip Probe Under Illumi-nating Mode
+Lapchuk A.S., Morozov E.M.
+Process of optical information reading by near-field probe based on optical plasmon microstrip line from ROM-format optical disk is analyzed. Parameters of optical near-field optical reading depending on size of microstrip probe are calculated. Found that a pattern of flow of electromagnetic fields at top of probe depends on length of probe and thickness of metal coating. It is shown that interference effects at top of probe significantly affect the parameters of scanning near-field optical microscope. Tabl.: 2. Fig.: 13. Refs: 20 titles.
+microstrip probe, scanning near-field optical microscope, information reading, interfe-rence effects.
+References</td><td>
+File
+3-1.pdf
+null

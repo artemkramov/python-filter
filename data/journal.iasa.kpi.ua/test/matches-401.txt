@@ -1,0 +1,10 @@
+﻿null
+S. O. Pometun</em><br></p><p>
+109717
+6579">No 2 (2008
+109717/0">Pometun
+Algebraic attacks on stream ciphers as generalization of correlation attacks
+S. O. Pometun
+New Boolean’s function concepts, such as correlation with a known function value and Boolean’s function extension, are introduced. Algebraic attacks on stream ciphers with linear feedback are shown to be reduced to approximation of the nonlinear filter using low-degree polynomials in terms of the correlation with the known function value. This kind of correlation can also be used in describing algebraic attacks on other types of ciphers.
+109717/104770">PDF (Українська)</a
+—

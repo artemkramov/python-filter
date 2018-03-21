@@ -1,0 +1,11 @@
+﻿null
+Dmytro V. Stefanyshyn</em><br><a href="http://orcid.org/0000-0002-7620-1613">ORCID iD</a>The Institute of Telecommunications and Global Information Space of the NAS of Ukraine, Kyiv<br>Ukraine</p><p></p><p>Dmytro V. Stefanyshyn,</p><p>Doctor of Science (Eng.), the Lead researcher of the Institute of Telecommunications and Global Information Space of the NAS of Ukraine, Kyiv, Ukraine.</p><p>Research areas: system analysis, analysis and assessment of risk, decision making under uncertainty and risk, reliability and safety of complicated systems, forecasting.</p><p>
+96793
+7139">No 4 (2017
+96793/0">Stefanyshyn
+Considering the risk of unused opportunities when grounding the optimal scenario of commissioning of new units at pumped storage power plants in Ukraine
+Dmytro V. Stefanyshyn
+The problem of grounding the optimal scenario of commissioning of new capacity of hydro generation at pumped storage power plants (PSPP) in Ukraine in accordance with its government program of hydropower development in the period up to 2026, which provides for the completion and commissioning of next power units at the Dniester and the Tashlyk PSPP and construction of the Kaniv PSPP, was examined. A solution to this problem was proposed based on pairwise comparison of alternatives by the criterion of the minimum total risk with taking into account the risk of unused opportunities, where as characteristics forming components of total risks of alternatives energy indicators and costs of commissioning of hydro aggregates were taken. The principal possibility of choosing the optimal scenario of commissioning of new power units on PSPP in Ukraine, which is burdened by lower total risk compared with other possible scenarios, was shown.</div><br></div><div><h4>Keywords</h4><br><div>alternative; pumped storage power plant; optimization; pairwise comparison; decision-making; risk of unused opportunities; total risk; scenario
+96793/114242">PDF (Українська)</a
+—
+><br><br>DOI:<a href="https://doi.org/10.20535/SRIT.2308-8893.2017.4.01">https://doi.org/10.20535/SRIT.2308-8893.2017.4.01</a

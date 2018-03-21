@@ -1,0 +1,12 @@
+﻿2009-3-2
+09. — Vol. 12, N 4
+18-25
+alt="">PDF
+Mathematical Models of the Productivity Losses Caused by Conflicts at the System of Mediators of the Shared Ontology in a GRID Environment
+Matov O.Ya.
+The types of possible conflicts are defined and analytical models for research of productivity losses coefficient values in the system of mediators of the shared ontology in a GRID environment for structures as follow: homogeneous and heterogeneous libraries, in cases of absence and presence of high-productivity caches, for single- and multi-port libraries are developed. Refs: 2 titles.
+probabilistic model, productivity losses model, GRID environment.
+References</td><td>1. Матов О.Я. Проблеми горизонтальної інтеграції інформаційних ресурсів у багаторівневих організаційних структурах з динамічною конфігурацією / О.Я. Матов, І.О. Храмова // Реєстрація, зберігання і оброб. даних. — 2007. —Т. 9, № 3. — С. 88–97.<br>2. Организация вычислительных процессов в АСУ: [Учебное пособие] / [Матов А.Я., Шпилев В.Н., Комов А.Д. и др.]; под ред. А.Я. Матова. — К.: КВИРТУ ПВО, 1989. — 200 с.: ил. — Библиогр.: С. 193–195.
+Файлы
+2009-3-2.pdf
+null

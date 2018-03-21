@@ -1,0 +1,11 @@
+﻿s
+V. P. Tarasenko</em><br><br>Ukraine</p><p></p><p>Тарасенко Володимир Петрович,</p><p>професор, доктор технічних наук, завідувач кафедри спеціалізованих комп’ютерних систем факультету прикладної математики Національного технічного університету України «КПІ», Україна, Київ</p><p></p></div><div></div><div><p><em>A. Yu. Mykhailiuk</em><br><br>Ukraine</p><p></p><p>Михайлюк Антон Юрійович,</p><p>старший науковий співробітник, кандидат технічних наук, доцент кафедри спеціалізованих комп’ютерних систем факультету прикладної математики Національного технічного університету України «КПІ», Україна, Київ</p><p></p></div><div></div><div><p><em>T. M. Zabolotnia</em><br><br>Ukraine</p><p></p><p>Заболотня Тетяна Миколаївна,</p><p>молодший науковий співробітник, асистент кафедри спеціалізованих комп’ютерних систем факультету прикладної математики Національного технічного університету України «КПІ», Україна, Київ</p><p>
+107363
+6391">No 3 (2009
+107363/0">Tarasenko
+Context-associative approach to automated correction of spelling errors
+V. P. Tarasenko, A. Yu. Mykhailiuk, T. M. Zabolotnia
+Addition of filtration for versions of errors correction (by the semantic criterion) into the spelling correction scheme provides a high level of programmatic proof-reader accuracy and makes its functioning possible. The deviation from the traditional sequence of text data analysis allows one to perform a context-associative processing the surroundings of a distorted word at any stage of spelling correction. Techniques for evaluation of the correction algorithm accuracy are offered and up-to-date problems concerning realization of the context-oriented spelling correction are determined. They will be studied in further work.
+107363/102322">PDF (Українська)</a
+—
+null

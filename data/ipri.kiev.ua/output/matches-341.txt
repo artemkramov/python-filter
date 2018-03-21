@@ -1,0 +1,12 @@
+﻿2014-1-10
+14. — Vol. 16, N 1
+88-96
+alt="" width="50">PDF,DOC
+Construction of Sensemaking Systems on the Basis of a Paradigm of Limiting Generalizations
+Prokopchuk I.A.
+A method of construction of sensemaking systems on the basis of a paradigm of limiting generalizations is proposed. In this method, a test configurator bank and a precedent bank are generated for each control Z-problem. Then limiting knowledge models are formed automatically to solve the target Z- problem. The test bank, a system pattern space, sketch digraphs of the precedent base and the knowledge models form the basis of a sensemaking system. Fig.: 3. Refs: 13 titles.
+Paradigm of Limiting Generalizations, syndromic and probabilistic models of knowledge, Sensemaking system.
+References</td><td>
+File
+1-10.pdf
+null

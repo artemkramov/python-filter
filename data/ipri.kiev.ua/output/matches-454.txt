@@ -1,0 +1,12 @@
+﻿2017-1-7
+17. — Vol. 19, N 1
+55–63
+alt="" width="50">PDF,DOC
+Determination of sensitiveness of identifications function to change of entrance descriptions of images processing for the recognition of subjects in information security systems.
+Sachanyuk-Kavetska N.V.
+The operation of differentiation of logic-time functions is in-process considered after a variable for each of three possible classes of such functions, as to the method of testing of sensitiveness of key function to the change of entrance descriptions of processing of images. Basic properties of such operation are considered. Fig.: 3. Refs: 5 titles.
+the derivative of a variable, image recognition, logic-time function.
+References</td><td>
+File
+2017-1-7.pdf
+null

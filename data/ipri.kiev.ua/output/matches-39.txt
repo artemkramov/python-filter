@@ -1,0 +1,12 @@
+﻿Antonov
+08. — Vol. 10, N 1
+3-15
+width="25px" alt="">PDF,DOC
+Retroreflection: Problems and Achievements
+Petrov V.V., Shanoylo S.M., Antonov E.E., Granat O.I., Zenin V.N., Kravets V.G.
+An analysis of retroreflective structures that are used in different branches of the national economy is conducted. The optimization method of characteristics of asymmetric retroreflective elements and the method for calculation of parameters of such elements are proposed. Optimum values of geometrical sizes of elements with maximal retroreflection for the given entrance angle are determined. Fig.: 4. Refs.: 10 titles.
+retroreflective element, entrance angle, reflection coefficient, effective surface.
+References</td><td>1. US Patent 4,895,428. Int. Сl. G02B 5/124. High Efficienvcy Retroreflective Material / J.C.Nelson, S.Cobb; 1990, Jan. 23.<br>2. Петров В.В., Шанойло С.М., Крючин А.А., Антонов Е.Е., Кравец В.Г. Моделирование свойств асимметричних световозвращающих элементов // Реєстрація, зберігання і оброб. даних. — 2007. — Т. 9, № 2. — С. 17–25.<br>3. Борн М., Вольф Э. Основи оптики. — М.: Наука, 1973. — 720 с.<br>4. US Patent 5,831,767, G02B 5/122; G02B 5/124, Int. Cl. Asymmetric Cube Corner Article / Benson G.M., Smith K.I. (USA); «3M» Company. — St. Paul, Minn. (USA); 1998, Nov. 3.<br>5. Пат. 71672 України, МКИ 7 G02B5/12. Спосіб виготовлення світлоповертальних елементів / В.В.Петров, С.М.Шанойло, Л.В.Бутенко, А.А.Крючин, В.М.Зенін, В.Д.Ковтун, О.К.Войтенко (Україна); ІПРІ НАН України. — № 2002108488; Заявл. 25.10.2002; Опубл. 15.12.2004. — С. 2.<br>6. Eckhardt H.D. Simple Model of Corner Reflector Phenomena // Applied Optics. — 1971, July. — Vol. 10, N 7.<br>7. US patent 6,531,205. Int. Cl. Fluorescent Yellow Retroreflective Sheeting / Buoni et al. («Avery Dennison Corporation», CA, USA). — March 11. — 2003.<br>8. Кравець В.Г., Петров В.В., Шанойло С.М., Крючин А.А., Зенін В.М., Гранат О.І., Числов Д.С. Спосіб виготовлення призмових світлоповертальних елементів з використанням люмінесцентних світлогенеруючих шарів. Заявка на винахід. — 2006.<br>9. Урмахер Л.С., Айзенштат Л.И. Оптические средства коррекции зрения. — М.: Медицина, 1990. — 256 с.<br>10. Пат. 74034 України, G02B5/124, В32В3/00. Спосіб виготовлення призмоподібних світло-повертальних елементів / В.В.Петров, С.М.Шанойло, О.І.Гранат, Л.В.Бутенко, А.А.Крючин, В.М.Зенін, В.Д.Ковтун, О.К.Войтенко, В.О.Заболотний, П.В.Майстренко, А.В. Ковальчук (Украї-на); ІПРІ НАН України. — № 2003076449; Заявл. 10.07.2003; Опубл. 17.10.2005. — 2 с.
+Файлы
+statja.doc
+null

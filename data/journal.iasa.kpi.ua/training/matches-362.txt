@@ -1,0 +1,10 @@
+﻿null
+М. Haigh</em><br><br>United States</p><p></p><p>Хейг Марія,</p><p>професор-асистент факультету інформаційних студій Вісконсинського університету, США, Вісконсин, Мілуоке</p><p>
+108441
+6423">No 2 (2009
+108441/0">Haigh
+Reseach versus practice in software engineering: comparison of expert opinions to measured user priorities
+М. Haigh
+This work explores the differences in software quality perceptions between different groups of people involved with the software development process. Three hundred and fifteen respondents ranked each of thirteen generally accepted attributes of software quality on a scale of one to seven according to their perceived importance for the piece of software most vital to that individual’s work. Differences in the priorities assigned to these attributes were explored using a number of different statistical techniques. Results of this research were compared to the results of several existing studies conducted by experts in theory and practice of software engineering. Comparisons between the studies are valuable, because they allow a comparison of observed correlations between desires for different attributes derived in this study with expert opinion on the extent to which these attributes can be realized in conjunction.
+108441/103390">PDF</a
+—

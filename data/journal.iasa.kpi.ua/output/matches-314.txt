@@ -1,0 +1,11 @@
+﻿s
+S. D. Pohorilyi</em><br><br>Ukraine</p><p></p><p>Погорілий Сергій Дем’янович,</p><p>доктор технічних наук, професор кафедри напівпровідникової електроніки радіофізичного факультету Київського національного університету ім. Тараса Шевченка, Україна, Київ</p><p></p></div><div></div><div><p><em>V. A. Maryanovskiy</em><br><br>Ukraine</p><p></p><p>Мар’яновський Віталій Анатолійович,</p><p>аспірант кафедри напівпровідникової електроніки радіофізичного факультету Київського національного університету ім. Тараса Шевченка, Україна, Київ</p><p></p></div><div></div><div><p><em>Yu. V. Boiko</em><br><br>Ukraine</p><p></p><p>Бойко Юрій Володимирович,</p><p>кандидат фізико-математичних наук, начальник інформаційно-обчислювального центру Київського національного університету ім. Тараса Шевченка, Україна, Київ</p><p></p></div><div></div><div><p><em>D. Yu. Vitel</em><br><br>Ukraine</p><p></p><p>Вітель Дмитро Юрійович,</p><p>студент IV курсу кафедри напівпровідникової електроніки радіофізичного факультету Київського національного університету ім. Тараса Шевченка, Україна, Київ</p><p>
+107197
+6364">No 1 (2010
+107197/0">Pohorilyi
+Formation of generalized parallel schemes for Floyd-Warshall’s algorithm
+S. D. Pohorilyi, V. A. Maryanovskiy, Yu. V. Boiko, D. Yu. Vitel
+Floyd-Warshall’s algorithm is formalized using the mathematical tool of modified algorithmic algebras systems. A set of schemes is created step-by-step, and their features and possible problems in using them are considered along with a generalized parallel regular algorithm scheme which takes into account the peculiarities of systems with shared and distributed memory.
+107197/102182">PDF (Українська)</a
+—
+null

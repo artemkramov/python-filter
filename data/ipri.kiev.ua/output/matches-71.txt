@@ -1,0 +1,12 @@
+﻿Fedorenko
+08. — Vol. 10, N 3
+29-36
+width="25px" alt="">PDF,DOC
+Foundations of Theory for Constructing Digital Filters with Hypercomplex Coefficients
+Petrenko A.I., Sinkov M.V., Fedorenko O.V.
+Generalization of a method for digital filter transfer function construction, coefficients of which be-long to some hypercomplex numerical system is considered. The method of such filters construction, using arithmetical blocks, which operate with real numbers, is offered. Results of modeling the filter con-structed using offered method are listed. Comparative analysis of those results with results of filters with real coefficients modeling is made. Fig.: 3. Refs: 8 titles.
+digital filters, transfer function, transfer function coefficients, hypercomplex numerical systems, modeling.
+Ссылки</td><td>1. Toyoshima H. Design of Hypercomplex All-Pass Filters to Realize Complex Transfer Functions / H. Toyoshima, S. Higuchi // Proc. Second Int. Conf. Information, Communications and Signal Processing. — 1999. — N 2B3.4. — P. 1–5.<br>2. Schutte H.D. Hypercomplex Numbers in Digital Signal Processing / H.D. Schutte, J. Wessel // Proc. Int. Conf. On Circuits and Systems. — New Orleans (Louisiana). — 1990. — P. 1557–1560.<br>3. Alfsmann D. Design of Hypercomplex Allpass-Based Paraunitary Filter Banks applying Reduced Biquaternions / D. Alfsmann, H.G. Gockler // Proc. EUROCON. — Belgrade, Serbia &amp; Montenegro, 2005. — P. 92–95.<br>4. Ueda K. Digital Filtrs with Hypercomplex Coefficients / K. Ueda, S. Takahashi // ISCAP. – 1993. — P. 479–482.<br>5. Каліновський Я.О. Методи комп’ютерного моделювання та обчислень з використанням гі-перкомплексних числових систем: дис. … доктора техн. наук: 01.05.02 / Каліновський Яків Олек-сандрович. — К., 2007. — 417 с.<br>6. Кантор И. Л. Гиперкомплексные числа / И.Л. Кантор, А.С. Солодовников. — М. : Наука, 1973. — 144 с.<br>7. Поляков А.К. Языки VHDL и VERILOG в проектировании цифровой аппаратуры / А.К. Поляков. — М.: Солон-Пресс, 2003. — 320 с.<br>8. Система автоматизации проектирования Quartus II. — Санкт-Петербург: СПбГПУ — ЭФО, 2003. — 179 с.
+Файлы
+article_Petrenko.doc
+null

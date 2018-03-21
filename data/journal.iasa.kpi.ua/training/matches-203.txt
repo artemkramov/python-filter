@@ -1,0 +1,10 @@
+﻿null
+N. I. Nedashkovskaya</em><br><a href="http://orcid.org/0000-0002-8277-3095">ORCID iD</a>доцент кафедри математичних методів системного аналізу Навчально-наукового комплексу "Інститут прикладного системного аналізу" Національного технічного університету України "КПІ" МОН та НАН України, Київ<br>Ukraine</p><p></p><p>Недашківська Надія Іванівна,</p><p>кандидат технічних наук, доцент кафедри математичних методів системного аналізу Навчально-наукового комплексу "Інститут прикладного системного аналізу" Національного технічного університету України "КПІ" МОН та НАН України, Київ</p><p>
+73125
+4358">No 1 (2012
+73125/0">Nedashkovskaya
+Evaluation of sensitivity of the DS/AHP method to the applying in the most of the alternatives
+N. I. Nedashkovskaya
+The formalization of the integrated decision support method DS/AHP by many criteria with incomplete expert estimates, which combines the method of hierarchies’ analysis and the theory of confidence of Dempster-Shafer, is done. Evaluation of the sensitivity of the rankings, obtained by the DS/MAI method to changes in the set of solutions alternatives, is carried out. Changes of rankings are illustrated with a few examples.
+73125/68444">PDF (Русский)</a
+—

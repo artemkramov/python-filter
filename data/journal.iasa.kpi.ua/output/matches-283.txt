@@ -1,0 +1,10 @@
+﻿null
+G. P. Poveshchenko</em><br><br>Ukraine</p><p></p><p>Повещенко Генадій Павлович,</p><p>старший науковий співробітник, кандидат технічних наук, старший науковий співробітник Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p>
+106821
+6349">No 4 (2010
+106821/0">Poveshchenko
+Elements of informatiоn dynamics
+G. P. Poveshchenko
+The examined mathematical model of information dynamics takes into account the influence of processes of migration and diffusion of data carriers, intercourses between them, and external influence on the processes of choice and selection. The calculations according to the model demonstrate the presence of multistability, stability of choice, chaotic and transient regimes in the system.
+106821/101884">PDF (Українська)</a
+—

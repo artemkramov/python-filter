@@ -1,0 +1,12 @@
+﻿2009-4-2
+09. — Vol. 11, N 4
+10-17
+alt="">PDF
+Surface Plasmon Wave Modeling Method for Tree-Dimensional Curved Surfaces
+Denisyuk M.S.
+FDTD-method modification for 3D-domain is proposed. This modification increases accuracy of electric and magnetic fields vectors calculation on dielectric-dielectric and metal-dielectric interfaces. It allows modeling processes of excitation and propagation of surface plasmon waves for curved metaldielectric interfaces. Fig.: 7. Refs: 6 titles.
+finite-difference method, finite-difference time-domain method, FDTD, numerical modeling, plasmon, Plasmon-polariton, computer electrodynamics.
+References</td><td>1. Taflove A. Computational Electrodynamics: The Finite-Difference Time-Domain Method / A. Taflove, S.C. Hagness // Norwood: Artech House, 2005. —3nd ed. — 1038 p.<br>2. Yee K.S. Numerical Solution of Initial Boundary Value Problems Involving Maxwell’s Equations in Isotropic Media / K.S. Yee / IEEE Trans. Antennas and Propagation. — 1966. — Vol. 14. — P. 302–307.<br>3. Mohammadi Ahmad. Contour-Path Effective Permittivities for the Two-Dimensional Finite Difference Time-Domain Method / A. Mohammadi, H. Nadgaran, M. Agio // Optics express, 2005. — Vol. 13, N 25. —P.10367-10381.<br>4. Jalali T. Efficient Effective Permittivity Treatment for the 2D-FDTD Simulation of Photonic Crystals / T. Jalali, K. Rauscher, A. Mohammadi, D. Erni, et al. // Journal of Computational and Theoretical Nanoscience. — 2007. — Vol. 4. —P. 644–648.<br>5. Kaneda K. FDTD Analysis of Dielectric Resonators with Сurved Surfaces / Kaneda K., Houshmand B., Itoh T. // IEEE Trans. Microwave Theory Tech. — 1997. — Vol. 45. —P. 1645–1649.<br>6. Mohammadi Ahmad. Dispersive Contour-Path Finite-Difference Time-Domain Algorithm for Modeling Surface Plasmon Polaritons at Flat Interfaces / A. Mohammadi, M. Agio //Optics Express. — 2006.— Vol. 14, N 23. — P. 11330–11338.
+Файлы
+2009-4-2.pdf
+null

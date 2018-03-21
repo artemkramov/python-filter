@@ -1,0 +1,12 @@
+﻿2016-3-5
+16. — Vol. 18, N 3
+54–58
+alt="" width="50">PDF,DOC
+Problems of active protection of information from leakage through vibroacoustic channels
+Kataiev V.С., Grycak A.V., Leontiev V.О., Liahovchenko N.V.
+Properties of different materials in the propagation of vibration signals in them, at different distances from the source of vibrations are investigated. The measurements have been performed for glass, concrete, plastic, wood and metal. The results of the experiment have shown that the smallest attenuation coefficients are for concrete and the largest ones are in metal. The data obtained allows make a statement that properties of different materials, from point of view of elastic waves distribution, are considerably varied. This fact can be applied in the development of systems of active protection of information. Fig.: 2. Refs: 8 titles.
+information security, speech information, vibroacoustic channels.
+References</td><td>
+File
+3-5.pdf
+null

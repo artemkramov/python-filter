@@ -1,0 +1,12 @@
+﻿2013-4-4
+13. — Vol. 15, N 4
+32–40
+alt="" width="50">PDF,DOC
+Building of a System for Monitoring, Adaptive Aggregation and Generalization of Information
+Dodonov A.G., Lande D.V., Putyatin V.G., Zhygalo V.V.
+The function chart of the monitoring system, adaptive aggregation and generalization of flows of information from global computer networks for ensuring information and analytical activity is presented. The description of the main stages of information processing and information streams is provided. A brief description of the model — experimental system is also provided. The practical significance of work consists in justification of approaches and tools for the information and analytical environment for carrying out scientific and analytical researches. Fig.: 3. Refs: 10 titles.
+function chart, information monitoring, metasearch system, adaptive aggregation of information.
+References</td><td>
+File
+4-4.pdf
+null

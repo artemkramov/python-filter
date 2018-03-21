@@ -1,0 +1,11 @@
+﻿s
+O. A. Kapustian</em><br>завідувач науково-дослідного сектору факультету кібернетики Київського національного університету ім. Тараса Шевченка, Україна, Київ<br>Ukraine</p><p></p><p>Капустян Олена Анатоліївна,</p><p>кандидат фізико-математичних наук, завідувач науково-дослідного сектору факультету кібернетики Київського національного університету ім.&nbsp;Тараса Шевченка, Україна, Київ</p><p></p></div><div></div><div><p><em>V. V. Yasinsky</em><br>директор Інституту моніторингу якості освіти Національного технічного університету "КПІ", Україна, Київ<br>Ukraine</p><p></p><p>Ясінський Василь Васильович,</p><p>професор, кандидат фізико-математичних наук, директор Інституту моніторингу якості освіти Національного технічного університету "КПІ", Україна, Київ</p><p>
+73340
+4358">No 1 (2012
+73340/0">Kapustian
+Close regulator for evolutional inclusion of subdifferential type
+O. A. Kapustian, V. V. Yasinsky
+A problem of an optimal stabilization for evolutional inclusion of subdifferential type with non-Lipschitz multi-valued interaction function εF(y), where ε &gt; 0 is a&nbsp;mall parameter, is considered. Under the condition where ε = 0 the problem admits optimal regulator u[y], it is proved that the formula u[y] guarantees approximated stabilization of the initial problem under small ε &gt; 0.
+73340/68655">PDF (Українська)</a
+—
+null

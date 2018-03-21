@@ -1,0 +1,12 @@
+﻿Brjagin
+08. — Vol. 10, N 4
+13-18
+width="25px" alt="">PDF,DOC
+A Quality Estimate of Magnetic Media Data Layer
+Beliak Ie.V., Kozhan T.M., Kryuchin A.A.
+A modern techinque for quality estimate of magnetic media data layer of all patterns, which is founded on use of digital processing of multivariate signals principles, is considered. The block diagrams for the techinque practical realization are developed. Fig.: 3. Refs.: 3 titles.
+magnetic media, multivariate signals, probability distribution function, random process.
+References</td><td>1. Коженевский С. Методы визуализации магнитных полей носителей информации [Элект-ронный ресурс] / С. Коженевский, С. Левый, В. Вишневский, С. Прокопенко. — Режим доступа: http://www.epos.ua/pubs/visual.htm<br>2. Losev V.V. SPM Analysis of the CD/DVD Discs [Електронний ресурс] / V.V. Losev, S.A. Saunin, V.V. Zhizhimontov. — Режим доступу: http://www.ntmdt.ru/spm-notes/view/spm-analysis-of-the-cddvd-discs<br>3. Общество с ограниченной ответственностью Научно-производственное предприятие «АСЕ» Программно-аппаратный комплекс для ремонта HDD ATA, SATA PC-3000 [Электронный ресурс]. — Режим доступа: http://www.acelab.ru/dep.pc/hdd.php<br>4. Василевский Ю.А. Носители магнитной записи. — М.: Искусство, 1989. – 287 с.<br>5. Даджион Д. Цифровая обработка многомерных сигналов / Д. Даджион, Р. Мерсеро; пер. с англ. — М.: Мир, 1988. — 488 с.<br>6. Лившиц Н.А. Вероятностный анализ систем автоматического управления / Н.А. Лившиц, В.Н. Пугачев. — Кн. 1. — М.: Сов. радио, 1963. — 896 с.
+Файлы
+tekst_stati_prinjatye_ispravlenija.doc
+null

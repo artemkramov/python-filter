@@ -1,0 +1,13 @@
+﻿2016-4-8
+16. — Vol. 18, N 4
+79–85
+alt="" width="50">PDF,DOC
+Construction of an оntology-based model for scenario analysis.
+Boychenko A.V.
+The applying of an ontology-based model in scenario modeling of subject areas has been considered. A technology what provides semi-automatic processing of incoming documents and generation of a key concepts graph is proposed. The technology allows solving the problem of development and research scenarios of informational influence on objects that match the selected key concepts. Fig.: 3. Refs: 8 titles.
+scenario analysis, ontologies, cognitive maps, analytical activity, domain model.
+References</td><td>
+File
+4-8.pdf
+null
+&lt;/li&gt;

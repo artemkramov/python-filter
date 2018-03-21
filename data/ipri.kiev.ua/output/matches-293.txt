@@ -1,0 +1,12 @@
+﻿2013-1-4
+13. — Vol. 15, N 1
+31-44
+alt="" width="50">PDF,DOC
+The Structure of a Hyper Fast Calculation Method Linear Convolution of Discrete Signals
+Kalinovsky J.A.
+The method for fast evaluation of linear convolution of long arrays of numbers 2п by representing them in special hypercomplex number systems and having isomorphic to these systems, the implementation of hypercomplex operations that require less real operations, has been investigated. Fig.: 5. Refs: 10 titles.
+hypercomplex number system, isomorphism, convolution, basis, computational complexity.
+References</td><td>
+File
+1-4.pdf
+null

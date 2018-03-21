@@ -1,0 +1,12 @@
+﻿Romanjuk
+06. — Vol. 8, N 3
+11-19
+width="25px" alt="">PDF,DOC
+Adaptive Normalization of Normal Vectors During Diffuse and Specular Color Components Definition
+Romanyuk A.N., Melnikov A.М.
+The problems of normal vectors adaptive normalization during three-dimensional graphic figures shading using Phong method are considered. It is offered to execute normalization of normal vectors in boundary dots of digital segments, with consequent calculation of intermediate normals values with usage of linear interpolating subject to the condition that their deflection from a unit size does not exceed set value. Fig.: 4. Refs: 6 titles
+shading, rendering, normalization, normal vectors.
+References</td><td>1. Lyon R.F. Phong Shading Reformulation for Hardware Renderer Simplification // Apple Technical Report. — 1993. — N 43. — Р. 9–11.<br>2. Херн Д., Павлин Бейкер М. Компьютерная графика и стандарт OpenGL — М.: Издательский дом «Вильямс», 2005. — 1168 с.<br>3. Романюк О.Н., Чорний А.В. Новий підхід до визначення спекулярної складової кольору // Оптико-електронні інформаційно-енергетичні технології. — 2004. — № 2. — С. 85–92.<br>4. Роджерс Д. Алгоритмические основы машинной графики: Пер. с англ. — М.: Мир, 1989. — 512 с.<br>5. Романюк О.Н. Комбіноване використання бінарної та кодової лінійної інтерполяції для но-рмалізації векторів нормалей при зафарбовуванні тривимірних об’єктів // Вестник Херсонского национального технического университета. — Херсон: ХНТУ, 2006. — Вып. 2 (25). — С. 408–411.<br>6. Романюк О.Н., Чорний А.В. Реалізація рендерингу Фонга з використанням сферично-куто-вої інтерполяції // Вiсник Вiнницького полiтехнiчного iнституту. — 2004. — № 3. — С. 66–71.
+File
+vidstan10.doc
+null

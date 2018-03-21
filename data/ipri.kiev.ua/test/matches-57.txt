@@ -1,0 +1,12 @@
+﻿Bilichenko
+08. — Vol. 10, N 2
+37-47
+width="25px" alt="">PDF,DOC
+Fast Search at Vector Quantization of Linear Spectral Frequencies
+Bilichenko N.O., Tkachenko O.M., Feferman O.D., Hruschak S.V.
+Method of fast search of vectors in a codebook based on the vectors majorization is proposed. The mathematic model and codebooks structuring algorithm based on the majorization are developed. Results of the experimental research of the proposed method are given. Tabl.: 4. Fig.: 4. Refs.: 7 titles.
+language coding, majorization, LSF, vector quantization, codebook, spectral distortion.
+Ссылки</td><td>1. Soong F.K. and Juang B.H. Line Spectrum Pair (LSP) and Speech Data Compression. — ISASSP, 1984. — Р. 1.10.1–1.10.4.<br>2. Soong F.K. and Juang B.H. Optimal Quantization of LSP Parameters // Proc. IEEE Inf. Conf. Acoust., Speech Signal Processing. — NewYork: 1988. — Р. 394–397.<br>3. Atal B.S., Cox R.V. and Kroon P. Spectral Quantization and Interpolation for CELP Coders // Proc. IEEE Inf. Conf. Acoust., Speech Signal Processing. — Glasgow: 1989. — Р. 69–72.<br>4. Paliwal K.K. and Atal B.S. Efficient Vector Quantization of LPC Parameters at 24 bits/frame // IEEE Transaction on Speech and Audio Processing. — 1993. — Vol. 1, N. 2. — Р. 3–14.<br>5. Біліченко Н.О., Ткаченко О.М., Феферман О.Д., Хрущак С.В. LSF-вокодер на основі векто-рного квантування // Реєстрація, зберігання і оброб. даних. — 2007. — Т. 9, № 1. — С. 35–41.<br>6. Zhou J., Shoham Y. and Akansu A. Simple Fast Vector Quantization of the Line Spectral Frequencies // Image Compression and Encryption Technologies. — 2001. — Vol. 4551. — Р. 274–282.<br>7. Маршалл А., Олкин И. Неравенства: теория мажоризации и ее приложения / Пер. с англ. — М.: Мир, 1983. — 576 с.
+Файлы
+VNTU.doc
+null

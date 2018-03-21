@@ -1,0 +1,12 @@
+﻿2013-1-7
+13. — Vol. 15, N 1
+59-70
+alt="" width="50">PDF,DOC
+Identification of Audio Recording Devices Using Statistical Characteristics of the Audio Files
+Solovyov V.I.
+The results of studies on the development of the methodology and mathematical model of detection and analysis of self-similar structures in the pauses of audio files have been provided. The model allows select the statistical characteristics, which are the result of individual audio equipment parameters. The identification apparatus model according to the statistical characteristics of the audio pauses audio files has been developed. Fig.: 6. Refs: 20 titles.
+self-similar structure, pause audio, audio recording equipment identification.
+References</td><td>
+File
+1-7.pdf
+null

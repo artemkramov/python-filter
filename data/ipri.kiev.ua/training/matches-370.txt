@@ -1,0 +1,12 @@
+﻿2014-4-8
+14. — Vol. 16, N 4
+64–75
+alt="" width="50">PDF,DOC
+Experimental study of method for determining the semantic similarity of knowledge base ob-jects in decision support systems
+Tsyganok V.V., Andriichuk O.V.
+The description and the results of an experimental study of the method for determining the semantic similarity of knowledge base objects in decision support systems is presented. The essence of the method for determining the semantic similarity and variants of its possible application in expert decision support systems are set out. During the experimental study, the benchmark values of the semantic similarity of objects were determined by experts, simulation of keywords weights representing objects was applied to ensure statistical reliability of the experiment. The study shows that the values calculated by investigated method are close to benchmarks. Thus the adequacy of the method and, consequently, its practical value are confirmed. Tabl.: 5. Fig.: 4. Refs: 15 titles.
+decision-making support system, weakly structured subject domain, knowledge base, semantic similarity, expert estimates, simulation, experiment.
+References</td><td>
+File
+4-8.pdf
+null

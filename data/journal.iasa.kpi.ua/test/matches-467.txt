@@ -1,0 +1,11 @@
+﻿s
+Fedir G. Garashchenko</em><br>The Department of Complex Systems Modeling at the Faculty of Computer Science and Cybernetics of Kyiv National Taras Shevchenko University, Kyiv<br>Ukraine</p><p></p><p>Fedir Georgievich Garashchenko,</p><p>Doctor of Technical Sciences, professor, the Head of the Department of Complex Systems Modeling at the Faculty of Computer Science and Cybernetics of Kyiv National Taras Shevchenko University, Kyiv, Ukraine.</p><p></p></div><div></div><div><p><em>Vladimir T. Matvienko</em><br>The Faculty of Computer Science and Cybernetics of Kyiv National Taras Shevchenko University, Kyiv<br>Ukraine</p><p></p><p>Vladimir Tihonovich Matvienko,</p><p>Candidate of Physical and Mathematical Sciences, an associate professor at the Faculty of Computer Science and Cybernetics of Kyiv National Taras Shevchenko University, Kyiv, Ukraine.</p><p>
+119459
+7139">No 4 (2017
+119459/0">Garashchenko
+Adaptive approximation of signals using pseudoinversion methods
+Fedir G. Garashchenko, Vladimir T. Matvienko
+In order to solve the important applied problems it is necessary to approximate the experimental data. In this paper, we consider the problem of adaptive data approximation and propose the general iterative scheme. This procedure has two cycles: internal and external. The external cycle provides changes to the basic functions structure, their extension if necessary. The internal cycle checks the approximation parameters during receiving the experimental data. The proposed scheme uses the representation of a pseudoinverse operator. Conditions for the convergence of the iterative scheme for approximating signals, which are based on Lyapunov stability theory are given.</div><br></div><div><h4>Keywords</h4><br><div>adaptive approximation; dynamical system; optimization; pseudoinversion; iterative scheme; convergence
+119459/114244">PDF (Українська)</a
+—
+><br><br>DOI:<a href="https://doi.org/10.20535/SRIT.2308-8893.2017.4.09">https://doi.org/10.20535/SRIT.2308-8893.2017.4.09</a

@@ -1,0 +1,10 @@
+﻿null
+N. А. Murga</em><br><br>Ukraine</p><p></p><p>Мурга Микола Олексійович,</p><p>аспірант Національного технічного університету України «КПІ», Україна, Київ</p><p>
+106924
+6356">No 3 (2010
+106924/0">Murga
+Fuzzy stock portfolio. Research and optimization
+N. А. Murga
+A fuzzy stock portfolio whose membership functions are triangular is studied. The risk-profit relationship is investigated for various assets of membership functions and criterion values. It is shown that the general optimization problem may be reduced to the two-dimensional case, and some algorithms of the portfolio optimization are proposed. Some regularities of the risk-profit relationship behaviour are considered.
+106924/101923">PDF (Русский)</a
+—

@@ -1,0 +1,12 @@
+﻿2011-3-5
+11. — Vol. 13, N 3
+51-61&gt;
+alt="" width="50">PDF,DOC
+Forming Technical Configuration of Computer-Aided Systems
+Samokhvalov Yu.Ya., Naumenko E.M., Burba O.I.
+One of the feasible approaches to formalization of the process for forming technical computer-aided systems configuration is considered. It allows to structure this process by sequence of intercommunication technological procedures and to obtain necessary and sufficient source data for the substantiation of requirements to the system. Fig.: 7. Refs: 8 titles.
+requirements, technical configuration, computer-aided system, information technology, life cycle, information pricessing facilities, algorithm, model, graph
+References</td><td>1. Автоматизированные системы. Стадии создания: ГОСТ 34.601-90. — М.: Государствен- ный комитет СССР по стандартам, 1990. — 21 с.<br>2. Скурихин В.И. О формулировании концепций. Концепция «четырех И» / В.И. Скурихин // УСиМ. — 1989. — № 2. — С. 7–12.<br>3. Канащенков А.И. Облик перспективных бортовых радиолокационных систем. Возмож- ности и ограничения / Канащенков А.И., Меркулов В.И., Самарин О.Ф. — М.: ИПРЖР, 2002. — 176 с.<br>4. Гриб Д.А. Методологічний підхід до формування технічного обрису перспективних зразків озброєння та військової техніки / Д.А. Гриб, Б.О. Демідов, М.В. Науменко // Наука і оборо- на. — 2009. — № 4. — С. 30–34.<br>5. Гриб Д.А. Системно-концептуальні основи і елементи методології формування оператив- но-тактичних і тактико-технічних вимог, що пред’являються до перспектиних зразків озброєння і військової техніки та зразків, що модернізуються / Д.А. Гриб, Б.О. Демідов, М.В. Науменко // Сис- теми озброєння і військова техніка. — 2009. — № 2 (18). — С. 65–73.<br>6. Гусев А.Л. Особенности военно-научных исследований по обоснованию концепций и об- ликов перспективных авиационных комплексов / А.Л. Гусев, А.К. Денисенко, В.С. Платунов // Военная мысль. — 2007. — № 8. — С. 49–53.<br>7. Системи оброблення інформації. Розроблення систем. Терміни та визначення: ДСТУ 2941-94. — К.: УЦС, 1994. — 22 с.<br>8. Саати Т. Принятие решений. Метод анализа иерархий / Т. Саати. — М.: Радио и связь, 1993. — 314 с.
+File
+3-5.pdf
+null

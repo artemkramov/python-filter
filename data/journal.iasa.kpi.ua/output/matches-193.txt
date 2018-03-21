@@ -1,0 +1,11 @@
+﻿s
+A. V. Morozov</em><br>завідувач кафедри інформатики та комп’ютерного мо-делювання Житомирського державного технологічного університету, Україна, Житомир<br>Ukraine</p><p></p><p>Морозов Андрій Васильович,</p><p>кандидат технічних наук, завідувач кафедри інформатики та комп’ютерного моделювання Житомирського державного технологічного університету, Україна, Житомир</p><p></p></div><div></div><div><p><em>A. V. Panishev</em><br>завідувач кафедри програмного забезпечення обчислювальної техніки Житомирського державного технологічного університету, Україна, Житомир<br>Ukraine</p><p></p><p>Панішев Анатолій Васильович,</p><p>доктор технічних наук, професор, завідувач кафедри програмного забезпечення обчислювальної техніки Житомирського державного технологічного університету, Україна, Житомир</p><p>
+71928
+4265">No 2 (2012
+71928/0">Morozov
+The branch-and-bound method in Hamiltonian Rural Postman Problem
+A. V. Morozov, A. V. Panishev
+The Hamiltonian Rural Postman Problem, which is generalization of the Hamiltonian Travelling Salesman Problem, is formulated. Modification of the classical branch-and-bound algorithm (Little’s method) which allows to find exact solution of the Hamiltonian Rural Postman Problem or correctly determine lack of solution is offered.
+71928/66905">PDF (Українська)</a
+—
+null

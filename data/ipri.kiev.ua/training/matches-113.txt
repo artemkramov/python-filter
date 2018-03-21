@@ -1,0 +1,12 @@
+﻿2009-2-9
+10. — Vol. 12, N 2
+83-89
+alt="">PDF
+Determining the Efficiency of Expert Estimate Aggregation Methods while Using Pair Comparisons
+Tsyganok V.V.
+A method of determining the efficiency of expert estimate aggregation methods while using pair comparisons is suggested. The method is based on modelling the errors, made by experts while performing pair comparisons. The efficiency of expert estimate aggregation methods is considered in the context of results reliability increase. Genetic algorithm application for searching maximal possible deviations of pair comparisons results is provided for. Fig.: 2. Refs: 7 titles.
+pair comparisons, efficiency of expert estimate aggregation methods, genetic algorithm.
+References</td><td>1. Саати Т. Принятие решений — Метод анализа иерархий / Т. Саати. — М.: Радио и связь, 1993. — 278 с.<br>2. Тоценко В.Г. Методы и системы поддержки принятия решений. Алгоритмический аспект / В.Г. Тоценко; ИПРИ НАНУ. — К.: Наук. думка, 2002. — 382 с.<br>3. Тоценко В.Г. Генерация алгоритмов парных сравнений для моделирования предпочтений эксперта при поддержке принятия решений. Ч. 1 / В.Г. Тоценко // Электронное моделирование. — 2000.— № 3. — С. 11–24.<br>4. Тоценко В.Г. Генерация алгоритмов парных сравнений для моделирования предпочтений эксперта при поддержке принятия решений. Ч. 2 / В.Г. Тоценко // Электронное моделирование. — 2000.— № 4. — С. 16–24.<br>5. Циганок В.В. Комбінаторний алгоритм парних порівнянь зі зворотним зв’язком з експертом / В.В. Циганок / Реєстрація, зберігання і оброб. даних. — 2000. —Т. 2, № 2. — С. 92–102.<br>6. Миллер Г. Магическое число семь плюс или минус два: о некоторых пределах нашей способности перерабатывать информацию / Г. Миллер. — М.: Инженерная психология. Прогресс, 1964.<br>7. Saaty T.L. Relative Measurement and Its Generalization in Decision Making. Why Pairwise Comparisons are Central in Mathematics for the Measurement of Intangible Factors. The Analytic Hierarchy/ Network Process / T.L. Saaty; Statistics and Operations Research. — 2008. — 102 (2). — P. 251– 318.
+Файлы
+2009-2-9.pdf
+null

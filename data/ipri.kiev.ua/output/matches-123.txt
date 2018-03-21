@@ -1,0 +1,12 @@
+﻿Boichenko
+05. — Vol. 7, N 1
+37-44
+width="50" alt="">PDF,DOC
+Creation of an Information Retrieval System in the Corporate Network
+Boychenko O.A.
+Features of information retrieval for providing analytical activity of corporate networks users is considered. The structure of search system and the methodology of its creation are offered. They allow to organize the retrieval both within the limits of the network and in Internet. Fig.: 2. Tabl.: 1. Refs.: 12 titles.
+search system, corporate network, information retrieval.
+References</td><td>1. Менаске Д., Алмейда В. Производительность Web-служб. Анализ, оценка и планирование. — СПб: ДиаСофтЮП, 2003. — 480 с.<br>2. Вентцель Е.С. Исследование операций. — М.: Советское радио, 1972. — 552 с.<br>3. Menasce D., Almeida V., Riedi R., Peligrelliy F., Fonseca R., Wagner M.Jr. Analyzing Web Ro-bots and Their Impact on Caching. — On line: http://www.cs.bu.edu/techreports/2001-017-wcw01-proceedings/101_almeida.pdf.<br>4. Мизин И.А., Богатырев В.А., Кулешов А.П. Сети коммутации пакетов. — М.: Радио и связь, 1986.<br>5. Бойченко О.А. Про організацію систем пошуку інформації в комп’ютерних мережах // Реєстрація, зберігання і оброб. даних. — 1999. — Т. 1, № 3–4. — С. 45–50.<br>6. Некрестьянов И.С. Тематико-ориентированные методы информационного поиска. Дис... канд. физ.-мат. наук. — On line: http://meta.math.spbu.ru/~igor/thesis/thesis.html.<br>7. Ландэ Д.В. Глубинный анализ текстов. Технология эффективного анализа текстовых дан-ных // CHIP Ukraine. — 2003. — № 10.<br>8. Дериев И. Поисковые системы уровня организации // Компьютерное Обозрение. — 2004. — № 50.<br>9. Khoussainov R., Kushmerick N. Optimizing Performance of Competing Search Engines in Heter-ogeneous Web Environments // ECML-2003. — Dubrovnik (Croatia). — 2003. — On line: http:// www.bridgeport.edu/sed/includes/NEASC%20CSE%20Faculty%20Ativities%20Nov%203%202004.pdf.<br>10. Heydon, A. and Najork, M. Mercator: A Scalable, Extensible Web Crawler // Word Wide Web J. — 1999, Dec. — Vol. 2, N 4. — P. 219–229.<br>11. Kasom Koht-arsa. High Performance Cluster-Based Web Spiders: Master Thesis. — Graduate School. Kasetsart University, 2003. — On line: http://anres.cpe.ku.ac.th/pub/thesis-spider.pdf<br>12. Davidov D., Markovitch Sh. Multiple-Goal Search Algorithms and their Application to Web Crawling. — Haifa (Israel): Computer Science Department Technion.
+File
+RZOD2_04.doc
+null

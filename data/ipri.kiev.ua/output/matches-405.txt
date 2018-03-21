@@ -1,0 +1,12 @@
+﻿2015-4-4
+15. — Vol. 17, N 4
+31–38
+alt="" width="50">PDF,DOC
+The solution of problem on grouping mobile objects in monitoring systems using clustering techniques
+Yuzefovich V.V.
+It is discussed an approach to the problem of automatic grouping of moving objects based on the use of the modified method of «nearest neighbor», which differs from the known one by analysis of distances from the current element of set to the boundaries of existing clusters. Tabl.: 1. Fig.: 4. Refs: 3 titles.
+monitoring system, mobile object, grouping, clustering, cluster.
+References</td><td>
+File
+4-4.pdf
+null

@@ -1,0 +1,12 @@
+﻿2009-4-7
+09. — Vol. 11, N 4
+51-58
+alt="">PDF
+The Method of Relief Surface Image Formation
+Vyatkin S.I., Romaniuk O.V.
+The issue of using scalar perturbation functions for visualization of microrelief and free form surfaces of 3D-objects is considered. New methods for defining and visualization of surfaces on the basis of scalar perturbation functions are proposed. The advantages of proposed methods over the existent methods such as spline-based, based on polygonal object representation and methods of microrelief visualization are shown. Free form can have the order that is much higher than three, but at the same time it is simulated by one height map. This is equivalent to defining the same surface with large amount of splinepatches, which increases the time of geometric surface processing by the value that is in direct proportion to their quantity. Fig.: 7. Refs.: 6 titles
+scalar perturbation functions, free forms.
+References</td><td>1. Akenine-Moller T. Real-Time Rendering. — 3-nd ed. / T. Akenine-Moller, E. Haines, N. Hoffman. — A K Peters, 2008.<br>2. Ernst I. Hardware Supported Bump Mapping: A Step towards Higher Quality Real-Time Rendering / I. Ernst, D. Jackel, H. Russeler, O. Wittig // Proceedings of 10th Eurographics Workshop on Graphics Hardware — 1995. — P. 63–70.<br>3. Welsh T. Parallax Mapping with Offset Limiting: A PerPixel Approximation of Uneven Surfaces / T. Welsh // Infiscape Corp. Tech Report. — 2004.<br>4. Oliveira M. M. Relief Texture Mapping / M.M. Oliveira, G. Bishop, D. McAllister // Proceedings of SIGGRAPH 2000. —2000. – P. 324–331.<br>5. Policarpo F. Real-Time Relief Mapping on Arbitrary Polygonal Surfaces / F. Policarpo, M. M. Oliveira, J. Comba // Proceedings of ACM SIGGRAPH 2005. — 2005. —P. 155–162.<br>6. Вяткин С.И. Моделирование и визуализация сложных поверхностей на основе скалярных функций возмущения / С.И. Вяткин // Сборник трудов ДонНТУ серии «Информатика, кибернетика и вычислительная техника». — 2009.— Выпуск 10(153).— C. 105–110.
+Файлы
+2009-4-7.pdf
+null

@@ -1,0 +1,12 @@
+﻿Kuzemin
+06. — Vol. 8, N 4
+22-30
+width="25px" alt="">PDF,DOC
+Modeling of Avalanche Formation Process
+Kuzemin A.Ya., Fastova D.V., Dyachenko O.N.
+Actual questions of catastrophe forecasting, in particular avalanche forecasting are considered. Avalanche formation model construction is the main task for making qualitative forecast. Existing modeling methods are analyzed and their disadvantages are elicited. Group Method of Data Handling for construction of avalanche formation process model is proposed. Fig.: 1. Refs: 8 titles.
+avalanche danger, avalanche formation process, forecasting, simulator, problem of identification, deductive methods, inductive methods, principle of model self-organization, external addition.
+References</td><td>1. Войтковский К.Ф. Лавиноведение: учебное пособие. — М.: МГУ, 1989. — 158 с.<br>2. Скурихин В.И., Шифрин В.Б., Дубровский В.В. Математическое моделирование. — К.: Те-хніка, 1983. — 270 с.<br>3. Ивахненко А.Г., Мюллер Й.А. Самоорганизация прогнозирующих моделей. — К.: Техніка, 1985; Берлин: ФЕБ Ферлаг Техник, 1984. — 223 с.<br>4. Молчанов А.А. Моделирование и проектирование сложных систем. — К.: Выща школа, 1988. — 359 с.<br>5. Ивахненко А.Г. Индуктивный метод самоорганизации моделей сложных систем. — К.: Наук. думка, 1982. — 296 с.<br>6. Ивахненко А.Г. Долгосрочное прогнозирование и управление сложными системами. — К.: Техніка, 1975. — 312 с.<br>7. Ивахненко А.Г., Юрачковский Ю.П. Моделирование сложных систем по эксперименталь-ным данным. — М.: Радио и связь, 1987. — 120 с.<br>8. Ивахненко А.Г., Степашко В.С. Помехоустойчивое моделирование. — К.: Наук. думка, 1985. — 300 с.
+File
+Modelirovanie_proce.doc
+null

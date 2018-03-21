@@ -1,0 +1,12 @@
+﻿2015-4-1
+15. — Vol. 17, N 4
+3–10
+alt="" width="50">PDF,DOC
+Detection of optimal hierarchy in a quasi-hierarchical graph by centrality criteria
+Sulema O.K., Lande D.V.
+The results of the research dedicated to the extraction of hierarchical sub-networks, being the best in terms of centrality criteria, from quasi-hierarchical networks are presented. Multi-objective estimation methods for detection of a node which is optimal by centrality criterion are discussed. The hierarchy construction algorithms are analysed. Experimental verification of received theoretical results has been performed using a group of quasi-hierarchical graphs. Tabl.: 3. Fig.: 4. Refs: 5 titles.
+hierarchy, quasi-hierarchical graphs, centrality criteria, multi-objective assessment, spanning tree.
+References</td><td>
+File
+4-1.pdf
+null

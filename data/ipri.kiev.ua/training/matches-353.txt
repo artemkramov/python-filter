@@ -1,0 +1,12 @@
+﻿2014-2-11
+14. — Vol. 16, N 2
+122-132
+alt="" width="50">PDF,DOC
+Operative Decision-Making in Emergency Situations: Model of Time-Cost Project Scheduling
+Dodonov A.G., Kuzmychov A.I.
+Object of modeling is a complex organized dynamical system whose operations are interconnected by technology in certain precedence relations where the standard (normal) regime maintains the stability times and resource plans. Arisen due to various reasons unexpected (emergency) situation compels of managers to made rational organizational solution in the form of a modified schedule with the existing constraints. To solve this common and challenging problem proposed an optimization model shows the result of solving this problem with Excel by standard computational tools. Refs: 6 titles.
+project management, project-oriented organizational management, schedule (schedule plan) of the project, nonlinear optimization, excel search of solutions, cost optimal project scheduling, Excel solver.
+References</td><td>
+File
+2-12.pdf
+null

@@ -1,0 +1,12 @@
+﻿Kosjak
+05. — Vol. 7, N 1
+122-129
+width="50" alt="">PDF,DOC
+Restoration and Reconstruction of a Sound Signal in Soundtracks of Rarity Record Carriers
+Kosyak I.V.
+An algorithm for digital processing of sound signals read from phonocylinders is proposed and an estimation of influence of performing restoration procedures is carried out. The presence in soundtracks of sound distortion is investigated and the types of noise existing in them are classified. Fig.: 2. Refs.: 8 titles.
+noise, distortion, soundtrack, phonocylinder, sound signal.
+References</td><td>1. Довгалюк І. Фоноархів Осипа Роздольского // Вісник Львівського університету. Серія фі-лологічна. — 1999. — Вип. 27. — С. 165–170.<br>2. Petrov V.V., Onishenko O.S., Kryuchin A.A., Shanoylo S.M., Rуabokon I.P. Optomechanical Method of Edison Cylinders Sound Reproduction. An Audio Engineering Society Preprint 4491 (M 4). Presented at 102-nd Convention. — Munich (Germany). — 1997, 22–25 March.<br>3. Новикова Г., Скобець І. До питання про збереження фонографічніх воскових циліндрів ( у НБУ ім. В.І. Вернадського) // Бібліотечний вісник. — 1996. — № 6. — С. 10–12.<br>4. Shanoylo S.M., Kosyak I.V., Petrov V.V., Kryuchin A.A. Reading and processing of audio information reproduced from Edison phonograph cylinders by method of laser interferometry. Proc. SPIE Vol. 4402, Laser Techniques and Systems in Art Conservation, Renzo Salimbeni; Ed. –10/2001– p.194–201.<br>5. Vaseghi S.V. and Rayner P.J.W. Detection and suppression of impulsive noise in speech communication systems // IЕEE Proceedings. Part 1. — 1990. — 137(1), Febr. — Р. 38–46.<br>6. Косяк І.В. Усунення широкосмугового поверхневого шуму в фонограмах раритетних носіїв запису // Реєстрація, зберігання і оброб. даних. — 2004. — Т. 6, № 4. — С.12–22.<br>7. Tamas B. Bako, Tamбs Daboczi, Barry A. Bell. Automatic Compensation of Nonlinear Distortions // IEEE Instrumentation and Measurement Technology Conference Anchorage. — AK (USA). — 21-23 May. — 2002.<br>8. Preis D. and Polchlopek H. Restoration of nonlinearly distorted magnetic recordings // J. Audio Eng. Soc. — 1984. — 32(12), Jan. — Р. 79–86.
+File
+RZOD2_04.doc
+null

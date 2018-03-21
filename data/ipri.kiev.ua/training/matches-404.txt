@@ -1,0 +1,12 @@
+﻿2015-4-3
+15. — Vol. 17, N 4
+21–30
+alt="" width="50">PDF,DOC
+Theoretical basis for a new approach to the problem of identifying the results of cloning in digital images stored in lossy formats
+Kobozeva A.A., Grygorenko S.N.
+It was proposed the theoretical basis for a new solution to the problem of identifying the cloning results for a digital image saved after a change in the lossy format. The approach is based on the account of the smallness changes in the volume of the cylindrical body bounded above graph interpolation function for image matrix from below by XOY-plane under the compression process. An indication of the presence of cloning area or pre-image of the clone is the proximity of the values of double integrals of the interpolation function on appropriate areas domain of the function that defines the original image. The characteristic differences between the sums of matrix elements for the absolute difference of pairs of non-overlapping blocks of the image matrix, which allow localize area of the clone and its prototype. The identified differences occur regardless of the features and characteristics of the image of the pre-image (clone); their subsequent quantitative evaluation is going to provide an opportunity to develop a method to solve the assigned task. Fig.: 5. Refs: 9 titles.
+digital image, cloning, losses image format, violation of the integrity, digital image matrix.
+References</td><td>
+File
+4-3.pdf
+null

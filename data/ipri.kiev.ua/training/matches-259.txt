@@ -1,0 +1,12 @@
+﻿2012-2-7
+12. — Vol. 14, N 2
+67-78
+alt="" width="50">PDF,DOC
+Practical Aspects of Modeling Changes in the Topology of the Global Computer Network
+Zubok V.Yu.
+The study of certain segments of the Internet was performed which allows to find heavy loaded links and nodes, predict the network behavior in cases of topology changes, and choose the most reliable peers and providers. The methods and tools were created to gather routing information and to model topological changes for simulating topology changes (e.g. attack on the largest «brokers»), along with examining the global efficiency and vulnerability, despite significant number of nodes and links. Also described methods of modeling of new connections and criteria for their selection. Tabl.: 2. Fig.: 6. Refs: 10 titles.
+Internet, betweenness centrality, clustering, global efficiency, vulnerability.
+References</td><td>
+File
+2-7.pdf
+null

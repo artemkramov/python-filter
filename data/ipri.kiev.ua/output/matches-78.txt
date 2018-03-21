@@ -1,0 +1,12 @@
+﻿Brjagin
+05. — Vol. 7, N 1
+12-17
+width="50" alt="">PDF,DOC
+Features of Multivariate Probability Distributions of Speech Signals
+Bryagin O.V., Butsenko Yu.P.
+The results of measuring for multivariate functions of speech signals probability distribution are given. It is shown that there is a possibility of applying of the obtained results for speech identification. Fig.: 3. Refs.: 3 titles.
+random processes, multivariate functions, speech identification.
+References</td><td>1. Фланаган Л. Дж. Анализ, синтез и восприятие речи. Пер. с англ. / Под ред. А.А. Пирогова. М.: Связь, 1968. — 396 с.<br>2. Noll А.М. Cepstrum Pitch Determination // J. Acoustical Society of America. — 1968, Febr. — Vol. 41, N.2. — P. 293–309.<br>3. Брягин О.В., Егоров А.К., Розоринов Г.Н. Об оценке многомерных функций распределения вероятностей речевых сигналов // Реєстрація, зберігання і оброб. даних. — 2004. — Т. 6, № 3. — С. 41–49.
+File
+RZOD2_04.doc
+null

@@ -1,0 +1,12 @@
+﻿Brickii
+07. — Vol. 9, N 4
+107-118
+width="25px" alt="">PDF,DOC
+The Ways of Improving a Servo Drive for Automatic Focusing System of Optical Information Laser-Beam Recorder
+Britsky O.I., Ataev V.O., Christin V.M.
+The main results of researches on designing a precision servo drive for automatic focusing system of optical information laser-beam recorder are given. Tabl.: 1. Fig.: 12. Refs.: 8 titles.
+optical information laser-beam recorder, servo drive for automatic focusing system, substrates relief characteristics, piezoelectric actuators, increase of servo system type number.
+References</td><td>1. Афонин С.М. Структурно-параметрическая модель пьезодвигателя наноперемещений // Вестник машиностроения. — 2001. — № 5. — С. 29–33.<br>2. Афонин С.М. Об абсолютной устойчивости системы управления пьезодвигателем нанопе-ремещений // Вестник машиностроения. — 2001. — № 8. — С. 19–22.<br>3. Афонин С.М. Параметрическая структурная схема составного пьезодвигателя нанопереме-щений // Вестник машиностроения. — 2002. — № 12. — С. 7–15.<br>4. Афонин С.М. Исследование и расчет многокоординатных пьезодвигателей наноперемеще-ний // Вестник машиностроения. — 2004. — № 8. — С. 20–23.<br>5. Афонин С.М. Преобразование параметрических структурных схем пьезодвигателя нанопе-ремещений // Вестник машиностроения. — 2006. — № 3. — С. 22–25.<br>6. Hu H., S.Georgiou H.M., Ben-Mrad R. Enhancement of Tracking Ability in Piezoceramic Actua-tors Subject to Dynamic Excitation Conditions // IEEE/ASME TRANSACTIONS ON MEXATRONICS. — 2005. — Vol. 10, N 2. — P. 230–239.<br>7. Пьезокерамические материалы для фильтров и резонаторов. Высокостабильные материа-лы. http://www.elpapiezo.ru/filtersresonators.shtml.<br>8. Теорія автоматичного управління / Г.Ф. Зайцев, В.К. Стеклов, О.І. Бріцький; За заг. ред. проф. Г.Ф. Зайцева. — К.: Техніка, 2002. — 688 с.
+File
+Statja_Brickii_Ataev_KHristin.doc
+null

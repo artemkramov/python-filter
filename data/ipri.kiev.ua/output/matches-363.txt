@@ -1,0 +1,12 @@
+﻿2014-4-2
+14. — Vol. 16, N 4
+12–17
+alt="" width="50">PDF,DOC
+Hash functions and integrity of information objects
+Mаtоv О.Yа., Vаsylenko V.S.
+Possibilities of applying known caching mechanism for monitoring the integrity of information ob-jects have been considered. Fig.: 1. Refs: 5 titles.
+information objects, hashing, integrity.
+References</td><td>
+File
+4-2.pdf
+null

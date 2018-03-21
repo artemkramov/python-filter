@@ -1,0 +1,10 @@
+﻿null
+E. V. Soboleva</em><br>аспірантка кафедри системотехніки Харківського національного університету радіоелектроніки, Україна, Харків<br>Ukraine</p><p></p><p>Соболева Катерина Володимирівна,</p><p>аспірантка кафедри системотехніки Харківського національного університету радіоелектроніки, Україна, Харків</p><p>
+71765
+3681">No 3 (2012
+71765/0">Soboleva
+Modification of generalized criteria in problems of identification of multicriteria choice
+E. V. Soboleva
+As the generalized criteria for the problems of multivariate optimization the exponential and entropy models, as well as modifications (through the introduction of additional components with the reverse indicators) of famous mixed models (additive-multiplicative and in the form of polynomial of Kolmogorov-Gabor). The system results of the study of the accuracy and complexity of the procedures of comparatorial parametric identification of generalized criteria's different models are shown.
+71765/66759">PDF (Русский)</a
+—

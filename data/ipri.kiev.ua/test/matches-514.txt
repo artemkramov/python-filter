@@ -1,0 +1,12 @@
+﻿Bojarinova
+07. — Vol. 9, N 1
+87-99
+width="25px" alt="">PDF,DOC
+Modulo Secret Sharing Scheme Over a Ring of Gaussian Integers
+Aleksejchuk А.N., Boyarinova Yu.E.
+The design modulo secret sharing scheme over a ring of Gaussian integer, possessing greater com-puting stability in comparison with known integer modulo secret sharing scheme is offered. Refs: 13 titles.
+modulo secret sharing scheme, computing stability, ring of Gaussian integers.
+References</td><td>1. Mignotte M. How to Share a Secret // Advances in Cryptology — EUROCRYPT’82, Proceed-ings. — Springer Verlag, 1983. — P. 371–375.<br>2. Asmuth C., Bloom J. A modular Approach to Key Safeguarding // IEEE Trans. on Inform. Th. — 1983. — IT-29. — P. 208–210.<br>3. Goldreich O., Ron D., Sudan D. Chinese Remainder with Errors // IEEE Trans. on Inform. Th. — 2000. — IT-46. — P. 1330–1338.<br>4. Quisquater M., Preneel B., Vanderwalle J. On the Security of the Threshold Scheme Based on the Chinese Remainder Theorem // Public Key Cryptography — PKC’02, Proceedings. — Springer Ver-lag, 2002. — P. 199 – 210.<br>5. Ifrene S. General Secret Sharing Based on the Chinese Remainder Theorem // http://eprint.iacr.org/2006/166.<br>6. Shamir A. How to Share a Secret // Comm. ACM. — 1979. — Vol. 22, N 1. — P. 612–613.<br>7. Синьков М.В., Бояринова Ю.Е., Калиновский Я.А., Трубников П.В. Развитие задачи разде-ления секрета // Реєстрація, зберігання і оброб. даних. — 2003. — Т. 5, № 4. — С. 90–96.<br>8. Галибус Т.Н., Матвеев Г.В. Особенности модулярного разделения секрета // www.cryptography.ru/db/20.02.2004.<br>9. Бояринова Ю.Е., Одарич Я.В. Восстановление информации в задаче разделения секрета для гиперкомплексных числовых систем 2-го порядка с помощью алгоритма Евклида // Реєстрація, зберігання і оброб. даних. — 2005. — Т. 7, № 1. — С. 103–114.<br>10. Айерлэнд К., Роузен М. Классическое введение в современную теорию чисел / Пер. с англ. — М.: Мир, 1987. — 416 с.<br>11. Чандрасекхаран К. Введение в аналитическую теорию чисел / Пер. с англ. — М.: Мир, 1974. — 188 с.<br>12. Ноден П., Китте К. Алгебраическая алгоритмика / Пер. с франц. — М.: Мир, 1999. — 720 с.<br>13. Колмогоров А.Н. Теория информации и теория алгоритмов. — М.: Наука, 1987. — 304 с.
+Файлы
+stattja.doc
+null

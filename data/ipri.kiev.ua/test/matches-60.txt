@@ -1,0 +1,12 @@
+﻿Brickii
+08. — Vol. 10, N 2
+69-76
+width="25px" alt="">PDF,DOC
+Software-Hardware Complex for Controlling the Lighting Characteristics of Retroreflective Elements
+Petrov V.V., Britsky A.I., Zichun Le, Bisheng Kwan
+The main results of researches on creating a software-hardware complex for controlling the lighting characteristics of retroreflective elements in the stages of their development and manufacture are presented. Fig.: 9. Refs.: 5 titles.
+retroreflective elements, lighting characteristics, angular distribution of retroreflective coefficient, automated measuring and documenting.
+Ссылки</td><td>1. Zehtner Testing Instruments. Product overview 2008/2009 — Р. 5. — Режим доступу: http://www.zehntner.com/html/download/uebersichtsprospekt_strasse_e.pdf.<br>2. ГОСУДАРСТВЕННЫЙ ОПТИЧЕСКИЙ ИНСТИТУТ им. С.И.Вавилова. Направления дея-тельности. РЕФЛЕКТОМЕТР ДОРОЖНЫХ ЗНАКОВ РДЗ. — Режим доступу : http://soi.srv.pu.ru/r_1251/directions/dir2/optpribor/trans/rdr1.htm<br>3. Петров В.В., Кравець В.Г., Крючин А.А., Шанойло С.М., Гранат О.І., Зенін В.М. Аналіз ін-формації відбитого від ретродзеркал світла // Реєстрація, зберігання і оброб. даних. — 2005. — Т. 7, № 3. — С. 17–25.<br>4. Патент 74034 України, G02B5/124, В32В3/00. Спосіб виготовлення призмоподіб-них світ-лоповертальних елементів / В.В.Петров, С.М.Шанойло, О.І.Гранат, Л.В.Бутенко, А.А.Крючин, В.М.Зенін, В.Д.Ковтун, О.К.Войтенко, В.О.Заболотний, П.В.Майстренко, А.В.Ковальчук (Украї-на); ІПРІ НАН України. — № 2003076449; заявл. 10.07.2003; опубл. 17.10.2005. — 2 с.<br>5. Петров В.В., Шанойло С.М., Крючин А.А., Антонов Е.Е., Кравец В.Г. Моделирование свойств асимметричных световозвращающих элементов // Реєстрація, зберігання і оброб. даних. — 2007. — Т. 9, № 2. — С. 17–25.
+Файлы
+Statja_fin_fin.doc
+null

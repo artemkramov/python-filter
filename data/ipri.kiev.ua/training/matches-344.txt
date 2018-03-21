@@ -1,0 +1,12 @@
+﻿2014-2-3
+14. — Vol. 16, N 2
+28-41
+alt="" width="50">PDF,DOC
+Generalized analysis of matrix representations for associative hypercomplex number systems used in power engineering
+Klipkov S.I.
+With the most common positions, it is considered the issues of representation of complex numbers, quaternions, kvadroplex (bicomplex) numbers and biquaternions complex matrices of second order. To build a matrix bases of the considered representations from the set of these matrices allocated a subset of the elements, the square of which is equal to the negative of the matrix unit. It is shown that the internal structure of the degenerate imaginary matrix units allows a natural way to construct the numerical system, without resorting to the axiomatic definition of the algebraic operation of multiplication. It is formulated a series of assertions to ease the solution of the issues being raised in the article questions. Refs: 14 titles.
+numerical system, matrix imaginary unit, complex numbers, quadroplex numbers, quaternions, biquaternions.
+References</td><td>
+File
+2-4.pdf
+null

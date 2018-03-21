@@ -1,0 +1,12 @@
+﻿2014-2-6
+14. — Vol. 16, N 2
+62-73
+alt="" width="50">PDF,DOC
+Studying of Computing Properties of System of Antiquaternions
+Turenko A S.
+The next step researches on one of non-commutative hypercomplex numerical systems of the fourth dimension as system of antiquaternions are presented. It is constructed the exponent representation of antiquaternion variable by two methods: by using procedure of doubling of Grassmann-Clifford and by the associative system of the linear differential equations. Refs: 7 titles.
+antyquaternion, hypercomplex numerical system, exponent, procedure of doubling of Grassmann-Clifford.
+References</td><td>
+File
+2-7.pdf
+null

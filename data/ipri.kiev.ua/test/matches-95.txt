@@ -1,0 +1,12 @@
+﻿2009-1-6
+10. — Vol. 12, N 2
+43-51
+alt="">PDF
+Methodical Approach to Designing the Structure of the Organizational-Type Automated Control System
+Samokhvalov Yu.Ya., Ostashevskyi V.B., Shtanenko S.S.
+For solving the problem of designing the structure of the organizational-type automated control system the use of aggregation-decomposition approach is offered. The methodological aspects of such an approach in conditions of incompleteness and uncertainty of starting data are considered. Fig.: 1. Refs: 6 titles.
+structure designing, aggregation-decomposition approach, structure of the automated control system.
+References</td><td>1. Цвиркун А.Д. Основы синтеза структуры сложных систем / Цвиркун А.Д. — М.: Наука, 1982.— 197 с.<br>2. Хазанович Э.С. Определение оптимальной структуры технических средств и технологии обработки информации / Э.С. Хазанович, И.К. Жабин. — В кн.: Экономика и математические методы. — М.: Наука, 1969. —Т. 5. — Вып. 2.<br>3. Скурихин В.И. О формулировании концепций. Концепция «четырех И» / В.И. Скурихин //Управляющие системы и машины. — 1989. — № 2. — С. 7–12.<br>4. Саати Т. Принятие решений. Метод анализа иерархий / Т. Саати. — М.: Радио и связь,1993.— 311 с.<br>5. Герасимов Б.М. Проектирование организационных структур: Методы и алгоритмы / Герасимов Б.М., Глуцкий В.И., Рабчун А.А. — К.: БФ «Миротворец», 2000. — 206 с.<br>6. Самохвалов Ю.Я. Построение технического облика автоматизированных систем /Самохвалов Ю.Я., Науменко Е.М. // Захист інформації. — Державний університет інформаційно-комунікаційних технологій. — 2005. — № 2.— С. 13–19.
+Файлы
+2009-1-6.pdf
+null

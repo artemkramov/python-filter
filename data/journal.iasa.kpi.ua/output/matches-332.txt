@@ -1,0 +1,11 @@
+﻿s
+A. Ya. Bomba</em><br><br>Ukraine</p><p></p><p>Бомба Андрій Ярославович,</p><p>професор, доктор технічних наук, професор кафедри інформатики та прикладної математики Рівненського державного гуманітарного університету, Україна, Рівне</p><p></p></div><div></div><div><p><em>V. I. Gavrilyuk</em><br><br>Ukraine</p><p></p><p>Гаврилюк Володимир Іванович,</p><p>аспірант кафедри інформатики та прикладної математики Рівненського державного гуманітарного університету, Україна, Рівне</p><p>
+107279
+6372">No 4 (2009
+107279/0">Bomba
+System methodology for modelling of filtrational processes in curvilinear areas with uncertain segments of boundaries
+A. Ya. Bomba, V. I. Gavrilyuk
+An approach to solution of model boundary value problems on conformal mappings in areas with uncertain segments of boundaries is systematized. Also, an algorithm for finding solutions to them is built.
+107279/102247">PDF (Українська)</a
+—
+null

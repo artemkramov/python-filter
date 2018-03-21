@@ -1,0 +1,10 @@
+﻿null
+S. S. Seredniy</em><br><br>Ukraine</p><p></p><p>Середній Сергій Сергійович,</p><p>аспірант Національного технічного університету України «КПІ», начальник відділу методології та звітності Управління ризиків ПАТ «СБЕРБАНК РОСІЇ», Україна, Київ</p><p>
+106501
+6337">No 1 (2011
+106501/0">Seredniy
+Credit operation’s probability of default estimation using logistic regression and cluster analysis
+S. S. Seredniy
+The method of credit operation’s probability of default estimation using logistic regression and cluster analysis is suggested. The example of application of this method on real sample, where proposed method was more effective in comparison with method based just on logistic regression is given.
+106501/101595">PDF (Русский)</a
+—

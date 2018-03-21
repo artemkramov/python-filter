@@ -1,0 +1,11 @@
+﻿s
+L. S. Globa</em><br>завідувач кафедри інформаційно-телекомунікаційних мереж Інституту телекомунікаційних систем Національного технічного університету України "КПІ", Україна, Київ<br>Ukraine</p><p></p><p>Глоба Лариса Сергіївна,</p><p>професор, доктор технічних наук, завідувач кафедри інформаційно-телекомунікаційних мереж Інституту телекомунікаційних систем Національного технічного університету України "КПІ", Україна, Київ</p><p></p></div><div></div><div><p><em>R. L. Novogrudsca</em><br>аспірант Інституту телекомунікаційних систем Національного технічного університету України "КПІ", Україна, Київ<br>Ukraine</p><p></p><p>Новогрудська Ріна Леонідівна,</p><p>аспірант Інституту телекомунікаційних систем Національного технічного університету України "КПІ", Україна, Київ</p><p>
+71926
+4265">No 2 (2012
+71926/0">Globa
+Knowledge representation model on specialized internet-portal in the field of materials strength
+L. S. Globa, R. L. Novogrudsca
+The technology of building the specialized knowledge Internet-portal in the field of materials strength is presented here. The ontology that provides the equal knowledge and data representation and also their semantic connectivity is used for knowledge representation model on the portal. Using the concepts determined in the ontology the inner storages of portal are built, as well as information filling, navigation and search are organized.
+71926/66903">PDF (Русский)</a
+—
+null

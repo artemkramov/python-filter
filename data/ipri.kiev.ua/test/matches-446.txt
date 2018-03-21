@@ -1,0 +1,12 @@
+﻿2016-4-7
+16. — Vol. 18, N 4
+67–78
+alt="" width="50">PDF,DOC
+Fuzzy system for determining the quality of digital images of documents to be microfilmed
+Egorov P.N.
+A method for assessing the quality of the digital image of documents to be intended for microfilming is presented. This method is based on the use of fuzzy systems. The ability to determine the correlation between the properties of digital image and the possibility of obtaining on its basis frame of microfilm, which corresponds to the specification standards of microfilming, is shown. Tabl.: 1. Fig.: 4. Refs: 19 titles.
+microfilm, insurance fund of documentation, digital image, digital image processing, digital image quality, fuzzy systems, photographic reproduction.
+References</td><td>
+File
+4-7.pdf
+null

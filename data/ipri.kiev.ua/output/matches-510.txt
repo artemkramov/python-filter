@@ -1,0 +1,12 @@
+﻿Bilichenko
+07. — Vol. 9, N 1
+35-41
+width="25px" alt="">PDF,DOC
+LSF-Vocoder Based on the Vector Quantization
+Tkachenko О.M., Bilichenko N.О., Feferman O.D., Khruschak S.V.
+LSF vocoder model with vector parameters quantization is investigated. Different methods of LSF vector division using spectral distortion measure of a coded signal are compared. Tabl.: 2. Fig.: 2. Refs.: 7 titles.
+speech coding, vocoder, LSF, LPC, vector quantization, spectral distortion, weighed Euclidean distance.
+References</td><td>1. Иванов В.Н. Вычисление линейных спектральных частот // Электросвязь. — 1997. — № 6. — С. 25–27.<br>2. Ткаченко О.М., Феферман О.Д., Хрущак С.В. Розробка кодових книг для вокодера на основі LSP // Оптико-електронні інформаційно-енергетичні технології. — 2005. — № 2. — С. 219–223.<br>3. Palival K., Atal S. Efficient Vector Quantization of LPC Parameters at 24 Bits/Frame // IEEE Transactions on Speech and Audio Processing. — 1993. — Vol. 1, N 2. — Р. 3–14.<br>4. Ткаченко О.М., Феферман О.Д., Хрущак С.В. Вокодер LSF зі швидкістю 1600 біт/с // Вісник ВПІ. — 2006. — № 1. — С. 78–86.<br>5. Lahouti F., Khandani A.K. Quantization of LSF Parameters Using Trellis Modeling // IEEE Transactions on Speech and Audio Processing. — 2003. — Vol. 11, N 5. — Р. 400–412.<br>6. Рабинер Л.Р., Шафер Р.В. Цифровая обработка речевых сигналов / Пер. с англ. — М.: Ра-дио и связь, 1981. — 496 с.<br>7. Lahouti F., Fazel A.R., Safavi-Naeini A.H. Single and Double Frame Coding of Speech LPC Parameters Using a Lattice-Based Quantization Scheme. — Department of Electrical and Computer Engineering, Technical report, 2004. — 22 p.
+Файлы
+Vinnica_VNTU.doc
+null

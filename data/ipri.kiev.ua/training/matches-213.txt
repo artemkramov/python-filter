@@ -1,0 +1,12 @@
+﻿2011-2-6
+11. — Vol. 13, N 2
+47-52
+alt="" width="50">PDF,DOC
+Efficiency of the Overlay Network Clustering based on the Locality Metric
+G. V. Poryev
+The method of estimating the efficiency of the overlay network clustering in the swarms of peer-to-peer networks is proposed. The brief overview of the locality metric as a topological distance substitute is given and using regional Internet registries as information sources for constructing the structural model of the network is substantiated.
+Internet, distributed networks, peer-to-peer networks, locality, clustering.
+References</td><td>1. Фурашев В. Параметры украинского сегмента Internet как сложной сети / В. Фурашев, В. Зубок, Д. Ланде // Открытые информационные и компьютерные технологии: сб. науч. тр. — 2008. — Т. 40. — С. 235–242.<br>2. Poryev G. Using the Internet Registries to Construct Structural Model for Locality Estimation in the Overlay Networks / G. Poryev // Реєстрація, зберігання і оброб. даних. — 2011. — Т. 13, № 1. — С. 78–86.<br>3. Poryev G. Multi-Tier Locality Awareness in Distributed Networks // Iнформацiйнi технологiї та комп’ютерна iнженерiя. — 2009. — № 3(16). — С. 13–17.<br>4. Poryev G. CARMA Based MST Approximation for Multicast Provision in P2P Networks / G. Poryev, H. Schloss, R. Oechsle // In Proceedings of the Sixth International Conference on Networking and Services (ICNS 2010) / IEEE. — Cancun, Mexico. — 2010. — Р. 123–128.
+File
+2-6.pdf
+null

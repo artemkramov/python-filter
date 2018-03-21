@@ -1,0 +1,12 @@
+﻿2012-3-10
+12. — Vol. 14, N 3
+99–103
+alt="" width="50">PDF,DOC
+Cryptographic Protection of Information Objects by Block Transformation of the System of Residual Classes to a Positional Number System
+Mаtоv О.Y., Vаsylenko V.S., Vаsylenko M.Y.
+For problems of confidentiality of information objects of automated systems is suggested to use a block cryptographic transformation of conventional number systems in residue classes to the positional system. Refs: 4 titles.
+information privacy, cryptographic transformations, plus classes, the number system.
+References</td><td>
+File
+3-10.pdf
+null

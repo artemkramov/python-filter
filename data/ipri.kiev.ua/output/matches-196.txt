@@ -1,0 +1,12 @@
+﻿2010-4-10
+10. — Vol. 12, N 2
+90-96
+alt="">PDF
+Increasing Expert Estimation Error Tolerance of Knowledge Bases in decision-making support systems
+Tsyganok V.V.
+Two methods are suggested for increasing the quantitative measure of decision variants’ stability in expert knowledge bases of decision-making support systems where target-oriented dynamic alternative estimation approach is used. The first method provides increasing the knowledge base stability through changing the goal hierarchy structure. The second method provides organizing feedback with developer (expert) group and achieving the required stability level through changing the knowledge base numeric parameters. It would be reasonable to use the methods in the suggested order or separately. Fig.: 2. Refs: 7 titles.
+decision-making support systems, target-oriented dynamic alternative estimation method, expert error tolerance.
+References</td><td>1. Arbel A. Preference Simulation and Preference Programming: Robustness Issues in Priority Derivation / A. Arbel, L.G. Vargas // European Journal of Operational Research. — 1993. — 69(2). — Р. 200–209.<br>2. Stam A. The Stability of AHP Rankings in the Presence of Stochastic Paired Comparisons / A. Stam A., A.P. Duarte Silva // Lecture Notes in Economics and Mathematical Systems. — 1998. — Vol. 465. —P. 96–105.<br>3. Tsyganok Vitaliy. AHP/ANP Stability Measurement and Its Applications [Електронний ресурс]: Proceedings of the 10-th International Symposium on the Analytic Hierarchy/Network Process. Multi-Criteria Decision Making. Pittsburgh, PA, USA. 29/07 – 1/08/2009 / Vitaliy Tsyganok // ISSN 1556-8296. — Режим доступу: http://www.isahp.org/2009Proceedings/Final_Papers/88_Tsyganok_Stability_Measurement_REV_FIN.pdf<br>4. Saaty T.L. The Analytic Hierarchy Process / T.L. Saaty. — N. Y.: McGraw-Hill, 1980.<br>5. Тоценко В.Г. Об одном подходе к поддержке принятия решений при планировании исследований и развития. Часть 2. Метод целевого динамического оценивания альтернатив / В.Г. Тоценко // Проблемы управления и информатики. — 2001. — № 2. — С. 127–139.<br>6. Циганок В.В. Оцінка стійкості рішень, отримуваних цільовим методом / В.В. Циганок // Системи підтримки прийняття рішень. Теорія і практика: зб. доповідей наук.-практ. конф. з міжнародною участю. — НАН України, Інститут проблем математичних машин і систем. — 2008. — С. 27–31.<br>7. Циганок В.В. Методика досліджень стійкості рішень, отримуваних цільовим методом / В.В. Циганок // Реєстрація, зберігання і оброб. даних. — 2007.—Т. 9, № 4. — С. 140–151.
+Файлы
+2010-4-10.pdf
+null

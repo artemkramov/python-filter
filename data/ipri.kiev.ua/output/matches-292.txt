@@ -1,0 +1,12 @@
+﻿2013-1-3
+13. — Vol. 15, N 1
+23-30
+alt="" width="50">PDF,DOC
+The Studying of Orthogonalization Properties of Longitudinally Inhomogeneous Nondepolarizing Medium
+Kolomiets I.S., Savenkov S.M., Oberemok Ye.A.
+It has been analyzed the ability of longitudinally homogeneous nondepolarizing medium with linear birefringence to orthogonalize the polarization state of input radiation. As the orthogonalization we understand the transformation of initial radiation’s polarization state to orthogonal one after interaction of radiation with the specified medium. As a result, it has been demonstrated that the longitudinally inhomo geneous medium with linear birefringence in general case can othogonalize continuum polarization states of the input radiation. Finally by the using of Jones matrix method we have derived the conditions that provide to determine can the medium with desired anisotropic properties orthogonalize an any polarization state of radiation. Fig.: 3. Refs: 9 titles.
+Jones method, longitudinally homogeneous medium, twisted nematic, cholesteric, orthogonal polarizations.
+References</td><td>
+File
+1-3.pdf
+null

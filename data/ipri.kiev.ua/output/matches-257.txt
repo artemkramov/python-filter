@@ -1,0 +1,12 @@
+﻿2012-2-5
+12. — Vol. 14, N 2
+48-58
+alt="" width="50">PDF,DOC
+Methods to Improve of the Information Component Survivabilityof Corporate Information-Analytical Systems
+Lande D.V.
+The information component of the corporate information-analytical systems - is substantial com-ponent of its information security. The information component relates to databases, information repositories, information collections, individual documents provided in all possible formats. The article presents the main methods of increasing the survivability of the information component of corporate information and analytical systems. These methods are aimed at reducing the vulnerability of these systems within the information infrastructure. Fig.: 1. Refs: 8 titles.
+survival, information-analytical system, information component, information infra-structure, information security.
+References</td><td>
+File
+2-5.pdf
+null

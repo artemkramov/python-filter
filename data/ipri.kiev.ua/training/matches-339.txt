@@ -1,0 +1,12 @@
+﻿2014-1-8
+14. — Vol. 16, N 1
+65-78
+alt="" width="50">PDF,DOC
+Method of Semantic Identification for Knowledge Base Objects in Decision Support Systems
+Andriichuk O.V.
+A method of semantic identification for knowledge base objects in decision support systems has been suggested. The method is targeted at improving the relevance of subject domain models. The key idea behind the method is as follows. Each knowledge base object is associated with a tuple of keywords. Semantic identification is conducted in accordance to these keywords. Degree of keyword importance for object is determined by experts. An original approach to subject domain model adequacy improvement and semantic identification method as well as its potential application options are described. Tabl.: 1. Fig.: 3. Refs: 23 titles.
+decision support system, model of subject domain, knowledge base, semantic identification, knowledge engineering, expert evaluation, fuzzy topological space, metrics.
+References</td><td>
+File
+1-8.pdf
+null

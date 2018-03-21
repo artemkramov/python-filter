@@ -1,0 +1,12 @@
+﻿2013-4-6
+13. — Vol. 15, N 4
+51–55
+alt="" width="50">PDF,DOC
+About Data Copying to Hard Drives with Bad Sectors for Computer Science and Technical Expertise
+Prokopenko S.D., Kozhenevskiy S.R.
+It is described the problems in copying to hard disk drives (HDD) containing bad sectors. There are given results on performance evaluation of hardware write blockers when copying to faulty disks. It has been proposed a special write blocker having data recovery function. Tabl.: 1. Fig.: 2. Refs: 3 titles.
+copying, computer expertise, HDD, bad sector, write blocker.
+References</td><td>
+File
+4-6.pdf
+null

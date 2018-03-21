@@ -1,0 +1,12 @@
+﻿2011-3-8
+11. — Vol. 13, N 3
+81-91&gt;
+alt="" width="50">PDF,DOC
+About the General Registry Database of Citizens and Data Structure of Personality in It
+Tolstykh V.K., Kiseleva L.N.
+New concept of creating, using and maintenance a general registry database (GRDB) of citizens for joint using by different organizations is considered. The structure of a citizen’s file in GRDB is proposed. Direct access to different sections in the data structure and the principles of authentication are discussed. Business processes of forming and using GRDB data, the roles of the GRDB users and questions of user’s authorization are described. Fig.: 1. Refs: 10 titles.
+registration, concept, database, Internet.
+References</td><td>1. Толстых В.К., Киселева Л.Н. О единой регистрационной базе данных в информационно- образовательном пространстве: сб. материалов ІІ Междунар. науч.-практ. конф. «Инфо-Стратегия 2010.UA: Общество. Государство. Образование». — Севастополь, 2010. — С. 69–71.<br>2. Толстых В.К. Единая регистрационная Web-база граждан / В.К. Толстых, Л.Н. Киселева // «Комп’ютерні системи та мережні технології (CSNT-2010)»: зб. тез ІІІ Міжнар. наук.-техн. конф. — К.: НАУ-друк, 2010. — С. 99.<br>3. NetSchool. Сетевой город. Образование. Комплексная информационная система для со- временной школы [Электронный ресурс]. — Режим доступа: http://www.net-school.ru<br>4. Аникина Е.В., Аникина Е.В., Копнинов С.В., Никишин В.А. АСУ РСО как средство автома- тизации процесса управления образованием г. Тольятти: сб. материалов ІІ Междунар. науч.-практ. конф. «Инфо-Стратегия 2010.UA: Общество. Государство. Образование». — Севастополь, 2010. — С. 50–55.<br>5. Афанасьев А.А., Кирюхин В.М. Информационная образовательная среда школы: проблемы и их: в сб. науч. ст. «Интернет-порталы: содержание и технологии». — Вып. 4. Редкол.: А.Н. Ти- хонов (пред.) и др.; ФГУ ГНИИ ИТТ «Информика». — М.: Просвещение, 2007. — С. 465–493.<br>6. Официальный сайт разработчиков программы «Курс: Школа» [Электронный ресурс]. — Режим доступа: http://ekyrs.org/ua<br>7. Официальный сайт разработчиков АС «Школа» [Электронный ресурс]. — Режим доступа: http://ndipit.com.ua<br>8. Официальный сайт разработчиков «UNIS School» [Электронный ресурс]. — Режим досту- па: www.diez-product.com.ua<br>9. Пююа Маргус. Опыт развития электронных услуг в Эстонии [Электронный ресурс] / Мар- гус Пююа. — Режим доступа: http://www.gosbook.ru/document/5532<br>10. Государственный портал Эстонии [Электронный ресурс]. — Режим доступа: http://www.eesti.ee
+File
+3-8.pdf
+null

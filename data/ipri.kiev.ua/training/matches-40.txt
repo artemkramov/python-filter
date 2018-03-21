@@ -1,0 +1,12 @@
+﻿Novotarskii
+08. — Vol. 10, N 1
+34-43
+width="25px" alt="">PDF,DOC
+Program Complex for Modeling Complex Systems on the Basis of Process Algebra
+Nesterenko B.B., Novotarskiy M.A
+A necessity of application of process algebra as a formal means for the description of complex sys-tems is proved. Basic concepts of construction of a program complex which is based on the expanded process algebra are considered. Principles of the preprocessor language organization for process algebra and a subsystem for simulations are described. Comparison of the suggested program complex with known similar environments for simulations is carried out. Tabl.: 1. Fig.: 3. Refs.: 10 titles.
+simulation, process algebra, operation, process, activity.
+References</td><td>1. Баранов С.И. Синтез микропрограммных автоматов. — Л.: Энергия, 1979. — 232 с.<br>2. Бусленко Н.П. Моделирование сложных систем. — М.: Наука, 1978. — 400 с.<br>3. Нестеренко Б.Б., Новотарский М.А. Мультипроцессорные системы. — К.: Институт ма-тематики АН Украины, 1995. — 408 с.<br>4. Valiante G. Algorithms on Trees and Graphs. — Berlin: Springer, 2002. — 450 p.<br>5. Нестеренко Б.Б., Новотарский М.А. Алгебра процессов для моделирования параллельных асинхронных вычислительных структур // Электронное моделирование. — 2006. — Т. 28, № 4. — С. 47–64.<br>6. Bonet P., Llado C.M., Puijaner R., Knottenbelt W.J. PIPE v2.5: A Petri Net Tool for Perfor-mance Modelling // Proc. 23rd Latin American Conference on Informatics, 2007. — 12 p.<br>7. Kwiatkowska M.Z., Norman G., Parker D. Probabilistic Symbolic Model Checking with PRISM: a Hybrid Approach // Software Tools for Technology Transfer. — 2004. — Vol. 6, N 2. — P. 128–142.<br>8. Hillston J. Compositional Approach to Performance Modeling. — Cambridge: Cambridge Uni-versity Press, 1996. — 186 p.<br>9. Bradley J.T., Dingle N.J., Gilmore S.T., Knottenbelt W.J. Extracting Passage Times from PEPA Models with the HYDRA Tool: A Case Study // Proc. 19th UK Performance Engineering Workshop, 2003. — P. 79–90.<br>10. Larsen K.G., Pettersson P., Yi W. UPPAAL in a Nutshell // Int. Journal on Software Tools for Technology Transfer. — 1997. — Vol. 1, N 1–2. — P. 134–152.
+Файлы
+Novotarskiy2.doc
+null

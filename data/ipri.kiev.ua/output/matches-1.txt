@@ -1,0 +1,12 @@
+﻿Lastochkin
+05. — Vol. 7, N 1
+89-96
+width="50" alt="">PDF,DOC
+New Time-Frequency Distribution Based on Windowed Fourier Transform
+Lastochkin A.V.
+New method for time-frequency analysis has been suggested. It has been shown that a new trans-form has some common properties with a continuous wavelet transform. The comparison between meth-ods has been provided. Fig.: 9. Refs.: 4 titles.
+windowed Fourier transform, wavelet transform, time-frequency distribution.
+References</td><td>1. Марпл-мл. С.Л. Цифровой спектральный анализ и его приложения. — М.: Мир, 1990.<br>2. Коэн Л. Время-частотные распределения: обзор // ТИИЭР. — 1989. — Т. 77, № 10.<br>3. Астафьева Н.М. Вейвлет-анализ: основы теории и применения // Успехи физических наук. — 1996. — № 11. — С. 166.<br>4. Рыбальский О.В. К экспериментальной проверке достоверности положений теории выяв-ления следов цифровой обработки фонограмм // Реєстрація, зберігання і оброб. даних. — 2004. — Т.6, № 3. — С. 85–98.
+File
+RZOD2_04.doc
+null

@@ -1,0 +1,12 @@
+﻿2011-3-7
+11. — Vol. 13, N 3
+72-80&gt;
+alt="" width="50">PDF,DOC
+Control and Restore of the Integrity Based on the Nullization Algorithm in the Conditional Residue Code
+Mаtоv О.Y., Vаsylenko V.S., Vаsylenko M.Y.
+A procedure for determining the location and magnitude of distortion of information objects of telecommunication networks based on the nullization algorithm in conditions of using the generalized conditional residue code is offered. Fig.: 1. Refs: 3 titles.
+noiseproof coding, conditional residue code, integrity control, control base, code base, integrity restore, distortion.
+References</td><td>1. Матов О.Я. Узагальнені завадостійкі коди в задачах забезпечення цілісності інформацій- них об’єктів. Код умовних лишків / О.Я. Матов, В.С. Василенко // Реєстрація, зберігання і оброб. даних. — 2006. — Т. 8, № 3. — С. 48–66.<br>2. Василенко В.С. Вибір величини контрольної основи для коду умовних лишків / В.С. Васи- ленко, О.Я. Матов // Реєстрація, зберігання і оброб. даних. — 2010. — Т. 12, № 1. — С. 73–78.<br>3. Василенко В.С. Алгоритми кодування-декодування узагальнених завадостійких кодів для забезпечення цілісності в умовах природних впливів / В.С. Василенко // Правове, нормативне та метрологічне забезпечення системи захисту інформації в Україні. — 2008. — Вип. 2(17). — С. 56–66.
+File
+3-7.pdf
+null

@@ -1,0 +1,10 @@
+﻿null
+M. B. Ilyashenko</em><br><br>Ukraine</p><p></p><p>Ільяшенко Матвій Борисович,</p><p>асистент кафедри комп’ютерних систем і мереж Запорізького національного технічного університету, Україна, Запоріжжя</p><p>
+108438
+6423">No 2 (2009
+108438/0">Ilyashenko
+Algorithm for finding maximal common subgraph
+M. B. Ilyashenko
+A new enumerating algorithm for the solution of the problem of finding a maximal common subgraph is proposed. The results are presented for the numerical analysis of the algorithm efficiency on graphs of different classes and sizes, which compose the graph database for estimation of the efficiency of algorithms for solving problems concerning morphism on graphs. The potential of using the algorithm in solving real-world problems on graphs sizing up to several hundreds of vertices is estimated.
+108438/103388">PDF (Русский)</a
+—

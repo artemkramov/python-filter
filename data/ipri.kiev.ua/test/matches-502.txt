@@ -1,0 +1,12 @@
+﻿Landeh
+06. — Vol. 8, N 4
+45-52
+width="25px" alt="">PDF,DOC
+Detection of Concepts and their Interrelations within the Framework of Content-Monitoring Technology
+Dodonov A.G., Lande D.V.
+Approaches to the solution of a problem of revealing factual information from unstructured text flows are given. The technological solutions, allowing to take from text-through documents such concepts as a firm, a surname, place names, etc., and also to reveal force of their interrelations on the basis of application of two algorithms are described. The first of these algorithms is based on the account of joint concepts occurrence in the same documents, and the second one on the account of the context common for considered concepts. Fig.: 3. Refs: 7 titles.
+сontent-monitoring, information flow, concepts detection, text mining, concepts interrelation.
+References</td><td>1. Ландэ Д.В. Основы интеграции информационных потоков. — К.: Інжиніринг, 2006. — 240 с.<br>2. Ralph Grishman. Information extraction: Techniques and Сhallenges. In Information Extraction (International Summer School SCIE-97) // Springer-Verlag. — 1997.<br>3. Гершензон Л. М., Ножов И. М., Панкратов Д. В. Система извлечения и поиска структури-рованной информации из больших текстовых массивов СМИ. Архитектурные и лингвистические особенности. // Труды Международного семинара «Диалог’2005» (Звенигород, 1–6 июня 2005 г.). — М.: Наука, 2005.<br>4. Додонов А.Г., Ландэ Д.В. Организация сети информационных прокси-серверов // Реєстра-ція, зберігання і оброб. даних. — 2006. — Т. 8, № 3. — С. 24–31.<br>5. Григорьев А.Н., Ландэ Д.В. Адаптивный интерфейс уточнения запросов к системе контент-мониторинга InfoStream. // Труды Международного семинара «Диалог’2005» (Звенигород. — 1–6 июня 2005 г.). — М.: Наука, 2005. — С. 109–111.<br>6. Леліков Г.І., Сороко В.М., Григор’єв О.М., Ланде Д.В. Монiторинг дiяльностi органiв ви-конавчої влади iз застосуванням комп’ютерної системи контент-аналiзу електронних ЗМI // Вісник державної служби України. — 2002. — № 2. — С. 72–78.<br>7. Ландэ Д.В. Некоторые методы анализа новостных информационных потоков // Научные труды Донецкого национального технического университета. Серия: Информатика, кибернетика и вычислительная техника (ИКВТ-2005). — Вып. 93. — Донецк: ДонНТУ, 2005. — С. 277–287.
+File
+tvp-art.doc
+null

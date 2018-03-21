@@ -1,0 +1,11 @@
+﻿s
+D. M. Karpenko</em><br><br>Ukraine</p><p></p><p>Карпенко Дмитро Миколайович,</p><p>провідний інженер лабораторії Грід-обчислень у фізиці відділу фізики високих густин енергій Інституту теоретичної фізики ім. М.М. Боголюбова НАНУ, Україна, Київ</p><p></p></div><div></div><div><p><em>S. Ya. Svistunov</em><br><br>Ukraine</p><p></p><p>Свістунов Сергій Якович,</p><p>кандидат технічних наук, старший науковий співробітник лабораторії Грід-обчислень у фізиці відділу фізики високих густин енергій Інституту теоретичної фізики ім. М.М. Боголюбова НАНУ, Україна, Київ</p><p>
+107131
+6364">No 1 (2010
+107131/0">Karpenko
+Method for estimation of Grid-medium workload for the National Academy of Sciences of Ukraine
+D. M. Karpenko, S. Ya. Svistunov
+The most widely used Grid monitoring systems are overviewed. Techniques for estimation of Grid-medium workload are proposed depending on the information from a monitoring system which make it possible to express the Grid workload by percents and to confirm the relationship between the current and optimum workloads.
+107131/102107">PDF (Українська)</a
+—
+null

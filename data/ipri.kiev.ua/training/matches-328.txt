@@ -1,0 +1,12 @@
+﻿2013-4-8
+13. — Vol. 15, N 4
+77–85
+alt="" width="50">PDF,DOC
+Method of Digital Signature Producing and Verification Based on Recurrent Sequences
+Iaremchuk Iu.Е.
+It is proposed a method of digital signature producing and verification, based on the mathematical apparatus of recurrent Vk sequences, as well as a scheme and a protocol of its implementation. The analysis of the proposed method demonstrated that, compared to the known analogues, it is more reliable and provides almost twice as simple calculations during the signature verification. Besides, the method has a significantly simpler parameter procedure. Fig.: 1. Refs: 15 titles.
+informational security, cryptography, authentication, digital signature, recurrent sequences.
+References</td><td>
+File
+4-8.pdf
+null

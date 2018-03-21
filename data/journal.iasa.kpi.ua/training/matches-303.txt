@@ -1,0 +1,10 @@
+﻿null
+Kateryna M. Malyshevska</em><br><br>Ukraine</p><p></p><p>Малишевська Катерина Миколаївна,</p><p>аспірантка Навчально-наукого комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p>
+106964
+6358">No 2 (2010
+106964/0">Malyshevska
+Analisis of using neural networks for cancer diagnosis from multisensor imagery
+Kateryna M. Malyshevska
+The problem of cervical cancer diagnosis using neural networks from multisensor imagery is investigated. The radial basis function networks and error backpropagation networks are used for the diagnosis. The results of experiments are presented.
+106964/101965">PDF (Русский)</a
+—

@@ -1,0 +1,12 @@
+﻿2013-4-2
+13. — Vol. 15, N 4
+13–22
+alt="" width="50">PDF,DOC
+Primary Large Sample Partitioning for Diagnosis and Recognition Problem Solving on the Basis of Computational Intelligence Methods
+Subbotin S.A.
+The new method of training and test sample forming from primary sample is proposed. It preserves in a generated sub-sample the most important topological properties of the original sample and did not even needs to load of the original sample into computer memory. It provides a sequential exemplar processing and performs transformation of the multi-dimensional coordinate set to the one-dimensional, which is also discretized to improve the data generalization properties. This allows to significantly reduce the sample size, and to significantly decrease the requirements to computer resources. Tabl.: 1. Refs: 12 titles.
+sample, dimension reduction, sample selection, recognition, diagnosis.
+References</td><td>
+File
+4-2.pdf
+null

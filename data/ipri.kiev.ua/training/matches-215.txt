@@ -1,0 +1,12 @@
+﻿2011-2-8
+11. — Vol. 13, N 2
+74-79
+alt="" width="50">PDF,DOC
+Control Bases for the Conditional Residue Code
+Mаtоv О.Y., Vаsylenko V.S., Dubchak O.V.
+The requirements to the control base value in the problems of protecting the integrity of information objects of telecommunication networks when ensuring the information integrity under conditions of applying the generalized conditional residue code are considered. Fig.: 1. Refs: 2 titles.
+noiseproof coding, conditional residues code, integrity monitoring, control base, code base, integrity restoration, distortion.
+References</td><td>1.Mаtоv О.Y.<br>2.Vаsylenko V.S
+File
+2-8.pdf
+null

@@ -1,0 +1,12 @@
+﻿2012-3-8
+12. — Vol. 14, N 3
+81-91
+alt="" width="50">PDF,DOC
+Distributed Transactions Modeling with the Use of Petri Nets
+M. Iwaniak, W. Khadzhynov
+The attempt of using ordinary Petri Net to model and study Three-Phase Commit protocol (3PC) is presented. A brief overview of Petri Nets is introduced. The nature of typical and distributed transactions are explained. 3PC protocol actions are described. The Petri Net of 3PCprotocol followed by reachability analysis and study of the net properties is presented.
+Petri Net, distributed transactions, 3PC, Three-Phase Commit protocol.
+References</td><td>
+File
+3-8.pdf
+null

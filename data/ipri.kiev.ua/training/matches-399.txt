@@ -1,0 +1,12 @@
+﻿2015-3-8
+15. — Vol. 17, N 3
+75–82
+alt="" width="50">PDF,DOC
+Expert groups determination by analyzing the abstracts database «Ukrainika naukova»
+Balagura I.V.
+The purpose of the research is to solve the problem of expert groups’ determination in accordance with their qualifications, possession of special knowledge for scientific and technical expertise. The algorithm for expert groups’ determination by formal characteristics is proposed. The expert groups’ identification could be accomplished by defining the clusters in co-authorship networks and building appropriate terms network. The investigation presents terms networks of computer science research teams. Tabl.: 1. Fig.: 3. Refs: 16 titles.
+аbstracts database «Ukrainika naukova», Ukrainian abstract journal «Djerelo», co-authorship networks, terms network and expert groups.
+References</td><td>
+File
+3-8.pdf
+null

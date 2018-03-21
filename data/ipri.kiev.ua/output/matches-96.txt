@@ -1,0 +1,12 @@
+﻿2009-1-7
+10. — Vol. 12, N 2
+52-59
+alt="">PDF
+Principles of Constructing Digital Filters with Hypercomplex Coefficients
+Kalinovskyi Y.O., Fedorenko O.V.
+Construction of transfer function of digital filter with hypercomplex coefficients is considered. A method that allows to reduce a number of operations, which are necessary for operation of digital filters with hypercomplex coefficients, is offered. Comparing of operations number, which are necessary for operation of digital filters with hypercomplex coefficients is done both before and after use of this method. Tabl.: 1. Refs: 5 titles.
+digital filters, hypercomplex numerical systems, transfer function, computational complexity.
+References</td><td>1. Синьков М.В. Гиперкомплексные числовые системы, их структуры, особенности и возможности применения для моделирования / Синьков М.В., Калиновский Я.А., Ковалевская И.Л., Изык Л.Б. // Теория и применение моделирующих систем. — К.: Наук. думка, 1986.— С. 27–35.<br>2. Кантор И.Л. Гиперкомплексные числа / Кантор И.Л., Солодовников А.С. — М.: Наука, 1973.— 144 с.<br>3. Schutte H.D. Hypercomplex Numbers in Digital Signal Processing / Schutte H.D., Wessel. J. // Proc. Int. Conf. On Circuits and Systems. — New Orleans, Louisiana, 1990. —P. 1557–1560.<br>4. Toyoshima H. Computationally Efficient Implementation of Hypercomplex Digital Filters / Toyoshima H. // IEICE Trans. Fundamentals. — 2002. — E85-A, 8. — P. 1870–1876.<br>5. Каліновський Я.О. Методи комп’ютерного моделювання та обчислень з використанням гіперкомплексних числових систем: дис. … доктора техн. наук : 01.05.02 / Каліновський Яків Олександрович. — К., 2007.— 417 с.
+Файлы
+2009-1-7.pdf
+null

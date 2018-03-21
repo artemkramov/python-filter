@@ -1,0 +1,12 @@
+﻿2014-3-7
+14. — Vol. 16, N 3
+67-78
+alt="" width="50">PDF,DOC
+Granulation of object features values as a means of structural recognition methods efficiency rise
+Gorokhovatskiy V.A., Kulikov Yu.A.
+The issues of intelligent information processing systems of computer vision are discussed. It is proposed a method of forming a compressed structural description based on granulation of characteristic values that reduces the computational cost and reduces the number of false matches. The results of experiments are presented. Tabl.: 2. Fig.: 6. Refs: 8 titles.
+computer vision, structural image recognition methods, characteristic features, structural description, granulation, uniqueness index.
+References</td><td>
+File
+3-7.pdf
+null

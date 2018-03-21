@@ -1,0 +1,12 @@
+﻿2013-3-6
+13. — Vol. 15, N 3
+49–60
+alt="" width="50">PDF,DOC
+Protecting the Integrity of Information in the Application Code «Weighted Groups»
+Mаtоv О.Ya., Vаsylenko V.S., Vаsylenko M.Yu.
+It has been discussed some general approaches to constructing noise immunity codes for problems of monitoring the integrity of information objects using the example code «weighted groups». Refs: 5 titles.
+weights, immunity, control through modulo, redundancy.
+References</td><td>
+File
+3-6.pdf
+null

@@ -1,0 +1,11 @@
+﻿s
+V. F. Gubarev</em><br><br>Ukraine</p><p></p><p>Губарев В’ячеслав Федорович,</p><p>член-кореспондент НАН України, професор, доктор технічних наук, заступник директора з наукової роботи Інституту космічних досліджень НАНУ–НКАУ, Україна, Київ</p><p></p></div><div></div><div><p><em>А. О. Zhukov</em><br><br>Ukraine</p><p></p><p>Жуков Олексій Олегович,</p><p>аспірант Національного технічного університету України «КПІ», Київ</p><p>
+108469
+6452">No 1 (2009
+108469/0">Gubarev
+Research of Identification Conditions in Iterative Identification of discrete stationary systems
+V. F. Gubarev, А. О. Zhukov
+The article is devoted to revelation and analytical validation of general condition for identification of discrete stationary systems with simple modes using analysis of the response common expression for the systems with the state matrix in the Jourdan form. It has been established that a rectangular impulse or periodic excitation are the most informative signals in relation to the excited modes depending on the oscillation circuit quality.
+108469/103447">PDF (Русский)</a
+—
+null

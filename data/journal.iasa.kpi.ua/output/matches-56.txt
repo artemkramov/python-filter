@@ -1,0 +1,11 @@
+﻿null
+O. O. Petrenko</em><br>The Department of System Design of Educational and Scientific Complex "Institute for Applied System Analysis" of the National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute", Kyiv<br>Ukraine</p><p></p><p>Alexey Alekseevich Petrenko,</p><p>a Ph.D. student at the Department of System Design of Educational and Scientific Complex "Institute for Applied System Analysis" of the National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute", Kyiv, Ukraine.</p><p>
+117202
+7035">No 3 (2017
+117202/0">Petrenko
+Features of service-oriented applications in the cloud
+O. O. Petrenko
+The largest European project of building the European Open Science Cloud for Research (EOSC), which started in 2017 and is based on a service-oriented approach, motivates research on moving SOA practical applications to the cloud. Therefore, in this work, the basic differences between the traditional first generation SOA (based on Web services with standardized communications protocols) and the new generation of cloud SOA (based on microservices and containers) that must be taken into account during moving SOA applications to the cloud.</div><br></div><div><h4>Keywords</h4><br><div>SOA; Microservice; Container; Cloud; API; ESB; Workflows; EOSC
+117202/111292">PDF (Українська)</a
+—
+><br><br>DOI:<a href="https://doi.org/10.20535/SRIT.2308-8893.2017.3.04">https://doi.org/10.20535/SRIT.2308-8893.2017.3.04</a

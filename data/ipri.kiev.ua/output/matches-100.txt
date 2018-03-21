@@ -1,0 +1,12 @@
+﻿Egorova
+05. — Vol. 7, N 1
+25-28
+width="50" alt="">PDF,DOC
+Determination of Multi-Criteria Ordinal Estimates
+Yegorova E.A.
+Modification of method CPRS (Closed Procedures at Reference Situations) for determination of multi-criteria ordinal estimates is considered. It consists in using expert information received beforehand. Refs.: 4 titles.
+decision-making, CPRS, ordinal estimates, multi-criteria methods of decision-making support.
+References</td><td>1. Ларичев О.И. Теория и методы принятия решений, а также Хроника событий в Волшеб-ных странах. — М.: Логос, 2002. — 392 с.<br>2. Тоценко В.Г. Методы и системы поддержки системы принятия решений. Алгоритмический аспект. — К.: Наук. думка, 2002. — 382 с.<br>3. Орест О. Теория графов: Пер. с англ. — М., 1980.<br>4. Ларичев О.И., Мошкович Е.М. Качественные методы принятия решений. — М.: Физматлит, 1996.
+File
+RZOD2_04.doc
+null

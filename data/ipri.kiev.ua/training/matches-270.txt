@@ -1,0 +1,12 @@
+﻿2012-3-5
+12. — Vol. 14, N 3
+47-57
+alt="" width="50">PDF,DOC
+Diagnostic Model Synthesis Based on Neuro-Fuzzy Network with High Generalization Prop-erties
+Subbotin S.A.
+The method of diagnostic model synthesis built around neuro-fuzzy networks with high generali-zation properties has been developed. It identifies and reduces the fuzzy terms, forms and summarizes a set of production rules, based on which in a non-iterative mode it synthesizes a neuro-fuzzy network, which improves the properties of generalization and also simplifies the diagnostic models. Tabl.: 2. Fig.: 1. Refs: 9 titles.
+neuro-fuzzy network, technical diagnosis, generalization.
+References</td><td>
+File
+3-5.pdf
+null

@@ -1,0 +1,10 @@
+﻿null
+O. V. Kanishcheva</em><br><br>Ukraine</p><p></p><p>Каніщева Ольга Валеріївна,</p><p>аспірант кафедри інтелектуальних комп’ютерних систем Національного технічного університету "Харківський політехнічний інститут", Україна, Київ</p><p>
+107839
+6391">No 3 (2009
+107839/0">Kanishcheva
+Knowledge identification in e-libraries
+O. V. Kanishcheva
+The method of comparator identification is considered as one the logical methods of Data Mining. It is used to solve problems of processing natural language texts in automatized information library systems.
+107839/102786">PDF (Русский)</a
+—

@@ -1,0 +1,12 @@
+﻿2014-3-5
+14. — Vol. 16, N 3
+54-60
+alt="" width="50">PDF,DOC
+Animation information technology of complex technical systems based on the discrete- continuous networks, FLASH-technology and means of DCNET
+Denisenko A.V.
+It is considered the combined approach of the implementation of animation information technology for composite technology complex (CTC) in order to reduce time and cost for development of the software supporting this complex. For this purpose the model of CTC uses a progressive methodology of discrete-continuous networks. For its efficient implementation, Flash-technologies and computational tools DCNET for numerical calculations jointly and productively employed. Fig.: 3. Refs: 8 titles.
+discrete-continuous network, Petri net, vector state, composite technological complex, AdobeFlash, DCNET
+References</td><td>
+File
+3-5.pdf
+null

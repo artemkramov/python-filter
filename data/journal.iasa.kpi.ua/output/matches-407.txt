@@ -1,0 +1,11 @@
+﻿s
+A. A. Matveev</em><br></p><p></p></div><div></div><div><p><em>K. P. Shadurskis</em><br></p><p>
+109763
+6579">No 2 (2008
+109763/0">Matveev
+The Markov autoregression model with heteroskedastic remainders
+A. A. Matveev, K. P. Shadurskis
+Time series forecasting by using the theory of Markov’s chains are considered. The main task was to find the transition probabilities for Markov’s chain on the basis of observed values of the time series. It is shown that to find the transition probabilities which meet all the necessary requirements, one should use the quadratic programming on simplex. Consistent and unbiased estimations of the transition probabilities are built via the solution of the quadratic programming problem in MATLAB.
+109763/104805">PDF (Русский)</a
+—
+null

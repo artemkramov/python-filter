@@ -1,0 +1,12 @@
+﻿2012-1-6
+12. — Vol. 14, N 1
+57-65&gt;
+alt="" width="50">PDF,DOC
+Method of Neuro-Fuzzy Network Synthesis Based on Decision Trees
+Gofman Ye.A., Subbotin S.A., Oliinyk A.A.
+Methods of neuro-fuzzy network constructing are analyzed. A method for the synthesis of neuro-fuzzy network is proposed. Its determines the structure of the network and calculates the parameters of neuroelements on the basis of the constructed decision tree. Experiments on the solution of practical problems are conducted. Fig.: 1. Refs: 12 titles.
+decision tree, neuro-fuzzy network, membership function, rule base.
+References</td><td>
+File
+1-6.pdf
+null

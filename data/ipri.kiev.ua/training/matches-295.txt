@@ -1,0 +1,12 @@
+﻿2013-1-6
+13. — Vol. 15, N 1
+53-58
+alt="" width="50">PDF,DOC
+Clustering with Kohonen Neural Network and Modified Hierarchical Algorithm Chameleon in Various Subject Areas
+Lyahoves A.V.
+The results of the experiments of the Kohonen neural network for clustering clients of the bank and a modified hierarchical clustering algorithm Chameleon for clustering patients with lumbar spinal stenosis are demonstrated. Clustering algorithms are analyzed and compared. The experimental samples and the results of experiments are presented. Tabl.: 1. Refs: 9 titles.
+clustering, modified Chameleon algorithm, graphs, Kohonen neural network, clustering clients of the bank, clustering of patients with lumbar spinal stenosis.
+References</td><td>
+File
+1-6.pdf
+null

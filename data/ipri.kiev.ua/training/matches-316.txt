@@ -1,0 +1,12 @@
+﻿2013-3-5
+13. — Vol. 15, N 3
+42–48
+alt="" width="50">PDF,DOC
+Approach to Minimize the Necessary of Technical Resources for Metrology of Data Storage in Smart Grid
+Kravtsov H.A.
+It is described an approach on modeling the distribution of metering points in the domain of energy which has been reduced to normalized additive function of distribution based on two-dimensional normal distribution. The goal of modeling is to reduce the technical resources (disk space) for metrology of data storage with a digital signature. Fig.: 5. Refs: 4 titles.
+Smart Grid, modeling, density distribution, simple flow, the law, registration points.
+References</td><td>
+File
+3-5.pdf
+null

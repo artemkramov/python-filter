@@ -1,0 +1,11 @@
+﻿s
+T. Pomerantseva</em><br><br>United States</p><p></p><p>Померанцева Тетяна Миколаївна,</p><p>виконавчий директор Інституту системного аналізу і прийняття рішень, США, Брісбане</p><p></p></div><div></div><div><p><em>А. Boldak</em><br><br>Ukraine</p><p></p><p>Болдак Андрій Олександрович,</p><p>кандидат технічних наук, доцент кафедри обчислювальної техніки Національного технічного університету України «КПІ», Україна, Київ</p><p>
+107254
+6372">No 4 (2009
+107254/0">Pomerantseva
+Principal component analysis for studying the world security problem
+T. Pomerantseva, А. Boldak
+This research is a continuation of the work [1], in which the list of ten most essential global threats to the future of mankind have been presented. The initial data on each threat are taken from the respectable international organizations data bases. Then, we defined the summarized impact of the examined ten global threats totality on different countries based on cluster analysis method with the purpose of selecting groups of the countries with “close” performances of summarized threats. By using the Minkovsky type metric the foresight of the future global conflicting has been executed. To facilitate the analysis and make it easier we use the method of Principal Component Analysis (PCA) which allows reduce variables with many properties to several hidden factors. The analysis shows that currently the most considerable threats for most countries are the reduction of energy security, worsening of balance between bio capacity and human demands and the incomes inequality between people and countries.
+107254/102235">PDF</a
+—
+null

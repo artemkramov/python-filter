@@ -1,0 +1,12 @@
+﻿2017-1-6
+17. — Vol. 19, N 1
+50–54
+alt="" width="50">PDF,DOC
+Increasing the channel capacity of a part of telecommunivation network at the expense of space-energy multiplexing.
+Anakhov P.V.
+A scheme of the hybrid communication system with division of channels by environments of signals transmittance, their physical nature and frequency-time is presented. A formula for calculating the channel capacity to be increased on account of space-energy multiplexing is derived. Tabl.: 1. Fig.: 1. Refs: 10 titles.
+hybrid communication system, energy multiplexing, cannel capacity, space multiplexing, telecommunication network.
+References</td><td>
+File
+2017-1-6.pdf
+null

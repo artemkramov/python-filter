@@ -1,0 +1,12 @@
+﻿Matov
+05. — Vol. 7, N 1
+85-98
+width="50" alt="">PDF,DOC
+Comparative Analysis of Information Exchange Procedures in the Telecommunication Systems
+Маtоv О.Ya., Vasylenkо V.S.
+The comparative analysis of information exchange procedures in the telecommunication systems by the indexes of relative and effective speed, and by the validity of information transfer for information exchange protocols in the telecommunication systems is offered; expressions for the calcu-lation of these indexes are given. Fig.: 7. Refs: 5 titles.
+validity of information, noise interference, information exchange, massage, exchange protocols, tele-communication system, transmission speed.
+References</td><td>1. Бунин С.Г., Василенко В.С. Сравнительная оценка ПРОЦЕДУРИ с решающей обратной связью и с использованием корректирующих кодов // УСіМ. — 1992. — № 9/10. — С. 30–35.<br>2. Матов О.Я., Василенко В.С. Будько М.М. Аналіз протоколів обміну інформацією у теле-комунікаційних процедурах // Реєстрація, зберігання і оброб. даних. — 2004. — Т. 6, № 4. — С. 82–93.<br>3. Матов О.Я., Василенко В.С. Будько М.М. Оцінка часу доставки повідомлень у протоколах організації обміну в телекомунікаційних процедурах // Реєстрація, зберігання і оброб. даних. — 2005. — Т. 7, № 2. С. 66–76.<br>4. Бунин С.Г., Войтер А.П. Вычислительные системы с пакетной радиосвязью. — К.: Техніка, 1989. — 223 с.<br>5. Матов A.Я. Основы передачи дискретной информации. — К.: КВИРТУ ПВО, 1977. — 242 с.
+File
+RZOD2_04.doc
+null

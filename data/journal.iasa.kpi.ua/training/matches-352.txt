@@ -1,0 +1,11 @@
+﻿s
+А. Zagorodny</em><br><br>Ukraine</p><p></p><p>Загородній Анатолій Глібович,</p><p>академік НАН України, директор Інституту теоретичної фізики ім. М.М. Боголюбова НАН України, Київ</p><p></p></div><div></div><div><p><em>М. Zgurovsky</em><br><br>Ukraine</p><p></p><p>Згуровський Михайло Захарович,</p><p>академік НАН України, професор, доктор технічних наук, ректор Національного технічного університету України «КПІ», директор Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p></p></div><div></div><div><p><em>G. Zinovjev</em><br><br>Ukraine</p><p></p><p>Зінов’єв Геннадій Михайлович,</p><p>професор, завідувач відділу фізики високих щільностей енергії Інституту теоретичної фізики ім. М.М. Боголюбова НАН України, Київ</p><p></p></div><div></div><div><p><em>E. Martynov</em><br><br>Ukraine</p><p></p><p>Мартинов Євген Сергійович,</p><p>доктор фізико-математичних наук, завідувач лабораторії грід-обчислень у фізиці Інституту теоретичної фізики ім. М.М. Боголюбова НАН України, Київ</p><p></p></div><div></div><div><p><em>А. Petrenko</em><br><br>Ukraine</p><p></p><p>Петренко Анатолій Іванович,</p><p>професор, доктор технічних наук, завідувач кафедри систем автоматизованого проектування Навчально-наукового комплексу «Інститут прикладного системного аналізу» НТУУ «КПІ» МОН та НАН України, Київ</p><p>
+107850
+6423">No 2 (2009
+107850/0">Zagorodny
+Integrating Ukraine into European Grid infrastructure
+А. Zagorodny, М. Zgurovsky, G. Zinovjev, E. Martynov, А. Petrenko
+Ukrainian Grid community has established Ukrainian National Grid Initiative (UNGI) which has joined up the major active European projects EGEE and EGI. The community of objectives based on the involvement in world leading scientific projects is elucidated. General features of UNGI and European Grid structures and projects together with various Grid-based applications supported by UNGI are discussed. Current UNGI activities and its future plans in view of realistic computational and human resources are described. The problems and prospects of rapidly progressing Ukrainian Grid infrastructure on the way of international cooperation and integration are illuminated.
+107850/102796">PDF</a
+—
+null

@@ -1,0 +1,12 @@
+﻿Brjagin
+05. — Vol. 7, N 1
+115-121
+width="50" alt="">PDF,DOC
+Discrete Information Transfer by Stochastic Modulation of Random Carrier
+Rozorynov G.N., Yegorov A.K., Bryagin O.V.
+The original system of discrete information transfer, which provides the transmissions and optimum reception of stochastic modulated signals, is offered. The results of experimental research of the system, which confirm its realization and efficiency, are given. Fig.: 6. Refs.: 3 titles.
+random processes, multivariate functions, stochastic modulation, optimum reception.
+References</td><td>1. Левин Б.Р. Теоретические основы статистической радиотехники. Кн. 2. — М.: Сов. радио, 1968. — 552 с.<br>2. Брягин О.В., Егоров А.К., Розоринов Г.Н. Определение степени независимости отсчетов случайных процессов // Реєстрація, зберігання і оброб. даних. — 2004. — Т. 6, № 4. — С. 29–37.<br>3. Брягин О.В., Егоров А.К., Розоринов Г.Н. Об оценке многомерных функций распределения вероятностей речевых сигналов // Реєстрація, зберігання і оброб. даних. — 2004. — Т. 6, № 3. — С. 41–49.
+File
+RZOD2_04.doc
+null

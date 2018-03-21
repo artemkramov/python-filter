@@ -1,0 +1,12 @@
+﻿2014-3-2
+14. — Vol. 16, N 3
+12-24
+alt="" width="50">PDF,DOC
+Computing characteristics of one class of non-commutative hypercomplex number systems of 4-dimension
+Kalinovsky Ya.O., Boyarinova Yu.E., Turenko A.S.
+The class of non-commutative hypercomplex number systems (HNS) of 4-dimension constructed by using of non-commutative procedure of Grassman-Clifford doubling of 2-dimensional systems is investigated. All HNS of this class are constructed, algorithms of performance of operations and methods of algebraic characteristics calculation in them, such as conjugation, normalization, a type of zero dividers are researched. The formulas of exponential functions representation are derived for these systems. Refs: 10 titles.
+quaternion, hypercomplex number system, zero divisor, pseudonorm, conjugation, Grassman-Clifford procedure of doubling.
+References</td><td>
+File
+3-2.pdf
+null

@@ -1,0 +1,12 @@
+﻿2017-1-8
+17. — Vol. 19, N 1
+64–71
+alt="" width="50">PDF,DOC
+An analysis of ways to improve the speed performance of algorithms for combining images in a combined correlation-extremal navigation systems of aircrafts.
+Mezentsev A.V., Butochnov O.M., Yuzefovych V.V.
+The ways to improve the performance of algorithms combining the current and reference images in the combined correlation-extremal navigation systems of aircraft are analyzed at the expense of numerical expenditures. For these purposes it is proposed to use the known algorithms that are invariant to operations of shift, rotation and scaling of images. Fig.: 1. Refs: 6 titles.
+reference image, combined correlation-extremal navigation system, analysis, algorithm of overlapping images.
+References</td><td>
+File
+2017-1-8.pdf
+null

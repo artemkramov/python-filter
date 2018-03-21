@@ -1,0 +1,11 @@
+﻿s
+Y. H. Levchenko</em><br>доцент кафедри засобів захисту інформації Національного авіаційного університету, Україна, Київ<br>Ukraine</p><p></p><p>Левченко Євген Григорович,</p><p>доцент, кандидат фізико-математичних, доцент кафедри засобів захисту інформації Національного авіаційного університету, Україна, Київ</p><p></p></div><div></div><div><p><em>M. V. Demchyshyn</em><br>аспірант кафедри засобів захисту інформації Національного авіаційного університету, Україна, Київ<br>Ukraine</p><p></p><p>Демчишин Мирослав Володимирович,</p><p>аспірант кафедри засобів захисту інформації Національного авіаційного університету, Україна, Київ</p><p></p></div><div></div><div><p><em>A. O. Rabchun</em><br>співробітник Державного університету інформаційно-комунікаційних технологій, Україна, Київ<br>Ukraine</p><p></p><p>Рабчун Андрій Олександрович,</p><p>співробітник Державного університету інформаційно-комунікаційних технологій, Україна, Київ</p><p>
+74199
+4375">No 4 (2011
+74199/0">Levchenko
+The mathematical models of economic management of information security
+Y. H. Levchenko, M. V. Demchyshyn, A. O. Rabchun
+The comparative analysis of the quantitative models of economic management of information security is fulfilled. The conditions under which the target functions of the considered models coincide or sufficiently close are set up. The fulfilled calculations illustrate the methodology of quantity determination depending on attack and defense recourses correlation.
+74199/69663">PDF (Українська)</a
+—
+null
