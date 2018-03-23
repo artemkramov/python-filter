@@ -1,0 +1,11 @@
+﻿35932
+otelesc.kpi.ua/issue/view/2069">No 2 (2014
+35932/0">Bezruk
+METHODS OF MULTI-CRITERIA OPTIMIZATION IN PLANNING NETWORKS OF MOBILE COMMUNICATION
+Valerii Bezruk, Daryna Сhebotarova
+<p>The features of the use of multi-criteria optimization methods to solve design problems of mobile communication networks are&nbsp;considered. The article is aimed to solve the relevant scientific and applied problem of planning and optimization of cellular&nbsp;mobile communication networks along with taking into account the totality quality indices, based on the application of multicriterial&nbsp;optimization methods. Examples illustrating how to select optimal design decisions while networks of mobile communication&nbsp;planning taking into account the totality of quality indices are given.</p>
+35932/32213">PDF
+Janusz Granat and Andrzej P. Wierzbicki. Multi-criteria analysis in telecommunications // Proceedings of the 37th Hawaii International Conference on System Sciences. - 2004. - Р.1-6.</p><p>UMTS Radio Network Planning, Optimization and QOS Management. For Practical Engineering Tasks / Edited by J. Lempidinen and M. Manninen. - Dordrecht: Kluwer Academic Publishers, 2004. - 343 р.</p><p>Mishra A.R. Advanced Cellular Network Planning and Optimization. 2G/2.5G/3G Evolution TO 4G. /Edited by Ajay R. Mishra. - UK: John Wiley and Sons Ltd, 2007. - 542 р.</p><p>Bezruk V.M., Bukhanko A.N., Chebotaryova D.V., Varich V.V. Multicriteria optimization in telecommunication networks planning, designing and controlling // Open Book “Telecommunications Networks”. Chapter 11. - Rijeka: INTECH, 2012. - Р. 251 - 274.</p><p>Chebotaryova D.V., Bezruk V.M.. Multi-criteria Optimization of Design Solutions at Planning Honeycomb Networks of Mobile Link. - Kh.: CMIT, 2013. – 148 p
+null
+Valeriy Bezruk, Daria Chebotaryeva, Minho Jo, Stanislav Ivanenko. Multi-Criteria Optimization in Planning of Mobile Communication Networks // MIKON 2014, 20th International Conference on Microwaves, Radar and Wireless Communications, June 16-18, Gdansk, Poland. Р.633 - 639.
+22014.%p">https://doi.org/10.20535/2411-2976.22014.%p

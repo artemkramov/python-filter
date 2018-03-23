@@ -1,0 +1,11 @@
+﻿30508
+otelesc.kpi.ua/issue/view/1754">No 1 (2010
+30508/0">Ермолаев
+OPTIMAL PLACEMENT OF BASE STATIONS
+Сергей Ермолаев
+Based on the genetic approach, we solve the problem of optimal placement of base stations when establishing the wireless wideband communication network. Specifically, we form a mathematical model of the genetic approach in order to solve this problem. This model was realized as a genetic algorithm as well as the appropriate software that allows effectively solving the problems of large dimension placement. We confirm the aptness of our theoretical analysis by the data obtained through the exhaustive method. We also estimate the computing time depending on the problem parameters. We show that the algorithm designed provides the minimal computing time for problems of small and middle dimension. The results of this problem solving for a specific example demonstrate a great advantage of the genetic approach. Finally, the results obtained can be successfully applied for creating the ant colony optimization algorithms of base stations placement.
+30508/27197">PDF (Русский)
+Рутковский Л., Рутковская Д., Пилинський М. Нейронные сети, генетические алгоритмы и нечеткие системы: Пер. с польск. И. Д. Рудинського ─ М.: Горячая линия - Телеком, 2006. ─ 383 с.</p><p>Курейчик В. М., Курейчик В. В., Гладков Л. А. Генетические алгоритмы: Учебное пособие. ─ М.: Физматлит, 2006. ─ 320 с.</p><p>Вишневский В., Ляхов А., Шахнович И., Портной С. Широкополосные беспроводные сети передачи информации ─ М.: Техносфера, 2005 .- 456 с.</p><p>Erceg V., Hari K. V. S., et al. Channel models for fixed wireless applications // Technical Report IEEE 802.16a- 03/01, June 2003. ─ 38 P.</p><p>Зыбин В. А., Крылов В. В. Исследование новых возможностей использования технологии WiMAX // Труды 10-й научной конференции по радиофизике, Нижний Новгород, Россия, 2006. ─ С. 66─67
+null
+Cortinhal M. J., Captivo M. E. Genetic algorithms for the single source capacitated location problem: a computational study // Proceedings of 4th Metaheuristics International Соnference, Porto, Portugal, 2001. ─ P. 355─359.
+12010.%p">https://doi.org/10.20535/2411-2976.12010.%p

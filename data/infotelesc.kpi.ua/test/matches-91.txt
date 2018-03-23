@@ -1,0 +1,11 @@
+﻿30231
+otelesc.kpi.ua/issue/view/1776">No 2 (2013
+30231/0">Uryvskyi
+OFDM SIGNAL ENERGY CHARACTERISTICS RESEARCH IN CHANNEL WITH PERMANENT PARAMETERS
+Leonid Uryvskyi, Serhii Osypchuk
+<p>The simulation model for OFDM (Orthogonal Frequency Division Multiplexing) signal energy characteristics research is&nbsp;developed. The OFDM signal vector-phase states are examined. The momentary amplitudes distribution function is obtained.&nbsp;A hypothesis of amplitude distribution law is verified by the X2 criterion. The OFDM subcarriers optimal gain method is&nbsp;proposed.</p>
+30231/26958">PDF
+R. Prasad. OFDM for wireless communications systems. – Artech House Universal Personal Communications series, 2004. – 291 p.</p><p>H. Schulze, C.Leuders. Theory and Applications of OFDM and CDMA: Wideband Wireless Communications. John Wiley &amp; Sons Ltd, 2005. – 421 p.</p><p>Fink L. Discrete messages transmission theory. – М.: “Sov.Radio”, 1970. – 728 p.</p><p>H. Ochiai and H. Imai, “On the Distribution of the PeaktoAverage Power Ratio in OFDM Signals,” IEEE Trans. Commun., vol. 49, no. 2, pp. 282-89, Feb. 2001.</p><p>Seung H. Han, Jae H. Lee, “An overview of peak-toaverage power ratio reduction techniques for multicarrier transmission,” IEEE Wireless Communications, vol.12, no. 2, pp. 56-65, 2005
+null
+B. Lu, X. Wang, and K. R. Narayanan, BLDPC-based space-time coded OFDM systems over correlated fading channels: Performance analysis and receiver design, [in Proc. 2001 IEEE Int. Symp. Information Theory (ISIT ’01), Jun. 24–29, 2001, vol. 1, p. 313.
+22013.%p">https://doi.org/10.20535/2411-2976.22013.%p

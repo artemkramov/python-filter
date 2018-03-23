@@ -1,0 +1,11 @@
+﻿30222
+otelesc.kpi.ua/issue/view/1775">No 1 (2013
+30222/0">Uryvskyi
+ANALYSIS OF CORRECTIVE PROPERTIES OF ULTRA-LONG LDPC CODES
+Leonid Uryvskyi, Serhii Osypchuk
+<p>The ultra-long LPDC codes are examined. The errors correction by ultra-long LDPC codes is analyzed. The error-correcting&nbsp;capability research method for ultra-long LDPC codes is described in details. The main results in table and graph representations&nbsp;are shown. The comparison of ultra-long LDPC codes and BCH codes is performed by using Plotkin and Varshamov-Gilbert limits approximation criterion.</p>
+30222/26950">PDF
+Low-density parity-check codes / R. Gallager. – M.: “Mir”, 1966. – 144 p.</p><p>Digital Video Broadcasting (DVB): Second generation (DVB-S2) / ETSI EN 302 307 V1.2.1 // European Standard– 2009. – Available:</p><p>http://www.etsi.org/deliver/etsi_en/302300_302399/302307/0</p><p>02.01_60/en_302307v010201p.pdf.</p><p>L.A. Uryvskyi, E.A. Prokopenko, A.M. Peshkin Noiseproof codes with the maximum approximation to the Shannon bound // Telecommunication Sciences. – 2011. – Volume 2, Number 1. – P.41-46.</p><p>Low-density parity-check codes from DVB-S.2 standard / The MathWorks, Inc. // 2012. – Available: http://www.mathworks.com/help/comm/ref/dvbs2ldpc.html
+null
+The telecommunications theory fundamentals: textbook / Under general edition of M.Yu. Ilchenko. – K. ISCIS</p><p>NTUU “KPI”, 2010. – 788 p.
+12013.%p">https://doi.org/10.20535/2411-2976.12013.%p

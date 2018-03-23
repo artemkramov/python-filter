@@ -1,0 +1,11 @@
+﻿30218
+otelesc.kpi.ua/issue/view/1773">No 2 (2012
+30218/0">Bunin
+IMPULSE ULTRA-WIDEBAND SIGNAL RELAYING IN AD HOC RADIO NETWORKS
+Sergiy Bunin, Iurii Voitenko, Konstantin Plotnik
+A method of impulse ultra-wideband signals relaying in ad hoc radio networks is described. As the relaying signals a group of chipsets is used to represent various minimal information units. A system of markers is introduced to unambiguous determine the relaying routes. The chipset representation of transmitted signals reduces the delays coursed by multistep relaying and increases the data transfer rate.
+30218/26945">PDF
+Radio resource sharing for ad hoc networking with UWB / F. Cuomo, C. Martello, A. Baiocchi, F. Capriotti // IEEE Journal on Selected Areas in Communications. ─ 2002. ─ Vol. 20, N. 9. ─ P. 1722─1732.</p><p>Negi R., Rajeswaran A. Capacity of ultra wide band wireless ad hoc networks // IEEE Transactions on Information Theory. ─ 2007. ─ Vol. 6, N. 10. ─ P. 3816─ 3824.</p><p>Frodigh M., Johansson P., Larsson P. Wireless ad hoc networking: The art of networking without a network // Ericsson Review. ─ 2000. ─ N. 4. ─ P. 248─263.</p><p>Russel D. The principles of computer networking // Cambridge University Press, 1989. ─ 514 p.</p><p>Sharma V., Hellstrand F. RFC 3469: Framework for multi-protocol label switching (MPLS)-based recovery // IETF. ─ February 2003. 40 p
+null
+Perkins C., Belding-Royer E., Das S. RFC 3561: Ad hoc on-demand distance vector (AODV) routing // IETF. ─ July 2003. ─ 38 p.
+22012.%p">https://doi.org/10.20535/2411-2976.22012.%p

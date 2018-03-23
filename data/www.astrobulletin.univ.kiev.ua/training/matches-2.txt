@@ -1,0 +1,11 @@
+﻿51_tsap
+pan><strong>Bulletin of Taras Shevchenko National University of Kyiv. Astronomy, no. 51, p. 39-41 (2014)</strong></span></p><p><s
+null
+On the magnetic flux conservation in the partially ionized plasma
+Yu. Tsap</strong>, Dr. Phys. and Math. Sciences<br><strong>Yu. Kopylova</strong>, Ph.D. in Phys. and Math. Sciences<br>Crimean Astrophysical Observatory, Ukraine,<br>Central (Pulkovo) Astronomical Observatory, RF<span></span></p><p><strong><span>Abstract</span>
+<br>The Ohm, Hall, and ambipolar diffusions in the partially ionized plasma are considered. It has been shown that the statement of Pandey and Wardle that only the Ohm diffusion is capable to decrease the magnetic flux is not sufficiently correct due to the formal dependence of the magnetic diffusion on a selected frame of reference. Thes ignificance of understanding of the physical nature for the dissipation and diffusion of the magnetic field in the partially ionized plasma as well as consequences of obtained results are discussed.
+Keywords
+<br>Ionizedplasma, magneticflux
+/strong><br>Pandey, B.P., Wardle, M. 2012, MNRAS., 423, 1, 222<br>Pandey, B.P., Wardle, M. 2012, MNRAS., 426, 2, 1436<br>Nickeler, D.H., Karlicky, M. 2006, Astrophys. SpaceSci. Trans., 2, 2, 63</p><p
+1/13.pdf"
+a

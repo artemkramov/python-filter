@@ -1,0 +1,11 @@
+﻿30197
+otelesc.kpi.ua/issue/view/1771">No 1 (2012
+30197/0">Voitenko
+MULTIROUTE CROSS-LAYER TRANSPORT PROTOCOL WITH RELIABLE DATA DELIVERY
+Iurii Voitenko
+<p>A multiroute cross-layer transport protocol with data delivery capabilities for mobile networks is proposed. Protocol combines&nbsp;routing functionality with reliable data delivery. It is shown that finding multiple routes to the destination can be successfully&nbsp;combined with a connection establishment for connection-oriented protocols such as TCP. Establishing a connection over multiple&nbsp;routes can significantly decrease the time of the connection recovery when some routes become unavailable thus increasing&nbsp;total throughput of transport protocol in mobile networks environment. Performance analysis of the proposed protocol indicated<br>that in mobile sensor networks with 5-10% of packet losses its throughput is approximately 60% higher than throughput&nbsp;of TCP-Reno2 flowing over shortest path.</p>
+30197/26908">PDF
+Transmission control protocol, RFC 793 // Internet Engineering Task Force (IETF). ─ September 1981.</p><p>Allman M., Paxson V., Stevens W. TCP congestion control, RFC 2581 // Internet Engineering Task Force (IETF). ─ April 1999.</p><p>Perkins C., Belding-Royer E., Das S. Ad hoc ondemnad distance vector (AODV) routing, RFC 3561 // Internet Engineering Task Force (IETF). ─ July 2003.</p><p>Johnson D. The dynamic source routing protocol (DSR) for mobile ad hoc networks for IPv4, RFC 4728 // Internet Engineering Task Force (IETF). ─ February 2007.</p><p>Papanastasiou S., Ould-Khaoua M. Exploring performance of TCP Vegas in mobile ad hoc networks // International Journal of Communication Systems. ─ March 2004. ─ Vol. 17, Issue 2. ─ P. 163─177
+null
+Steward R. Stream control transmission protocol, RFC 2960 // Internet Engineering Task Force (IETF). ─ October 2000.
+12012.%p">https://doi.org/10.20535/2411-2976.12012.%p

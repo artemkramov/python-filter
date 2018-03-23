@@ -1,0 +1,10 @@
+﻿51_osipov
+null
+Bulletin of Taras Shevchenko National University of Kyiv. Astronomy, no. 51, p. 34-36 (2014)
+<span>The program of investigations of long term changes of fraunhofer lines in solar spectra</span></strong></p><p><strong>S. Osipov</strong>, Ph.D. in Phys. and Math. Sciences<br>Main Astronomical Observatory, national Academy of Sciences, Kyiv<span></span></p><p><span><strong>Abstract
+<br></span>The program of investigations of long term changes of Fraunhofer lines in solar spectra is presented. It is realized in the Golosiiv solar telescope ATsU-5. The methods for corrections of influence of main destabilizing factors, notably scattering light in spectrograph, instrument function, inner LOS velocity, are propozed. The instrument function measured using monochromatic coherent radiation of He-Ne laser recalculated to the case of incoherent radiation. The first program observations started.
+Keywords
+<br>Fraunhofer lines, instrument function, scattering light, inner LOS-velocity, coherent radiation
+/strong><br>Gurtovenko, EH. A. 1969, Astrometriya i astrofizika, 8, 77<br>Osipov, S.N. Kinematika i fizika nebesn. tel.<br>Zajdel’, A.N., Ostrovskaya, G.V., Ostrovskij, YU.I. 1976, Tekhnika i praktika spektroskopii, izd. Nauka., Moskva, 392<br>Doyle, J.G., Jevremovic, D., Short, C.I., Hauschildt, P.H., Livingston, W., and Vince I. Astron. And Astrophys, 2001, 369, 13<br>Livingston, W., Wallace, L., White, O.R., Giampapa, M.S. 2007, Astrophysical Journal, 657, 1137<br>Livingston, W., White, O.R., Wallace, L., Harvey, J. 2010, Mem.S.A.It., 81, 643<br>http://solis.nso.edu/vsm/vsm_mnfield.html</p><p
+1/11.pdf"
+a

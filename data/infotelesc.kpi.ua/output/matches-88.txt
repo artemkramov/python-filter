@@ -1,0 +1,11 @@
+﻿28869
+otelesc.kpi.ua/issue/view/1676">No 1 (2014
+28869/0">Uryvsky
+THE METHODOLOGY OF INFORMATION CAPABILITIES ESTIMATION FOR FIBER-OPTICS COMMUNICATION
+Leonid O. Uryvsky, Alina V. Moshinskaya
+The method for assessing a channel capacity and productivity of fiber-optic communication line (FOCL) based on the DWDM (Dense Wavelength Division Multiplexing) technology is proposed. The interrelation between noise-immunity factors and information characteristics of FOCL is highlighted.
+28869/25761">PDF
+Redd J. Features error-rate // Lightwave Russian Edition, 2005, № 1, P. 40.</p><p>Moshinskaya A. Capacity estimation of the digital channels for optical fiber systems with DWDM technology / A.Moshinskaya, L.Uryvsky / "Telecommunication problems": Fifth Scientific Conference devoted to the Day of Ukrainian Science (TP-11) on 19-22 April 2011, Kyiv: Abstracts / NTUU "KPI" ITS. - Kyiv Polytechnic, 2011 - P. 96-97.</p><p>Velichko M. The new modulation formats in an optical communication system // Lightwave Russian Edition, 2005, № 4, P.21
+null
+Morelos-Zaragoza R. The Arts of error correcting coding. / R. Morelos-Zaragoza – by Jon Wiley&amp;Sons, 2006.
+12014.%p">https://doi.org/10.20535/2411-2976.12014.%p

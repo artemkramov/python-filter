@@ -1,0 +1,11 @@
+﻿30220
+otelesc.kpi.ua/issue/view/1775">No 1 (2013
+30220/0">Bunin
+INCREASE OF INFORMATIVE CAPACITY OF ULTRA WIDE BAND IMPULSE SIGNALS
+Sergii Bunin
+<p>It is common to think that impulse radio ultra band signals (IR-UWB) in communication systems can carry the information at&nbsp;very high rates. But each impulse of the signal can carry just one bit of information. In radio networks it is necessary to add&nbsp;destination address to every information unit. The best way for each subscriber is use series of impulses mutually orthogonal to&nbsp;the rest of series in the network. But the orthogonality means long multi impulse series with low density of impulses to make&nbsp;time domain space transparent. As a result, data transmission rates become much less than expected. To increase data rates in&nbsp;radio networks modulation of each impulse by amplitude, duration and polarity in the series is proposed. Examples of transmitter&nbsp;and receiver are presented. As a result, informative loading on signals increases manifold, compensating or neutralizing<br>losses, related to the transmission of symbols by impulse sequences.</p>
+30220/26948">PDF
+Miller L.E. Why UWB? A Review of Ultrawideband Technology // Report to NETEX Project Office, DARPA. Wireless Communications Technologies Group, National Institute of Standards and Technology, Gaithersburg, Maryland. – 2003. – No. 4. – 590 p.</p><p>Ghavami, L. B. Michael, R. Kohno – Signals and Systems in Communication Engineering. – John Wiley &amp; Sons, Ltd.</p><p>S. Bunin, D.O. Dolzhenko Method of ultrashort impulse radio signals reception and the source device. Patent of Ukraine № 97705
+null
+S. Bunin “Non-power” reception of ultra-short impulse radio signals // Telecommunication Sciences, No. 1, 2010. – p. 7 – 13.
+12013.%p">https://doi.org/10.20535/2411-2976.12013.%p

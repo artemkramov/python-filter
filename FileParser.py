@@ -7,8 +7,7 @@ import glob
 
 
 class FileParser:
-
-    training_ratio = 0.7
+    training_ratio = 0.9
 
     # Map number lines in training set to appropriate class
     training_mapper = []
@@ -21,6 +20,8 @@ class FileParser:
 
     # Vectors to estimate the learning error
     test_vectors = []
+
+    test_rows = []
 
     path_all_files = ""
 
@@ -35,11 +36,13 @@ class FileParser:
             for number, line in enumerate(lines):
                 vector = vf.VectorFilter()
                 vector.parse_row(line)
-                self.training_output.append(self.training_mapper[number])
-                if is_training:
-                    self.training_vectors.append(vector.to_array())
-                else:
-                    self.test_vectors.append(vector.to_array())
+                if self.training_mapper[number] != -1:
+                    self.training_output.append(self.training_mapper[number])
+                    if is_training:
+                        self.training_vectors.append(vector.to_array())
+                    else:
+                        self.test_rows.append(line)
+                        self.test_vectors.append(vector.to_array())
 
     # Read all files in directory and split them into test and training subsets
     def _read_data(self, folder, is_training):
@@ -66,9 +69,14 @@ class FileParser:
         self.copy_files(test_files, self.path_all_files, self.path_test_files)
 
     def read_data_training(self):
+        self.training_vectors = []
+        self.training_output = []
         self._read_data(self.path_training_files, True)
 
     def read_data_test(self):
+        self.test_vectors = []
+        self.test_rows = []
+        self.training_output = []
         self._read_data(self.path_test_files, False)
 
     def count_error(self, clf):
@@ -76,22 +84,29 @@ class FileParser:
         incorrect_approved = 0
         incorrect_blocked = 0
         errors = [0, 0, 0]
+        length = len(self.test_vectors)
 
         for index, vector in enumerate(self.test_vectors):
-            if clf.predict([vector])[0] != self.training_output[index]:
-                incorrect_all += 1
-                if self.training_output[index] == 1:
-                    incorrect_blocked += 1
+            row = self.test_rows[index]
+            prediction = clf.predict([vector])[0]
+            if prediction != self.training_output[index]:
+                if self.training_output[index] == -1:
+                    length = length - 1
                 else:
-                    incorrect_approved += 1
-        errors[0] = self._format_error(incorrect_all)
-        errors[1] = self._format_error(incorrect_approved)
-        errors[2] = self._format_error(incorrect_blocked)
+                    incorrect_all += 1
+                    if self.training_output[index] == 1:
+                        incorrect_blocked += 1
+                    else:
+                        incorrect_approved += 1
+        errors[0] = self._format_error(incorrect_all, length)
+        errors[1] = self._format_error(incorrect_approved, length)
+        errors[2] = self._format_error(incorrect_blocked, length)
 
         return errors
 
-    def _format_error(self, incorrect_count):
-        return round(100 * (incorrect_count / len(self.test_vectors)), 2)
+    @staticmethod
+    def _format_error(incorrect_count, length):
+        return round(100 * (incorrect_count / length), 2)
 
     @staticmethod
     def copy_files(files, source, destination):
@@ -106,7 +121,6 @@ class FileParser:
 
 
 class FileParserIPRI(FileParser):
-
     training_mapper = [0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0]
 
     path_all_files = "data\\ipri.kiev.ua\\output\\"
@@ -117,7 +131,6 @@ class FileParserIPRI(FileParser):
 
 
 class FileParserIASA(FileParser):
-
     training_mapper = [0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0]
 
     path_all_files = "data\\journal.iasa.kpi.ua\\output\\"
@@ -125,3 +138,53 @@ class FileParserIASA(FileParser):
     path_training_files = "data\\journal.iasa.kpi.ua\\training\\"
 
     path_test_files = "data\\journal.iasa.kpi.ua\\test\\"
+
+
+class FileParserInfotelesc(FileParser):
+    training_mapper = [0, 0, 0, 1, 1, 1, 0, -1, 0, -1, 0, 0]
+
+    path_all_files = "data\\infotelesc.kpi.ua\\output\\"
+
+    path_training_files = "data\\infotelesc.kpi.ua\\training\\"
+
+    path_test_files = "data\\infotelesc.kpi.ua\\test\\"
+
+
+class FileParserBulletinEconomical(FileParser):
+    training_mapper = [0, 1, 1, 1, 0, 0, 1, -1, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0]
+
+    path_all_files = "data\\bulletin-econom.univ.kiev.ua\\output\\"
+
+    path_training_files = "data\\bulletin-econom.univ.kiev.ua\\training\\"
+
+    path_test_files = "data\\bulletin-econom.univ.kiev.ua\\test\\"
+
+
+class FileParserVisnykGeo(FileParser):
+    training_mapper = [0, 1, 1, -1, -1, 0, 0, 0, 0, 0, -1, -1, -1, 0, 0, 0, 0, 0]
+
+    path_all_files = "data\\visnyk-geo.univ.kiev.ua\\output\\"
+
+    path_training_files = "data\\visnyk-geo.univ.kiev.ua\\training\\"
+
+    path_test_files = "data\\visnyk-geo.univ.kiev.ua\\test\\"
+
+
+class FileParserAstroBulletin(FileParser):
+    training_mapper = [0, 0, 0, 1, 1, 1, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+    path_all_files = "data\\www.astrobulletin.univ.kiev.ua\\output\\"
+
+    path_training_files = "data\\www.astrobulletin.univ.kiev.ua\\training\\"
+
+    path_test_files = "data\\www.astrobulletin.univ.kiev.ua\\test\\"
+
+
+class FileParserVisnykSoc(FileParser):
+    training_mapper = [0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+    path_all_files = "data\\visnyk.soc.univ.kiev.ua\\output\\"
+
+    path_training_files = "data\\visnyk.soc.univ.kiev.ua\\training\\"
+
+    path_test_files = "data\\visnyk.soc.univ.kiev.ua\\test\\"

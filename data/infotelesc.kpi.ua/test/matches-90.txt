@@ -1,0 +1,11 @@
+﻿30230
+otelesc.kpi.ua/issue/view/1776">No 2 (2013
+30230/0">Pilipenko
+ASYMPTOTIC PROPERTIES OF SELF-SIMILAR TRAFFIC MODELS BASED ON DISCRETE-TIME AND CONTINUOUS-TIME MARTINGALES
+Andriy Pilipenko, Leonid Uryvskyi, Bogdan Trach
+<p>Asymptotic properties of self-similar traffic models based on discrete-time and continuous-time martingales are considered.&nbsp;We discovered that their performance indicators are asymptotically equal at&nbsp;to indicators for model based on Brownian&nbsp;motion.</p>
+30230/26957">PDF
+Will E. Leland, Murad S. Taqqu, Walter Willinger, Daniel V. Wilson: On the Self-Similar Nature of Ethernet Traffic. – SIGCOMM, 1993.</p><p>O. Shelukhin, A. Tenyakshev, A. Osin Fractal processes in telecommunications. – M.: Radio Engineering, 2003. – 480 p.</p><p>L. Klyaynrok. Queueing Theory. Translated from English. – M.: “Engineering”, 1979 – 432 p.</p><p>A.V. Skorohod, Stochastic equations for diffusion processes in a bounded region 1, 2, Theor. Veroyatnost. i Primenen.6 (1961), 264-274; 7 (1962), 3-23.</p><p>P. L. Lions, A. S. Sznitman. Stochastic differential equations with reflecting boundary conditions. Communications on Pure and Applied Mathematics. Volume 37, Issue 4, (1984), 511–537.</p><p>Billingsley, P., Convergence of probability measures. – John Wiley &amp; Sons, 1968.</p><p>Peter W. Glynn, Rob J. Wang, Central Limit Theorems and Large Deviations for Additive Functionals of Reflecting Diffusion Processes, arXiv:1307.1574 (2013).</p><p>V.I. Tikhonov, M.A. Mironov Markov processes. – M.: “Sov. Radio”, 1977. – 488 p
+null
+L.A. Uryvskyy, B.V. Trach The queuing model in the queuing system using the method of penalties. “Infocommunications – present and prospective”: Materials of the Second Intern. Science-pr. conf. of Young Scientists – Odessa ONAT, 2012, pp. 40-44.
+22013.%p">https://doi.org/10.20535/2411-2976.22013.%p

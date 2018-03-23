@@ -1,0 +1,11 @@
+﻿30219
+otelesc.kpi.ua/issue/view/1775">No 1 (2013
+30219/0">Makarenko
+A NOVEL APPROACH TO WEAK SIGNAL PROCESSING
+Oleksandr Makarenko, Oleksiy Melnichuk
+<p>A novel effective approach to weak continuous and digital signals processing in communication channels with high noise levels&nbsp;is proposed and investigated. The essence of proposed approach is illustrated by examples of various electronic devices.&nbsp;The conditions which allow obtaining the maximal gain in signal to noise ratio are found. This gain exceeds 50 dB for sensitive&nbsp;amplifier and approximately equals to 30 dB for detector of digital cosine video impulse. It is shown that the proposed&nbsp;approach ensures obtaining a lot more gain in signal to noise ratio compared to existing technical solutions. The considered&nbsp;advantages of the described devices allow employing the proposed approach to effective information processing in communication&nbsp;systems with low operating power.</p>
+30219/26947">PDF
+Noghin V. N. Analog electronic devises. ─ Moscow: Radio and Svyaz, 1992. ─ 304 p. [in Russian].</p><p>Sklar B. Digital communications: Fundamentals and applications. ─ Hardcover: Prentice Hall, 2001. ─ 1080 p.</p><p>Galkin V. A. Digital mobile radio communications. ─ Moscow: Hotline ─ Telecom, 2007. ─ 432 p. [in Russian].</p><p>Gonorovsky I. S. Radio circuits and signals. ─ Moscow: Soviet Radio, 1977. ─ 608 p. [in Russian].</p><p></p><p>Lezin Yu. S. Introduction to theory and technique of radio systems. ─ Moscow: Radio and Svyaz, 1986. ─ 280 p. [in Russian].</p><p>Lathi B. P. Information transmission systems. ─ Moscow: Svyaz, 1971. ─ 324 p. [in Russian].</p><p>Tikhonov V. I. Statistical radio techniques. ─ Moscow: Radio and Svyaz, 1982. ─ 624 p. [in Russian]
+null
+Makarenko O. S. Detection device of cosine digital and radar signals // Patent of Ukraine No. 75231 from November 26, 2012 [in Ukrainian].
+12013.%p">https://doi.org/10.20535/2411-2976.12013.%p

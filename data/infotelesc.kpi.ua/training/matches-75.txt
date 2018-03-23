@@ -1,0 +1,11 @@
+﻿35931
+otelesc.kpi.ua/issue/view/2069">No 2 (2014
+35931/0">Strelkovskaya
+LTE/MVNO NETWORKS STRUCTURE OPTIMIZATION BASED ON TENSOR DECOMPOSITION
+Iryna Strelkovskaya, Iryna Solovskaya
+<p>The usage of tensor methods on the decomposition basis is offered for the tasks solution of structure optimization for&nbsp;LTE/MVNO networks mobile communication. The choice problem of optimum topology of e-Node B base stations connections<br>in the radio access of E-UTRAN/LTE network was solved. The assessment problem of QoS quality characteristics of&nbsp;complex LTE/MVNO network architecture was solved.</p>
+35931/32212">PDF
+Tikhvinskiy V.O., Terentyev S.V., Yurchuk A.B. Networks of LTE mobile communication. Technologies and architecture. – M.: Echo-Trends, 2010. – 284 pages.</p><p>3GPP TS 23.002 3rd Generation Partnership Project; Technical Specification Group Services and Systems Aspects; Network architecture (Release 8,9), 2010. – 94 pages.</p><p>Strelkovskaya I.V. Research of quality characteristics of difficult structure systems with tensors application on the decomposition basis [An electronic resource] / I.V. Strelkovskaya, I.N. Solovskaya, G.G. Smaglyuk // Telecommunications problems. – 2012. – No. 3(8). – Pages 47 – 57.</p><p>Strelkovskaya I.V. Value of service quality characteristics of a package traffic in the networks of the next generation / I.V. Strelkovskaya, I.N. Solovskaya, G.G. Smaglyuk // Collected scientific works of O.S. Popov ONAT. – Odessa, 2012. – Num. 2. – Pages 31-37.</p><p>Strelkovskaya I.V. Parameters determination of network quality of MVNO mobile communication of the LTE technology with tensor analysis application / I.V. Strelkovskaya, I.N. Solovskaya, Yu.V. Gutsal // Scientific news of NTUU "KPI". – 2013. – No. 1. – Pages 20-26.</p><p>Strelkovskaya I.V. Tensor decomposition in the structure optimization tasks of LTE/MVNO networks/ I.V. Strelkovskaya, I.N. Solovskaya // Second International Black Sea Conference on Communications and Networking (IEEE BlackSeaCom 2014), Chisinau, Moldova, May 27-30, 2014 – P. 126.</p><p>Kron G. Tensor analysis of networks: translated from English. – M.: Sov. radio, 1978. – 720 pages
+null
+Kleynrok L. The theory of mass service: translated from English – M.: Mechanical engineering, 1979. – 432 pages.
+22014.%p">https://doi.org/10.20535/2411-2976.22014.%p

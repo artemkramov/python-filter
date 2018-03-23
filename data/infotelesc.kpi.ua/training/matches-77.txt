@@ -1,0 +1,11 @@
+﻿35933
+otelesc.kpi.ua/issue/view/2069">No 2 (2014
+35933/0">Berkman
+MATHEMATICAL STATISTICS FUNCTIONALLY OBJECT MODEL FOR MONITORING AND CONTROL
+Liubov Berkman, Larysa Komarova, Oksana Varfolomeeva, Iryna Pokhabova
+<p>The paper chain is seen as a complex system that is subject to management. The complexity of the process of monitoring&nbsp;and control is caused mainly complicated objects. To describe the operation of the facility built its functional and&nbsp;static mathematical model that completely describes the state of the object. The functional and statistical models to determine&nbsp;the probabilistic characteristics of information and communication network as object management. The model&nbsp;allows direct determination of the probability of the phase-out of the facility.</p>
+35933/32214">PDF
+V.K. Steklov, L.N. Berkman, O.G. Varfolomeeva Optimization of control systems with modern telecommunication networks // “Radiotekhnika” Ukrainian interdepartmental scientific and technical collection, Issue 125 – Kharkiv: KNURE. 2002. – 196 -202 pp.</p><p>V.K. Steklov, L.N. Berkman, O.G. Varfolomeeva Optimization of control systems with modern telecommunication networks // “Radiotekhnika” Ukrainian interdepartmental scientific and technical collection, Issue 125 – Kharkiv: KNURE. 2002. – 196 -202 pp.</p><p>L.N. Berkman Invariance of management systems of converged networks in emergencies / L.N. Berkman, L. A. Komarov, I. A. Boyko // Scientific Notes of Ukrainian Research Institute of Communications – 2014. – №1 (29). – 11-15 pp
+null
+Technology of multifunction processing and information transfer in monitoring networks / [B.M. Shevchuk, V.K. Zadiraka, L.O. drive, S.V. Freier]. – K.: Naukova Dumka, 2010. – P. 370</p><p>T. Connolly Database. Design, implementation and support. Theory and practice / T. Connolly. – Moscow: Izdatelskiydom “Williams”, 2013 – P. 1440
+22014.%p">https://doi.org/10.20535/2411-2976.22014.%p

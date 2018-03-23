@@ -1,0 +1,11 @@
+﻿30507
+otelesc.kpi.ua/issue/view/1754">No 1 (2010
+30507/0">Холодкова
+AGENTS’ COOPERATION BASED ON THE MODEL OF CONTRACTUAL NETWORKS
+Анна Холодкова
+The present paper studies a multi-agent system of telecommunication network control. We consider the process of agents’ cooperation based on the model of contractual networks to be applied for solving the problem of the telecommunication system’s optimal loading. To this end, mathematical relations describing the agents’ interaction in cooperation are presented. A technique for the system cost calculation that depends on its technical parameters is also expounded. Furthermore, we describe the proposed selection method of a real agent-performer from various agent-performers based on the cost estimate of the same network under the influence of other agents on the result of this problem solving.
+30507/27196">PDF (Русский)
+Математичні основи теорії телекомунікаційних систем / За заг. ред. В. В. Поповського. ─ Х.: Сміт, 2006. ─ 564 с.</p><p>Дольф Р., Бишоп Р. Современные системы управления. ─ М.: ЛБЗ, 2004. ─ 832 с.</p><p>Тарасов В. Б. От многоагентных систем к интеллектуальным организациям: философия, психология, информатика. ─ М.: Эдиториал УРСС, 2002. ─ 352 с.</p><p>Пашкеев С. Д., Минязов Р. И., Могилевский В. Д. Методы оптимизации в технике связи. ─ М.: Связь, 1976. ─ 272 с.</p><p>Сервинский Е. Г. Оптимизация систем передачи дискретной информации. ─ М.: Связь, 1974. ─ 336 с
+null
+Шринивас В. Качество обслуживания в сетях IP. ─ М.: Вильямс, 2003. ─ 368 с.
+12010.%p">https://doi.org/10.20535/2411-2976.12010.%p

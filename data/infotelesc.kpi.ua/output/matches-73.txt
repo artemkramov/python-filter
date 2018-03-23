@@ -1,0 +1,11 @@
+﻿35929
+otelesc.kpi.ua/issue/view/2069">No 2 (2014
+35929/0">Bunin
+THE SELF-ORGANIZING RADIO NETWORKS AND ULTRA WIDE BAND SIGNALS
+Sergey Bunin
+<p>The paper proposes to use impulse radio ultra wide band signals in self-organizing ad hoc and&nbsp;MANET networks to solve multiple access and widen networks coverage area problems. New methods of signals&nbsp;reception and information capacity increasing are proposed.</p>
+35929/32210">PDF
+S. Bunin, A. Voiter, M. Ilchenko and V. Romanjuk, “Selforganized radio networks with ultra wideband signals”, Naukova Dumka publication, Ukrainian Academy of Sciencies, Kyiv, 2012, 444 pp.</p><p>M. Ghravami, L.B. Michael and R. Kohno, “Ultra wide band signals and systems in communication engineering”, John Wiley &amp; Sons, Ltd, Chichester, West Sussex, England, 248 pp.</p><p>FCC, “Revision of part 15 the commission rules regarding ultra-wideband transmittion systems”, ET Docket, 2002.</p><p>S. Bunin, “Ultra short impulse radio signals in future long range radio communication systems”, Proc. of 20-th International Conf. “SHF engineering and communications”, Sevastopol, Crimea, Ukraine, Sept. 2010
+null
+S. Bunin, “Non energetic” reception of ultra short impulse radio signals”, Telecommunication Sciences, v.1, No.1, July – December 2010, pp. 7 – 13.
+22014.%p">https://doi.org/10.20535/2411-2976.22014.%p

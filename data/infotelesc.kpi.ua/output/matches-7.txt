@@ -1,0 +1,11 @@
+﻿30516
+otelesc.kpi.ua/issue/view/1758">No 2 (2011
+30516/0">Захаров
+BAND-PASS FILTERS ON SYMMETRIC STRIP LINES
+А. В. Захаров, М. Е. Ильченко, Л. С. Пинчук
+<p>The results of experimental investigations of stripline band-pass filters with stepped-impedance resonators operating in the frequency range 1500─2500 MHz are presented. It is shown that the using of stepped-impedance resonators breaks the multiplicity factor in frequency positioning of passbands in such filters. This allows suppressing harmonics of output signal in transmitters and widening stopband for parasitic signals in receivers. The composite stripline filters combining a band-pass filter with stepped-impedance resonator and one or two low-pass filters are considered. It is proved that the combined stripline filters have wide rejection bands exceeding a decade. A determination of stripline resonators quality-factor<em>Q</em>and its comparison with those of existing ceramic structures are performed.</p>
+30516/27205">PDF (Русский)
+Fukasawa A. Analysis composition of new microwave filter configuration with inhomogeneous dielectric medium // IEEE Transactions on Microwave Theory and Techniques. ─ 1982. ─ Vol. 30, N. 9. ─ P. 1367─1375.</p><p>A very small dielectric planar filter for portable telephone / T. Ishizaki, M. Fujita, H. Kagata, T. Uwano, H. Miyake // IEEE Transactions on Microwave Theory and Techniques. ─ 1994. ─ Vol. 42, N. 11. ─ P. 2017─2022.</p><p>Hong J. S. Microstrip filters for RF/Microwave application: 2nd edition. ─ N.Y.: Wiley, 2011.</p><p>Data sheet: 12 and 20 mm high power ceramic filters from trans-tech / Skyworks. ─ May 17, 2011.</p><p>Матей Г. Л., Янг Л., Джонс Е. М. Т. Фильтры СВЧ, согласующие цепи и цепи связи / Перевод с английского. ─ М.: Связь, 1971.</p><p>Справочник по элементам полосковой техники / Под. ред. А. Л. Фельдштейна. ─ М.: Связь, 1979.</p><p>Захаров А. В., Ильченко М. Е. Прямая и обратная задачи в теории полосно-пропускающих фильтров c диссипативными потерями // Доповіді НАН України. ─ 2011. ─ № 1. ─ С. 33─37
+null
+Foster K. Attenuation of slablines with cylindrical conductors // Proc. IEE. ─ 1972. ─ № 8. ─ P. 1082─1085.
+22011.%p">https://doi.org/10.20535/2411-2976.22011.%p

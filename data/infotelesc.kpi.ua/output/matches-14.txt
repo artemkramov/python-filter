@@ -1,0 +1,11 @@
+﻿30510
+otelesc.kpi.ua/issue/view/1755">No 1 (2011
+30510/0">Войтер
+ANALYSIS OF THE TRANSFER DELAY ESTIMATION IN PACKAGE RADIO NETWORKS
+А. П. Войтер
+A mathematical model for estimation of the transfer delay of communication in package radio networks has been proposed. Flexible and rigid strategies of multiple-access protocols organization with the carrier control are considered. A comparative analysis of flexible and rigid protocols for transfer delay is carried out. The estimation of the relationship between deferred and post-conflicted transfers at flexible strategy is obtained. The results of calculation in the form of graphic dependences of transfer delay are presented.
+30510/27199">PDF (Русский)
+Ильченко М. Е., Бунин С. Г., Войтер А. П. Сотовые радиосети с коммутацией пакетов. ─ К.: Наукова думка, 2003. ─ 266 с.</p><p>Kleinrock L., Tobagi F. A. Packet switching in radio channels: Part I ─ Carrier sense multiple-access modes and their throughput-delay characteristics // IEEE Transactions on Communications. ─1975. ─ Vol. 23, N. 12. ─ P. 1400─1416.</p><p>Войтер А. П. Управление задержкой передачи в пакетных радиосетях // Управляющие системы и машины. ─ 2007. ─ № 4. ─ С. 81─84
+null
+Войтер А. П. Фрагментация конфликтов в пакетных радиосетях // Управляющие системы и машины. ─ 2007. ─ № 5. ─ С. 76─80.
+12011.%p">https://doi.org/10.20535/2411-2976.12011.%p

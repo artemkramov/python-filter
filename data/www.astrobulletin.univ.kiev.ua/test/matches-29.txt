@@ -1,0 +1,11 @@
+﻿53_tsizh
+pan><strong>Bulletin of Taras Shevchenko National University of Kyiv. Astronomy, no. 53, p.32-37&nbsp;(2016)</strong></span></p><p><s
+null
+Formation of the spherical voids in the models of the universe with dark energy
+M. Tsizh</strong>, postgrad. stud.,<br><strong>B. Novosyadlyj</strong>, Dr. Sci., prof.<br>Ivan Franko National University of Lviv, Lviv<br><span></span></p><p><strong>Abstract
+<br>We analyze evolution of cosmological perturbations which lead to the formation of large voids in the distribution of galaxies. We suppose that&nbsp;perturbations are spherical and main energetic components – radiation, matter and dark energy – are continuous media with ideal fluid energy-momentum&nbsp;tensors, which interact only gravitationally. Equations of the evolution of perturbations in the comoving to cosmological background reference frame for&nbsp;every component are obtained from equations of conservation and Einstein’s ones and are integrated by modified Euler method with setting the initial&nbsp;conditions at the early stage of evolution in radiation-dominated epoch, when the scale of perturbation is mush larger than particle horizon. Obtained results&nbsp;illustrate dynamics of dark energy in the void region and its dependence on parameter of effective speed of sound of dark energy.
+Keywords
+<br>dynamical dark energy, cosmic voids, cosmological perturbations.
+/strong><br>Novosyadlyj, B., Tsizh, M., Kulinich, Yu. 2016, Gen. Relat. Grav., 48, 3<br>Peebles, P. J. E. 1980, Princeton University Press, 422<br>Sergijenko, O., Novosyadlyj, B. 2015, Phys. Rev. D, 91, 083007<br>Novosiadlyi, B. 2007, Zhurn. fiz. dosl., 11, 226<br>Savitzky, A., Golay, M.J.E. 1964, Analytical Chemistry, 36, 8, 1627<br>Hu, W., Sugiyama, N. 1995, Astrophys.J., 444, 489<br>Lewis, A., Challinor, A., Lasenby, A.&nbsp; 2000, Astrophys. J., 538, 473<br>http://www.cs.toronto.edu/NA/dverk.f.gz</p><p><strong
+3/Visnik_Astronomy_53_16%20[Pages%2032%20-%2037].pdf"
+a></strong></p><p>DOI:<span><a href="https://doi.org/10.17721/BTSNUA.2016.53.32-37">https://doi.org/10.17721/BTSNUA.2016.53.32<span>-37</span></a></span

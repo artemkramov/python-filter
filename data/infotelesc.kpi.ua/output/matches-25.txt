@@ -1,0 +1,11 @@
+﻿30002
+otelesc.kpi.ua/issue/view/1754">No 1 (2010
+30002/0">Popov
+DESIGN PRINCIPLES OF MOBILE RAILWAY NETWORKS
+Valentin Popov, Andrei Baranovskii
+<p>The basic principles of GSM railway network planning are examined. The method of the frequency channels distribution between&nbsp;cells is described. The development of frequency channel reuse scheme is performed. The procedure of an operational&nbsp;planning is proposed. The principles of even radio coverage are considered for cells with mainly free radio propagation and for&nbsp;urban areas.</p>
+30002/26836">PDF
+Popov V. I. GSM standard cellular communication basics. ─ Moscow: Eko-Trendz, 2005. ─ 296 p.</p><p>Baranovskii A. J. GSM ─ Railway network basics. ─ Riga: RTU publisher, 2009. ─ 87 p
+null
+http://www.uic.asso.fr/: The official website of International Union of Railways.
+12010.%p">https://doi.org/10.20535/2411-2976.12010.%p

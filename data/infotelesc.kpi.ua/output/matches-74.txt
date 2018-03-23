@@ -1,0 +1,11 @@
+﻿35930
+otelesc.kpi.ua/issue/view/2069">No 2 (2014
+35930/0">Uryvskyi
+THE CONVOLUTIONAL CODESАNALYSIS TECHNIQUE ON THE OPTIMUM BLOCK CODES GROUNDS
+Leonid Uryvskyi, Kateryna Prokopenko, Anton Peshkin
+<p>The convolutional codes analysis and synthesis technique is proposed. This technique is optimal according&nbsp;to near Shannon's bound criterion and guarantees a given bit error rate from message source. The proposed&nbsp;technique is based on the well-known optimum block codes synthesis method. As a result, equivalent parameters&nbsp;set of convolutional codes is received. This set corresponds the optimal block code. The algorithm for synthesis an&nbsp;optimal convolutional code is proposed. Examples of optimal convolutional codes analysis and synthesis in the&nbsp;channel with a given energy are presented.</p>
+35930/32211">PDF
+C. E. Shannon "A Mathematical Theory of Communication" // Bell System Technical Journal, 1948, Vol. 27, pp. 379–423, 623–656.</p><p>Gallager R.G. “Information Theory and Reliable Communication”/ USA. – 1968, 588 pp.</p><p>G. C. Clark, J. B. Cain. "Error-Correction Coding for Digital Communications". Plenum Press: New York, NY, 1981.</p><p>Uryvsky L.O., Prokopenko K.А.,Peshkin А.М. " Error - Correcting Codes acording to Shannon’s limit" // Telecommunication sciences.–Kyiv: NTUU 'KPI' – 2011, vol. I, pp. 41-47
+null
+W.E. Ryan and Shu Lin. "Channel Codes Classical and Modern". New York, NY: Cambridge University Press, 2009.
+22014.%p">https://doi.org/10.20535/2411-2976.22014.%p

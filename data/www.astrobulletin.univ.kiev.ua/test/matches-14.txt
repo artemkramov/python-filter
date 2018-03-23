@@ -1,0 +1,11 @@
+﻿52_sliusar
+pan><strong>Bulletin of Taras Shevchenko National University of Kyiv. Astronomy, no. 52, p. 27-30 (2015)</strong></span></p><p><s
+null
+<span>Statistics of gravitational lensing of a remote source on a system of extended and point massesin presence of an external shear</span>
+V. Sliusar,</strong>Research Engineer,<br><strong>V. Zhdanov</strong>, Dr. Phys. and Math. Sci., prof.<br>Taras Shevchenko National University of Kyiv, Kyiv<span></span></p><p><strong>Abstract
+<br>We built autocorrelation functions of the light curves in the microlensing model of a remote source by a stochastic system of point masses (stars) and extended configurations – putative dark matter (DM) clumps. Besides isolated DM clumps we consider superpositions of point masses and clumps with the same center. The autocorrelation functions are generated for several sets of parameters that characterize the relativeconcentration of point and extended masses and an external shear.
+Keywords
+<br>Extragalactic gravitational lensing, dark matter
+/strong><br>Alexandrov, A.N., Sliusar, V.M., Zhdanov, V.I. 2011, Ukr. J. of Phys., 56, 4, 389<br>Berezinsky, V., Dokuchaev, V., Eroshenko, Yu. 2008, Phys. Rev. D,77,8<br>Diemand, J., Moore, B., Stadel, J. 2005, Nature,433,7024, 389<br>Planck Collaboration,2014, Astron. Astrophys.,571, 16<br>Del Popolo, A. 2014, International Journal of Modern Physics D,23,3,109<br>Schneider, A., Smith, R.E., Macci, A.V., Moore, B. 2012, Mon. Not. R. Astron.Soc.,424, 1, 684<br>Sliusar, V.M., Zhdanov, V.I., Alexandrov, A.N. 2012,J. Phys. Stud.,16, 8<br>Springel, V., Wang, J., Vogelsberger, M. 2008, Mon. Not. R. Astron. Soc.,391, 1685<br>Stadel, J., Potter, D., Moore, B. 2009, Mon. Not.R. Astron. Soc., 398, 21<br>Zackrisson, E., Riehm, T. 2010, Advances in Astronomy<br>Zhdanov, V.I., Alexandrov, A.N., Fedorova, E.V., Sliusar, V.M. 2012, ISRN Astronomy and Astrophysics, id. 906951(21)</p><p
+2/Visnik_astronomy_52%20%5BPages%2027%20-%2030%5D.pdf"
+a></p><p>DOI:<span><a href="https://doi.org/10.17721/BTSNUA.2015.52.27-30">https://doi.org/10.17721/BTSNUA.2015.52.27<span>-30</span></a></span

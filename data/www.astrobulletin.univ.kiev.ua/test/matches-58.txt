@@ -1,0 +1,10 @@
+﻿55_kleshchonok
+pan><strong>Bulletin of Taras Shevchenko National University of Kyiv. Astronomy, no. 55, p. 14<span>-17</span>(2017)</strong></span></p><p><s
+null
+Web-oriented interface for remotely access the Kyiv internet-telescope
+V. Kleshchonok,</strong>Ph. D. in Phys. and Math. Sci.,<br><strong>I. Luk’yanyk,</strong>Ph. D. in Phys. and Math. Sci.,<br>Taras Shevchenko National University of Kyiv, Kyiv<br><span></span><br><strong>Abstract
+<br>The partial revision of the Kiev internet-telescope was described in the article. The structure of the telescope and software and features its work. Methods of work with the telescope with help of remotely access were examined.
+Key words<br></strong>internet-telescope, remotely access<strong><br>
+/strong><br>1. The Kyiv internet telescope project / Ya. O. Romanyuk, V. V. Kleschonok, V. M. Reshetnyk et al. // Astronomical Society of India Conf. Series, 2012. – Vol. 7. – P. 297.<br>2. A study of the photometric system of the Kiev network telescope / V. M. Andruk, Ya. O. Romanyuk, V. V. Kleshchonok et al. // Kinematics and Physics of Celestial Bodies, 2012. – Vol. 28, № 6. – P. 296–303.</p><p
+5/BKNUA_55 [Pages 14 - 17].pdf"
+a></p><p>DOI:<span><a href="https://doi.org/10.17721/BTSNUA.2017.55.14-17">https://doi.org/10.17721/BTSNUA.2017.55.<span>14-17</span></a></span

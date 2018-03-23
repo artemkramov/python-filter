@@ -1,0 +1,11 @@
+﻿30515
+otelesc.kpi.ua/issue/view/1758">No 2 (2011
+30515/0">Холодкова
+EFFICIENCY ASSESSMENT OF TELECOMMUNICATION NETWORK DYNAMIC MANAGEMENT
+А. В. Холодкова
+<p>A problem of the parameter choosing for the system of telecommunication network dynamic management has been solved. A mathematical model suitable for analysis of networks of various dimensions is developed. A number of node commutation characterizing the network dimension and degree of its node connectivity were chosen as the parameters to be investigated. A simplest case of minimal connection corresponding to ring architecture representing a chain of connected commutation nodes has been analyzed.</p>
+30515/27204">PDF (Русский)
+Дольф Р., Бишоп Р. Современные системы управления. ─ Москва: ЛБЗ, 2004. ─ 832 с.</p><p>Тарасов В. Б. От многоагентных систем к интеллектуальным организациям: философия, психология, информатика. ─ Москва: Эдиториал УРСС, 2002. ─ 352 с
+null
+Шринивас В. Качество обслуживания в сетях IP. ─ Москва: Вильямс, 2003. ─ 368 с.
+22011.%p">https://doi.org/10.20535/2411-2976.22011.%p

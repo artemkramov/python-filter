@@ -1,0 +1,11 @@
+﻿51_semeniv
+pan><strong>Bulletin of Taras Shevchenko National University of Kyiv. Astronomy, no. 51, p. 23-24 (2014)</strong></span></p><p><s
+null
+Operational geomagnetic forecast service
+O. Semeniv</strong>, Ph.D.,<br><strong>A. Polonska</strong>, engineer,<br><strong>A. Parnowski</strong>, Ph.D., Sr. Res. Fell.<br>State Space Agency of Ukraine<span></span></p><p><strong><span>Abstract<br></span>
+The operational forecasting service for real-time geomagnetic indices Dst and Kp was described. The warning time for the Earth to the intersection of the Dst index is 1-4 hours, for the Kp index – 3 hours. The skillscore parameter, which is defined as a decrease of the relative mean square error with respect to the trivial model, was approximately 40% for Dst and 15% for Kp. The service works on-line freely available through STAFF http://www.staff.oma.be/ browser.
+Keywords<br>
+Geomagnetic forecasting
+br></strong>Parnowski, A. 2009, Astrophysics &amp; Space Science.,323, 2, 169<br>Parnowski, A.2011, Journal of Physical Studies.,15, 2, 2002<br>Press, W.H., Teukolsky, S.A., Vetterling, W.T., Flannery, B.P. 1992, CambridgeUniv. Press, Cambridge<br>Seber, G.A.F. 1977, Wiley<br>Hudson, D.J. 1964, Statistics. Lectures on Elementary Statistics and Probability.,CERN, Geneva<br>Parnowski, A., Polonska, A. 2012, Journal of PhysicalStudies.,16, 1/2,1002<br>Parnowski, A., Polonska,2011, A. Proc. 4th International Workshop on Inductive Modelling IWIM 2011, ,Kyiv, Ukraine, 4-11 July, 71<br>Parnowski A., Polonska, A., Semeniv, O. 2012,[arXiv: 1203.1951]<br>Parnowski A., Semeniv O., Polonska A., Malisse V., Verbeeck C. 2014, Journal of Space Weather and Space Climate</p><p
+1/7.pdf"
+a

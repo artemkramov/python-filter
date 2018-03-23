@@ -1,0 +1,11 @@
+﻿30514
+otelesc.kpi.ua/issue/view/1758">No 2 (2011
+30514/0">Глоба
+IMPROVEMENT OF CALL HANDLING SYSTEM IN MOBILE COMMUNICATION NETWORKS
+Л. С. Глоба, O. M. Дяденко, Л. О. Афанасьєва
+<p>A new approach to improving of call handling system in mobile communication networks based on new radio access technology with orthogonal frequency division multiplexing channels is proposed. A new method of call processing using situational priorities in such networks, which takes into account the frequency bandwidth and the importance of service content, is developed. Based on the proposed method, the architecture of policy control and charging was modified by introducing an additional tariff calculation unit and the system corresponding protocols modification.</p>
+30514/27203">PDF (Українська)
+Universal mobile telecommunications system (UMTS): LTE. Policy and charging control architecture // ETSI 123.203 Digital cellular telecommunications system (Phase 2+). ─ P. 118.</p><p>Matijasevic M., Skorin-Kapov L., Mosmondor M. Application-level QoS negotiation and signaling for advanced multimedia services in the IMS // IEEE Communications Magazine. ─ 2007. ─ Vol. 45, N. 7. ─ P. 25─33.</p><p>Multimedia services differentiation in 4G mobile networks under use of situational priorities / A. Dyadenko, O. Dyadenko, L. Globa, A. Luntovskyy // Proceedings of EUNICE, Dresden, Germany, September 5─7, 2011. Springer, 2011. ─ P. 199─202.</p><p>Мова М. В., Пономаренко Л. А., Калиновский А. М. Организация приоритетного обслуживания в АСУ. ─ Киев: Техніка, 1997. ─ 160 с.</p><p>Вишневський В. М., Семенова О. В. Системы поллинга: теория и применение в широкополосных беспроводных сетях. ─ Москва: Техносфера, 2007. ─ 312 с.</p><p>Томашевський В. М. Моделювання систем. ─ Київ: Видавнича група BHV, 2005. ─ 352 c
+null
+Джейсуол Н. Очереди с приоритетами. ─ Москва: Мир, 1973. ─ 280 с.
+22011.%p">https://doi.org/10.20535/2411-2976.22011.%p

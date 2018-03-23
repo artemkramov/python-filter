@@ -1,0 +1,11 @@
+﻿28863
+otelesc.kpi.ua/issue/view/1676">No 1 (2014
+28863/0">Romanov
+THE TASK OF THE TELECOMMUNICATION FLOW CONTROL SOLUTION BASED ON THE CHANNEL UTILIZATION MODEL
+Oleksandr I. Romanov, Mykola M. Nesterenko, Victor I. Tikhonov
+The channel utilization factor is a typical QoS functional model of a telecommunication network. A common analytic formula of this factor includes non differentiable members that hinder functional model conversion. This paper introduces an approximation of the QoS functional model based on regression analysis and performed via differentiable functions. Recommendations are given to implement the findings for data flow control in telecommunications.
+28863/25756">PDF
+A.I. Romanov, “Telekommunikatsionnye seti i upravleniye, VPC ” Kiev University, 2003, 247p.</p><p>A.I. Romanov, M.M Nesterenko, “Modyfikovana metodyka otsinky yakosti obslugovuvannyyia v elekomunikatsiinykh merezhakh z vstanovlenniam ziednannia,” Scientific Papers of “NTUU “KPI”, vol. 3, 2007, pp. 121-128
+null
+B.P. Demidovich, I.A. Maron, E.Z. Shuvalova, “Chislennye metody analiza” Moscow, 1963, 400p.
+12014.%p">https://doi.org/10.20535/2411-2976.12014.%p

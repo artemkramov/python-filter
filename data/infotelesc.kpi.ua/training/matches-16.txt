@@ -1,0 +1,11 @@
+﻿30512
+otelesc.kpi.ua/issue/view/1755">No 1 (2011
+30512/0">Урывский
+INTERFERENCE-IMMUNITY BLOCK CODE SEARCH METHOD BASED ON CRITERION OF MAXIMUM APPROXIMATION TO THE SHANNON’S LIMIT
+Л. А. Урывский, Е. А. Прокопенко, А. М. Пешкин
+The best interference-immunity block code search method based on criterion of maximum approximation to the Shannon’s limit is presented and investigated. The conditions for block code choosing using recent theories of interference-immunity coding and information are formulated. The sequence of the dependences calculation is carried out for determination of code, which corrects the errors and provides the needed reliability of received information for the boundary values of channel capacity. The technique proposed is realized as the algorithm for code selection which provides the fulfillment of requirements to reliability of decoded symbols and improvement of the energy characteristics of a discrete channel with interferences.
+30512/27201">PDF (Русский)
+Теория электрической связи: Учебник для вузов / А. Г. Зюко, Д. Д. Кловский, В. И. Коржик, М. В. Назаров // Под ред. Д. Д. Кловского. ─ М.: Радио и связь, 1999. ─ 432 с.</p><p>Уривський Л. О. Прокопенко К. А. Умови вибору завадостійкого блокового коду в каналі з заданими показниками достовірності // Вісник інженерної академії України. ─ 2011. ─ № 1. ─ С. 151─154
+null
+Питерсон У., Уэлдон Э. Коды, исправляющие ошибки / Перевод с анг. Под ред. Р. Л. Добрушина, С. И. Самойленко. ─ М.: Мир, 1976. ─ 575 с.
+12011.%p">https://doi.org/10.20535/2411-2976.12011.%p

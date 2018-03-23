@@ -1,0 +1,11 @@
+﻿30544
+otelesc.kpi.ua/issue/view/1758">No 2 (2011
+30544/0">Коваль
+TELECOMMUNICATION NETWORKS OF THE FUTURE
+О. В. Коваль, В. Б. Kaток, В. O. Кузьміних, С. І. Отрох
+<p>The main problems of the future network realization in accordance with the policy of the International Telecommunication Union are presented. The basic question of a global information infrastructure building based on the telecommunication network of future is considered. Modern definition of the network of the future and its characteristics are given. Specified services which the future network should provide taking into account the expectations of services users are determined. The implementation of the future network will provide to users a free access to information and communication resources and to intellectual heritage of the humanity.</p>
+30544/27231">PDF (Українська)
+Звіт Генерального секретаря МСЕ на всесвітньому форумі з політики в галузі електрозв’язку // Документ WTPF-09/3-R від 03.03.2009.</p><p>Global information infrastructure, internet protocol aspects and next generation networks ─ future networks. Future networks: Objectives and design goals // Recommendation ITU-T Y.3001, 2011.</p><p>General overview of NGN // Recommendation ITU-TY.2001, 2004.</p><p>Network performance objectives for IP-based services // Recommendation ITU-T Y.1541, 2002
+null
+Content delivery functional architecture in NGN // Recommendation ITU-T Y.2019, 2010.
+22011.%p">https://doi.org/10.20535/2411-2976.22011.%p

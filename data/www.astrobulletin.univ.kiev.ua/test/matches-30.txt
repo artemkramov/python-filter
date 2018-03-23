@@ -1,0 +1,11 @@
+﻿51_kondratyev
+pan><strong>Bulletin of Taras Shevchenko National University of Kyiv. Astronomy, no. 51, p. 16-18 (2014)</strong></span></p><p><s
+null
+SGR bursts due to magnetar crust magnetoemission
+V. Kondratyev</strong>, Ph.D. in Phys. and Math. Science<br><strong>Iu. Korovina</strong>, Associate Prof.<br>Taras Shevchenko National University of Kyiv<br>MIOE, Moscow, Russia<span></span></p><p><strong><span>Abstract</span>
+<br>Soft repeating gamma-ray (SGR) bursts are considered as magnetoemission of crusts of magnetars (ultranamagnetized neutron stars). It isshown that all the observations of such bursts can be described and systematized within randomly jumping interacting moments model includingthe quantum fluctuations and the internuclear interaction in an inhomogeneous medium.
+Keywords
+<br>Gamma-ray bursts, neutron stars, magnetars.
+/strong><br>Kondratyev, V.N. 2002,JAERI Research-Series 2001-057 (JAERI-Prtss, Japan, 2002), 88, 221101<br>Mazets, E.P., Golentskii, S.V., Ilinskii, V.N.1979, Observations of a flaring X-ray pulsar in Dorado Nature (London), 282,587<br>Kondratyev, V.N. 2010, Bull.Univ.Kiev,SPM, 3, 31<br>Kondratyev, V.N.2012, Creation and transmutation of magnetized nuclei at explosively dense matter Eur. Phys. WC., 38, 17008<br>Kondratyev, V.N.2014, Explosivenucleosynthesis at strong magnetic field Eur. Phys. J. A, 50, 7<br>Kondratyev, V.N. 2010, Dynamics of magnetic nanoparticle assembly J. Phys. CS, 248, 012027<br>Gogus E.1999, Astrophys. J. Letters, 526, 93<br>Gogus E.2000, Astrophys. J. Letters, 532, 121</p><p
+1/5.pdf"
+a

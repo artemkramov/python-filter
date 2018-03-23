@@ -1,0 +1,11 @@
+﻿30059
+otelesc.kpi.ua/issue/view/1755">No 1 (2011
+30059/0">Narytnyk
+MITRIS SYSTEM WITH COMBINED QUADRATURE-AMPLITUDE AND FREQUENCY MODULATION
+Teodor Narytnyk
+<p>The telecast and Internet distribution system, which use combined two-level modulation and intended for digital information&nbsp;transfer in frequency band 11,7─12,5 GHz was created on a base of the existing microwave integrated telecommunication system&nbsp;MІTRІS. In comparison with telecommunication system using 64-QAM modulation with one carrier, new system has significantly&nbsp;better power engineering, less hard requirements to the frequency stability, to the phase noise level and to the linearity&nbsp;of the amplitude-frequency and phase-frequency characteristics of communication channel.</p>
+30059/26788">PDF
+Krivosheev M. I., Fedunin V. G. Interactive TV. ─ М: Radio and Communication, 2000. ─ 340 p. [in Russian].</p><p>Narytnik T. N. MITRIS: development, possibilities and perspectives // Electronics and Communication. ─ 1998. ─ N. 4. ─ P. 546─550 [in Russian].</p><p>Narytnik T. N., Babak V. P., Ilchenko M. Yu., Kravchuk S. A. Microwave technologies in telecommunication systems. ─ K.: Tekhnika, 2000. ─ 50 p. [in Russian].</p><p>Mamaev N. S., Mamaev Y. N., Teriaev B. G. Digital TV. ─ M.: Hot line ─ Telecom, 2001. ─ 180 p. [in Russian].</p><p>Zubarev Y. B., Krivosheev M. I., Krasnoselskiy I. N. Digital TV broadcasting: Bases, methods, systems. ─ M.: Publisher of Science and Research Institute of Radio, 2001. ─ 568 p. [in Russian]
+null
+Ilchenko M. Yu., Narytnik T. N., Voitenko A. G. The system for transmitting of multiprograms TV stream and digital data stream through channels of analog relay lines // Electrocommunication. ─ 2008. ─ N. 3. ─ P. 10─13 [in Russian].
+12011.%p">https://doi.org/10.20535/2411-2976.12011.%p
