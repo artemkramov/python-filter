@@ -1,0 +1,3 @@
+﻿A Mathematical Model for the Prediction of Optimum Mortar Joint Thickness in brick-Mortar Couplet
+In this paper, a mathematical model is formulated for the prediction of optimum mortar joint thickness in brickmortar couplet. The brick-mortar couplet is assumed to be sandwiched between two mortar joints and loaded in compression. The predicted curves agreed favorably with those of the experimental values. It was shown that the optimum mortar thickness for both the predicted and experimental curves was 10mm. The correlation coefficient between the experimental and predicted values was high (0.945) showing the efficacy of the formulated model in the analysis and design of brick-mortar couplet under compressive loading.
+Nwofor T. C. and Sule S.

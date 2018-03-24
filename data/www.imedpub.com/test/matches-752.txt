@@ -1,0 +1,6 @@
+﻿Assumptions and errors in the Lorentz force equation in Electrostatics
+All forces throughout the different branches of physics are ultimately derived from the Principle of Conservation of Energy, from the equation F=dE/dl, or force=rate of change of energy over distance. Different disciplines derive equations from this to simplify their calculations. In electrostatics, however, the derivation of electrostatic forces from the energy conservation principles is rarely seen, and consequently the classical Lorentz force equation F=q (E + vxB) can be erroneously applied in circumstances where its application violates this principle. This discussion paper analyses the Lorentz force equation by a rigorous analysis of the Principle of Conservation of Energy, and identifies situations where the Lorentz equation violates that Principle. It identifies the limits over which the Lorentz force equation is valid, and discusses how the exceptions need to be handled.
+Michael Singer
+assumptions-and-errors-in-the-lorentz-force-equation-in-electrostatics.pdf" title="Assumptions and errors in the Lorentz force equation in Electrostatics
+assumptions-and-errors-in-the-lorentz-force-equation-in-electrostatics-14989
+assumptions-and-errors-in-the-lorentz-force-equation-in-electrostatics

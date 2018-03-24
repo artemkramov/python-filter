@@ -1,0 +1,3 @@
+﻿Spectroscopic studies on Nano-Molecules by using Lie algebraic model
+We have applied Lie algebraic model to nano sized molecules to determine the vibrational spectra of different stretching and bending vibrational modes. The Lie algebraic model of the Hamiltonian expression is</p><p>&nbsp;H = E0 +Σ = n i i i A C 1 +Σ n i j AijCij +Σ n i j ij ij l M</p><p>By using the Lie algebraic method, the stretching vibrational energies of fullerene (C80) are calculated in the one-dimensional [U (2)] framework. Using the model Hamiltonian so constructed, we have calculated the local mode vibrational energy levels of the fullerene (C80) accurately.
+Srinivasa Rao Karumuri, K. Girija Sravani, Vijayasekhar Jaliparthi, Y. Srinivas and L. S. S. Reddy

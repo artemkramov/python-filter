@@ -1,0 +1,3 @@
+﻿On the Ellipsoid Method for Systems of Linear Inequalities
+In this article, we give an overview of the basic ellipsoid method, its antecedents and modifications made to improve its rate of convergence. Furthermore, its importance is highlighted
+B. O. Adejo and A. M. Okutachi

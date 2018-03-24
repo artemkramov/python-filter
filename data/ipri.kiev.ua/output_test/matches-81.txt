@@ -1,0 +1,4 @@
+A Quality Estimate of Magnetic Media Data Layer
+Beliak Ie.V., Kozhan T.M., Kryuchin A.A.
+A modern techinque for quality estimate of magnetic media data layer of all patterns, which is founded on use of digital processing of multivariate signals principles, is considered. The block diagrams for the techinque practical realization are developed. Fig.: 3. Refs.: 3 titles.
+magnetic media, multivariate signals, probability distribution function, random process.

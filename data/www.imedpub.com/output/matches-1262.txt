@@ -1,0 +1,6 @@
+﻿Photoluminescent properties of LaPO4: Gd3+ phosphor
+Pure LaPO4 and LaPO4:Gd3+(0.5 mol%) phosphor was synthesized by the conventional solid-state reaction method. Scanning electron microscopy (SEM),Fourier transform infrared spectroscopy (FT-IR), and photoluminescence (PL) spectra were used to characterize the pure LaPO4 and LaPO4 :Gd3+ phosphor.The excitation spectrum of LaPO4:Gd3+phosphor monitored under 400nm wavelength was characterized by a broad band ranging from 220- 280nm with a maximum intensity peak at 249nm(4.96 eV).Upon excitation at 254nm wavelength, the emission spectrum of LaPO4:Gd3+ phosphor emits a broad band range from 400-565nm with maximum intensity peak at 469(blue)nm(2.64eV) with the full width at half maximum (1nm). The color coordinates for the LaPO4:Gd3+(0.5 mol%) phosphor are x=0.1726 and y=0.0048.This phosphor is having excellent colour tunability of blue light
+Niyaz Parvin Shaik, N. V. Poornachandra Rao and K. V. R. Murthy
+photoluminescent-properties-of-lapo4-gd3-phosphor.pdf" title="Photoluminescent properties of LaPO4: Gd3+ phosphor
+photoluminescent-properties-of-lapo4-gd3-phosphor-14530
+photoluminescent-properties-of-lapo4-gd3-phosphor

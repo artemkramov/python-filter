@@ -1,0 +1,4 @@
+Modeling of Avalanche Formation Process
+Kuzemin A.Ya., Fastova D.V., Dyachenko O.N.
+Actual questions of catastrophe forecasting, in particular avalanche forecasting are considered. Avalanche formation model construction is the main task for making qualitative forecast. Existing modeling methods are analyzed and their disadvantages are elicited. Group Method of Data Handling for construction of avalanche formation process model is proposed. Fig.: 1. Refs: 8 titles.
+avalanche danger, avalanche formation process, forecasting, simulator, problem of identification, deductive methods, inductive methods, principle of model self-organization, external addition.

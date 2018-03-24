@@ -1,0 +1,3 @@
+﻿A common fixed point theorem for a pair of mappings in dislocated metric spaces
+In this paper we have proved fixed point theorem for continuous contraction mappings in dislocated Quasi Metric Spaces. Al so we obtain a common fixed point theorem for a pair of mappings in Dislocated Metric Spaces. The purpose of this paper is to prove some fixed point theorems satisfying rational type of contractive condition due to Jaggi [1] in the setting of dislocated-quasi metric spaces. Also for A-Contraction, a general class of contraction defined by Akram et al. [2], established a common fixed point theorem for a pair of mappings in dislocated metric space
+Rajesh Shrivastava, K. Qureshi and Kiran Rathore

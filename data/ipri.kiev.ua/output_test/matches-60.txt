@@ -1,0 +1,4 @@
+Software-Hardware Complex for Controlling the Lighting Characteristics of Retroreflective Elements
+Petrov V.V., Britsky A.I., Zichun Le, Bisheng Kwan
+The main results of researches on creating a software-hardware complex for controlling the lighting characteristics of retroreflective elements in the stages of their development and manufacture are presented. Fig.: 9. Refs.: 5 titles.
+retroreflective elements, lighting characteristics, angular distribution of retroreflective coefficient, automated measuring and documenting.

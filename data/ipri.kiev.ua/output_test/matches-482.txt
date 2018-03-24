@@ -1,0 +1,4 @@
+Fractal Properties of theМatic Information Streams from the Internet
+Lande, D.V.
+Fractal properties of information streams from the Internet are examined. As a database for computing experiment, the network news monitoring system InfoStream is chosen. The technique of calculation of Hurst’s parameters for thematic cluster and qualitative interpretation of results are presented. Fig.: 4. Refs.: 6 titles.
+information streams, stochastic fractals, Internet, Hurst’s parameter, fractal dimension.

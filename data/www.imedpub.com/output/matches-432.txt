@@ -1,0 +1,6 @@
+﻿Quantum chemical study on the corrosion inhibition of N-benzylpiperidine-4-one oxime
+A theoretical study of N-benzyl piperidine -4-one oxime, an organic corrosion inhibitor for mild steel in 1 M HCl medium, was undertaken by means of the Semi empirical quantum chemical PM6 method. The calculated quantum chemical parameters correlated to the inhibition efficiency are the highest occupied molecular orbital (EHOMO) and the lowest unoccupied molecular orbital (ELUMO), the energy difference (ΔE) between EHOMO and ELUMO, dipole moment (μ), electronegativity (χ), electron affinity (A), global hardness (η), global softness (σ), ionization potential (I) and the fraction of electrons transferred (ΔN). It is an attempt to find the correlation between the molecular structure of the compound and possible behaviour like corrosion inhibitor. The agreement with the experimental data was also found to be satisfactory.
+K. Raja, A. N. Senthilkumar and K. Tharini
+quantum-chemical-study-on-the-corrosion-inhibition-ofnbenzylpiperidine4one-oxime.pdf" title="Quantum chemical study on the corrosion inhibition ofN-benzylpiperidine-4-one oxime
+quantum-chemical-study-on-the-corrosion-inhibition-ofrnnbenzylpiperidine4one-oxime-11994
+quantum-chemical-study-on-the-corrosion-inhibition-ofnbenzylpiperidine4one-oxime

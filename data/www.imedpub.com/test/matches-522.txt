@@ -1,0 +1,6 @@
+﻿A Model of two mutually interacting Species with Mortality Rate for the Second Species
+The present paper concerns with a model of two mutually interacting species with limited resources for first species and unlimited resources for second species with mortality rate. The model is characterized by a coupled system of first order non-linear ordinary differential equations. In all two equilibrium points are identified. If the death rate of the second species is greater than its birth rate, it is found that there are three equilibrium points. The criteria for asymptotic stability have been established for all the equilibrium points. The co-existent state is always stable. The solutions of the linearised basic equations are obtained and their trends are illustrated.
+B. Ravindra Reddy
+a-model-of-two-mutually-interacting-species-with-mortality-rate-forthe-second-species.pdf" title="A Model of two mutually interacting Species with Mortality Rate forthe Second Species
+a-model-of-two-mutually-interacting-species-with-mortality-rate-forrnthe-second-species-16002
+a-model-of-two-mutually-interacting-species-with-mortality-rate-forthe-second-species

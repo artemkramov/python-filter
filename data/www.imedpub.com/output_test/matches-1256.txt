@@ -1,0 +1,3 @@
+﻿Simulation of a triple-photon decay in electron-positron pair annihilation
+Electron-positron annihilation is a fundamental process, when an electron and a positron collide in free space; the energy-momentum conservation requires that the annihilation takes place with the emission of at least two photons. Annihilation of electron-positron in more than two photons is less likely and (very) too sensitive to detect. In this work I created a simulation of the triple-photon decay in electron-positron pair annihilation, by using IPython program, and I compared the simulation results with actual data of the experiment that was performed by M. E. A. Elbasher et al in the Department of Physics, University of Stellenbosch
+Ashraf Abdelrahman Assadig Elameen

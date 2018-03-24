@@ -1,0 +1,3 @@
+﻿Microcontroller Based IR Remote Control Signal Decoder for Home Application
+The present paper describes a design and implementation of an infrared (IR) remote control signal decoder which can be used for various home control applications. For a demonstration we have designed remote controlled fan regulator and ON-OFF power supply switch. The entire system is based on microcontroller that makes the control system smarter and easy to modify for other applications. It enables the user to operate or control a fan regulator and operate the mains power switch from about 10 meters away. The control setting and output AC voltage of fan regulator has been observed.
+Nhivekar G.S. and Mudholkar R.R.

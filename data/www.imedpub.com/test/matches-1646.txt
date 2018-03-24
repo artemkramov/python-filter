@@ -1,0 +1,6 @@
+﻿An application of dynamic deformation model in to the Barium isotopes
+In this work, the ground state, quasi gamma and quasi beta band energies of 120140Ba isotopes have been investigated by using the Dynamic Deformation Model (DDM). In calculations, the theoretical energy levels have been obtained by using DDM program codes. The presented results are compared with the experimental data in respective tables and figures. At the end, it was seen that the obtained theoretical results are in good agreement with the experimental data.
+Saad N. Abood and Ghofran A. Ali
+an-application-of-dynamic-deformation-model-in-to-the-barium-isotopes.pdf" title="An application of dynamic deformation model in to the Barium isotopes
+an-application-of-dynamic-deformation-model-in-to-the-barium-isotopes-17064
+an-application-of-dynamic-deformation-model-in-to-the-barium-isotopes

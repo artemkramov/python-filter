@@ -1,0 +1,3 @@
+Some points of minimizing informational risks in banking
+N. V. Kuznyetsova
+The basic types of informational risks are considered and the basic informational threats, which are faced in banking, are analyzed. On the example of the analysis of legal persons-borrowers of the bank, using Bayesian networks, the cause-and-effect relations between financial activities in factor-lists and key activities were defined. The built Bayesian network model allowed to define the correlation between credit non-returns and the quality of informational resource, particularly with incompleteness data of a borrower. Based on the analysis of the model the approaches to minimize information risks by correctly handle missing data with regard to their origin reasons were proposed.</p>

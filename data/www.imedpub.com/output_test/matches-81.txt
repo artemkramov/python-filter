@@ -1,0 +1,3 @@
+﻿Influence of gravity, compression and magnetic field on the propagation of rayleigh waves in non-homogeneous orthotropic elastic media
+The influence of the gravity and magnetic field on the propagation of Rayleigh wave in a prestressed inhomogeneous, orthotropic elastic solid medium has been discussed. The method of separation of variable has been used to find the frequency equations for the surface waves. The obtained dispersion equations are in agreement with the classical results when gravity, magnetic field, non-homogeneity and initial stress are neglected
+Rajneesh Kakar, Shikha Kakar, Kanwaljeet Kaur and Kishan Chand Gupta

@@ -1,0 +1,2 @@
+The function sequences and Taylor series with a fuzzy argument
+I. Ya. Spektorsky

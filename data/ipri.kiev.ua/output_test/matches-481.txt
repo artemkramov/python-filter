@@ -1,0 +1,4 @@
+Information Integrity in Multiphase Systems of Protecting Telecommunication Networks
+Mаtоv О.Ya., Vаsylenko V.S., Yudin O.К.
+An approach in relation to determination of characteristics of integrity of information objects both for the multiphase (multilevel) telecommunication systems on the whole and for their separate levels (phases) is offered. Tabl.: 1. Refs: 8 titles.
+noise, information exchange, message, exchange protocols, telecommunication system, information integrity.

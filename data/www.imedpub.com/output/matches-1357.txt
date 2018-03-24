@@ -1,0 +1,6 @@
+﻿GIS data base design, development and flood analysis: A case study of Olpad Taluka of Surat
+Flood is a natural disaster and almost occurs in every part of the world. India has longest rivers passing from high population density area and during monsoon season, river floods are common in India. Most probable conditions causing floods are outdated or clogged drainage systems and rapid accumulation of rainfall. In Gujarat, Tapi river causes flood in Surat and its nearby areas. In this research paper use of remote sensing and GIS in flood analysis is presented. Olpad Taluka of Surat is coastal area and highly vulnerable for flood. Remote sensing and GIS are used for creating required database for Olpad taluka. Parameters like Population density, resources availability and elevation of geographical area are used to categorize villages under high risk zone, moderate risk zone and low risk zone.
+Praful M. Udani and Dhruvesh K. Mathur
+gis-data-base-design-development-and-flood-analysisa-case-study-of-olpad-taluka-of-surat.pdf" title="GIS data base design, development and flood analysis:A case study of Olpad Taluka of Surat
+gis-data-base-design-development-and-flood-analysisrna-case-study-of-olpad-taluka-of-surat-17112
+gis-data-base-design-development-and-flood-analysisa-case-study-of-olpad-taluka-of-surat

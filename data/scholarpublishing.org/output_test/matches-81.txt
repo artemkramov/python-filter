@@ -1,0 +1,4 @@
+Classification of EEG Signals Produced by RGB Colour Stimuli
+Saim Rasheed, Daniele Marini
+In this paper we have presented results for classification of electroencephalograph (EEG) signals produced by the random visual exposure of primary colours i.e. red, green and blue to the subject while sitting in a dark room. Event-related spectral perturbations (ERSP) are used as features for support vector machine (SVM). Our objective was to classify the EEG signals as Red, Green and Blue classes and we have successfully classified the three visual conditions having accuracy of 84%, 89% and 98% with linear, polynomial and radial basis function kernels respectively with in all the groups of data among all the subjects.</p>
+EEG; Support Vector Machinces; Event related Spectral Perturbation; Visual Evoked Potentials

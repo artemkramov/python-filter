@@ -1,0 +1,6 @@
+﻿Prey- predator model with reserved and unreserved area having modified transmission function
+In a paper Kar [17] proposed and analyzed a non-linear mathematical model to study the dynamics of fishery resource having two zones. In this paper we have reanalyzed the model by considering a more general transmission function of prey species from unreserved zone. Biological equilibria of the system along with the conditions of their existence are obtained. Criteria for local and global stability along with optimal policy are also obtained. It has been observed that as predation increases, the optimal equilibrium level decreases. However, the increase of new parameter raises the equilibrium level. As such, appropriate control of both parameters can be used to maintain the desired level.
+H. Mehta, B. Singh, N. Trivedi and R. Khandelwal
+prey-predator-model-with-reserved-and-unreserved-area-having-modifiedtransmission-function.pdf" title="Prey- predator model with reserved and unreserved area having modifiedtransmission function
+prey-predator-model-with-reserved-and-unreserved-area-having-modifiedrntransmission-function-16374
+prey-predator-model-with-reserved-and-unreserved-area-having-modifiedtransmission-function

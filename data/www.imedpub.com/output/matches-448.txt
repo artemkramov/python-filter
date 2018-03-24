@@ -1,0 +1,6 @@
+﻿Modified MHD double- diffusive convection coupled with cross-diffusions
+The present paper investigates the problem of modified magnetohydrodynamic (MHD) double-diffusive convection coupled with cross-diffusions for the Veronis’ and Stern’s type configurations. The nasty behaviour of the governing equations of the problem is mollified by the construction of a proper transformation and the relationship between various energies is established. The analysis made brings out that total kinetic energy associated with a disturbance is greater than the sum of its total magnetic and concentration energies in the parameter regime, 1. 4 27 / 2 2 2 2 4 1 Q - + RS¢ - - k - £ s p st p The results derived herein are valid for quite general nature of boundary conditions.
+Hari Mohan
+modified-mhd-double-diffusive-convection-coupled-with-crossdiffusions.pdf" title="Modified MHD double- diffusive convection coupled with cross-diffusions
+modified-mhd-double-diffusive-convection-coupled-with-crossdiffusions-16252
+modified-mhd-double-diffusive-convection-coupled-with-crossdiffusions

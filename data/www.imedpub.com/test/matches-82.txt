@@ -1,0 +1,6 @@
+﻿Effects of various nonhomogeneous parameters on propagation of surface waves in viscoelastic media of higher order under gravity
+The present study reveals the effects of non-homogeneity, viscous, gravity, magnetic and thermal fields in the wave velocity equations corresponding to Stoneley, Rayleigh and Love waves respectively. The theory of generalized surface waves has firstly been developed and then it has been employed to study the surface waves. The wave velocity equations have been obtained for Stoneley waves, Rayleigh waves and Love waves, and are in well agreement with the corresponding classical result in the absence of viscosity, temperature, gravity, magnetism as well as non-homogeneity of the material medium.
+Rajneesh Kakar and Shikha Kakar
+effects-of-various-nonhomogeneous-parameters-on-propagation-of-surfacewaves-in-viscoelastic-media-of-higher-order-under-gravity.pdf" title="Effects of various nonhomogeneous parameters on propagation of surfacewaves in viscoelastic media of higher order under gravity
+effects-of-various-nonhomogeneous-parameters-on-propagation-of-surfacernwaves-in-viscoelastic-media-of-higher-order-under-gravity-14780
+effects-of-various-nonhomogeneous-parameters-on-propagation-of-surfacewaves-in-viscoelastic-media-of-higher-order-under-gravity

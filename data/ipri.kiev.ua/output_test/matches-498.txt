@@ -1,0 +1,4 @@
+Analysis of Plasmon Influence on the Transmission Efficiency of Near-Field Elements of Su-perdense Optical Information Recording Systems
+Goldayevich E.E.
+The theory of surface plasmons origin in air–metal–dielectric interfaces radiated by incident light of visible spectrum is considered. A possibility of plasmon resonance near-field enhancement is theoretically shown. Examples of near-field optical recording elements having enhanced resolution because of surface plasmons influence are given. Fig.: 6. Refs: 6 titles.
+surface plasmons, dispersion relation, transmission efficiency, near-field optical recording.

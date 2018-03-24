@@ -1,0 +1,4 @@
+Construction of Algorithms for Solving Nonstationary Linear Differential Equations in Hy-percomplex Numerical Systems
+Sinkov M.V., Kalinovsky Ya.A., Boyarinova Yu.E.
+Algorithms for solving some types of nonstationary linear differential equations in commutative hypercomplex numerical systems of different dimensions are considered. Fig.: 1. Refs: 7 titles.
+hypercomplex numerical system, linear differential equations, divisors of zero.

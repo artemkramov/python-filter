@@ -1,0 +1,3 @@
+﻿Steady slip blood flow through a stenosed porous artery
+Laminar steady flow taking blood as Casson fluid through a cylindrical artery with porous walls has been studied under slip stenotic conditions. The porous slip boundary conditions are taken as suggested by the Beavers and Joseph (1967). The results for the various flow characteristics like axial velocity, plug flow velocity, flow flux, wall shear stress and the pressure gradient have been discussed analytically and graphically under suitable flow parameters
+Manish Gaur and Manoj Kumar Gupta

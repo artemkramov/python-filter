@@ -1,0 +1,6 @@
+﻿Simple Algebraic Proofs of FermatÃ¢ÂÂs Last Theorem
+In this research simple proofs of Fermat’s last theorem of last theorem are proposed. The proofs presented do not require any Galois representation or concepts of elliptic curves. In the first proof a most general algebraic coordinate representation of Pythagorean integer triples is proposed. The triples will be powered to some general degree n to enable derivation of the proof. In the second proof method a general algebraic formula containing all the Pythagorean triples is proposed. The formula is then used to prove Fermat’s last theorem. The mathematics in this proposed algebraic form is trivial and within the scope of seventeenth century mathematics. Fermat claimed that he got a tremendous proof of his theorem. The objective of this paper is to show that there are simple mathematical proofs of Fermat’s last theorem within the reach of the seventeenth century mathematics.
+Samuel Bonaya Buya
+simple-algebraic-proofs-of-fermats-last-theorem.pdf" title="Simple Algebraic Proofs of FermatÃ¢ÂÂs Last Theorem
+simple-algebraic-proofs-of-fermats-last-theorem-20579
+simple-algebraic-proofs-of-fermats-last-theorem

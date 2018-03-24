@@ -1,0 +1,6 @@
+﻿Hall Effects On Heat and Mass Transfer Through a Porous Medium In a Rotating Channel With Radiation
+we analyse the combined effects of Hall currents and radiation on the convective heat and mass transfer of a viscous electrically conducting fluid through a porous medium confined in a rotating horizontal channel in the presence of heat sources. The equations governing the flow, heat and mass transfer are solved exactly to obtain the velocity, temperature and concentration and are analysed for different variations of the governing parameters G,D-1,M,m,N and a.The shear stress and the rate of heat and mass transfer are numerically evaluated for different sets of the parameters. The influence of the Hall currents and the radiation on the flow ,heat and mass transfer characteristics are discussed in detail.
+Sudha Mathew, P. Raveendra Nath and N. B. V. Rama Deva Prasad
+hall-effects-on-heat-and-mass-transfer-through-a-porous-medium-in-arotating-channel-with-radiation.pdf" title="Hall Effects On Heat and Mass Transfer Through a Porous Medium In aRotating Channel With Radiation
+hall-effects-on-heat-and-mass-transfer-through-a-porous-medium-in-arnrotating-channel-with-radiation-16635
+hall-effects-on-heat-and-mass-transfer-through-a-porous-medium-in-arotating-channel-with-radiation

@@ -1,0 +1,6 @@
+﻿DC ionic conductivity studies on NaNO3: SiO2 composite solid electrolyte system
+The study of charge transport in pure NaNO3 and NaNO3: SiO2 dispersed solid electrolyte system with 6.59, 12.42, 17.53 and 22.06 mole percentages of SiO2(10nm), has shown that there is an increase in conductivity as the temperature rises from room temperature up to near the melting point of pure system. The enhancement of dc ionic conductivity is observed to increase with m/o and reaches to maximum at 12.42 mole percent, followed by a fall of conductivity with further increase of dispersion. X-ray diffraction patterns of pure Sodium Nitrate, Silica and 12.42, 17.53 m/o dispersed systems have shown that pure phases of host and dispersoid materials coexist in the dispersed systems indicate that there is no chemical reaction had taken between them. The enhancement of conductivity in this system was explained due the increased concentration of defects in space charge region formed between the host and nano particles of dispersoid.
+S. Narender Reddy
+dc-ionic-conductivity-studies-on-nano3sio2-composite-solid-electrolyte-system.pdf" title="DC ionic conductivity studies on NaNO3:SiO2 composite solid electrolyte system
+dc-ionic-conductivity-studies-on-nano3rnsio2-composite-solid-electrolyte-system-15661
+dc-ionic-conductivity-studies-on-nano3sio2-composite-solid-electrolyte-system

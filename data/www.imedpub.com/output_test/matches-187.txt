@@ -1,0 +1,3 @@
+﻿Effect of Thickness on the Properties ZnO Thin Films
+Zinc oxide (ZnO) is a promising material in nanotechnology applications, for example in nano-electronics and nano-robotic technology. The objectives of our work are to study the effect of thickness on the structural, optical, electrical and mechanical properties of ZnO thin films. ZnO thin films were coated using chemical bath technique for various thickness. All the coated films were characerized by XRD, FTIR, UV, PL and electrical measurements. The results are discussed herein.
+N. Nithya and S. Rugmini Radhakrishnan

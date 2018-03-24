@@ -1,0 +1,3 @@
+﻿Coupled best proximity point theorem in metric spaces dependent on ICS mapping
+The purpose of this article is to generalize the result of W. Sintunavarat and P. Kumam [29]. We also give an example in support of our theorem for which result of W. Sintunavarat and P. Kumam [29] is not true. Moreover we establish the existence and convergence theorems of coupled best proximity points in metric spaces, we applied this results to a uniformly convex Banach space.
+coupled-best-proximity-point-theorem-in-metric-spaces-dependenton-ics-mapping.pdf" title="Coupled best proximity point theorem in metric spaces dependenton ICS mapping

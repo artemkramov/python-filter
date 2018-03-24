@@ -5,11 +5,10 @@ import numpy
 class VectorFilter(object):
 
     def __init__(self):
-        # self.word_count = 0
-        self.ratio_word_clear = 0
+        self.avg_word_length = 0
         self.ratio_length = 0
         self.ratio_symbols = 0
-        self.avg_word_length = 0
+        self.ratio_word_clear = 0
 
     # Convert attributes to array format
     def to_array(self):
@@ -19,8 +18,6 @@ class VectorFilter(object):
         return vector
 
     def parse_row(self, row):
-        # Get word count
-        # self.word_count = len(row.split())
 
         # Get HTML tag ratio
         pattern = r"<[\/a-zA-Z0-9]{1,}>"

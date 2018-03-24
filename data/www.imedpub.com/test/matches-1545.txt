@@ -1,0 +1,6 @@
+﻿Numerical solution of LaplaceÃ¢ÂÂs equation in a cracked polygon
+This study reports the numerical solution of Laplace's equation in the first membrane of Giraud, using large singular finite elements method. We compare these results with those obtained using the conventional method of finite elements. Both methods provide results that align quite well everywhere except near the singularities where significant differences exist. The results deviate near the singularity and we obtain the classical Gibbs phenomenon. The comparisons are based on u solution values, those of its first derivatives and Laplacian's
+Ouigou M. Zongo, Sie Kam, Kounhinir Some and Alioune Ouedraogo
+numerical-solution-of-laplaces-equation-in-a-cracked-polygon.pdf" title="Numerical solution of LaplaceÃ¢ÂÂs equation in a cracked polygon
+numerical-solution-of-laplaces-equation-in-a-cracked-polygon-15420
+numerical-solution-of-laplaces-equation-in-a-cracked-polygon

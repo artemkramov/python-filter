@@ -1,0 +1,6 @@
+﻿Effect of slip and heat transfer on peristaltic transportof a Jeffrey fluid in a vertical asymmetric porous channel
+This paper deals with the influence of slip and heat transfer on the peristaltic transport of a Jeffrey fluid in a vertical asymmetric channel with porous medium. The governing equations are solved by using perturbation technique. The expressions for the temperature, the axial velocity and pressure gradient are obtained. The impact of various physical parameters on the velocity, the temperature and the pressure rise are discussed through graphs. It is believed that the results presented here will find prospective application in the study of various fluid mechanical problems associated with gastrointestinal tract, intra pleural membranes, capillary walls and small blood vessels
+P. Lakshminarayana1,S. Sreenadh, G. Sucharitha1and K. Nandagopal
+effect-of-slip-and-heat-transfer-on-peristaltic-transportof-ajeffrey-fluid-in-a-vertical-asymmetric-porous-channel.pdf" title="Effect of slip and heat transfer on peristaltic transportof aJeffrey fluid in a vertical asymmetric porous channel
+effect-of-slip-and-heat-transfer-on-peristaltic-transportof-arnjeffrey-fluid-in-a-vertical-asymmetric-porous-channel-13276
+effect-of-slip-and-heat-transfer-on-peristaltic-transportof-ajeffrey-fluid-in-a-vertical-asymmetric-porous-channel

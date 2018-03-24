@@ -1,0 +1,4 @@
+Survivability Mechanisms Application for Information Resource Security Providing in Dis-tributed Systems
+Kuznetsova M.G.
+Features of information resources security support in distributed information systems (DIS) are con-sidered. DIS’s survivability mechanisms are analyzed and the possibility of their application for security systems construction is demonstrated. Refs: 15 titles.
+survivability, security, information resources, distributed information systems.

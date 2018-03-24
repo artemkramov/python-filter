@@ -1,0 +1,10 @@
+﻿null
+48">Vol 2, No 1 (2015
+914/0">Sharma
+Contrast Enhancement Technique for CT Images
+Kanika Sharma, Deepti Mittal
+<p>The images obtained by computed tomography (CT) scanning are gray scale images, in which gray level shades are almost similar around the tissue. CT images must be enhanced for easy visualization of the lesion or tumor. This paper proposes a contrast enhancement technique for medical CT images, based on modification of histogram equalization technique. Modification is done by adding a constrained variable offset to the transformation function of global histogram equalization. This constrained variable offset helps to preserve the mean brightness of the image, which prevents the global outlook of CT image. Texture of structural part of CT images was enhanced by this algorithm, due to which tumor or infected region is easily visible. The proposed technique was applied on liver CT images containing tumor and its performance was evaluated by subjective evaluation and three quantitative measures.</p>
+global histogram equalization; constrained variable offset; cumulative distribution function; transformation function
+914/474
+21.914">http://dx.doi.org/10.14738/jbemi.21.914
+There are currently no refbacks.

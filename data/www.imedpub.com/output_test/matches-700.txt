@@ -1,0 +1,3 @@
+﻿Characteristics and stability of GAAS thin film transistors
+GaAs, a promising candidate for optoelectronic devices has been used in Thin Film Transistors (TFTs) with a rare earth oxide (Nd2O3) as gate insulator. The samples are fabricated in staggered electrode structure by multiple pump down (MPD) method of vacuum evaporation. The device parameters have been evaluated from the characteristics and suitable theoretical model. Stability is assessed through periodic observation of the characteristics. The TFTs exhibited good channel modulation but poor stability and were sensitive to humidity
+Muhidhar Puzari

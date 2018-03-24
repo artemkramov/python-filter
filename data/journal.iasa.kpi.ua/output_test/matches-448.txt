@@ -1,0 +1,2 @@
+An enhanced scheduling algorithm for task planners in heterogeneous distributed computing systems
+Anatolij M. Sergiyenko, Valery P. Simonenko, A. V. Simonenko

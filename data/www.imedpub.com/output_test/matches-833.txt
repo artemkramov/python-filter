@@ -1,0 +1,3 @@
+﻿Viscosity B-coefficient and partial molar volume between 250c and 450c for mono and diphosphate ions in aqueous solution
+Partial molar volume and viscosity B-Coefficient of phosphoric acid, sodium salt of mono and diphosphates were determined in water in the temperature range 25-450C. All these parameters exhibit the following order: H3PO4  H2PO4 - &gt;H3PO4. Similarly, the magnitude of B/ΦV 0×103 is also analyzed.
+Anil G. Shankarwar, Vinod A. Shelke, and Sunil G. Shankarwar

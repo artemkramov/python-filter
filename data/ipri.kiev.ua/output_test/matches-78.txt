@@ -1,0 +1,4 @@
+Features of Multivariate Probability Distributions of Speech Signals
+Bryagin O.V., Butsenko Yu.P.
+The results of measuring for multivariate functions of speech signals probability distribution are given. It is shown that there is a possibility of applying of the obtained results for speech identification. Fig.: 3. Refs.: 3 titles.
+random processes, multivariate functions, speech identification.

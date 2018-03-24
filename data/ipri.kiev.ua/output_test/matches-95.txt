@@ -1,0 +1,4 @@
+Methodical Approach to Designing the Structure of the Organizational-Type Automated Control System
+Samokhvalov Yu.Ya., Ostashevskyi V.B., Shtanenko S.S.
+For solving the problem of designing the structure of the organizational-type automated control system the use of aggregation-decomposition approach is offered. The methodological aspects of such an approach in conditions of incompleteness and uncertainty of starting data are considered. Fig.: 1. Refs: 6 titles.
+structure designing, aggregation-decomposition approach, structure of the automated control system.

@@ -1,0 +1,3 @@
+﻿Molecular interaction of butanenitrile-1,2-dichloroethane mixtures at microwave frequency
+The dielectric spectra have been studied for butanenitrile(BN) with 1,2 Dichloroethane(DCE) mixture at temperature 450C in the frequency range of 10 MHz to 20 GHz using time domain reflectometry (TDR) for 11 different concentrations of the system. The Kirkwood correlation factor (gf) and Kirkwood averaged effective correlation factor (geff) of the mixture has been determined. The static dielectric constants for the mixtures have been fitted with the modified Bruggeman model. The study shows that the antiparallel alignment of the dipoles and strong interaction between the constituent molecules of the BN-DCE mixture.
+Ishwar G. Shere

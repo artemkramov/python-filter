@@ -1,0 +1,4 @@
+The Diagram of a Deviation of Measurements Run Elements from Local Linear Approximations
+Lande D.V., Snarskij A.A.
+The method of revealing and visualization of trends, periodicities, local features in measurements runs ?L-method basing on DFA technology (Detrended Fluctuation Analysis) is offered. The essence of a method consists in display of values of an absolute deviation of points of accumulation run of values of measurements from corresponding values of linear approximation. It is shown, that the ?L-method in some cases allows to define better local features, than the wavelet-analysis. The offered approach, which is simple in realization, can be applied at the analysis of time series in such areas as economy and sociology. Fig.: 6. Refs: 6 titles.
+measurements run, linear approximation, wavelet-analysis, Detrended Fluctuation Analysis, ?L-method.

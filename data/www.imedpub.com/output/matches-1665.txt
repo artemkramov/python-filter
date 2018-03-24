@@ -1,0 +1,6 @@
+﻿Energy gap in a two-qubit spin-1/2 XY model with added Dzyaloshinskii-Moriya interaction and longitudinal magnetic field
+We have examined the effect of a DM interaction and longitudinal external magnetic field on the energy gap of a two-qubit spin-1/2 XY mode. Also we have calculated the critical values of DM interaction and longitudinal external magnetic field. We have shown that DM interaction and external magnetic field have an effect on the energy gap behavior and critical values and also we have been able to get phase transition point
+H. Arefazar and M. R. Soltani
+energy-gap-in-a-twoqubit-spin12-xy-model-with-addeddzyaloshinskiimoriya-interaction-and-longitudinal-magnetic-field.pdf" title="Energy gap in a two-qubit spin-1/2 XY model with addedDzyaloshinskii-Moriya interaction and longitudinal magnetic field
+energy-gap-in-a-twoqubit-spin12-xy-model-with-addedrndzyaloshinskiimoriya-interaction-and-longitudinal-magnetic-field-14927
+energy-gap-in-a-twoqubit-spin12-xy-model-with-addeddzyaloshinskiimoriya-interaction-and-longitudinal-magnetic-field

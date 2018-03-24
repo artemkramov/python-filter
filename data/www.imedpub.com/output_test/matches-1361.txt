@@ -1,0 +1,3 @@
+﻿Some remarks on the stability and boundedness of solutions of certain nonautonomous T-period differential equations of second order
+This paper extends some known results on the stability and boundedness of solutions of certain T- period of nonautonomous differential equations of second order
+Ebiendele Peter Ebosele and Okodugha Edward

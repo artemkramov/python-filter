@@ -1,0 +1,4 @@
+Programs for Controlling Authenticity and Preliminary Information Processing of the Data-вase AIS «Report» Regarding to the Resonance Crimes and Others Extraordinary Events Registra-tion on MIA of Ukraine
+Kudinov V.A.
+Algorithms of programs for controlling authenticity and nondiscrepancy of information, which is entered into database information requisites of automated information system «Report» of a Unit Оn-Duty of MIA of Ukraine, and also its preliminary processing. Fig.: 2. Refs.: 8 titles.
+information requisites, database, automated information system, authenticity and information nondiscrepancy, information processing.

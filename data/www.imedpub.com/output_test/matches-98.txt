@@ -1,0 +1,3 @@
+﻿Design and Construction`of a single Impulse Activated Grenade
+A single impulse activated grenade which is powered by an impulse has been designed, constructed and tested. The components used in the construction an electro-mechanically controlled. It was found that the grenade detonated in an impact, thus, it has the shortest detonating time
+Don Okpala. V. Uche.

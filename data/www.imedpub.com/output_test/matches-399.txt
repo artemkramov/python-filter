@@ -1,0 +1,3 @@
+﻿Common fixed point theorem for compatible mappings of type (A-1) in complete fuzzy metric space
+The purpose of this paper is to obtain common fixed point theorem for compatible maps of type (A-1) on complete fuzzy metric space .Our result improves the result of Khan M.S. [ 7].
+Vandana Gupta, V. H. Badshah and Preeti Malviya

@@ -1,0 +1,6 @@
+﻿Stability of Stratified Rotating Viscoelastic RivlinÃ¢ÂÂEricksen Fluid in The Presence of Variable Magnetic Field
+The Rayleigh- Taylor instability of stratified rotating viscoelastic (Rivilin- Ericksen) fluids in the presence of variable magnetic field is considered. Numerically and graphically results show that the presence of magnetic field stabilizes a certain wave- number band, whereas the system is unstable for all wave-numbers in the absence of the magnetic field, rotation and for non- viscoelastic fluid. The wave- number range, for which the potential unstable system gets stabilizing effect, increases with the increase in the magnetic field and decreases with the increase in kinematic viscoelasticity
+Rajesh Kumar Gupta and Mahinder Singh
+stability-of-stratified-rotating-viscoelastic-rivlinericksen-fluid-in-thepresence-of-variable-magnetic-field.pdf" title="Stability of Stratified Rotating Viscoelastic RivlinÃ¢ÂÂEricksen Fluid in ThePresence of Variable Magnetic Field
+stability-of-stratified-rotating-viscoelastic-rivlinericksen-fluid-in-thernpresence-of-variable-magnetic-field-16664
+stability-of-stratified-rotating-viscoelastic-rivlinericksen-fluid-in-thepresence-of-variable-magnetic-field

@@ -1,0 +1,4 @@
+Reserve Set Calculation Strategy of Hardware Complex of an Automated Processing System of Coordinate Information on Moving Objects
+Butochnov A.N., Ostashevsky V.B., Tsytsarev V.N.
+The approximate strategy based on approach for calculation of reliability characteristics of hardware complex using adequacy characteristics of reserve set is offered. Reliability characteristics of hardware complex can be obtained through multiplying reliability characteristics calculated for unlimited reserve set by corresponding adequacy characteristics of reserve set. Tabl.: 4. Fig.: 3. Refs: 3 titles.
+reserve set calculation strategy, reliability characteristics, adequacy characteristics, reserve set supplementation strategy, reliability flowchart.

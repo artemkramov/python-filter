@@ -1,0 +1,4 @@
+﻿Stability analysis of a system of coupled harmonic oscillators
+We present here a critical study of coupled harmonic oscillators. These are essentially two pendulums for which the oscillating masses are connected by a spring of stiffness k. We derive the equation of motion of the masses using the Euler-Lagrange equations. Exact analytical solutions of the equations are obtained using Laplace transforms enabling us to give a graphical profile as well as the phase portraits. Stability analysis of the nonlinear system is investigated by the direct method
+S. O. Maliki and P. O. Nwoba
+stability-analysis-of-a-system-of-coupled-harmonic-oscillators.pdf" title="Stability analysis of a system of coupled harmonic oscillators

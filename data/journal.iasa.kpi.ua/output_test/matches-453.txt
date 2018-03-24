@@ -1,0 +1,2 @@
+The planning optimization of tasks distribution and data packets transportation in a distributed computer network
+Roman P. Krasniuk, Grygoriy G. Tsegelyk

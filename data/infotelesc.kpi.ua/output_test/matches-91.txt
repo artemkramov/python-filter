@@ -1,0 +1,3 @@
+OFDM SIGNAL ENERGY CHARACTERISTICS RESEARCH IN CHANNEL WITH PERMANENT PARAMETERS
+Leonid Uryvskyi, Serhii Osypchuk
+The simulation model for OFDM (Orthogonal Frequency Division Multiplexing) signal energy characteristics research is&nbsp;developed. The OFDM signal vector-phase states are examined. The momentary amplitudes distribution function is obtained.&nbsp;A hypothesis of amplitude distribution law is verified by the X2 criterion. The OFDM subcarriers optimal gain method is&nbsp;proposed.</p>

@@ -1,0 +1,3 @@
+﻿A model of nanodroplet impact
+A model has been developed to simulate the fluid dynamics that occur when a nanodroplet falls onto a flat substrate. A numerical solution of the Navier–Stokes equation using a volume-of-fluid (VOF) technique was used to model deformation. Dynamic contact angle during droplet impact was obtained by molecular kinetic theory. This dynamic contact angle was then implemented in the numerical model used to simulate the process. The spreading behavior was analyzed for wettable, partially wettable and nonwettable surfaces.
+Saeid Asadi

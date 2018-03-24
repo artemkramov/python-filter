@@ -1,0 +1,4 @@
+False Conformity Filtration of Key Points Descriptors on the Basis of Geometrical Data Analysis
+Gorohovatsky V.A.
+Questions of structural approaches improvement at the data analysis in systems of computer vision are considered. Filtration methods on the basis of the spatial information as a way of false attributes elimination are investigated. Formalization of a problem is carried out, approaches for clusterisation in the space of geometrical transformations are suggested, results of computer modeling are discussed. Fig.: 2. Refs: 10 titles.
+computer vision, visual objects comparison, key points, descriptors, conformity, filtration, geometrical transformations, clusterisation.

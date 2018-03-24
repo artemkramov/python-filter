@@ -1,0 +1,4 @@
+Problems of Video Streaming Transmission over Simplex Channel of Lossy Network
+Oksyuk О.A.
+Classification of problems and tasks related to loss of a part of data in case of video streaming transmission over simplex channel and directions in domain of their solving are developed. It is shown that forward error correction (FEC) is the most general approach to error protection within the scope of the given task. A number of works in the given field are analyzed and necessity of new FEC method de-velopment is shown. The method should be independent of video coding scheme, with varying redundan-cy ratio for each data element and a speed of calculations sufficient for using in real time on modern computers. Fig.: 2. Refs.: 12 titles.
+streaming video, video transmission, lossy network, simplex channel, forward error correction.

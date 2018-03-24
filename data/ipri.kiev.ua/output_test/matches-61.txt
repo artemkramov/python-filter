@@ -1,0 +1,4 @@
+Application of Methods for Noiseproof Estimation in Problems of Analyzing the Measuring Information
+Dodonov V.А.
+A problem of estimation of the measuring information with the purpose of revealing and elimination of abnormal results of measurements, determination of weight factors of each of the remained results, coordination of separate parts of the measuring information between themselves for subsequent use in problems of secondary processing is considered. It is shown, that in a series of various procedures of such analysis is promising the serial use of methods for noiseproof (robust) estimation. Tabl.: 1. Fig.: 1. Refs.: 20 titles.
+measuring information, estimation, robustness, methods, processing.

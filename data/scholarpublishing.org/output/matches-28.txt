@@ -1,0 +1,11 @@
+﻿null
+193">Vol 5, No 1 (2018
+4238/0">Tiam Kapen
+Mobile Three Gas Extractor Using Pressure Swing Adsorption Method
+Pascalin Tiam Kapen, Tendong Tadadjeu Neville, Dongmeza Koudjou Jauspin
+<p>This paper deals with a simple approach of producing three gases that are oxygen, nitrogen and pressurized air by using a mobile three gas extractor. Indeed, the proposed medical device integrates the following modules driven by an Arduino Mega 2560 board: Module of filtration and production of air made of filters, compressor and a cooling coil; module of oxygen and nitrogen production based on pressure swing adsorption (PSA) method and using the zeolite molecular sieves that restrain nitrogen and produce oxygen. &nbsp;The device is equipped of &nbsp;pressure sensors to control the output pressure of the gases. This implemented &nbsp;equipment has been tested and we obtained &nbsp;promising results. Indeed, a percentage of&nbsp; oxygen of &nbsp;82 % &nbsp;has been reached. We have produced pressurized air with a pressure of 2.5 bars.&nbsp;</p>
+Mobile tree gas extractor; Oxygen; Nitrogen; Pressurized air; Pressure swing adsorption (PSA).
+4238/2624
+></div><div><h4>References</h4><br><div><p>(1) Mullie, A. (2010). Les gaz à usage médical, des produits thérapeutiques pas comme les autres: aspects spécifiques de l’application de la législation pharmaceutique, de son enregistrement à sa distribution (Doctoral dissertation).</p><p>(2) Organisation mondiale de la Santé (2016). Spécifications techniques pour les concentrateurs d’oxygène.</p></div><br
+51.4238">http://dx.doi.org/10.14738/jbemi.51.4238
+There are currently no refbacks.

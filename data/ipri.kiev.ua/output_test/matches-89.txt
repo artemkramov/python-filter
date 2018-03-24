@@ -1,0 +1,3 @@
+Algorithm-Software Tools for Analytical Calculations over Hypercomplex Numbers in the Computer Mathematics System MAPLE
+The extension of the computer mathematics system Maple by the package of procedures for execution of character and numerical operations in hypercomplex numerical systems is considered. The place of this package in a structure of the computer mathematics system Maple is defined. The enu-meration of procedures for execution of the service, algebraic and nonlinear operations over hypercomplex numbers is represented. Fig.: 1. Refs.: 20 titles.
+hypercomplex numerical system, analytical calculations, computer mathematics, mathematical package Maple, base of the hypercomplex numerical system.

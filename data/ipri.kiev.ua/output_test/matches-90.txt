@@ -1,0 +1,4 @@
+The Influence of Refractive Index on Optical Media Data Layer Relief Depth
+Gorbov I.V.
+The model of a playback signal from optical media with relief-phase data recording is created. The playback signal dependence on depth of data layer structure obtained on the surface of substrates with various refractive indices is investigated. Relief depth values required for compatibility of developed long-term data storage media with CD format and playing on conventional optical disc players are calculated for various high-stable transparent materials. Tabl.: 1. Fig.: 7. Refs: 7 titles.
+optical media, long-term data storage, data layer structure, playback signal, CD.

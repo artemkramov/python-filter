@@ -1,0 +1,2 @@
+﻿Study of ÃÂ±- induced nuclear reaction in the energy range upto 60MeV on 54Fe
+α–cluster cross- section production by α- induced reaction was calculated at different energies using excitation model and an analysis in the framework of pre-equilibrium excitation model with geometry dependent hybrid model depend on pickup mechanism. Comparison with our calculation gives remarkable agreement with experimental data. The cross-section has been estimated for the target 54Fe (α, Xn), X = 1 to4, with different energies

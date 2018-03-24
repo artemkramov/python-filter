@@ -1,0 +1,4 @@
+﻿Measuring methods of losses in magnetic component
+We present the principles of measurement of the losses in the magnetic component retained then the measuring equipment, we specify his constitution, his originality and its principal functions and we justify our approach starting from the objectives of modelling. And finally the result of many tests will be presented, thus making it possible to determine the parameters of our model
+Abakar Mahamat Tahir, Rousseau Jean Jacques, Amir Mougache, Mahamat Barka, Ligot Dominique, Pascal Bevilacqua and Mahamat Seïd Ali
+measuring-methods-of-losses-in-magnetic-component.pdf" title="Measuring methods of losses in magnetic component

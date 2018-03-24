@@ -1,0 +1,4 @@
+The Using of Methods for Accelerated Ageing of the Optical Media for Estimating their Life Expectancy
+Gorbov I.V.
+Stress conditions for accelerated ageing of optical media and changing of their properties during ar-tificial ageing are analyzed. A possibility of estimating data life expectancy of optical media and deter-mining a period of time, after which a stored information must be recopied, is shown. Tabl.: 2. Fig.: 7. Refs.: 8 titles.
+optical disc, failure, life expectancy, accelerated ageing, updated errors, decoder, stress conditions.

@@ -1,0 +1,3 @@
+﻿Tsunami flood damages assessment in Cuddalore district using remote sensing technology
+This study is an attempt to identify the damages area of cuddalore district due to tsunami. Remote sensing technology has been applied in the study of structural damages in the coastal belt of the district. East coast is worstly affected due to Tsunami of 26th December 2004 and several changes along the coast happened In this study, the main focus was to generate damage mapping to measure the extent of the area prone to Tsunami. IRS-P6 LISS III data dated 17 April 2004 and 19 March 2005 with a resolution of 23.5 meters are processed to obtain the preand post-tsunami conditions along the coastal zone
+C. Pandiammal, J. Senthi and P. H. Anand

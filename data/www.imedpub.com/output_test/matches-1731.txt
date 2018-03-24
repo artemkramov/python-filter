@@ -1,0 +1,3 @@
+﻿Common fixed point theorem in M-Fuzzy metric space satisfying integral type contractive conditions
+Bhatia et.al [10] proved a theorem using common EA property which assures the existence of a fixed point for four weak compatible mappings in the framework of fuzzy metric space. Motivated by this, we prove a common fixed point theorem using common E.A. property for three pairs of weakly compatible mapping satisfying integral type contractive conditions in M-fuzzy metric space. An example is also given in the support of the theorem.
+Surjeet Singh Chauhan (Gonder)

@@ -1,0 +1,6 @@
+﻿Simulated optical properties of stratified material and comparison to LHMS
+A stratified media is a multilayer constituted of alternative layers of two isotropic, homogenous materials with different thickness and refractive index. The theory is developed to simulate the angle dependence of the intensity of reflected light incorporating the effect of polarized light on the existing theory of multi layer reflection. The new results thus obtained compared with that from experiment. The simulated angular distribution of intensity shows close resemblances with that of the type II or III Left Handed Maxwellian System. The obtained reflection profile is good agreement with the experimental result. It is also found that the position of “anti-Brewster angle” shifts with the change of the property of the constituting layers.
+Aditi Sarkar, Arnab Gangopadhyayand A. Sarkar
+simulated-optical-properties-of-stratified-material-and-comparison-to-lhms.pdf" title="Simulated optical properties of stratified material and comparison to LHMS
+simulated-optical-properties-of-stratified-material-and-comparison-to-lhms-13289
+simulated-optical-properties-of-stratified-material-and-comparison-to-lhms

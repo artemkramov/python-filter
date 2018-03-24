@@ -1,0 +1,4 @@
+Using of Quadratic Interpolation for Shading of Three-Dimensional Graphic Objects
+Romanjuk A.N.
+Problems of using quadratic interpolation for shading of three-dimensional graphic objects are con-sidered. Two new approaches of shading are offered. According to the first one the intensities of color in final and middle dots of rasterization line are calculated and the all intermediate are defined by using quadratic interpolation. The essential difference of the second approach is that instead of intensities of color the normal vectors are defined, which later on are used for calculating diffuse and specular color component. Tabl.: 1. Fig.: 3. Refs: 4 titles.
+shading, rendering, normalization of normal vectors.

@@ -1,0 +1,4 @@
+Solution of the Inverse Task of Chaotic Dynamics as the Most Effective Method of the Analysis of an Open Key Cryptography System
+Kostenko P.Yu., Antonov A.V., Sivaschenko S.I.
+The approach to providing security of information in computer systems and networks based on chaotic systems is considered. The open key cryptography system, which functions as a chaotic dynamic system, is proposed. It is shown that the most effective method of a cryptanalysis of the offered system is based on a solution of the inverse task of chaotic dynamics and has exponential dependence of complexity on a key length. Refs: 17 titles.
+open key cryptography, chaotic dynamics, inverse task of chaotic dynamics, complexity of a cryptanalysis.

@@ -1,0 +1,4 @@
+﻿Energy integration of catalytic reforming unit (CRU) using pinch analysis
+Energy Integration of Catalytic Reforming Unit of Kaduna Refinery and Petrochemicals Company were carried out using Pinch Technology. Optimum minimum approach temperature of 20OC was used to determine the energy target. The pinch point temperature was found to be 278OC. The utilities targets for the minimum approach temperature were found to be 72711839.47 KJ/hr and 87105834.43 KJ/hr for hot and cold utilities respectively. Pinch analysis as an energy integration technique saves more energy and utilities cost than the traditional energy technique.
+Manase Auta, Mohammed Jibril and 3Ahmad. S. Abubakar
+energy-integration-of-catalytic-reforming-unit-cru-using-pinch-analysis.pdf" title="Energy integration of catalytic reforming unit (CRU) using pinch analysis

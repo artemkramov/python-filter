@@ -1,0 +1,6 @@
+﻿Operational amplifier and its measurement system for input bias-offset currents
+In this paper, we present a report on a very simple microprocessor (μP) -based dedicated instrument which is designed for the measurement of the input bias and input offset currents. The overall system design consists of both hardware and software designs. The designed and constructed system is used in obtaining very accurate values of input bias and input offset currents on the μP control-display panel, one after the other, when the operational amplifier (OP- AMP) under test is connected across the test terminals. The input bias and input offset currents of an OP-AMP depend not only on the ambient temperature but also on the input impedance.
+G. A. Ibitola, O. E. Ehinlafa and L. O. Imafidon
+operational-amplifier-and-its-measurement-system-for-inputbiasoffset-currents.pdf" title="Operational amplifier and its measurement system for inputbias-offset currents
+operational-amplifier-and-its-measurement-system-for-inputrnbiasoffset-currents-16354
+operational-amplifier-and-its-measurement-system-for-inputbiasoffset-currents

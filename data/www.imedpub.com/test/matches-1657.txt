@@ -1,0 +1,6 @@
+﻿Determining the potential field within a square transformer
+This paper deals with determining a field of stationary potential in a transformer with square plane section, with a side measuring 4 and divided at the center by a square which side measures 2. The problem consists in solving a Laplace equation with conditions on Dirichlet’s boundaries that we solve using the method of large singular finite elements method (LSFEM). Then, we compare the values of the solutionu and those of its first derivatives with those obtained using the finite element method (FEM). Both methods provide results that align everywhere except near singularities where there are very significant gaps.
+Ouigou M. Zongo, Sié Kam, Tassembedo Sosthène, Kounhinir Some, Kalifa Palm and Alioune Ouedraogo
+determining-the-potential-field-within-a-square-transformer.pdf" title="Determining the potential field within a square transformer
+determining-the-potential-field-within-a-square-transformer-17065
+determining-the-potential-field-within-a-square-transformer

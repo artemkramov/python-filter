@@ -1,0 +1,3 @@
+﻿Determination of the Dielectric Constants of Carbonated Polypropylene
+In this study, we investigated the dielectric constant of carbonated polymer using inductive capacitance resonance circuit. We considered Polypropylene. The result revealed that the dielectric constant of the polymer decreased at the increase in carbon weight. The dielectric constant for polypropylene was 0.1483-0.0700 as the percentage carbon increased from 0% to 75%. This showed that charcoal as a dielectric material can affect the storage properties of polymer materials
+Okoye Victoria C. and Okpala Uchechukwu V.

@@ -1,0 +1,3 @@
+﻿A Mathematical study of Two Species Amensalism Model With a Cover for the first Species by Homotopy Analysis Method
+The present paper is devoted to an analytical investigation of a two species amensalism model with a partial cover for the first species to protect it from the second species. The series solution of the non-linear system was approximated by the Homotopy analysis method (HAM) and the solutions are supported by numerical examples.
+B. Sita Rambabu, K. L. Narayan and Shahanaz Bathul

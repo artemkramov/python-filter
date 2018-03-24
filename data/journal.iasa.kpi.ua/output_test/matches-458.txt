@@ -1,0 +1,2 @@
+Functional sequences and Taylor series with a fuzzy complex number as an argument
+Igor Ya. Spectorsky

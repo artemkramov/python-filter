@@ -1,0 +1,4 @@
+Structural Image Recognition on the Basis of Models of Attributes Voting of Characteristic Points
+Gorohovatsky V.A., Putyatin E.P.
+Questions of intellectual information processing in computer vision systems are considered. Meth-ods of structural image recognition based on the voting models are investigated. Formalization of the recognition problem is performed, approaches for construction of hierarchical decisions and a function of conformity to a class are offered, results of computer modeling are discussed. Tabl.: 1. Fig. 3, Refs: 10 titles.
+computer vision, image recognition, characteristic points, function of conformity, local and global decisions, relations, voting.

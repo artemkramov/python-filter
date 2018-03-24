@@ -1,0 +1,6 @@
+﻿Thickness-dependent structural properties of chemically deposited Bi2S3 thin films
+Thin films of Bi2S3 have been prepared by chemical bath deposition method using Bismuth nitrate and Sodium thiosulphate. Films were deposited onto well cleaned glass substrates with different bath temperatures. The effect of bath temperature on thickness was studied. The thickness goes on increasing with bath temperature reaches to maximum at 600C and decreases further increases in temperature after 600C. The good quality of film is obtained at 600C. The X-ray diffraction pattern revealed that bismuth sulphide thin films exhibit orthorhombic structure with polycrystalline in nature. The structural parameters (grain size 25-358Å, dislocation density 0.7789-159.57X1015 l/m2 and strain (ε) 14.61-1.027X10-3) have been calculated. Grain size increases with film thickness but the strain and dislocation density decreases. The films are oriented in (330) direction.
+V. Balasubramanian, N. Suriyanarayanan, S. Prabahar
+thicknessdependent-structural-properties-of-chemically-depositedbi2s3-thin-films.pdf" title="Thickness-dependent structural properties of chemically depositedBi2S3 thin films
+thicknessdependent-structural-properties-of-chemically-depositedrnbi2s3-thin-films-16483
+thicknessdependent-structural-properties-of-chemically-depositedbi2s3-thin-films

@@ -1,0 +1,6 @@
+﻿Third order anharmonicity in NaCN
+Sodium Cyanide crystal shows many interesting properties which arise from the molecular character of the CN ion group. Higher order elastic constants of Sodium Cyanide crystal in orientationally disordered crystalline (ODIC) phase have been evaluated by a method based on Börn model of ionic solids. NaCN exhibit NaCl-type face centered cubic crystal structure above critical temperature 288K. Starting from the nearest neighbor distance and hardness parameter the second and third order elastic constants of NaCN have been computed at elevated temperatures (up to the nearest melting point).The computed values of higher order elastic constants have been used to calculate anharmonic property related other constants like first order pressure derivatives of third order elastic constants
+A. K. Choudhary and Kailash
+third-order-anharmonicity-in-nacn.pdf" title="Third order anharmonicity in NaCN
+third-order-anharmonicity-in-nacn-15150
+third-order-anharmonicity-in-nacn

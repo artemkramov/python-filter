@@ -1,0 +1,3 @@
+﻿Flow of a Casson Fluid Through an Inclined Tube of Non-uniform Cross Section with Multiple Stenoses
+A mathematical model is developed to study the steady flow of Casson fluid through an inclined tube of non-uniform cross section with multiple stenoses. Using appropriate boundary conditions, analytical expressions for the velocity, the volumetric flow rate and the flow resistance have been derived. These expressions are computed numerically and the computational results are presented graphically
+S. Sreenadh, A. Raga Pallavi and Bh.Satyanarayana

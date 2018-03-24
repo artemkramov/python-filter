@@ -1,0 +1,6 @@
+﻿Bi-objective scheduling on parallel machines with uncertain processing time
+In this paper we consider bi-criteria scheduling problem on parallel machines which optimizes the number of tardy jobs with the condition of primary criterion of Tmax remains optimized. The processing times of jobs are uncertain that is not known exactly and only estimated values are given. This leads to the use of fuzzy numbers for representing these imprecise values. Here, we use triangular fuzzy numbers to describe the processing times. The membership functions of fuzzy processing times denote the grades of satisfaction with respect to completion times with jobs. The objective of the paper is to develop an algorithm for the bi-objective problem which optimizes the number of tardy jobs without violating the value of Tmax. A numerical example demonstrates the computational process of the projected algorithm
+Deepak Gupta, Sameer Sharma and Shefali Aggarwal
+biobjective-scheduling-on-parallel-machines-with-uncertainprocessing-time.pdf" title="Bi-objective scheduling on parallel machines with uncertainprocessing time
+biobjective-scheduling-on-parallel-machines-with-uncertainrnprocessing-time-16088
+biobjective-scheduling-on-parallel-machines-with-uncertainprocessing-time

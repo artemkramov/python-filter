@@ -1,0 +1,3 @@
+﻿On some fixed point theorems in complete 2-metric spaces
+In the present paper we prove some common fixed theorems for four self mappings in complete 2- metric spaces. This theorem is a version of many fixed point theorems in complete metric spaces, given by many authors announced in the literature
+Rajendra Kumar Dubey, Rajesh Shrivastava and Pankaj Tiwari

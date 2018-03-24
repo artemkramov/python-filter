@@ -1,0 +1,3 @@
+﻿Thermal behavior of semiconductor bismuth iodide [BiI3] crystals grown by silica gel
+The Bismuth Iodide [BiI3] crystals have been grown in Sodium Meta silicate gel using the single diffusion method at room temperature. The grown crystals were characterized by thermo analytical techniques (TGA, DTA, DTG and DSC), X-ray powder diffraction (XRD), By powder X-ray diffraction analysis the crystal structure is confirmed to be Hexagonal, having lattice parameters a = 9.766 A° , b = 9.360 A° , and c = 17.875 A° . Thermal study reveals that Bismuth Iodide crystal is Un-hydrous. TGA, DTA, DTG and DSC analysis shows a remarkable thermal stability
+T. K. Patil

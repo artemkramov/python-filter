@@ -1,0 +1,3 @@
+﻿Estimation of nano sized spherical cavity using extended scaled particle theory for Lennard-Jones fluid
+In this paper extended scaled particle approach has used to compute thermodynamic behavior of real fluid. In order to predicts closeness of values computed for ultrasonic wave velocity, thermodynamic molar volume and volume expansion coefficient simultaneously, needs an assumptions like multiple of molecular weight along with ratio of specific heat closer to unity, in liquid state. From the profile of the individual liquids the results are discussed in terms of hard sphere cavity diameter and depth of minimum potential (binding energy) at fixed temperature (liquid state).
+S. B. Khasare, J. N. Ramteke and Shashank S. Khasare

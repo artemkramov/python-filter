@@ -1,0 +1,4 @@
+Technology of Simulation Modeling of Control Systems for Probabilistic Processes of Manu-facture
+Smorodin V.S.
+Features of control systems for probabilistic processes of manufacture are considered, urgency of imitating modeling of such objects of research is determined. The formal model of management for probabilistic technological processes of manufacture is offered. On the basis of the account of features of components interactions of such control systems the library of imitating models of process management elements is offered. The technology of using a modeling automation system for technological manufacture processes is presented. Fig.: 2. Refs.: 7 titles.
+control systems, probabilistic technological processes, modeling automation system.

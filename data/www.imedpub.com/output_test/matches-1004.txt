@@ -1,0 +1,3 @@
+﻿Measurement of the Antioxidant Capacity of Forage Using the Amount of Superoxide Radical in Ruminal Fluid
+The present work shows that the concentration of the superoxide radical is a useful indicator to know the behavior as antioxidant of forages in ruminal fluid. This study consisted of adding increasing concentrations of reductant compound to aerated dimethylsulfoxide solution supplemented with rumen fluid (1%, v/v). The cyclic voltammograms of these solutions show a diminished anodic peak corresponding to the oxidation of superoxide radical (O2-). Through this decrease, it is possible to classify the forage materials according to their potentiality as antioxidants.
+Alejandro Pidello

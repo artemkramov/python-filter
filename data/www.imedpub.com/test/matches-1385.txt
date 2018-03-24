@@ -1,0 +1,6 @@
+﻿Markov chain model to study the gene expression
+This paper presents an approach for study of gene expressions based on Markov chain theory. A mathematical model has been proposed to study the transcription of DNA into mRNA and translation of mRNA into Proteins. It is assumed that the DNA, mRNA and Proteins are states in the model and initial state of the system is known. Based on the initial state, the successive states (without state feedback) are predicted using probabilities. The model is used to predict the final state Proteins of the system. The model is illustrated with the help of data set of asparagus maritimus RpoA gene, Accession: EU051382.1 and unidentified retrovirus gene, Accession: BD432460
+Amit Sharma and Neeru Adlakha
+markov-chain-model-to-study-the-gene-expression.pdf" title="Markov chain model to study the gene expression
+markov-chain-model-to-study-the-gene-expression-14138
+markov-chain-model-to-study-the-gene-expression

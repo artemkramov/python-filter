@@ -1,0 +1,3 @@
+﻿Mass transfer effects on MHD mixed convective flow from a vertical surface with ohmic heating and viscous dissipation
+The effects of mass transfer on MHD mixed convection flow past an infinite vertical plate with Ohmic heating and viscous dissipation has been is discussed. Approximate solutions have been derived for the velocity, temperature field, concentration profiles, skin friction and Nusselt number using multi-parameter perturbation technique. The obtained results are discussed with the help of the graphs to observe the effect of various parameters like Schmidt number (Sc), Prandtl number (Pr), Magnetic parameter (M), radiation parameter (F) and porosity parameter (K).
+V. Sri Hari Babu and G. V. Ramana Reddy

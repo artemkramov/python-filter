@@ -1,0 +1,4 @@
+﻿Electronics Characterization of Al and Co doped Lithium Cermagnet
+A new compound of Lithium hexaferrites with general chemical formula Li0.5Fe0.5+xAl12-2xCoxO19 where x = 2, 3, 4, 5 and 6, were synthesized by standard ceramic technique using stoichiometric proportion. The lattice parameters of the multicrystalline materials have been determined and characterized by X-ray diffraction technique (XRD). From XRD data shows the formation of samples of a single phase hexagonal M-type ferrites with a space group P63/mmc (194). The electrical conduction was carried out over the temperature range from 270C- 8000 C. The electrical conduction in the ferrites was explained on the basis of Vervway models. A Seebeck study reveals that all samples are N-type semiconductors.
+Suresh. S. Darokar
+electronics-characterization-of-al-and-co-doped-lithium-cermagnet.pdf" title="Electronics Characterization of Al and Co doped Lithium Cermagnet

@@ -1,0 +1,6 @@
+﻿Determination of biochemical oxygen demand by adaptive neuro fuzzy inference system
+The industrial wastes are mainly consists of inorganic compounds, organic compounds and non-biodegradable substances which changes the biological and chemical properties of soil and water permanently. Textile industry processes are mainly based on chemical reactions in liquid medium. Its effluent creates a serious water pollution and enhance the value of Biological Oxygen Demand (BOD). The BOD is one of major physico-chemical parameter is used to found the quality of effluent. The main objective of this study is to compare between the predictive ability of statistical model and Adaptive Neuro Fuzzy Inference System model (ANFIS) to estimate Biological Oxygen Demand using four parameters of effluent namely pH, Total Suspended Solids (TSS), Sulphate (SO4), and Chloride (Cl2)in Textile industry as input of model
+S. Akilandeswari and B. Kavitha
+determination-of-biochemical-oxygen-demand-by-adaptive-neuro-fuzzyinference-system.pdf" title="Determination of biochemical oxygen demand by adaptive neuro fuzzyinference system
+determination-of-biochemical-oxygen-demand-by-adaptive-neuro-fuzzyrninference-system-14670
+determination-of-biochemical-oxygen-demand-by-adaptive-neuro-fuzzyinference-system

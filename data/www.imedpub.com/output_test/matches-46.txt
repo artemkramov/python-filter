@@ -1,0 +1,3 @@
+﻿Study of spray deposited titanium dioxide films
+The titanium dioxide films have been obtained by spray pyrolysis technique on to the glass substrates kept at different temperature (300- 4000C) .The conditions have been optimized to obtain quality films. Films so obtained have been characterized for their structure through x-ray diffractograms. Optical absorption studies of the films have been made through UV-Visible spectroscopy in the spectral range 300 -1100 nm. Effect of substrate temperature on the structure and optical properties of these films has been studied. Results indicate that the films so obtained are promising candidates for solar cells.
+Rajesh Kumara, Navjeet Sharmab and Narinder Arora

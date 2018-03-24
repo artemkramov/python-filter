@@ -2,7 +2,7 @@ import FileParser as fp
 from sklearn.externals import joblib
 from sklearn import svm
 
-parsers = [fp.FileParserIPRI(), fp.FileParserBulletinEconomical(), fp.FileParserVisnykGeo()]
+parsers = [fp.FileParserIASA(), fp.FileParserIPRI(), fp.FileParserScholarPublish(), fp.FileParserBulletinEconomical()]
 
 training_vectors = []
 training_output = []

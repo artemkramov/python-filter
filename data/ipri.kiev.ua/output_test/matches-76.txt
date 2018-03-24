@@ -1,0 +1,4 @@
+Classes of Mappings with Trivial Linear Structure Over a Finite Field
+Aleksejchuk А.N., Skrynnyk E.V.
+Important for cryptographic applications conditions that allow simple examination and at which mapping over a finite field has a trivial linear structure, are obtained. Refs: 14 titles.
+cryptographical information security, linear structure of a discrete mapping, finite field.

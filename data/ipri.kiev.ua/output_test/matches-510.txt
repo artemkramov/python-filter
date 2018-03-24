@@ -1,0 +1,4 @@
+LSF-Vocoder Based on the Vector Quantization
+Tkachenko О.M., Bilichenko N.О., Feferman O.D., Khruschak S.V.
+LSF vocoder model with vector parameters quantization is investigated. Different methods of LSF vector division using spectral distortion measure of a coded signal are compared. Tabl.: 2. Fig.: 2. Refs.: 7 titles.
+speech coding, vocoder, LSF, LPC, vector quantization, spectral distortion, weighed Euclidean distance.

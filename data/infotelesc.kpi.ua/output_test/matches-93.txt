@@ -1,0 +1,3 @@
+SMART GRID AS INTEGRATION TECHNOLOGY FOR ENERGY SUPPLY AND TELECOMMUNICATION NETWORKS
+Andriy Luntovskyy, Prof. Dr. Habil
+Our high-tech XXI century is, in particular, the century of “small power supply systems” due to the use of advanced information&nbsp;and communication technologies in energy networks. Creation of combined systems called Smart Grid opens great prospects&nbsp;for the development of both of these industries (energy and IT) and is intended to provide a synergetic effect. This paper&nbsp;examines existing models of Smart Grid, the suitable basic networking technologies, as well as typical usage scenarios for integrated&nbsp;intelligent networks.</p>

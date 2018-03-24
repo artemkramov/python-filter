@@ -1,0 +1,4 @@
+Information-Analytical Technologies in the Sphere of the Financial Control State Budget
+Dodonov O.G., Senchenko V.R., Gagarin O.O.
+Main features of using information-analytical technologies in the sphere of the financial control of the state budget are considered. The methods of building domain models for financial control of the state budget are offered. The domain model is based on the multivariate data model. Using this model allowed to build the kernel of the modern information-analytical system with sufficient granularity. Tabl.: 1. Fig.: 4. Refs: 8 titles.
+information-analytical technologies, macroeconomic indicators, domain model, information resources, data bank, database.

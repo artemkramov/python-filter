@@ -1,0 +1,3 @@
+In this study, we have employed the Interacting Boson Model-2 (IBM-2) to determine the most appropriate Hamiltonian for the study of tellurium nuclei. Using the best fit values of parameters to construct the Hamiltonian, we have estimated energy levels and electromagnetic transitions (B(E2), B(M1)), multipole mixing ratios (δ(E2/M1)) for some doubly-even Te nuclei and monopole transition probability. The results are compared with previous experimental and theoretical data and it is observed t hat they are in good agreement
+Saad N. Abood and Laith A. Najim
+interacting-boson-model-ibm2-calculations-of-selected-eveneven-te-nuclei.pdf" title="Interacting boson model (IBM-2) calculations of selected even-even Te nuclei

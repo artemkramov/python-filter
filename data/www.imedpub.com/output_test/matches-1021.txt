@@ -1,0 +1,3 @@
+﻿On para-Kenmotsu manifolds satisfying certain conditions on the curvature tensors
+The objective of this paper is to study certain properties of para-Kenmotsu manifolds satisfying the conditions R(X ,Y).R = 0 , R(X ,Y).S = 0 and P(X ,Y).S = 0 where R(X, Y) is the Riemannian curvature tensor, S(X, Y) is the Ricci curvature tensor and P(X, Y) is the Weyl projective curvature tensor. It is shown that a p -Kenmotsu manifold satisfying the conditions R(X ,Y).R = 0 is flat, and R(X ,Y).S = 0 is an Einstein manifold. Finally, we also proved that if a p -Kenmotsu manifold satisfies the condition P(X ,Y).S = 0 , then the structure vector x is normal to the tangent space of the manifold.
+K. L. Sai Prasad and T. Satyanarayana

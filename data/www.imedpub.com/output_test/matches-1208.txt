@@ -1,0 +1,4 @@
+﻿Analysis of temperature based radiation models for Nsukka
+Four temperature-based models have been used to analyze global solar radiation for Nsukka. The statistical parameters used for the analysis were the root mean square error (RMSE), the modeling efficiency (ME) and the Coefficient of residual mass (CRM). The analysis of the models shows that the Allen and the Annandela et al., models are adequate for estimating global solar radiation in Nsukka. This implies that the values of the estimated global solar radiation obtained from these models can be used for designing solar systems and for research purposes for Nsukka
+John F. Wansah, Alice E. Udounwa, Aondoever U. Mee and Joseph B. Emah
+analysis-of-temperature-based-radiation-models-for-nsukka.pdf" title="Analysis of temperature based radiation models for Nsukka

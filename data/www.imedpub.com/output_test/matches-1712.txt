@@ -1,0 +1,3 @@
+﻿Effect of thermal radiation on unsteady convective heat transfer flow of a rotating nano-fluid past a vertical plate
+In this paper we investigate the effect of thermal radiation and oscillatory temperature on unsteady convective heat transfer flow of a nanofluid past a vertical plate in the presence of heat generating sources. Analytical closed form solutions are obtained for both the momentum and the energy equations using the regular perturbation method. Graphs are used to illustrate the significance of key parameters on the nanofluid velocity and temperature distributions.
+K. Sree Ranga Vani and D. R. V. Prasada Rao

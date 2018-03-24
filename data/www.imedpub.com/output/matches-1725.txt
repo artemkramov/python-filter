@@ -1,0 +1,6 @@
+﻿The successive over relaxation method in multi-layer grid refinement scheme
+The successive over-relaxation (SOR) method has been widely used as an iterative method to solve large sparse linear system. When solving a partial differential equation over a rectangular domain with Dirichlet boundary conditions, the multi-layer grid refinement method can be used to generate the linear system, with higher efficiency than uniform grid theme. In this paper, we will study the SOR method in the multi-layer grid refinement scheme. A heuristic estimation for the optimal parameter of the SOR method is given and numerical experiments are carried out to verify the estimation in this scheme
+Tsun-Zee Mai and Leina Wu
+the-successive-over-relaxation-method-in-multilayer-grid-refinement-scheme.pdf" title="The successive over relaxation method in multi-layer grid refinement scheme
+the-successive-over-relaxation-method-in-multilayer-grid-refinement-scheme-14871
+the-successive-over-relaxation-method-in-multilayer-grid-refinement-scheme

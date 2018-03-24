@@ -1,0 +1,3 @@
+﻿Encircled Energy Factor as a Point-Image Quality-Assessment Parameter
+Encircled Energy Factor (EEF) is an important corollary of the Point Spread Function (PSF) of an optical system. In the present paper, we have studied the Encircled Energy Factor and other associated corollaries of the PSF,viz. Displaced Energy in order to understand their role as point-image quality assessment parameters
+Alety. Srisailam, Vendavetla. Dharmaiah, Ramanamurthy M.V and Pranab Kumar Mondal.

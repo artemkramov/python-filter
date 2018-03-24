@@ -1,0 +1,3 @@
+﻿Common fixed point theorem in complete metric space
+The purpose of this article is to prove some common fixed point theorem in complete metric space by using rational type contractive conditions. Our aim of this article is to generalized the results of Jaggi [5 ] and Jaggi and Das [6].
+Rajesh Shrivastava, Rajendra Kumar Dubey and Pankaj Tiwari

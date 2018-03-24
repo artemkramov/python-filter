@@ -1,0 +1,4 @@
+Modified Relative Criterion Weight Calculation Methods Based on Ordinal Estimates
+Kadenko S.V.
+A modified relative criterion weight calculation method based on ordinal estimates is described. The method modification is aimed at weight calculation based on several precedents. Such issues as the method’s convergence and precision are also addressed. The problem statement, the description of each algorithm step and results of its testing, as well as examples and tables illustrating the work of the speci-fied method are included. Tabl.: 3. Fig.: 3. Refs.: 7 titles.
+decision-making, ordinal estimates, ranking, relative weight coefficient, learning algorithm, Kemeni distance.

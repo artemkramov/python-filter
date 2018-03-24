@@ -1,0 +1,6 @@
+﻿Application of Octonions in the Cough Sounds Classification
+Artificial neural networks (ANN) have become the standard for computer classification of various digital patterns. However, the training process of ANN can be time consuming and there are several problems that need to addressed, such as local minima. Octonionic neural networks represent computational models with input, output and weights expressed in the form of 8-dimensional numbers. Octonion multiplication has several special properties, including non-commutativity and non-associativity. We assume that the mentioned special properties are useful in the process of modeling the time dependency of sequence of successive parameters in a time stream with direct implementation of octonion multiplication. Based on this assumption we propose new activation functions “ReLU” and “majority base” for octonionic neurons.
+Peter Klco, Milan Smetana, Marian Kollarik and Milos Tatar
+application-of-octonions-in-the-cough-sounds-classification.pdf" title="Application of Octonions in the Cough Sounds Classification
+application-of-octonions-in-the-cough-sounds-classification-19432
+application-of-octonions-in-the-cough-sounds-classification

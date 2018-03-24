@@ -1,0 +1,4 @@
+Data Recovery from Hard Disks with Spindle Motor Seizure
+Kozhenevsky S.R.
+The technology for data recovery from hard disks w?th sp?ndle motor se?zure, design features of spindle motors and spindle motor controllers of modern hard disk drives are offered. Their operation in different motor modes is analyzed. Spindle motor control circuit that provides the capability of flexible adjustment of motor speed is proposed. Designed on its base controller can be used in systems for magnetic recording analysis and data recovery that use direct access to HDD platters. Design of equipment that allows to fix the spindle motor plates position and provide their alignment relative to spindle is proposed. Tabl.: 1. Fig.: 7. Refs: 4 titles.
+spindle motor, alignment, platters, controller, rotating speed stability, PWM, SmoothDrive technology, hard disk drive, rotor.

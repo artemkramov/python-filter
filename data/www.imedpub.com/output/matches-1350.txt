@@ -1,0 +1,6 @@
+﻿Effect of slip on peristaltic pumping of a hyperbolic tangent fluid in an inclined asymmetric channel
+The present paper deals with the study of the effect of slip on peristaltic flow of a Hyperbolic Tangent fluid in an inclined asymmetric channel under long wavelength and low Reynolds number assumptions. The non linear governing equations are solved using the regular perturbation method. Analysis has been carried out in the presence of velocity and slip conditions. Expressions for stream function, pressure gradient and pressure rise coefficients are derived. The effect of various parameters on the pumping phenomenon is discussed with the help of graphs
+Y. V. K. Ravi Kumar, P. Vinod Kumar and Shahnaz Bathul
+effect-of-slip-on-peristaltic-pumping-of-a-hyperbolic-tangent-fluid-inan-inclined-asymmetric-channel.pdf" title="Effect of slip on peristaltic pumping of a hyperbolic tangent fluid inan inclined asymmetric channel
+effect-of-slip-on-peristaltic-pumping-of-a-hyperbolic-tangent-fluid-inrnan-inclined-asymmetric-channel-14173
+effect-of-slip-on-peristaltic-pumping-of-a-hyperbolic-tangent-fluid-inan-inclined-asymmetric-channel

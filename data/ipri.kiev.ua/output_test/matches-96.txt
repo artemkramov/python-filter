@@ -1,0 +1,4 @@
+Principles of Constructing Digital Filters with Hypercomplex Coefficients
+Kalinovskyi Y.O., Fedorenko O.V.
+Construction of transfer function of digital filter with hypercomplex coefficients is considered. A method that allows to reduce a number of operations, which are necessary for operation of digital filters with hypercomplex coefficients, is offered. Comparing of operations number, which are necessary for operation of digital filters with hypercomplex coefficients is done both before and after use of this method. Tabl.: 1. Refs: 5 titles.
+digital filters, hypercomplex numerical systems, transfer function, computational complexity.

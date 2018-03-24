@@ -1,0 +1,4 @@
+Formation of Relief Microstructures on Silicon Substrates
+Kossko I.A., Kryuchin A.A., Pankratovf A.V., Sereda L.D., Sereda I.V.
+An opportunity of obtaining relief microstructures on silicon substrates is considered. It is shown that obtained relief microstructures can be used for recording, replication and information storage both in digital and analog form. For obtaining microstructures an electron-beam lithography technique is used. Fig.: 4. Refs: 12 titles.
+relief microstructures, electron-beam lithography, chemical etching.

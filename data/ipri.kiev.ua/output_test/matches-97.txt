@@ -1,0 +1,4 @@
+Optimization of Visible Information Receiving and Processing
+Pilkevych I.A.
+To increase processing efficiency of the visible information received through the space sounding of Earth it is suggested to apply the optimal radar signal weight processing. A circuit design of the selfbalancing potentiometer, the basic element of which is spatial-velocity model of a body-distributed object is developed. The efficiency evaluation of the developed spatial-temporal self- balancing potentiometer is carried out. Fig.: 3. Refs: 12 titles.
+space sounding of Earth, space debris, radar signal optimal processing.

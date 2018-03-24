@@ -1,0 +1,5 @@
+Fast Search at Vector Quantization of Linear Spectral Frequencies
+Bilichenko N.O., Tkachenko O.M., Feferman O.D., Hruschak S.V.
+Method of fast search of vectors in a codebook based on the vectors majorization is proposed. The mathematic model and codebooks structuring algorithm based on the majorization are developed. Results of the experimental research of the proposed method are given. Tabl.: 4. Fig.: 4. Refs.: 7 titles.
+language coding, majorization, LSF, vector quantization, codebook, spectral distortion.
+VNTU.doc

@@ -1,0 +1,6 @@
+﻿Detection of Dengue risk areas of Nagapattinam district using Geo spatial technology
+This study is an attempt to identify the dengue risk areas (Taluk wise) of Nagapattinam district. Geographic information system (GIS) has been applied in the study of dengue fever in Nagapattinam district with the help of generated risk values (1, 2, 3, 4, and 5) and risk types (very low, low, medium, high and very high) for the variables registered dengue cases in 2012 and 2013, total population, house infested, container positive, primary health and sub-centres, rainfall (2012 and 2013), minimum and maximum temperature during 2012 and 2013, water stagnation areas in square kilometre and total risk. The present research investigates the epidemiology, ecology and prevalence of dengue in Nagapattinam district.
+S. Rajeswari, K. Indhira, J. Senthil, S. Vadivel and P. H. Anand
+detection-of-dengue-risk-areas-of-nagapattinam-district-using-geospatial-technology.pdf" title="Detection of Dengue risk areas of Nagapattinam district using Geospatial technology
+detection-of-dengue-risk-areas-of-nagapattinam-district-using-geornspatial-technology-13417
+detection-of-dengue-risk-areas-of-nagapattinam-district-using-geospatial-technology

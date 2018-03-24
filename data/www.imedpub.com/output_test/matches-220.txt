@@ -1,0 +1,3 @@
+﻿A Computational study of Bingham plastic flow of Blood through an artery by multiple stenoses and post dilatation
+The present paper deals with fully developed one dimensional Bingham plastic flow of blood through a small artery having multiple stenoses and post-stenotic dilatation. We have determined the resistance- to flow -ratio for yield stresses 0, .02, .04 n/m2, blood viscosities 0.00345, 0.004, 0.00455 Pa.s and fluxes 1, 10, 100. The resistance- to - flow moves nearer to unity as yield stress increases and flux decreases. Variation in viscosities shows no significant change in Resistance –to-flow ratio. The degree of these changes is maximum for yield stress and slightest for flux. The results are discussed numerically and graphically
+A. K. Singh and D. P. Singh

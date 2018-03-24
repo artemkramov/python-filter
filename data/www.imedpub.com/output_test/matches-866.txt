@@ -1,0 +1,3 @@
+﻿Comparative studies of band gaps of doped Lead Iodide thin films
+The Lead Iodide crystals have been grown by gel technique. Various dopants of different concentrations doped in Lead Iodide crystals. Thin films of various thickness of differenent doped and undoped gel grown Lead Iodide successfully prepared by thermal evaporation technique. Optical properties have been studied by transmittance and reflectance. The band gap of various thin films of different dopants have been calculated, compared and reported. It is found that the band gap varies with the dopant concentrations and thickness of the films.
+D. S. Bhavsar

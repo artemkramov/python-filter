@@ -1,0 +1,6 @@
+﻿Modeling of compaction process of metallic powders using dimensionless analysis and singular value decomposition
+A novel approach of modeling using input-output experimental data pairs is presented for compaction energy and compact density percentage of powder. In this way, singular value decomposition (SVD) method is used in conjunction with dimensionless parameters incorporated in such complex process. The obtained model shows very good agreement with the testing experimental data pairs which have been unforeseen during the training process. The approach of this paper can be generally applied to model very complex real-world processes using appropriate experimental data.
+H. Garehbabaee
+modeling-of-compaction-process-of-metallic-powders-using-dimensionlessanalysis-and-singular-value-decomposition.pdf" title="Modeling of compaction process of metallic powders using dimensionlessanalysis and singular value decomposition
+modeling-of-compaction-process-of-metallic-powders-using-dimensionlessrnanalysis-and-singular-value-decomposition-15363
+modeling-of-compaction-process-of-metallic-powders-using-dimensionlessanalysis-and-singular-value-decomposition

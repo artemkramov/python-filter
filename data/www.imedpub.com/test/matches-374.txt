@@ -1,0 +1,6 @@
+﻿Design and simulation of process control using a PID controller by COMSOL multiphysics
+PID control (proportional-integral-derivative-control) is one way to control a specific process, but it can be difficult to optimize the parameters in the PID algorithm. In this paper, we have design and simulated PID Controller module by using COMSOL Multiphysics 4.2a.
+Srinivasa Rao Karumuri, P. Sri Sairam and Y Srinivas
+design-and-simulation-of-process-control-using-a-pid-controller-by-comsolmultiphysics.pdf" title="Design and simulation of process control using a PID controller by COMSOLmultiphysics
+design-and-simulation-of-process-control-using-a-pid-controller-by-comsolrnmultiphysics-16368
+design-and-simulation-of-process-control-using-a-pid-controller-by-comsolmultiphysics

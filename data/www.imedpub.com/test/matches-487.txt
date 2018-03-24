@@ -1,0 +1,6 @@
+﻿Behaviour of distributional generalized Fourier Kontorovich- Lebedev Transform
+This paper deals with the distributional generalized Fourier-Kontorovich-Lebedev transform, transform of distributional function in dual space of W a, b, a FKF i.e. W , ,a ' a b FKF . We have discussed some properties of transform. In this paper we have also extended the properties for analytic behaviour on transform and discussed the results for different dimensions.
+Padmaja A. Gulhane
+behaviour-of-distributional-generalized-fourier-kontorovichlebedev-transform.pdf" title="Behaviour of distributional generalized Fourier Kontorovich-Lebedev Transform
+behaviour-of-distributional-generalized-fourier-kontorovichrnlebedev-transform-16355
+behaviour-of-distributional-generalized-fourier-kontorovichlebedev-transform

@@ -1,0 +1,4 @@
+The Method of Alternative’s Weights Calculation Based on Group Experts’ Pair-Compa-risons Results
+Tsyganok V.V.
+The method that allows making a calculation of averaged weights of estimated objects (alternatives) based on expert information, namely pair-comparisons matrices, obtained from experts’ group, is proposed. The level of every expert’s competence in the question under consideration is taken into account. The method’s main characteristic parameters, obtained as a result of experimental investigation, are presented. The iterative way of the method’s implementation is considered. Tabl.: 2. Fig.: 1. Refs.: 3 titles.
+pair-wise comparisons, ideally consistent pair-wise comparisons matrix, group expert estimation methods

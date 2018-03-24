@@ -1,0 +1,6 @@
+﻿On Specially Structured Two Stage Flow Shop Scheduling Problem with Jobs In A String of Disjoint Job Blocks
+The present paper studies two stage specially structured flow shop scheduling problem with jobs in a string of disjoint job blocks in which processing times are associated with their respective probabilities, where the optimization criteria is the utilization time of machines. The objective is to minimize utilization time of machines for two the stage specially structured flow shop scheduling problem with jobs in a string of disjoint job blocks. The algorithm proposed in this paper is very simple and easy to understand and also provide an important tool for the decision maker. The algorithm is justified by a numerical illustration.
+Deepak Gupta, Shashi Bala and Pradeep Bishnoi
+on-specially-structured-two-stage-flow-shop-scheduling-problem-with-jobs-in-a-string-of-disjoint-job-blocks.pdf" title="On Specially Structured Two Stage Flow Shop Scheduling Problem with Jobs In A String of Disjoint Job Blocks
+on-specially-structured-two-stage-flow-shop-scheduling-problem-with-jobs-in-a-string-of-disjoint-job-blocks-17126
+on-specially-structured-two-stage-flow-shop-scheduling-problem-with-jobs-in-a-string-of-disjoint-job-blocks

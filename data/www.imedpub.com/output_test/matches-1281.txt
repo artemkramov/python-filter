@@ -1,0 +1,3 @@
+﻿A study of physico-chemical parameters of ground water of Aland Taluka Phulmari of Aurangabad district, Maharashtra
+The physico- chemical parameters such as pH, conductivity, TDS, Turbidity, Total Hardness, carbonate, bicarbonate, sulphates, nitrates, fluoride,, calcium, magnesium, sodium, potassium, iron etc were monitored continuously for two years (2009-2010) at Aland town near Phulambri District Aurangabad. A correlation matrix is constructed. A regression analysis shows good correlation between electrical conductance and TDS. All parameters were found to be below permissible limit
+B. R. Agarwal, Rashmi Pathrikar, Mohd Mohsin and Vidya Pradhan

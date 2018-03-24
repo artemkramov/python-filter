@@ -1,0 +1,3 @@
+﻿Simultaneous Sorption of Cd2+ and Phenol to CTMAB-CA Modified Bentonite from Aqueous Solutions
+CTMAB-CA-bentonite (hexadecyl trimethyl ammonium bromide-citric acid-bentonite) was synthesized by placing alkylammonium cation and organic chelating agents onto bentonite. The simultaneous adsorption of organic pollutant (phenol) and heavy metals (Cd2+) mixed contaminant on CTMAB-CA-bentonite was investigated. The CTMAB-CA-bentonite showed significant adsorption for the mixed contaminant from aqueouss solution. The Langmuir and Freundlich isotherm equations were applied to the data and values of parameters of these isotherm equations were evaluated
+Yin-Xia Sun, Xin-Ran Li, Ya-Yuan Zhao, Chun-Yu Li and Zong-Li Ren

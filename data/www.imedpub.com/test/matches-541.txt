@@ -1,0 +1,6 @@
+﻿Effect of rotation on thermosolutal convection in a compressible couple-stress fluid through porous medium
+The thermosolutal convection in a compressible couple-stress fluid layer heated and soluted from below through porous medium is considered in the presence of uniform rotation. Following the linearized stability theory and normal mode analysis, the dispersion relation is obtained. For stationary convection, the compressibility, stable solute gradient and rotation have stabilizing effect whereas medium permeability and couple-stress parameter have stabilizing as well as destabilizing effects on the system. The stable solute gradient and rotation introduce oscillatory modes in the system, which were non-existent in their absence. The sufficient conditions for nonexistence of overstability are also obtained.
+Pardeep Kumar
+effect-of-rotation-on-thermosolutal-convection-in-a-compressiblecouplestress-fluid-through-porous-medium.pdf" title="Effect of rotation on thermosolutal convection in a compressiblecouple-stress fluid through porous medium
+effect-of-rotation-on-thermosolutal-convection-in-a-compressiblerncouplestress-fluid-through-porous-medium-16048
+effect-of-rotation-on-thermosolutal-convection-in-a-compressiblecouplestress-fluid-through-porous-medium

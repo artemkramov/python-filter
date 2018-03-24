@@ -1,0 +1,4 @@
+Situational Model of Avalanche and Nonavalanche Microsituations Construction
+Dyachenko O.N., Kuzemin A.Ya., Lyashenko V.V., Toroev A.A.
+A high-priority topic of the risk management in emergency situations is considered. The situational model which makes possible to increase a management efficiency risk of emergency avalanche situa-tions is proposed. The model represents decomposition of avalanche and nonavalanche situations on a set of microsituations. Wilcoxon criterion as a microsituations similarity measure is used. Tabl.: 5. Fig.: 4. Refs.: 7 titles.
+avalanche, situation, statistics, model, analysis.

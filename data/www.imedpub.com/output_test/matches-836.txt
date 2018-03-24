@@ -1,0 +1,3 @@
+﻿A Prey-Predator Model with an Alternative Food for the Predator and Optimal Harvesting of the Prey
+The present paper deals with a prey - predator model incorporating i) the predator is provided with an alternative food in addition to the prey, ii) the prey is harvested under optimal conditions. The model is characterized by a pair of first order non-linear differential equations. All the four equilibrium points of the model are identified and the criteria for the stability are discussed .The possibility of existence of bioeconomic equilibrium is discussed. The optimal harvest policy is studied with the help of Pontryagin’s maximum principle. Finally, some numerical examples are discussed.
+K. Madhusudhan Reddy and K. Lakshmi Narayan

@@ -1,0 +1,6 @@
+﻿Semi circled energy of asymmetrically apodized optical systems
+Semi circled energy factor (SCEF) is the very important image quality criterion of point spread function (PSF) of an asymmetrically apodized optical system. Semi circled energy functions of rotationally asymmetric, aberration free optical systems apodized with complex pupil filters have been obtained. We have understood semi circled energy of the asymmetric PSF as point-image quality assessment parameter. The optimum values of asymmetric apodization at which the semi circled energy is maximum have also been computed. The asymmetry in the total energy has been found to increase with the degree of asymmetric apodization
+Andra Naresh Kumar Reddy, and Dasari Karuna Sagar
+semi-circled-energy-of-asymmetrically-apodized-optical-systems.pdf" title="Semi circled energy of asymmetrically apodized optical systems
+semi-circled-energy-of-asymmetrically-apodized-optical-systems-14074
+semi-circled-energy-of-asymmetrically-apodized-optical-systems

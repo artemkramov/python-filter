@@ -1,0 +1,3 @@
+﻿Transformations of q-series using summations formulae
+In this paper, making use of certain known identities and some known summations of truncated hypergeometric series, an attempt has been made to established some new transformations for basic hypergeometric series
+Pradhyot Kumar Mishra and Ravindra Kumar Yadav

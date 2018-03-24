@@ -1,0 +1,6 @@
+﻿Experimental investigation of an electrochemical cell from the power generation view point
+In this research we are introducing a new cell composed of electrodes of Graphite –Mg and electrolyte of HCl- KMnO4 . Along this topic we are trying to discuss the effect of concentration changes of the electrolyte and temperature of cell as well as surface area effect of each one of the electrodes. To estimate the usefulness duration of the cell all of the reactions have been kinetically analyzed. After making some changes in the structure of the cell and differing the electrode type and replacing some metals like Cu and Zn instead of Mg, the produced powers have been compared. From the experimental observations and theoretical analyses, it is found out that using other metals instead of Mg decreases the produced power. Finally this kind of cell is compared with fuel cell.
+A. Bahlake, M. Rezaei Ansari and S. Khajeh Talkhoncheh
+experimental-investigation-of-an-electrochemical-cell-from-the-powergeneration-view-point.pdf" title="Experimental investigation of an electrochemical cell from the powergeneration view point
+experimental-investigation-of-an-electrochemical-cell-from-the-powerrngeneration-view-point-16280
+experimental-investigation-of-an-electrochemical-cell-from-the-powergeneration-view-point

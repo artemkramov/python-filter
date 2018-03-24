@@ -1,0 +1,6 @@
+﻿Khasare Equation of State for Molecular Cluster Study of Some Organic Liquids
+Comparative study of second generation and third generation Khasare’s EOS are carried out at critical temperature. Third generation of EOS is used to study the correlation of structural properties and thermodynamic behavior in terms of liquid clusters. Computations are based on z, a new parameter introduced to obtain the unique solution. All computations are carried at from 283.15 K to 343.15 K. The value of z-1 is attributed to cluster forming/breaking. Present calculation is based upon the sample thermodynamic data such as ultrasonic wave, density, volume expansion coefficient and ratio of specific heat (1.3).
+S. B. Khasare, Milind S. Deshpande and Vrushali S. Khasare
+khasare-equation-of-state-for-molecular-cluster-study-of-some-organicliquids.pdf" title="Khasare Equation of State for Molecular Cluster Study of Some OrganicLiquids
+khasare-equation-of-state-for-molecular-cluster-study-of-some-organicrnliquids-16792
+khasare-equation-of-state-for-molecular-cluster-study-of-some-organicliquids

@@ -1,0 +1,3 @@
+﻿Thermoelastic disturbances in a half-space without energy dissipation
+In this we study the problem of one-dimensional thermoelastic disturbances in a half –space without energy dissipation due to suddenly applied constant temperature on the boundary which is rigidly fixed. Using the Laplace transform technique, exact expressions, in closed form, for the displacement, temperature and stress fields are obtained. The results are illustrated through graphs.
+D. Raju and T. Suchitra

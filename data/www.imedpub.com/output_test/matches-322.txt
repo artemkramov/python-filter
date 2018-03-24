@@ -1,0 +1,3 @@
+﻿Flow of a Jeffrey fluid through a tapered tube with permeable walls
+Flow of a Jeffrey fluid through a tapered tube with permeable walls is studied. Beavers – Joseph slip conditions are used to solve the governing equations. The expressions for velocity, volume flow rate and frictional forces are obtained. The effects of various parameters like Darcy number, slip parameter, radius on velocity, frictional force are discussed through graphs
+S. V. H. N.Krishna Kumari. P, Saroj M Revankar and Y. V. K. Ravi Kumar

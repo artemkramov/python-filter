@@ -1,0 +1,5 @@
+Digital Filters with Low Parametric Sensitivity
+Fedorenko O.V.
+Calculation of parametric sensitivity of digital filters with real and hypercomplex coefficients is considered. Calculation of parametric sensitivity of digital filters with real and triplex coefficients is mode. The comparative analysis of the obtained values of sensitivity of the given filters is carried out. The method of decreasing the parametric sensitivity of digital filters with hypercomplex coefficients and results of decreasing the parametric sensitivity of the digital filter with triplex coefficients are presented. Fig.: 5. Refs.: 11 titles.
+digital filters, parametric sensitivity, summary parametric sensitivity, hypercomplex numerical systems, decrease of parametric sensitivity.
+Fedorenko.doc

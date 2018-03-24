@@ -1,0 +1,6 @@
+﻿Study of molecular interaction in binary liquid mixture of dimethyl acetamide and acetone using ultrasonic probe
+The Ultrasonic velocity (U) and density (ρ) for binary mixture of dimethyl acetamide (DAMC) and acetone at frequencies 2MHZ, 4MHz, 6MHZ ,and 8MHZ have been measured at a constant temperature 308K.These data are used to evaluate the ultrasonic parameters such as adiabatic compressibility (Ks), intermolecular free length (Lf) acoustic Impedance (Z), molar volume (Vm), Rao’s constant(R), Wada’s constant(B), available volume (Va), Lennard Jones potential repulsive term exponent(n), relative association(RA),interaction parameter (χ) for the liquid mixture.The excess values of some parameters are also computed and interpreted to elucidate the molecular interaction in the liquid mixture
+Ashok Kumar Dash and Rita Paikaray
+study-of-molecular-interaction-in-binary-liquid-mixture-of-dimethylacetamide-and-acetone-using-ultrasonic-probe.pdf" title="Study of molecular interaction in binary liquid mixture of dimethylacetamide and acetone using ultrasonic probe
+study-of-molecular-interaction-in-binary-liquid-mixture-of-dimethylrnacetamide-and-acetone-using-ultrasonic-probe-14950
+study-of-molecular-interaction-in-binary-liquid-mixture-of-dimethylacetamide-and-acetone-using-ultrasonic-probe

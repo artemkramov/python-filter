@@ -1,0 +1,4 @@
+Formalising Service Engineering of Traffic Volumes by a Shunting Depot at Simulation Modeling
+Yerofeeva E.A.
+The polygon of a railway system as a complex technical system is considered, structural units of a researched railway system are specified. Two main problems of research of functioning of a railway sys-tem are defined. On the basis of a short review of researches in the field of shunting deport work engi-neering as a reference component of a railway system on creation of a traffic, the main definitions on the organisation of traffic volumes on a railway system are given. The mode of formalising the technological process of a railway shunting depot for constructing of the simulation model and its application in operation practice is offered. Tabl.: 1. Fig.: 3. Refs: 9 titles.
+simulation model, shunting depot, railway system, organisation of traffic volumes, compound transact, information transact, technological operation, resource allocation system.

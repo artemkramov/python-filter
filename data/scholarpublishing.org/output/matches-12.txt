@@ -1,0 +1,10 @@
+﻿null
+173">Vol 4, No 4 (2017
+3528/0">Shaikh
+Finger Movement Identification Using EMG Signal on the Forearm
+Naeem Shaikh, Fida Muhammad, Muhammad Fahad Shamim, Nageen Shahid, Syed Mohammad Omair, Muhammad Zeeshan Ul Haque
+Finger movement identification is an important innovative interfacing method which has countless possible applications. It can be used to create a new age in human computer interfacing (HCI) devices. It can also be applied to medical applications, such as in the development of a more advanced prosthetic hand. The current research for this purpose includes methods such as computer vision and detecting finger motion through mechanical vibrations from skin surface. They have the limitation of being restrictive, in terms of the degree of movement that the hand is allowed from a certain optimum position, as well as being susceptible to environmental factors. In this study, the surface electromyography (sEMG) of the forearm from skin electrodes is developed and interfaced with computer. The response at the flexor carpi radialis muscle of the forearm is plotted for a group of subjects to observe the qualitative responsiveness of the sEMG to different types of finger movements. The results show that finger movement generates a corresponding response on the EMG electrodes. For the particular muscle being studied, the greatest individual digit amplitude response was observed for the ring finger (digitus annularis) across the subjects. In future studies, this research could be made more quantitative in nature by observing the frequency content of a variety of hand gestures across a sample of subjects
+Human computer interfacing; finger detection; surface electromyography; finger movement; flexor carpi radialis; digitus annularis
+3528/2168
+44.3528">http://dx.doi.org/10.14738/jbemi.44.3528
+There are currently no refbacks.

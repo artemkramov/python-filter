@@ -1,0 +1,4 @@
+Fuzzy-Neuropsychiatric Predictive Model
+Frank Amadin, Obi J.C.
+Due to subjective diagnosis approach, psychiatric diagnosis, prognosis and predication has been tremendously difficult. In short, it has been subjective; tied to a particular human expert with overview on psychiatric diagnosis. Overtimes, inadequate, ineffective and exhaustive medical professional has contributed seriously to poor psychiatric diagnosis. Artificial Intelligence (AI) has shown rich potential in this area. Therefore this research paper has predictively proposed a fuzzy–neural model capable of imprecision or vague handling in collaboration with system self-learning or training using fuzzy logic and neural, subdomain of Soft-Computing (SC) and Artificial intelligence. The various views of the model were visualized using Unified Modeling Language (UML) while system implementation was opened to future research.</p>
+Fuzzy Logic, Neural Network, Psychiatric, UML

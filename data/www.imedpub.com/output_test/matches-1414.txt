@@ -1,0 +1,3 @@
+﻿2-Benzoyl pyridine: An inhibitor for mild steel corrosion in hydrochloric acid solution
+Weight loss measurements have shown that 2-Benzoyl Pyridine (2BP) is an efficient corrosion inhibitor for mild steel corrosion in hydrochloric acid solutions. The compound inhibits the corrosion of mild steel in hydrochloric acid to a remarkable extent. Generally, inhibition was found to increase with increasing inhibitor concentration and half-life but with decreasing temperature and first order rate constants at 303K-323K. Physical adsorption mechanism has been proposed for its adsorption behaviour
+A. O. James and N. C. Oforka

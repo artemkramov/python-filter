@@ -1,0 +1,6 @@
+﻿A comparative study of effect of complex conjugate terms in Fabry-Perot and Zeeman Laer cavity
+In this work, we have derived amplitude and frequency determining equations using complex conjugate terms of electric field and polarization in Maxwell’s equation. It is observed that the derived basics equations are different from the original equations derived by Lamb and his coworkers. The derived additional terms have physical significance related to the lasing action in Fabry-Perot type and Zemann laser cavities
+J. Mudoi, K. C. Sarma and T. Bezboruah
+a-comparative-study-of-effect-of-complex-conjugate-terms-in-fabryperot-andzeeman-laer-cavity.pdf" title="A comparative study of effect of complex conjugate terms in Fabry-Perot andZeeman Laer cavity
+a-comparative-study-of-effect-of-complex-conjugate-terms-in-fabryperot-andrnzeeman-laer-cavity-13616
+a-comparative-study-of-effect-of-complex-conjugate-terms-in-fabryperot-andzeeman-laer-cavity

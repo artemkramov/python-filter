@@ -1,0 +1,3 @@
+﻿Fibonacci Polynomial Identities, Binomial coefficients and PascalÃ¢ÂÂs Triangle
+In this paper we will prove some generalized identities involving Fibonacci Polynomials and for rapid numerical calculation of identities we present each identity as summation involving binomial coefficients.
+Sanjay Harne, V.H. Badshah and Vipin Verma

@@ -1,0 +1,6 @@
+﻿Peristaltic flow of a Williamson fluid in an inclined planar channel under the effect of a magnetic field
+In this paper, the MHD peristaltic flow of a Williamson fluid in a planar channel, under the assumptions of long wavelength is investigated. The flow is investigated in a wave frame of reference moving with velocity of the wave. The perturbation series in the Weissenberg number was used to obtain explicit forms for velocity field and pressure gradient. The effects of Weissenberg number and Hartmann number on the pumping characteristics are discussed through graphs in detail.
+B. Jayarami Reddy , M. V. Subba Reddy, C. Nadhamuni Reddy and P. Yogeswar Reddy
+peristaltic-flow-of-a-williamson-fluid-in-an-inclined-planar-channel-under-theeffect-of-a-magnetic-field.pdf" title="Peristaltic flow of a Williamson fluid in an inclined planar channel under theeffect of a magnetic field
+peristaltic-flow-of-a-williamson-fluid-in-an-inclined-planar-channel-under-therneffect-of-a-magnetic-field-15906
+peristaltic-flow-of-a-williamson-fluid-in-an-inclined-planar-channel-under-theeffect-of-a-magnetic-field

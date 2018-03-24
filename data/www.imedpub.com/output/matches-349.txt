@@ -1,0 +1,6 @@
+﻿The influence of heat transfer on peristaltic transport of a couple stress fluid through a porous medium
+The effect of heat transfer on peristaltic flow of a couple stress fluid through a porous medium in a two dimensional flexible channel was studied under long wave length approximation. A Closed form of expressions is derived in terms of wall slope parameter for axial velocity, temperature and heat transfer coefficient using perturbation method. The effects of pertinent parameters of interest on temperature and heat transfer coefficient are explained graphically.
+T. Raghunatha Rao1 and D. R. V. Prasada Rao2
+the-influence-of-heat-transfer-on-peristaltic-transport-of-a-couple-stress-fluidthrough-a-porous-medium.pdf" title="The influence of heat transfer on peristaltic transport of a couple stress fluidthrough a porous medium
+the-influence-of-heat-transfer-on-peristaltic-transport-of-a-couple-stress-fluidrnthrough-a-porous-medium-16482
+the-influence-of-heat-transfer-on-peristaltic-transport-of-a-couple-stress-fluidthrough-a-porous-medium

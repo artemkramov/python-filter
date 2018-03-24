@@ -1,0 +1,6 @@
+﻿A numerical grid and grid less (Mesh less) techniques for the solution of 2D Laplace equation
+In this paper numerical technique has been used to solve two dimensional Laplace Equation with Dirichlet boundary conditions in a rectangular domain and focuses on certain numerical techniques for solving PDEs; in particular, the Grid technique viz Finite difference (FD), the Finite element (FE), and Grid less (GL) technique are presented by using Metlab and Spreadsheet. Finally the numerical solutions obtained by Numerical techniques are compared with exact solution to check the accuracy of the developed scheme.
+Parag V. Patil and J. S. V. R. Krishna Prasad
+a-numerical-grid-and-grid-less-mesh-less-techniques-for-thesolution-of-2d-laplace-equation.pdf" title="A numerical grid and grid less (Mesh less) techniques for thesolution of 2D Laplace equation
+a-numerical-grid-and-grid-less-mesh-less-techniques-for-thernsolution-of-2d-laplace-equation-14021
+a-numerical-grid-and-grid-less-mesh-less-techniques-for-thesolution-of-2d-laplace-equation

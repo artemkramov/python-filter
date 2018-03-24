@@ -1,0 +1,6 @@
+﻿Stability analysis of some epidemic models with vertical transmission and different incidences
+Korobeinikov and Wake [9] introduced a family of Lyapunov functions for three-compartmental epidemiological models which appear to be useful for more sophisticated models. In this paper we have reinvestigated the models of Korobeinikov and Wake [9] with different incidences. The basic reproduction number 0 Â is identified and local stability of the equilibrium states is discussed. The Global stability of the equilibrium states is proved by constructing a Lyapunov function. Some numerical simulations are given to illustrate the analytical results.
+B. Singh, S. Jain, R. Khandelwal, S. Porwal and G. Ujjainkar
+stability-analysis-of-some-epidemic-models-with-vertical-transmission-anddifferent-incidences.pdf" title="Stability analysis of some epidemic models with vertical transmission anddifferent incidences
+stability-analysis-of-some-epidemic-models-with-vertical-transmission-andrndifferent-incidences-14012
+stability-analysis-of-some-epidemic-models-with-vertical-transmission-anddifferent-incidences

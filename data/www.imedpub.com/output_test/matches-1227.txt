@@ -1,0 +1,3 @@
+﻿A characterization theorem in hydromagnetic triply- diffusive convection
+The problem of triply diffusive magnetoconvection is considered in the present paper. An attempt is made to establish the relationship between various energies in Veronis’ type configurations. The analysis made brings out that for Veronis type configuration, the total kinetic energy associated with a disturbance exceeds the sum of its total magnetic and concentration energies in some particular parameter regime. Further, this result is valid for any combination of dynamically free or rigid boundaries that are either perfectly conducting or insulating
+Hari Mohan and Sada Ram

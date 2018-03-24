@@ -1,0 +1,4 @@
+Detection of Concepts and their Interrelations within the Framework of Content-Monitoring Technology
+Dodonov A.G., Lande D.V.
+Approaches to the solution of a problem of revealing factual information from unstructured text flows are given. The technological solutions, allowing to take from text-through documents such concepts as a firm, a surname, place names, etc., and also to reveal force of their interrelations on the basis of application of two algorithms are described. The first of these algorithms is based on the account of joint concepts occurrence in the same documents, and the second one on the account of the context common for considered concepts. Fig.: 3. Refs: 7 titles.
+сontent-monitoring, information flow, concepts detection, text mining, concepts interrelation.

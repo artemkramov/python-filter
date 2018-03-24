@@ -1,0 +1,4 @@
+Organization of Corporative Analytic Work and Modern Supporting Technologies
+Gorbachyk O.S.
+Stages of analytic works are specified, supporting computer technologies are considered. General scheme for organization of analytic work in corporative information systems is suggested. Fig.: 1. Refs: 11 titles.
+analytic work, corporative information systems, BI-technologies.

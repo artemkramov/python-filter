@@ -1,0 +1,11 @@
+﻿null
+57">Vol 2, No 2 (2015
+1160/0">Gopinath
+Real Time Monitoring of Posture to Improve Ergonomics
+Manju Gopinath, Angeline Kirubha
+<p>Back pain is one of humanities most frequent complaints. While dangerous diseases are being combatted on a daily basis, something as simple as bad posture is often overlooked. Bad posture can start off as a simple habit and soon lead to chronic back pain. Thus it is essential to maintain an ideal posture so as to reduce stress on the body. In this paper, monitoring of posture is done using flex sensor placed along the spine to detect the movement or bend. As posture changes from ‘ideal’ to ‘poor’, the user is alerted through a buzzer and LCD. A microcontroller is used to set the limits of ideal posture, which can be user specific. A load cell is used to monitor the variation in body weight and spine stress for poor and ideal postures under sitting and standing cases. The proposed system aims to implement a simple posture monitoring and correction system that can be set up at the work place with ease. This can serve to prevent cases of scoliosis and other spine issues which often start with poor posture.</p>
+posture, load cell, flex sensor, ergonomics
+1160/655
+></div><div><h4>References</h4><br><div><p>. Institute for Health Metrics and Evaluation. "2010 Global Burden of Disease Study".</p><p>. A Patient's Guide to Rehabilitation for Low Back Pain: Understanding the Neutral Spine Position.</p><p>. Sullivan, Karin Horgan, Jan 1999, ‘Perfect Posture’, Vegetarian Times 257, p.64.</p><p>. Bilal El-Sayed, et al., (2011) ‘A Novel Mobile Wireless Sensing System for Realtime Monitoring of Posture and Spine Stress’, 1st Middle East Conference on Biomedical Engineering (MECBME)</p><p>. Emilio Sardini, et al., ‘Smart Vest for Posture Monitoring in Rehabilitation Exercises’, Sensors Applications Symposium (SAS), IEEE.</p></div><br
+22.1160">http://dx.doi.org/10.14738/jbemi.22.1160
+There are currently no refbacks.

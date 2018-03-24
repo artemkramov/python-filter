@@ -1,0 +1,6 @@
+﻿Peristaltic pumping of third grade fluid in an asymmetric channel under the effect of magnetic fluid
+In this paper, we studied the MHD peristaltic motion of a third grade fluid in an asymmetric channel under the assumptions of long wavelength and low Reynolds number. Series solutions of axial velocity and pressure gradient are given by using regular perturbation technique when Deborah number is small. The effects of various emerging parameters on the pumping characteristics are studied in detail through graphs.
+D. Prasanth Reddy and M. V. Subba Reddy
+peristaltic-pumping-of-third-grade-fluid-in-an-asymmetric-channel-under-theeffect-of-magnetic-fluid.pdf" title="Peristaltic pumping of third grade fluid in an asymmetric channel under theeffect of magnetic fluid
+peristaltic-pumping-of-third-grade-fluid-in-an-asymmetric-channel-under-therneffect-of-magnetic-fluid-16826
+peristaltic-pumping-of-third-grade-fluid-in-an-asymmetric-channel-under-theeffect-of-magnetic-fluid

@@ -1,0 +1,4 @@
+Method for Measuring Magnetic Field Strength in Working Chamber of Device for Data Erasure from Magnetic Media
+Kozhenevsky S.R.
+A procedure for measuring magnetic field strength in working chamber of device for data erasure from magnetic media with instruments using Hall Effect is considered. On the basis of measurement re-sults patterns of magnetic field strength values distribution in the working chamber of data erasure device and inside the head/disk assembly are built. The magnetic field loss introduced by HDD case is analyzed. It is shown that outside the working chamber of data erasure device the magnetic field damps very fast and practically is not observed. Tabl.: 5. Fig.: 14.
+magnetic field, measurement, Hall Effect, data erasure, hard disk, gaussmeter.

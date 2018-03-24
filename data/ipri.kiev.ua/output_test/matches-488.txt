@@ -1,0 +1,4 @@
+About Differential Equations, Determining Some Functions of Hypercomplex Variable
+Sinkov M.V., Kalinovsky J.A., Boyarinova J.E., Fedorenko A.V.
+One method of simplification of differential equation, solution, determining such nonlinear func-tions of hypercomplex variable as hyperbolic and trigonometric ones is considered. Refs: 8 titles.
+differential equation, hypercomplex numbers, nonlinear function.

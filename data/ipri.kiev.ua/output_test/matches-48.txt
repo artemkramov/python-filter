@@ -1,0 +1,4 @@
+Requirements to Systems for Monitoring Factors of Influences on Vitality
+Boychenko A.V.
+The factors of the influence on vitality are defined and existing facilities of monitoring the distribut-ed computer networks are considered. The requirements to systems for monitoring factors of influences on vitality are designed. The general architecture of the complex monitoring system is offered. Tabl.: 1. Fig.: 3. Refs.: 14 titles.
+vitality, monitoring system, software requirements.

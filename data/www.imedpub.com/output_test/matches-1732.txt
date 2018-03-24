@@ -1,0 +1,3 @@
+﻿Common fixed point theorem for four random operators in Hilbert space
+The object of this paper is to obtain a common fixed point theorem for four continuous random operators satisfying certain contractive conditions in Separable Hilbert space, which generalizes and extend the results of Beg and Shahzad [5, 8].
+Surjeet Singh Chauhan (Gonder)

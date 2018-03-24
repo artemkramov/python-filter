@@ -1,0 +1,6 @@
+﻿Convective Heat Transfer Flow of a Viscous Electrically Conducting Fluid in a Non-Uniformily Heated Axially Varying Pipe
+We analyse the effect of radiation on combined heat transfer of an electrically conducting viscous fluid in a nonuniformly heated corrugated pipe in the presence of a constant heat source. A non –uniform temperature is maintained on the boundary. Taking the slope d of the boundary of the pipe as perturbation parameter, the equations governing the flow , heat transfer and magnetic induction have been solved. The velocity and temperature have been evaluated for variations in the different governing parameters. The effect of the various governing parameters on flow, heat transfer has been exhibited through various profiles of velocity, temperature distributions.
+M. Seshasailaja and G. Sarojamma
+convective-heat-transfer-flow-of-a-viscous-electrically-conducting-fluid-ina-nonuniformily-heated-axially-varying-pipe.pdf" title="Convective Heat Transfer Flow of a Viscous Electrically Conducting Fluid ina Non-Uniformily Heated Axially Varying Pipe
+convective-heat-transfer-flow-of-a-viscous-electrically-conducting-fluid-inrna-nonuniformily-heated-axially-varying-pipe-16709
+convective-heat-transfer-flow-of-a-viscous-electrically-conducting-fluid-ina-nonuniformily-heated-axially-varying-pipe

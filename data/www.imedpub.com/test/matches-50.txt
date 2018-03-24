@@ -1,0 +1,6 @@
+﻿Mixing and cathode material effects on breakdown voltage of DC Ar glow discharge
+Effects of gas admixture and of cathode material on breakdown voltage of argon in DC electric field in cylindrical discharge tube are investigated experimentally. The results demonstrate that the breakdown voltage increases by increasing He and N2 percentage in (Ar-He) and (Ar-N2) gas mixtures, respectively. The lower breakdown voltages are associated with lower work function of the cathode material. Moreover, the breakdown voltage decreases by increasing the effective surface area of the cathode.
+Omar. F. Farag, Magdy. M. Mansour, Naglaa. M. El-Sayed and Mohammed. H. Elghazaly
+mixing-and-cathode-material-effects-on-breakdown-voltage-of-dc-ar-glowdischarge.pdf" title="Mixing and cathode material effects on breakdown voltage of DC Ar glowdischarge
+mixing-and-cathode-material-effects-on-breakdown-voltage-of-dc-ar-glowrndischarge-14681
+mixing-and-cathode-material-effects-on-breakdown-voltage-of-dc-ar-glowdischarge

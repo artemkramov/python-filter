@@ -1,0 +1,4 @@
+Distributed Computer Systems as Components of Information Infrastructures
+Gorbulin V.P., Dodonov O.G., Gorbachyk O.S., Kuznyetsova M.G.
+Creation features and distributed computer system characteristics are considered. The necessity of survivability mechanisms integration for distributed computer systems, included in the information infra-structures, is substantiated. Refs: 9 titles.
+distributed computer system, information, information infrastructure, survivability.

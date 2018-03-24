@@ -1,0 +1,6 @@
+﻿Entropy generation in the Poiseuille flow of a Temperature dependent viscosity fluid through a channel with a naturally permeable wall under thermal radiation
+In this study, we investigated the effects of thermal radiation on entropy generation in a temperature dependent viscosity fluid flow in a channel with a naturally permeable wall of very small permeability. Numerical solutions are presented for the isothermal and convective boundary conditions and the effects of various pertinent parameters are examined on the velocity field, temperature field, entropy generation number, and Bejan number through graphs and discussed.
+Dileep Singh Chauhan and Vinita Khemchandani
+entropy-generation-in-the-poiseuille-flow-of-a-temperature-dependent-viscosity-fluid-through-a-channel-with-a-naturally-permeable.pdf" title="Entropy generation in the Poiseuille flow of a Temperature dependent viscosity fluid through a channel with a naturally permeable wall underthermal radiation
+entropy-generation-in-the-poiseuille-flow-of-a-temperature-dependent-viscosity-fluid-through-a-channel-with-a-naturally-permeable-wall-underrnthermal-radiation-17117
+entropy-generation-in-the-poiseuille-flow-of-a-temperature-dependent-viscosity-fluid-through-a-channel-with-a-naturally-permeable

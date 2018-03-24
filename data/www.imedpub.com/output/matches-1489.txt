@@ -1,0 +1,6 @@
+﻿On the principle of exchange of stabilities in old roydian fluid in porous medium with variable gravity using positive operator method
+In the present paper, the problem of thermal convection of a visco-elastic oldroydian fluid in porous medium heated from below with variable gravity is analyzed and it is established by the method of positive operator of Weinberger and uses the positivity properties of Green’s function that principle of exchange of stabilities is valid for this problem, when g (z) is nonnegative throughout the fluid layer and the elastic constant of the medium is less than the ratio of permeability to porosity, i.e. eu l &lt; e G &lt; l 1 k or P .
+Pushap Lata
+on-the-principle-of-exchange-of-stabilities-in-old-roydian-fluid-in-porousmedium-with-variable-gravity-using-positive-operator-met.pdf" title="On the principle of exchange of stabilities in old roydian fluid in porousmedium with variable gravity using positive operator method
+on-the-principle-of-exchange-of-stabilities-in-old-roydian-fluid-in-porousrnmedium-with-variable-gravity-using-positive-operator-method-15669
+on-the-principle-of-exchange-of-stabilities-in-old-roydian-fluid-in-porousmedium-with-variable-gravity-using-positive-operator-met

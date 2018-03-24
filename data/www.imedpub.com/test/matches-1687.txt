@@ -1,0 +1,6 @@
+﻿DC electrical resistivity and cation distribution in Zn2+ substituted copper ferrites
+Polycrystalline spinel ferrites with general formula ZnxCu1-xFe2O4 (x=0, 0.2, 0.4, 0.6, 0.8 and 1.0) were prepared by oxalate co-precipitation method. On characterization by X –ray diffraction, they were found to be cubic spinels except x = 0, which is tetragonal in nature. Dc electrical resistivity suggests conductivity was due to hopping mechanism. The cation distribution of the system was investigated by employing Upadhyay and Baldha model wherein relative weighted magnetic interaction per formula unit is considered. The Curie temperature was calculated theoretically by employing this model as a function of distribution parameter. The cation distribution investigated reveals that the Cu2+ ion distributes partially among A and B –sites with maximum occupancy on A – site for x = 0.20.
+Shivanand A. Mastia, Ashok K. Sharmab and Pramod N. Vasambekar
+dc-electrical-resistivity-and-cation-distribution-in-zn2-substitutedcopper-ferrites.pdf" title="DC electrical resistivity and cation distribution in Zn2+ substitutedcopper ferrites
+dc-electrical-resistivity-and-cation-distribution-in-zn2-substitutedrncopper-ferrites-14956
+dc-electrical-resistivity-and-cation-distribution-in-zn2-substitutedcopper-ferrites

@@ -1,0 +1,3 @@
+﻿Effect of magnetic field on peristaltic transport of a couple stress fluid in a channel
+The effect of magnetic field on peristaltic transport of a couple stress fluids in non-uniform two dimensional channels has been studied. Long wavelength and low Reynolds number approximation is used to linearize the governing equations. The expressions for pressure gradient and frictional force are obtained by using boundary conditions. The effects of various parameters on channel are discussed with the help of graphs.
+V. P. Rathod and N. G. Sridhar

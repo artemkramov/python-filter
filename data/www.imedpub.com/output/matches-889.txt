@@ -1,0 +1,6 @@
+﻿Biosensor based on piezoelectric crystal probe
+A biosensor is a device for the detection of an analyte that combines a biological component with a physicochemical detector component. It consists of many parts such as the Sensitive Biological Element, the Probe and Electronics. Biosensor has many advantages such as minimum sample pretreatment, fast response time, simple and low-cost instrumentation and high sample output. Biosensor is beneficial due to high selectivity and sensitivity of a one known biologically active material. The resonant frequency of an oscillating piezoelectric crystal can be affected by varying mass at the crystal surface. Piezoelectric immunosensor is capable of measure a small change in mass. The empirical equation for AT-cut quartz crystal vibrating in thickness shear mode that describes relation between mass of thin metal films deposited on quartz crystals and corresponding change in resonant frequency of piezoelectric crystal is given by
+A. K. Choudhary and Kailash
+biosensor-based-on-piezoelectric-crystal-probe.pdf" title="Biosensor based on piezoelectric crystal probe
+biosensor-based-on-piezoelectric-crystal-probe-13660
+biosensor-based-on-piezoelectric-crystal-probe

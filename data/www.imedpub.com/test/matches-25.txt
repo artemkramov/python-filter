@@ -1,0 +1,6 @@
+﻿An inverse thermoelastic problem of finite length thick hollow cylinder with internal heat sources
+In this paper, by applying Marchi-zgrablich and Laplace integral transform technique .To study inverse unsteady state response of finite thick hollow cylinder with internal heat sources with third kind boundary conditions to determined linear temperature, displacement and stress function. The results are obtained in terms of infinite series and the numerical calculations are carried out by using MATHCAD -7 software and shown graphically
+C. M. Jadhav, B. R. Ahirrao and N. W. Khobragade
+an-inverse-thermoelastic-problem-of-finite-length-thick-hollow-cylinder-withinternal-heat-sources.pdf" title="An inverse thermoelastic problem of finite length thick hollow cylinder withinternal heat sources
+an-inverse-thermoelastic-problem-of-finite-length-thick-hollow-cylinder-withrninternal-heat-sources-14975
+an-inverse-thermoelastic-problem-of-finite-length-thick-hollow-cylinder-withinternal-heat-sources

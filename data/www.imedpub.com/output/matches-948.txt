@@ -1,0 +1,6 @@
+﻿Surface waves in non-homogeneous fibre-reinforced anisotropic elastic media with voids
+This paper investigates the propagation of surface waves in a non homogeneous fibre-reinforced elastic media with voids. The general surface wave speed is derived to study the effects of voids on surface waves in non homogeneous fibre-reinforced elastic solid and discussed its particular cases for Stoneley, Love and Rayleigh waves. The results obtained in this investigation are more general in the sense that some earlier published results are obtained from our result as special cases. Also by neglecting non homogeneity and the reinforced elastic parameters, the results reduce to well known isotropic medium.
+Aftab Khan, A. I. Anya and Hajra Kaneez
+surface-waves-in-nonhomogeneous-fibrereinforced-anisotropicelastic-media-with-voids.pdf" title="Surface waves in non-homogeneous fibre-reinforced anisotropicelastic media with voids
+surface-waves-in-nonhomogeneous-fibrereinforced-anisotropicrnelastic-media-with-voids-13637
+surface-waves-in-nonhomogeneous-fibrereinforced-anisotropicelastic-media-with-voids

@@ -1,0 +1,6 @@
+﻿Pade approximation technique reduced model using stability equation method
+An algorithm is introduced for model reduction of linear time invariant system using combine advantage of pade approximation technique and stability equation method. The denominator of reduced order model is derived by stability equation method and numerator of reduced order transfer function is obtained by pade approximation technique. This method guarantees stability of reduced model if high order original system is stab
+Harendra Singh and V. R. Singh
+pade-approximation-technique-reduced-model-using-stability-equation-method.pdf" title="Pade approximation technique reduced model using stability equation method
+pade-approximation-technique-reduced-model-using-stability-equation-method-13463
+pade-approximation-technique-reduced-model-using-stability-equation-method

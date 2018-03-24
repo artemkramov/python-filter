@@ -1,0 +1,6 @@
+﻿Neutron Activation Analysis of Cement Bulk Samples
+Studies of Neutron Activation Analysis (NAA) have been carried out on different Egyptian cement samples. Two Am-Be isotopic neutron sources of activity 5 Ci were used in this investigation. The accomplished gamma rays were measured using 70 % HPGe spectrometer. This work demand to estimate the elements contained in cement products and its quality control. X-Ray Fluorescence (XRF) measurements were done for confirming our results, and for determination the average neutron flux of 3.7× 103 n/cm2sec. The Natural radioactivities of these samples were measured before the analysis to know the background level of 40K, 238U and232Th nuclei. The results investigated that NAA agree with the results of XRF and the world range of the cement concentration of the essential elements Ca, Al, Na, Fe, Mn, V, Sr and Si.
+M.Ali-Abdallah, N.A.Mansour, M.A.Ali, M. Fayez-Hassan
+neutron-activation-analysis-of-cement-bulk-samples.pdf" title="Neutron Activation Analysis of Cement Bulk Samples
+neutron-activation-analysis-of-cement-bulk-samples-14805
+neutron-activation-analysis-of-cement-bulk-samples

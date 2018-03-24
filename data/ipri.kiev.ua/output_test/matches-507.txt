@@ -1,0 +1,4 @@
+Сlassification Schemes as a Tool of Presentation of Knowledge in the Electronic Libraries
+Lobuzina K.V.
+The problems of using of the library classification schemes for presenting knowledge in the electronic libraries are considered. The Intranet/Internet technology model for supporting the rubricator of the electronic library is offered. The tools of hypertext presentation of the rubricator in the electronic library which provide information retrieval with review of the knowledge bases are developed. Tabl.: 2. Fig.: 3. Refs: 15 titles.
+knowledge bases, library classifications, hypertext, electronic library, rubricator, semantic navigation.

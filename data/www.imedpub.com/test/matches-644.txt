@@ -1,0 +1,6 @@
+﻿Application of Artificial Neural Networks for Global Solar Radiation Forecasting With Temperature
+In this study, the prediction of global solar radiation at Warri, Nigeria latitude’5.020N, were carried out with ANN. This method was employed since installation of pyranometer is a very costly and uncommon exercise. From the results obtained, the maximum values of global solar radiation appears in April and December with 15.94 MJm- 2day-1, and 15.98 MJm-2day-1 respectively during dry season while minimum values of 11.02MJm-2day-1,11.30 MJm- 2day-1, 12.31MJm-2day-1, 12.91 MJm-2day-1, occurs in February, may, June, July, and August, respectively during wet season. From the close relationship that exist between measured and ANN predicted results in table and figures, it is clear that ANN model is a better model for solar radiation prediction.
+Ibeh G.F, Agbo G.A, Agbo, P.E, Ali, P.A
+application-of-artificial-neural-networks-for-global-solar-radiationforecasting-with-temperature.pdf" title="Application of Artificial Neural Networks for Global Solar RadiationForecasting With Temperature
+application-of-artificial-neural-networks-for-global-solar-radiationrnforecasting-with-temperature-15851
+application-of-artificial-neural-networks-for-global-solar-radiationforecasting-with-temperature

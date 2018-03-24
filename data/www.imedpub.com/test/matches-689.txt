@@ -1,0 +1,6 @@
+﻿MHD Free convection flow of couple stress fluid in a vertical porous layer
+The electrically conducting flow of couple stress fluid in a vertical porous layer is investigated. It is assumed that the fluid possesses constant properties except for density. We assume that the density variation due to temperature differences is used only to express the body force term as buoyancy term. The perturbation method of solution is obtained in terms of buoyancy parameter N valid for small values of N. The flow is analysed for three cases having the parameter l which gives the combined effect of magnetic field and permeability. The velocity and temperature fields are determined. The effects of couple stress parameter K and the parameter l of the velocity and temperature are discussed. It is observed that the velocity decreases with increasing Darcy Number Da and l .
+S. Sreenadh, S. Nanda Kishore, A N S Srinivas and R. Hemadri Reddy
+mhd-free-convection-flow-of-couple-stress-fluid-in-a-vertical-porous-layer.pdf" title="MHD Free convection flow of couple stress fluid in a vertical porous layer
+mhd-free-convection-flow-of-couple-stress-fluid-in-a-vertical-porous-layer-17004
+mhd-free-convection-flow-of-couple-stress-fluid-in-a-vertical-porous-layer

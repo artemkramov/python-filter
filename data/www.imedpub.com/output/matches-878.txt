@@ -1,0 +1,6 @@
+﻿A nonilinear variation approach to the study of compressible fluid flow.
+In this paper, an attempt has been made to provide an approximation method for the analysis of fluid flow. The steady flow of a noniviscous compressible fluids were examined and it is discovered that uniqueness of solution requires that the –  (pressure) be convex for subsonic flow. For there to be flow, mass and momentum must be conserved.
+J.C. Egbai
+a-nonilinear-variation-approach-to-the-study-of-compressible-fluid-flow.pdf" title="A nonilinear variation approach to the study of compressible fluid flow.
+a-nonilinear-variation-approach-to-the-study-of-compressible-fluid-flow-14326
+a-nonilinear-variation-approach-to-the-study-of-compressible-fluid-flow

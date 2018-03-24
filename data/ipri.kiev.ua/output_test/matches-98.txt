@@ -1,0 +1,4 @@
+Calculation of Digital Filters with Three-Dimensional Hypercomplex Coefficients
+Sinkov M.V., Stanishevsky E.G.
+Methodology of calculating the 1st order recursive digital filter with 3-dimensional hypercomplex coefficients which implements the 3d order recursive filter with real coefficients is developed. Condition of digital filter implementation is defined. On the basis of the low pass Butterworth filter hypercomplex coefficients are calculated and a better parameters sensitivity of frequency response of filter with hypercomplex coefficients is shown. Tabl.: 1. Fig.: 2. Refs: 3 titles.
+digital filters, hypercomplex numerical systems, transfer function, transfer function coefficients.

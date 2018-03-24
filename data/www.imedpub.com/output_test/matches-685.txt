@@ -1,0 +1,2 @@
+﻿FPGA-based Re-configurable Time Proportioning DAC
+In this paper we discuss the design and implementation of a simple Field Programmable Gate Array (FPGA) based time proportioning control Digital to Analog Converter (DAC) for varieties of experimental study. The paper concentrates on the Pulse Width Modulator (PWM) with time proportioning technique, which is used to convert the digital data to equivalent analog value. The results reveal the versatility of implementing dedicated circuitry.

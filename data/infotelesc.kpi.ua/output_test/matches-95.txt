@@ -1,0 +1,3 @@
+INCREASE OF GEOSTATIONARY ORBIT EFFICIENCY IN THE Ku BAND BASED ON CHANGES OF ITU THRESHOLD VALUES
+M. A. Kolomytsev, A. Lipatov, Y. Synepolski
+The article is devoted to the estimation of threshold values, regulated by ITU, which determine the necessity of satellite&nbsp;networks coordination in the Ku band. Maximum capacity of geostationary orbit (GEO) for different diameters of<br>earth station antennas, operating in standard DVB-S2 accounting the limitations caused by the parameters of existing&nbsp;satellite networks equipment, is determined. Optimal values of satellites’ orbital separation, relative increase in allowable<br>noise / and the signal to single-interference ratio / were identified for maximum GEO capacity.</p>

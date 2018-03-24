@@ -1,0 +1,3 @@
+﻿Selection of mixed sampling plan with double sampling plan as attribute plan indexed through MAPD and AQL using IRPD
+This paper presents the procedure for the construction and selection of mixed sampling plan (MSP) using Intervened Random effect Poisson Distribution (IRPD) as a baseline distribution. Having the double sampling plan as attribute plan, the plans are constructed through acceptable quality level (AQL) and maximum allowable percent defective (MAPD). Tables are constructed for easy selection of the plan.
+R. Sampath Kumar, R. Vijaya Kumar and R. Radhakrishnan

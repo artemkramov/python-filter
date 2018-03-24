@@ -1,0 +1,4 @@
+﻿Dielectric measurement of low loss liquid at microwave frequency
+Dielectric constant (ε’) and loss factor (ε”) of dilute solution of acetophenone in benzene medium at room temperature at 10.15 GHz frequency. Microwave bench (X-band) were measured using Smyth’s method. Gopalakrishna’s single frequency method was used to determine the microscopic relaxation (τ) and microscopic dipole moment (μ) of acetone solutions. The results obtained in this work are in agreement with literature values.
+S. B. Gedam and B. M. Suryavanshi
+dielectric-measurement-of-low-loss-liquid-at-microwave-frequency.pdf" title="Dielectric measurement of low loss liquid at microwave frequency

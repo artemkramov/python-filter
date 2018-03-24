@@ -1,0 +1,6 @@
+﻿The Radio-Frequency (RF) fluctuations induced conduction processes in High-Tc Superconductors at room T
+The electrical conduction processes in high-Tc superconductor (HTS) pure as well as praseodymium (Pr)-doped YBCO had been observed under MRF excitations at room temperature. The high-Tc superconductor Y1- xPrxBa2Cu3O7 for x = 0.0 and x = 0.1 were synthesized using conventional solid state reaction method. They were employed to study the I-V characteristics of these samples under MRF-excitations. The I-V characteristics of these samples are found to be linear in nature. The Hall potentials (VH) have also been recorded and employed to compute the various physical parameters. The doping process seems to suppress the Hall potentials and influencing all these physical parameters.
+Hargyan Singh, Rupesh Kumar, A. K. Mahur€ and R. Swarup
+the-radiofrequency-rf-fluctuations-induced-conduction-processes-inhightc-superconductors-at-room-t.pdf" title="The Radio-Frequency (RF) fluctuations induced conduction processes inHigh-Tc Superconductors at room T
+the-radiofrequency-rf-fluctuations-induced-conduction-processes-inrnhightc-superconductors-at-room-t-14710
+the-radiofrequency-rf-fluctuations-induced-conduction-processes-inhightc-superconductors-at-room-t

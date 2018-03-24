@@ -1,0 +1,6 @@
+﻿Exoskeletal Spine and Shoulders for Full Body Exoskeletons in Health Care
+Currently, full body exoskeletons still lack movability in their back and shoulder parts, resulting in limited applicability in, e.g., nursing care. An exoskeletal spine and shoulder mechanism called “exo-spine” has therefore been developed with the purpose of allowing 3 degree of freedom (DOF) spinal motion and 2 DOF shoulder girdle abduction. It consists of a mechanism of vertebras, shoulder blades, and two cables for actuation such that only one motor is required. Control equations were obtained through measurements and friction analysis. Experiments were performed with a subject wearing the exo-spine in a simplified full body exoskeleton. The wearer was able to lift up to 40 kg using all DOF of the system. From this we confirmed the exo-spine’s 5 DOF movability and lifting performance. Next, the exo-spine will be installed in HAL exoskeletons in order to increase their usability in health care settings
+Stefan Roland Taal and Yoshiyuki Sankai
+exoskeletal-spine-and-shoulders-for-full-body-exoskeletons-in-health-care.pdf" title="Exoskeletal Spine and Shoulders for Full Body Exoskeletons in Health Care
+exoskeletal-spine-and-shoulders-for-full-body-exoskeletons-in-health-care-17036
+exoskeletal-spine-and-shoulders-for-full-body-exoskeletons-in-health-care

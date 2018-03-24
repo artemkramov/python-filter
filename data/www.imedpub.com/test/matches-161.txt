@@ -1,0 +1,6 @@
+﻿Analytical Study of Effect on Hard Sphere Diameter of some organic liquids
+Here, we have used theoretical computation based upon Khasare formulation “C”. Equation of State is applied to depth of potential () and temperature variation of depth of potential ( theoretical values of hard-sphere diameter to study the behaviour equal steps of 5K from 298.16 K to 313.16 K. The hard Hard-sphere diameter seems to be fairly invariable over the above temperature range.
+M. S. Deshpande
+analytical-study-of-effect-on-hard-sphere-diameter--of-some-organic-liquids.pdf" title="Analytical Study of Effect on Hard Sphere Diameter  of some organic liquids
+analytical-study-of-effect-on-hard-sphere-diameter--of-some-organic-liquids-16804
+analytical-study-of-effect-on-hard-sphere-diameter--of-some-organic-liquids

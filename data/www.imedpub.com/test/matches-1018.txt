@@ -1,0 +1,6 @@
+﻿Electron density calculation and structural analysis of Li0.5Bi0.5TiO3 ceramic
+Li0.5Bi0.5TiO3 ceramic powder was synthesized by high energy ball milling. The X-ray diffraction pattern of the sample was analyzed in a quantitative manner using rietveld analysis. X-rays is the finger print of a material and the diffracted intensity can be used to dig out a lot of information related to the material. Again to tailored a material it is necessary to understand the geometry of a material in a quantifying manner. So, in this study it is tried to present a indepth study of the material in term of its atomic positions, bond lengths, bond angles and energy density of different levels. Lastly, a simulated structure is presented using all the initial data available and its energy density.
+M. Nayak and Manas R. Panigrahi
+electron-density-calculation-and-structural-analysis-of-li05bi05tio3-ceramic.pdf" title="Electron density calculation and structural analysis of Li0.5Bi0.5TiO3 ceramic
+electron-density-calculation-and-structural-analysis-of-li05bi05tio3-ceramic-13418
+electron-density-calculation-and-structural-analysis-of-li05bi05tio3-ceramic

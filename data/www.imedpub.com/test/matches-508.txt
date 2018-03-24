@@ -1,0 +1,6 @@
+﻿Oscillatory flow of a jeffrey fluid in an elastic tube of variable cross-section
+An oscillatory flow of a Jeffery fluid in an elastic tube of variable cross section has been investigated at low Reynolds number. The main concentration is on the excess pressure of the tube. The equations have been solved numerically and investigations are made for different cases on the tube. The results are displayed graphically to study the influence of physical parameters like Jeffrey parameter on the excess pressure velocity and flux. We observe that as the Jeffrey parameter increases the excess pressure decreases. Further effect of excess pressure is more for a tapered tube than straight and locally constricted tube. The theoretical findings may have potential applications in medicine especially in finding remedy for atherosclerosis.
+C. H. Badari Narayana, S. Sreenadh and P. Devaki
+oscillatory-flow-of-a-jeffrey-fluid-in-an-elastic-tube-of-variable-crosssection.pdf" title="Oscillatory flow of a jeffrey fluid in an elastic tube of variable cross-section
+oscillatory-flow-of-a-jeffrey-fluid-in-an-elastic-tube-of-variable-crosssection-15973
+oscillatory-flow-of-a-jeffrey-fluid-in-an-elastic-tube-of-variable-crosssection

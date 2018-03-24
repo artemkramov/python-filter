@@ -1,0 +1,3 @@
+﻿Optical limiting properties of magenta doped PMMA under CW laser illumination
+The optical limiting properties of the magenta doped PMMA film were measured using cw laser beam at 532 nm wavelength. The optical limiting behavior is investigated via transmission measurement through the sample at different concentrations. The results showed that the sample has obvious optical limiting effect. 0.65 mM concentration has the best limiting effect among the four concentrations chosen. Absence of photochemical or photothermal destruction processes in the studied materials suggests their perspective application as a stable optical limiter in photonic devices
+R. KH. Manshad and Q. M. A. Hassan

@@ -1,0 +1,3 @@
+﻿Effect of Wall Absorption on dispersion of a solute in a Herschel Ã¢ÂÂBulkley Fluid through an annulus
+The combined effect of yield stress, irreversible boundary reaction on the dispersion of a tracer in annular region and power index on dispersion process is studied using generalized dispersion model. The study describes the dispersive transport following the injection of a tracer in terms of three effective transport coefficients, viz. the exchange, the convection and the dispersive coefficients. The effect of power index, annular gap, yield stress and wall absorption parameter on the above three effective transport coefficients is discussed. The effect of flow parameters on mean concentration is studied
+B. Ramana and G. Sarojamma

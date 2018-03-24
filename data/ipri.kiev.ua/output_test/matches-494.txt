@@ -1,0 +1,4 @@
+Simulation Modeling of Production Process Control Technology
+Smorodin V.S.
+Complex of simulation modeling for obtaining information when checking an operation and control of technological process of production is offered to use. Fig.: 2. Refs: 3 titles.
+technological processes of production, simulation model, checking an operation.

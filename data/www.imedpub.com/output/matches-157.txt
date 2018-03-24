@@ -1,0 +1,6 @@
+﻿Effect of Deposition Period and pH on Chemical Bath Deposited PbSe Thin Films
+The PbSe thin films prepared through chemical bath deposition technique. The effect of deposition period and pH was studied to determine the optimum condition for deposition process. The structure and morphology of thin films investigated by X-ray diffraction and atomic force microscopy. The optical properties measured to determine transition type and band gap value. By the X-ray diffraction results it has been confirmed that polycrystalline nature with cubic in structure. X-ray diffraction data showed that the most intense peak at 2θ = 25.35° which belongs to (111) plane. As the deposition period increased up to 80 min, the film gradually grew thicker as shown by the AFM images. It is observed that the best crystalline of film is obtained at pH 1.5. Also, AFM images revealed that the grains distributed over the substrate surface. The band gap value found to be 2.6eV with direct transition.
+G. B. Devidas, Sujit Anil Kadam and T. Sankarappa
+effect-of-deposition-period-and-ph-on-chemical-bath-deposited-pbse-thin-films.pdf" title="Effect of Deposition Period and pH on Chemical Bath Deposited PbSe Thin Films
+effect-of-deposition-period-and-ph-on-chemical-bath-deposited-pbse-thin-films-17100
+effect-of-deposition-period-and-ph-on-chemical-bath-deposited-pbse-thin-films

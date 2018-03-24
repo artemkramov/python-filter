@@ -1,0 +1,6 @@
+﻿Effects of magnetic field and an endoscope on peristaltic motion
+The Problem of peristaltic transport of a fluid with magnetic fluid with variable viscosity through the gap between coaxial tubes where the outer tube is non-uniform with sinusoidal wave traveling down is wall and the inner tube is rigid. The relation between the pressure gradient, friction force on the inner and outer tube are obtained in terms of magnetic fluid and viscosity. The numerical solution of pressure gradient, outer friction and inner friction force and flow rate are shown graphically.
+V.P. Rathod and Asha. S. K
+effects-of-magnetic-field-and-an-endoscope-on-peristaltic-motion.pdf" title="Effects of magnetic field and an endoscope on peristaltic motion
+effects-of-magnetic-field-and-an-endoscope-on-peristaltic-motion-14315
+effects-of-magnetic-field-and-an-endoscope-on-peristaltic-motion

@@ -1,0 +1,6 @@
+﻿Peristaltic flow of a couple stress fluid in an inclined channel under the effect of magnetic field by Adomian decomposition method
+The present paper investigates the peristaltic motion of a couple stress fluid in a two dimensional inclined channel with the effect of magnetic field by Adomian decomposition method. The effects of various physical parameters on velocity, pressure gradient and friction force have been discussed &amp; computed numerically. The effects of various key parameters are discussed with the help of graphs.
+V. P. Rathod, Navrang Manikrao and Laxmi Devindrappa
+peristaltic-flow-of-a-couple-stress-fluid-in-an-inclined-channel-under-the-effect-of-magnetic-field-by-adomian-decomposition-metho.pdf" title="Peristaltic flow of a couple stress fluid in an inclined channel under the effect of magnetic field by Adomian decomposition method
+peristaltic-flow-of-a-couple-stress-fluid-in-an-inclined-channel-under-the-effect-of-magnetic-field-by-adomian-decomposition-method-11943
+peristaltic-flow-of-a-couple-stress-fluid-in-an-inclined-channel-under-the-effect-of-magnetic-field-by-adomian-decomposition-metho

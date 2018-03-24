@@ -1,0 +1,3 @@
+﻿Common fixed point theorems in fuzzy metric space
+In this paper, the concept of occasionally weakly compatible maps in fuzzy metric space has been introduced to prove common fixed point theorems which generalize the result of Sharma [13]. We also cited an example in support of our result
+Bijendra Singh, Suman Jain, Arihant Jain and Nitin Jauhari

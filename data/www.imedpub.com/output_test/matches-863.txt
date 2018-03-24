@@ -1,0 +1,3 @@
+﻿Electrical Conductivity of s-Acetylthiocholine Halides and Perchlorate in Methanol at 35ÃÂ°C
+The conductance data of s-acetylthiocholine halides and perchlorate in methanol solution at 35°C are presented. The data were analyzed using the Fuoss-Onsager equation to obtain the charachteristic parameters: equivalent conductance at infinite dilution ΛÃ¢ÂÂ¦, the closest distance of approach (solvation) aÃ¢ÂÂ¦ and association constant KA. The trend of KA is discussed in the light of the solvent separated-ion pair model. The electrostatic Stokes' radii R+ and R- are calculated and their sum is compared with the value of a°.
+Nasr H. El-Hammamy, Aida I. Kawana, Marwa N.El-Hammamy and Heba M. Moharem

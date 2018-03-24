@@ -1,0 +1,3 @@
+﻿Friction calibration map for determination of equal frictional conditions
+In the metal forming process, a realistic frictional condition must be specified at the die/work piece interface in order to obtain accurate metal flow. Several methods are developed to evaluate friction in large deformation processes. This paper presents the concept of friction calibration map to determine different frictional conditions between interfaces of die and billet in the upsetting process. These maps are generated based on the finite element simulation studies. Three such maps are generated for aluminum for three aspect ratios. Numerical and experimental verification of these maps also attempted to show the accuracy of these maps.
+Ajay Kumar Kaviti, Om Prakash and P. Vishwanath

@@ -1,0 +1,3 @@
+﻿Slip effect on the peristaltic flow of a fractional second grade fluid through a cylindrical tube
+Slip effect on the peristaltic flow of a fractional second grade fluid through a cylindrical tube is analyzed. Long wavelength and low Reynolds number assumptions are used to linearise the governing equations. The expression for velocity is obtained. The expression for pressure rise, pressure gradient and friction force have been obtained. The expressions for fractional parameter, material constant, time, amplitude and slip parameter on the axial pressure gradient and friction force are discussed and illustrated graphically through a set of graphs.
+Rathod V. P.and Anita Tuljappa

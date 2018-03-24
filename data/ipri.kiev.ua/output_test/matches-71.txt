@@ -1,0 +1,4 @@
+Foundations of Theory for Constructing Digital Filters with Hypercomplex Coefficients
+Petrenko A.I., Sinkov M.V., Fedorenko O.V.
+Generalization of a method for digital filter transfer function construction, coefficients of which be-long to some hypercomplex numerical system is considered. The method of such filters construction, using arithmetical blocks, which operate with real numbers, is offered. Results of modeling the filter con-structed using offered method are listed. Comparative analysis of those results with results of filters with real coefficients modeling is made. Fig.: 3. Refs: 8 titles.
+digital filters, transfer function, transfer function coefficients, hypercomplex numerical systems, modeling.

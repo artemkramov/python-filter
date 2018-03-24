@@ -1,0 +1,3 @@
+﻿Peristaltic flow of a Prandtl fluid in a symmetric channel under the effect of a magnetic field
+In this paper, we studied the MHD peristaltic flow of a Prandtl fluid in a uniform channel under the assumptions of long wavelength and low Reynolds number. Series solutions of axial velocity and pressure gradient are given by using regular perturbation technique when Prandtl number is small. The effects various emerging parameters on the pressure gradient and pumping characteristics are studied in detail through graphs.
+S. Jothi, A. Ramakrishna Prasad and M. V. Subba Reddy

@@ -1,0 +1,4 @@
+﻿Optical Properties of Chemical Bath Deposited Lead Selenide Thin Films
+Lead selenide (PbSe) thin films were deposited on glass substrates using chemical bath deposition technique. The films growth was based on the decomposition of lead nitrate and selenium sulphate in the presence of ammonia and EDTA disodium salt acting as pH stabilizers and complexing agents respectively. Optical and morphological investigations were also performed. The deposited film (PbSe2) has the highest absorbance at wavelength range of 300nm – 500nm. The optical absorbance generally decreases with increase in wavelength. The optical band gap of the deposited film was found to be 1.18eV.
+Ezenwa I. A.
+optical-properties-of-chemical-bath-deposited-lead-selenide-thin-films.pdf" title="Optical Properties of Chemical Bath Deposited Lead Selenide Thin Films

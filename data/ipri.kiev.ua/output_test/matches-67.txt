@@ -1,0 +1,4 @@
+Magnetooptical Properties of the Nanostructural Media and their Application for Information Recording
+Kravets V.G.
+The possibilities of superdensity informstion recording on the surface of nanostructural materials using magnetic and magnetooptical methods have been analyzed. It is shown that the recording with the laser assistance has substantial advantages in comparison with another methods. The magnetooptical characteristics of the nanogranular CoPt-Ag films are investigated. The results confirm the possibility of their application for superdensity recording. The magnetoresistive and magnetorefractive effects in the films based on CoFe/Al2O3 have been investigated. A storage mechanism is found in these films. Fig.: 4. Refs.: 19 titles.
+nanostructural media, magnetooptical recording, magnetoresistive effect, laser assistance.

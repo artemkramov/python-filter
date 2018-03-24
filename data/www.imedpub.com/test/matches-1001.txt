@@ -1,0 +1,6 @@
+﻿Velocity and acceleration in parabolic cylindrical coordinates
+Instantaneous velocity and acceleration are often studied and expressed in Cartesian, circular cylindrical and spherical coordinates system for applications in mechanics but it is a well-known fact that some bodies cannot not be perfectly described in these coordinates systems, so they require some other curvilinear coordinates systems such as oblate spheroidal, parabolic cylindrical etc. In this paper we derive new expression for position vector, instantaneous velocity and acceleration of bodies and test particle in parabolic cylindrical coordinates system for applications in Newtonian Mechanics, Einstein’s Special Relativistic law of motion and Schrödinger’s law of Quantum Mechanics
+J. F. Omonile, B. B. Ogunwale and S. X. K. Howusu
+velocity-and-acceleration-in-parabolic-cylindrical-coordinates.pdf" title="Velocity and acceleration in parabolic cylindrical coordinates
+velocity-and-acceleration-in-parabolic-cylindrical-coordinates-13490
+velocity-and-acceleration-in-parabolic-cylindrical-coordinates

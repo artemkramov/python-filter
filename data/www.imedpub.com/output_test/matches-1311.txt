@@ -1,0 +1,3 @@
+﻿A fixed point theorem on continuous self maps
+The aim of this paper is to prove a unique common fixed point theorem which generalizes the result of Aage C.T. The conditions continuity and completeness of a metric space are replaced by weaker conditions such as compatible pair of reciprocally continuous self maps
+Rajesh Shrivastava, Kiran Rathore and K. Qureshi *

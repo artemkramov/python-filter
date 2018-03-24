@@ -1,0 +1,6 @@
+﻿Thermosolutal instability of dusty rotating Maxwell visco-elastic fluid in porous medium
+The effect of suspended particles, rotation and magnetic field on the Thermosolutal instability in porous medium is investigated. By applying normal mode analysis method, dispersion relation governing the effect of the solute concentration, suspended particles, rotation, magnetic field and medium permeability is derived. It has been found that for stationary convection, the Maxwell visco-elastic fluid behaves like an ordinary Newtonian fluid due to the vanishing of the viscoelastic parameter. The suspended particles have destabilizing effect whereas rotation and solute concentration have stabilizing effect on the system. The magnetic field and medium permeability have stabilizing/destabilizing effect on the system depending upon certain conditions. The mode may be non oscillatory or oscillatory. The sufficient conditions for non-existence of overstability are also found.
+Ramesh Chand and S. K. Kango
+thermosolutal-instability-of-dusty-rotating-maxwell-viscoelastic-fluid-in-porous-medium.pdf" title="Thermosolutal instability of dusty rotating Maxwell visco-elastic fluid in porous medium
+thermosolutal-instability-of-dusty-rotating-maxwell-viscoelastic-fluid-in-porous-medium-17084
+thermosolutal-instability-of-dusty-rotating-maxwell-viscoelastic-fluid-in-porous-medium

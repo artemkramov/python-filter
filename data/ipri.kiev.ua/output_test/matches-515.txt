@@ -1,0 +1,4 @@
+Block Convolutional Codes in Integrity Check Tasks
+Mаtоv О.Y., Vаsylenko V.S.
+The task of construction of block convolutional code with the use of encoding–decoding algorithms, which are inherent to the classic noise-combating, correcting convolutional code which would be able to provide the detection and correction of double distortions, is considered. Fig.: 5. Refs: 4 titles.
+base code word, distortion, convolutional code, information exchange.

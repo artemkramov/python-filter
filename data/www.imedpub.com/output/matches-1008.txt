@@ -1,0 +1,6 @@
+﻿A comparative study of induced transition in a ring cavity
+The wave analysis and semiclassical theory of laser can be used to find out some related parameters of any Quantum devices. The power spectrum for the induced transition in a Fabry -Perot cavity with two and three mirrors has been worked out with the help of wave analysis involving only a few parameters like transition, absorption and diffraction. The results obtained by wave analysis have been compared with that obtained in the semiclassical theory of Laser. The salient point in the comparative study is that in wave analysis, the nature of the ring cavity is not clearly visualized whereas semiclassical theory throws the much needed light on the interaction of radiation with matter inside the cavity.
+J. Mudoi, J. Dutta, K. C. Sarma and T. Bezboruah
+a-comparative-study-of-induced-transition-in-a-ring-cavity.pdf" title="A comparative study of induced transition in a ring cavity
+a-comparative-study-of-induced-transition-in-a-ring-cavity-13410
+a-comparative-study-of-induced-transition-in-a-ring-cavity

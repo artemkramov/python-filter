@@ -1,0 +1,4 @@
+Algorithm of Resource Allocation Between Projects at Threshold Function of the Degree of Project’s Performance
+Sigal T.G.
+The algorithm of resource allocation when function of a degree of project’s performance is thresh-old function is offered. Thus hierarchy of the purposes is linear. The example of work of decision-making support system on resource allocation between «Solon-MKW» projects in which the given algorithm has been realized is presented. Tabl.: 1. Fig.: 4. Refs.: 9 titles.
+project, resource allocation, function of a degree of project’s performance, hierarchy of the purposes.

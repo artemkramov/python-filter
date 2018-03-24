@@ -1,0 +1,4 @@
+Generalized Noise Combating Codes in the Tasks for Supporting the Information Holding Objects Integrity. Code of Conditional Remainders
+Matov O.J., Vasilenko V.S.
+The tasks of security of information holding objects integrity of telecommunication networks and basic methods (mechanisms) of supporting information integrity in the conditions of natural influences (problem of interference immunity) for the channels of telecommunication networks are considered. For the increase of information stability of holding objects in relation to violation of integrity the increase of binary length of information characters and application of the generalized noise combating, correcting codes which would be able to provide the detection and correction of packages of distortions of consider-able duration is offered. Fig.: 3. Refs: 4 titles.
+base code word, information correctness, distortion, information exchange, telecommunication system, information holding objects integrity.

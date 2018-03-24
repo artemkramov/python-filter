@@ -1,0 +1,4 @@
+Interpretation Model of the Avalanche Climate Appearance Environment Analysis
+Kuzemin A.Ya., Lyashenko V.V., Fastova D.V.
+An important problem of avalanche risks forecasting is considered. The model of situations formalization, which is based on the interpretation of distribution series of probabilities and delimitation of avalanche hazard degree sets, is offered. The possibility of using the model on real data is shown. Necessity for applying the given model for forecasting the time characteristic of avalanches descent is proved. Fig.: 5. Refs: 6 titles.
+geoinformation system, interpretation model, avalanche hazard, set formalization, avalanche climate forecasting.

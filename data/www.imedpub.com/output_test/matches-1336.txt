@@ -1,0 +1,3 @@
+﻿Some generalisations of strong and absolute almost convergence
+The object is to prove some generalisations of strong and absolute almost convergence
+Dharitri Routroy and Laxmidhar Giri

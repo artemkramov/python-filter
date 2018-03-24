@@ -1,0 +1,4 @@
+Methodology of the Situation Control in the Automated Systems for Providing a Necessary Level of Information Security of State Power
+Nesterenko O.V.
+The question of the formalized statement of a problem of the situation control in the conditions of functioning in the public authorities of the proper automated information-analytical systems for providing run-time firmness of fulfillment of the entrusted functions by the public authority, contribution to fight against information entropy, expansion of access to information in the process of decision-making by experts and governing body as a substantial factor of providing information security of public authority is considered. Refs: 7 titles.
+automation, management, control, situation, information security, public authority.

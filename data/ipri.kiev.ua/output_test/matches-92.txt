@@ -1,0 +1,4 @@
+Algorithm for Computing 1D-Convolution by Using Hypercomplex Numbers
+Sinkov M.V., Zakydalsky A.I., Tsybulska Е.O.
+The algorithm for computing 1D real convolution with conversion to 2D Fourier transform and using hypercomplex numbers is presented. The computing complexity of developed algorithm by using various hypercomplex numerical systems is analyzed. Tabl.: 2. Fig.: 2. Refs: 5 titles.
+convolution, discrete Fourier transform, fast Fourier transform, hypercomplex numerical systems.

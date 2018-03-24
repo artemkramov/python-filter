@@ -1,0 +1,3 @@
+﻿Dielectric, Thermal and FTIR studies of Chromium doped Magnesium hydrogen maleate hexahydrate single crystals
+Present work reports the dielectric, thermal and FTIR studies of Cr3+:MHMH single crystal for the first time. Dielectric studies reveal that the present crystal under investigation show good optical quality and the increased a.c. conductivity. This could be due to the reduction in the space charge polarization. The melting point and final compound after decomposition are determined using the TG/DTA analysis. The presence of carboxylate ions in the sample are identified through FTIR studies.
+B. Rajagopal, A.V. Sarma &nbsp;and M.V. Ramana

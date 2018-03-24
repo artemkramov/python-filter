@@ -1,0 +1,3 @@
+﻿Fixed point theorems in PM-spaces satisfying strict contractive condition for weakly compatible maps
+The purpose of this paper is to generalize weak compatible mappings with sharing the property (E. A.) and derive some fixed point theorems in the framework of Menger spaces, which demonstrate the utility of strict contractive condition. This work extends the results contained in available research work over Menger spaces as well as metric spaces
+G. P. S. Rathore, Bijendra Singh and Kirty Chauhan

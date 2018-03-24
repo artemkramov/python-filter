@@ -1,0 +1,6 @@
+﻿Studies of chemical bath anti-reflection thin films of ZnNiS
+Zinc nickel sulphide (ZnNiS) thin films were produced on glass slides by chemical bath deposition technique (CBD). The structural, composition and optical studies were done. These analyses were obtained using an optical microscope and XRD (MD10 version 2.0 X-ray) diffractometer, energy dispersive x-ray fluorescence (EDXRF) and a Janway 6405 UV-VIS spectrophotometer respectively. The effects of variation in the deposition time on the electrical, composition and optical properties of the grown films were discovered. From the XRD results, the films crystal structure was found to be tetragonal..The presence of many peaks indicates that the grown films are polycrystalline. An average grain size (D) of the film was estimated to be 0.003μm. The compositional study shows that as the deposition time increases, the Zn2+ decreases. The optical analysis indicates that the grown films can be applied as antireflection films, solar control coating and absorber layer films. These were discovered from their optical properties
+I. E. Ottih
+studies-of-chemical-bath-antireflection-thin-films-of-znnis.pdf" title="Studies of chemical bath anti-reflection thin films of ZnNiS
+studies-of-chemical-bath-antireflection-thin-films-of-znnis-14003
+studies-of-chemical-bath-antireflection-thin-films-of-znnis

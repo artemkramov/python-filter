@@ -1,0 +1,6 @@
+﻿Thermal focal length of Nd: YLF laser rod crystal at 797nm and 792nm diode-end pump
+A theoretical studied are carried out to study the thermal focal length in a-cut Nd: YLF laser rod crystal at 20W Diode- end-pumped. Different thermal lensing effects for p and s polarizations have been theoretically analyzed .Our results show that the values for thermal focal length are positive for s polarization and negative values for p polarization for end pump laser wavelength 797nm and 792 nm respectively
+Khalid A. Yahya, Oday A. Hussein and Ola H. Mustafa
+thermal-focal-length-of-nd-ylf-laser-rod-crystal-at-797nm-and792nm-diodeend-pump.pdf" title="Thermal focal length of Nd: YLF laser rod crystal at 797nm and792nm diode-end pump
+thermal-focal-length-of-nd-ylf-laser-rod-crystal-at-797nm-andrn792nm-diodeend-pump-15209
+thermal-focal-length-of-nd-ylf-laser-rod-crystal-at-797nm-and792nm-diodeend-pump

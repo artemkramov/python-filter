@@ -1,0 +1,3 @@
+Alternative algorithms for defuzzification
+Yu. А. Zak
+In the case of overlap (overlay) and different size linguistic terms in asymmetric membership functions represented as LR-intervals, in contrast to the known defuzzification methods, the value of the output variable is calculated in the range considered only in the L-th or R-th parts of linguistic terms that overlap. Algorithms and formula expressions are proposed for calculating the output variable, which is determined on the basis of Fuzzy-inference. Proposed algorithms can be used in control systems, technical and medical diagnostics.

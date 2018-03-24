@@ -1,0 +1,3 @@
+﻿Comparison of Delaunay ALGORITHM and CRUST ALGORITHM for the Optimization of Surface Reconstruction System
+In this paper we have studied the Delaunay algorithm and Crust algorithm. We compare these algorithm for the time taken for the surface reconstruction. The goal of surface reconstruction is to find a surface from a given finite set of geometric sample values.
+Vikas Chauhan, Manoj Arora and R. S. Chauhan

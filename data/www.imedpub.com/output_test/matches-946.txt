@@ -1,0 +1,4 @@
+﻿Common fixed point theorems in Menger space with special reference to coincidence points
+The aim of this paper is to prove some common fixed point theorems for the class of compatible maps to larger class of occasionally weakly compatible maps without appeal to continuity in Menger spaces and we also give a set of alternative conditions in place of completeness of the space. We improve and extend the results of Dedeic &amp; Sarapa [3] and Rashwan &amp; Hedar [17]
+Arihant Jain, V. K. Gupta and Ramesh Bhinde
+common-fixed-point-theorems-in-menger-space-with-special-reference-tocoincidence-points.pdf" title="Common fixed point theorems in Menger space with special reference tocoincidence points

@@ -1,0 +1,4 @@
+Improvement of a Measuring System of a Laser-Beam Recorder Positioner Drive
+Kosyak I.V.
+Improvement of a measuring system of a laser-beam recorder positioner drive with the purpose of increasing the precision of its movement is presented. Realization of the given measuring system on the basis of a sine-cosine interpolator by using multiplying digital-analog converters is proposed. Fig.: 1. Refs.: 3 titles.
+positioner, interference signal, master disk, track pitch, signal processing, sine-cosine interpolator.

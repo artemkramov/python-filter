@@ -1,0 +1,6 @@
+﻿Study the Effect of the Magnetic Field on the Electrical Characteristics of the Glow Discharge
+Low-density plasma is generated in a cylindrical DC magnetron discharge tube. The radial and axial distributions of the magnetic field strengths are drawn. The discharge current and voltage (Ia-Va) characteristic curves of the glow discharge have been measured for Ar and He gases pressures. The effect of the applied magnetic field on the (Ia-Va) characteristic curves and on the cathode fall thickness is discussed. The breakdown potentials (VB) of the discharge are lower when the magnetic field is applied.
+M. A. Hassouba and N. Dawood
+study-the-effect-of-the-magnetic-field-on-the-electrical-characteristics-of-the-glow-discharge.pdf" title="Study the Effect of the Magnetic Field on the Electrical Characteristics of the Glow Discharge
+study-the-effect-of-the-magnetic-field-on-the-electrical-characteristics-of-the-glow-discharge-14322
+study-the-effect-of-the-magnetic-field-on-the-electrical-characteristics-of-the-glow-discharge

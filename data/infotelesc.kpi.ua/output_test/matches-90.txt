@@ -1,0 +1,3 @@
+ASYMPTOTIC PROPERTIES OF SELF-SIMILAR TRAFFIC MODELS BASED ON DISCRETE-TIME AND CONTINUOUS-TIME MARTINGALES
+Andriy Pilipenko, Leonid Uryvskyi, Bogdan Trach
+Asymptotic properties of self-similar traffic models based on discrete-time and continuous-time martingales are considered.&nbsp;We discovered that their performance indicators are asymptotically equal at&nbsp;to indicators for model based on Brownian&nbsp;motion.</p>

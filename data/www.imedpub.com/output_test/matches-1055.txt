@@ -1,0 +1,3 @@
+﻿Reliability estimates and confidence interval for three component non-identical series system with CCS failures and human errors
+The current paper describes and illustrates Maximum likelihood (M L) estimation and confidence intervals for three component non-identical system under the influence of Common Cause Shock (CCS) failures and human errors. The maximum likelihood estimates of system reliability measures like Reliability function and Mean time between failures (MTBF) were developed for series system. The relative precision and validity of the M L estimates for selected values of the failure rates were developed by using Monte-Carlo simulation.
+Monte-Carlo simulation

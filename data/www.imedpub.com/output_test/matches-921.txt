@@ -1,0 +1,3 @@
+﻿Molecular dynamics study of the structural and dynamical properties of binary Cu50Zr50 bulk metallic glass
+Molecular dynamics simulations were carried out on Cu50Zr50 system by employing the embedded atom method (EAM) based potentials. The evolution of structure and dynamics with temperature was discussed using radial distribution functions, the volume temperature curve, icosahedral short range order, glass transition temperature and fragility parameter. The simulated results were found in agreement with the available experimental data
+Anik Shrivastava, Mahendra Khandpekar, Satya Gowtam Dometti, Mahesh Mohape and Vinay Deshmukh

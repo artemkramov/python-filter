@@ -1,0 +1,4 @@
+﻿Ab initio studies on optimized geometries for the thiazole derivatives
+The molecular geometry and energies of N,N'-bis(2-Thiazol-yl)methylenediamin (1) in the ground state are calculated by using the HF method with 6-31G* basis sets. The calculated HOMO and LUMO energies also confirm that charge transfer occurs within the molecule. The geometries and energies obtained from HF/6-31G* calculations are in good agreement with the experimentally observed data.
+Farshid Salimi, Masume Maleki, Ali Shafaghat, Mohmmad Khodadadi-Moghaddam
+ab-initio-studies-on-optimized-geometries-for-the-thiazole-derivatives.pdf" title="Ab initio studies on optimized geometries for the thiazole derivatives

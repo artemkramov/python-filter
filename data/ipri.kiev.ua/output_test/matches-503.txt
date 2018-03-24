@@ -1,0 +1,4 @@
+Measures and Estimations for Block Ciphers Security against First Order Statistical Attacks
+Aleksejchuk А.N., Shevtsov A.S.
+Analytical upper estimations of the success probability of a distinguishing and, consequently, a «breaking» first order statistical attack on block ciphers are obtained. These estimations form a foun-dament for the definition of measures that characterize provable security of block ciphers against generalized linear, bilinear and some other cryptanalysis techniques. For the case of linear distinguishing attack, the obtained estimation of block ciphers security is more accurate that the previous well-known estimation. Refs: 15 titles.
+information cryptographical security, block cipher, provable security, statistical attack, statistical test.

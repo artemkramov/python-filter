@@ -1,0 +1,3 @@
+Organization of Structure of a Modeling Stand for Trying out the Functioning of On-Board Radar Complexes
+Questions on organizing structure-functional building of a complex modeling stand for trying out the functioning of on-board radar complexes and their software-algorithm support by using full-scale modeling method are considered. Fig.: 1. Refs: 6 titles.
+modeling, test, experiment models, object, product, stand.

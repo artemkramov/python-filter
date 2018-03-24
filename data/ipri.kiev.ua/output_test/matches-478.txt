@@ -1,0 +1,4 @@
+Adaptive Search in Scientific Libraries Information-Search Systems
+Hadzhinov V.V., Yakovleva Yu.V.
+Traditional information search adaptation methods are analyzed. Methods which are expedient for using in information retrieval systems of scientific libraries are selected. Directions on using search adap-tation method on the basis of user request modification are offered. Fig.: 1. Refs: 14 titles.
+information-search systems, adaptive search, automation of library processes, scientific libraries.

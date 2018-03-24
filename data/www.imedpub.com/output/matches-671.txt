@@ -1,0 +1,6 @@
+﻿Comparison between experimental result and theoretical prediction using FloryÃ¢ÂÂs theory for the binary liquid mixtures
+The velocity of ultrasonic (u.s) waves (10 MHZ) for different compositions of mixtures of bioliquids, Methanol, Cyclohexane and p-dioxane with Acrolein and Cinnamaldehyde has been measured in the temperature range 10-400C. The percentage excess compressibility (% βa E) and percentage excess molar volume (% VE ) has been discussed in the light of intermolecular AB interactions and resulting disorder in these mixtures at temperature 303.15 K. Flory’s theory has been applied in calculating u.s. velocity in mixture at temperature 303.15 K of molecular of different assigned shapes and good agreement between experiment and theory has been observed.
+V. D. Bhandakkar, O. P. Chimankar and A. A. Mistry
+comparison-between-experimental-result-and-theoretical-prediction-using-florys-theory-for-the-binary-liquid-mixtures.pdf" title="Comparison between experimental result and theoretical prediction using FloryÃ¢ÂÂs theory for the binary liquid mixtures
+comparison-between-experimental-result-and-theoretical-prediction-using-florys-theory-for-the-binary-liquid-mixtures-16958
+comparison-between-experimental-result-and-theoretical-prediction-using-florys-theory-for-the-binary-liquid-mixtures

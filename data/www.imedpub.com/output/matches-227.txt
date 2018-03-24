@@ -1,0 +1,6 @@
+﻿Digital rate conversion with a non-rational ratio for high-speed echocancellation modem
+In this paper, we discuss the application of digital rate conversion in high-speed echo-cancellation modems. The requirement of rate conversion in echo-cancellation modems is first described. We then introduce the concept of digital rate conversion with a non-rational ratio and consider two types of approximations for implementation of such a rate converter. Special considerations for the application of rate conversion to echo-cancellation modems are discussed in detail. We discuss the design requirements and optimization criterion of interpolation filters for this application. The special problem of sampling clock jitter occurring in this application, its impact to modem performance and its compensation techniques are discussed
+O. E. Ehinlafa and G.A. Ibitola
+digital-rate-conversion-with-a-nonrational-ratio-for-highspeed-echocancellationmodem.pdf" title="Digital rate conversion with a non-rational ratio for high-speed echocancellationmodem
+digital-rate-conversion-with-a-nonrational-ratio-for-highspeed-echocancellationrnmodem-16681
+digital-rate-conversion-with-a-nonrational-ratio-for-highspeed-echocancellationmodem

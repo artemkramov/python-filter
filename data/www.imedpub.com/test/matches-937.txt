@@ -1,0 +1,6 @@
+﻿A comparative study of effect of complex conjugate terms in ring laser cavity
+The frequency splitting arises from the removal of the mode degeneracy existing for the two oppositely traveling waves, due to the differential cavity path length change produced by the rotation. We have derived gain and dispersion relations using real and then complex conjugate terms of electric field and polarization in Maxwell’s equation. It is observed that the new equations are different from the original equations derived by Lamb and his coworkers and have physical significance. In this case mode pulling is also affected.
+J. Mudoi, K. C. Sarma and T. Bezboruah
+a-comparative-study-of-effect-of-complex-conjugate-terms-in-ring-laser-cavity.pdf" title="A comparative study of effect of complex conjugate terms in ring laser cavity
+a-comparative-study-of-effect-of-complex-conjugate-terms-in-ring-laser-cavity-13610
+a-comparative-study-of-effect-of-complex-conjugate-terms-in-ring-laser-cavity

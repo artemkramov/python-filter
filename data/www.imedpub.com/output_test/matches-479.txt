@@ -1,0 +1,3 @@
+﻿A Comparative Study of Non Linear and Linear System of Three Species Ecological Model
+The present paper is devoted to Numerical investigation of three species ecological model with a Prey ( 1 N ), a predator ( 2 N ) and a competitor ( ) 3 N to the both prey ( 1 N ) and Predator ( 2 N ). In addition to that, the species are provided with alternative food. The model is characterized by a set of first order non-linear ordinary differential equations. All the eight equilibrium points of the model are identified and study the comparison between linear system of equations and nonlinear system of equations using Numerical example with mat lab simulation.
+Papa Rao. A. V., Lakshmi Narayan. K and Shahnaz Bathul

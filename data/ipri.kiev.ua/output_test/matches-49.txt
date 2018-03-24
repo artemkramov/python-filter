@@ -1,0 +1,4 @@
+Decision Support on Information Security Incidents Management in Organizational-Technical Systems
+Gladysh S.V.
+The automation and intellectualization problem of information security incidents management in organizational-technical systems is considered. The research goal, factors, criteria and parameters of au-tomated decision support procedures are defined. The functional scheme of the corresponding intelli-gence system is proposed. Fig.: 1. Refs.: 40 titles.
+information security, incident, handling, response, management system.

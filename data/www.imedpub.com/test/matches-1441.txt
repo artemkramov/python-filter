@@ -1,0 +1,6 @@
+﻿Slip velocity effect on MHD oscillatory blood flow through stenosed artery
+A mathematical model is developed to study the MHD oscillatory blood flow through stenosed artery under the effect of slip velocity. The blood is assumed to be Newtonian. Analytical expressions for velocity profile, flow rate, wall shear stress and resistive impedance have been obtained. These expressions are computed numerically and the computational results are presented graphically. It is noticed that the velocity profile decrease as Hartmann number increases and it increases as slip velocity increases
+Raja Agarwal and N. K. Varshney
+slip-velocity-effect-on-mhd-oscillatory-blood-flow-through-stenosed-artery.pdf" title="Slip velocity effect on MHD oscillatory blood flow through stenosed artery
+slip-velocity-effect-on-mhd-oscillatory-blood-flow-through-stenosed-artery-14001
+slip-velocity-effect-on-mhd-oscillatory-blood-flow-through-stenosed-artery

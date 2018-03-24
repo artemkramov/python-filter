@@ -1,0 +1,3 @@
+﻿Semi-circle theorems in modified thermosolutal convection problems
+The problem of modified thermosolutal convection of the Veronis’ and Stern’s type configurations is considered in the present paper. Semi -circle theorems that prescribe upper limits for the complex growth rate of oscillatory motions of neutral or growing amplitude are derived. The limits so obtained naturally culminate in sufficient conditions precluding the non-existence of such motions. The results obtained herein significantly improve upon the earlier results derived in this direction.
+Hari Mohan

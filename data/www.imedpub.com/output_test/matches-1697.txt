@@ -1,0 +1,3 @@
+﻿On the application of the multistage laplace adomian decomposition method with pade approximation to the rabinovich-fabrikant system
+In this paper, multi-staging (MLADM) and padé approximation are employed as tools to improve the performance of the Laplace Adomian Decomposition Method (LADM) scheme on the Rabinovich-Fabrikant system for the nonchaotic and chaotic case. We observe that the MLADM solutions were consistent with the fourth order Runge-Kutta (RK4) solutions and that padé approximation does not sufficiently improve the LADM or the MLADM solutions for the chaotic and non-chaotic Rabinovich-Fabrikant system.
+Kolebaje O. T., Ojo O. L., Akinyemi P. and Adenodi R. A.

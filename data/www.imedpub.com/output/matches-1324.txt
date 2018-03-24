@@ -1,0 +1,6 @@
+﻿An optimal fourth order weighted-Newton method for computing multiple roots and basin attractors for various methods
+In this paper, we present an optimal fourth order method for finding multiple roots of a nonlinear equation f(x)=0. In terms of computational cost, the method uses one evaluation of the function and two evaluations of its first derivative per iteration. Therefore, the method has optimal order with efficiency index 1.587 which is better than efficiency indices 1.414 of Newton method, 1.442 of Halley’s method and 1.414 of Neta-Johnson method. Numerical examples are given to support that the method thus obtained is competitive with other similar robust methods. The basins of attraction of the proposed method are presented and compared with other existing methods.
+Ashu Bahl and Rajni Sharma
+an-optimal-fourth-order-weightednewton-method-for-computing-multiple-roots-and-basin-attractors-for-various-methods.pdf" title="An optimal fourth order weighted-Newton method for computing multiple roots and basin attractors for various methods
+an-optimal-fourth-order-weightednewton-method-for-computing-multiple-roots-and-basin-attractors-for-various-methods-17109
+an-optimal-fourth-order-weightednewton-method-for-computing-multiple-roots-and-basin-attractors-for-various-methods

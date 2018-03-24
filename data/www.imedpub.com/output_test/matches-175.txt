@@ -1,0 +1,3 @@
+﻿Encircled energy factor in impulse response functions of optical systems with first-order parabolic filters
+In the present paper, we have studied the Encircled Energy Factor, EEF (d ),0
+P. Thirupathi

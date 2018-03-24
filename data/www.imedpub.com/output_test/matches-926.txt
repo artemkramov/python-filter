@@ -1,0 +1,3 @@
+﻿Electrical properties of (PbO)1-x (CdO)x thin films fabricated by spray pyrolysis technique
+Nano particles of Mixed (PbO)1-x(CdO)x thin films were prepared by spray pyrolysis technique at a substrate temperature of 400oC. The films deposited were 160 nm thickness. It has been making electrical measurements such as the Hall effect and D.C conductivity for all films. The results showed that (PbO) has conductivity about of [209×10-5 (Ω.cm)-1] at room temperature, and this conductivity increased with increasing of CdO Vol.%, as well as the results showed throughout the study that all films have tow activation energy and this energy increase with increasing of Vol.% of (x)
+Nahida B. Hasan and Mohammed Ahmed Mohammed

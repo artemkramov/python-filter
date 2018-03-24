@@ -1,0 +1,3 @@
+﻿Vibration of damped simply supported orthotropic rectangular plates resting on elastic winkler foundation, subjected to moving loads
+In this work the fourth order differential equation governing the vibration of damped orthotropic rectangular plate resting on Winkler foundation was reduced to second order coupled differential equation by separating the variables. The coupled differential equation was solved using numerical methods .The classical edge condition used as an illustrative example is the simple support conditions. The effects of some physical phenomena were investigated and the results obtained are discussed and graphically presented.
+Are E. B., Idowu A. S. and Gbadeyan J. A.

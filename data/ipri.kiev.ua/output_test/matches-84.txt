@@ -1,0 +1,4 @@
+Approaches to the Resonant-Tunneling Diodes Physical Simulation
+Svirin P.V.
+Approaches to the physical simulation of resonant-tunneling effect and the simulation of resonant-tunneling diodes (RTD) are considered. The RTD principles of operation are described. An overview of the RTD physical models and their comparison are made. Tabl.: 1. Fig.: 4. Refs: 28 titles.
+resonant-tunneling effect, resonant-tunneling diode, models.

@@ -1,0 +1,6 @@
+﻿Peristaltic Pumping of a Conducting Jeffrey Fluid in a Vertical Porous Channel with Heat Transfer
+Peristaltic pumping of a conducting Jeffrey fluid in a vertical porous channel with heat transfer is presented. The perturbation method is used to find the solution. The expressions for temperature, velocity, pressure rise and volume flow rate are obtained. The effect of various parameters on the temperature and the pumping characteristics are discussed through graphs.
+S. V. H. N. Krishna Kumari. P, Y. V. K. Ravi Kumar, M. V. Ramana Murthy, S. Sreenadh
+peristaltic-pumping-of-a-conducting-jeffrey-fluid-in-a-vertical-porous-channel-with-heat-transfer.pdf" title="Peristaltic Pumping of a Conducting Jeffrey Fluid in a Vertical Porous Channel with Heat Transfer
+peristaltic-pumping-of-a-conducting-jeffrey-fluid-in-a-vertical-porous-channel-with-heat-transfer-17061
+peristaltic-pumping-of-a-conducting-jeffrey-fluid-in-a-vertical-porous-channel-with-heat-transfer

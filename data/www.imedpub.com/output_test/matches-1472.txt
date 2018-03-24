@@ -1,0 +1,3 @@
+﻿Points to ponder in the study of cadmium iodide
+During the growth of cadmium iodide crystals from solution, it has been observed that sometimes the crystal suddenly rotates. Probably, the convection currents are providing the force for the rotation. Mathematically, this force can be estimated and it must be greater than the van-der Walls force acting between adjacent sandwiches of cadmium iodide and can give rise to polytypic phase transformations. Further, studies of vacancies and the density measurements of various polytypes can help in understanding the phenomenon of polytypism better
+Harjeet Kaur

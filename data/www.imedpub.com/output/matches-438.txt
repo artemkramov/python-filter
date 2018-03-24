@@ -1,0 +1,6 @@
+﻿Study of thermodynamic and transport properties of ternary liquid mixture at different temperatures
+The Ultrasonic velocity, density, and viscosity have been measured for ternary mixture of N-N dimethyl formamide (DMF), Cyclohexane and Chloro-benzene at different temperatures for a constant frequency (6 MHz). These experimental data have been used to estimate the thermodynamic parameters such as adiabatic compressibility (β), free length (Lf), internal pressure (ÃÂi), relaxation time (τ), acoustic impedance (Z), and Gibb’s free energy (ΔG) for the solution. The excess values of the parameters are also evaluated and discussed.
+Manoj Ku. Praharaj, Prativarani Mishra, Sarmistha Mishra, Abhiram Satapathy
+study-of-thermodynamic-and-transport-properties-of-ternary-liquid-mixtureat-different-temperatures.pdf" title="Study of thermodynamic and transport properties of ternary liquid mixtureat different temperatures
+study-of-thermodynamic-and-transport-properties-of-ternary-liquid-mixturernat-different-temperatures-16235
+study-of-thermodynamic-and-transport-properties-of-ternary-liquid-mixtureat-different-temperatures

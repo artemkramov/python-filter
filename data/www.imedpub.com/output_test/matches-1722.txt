@@ -1,0 +1,3 @@
+﻿Fuzzy quantization of Bandlet coefficients for image compression
+In this paper, a quantization approach based on fuzzy membership functions is proposed which is applied for image compression. First the original image is decomposed to obtain bandlet coefficients. Then fuzzy quantization is applied to the bandlet coefficients. The proposed approach includes the characteristics of fuzzy sets; thus better compression with lesser loss of data is obtained. Experimental results show that more accurate reconstructed values of bandlet coefficients compared to uniform quantization can be obtained which improves the quality of the reconstructed image.
+R. Rajeswari and R. Rajesh

@@ -1,0 +1,5 @@
+Weak Acoustooptic Interaction Modeling by the Time Domain Finite Elements Method
+Lipinsky A.Y., Rudyakova A.N., Danilov V.V.
+The design of acoustooptical digital processors requires the using of numerical solution methods, which allow to take into account the finite aperture of acoustooptic cell. The modeling of weak acous-tooptic interaction by vector finite elements time-domain method is presented. Fig.: 10. Refs: 16 titles.
+weak acoustooptic interaction, finite elements method, time domain
+paper.doc

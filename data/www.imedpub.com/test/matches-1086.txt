@@ -1,0 +1,6 @@
+﻿Constructasa simple radon chamber for measurement of radon detectors calibration factors
+In this work a radon calibration chamber was designed and build in the environmental pollution laboratoryuniversity of Basra. The chamber a volume is 125l and contains a standard radon source (226Ra) and radon distribute fan. The pressure and temperature inside the chamber are kept constant during the experiment. Different types of calibration data wereachieved by using this design.The calibration factor of CR39 used in cylindrical can 25cm x 7 cm was found to be 0.2279±0.022Tr/cm2.d/Bq/m3. While, calibration factor for 11 cm x 7 cm was 0.3420±0.0459 Tr/cm2. d/Bq/m3 and the indoor calibration factor using cup technique 6 cm x 7 cm was 0.1888±0.0433Tr/cm2.d/Bq/m3.
+Abdul R.H. Subber,Noori H.N. Al-Hashmi, Ali Farhan Nader,Jabbar H. Jebur andM. K. Khodier
+constructasa-simple-radon-chamber-for-measurement-of-radon-detectorscalibration-factors.pdf" title="Constructasa simple radon chamber for measurement of radon detectorscalibration factors
+constructasa-simple-radon-chamber-for-measurement-of-radon-detectorsrncalibration-factors-13287
+constructasa-simple-radon-chamber-for-measurement-of-radon-detectorscalibration-factors

@@ -1,0 +1,3 @@
+﻿Sample preparation for atomic spectroscopic analysis: An overview
+Sample preparation is an important step in chemical analysis, from time and reagent consuming point of view and from the probability of errors. In the present article, types of samples, problems associated with sample preparation, and sample preparation for most used atomic spectroscopic techniques, FAAS, GFAAS, ICP, and XRF have been discussed.
+Nabil Ramadan Bader and Barbara Zimmermann

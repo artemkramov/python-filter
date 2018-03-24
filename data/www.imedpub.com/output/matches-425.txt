@@ -1,0 +1,6 @@
+﻿The effect of Soret parameter on the onset of double diffusive convection in a Darcy porous medium saturated with couple stress fluid
+The onset of double diffusive convection in a couple stress fluids saturated horizontal porous layer in presence of Soret effect is studied analytically using linear stability analyses. The modified Darcy equation is used to model the momentum equation. The linear theory is based on the usual normal mode technique. The effect of the couple stress parameter, the solute Rayleigh number, the Vadasz number, the diffusivity ratio, the Soret parameter on stationary and oscillatory convection is shown graphically.
+Sravan N. Gaikwad and Shravan S. Kamble
+the-effect-of-soret-parameter-on-the-onset-of-double-diffusive-convectionin-a-darcy-porous-medium-saturated-with-couple-stress-flu.pdf" title="The effect of Soret parameter on the onset of double diffusive convectionin a Darcy porous medium saturated with couple stress fluid
+the-effect-of-soret-parameter-on-the-onset-of-double-diffusive-convectionrnin-a-darcy-porous-medium-saturated-with-couple-stress-fluid-16212
+the-effect-of-soret-parameter-on-the-onset-of-double-diffusive-convectionin-a-darcy-porous-medium-saturated-with-couple-stress-flu

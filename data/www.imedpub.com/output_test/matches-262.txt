@@ -1,0 +1,3 @@
+﻿Combined radiation and natural convection in a vertical conical annular porous medium
+In this paper, we concentrate on the study of heat transfer by natural convection in a saturated porous medium including Radiation confined in a vertical conical annular porous medium. In this study, Finite Element Method (FEM) has been used to solve the governing partial differential equations. Results are presented interms of average Nusselt number ( Nu ), streamlines and Isothermal lines for various values of Rayleigh number (Ra), Cone angle (CA) Radius ratio (Rr) and Radiation parameter (Rd).
+D. Prabhakar, S. Ravikumar and R. Siva Prasad

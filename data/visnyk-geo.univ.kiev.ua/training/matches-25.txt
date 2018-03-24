@@ -1,14 +1,16 @@
-﻿null
+﻿&amp
+null
 THE STRUCTURE AND DEVELOPMENT OF URBAN SETTLEMENT SYSTEM
 Gladkey A.</p><p>Taras Shevchenko National University of Кyiv, Кyiv, Ukraine
 /strong></p><p>The features of urban population settlement development are disclosed. The peculiarities of urban territorial structures in different regions are explored. The supporting frame of urban population settlement development is investigated. The traditional types of urban settlement supporting frames (ring-radial, rectangular regular, linear-nodular, seaside as well as multicore) are defined. The new forms of ring-radial settlement systems (vector, polynuclear, semi-ring et al.) are characterized. The main advantages and disadvantages of urban settlement configuration are shown. The basic examples of their development are proposed.</p><p><strong>Keywords:</strong>
 urban settlement system, the carcass structure settlement, settlements configuration
 /strong></p><p>u
 DOI:</strong><a href="http://doi.org/10.17721/1728-2721.2014.62.4">http://doi.org/10.17721/1728-2721.2014.62.4</a></p><p><strong>References:
-/p><ol><li>Ivchenko A. Mista Ukrainy. Dovidnyk[ Cities of Ukraine. Directory], Kyiv:<em>NVP Kartohrafiia,</em>1999, 136 p.</li><li>Kovalenko P. S. Razvytye horodov [The development of cities],Kyiv:<em>Naukova dumka</em>, 1980,299 p.</li><li>Lappo H. Horoda na puty v buduschee [Cities on the road to the future], Moscow:<em>Mysl</em>‘,1987, 236 p.</li><li>Lappo H. Razvytye horodskykh ahlomeratsyj v SSSR [The development of urban centers in the USSR] ,Moscow:<em>Nauka</em>,1978, 152 p.</li><li>Lappo H. Rasskazy o horodakh [Stories about cities], Moscow:<em>Mysl</em>‘, 1976, 219 p.</li><li>Pertsyk E. Heohrafyia horodov (heourbanystyka): Ucheb. Posobye. [Geography Cities (geourbanistika): Textbook], Moscow:<em>shk.</em>, 1991, 319 p.</li><li>An Urbanizing World. Global Report on Human settlement 1996 // United Nations centre for Human Settlement,1996, 560 p.</li><li>Antikainen J. Building Invisible Bridges – Urban networking and the Baltic Sea Region // EGEA Magazine,1999,Vol. 1, p. 6-15.</li><li>World Urbanization Prospects: Estimates and Projection of Urban and Rural Population and Urban Agglomerations. – New York, UN, 1998, 191 p.</li></ol><p
+ol><li>Ivchenko A. Mista Ukrainy. Dovidnyk[ Cities of Ukraine. Directory], Kyiv:<em>NVP Kartohrafiia,</em>1999, 136 p.</li><li>Kovalenko P. S. Razvytye horodov [The development of cities],Kyiv:<em>Naukova dumka</em>, 1980,299 p.</li><li>Lappo H. Horoda na puty v buduschee [Cities on the road to the future], Moscow:<em>Mysl</em>‘,1987, 236 p.</li><li>Lappo H. Razvytye horodskykh ahlomeratsyj v SSSR [The development of urban centers in the USSR] ,Moscow:<em>Nauka</em>,1978, 152 p.</li><li>Lappo H. Rasskazy o horodakh [Stories about cities], Moscow:<em>Mysl</em>‘, 1976, 219 p.</li><li>Pertsyk E. Heohrafyia horodov (heourbanystyka): Ucheb. Posobye. [Geography Cities (geourbanistika): Textbook], Moscow:<em>shk.</em>, 1991, 319 p.</li><li>An Urbanizing World. Global Report on Human settlement 1996 // United Nations centre for Human Settlement,1996, 560 p.</li><li>Antikainen J. Building Invisible Bridges – Urban networking and the Baltic Sea Region // EGEA Magazine,1999,Vol. 1, p. 6-15.</li><li>World Urbanization Prospects: Estimates and Projection of Urban and Rural Population and Urban Agglomerations. – New York, UN, 1998, 191 p.</li></ol><p
 6/04/6-62.pdf">Download&nbsp;(.pdf)</a
 /strong></p><p>Gladkey, A. (2014). The structure and development of urban settlement system.
- natsionalnogo universytetu, Geografiya</em>[Bulletin of Taras Shevchenko National University of Kyiv, Geography], 1 (62), 16-22 (in Ukrainian, abstr. in English).
+ natsionalnogo universytetu, Geografiya
+ Taras Shevchenko National University of Kyiv, Geography], 1 (62), 16-22 (in Ukrainian, abstr. in English).
 1348
 2767
 2347

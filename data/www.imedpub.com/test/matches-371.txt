@@ -1,0 +1,6 @@
+﻿DirichletÃ¢ÂÂs problem on cracked polygonal domains
+This paper deals with solving Poisson’s equation with Dirichlet’s boundary conditions on cracked domains obtained by means of translations, symmetries and rotations of basic equilateral triangle. The method of large finite elements used gives satisfactory results. Numerical values obtained are highly accurate for both stress function u and its first derivatives except at the cracks end where significant variations are observed.
+Ouigou M. Zongo, Sié Kam, Pelega F. Kieno and Alioune Ouedraogo
+dirichlets-problem-on-cracked-polygonal-domains.pdf" title="DirichletÃ¢ÂÂs problem on cracked polygonal domains
+dirichlets-problem-on-cracked-polygonal-domains-16598
+dirichlets-problem-on-cracked-polygonal-domains

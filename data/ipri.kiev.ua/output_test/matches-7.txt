@@ -1,0 +1,4 @@
+Self-Similarity of Network Publications Files on Computer Virology
+Dodonov A.G., Lande D.V.
+An approach to the organization of the analysis of a thematic publications stream on computer vi-rology, submitted in web-space, is described. The fractal nature of information streams is proved, the basic algorithms used during researches are described and forecasts conclusions on the basis of persistent properties of time series are given. Fig.: 7. Refs.: 12 titles.
+Internet resources, self-similarity, correlations, fractal analysis, information streams, computer viruses.

@@ -1,0 +1,4 @@
+Estimation of Influencing of Channels Parameters on Availability of Information in Tele-communications
+Mаtоv О.Y., Vаsylenko V.S.
+The influence of channels state on the relative speed as a main component of availability in the procedures of information exchange in telecommunication systems is considered. The analysis of dependence of relative speed on channels state for information exchange protocols is proposed, the expressions for it calculation are given. Fig.: 1. Refs: 5 titles.
+relative speed, base code word, distortion, availability of information, information exchange, telecommunications.

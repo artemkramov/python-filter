@@ -1,0 +1,4 @@
+Features of Realisation of a Complex Control-Estimated Method in Processes of Diagnosing Complex Dynamical Objects of Aeronautical Engineering
+Chokha Y.N., Fedorchuk A.P.
+Methodological stages of realisation of a versatile complex control-estimated method and features of its practical realisation in the environment of the automated estimated-information systems for providing a timely profound estimation of a current technical condition of typical complex objects of aeronautical engineering and support of making the operational decision by the aircraft service personnel are considered. Tabl.: 1. Fig.: 5. Refs: 6 titles.
+object of aeronautical engineering, parameters monitoring system, diagnosing method, decision-support system.

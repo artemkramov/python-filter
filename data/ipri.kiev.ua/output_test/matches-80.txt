@@ -1,0 +1,4 @@
+Creation Methods of Multilayer Holographic Media Based on the Photoluminescent Materials and Bleaching Effect Mediums
+Beliak Ie.V., Kozhan T.M., Kryuchin A.A.
+The reasons of alternatives’ ranking derangement (rank reversal), observed while calculating their weights using pair-wise comparison methods, are analysed. Cases of alternative addition to and its exclu-sion from the set of evaluated alternatives are considered. The method of averaged weights’ calculation based on pair-comparisons’ matrices, obtained from expert group, that allows to save the ranking after adding a new alternative to the set of alternatives, whose weights were calculated before, is proposed. As a result of experimental investigation, the main characteristic parameters of the proposed method were obtained. Tabl.: 3. Refs: 7 titles.
+optical recording, multilayer optical disc, fluorescent recording medium, holographic media, bleaching effect medium.

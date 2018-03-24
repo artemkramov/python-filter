@@ -1,0 +1,6 @@
+﻿A numerical approach of a typical three species syn-eco-system
+In this paper,we are studing the numerical approach of a typical three species syn eco-system. The system comprises of a commensal (S1), two hosts S2 and S3 ie., S2 and S3 both benefit S1, without getting themselves effected either positively or adversely. Further S2 is a commensal of S3 and S3 is a host of both S1, S2.. Limited resources are considered for all three species in this case. The model equations of the system constitute a set of three first order non-linear ordinary differential coupled equations. In all, eight equilibrium points of the model are identified. In this paper the numerical solutions for the growth rate equations are computed using Runga-Kutta fourth order method.
+B. Hari Prasad and N.Ch. Pattabhi Ramacharyulu
+a-numerical-approach-of-a-typical-three-species-synecosystem.pdf" title="A numerical approach of a typical three species syn-eco-system
+a-numerical-approach-of-a-typical-three-species-synecosystem-16714
+a-numerical-approach-of-a-typical-three-species-synecosystem

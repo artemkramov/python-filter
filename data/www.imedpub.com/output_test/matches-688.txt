@@ -1,0 +1,3 @@
+﻿Dielectric characterization studies of lower order alcohols with n-propyl amine
+The dipole moment of the 1:1 complexes of lower order alcohols with n-propyl amine at 301K have been determined by using Huysken's method based on the Onsager theory. The dipolar increments of the systems were computed from the bond angle data available from molecular orbital theory. The enhancement of the dipole moment confirms the hydrogen bonding between all the systems.
+S. Aram, H. B.Ramalingam and P. Krishnamurthi

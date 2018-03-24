@@ -1,0 +1,10 @@
+﻿null
+26">Vol 1, No 4 (2014
+395/0">Aggarwal
+Rehabilitation of the Blind using Audio to Visual Conversion Tool
+Ashwani Kumar Aggarwal
+<strong>In human beings, eyes play a vital role. A very less research has been done for rehabilitation of blindness for the blind people. This paper discusses the work that helps blind people for recognizing the basic shapes of the objects like circle, square, triangle, horizontal lines, vertical lines, diagonal lines and the wave forms like sinusoidal, square, triangular etc. This is largely achieved by using digital camera, which is used to capture the visual information present in front of the blind person and a software program, which achieves the image processing operations, and finally the processed image is converted into sound. After the sound generation process, the generated sound is fed to the blind person through headphones for visualizing the imaginary image of the object. For visualizing the imaginary image of the object, it needs to train the blind person. Various training process methods had been applied for recognizing the object.</strong>
+Image processing, Pixel, Pitch, Loudness, sound generation, Edge detection, brightness.
+395/180
+14.395">http://dx.doi.org/10.14738/jbemi.14.395
+There are currently no refbacks.

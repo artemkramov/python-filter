@@ -1,0 +1,3 @@
+﻿Branch and bound technique to two stage flow shop scheduling problem in which setup time is separated from processing time and both are associated with probabilities including job block criteria
+This paper presents an algorithm with the help of branch and bound approach for a flowshop scheduling problems consisting of n jobs to be processed on 2 machines in which setup time is separated from processing time and both are associated with probabilities including job block criteria.
+Deepak Gupta and Harminder Singh

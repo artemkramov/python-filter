@@ -1,0 +1,3 @@
+﻿Characterization of Thin Films of Cd - doped SnO for Optoelectronic Applications
+Cadmium tin oxide Cd2SnO4 thin films were prepared by RF magnetron sputtering technique on glass substrates at room temperature. The as-prepared films were amorphous. The optical parameters as transmittance, optical energy gap, refractive index and the width of the band tails of the localized states found to be affected by changing the annealing temperature and thicknesses of the films. The electrical resistivity found to be affected by annealing temperature too.
+Mostafa M. Abd El-Raheem , Mahmoud. S. Rasheedy , Hamed. E. Ahmed a,, Mohamed. S. Abd El-Aal , Huda. H. Al-Ofi , Essam E.Mohamed

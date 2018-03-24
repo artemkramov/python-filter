@@ -1,0 +1,4 @@
+﻿A mathematical theorem in magnetothermohaline convection in porous medium
+The present paper mathematically establishes that magnetothermohaline convection of the Veronis type in porous medium cannot manifest as oscillatory motion of growing amplitude in an initially bottom heavy configuration if the thermohaline Rayleigh number Rs , the Lewis number τ, the Prandtl number , the porosity , satisfy the inequality Rs ≤   + 
+    ′ , where  and ′ are constants which depend upon porosity of the medium. It further establishes that this result is uniformly valid for the quite general nature of the bounding surfaces. A similar characterization theorem is also proved for magnetothermohaline convection of the Stern type.
+Jyoti Prakash, Sanjay Kumar Gupta and Vinod Kumar

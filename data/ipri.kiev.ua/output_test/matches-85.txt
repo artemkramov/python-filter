@@ -1,0 +1,3 @@
+Optimal Balanced Mappings in Constructions of Keystream Generators with Irregular Clock-ing and Key Transmission Protocols over Wire-Tap Communication Channel
+Analytical expressions and estimations of reliability of statistic procedures for the reconstruction of values of the output combine function of a keystream generator with irregular clocking are obtained. These expressions permit to extend a number of statements about the message security resistance in data-transmission systems over wire-tap communication channel on the considered class of keystream generators. Refs: 14 titles.
+cryptographical analysis, keystream generator with irregular clocking, wire-tap communication channel, random coding.

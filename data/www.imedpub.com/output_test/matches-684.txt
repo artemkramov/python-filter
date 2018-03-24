@@ -1,0 +1,3 @@
+﻿New algorithms for minimization of non linear functions by numerical methods
+In this paper, we propose three new algorithms namely, Orthogonal Circle Approach Algorithm, Orthogonal Circle-Tangent Approach Algorithm and Family of quadratic convergence algorithms for minimization of non-linear functions. Some illustrations are discussed by using the first two new algorithms with Newton’s algorithm. Then comparative study among the new algorithms is established by using few nonlinear functions.
+K. Karthikeyan and M. Sundaramurthy

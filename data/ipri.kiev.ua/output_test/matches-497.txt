@@ -1,0 +1,4 @@
+Information Recording Using Two-Photon Absorption in Pyrazoline Dye Films
+Kravets V.G., Beliak E.V., Kryuchin A.A., Petrov V.V., Shershukov V.M., Yashchuk V.P., Prygodjuk O.A.
+Effect of two-photon absorption in pyrazoline dye films has been revealed. Such nonlinear optical properties of the dye films could be used for creating the multilayer recording media for compact disks. Photoluminescence spectra of these films have also been investigated. It was found that photolumines-cence spectra vary under irradiation of dye films by infrared light. Fig.: 3. Refs: 10 titles.
+optical recording, luminescence, two-photon absorption, pyrazoline dyes

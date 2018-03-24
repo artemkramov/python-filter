@@ -1,0 +1,6 @@
+﻿Determining of temperature field in a L-shaped domain
+This paper deals with solving Dirichlet’s problem with nonhomogenous boundary conditions, using the method of large singular finite elements for Laplace’s equation in a L-shaped domain. This method is particularly suitable for solving singular problems since the analytical form of singularities has been integrated in the approximate solution. It is unique in that the equations are exactly verified except on those areas where internal segments are approached with great precision. Results are compared with those obtained through finite elements method by using the COMSOL software. They dealt with solution u values and those of its first derivatives. Both methods give results that align quite well everywhere, except near singularities where significant differences exist.
+Ouigou M. Zongo, Sié Kam, Kalifa Palm, and Alioune Ouedraogo
+determining-of-temperature-field-in-a-lshaped-domain.pdf" title="Determining of temperature field in a L-shaped domain
+determining-of-temperature-field-in-a-lshaped-domain-16247
+determining-of-temperature-field-in-a-lshaped-domain

@@ -1,0 +1,6 @@
+﻿Pulsatile flow of Herschel-Bulkley fluid through an inclined multiple stenoses artery with periodic body acceleration
+The pulsatile flow of Herschel – Bulkley fluid through an inclined multiple stenoses artery with periodic body acceleration has been investigated in this paper. Assuming the stenoses to be mild, the nonlinear equations governing the flow are solved using perturbation technique. Analytical expressions are obtained for axial velocity, plug velocity, wall shear stress and flow rate. Their variations with different flow parameters are plotted in figures. It is noticed that the velocity increases as body acceleration increases but it decreases as yield stress increases and wall shear stress increases as body acceleration increases.
+Raja Agarwal and N. K. Varshney
+pulsatile-flow-of-herschelbulkley-fluid-through-an-inclined-multiple-stenoses-artery-with-periodic-body-acceleration.pdf" title="Pulsatile flow of Herschel-Bulkley fluid through an inclined multiple stenoses artery with periodic body acceleration
+pulsatile-flow-of-herschelbulkley-fluid-through-an-inclined-multiple-stenoses-artery-with-periodic-body-acceleration-17078
+pulsatile-flow-of-herschelbulkley-fluid-through-an-inclined-multiple-stenoses-artery-with-periodic-body-acceleration

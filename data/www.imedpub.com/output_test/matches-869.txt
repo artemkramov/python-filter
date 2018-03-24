@@ -1,0 +1,4 @@
+﻿Development of New Probability Model with Application in Drinking Water Quality Data
+In this paper, we develop length biased distribution (LBD) of weighted Inverse Gaussian distribution (WIGD). Moment properties, estimation of parameter, and hazard function of the resulting distribution have been considered here. Finally, we illustrate the applicability of LBD of WIGD in environmental sciences using drinking water quality data based on Fluoride (F) concentration respectively.
+Kishore K. Das, Bhanita Das, Bhupen K. Baruah, and Abani K. Misra
+development-of-new-probability-model-with-application-in-drinking-water-quality-data.pdf" title="Development of New Probability Model with Application in Drinking Water Quality Data

@@ -1,0 +1,6 @@
+﻿HCl doped PVA/ PAni Blends: DC conductivity studies
+PVA/PAni blends of various compositions starting with 90/10 was prepared and was doped with HCl. The UV-Vis spectroscopy showed the two characteristic peaks at 330nm and 560nm in addition to a higher wavelength shoulder showing strong protonation. The DC conductivity measurements from room temperature to 110o C using two-probe technique showed decrease in resistivity by an order of magnitude in the case of doped sample as compared to their undoped samples.
+Priya.L. and Manjula G.
+hcl-doped-pva-pani-blends-dc-conductivity-studies.pdf" title="HCl doped PVA/ PAni Blends: DC conductivity studies
+hcl-doped-pva-pani-blends-dc-conductivity-studies-15916
+hcl-doped-pva-pani-blends-dc-conductivity-studies

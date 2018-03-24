@@ -1,0 +1,6 @@
+﻿The radiation effect on the unsteady MHD convection flow through a nonuniform horizontal channel
+In this chapter, we discuss the radiation effect on the unsteady MHD convection flow through a non-uniform horizontal channel. The unsteadiness is due to the imposed oscillatory flux on the convection flow through the nonuniform channel. The perturbation analysis is carried out with the slope of the boundary as the perturbation parameter. The velocity and temperature profiles were plotted and their behavior is discussed in detail. The Stress and the average Nusselt number are also calculated and tabulated for these sets of parameters.
+K. Jayarami Reddy, K. Sunitha and M. Jayabharath Reddy
+the-radiation-effect-on-the-unsteady-mhd-convection-flow-through-a-nonuniformhorizontal-channel.pdf" title="The radiation effect on the unsteady MHD convection flow through a nonuniformhorizontal channel
+the-radiation-effect-on-the-unsteady-mhd-convection-flow-through-a-nonuniformrnhorizontal-channel-16145
+the-radiation-effect-on-the-unsteady-mhd-convection-flow-through-a-nonuniformhorizontal-channel

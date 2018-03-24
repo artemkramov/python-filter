@@ -1,0 +1,3 @@
+THE METHODOLOGY OF INFORMATION CAPABILITIES ESTIMATION FOR FIBER-OPTICS COMMUNICATION
+Leonid O. Uryvsky, Alina V. Moshinskaya
+The method for assessing a channel capacity and productivity of fiber-optic communication line (FOCL) based on the DWDM (Dense Wavelength Division Multiplexing) technology is proposed. The interrelation between noise-immunity factors and information characteristics of FOCL is highlighted.

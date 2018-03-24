@@ -1,0 +1,3 @@
+Sufficient Conditions for Security of Randomized Block Cipher Systems Against Commutative Diagram Attacks
+Sufficient conditions for the non-existence of certain nontrivial congruences of many-sorted univer-sal algebras, that describe randomized block cipher systems based on the SPN-like ciphers or on Feistel ciphers, are obtained. These conditions guarantee that such cipher systems are secure against commuta-tive diagram attacks. Refs.: 16 titles.
+cryptographical information security, block cipher, randomized block cipher system, congruence, commutative diagram attack.

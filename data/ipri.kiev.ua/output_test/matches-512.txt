@@ -1,0 +1,3 @@
+The System Approach to Designing the Automated Information Processing and Management Systems
+The analysis of common principles of the system approach to designing the automated informa-tion processing and management systems is executed. The iterative logic circuit of designing, within the framework of which three basic classes of tasks solved on each of stages are allocated is offered. The description of decisive procedures which are carried out within the limits of each stage is given. Fig.: 2. Refs: 7 titles.
+system, system approach, designing, alternative, choice.

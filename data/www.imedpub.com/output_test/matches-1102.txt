@@ -1,0 +1,3 @@
+﻿Convective Couette flow of a Jeffrey fluid in an inclined channel when the walls are provided with porous lining
+The effect of thickness of porous lining on the Couette flow of a Jeffrey fluid in a parallel plate channel is investigated. The channel is inclined at an angle f with the horizontal. The flow in the free flow region is governed by Jeffrey model whereas the flow in the porous region is described by Darcy law. The velocity field and the temperature distribution are obtained. The results are depicted graphically and discussed for various physical parameters
+B. Reddappa, S. Sreenadh and K. Kumaraswamy Naidu

@@ -1,0 +1,6 @@
+﻿Birnbaum Saunders Distribution with Application in Environmental Sciences
+In this paper, we have considered transformed Birnbaum Saunder’s distribution to obtain weighted and length biased distribution. To obtain a valid weighted probability distribution the transformation was made. The statistical distribution of Zinc concentration in drinking water quality data follows LBWBSD. Here, we develop LBD of weighted Birnbaum Saunders Distribution (WBSD). Moment properties, estimation of parameter, and hazard function of LBD of WBSD along with its behavior have been considered. Finally, we illustrate the applicability of LBD of WBSD in environmental sciences using drinking water quality data based on Zinc concentration.
+Kishore K. Das and Bhanita Das
+birnbaum-saunders-distribution-with-application-in-environmental-sciences.pdf" title="Birnbaum Saunders Distribution with Application in Environmental Sciences
+birnbaum-saunders-distribution-with-application-in-environmental-sciences-15022
+birnbaum-saunders-distribution-with-application-in-environmental-sciences

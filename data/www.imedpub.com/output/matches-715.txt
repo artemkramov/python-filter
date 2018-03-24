@@ -1,0 +1,6 @@
+﻿Finsler Geometry &amp; Cosmological constants
+It has been noticed that Finsler Geometry fails to solve the problem of geometrization of the Maxwell Electrodynamics in 4- dimension despite the fact that the Finslerian metric tensor is a function of the local state of the physical system. The interesting example is obviously nonphysical Finslerian conclusion about the Lagrangian of the mass point, it may be +1 degree of homogeneity function of the mass point velocity. Here in the present communications we are agree with the results published by Synge, V.wagner, L.Berwald, E.cartan, H. Bssemann, and H.Rund which indicate the deep connection of Riemannian Geometry with Finsler Geometry although their approaches are different but with the help of Finslerian metric tensor we may suggest the slight modification in cosmological term as discussed by us along with other peer researchers.
+R. K. Mishra and Arunesh Pandey
+finsler-geometry--cosmological-constants.pdf" title="Finsler Geometry &amp; Cosmological constants
+finsler-geometry--cosmological-constants-17057
+finsler-geometry--cosmological-constants

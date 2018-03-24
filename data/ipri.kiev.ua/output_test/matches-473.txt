@@ -1,0 +1,4 @@
+Ensuring the Survivability of Corporate Information Systems at Partial Destruction of Com-munication Links
+Fleytman D.V.
+The problem of ensuring the survivability of corporate information systems at partial destruction of communication links is considered. A method of redirection of information flows to network arcs with capacity reserves is described. An algorithm of bringing the solution of a formulation problem to the solu-tion of a maximization problem for multicommodity network flows is given. Fig.: 4. Refs.: 5 titles.
+сorporate information system, survivability, network flows, peak flow, multicommodity network flow, communication links.

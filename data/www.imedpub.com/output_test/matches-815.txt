@@ -1,0 +1,3 @@
+﻿Double-Diffusive convection in WaltersÃ¢ÂÂ B' elastico-viscous fluid in the presence of rotation and magnetic field
+The effect of magnetic field and rotation on thermosolutal convection in Walters’ B' elasticoviscous fluid is considered. For the case of stationary convection, the magnetic field, rotation and solute parameter postpone the onset of convection. The magnetic field, rotation and solute parameter introduce oscillatory modes in the system, which were non-existent in their absence. The case of overstability is also considered wherein the sufficient conditions for the nonexistence of overstability are obtained.
+S. K. Kango and G. C. RANA

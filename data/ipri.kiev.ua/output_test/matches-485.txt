@@ -1,0 +1,4 @@
+Relative Сriterion Weight Calculation Based on Ordinal Estimates
+Kadenko S.V.
+Relative criterion weight calculation method based on ordinal estimates is considered. The dis-cussed method is an iteration one similar to neuronal network learning methods. Problem statement, de-scription of each algorithm step and results of its testing, as well as examples and tables illustrating the work of the specified method are proposed. Tabl.: 5. Fig.: 6. Refs: 4 titles.
+decision-making, ordinal estimates, ranking, relative weight coefficient, learning algorithm, learning epoch.

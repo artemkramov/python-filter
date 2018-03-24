@@ -1,0 +1,6 @@
+﻿AVO analysis of 3-D seismic data at G-field, Norway
+The Amplitude variation with offset (AVO) analysis looks at how the amplitude of reflection events, such as those at the top of reservoir intervals, change with varying offset or reflection angle. By modelling these effects for different reservoir fluids via fluid substitution, effects of production can be recognised within the seismic data. Amplitude differences viewed between survey vintages can also highlight the movement of fluid contacts and changing fluid compositions throughout the reservoir. AVO analysis was performed on the three wells; well A, B and C. The analysis involves in creating a synthetic model to infer the amplitude responses observed at a particular reservoir horizon. Four types of fluid model substitution were created; pure brine, pure oil, pure gas and brine mix (70% Brine, 20% Gas and 10% Oil). Prominent amplitude changes which correspond primarily to the production effects can be seen in the Tarbert reservoir
+Fredrick Ogochukwu Okocha and Edmund Atakpo
+avo-analysis-of-3d-seismic-data-at-gfield-norway.pdf" title="AVO analysis of 3-D seismic data at G-field, Norway
+avo-analysis-of-3d-seismic-data-at-gfield-norway-14480
+avo-analysis-of-3d-seismic-data-at-gfield-norway

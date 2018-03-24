@@ -1,0 +1,6 @@
+﻿Study of Zernike moments using analytical Zernike polynomials
+In this research, the analytical Zernike polynomials written in Cartesian coordinates and in polar coordinates were used to calculate the Zernike moments instead of the numerical complex Zernike polynomials used before. The results show that there is no difference between them except in time calculating where this method takes more time.
+Sundus Y. Hasan
+study-of-zernike-moments-using-analytical-zernike-polynomials.pdf" title="Study of Zernike moments using analytical Zernike polynomials
+study-of-zernike-moments-using-analytical-zernike-polynomials-15939
+study-of-zernike-moments-using-analytical-zernike-polynomials

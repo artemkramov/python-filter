@@ -1,0 +1,4 @@
+Imitation of Distributed Information Processing in Computing Systems and Local Computing Networks
+Levchuk V.D., Maximey I.V., Maslovich S.F., Selitskiy V.I., Starchenko V.V., Bychenko O.V.
+It іs оffered to use for analyzing variants of organization of distributed information processing in computing systems and local computing networks a probabilistic graph for realizing a computing process with evident relationships of the type probabilistic network diagrams. Fig.: 2. Refs.: 10 titles.
+computing process, imitation, network diagram, working load, loading factor.

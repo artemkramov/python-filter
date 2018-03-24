@@ -1,0 +1,3 @@
+A conceptual model of information system of "Scientific researches" of NAPS of Ukraine
+А. V. Kilchenko
+Principles of construction of conceptual model of the IS "Scientific researches" are presented for automation of management of scientific researches in NAPS of Ukraine. The research results are described in relation to forming of the fields and automation of treatment of documents in the integrated environment of MS Sharepoint, which was conducted within the framework of implementation of scientific research "Scientific and methodological support of information systems planning research at the Academy of Pedagogical Sciences of Ukraine on the basis of the Internet".

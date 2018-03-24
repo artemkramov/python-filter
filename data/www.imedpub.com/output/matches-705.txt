@@ -1,0 +1,6 @@
+﻿Whole cell based disposable biosensor for Cadmium detection in milk
+In the current work authors report the development of a biosensor for the detection of cadmium and its application in milk. Bacillus badius cells were immobilized onto the nylon membranes using sol-gel approach with alcohol and TEOS. The cells were mixed with sol-gel and poured onto nylon membrane and then dried. Hydrosol-gel immobilized cells were used as a biocomponent for the study. Ammonium ISE used as transducer with bioassay principle based on inhibition of urease activity. The lowest detection limit achieved was 1.0 μg/l of Cd. The prepared biosensor was applied to natural and fortified, acid extracted milk samples. The linear range of detection is between 10μg–1mg/l for Cd. Storage stability of the developed biosensor is 65 days when stored at 40C in 10% glycerol. A good correlation of results was obtained with spiked samples.
+Neelam Verma Sachin Kumar and Hardeep Kaur
+whole-cell-based-disposable-biosensor-for-cadmium-detection-in-milk.pdf" title="Whole cell based disposable biosensor for Cadmium detection in milk
+whole-cell-based-disposable-biosensor-for-cadmium-detection-in-milk-17044
+whole-cell-based-disposable-biosensor-for-cadmium-detection-in-milk

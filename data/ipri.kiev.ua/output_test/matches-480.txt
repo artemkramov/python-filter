@@ -1,0 +1,4 @@
+Digital Means of Correction of the Frequency Spectra of Signals
+Denisyuk А.Yu, Pilkevich I.A.
+A structural scheme of a digital autocompensator for the increase of information of the radioloca-tion means during their operation in the conditions of the active broad-band interferences is developed. A system of filters, allowing to realize the correction of different types, is proposed. An estimation of the effectiveness of a digital autocompensator is conducted. Tabl.: 2. Fig.: 2. Refs.: 4 titles.
+autocompensator, throwaway castable interference transmitters.

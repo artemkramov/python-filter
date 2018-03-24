@@ -1,0 +1,4 @@
+Modulo Secret Sharing Scheme Over a Ring of Gaussian Integers
+Aleksejchuk А.N., Boyarinova Yu.E.
+The design modulo secret sharing scheme over a ring of Gaussian integer, possessing greater com-puting stability in comparison with known integer modulo secret sharing scheme is offered. Refs: 13 titles.
+modulo secret sharing scheme, computing stability, ring of Gaussian integers.

@@ -1,0 +1,3 @@
+﻿Measurement of Radon Concentration in Soil Gas using RAD7 in the Environs of Al-Najaf Al-Ashraf City-Iraq
+Soil gas Radon, 222Rn , concentration was measured at 15 location in the Najaf Al-Ashraf city, using RAD7 radon monitoring system of Durridge company USA. In each location four different depths were taken for soil gas measurements, staring from the ground surface. The results suggested that the largest concentration was 9290±400 Bq/m3 for 60cm depth at in Al-Amir district, point sample P14, and the smallest concentration was 9±17 Bq/m3 for 5cm depth at Al- Shoara district, point sample P5. The results obtained from this study indicate that the region has background radioactivity levels within the natural limits.
+Ali K. Hasan, Abdul.R.H.Subber and Ahmed R. Shaltakh

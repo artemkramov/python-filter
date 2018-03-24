@@ -1,0 +1,3 @@
+﻿Some new transformations on basic hypergeometric series by using BaileyÃ¢ÂÂs transform
+In this paper, making use of Bailey’s transform on basic hypergeometric series, an attempt has been made to establish certain results using different summations formulae
+Ravindra Kumar Yadav and Pradhyot Kumar Mishra

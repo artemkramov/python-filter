@@ -1,0 +1,6 @@
+﻿Fabrication and Characterization of Dye Sensitized Solar Cell Using Anarcardium Occidentale Sensitizer
+DSSC was fabricated using Anacardium occidentale, a reddish dye extracted from its bark. The cell was assembled without a co-absorbent. The reddish extract from Anacardium occidentale containing a mixture of distilled water was used without purification. The Anacardium occidentale extract sensitized cell gave a remarkably high open circuit voltage of 0.20994V, a high fill factor of 0.5635 but a modest short circuit current (Sc = 1.63mA/cm2) corresponding to a solar to electrical power conversion efficiency of0.48% with an absorption spectrum of peak at366.3nm. The measurement was carried out under Air Mass 1.5. The possible significance of these findings is discussed.
+Oviri O. Kelvin and Ekpunobi
+fabrication-and-characterization-of-dye-sensitized-solar-cell-usinganarcardium-occidentale-sensitizer.pdf" title="Fabrication and Characterization of Dye Sensitized Solar Cell UsingAnarcardium Occidentale Sensitizer
+fabrication-and-characterization-of-dye-sensitized-solar-cell-usingrnanarcardium-occidentale-sensitizer-16695
+fabrication-and-characterization-of-dye-sensitized-solar-cell-usinganarcardium-occidentale-sensitizer

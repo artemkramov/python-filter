@@ -1,0 +1,4 @@
+Analysis of Weighted Keywords in Documents of CDS/ISIS Databases
+Sherepa T.A.
+Principles of data automatic indexing for document’s key words extracting in CDS/ISIS databases in order to improve completeness and accuracy of information search results are explained. Tabl.: 1. Refs: 12 titles.
+automatic indexing, data retrieval, search queries, significant terms, weighted keyword, discrimination power, associated terms, tezaurus.

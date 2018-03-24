@@ -1,0 +1,3 @@
+﻿Fractional integral operator on Laguerre polynomial of matrix argument
+When Fractional integral operators are connected with real-valued scalar functions of matrix argument we can get various results, those results are useful in various problems of mathematics, statistics and natural science. Recently Mathai connected some fractional calculus operators with functions of matrix argument, by using those results we are investigating some new results for the Laguerre function of matrix arguments. When these are used as model for problems in the natural sciences, then these can cover the ideal situations, neighbourhoods, in between stages and paths leading to optimal situations.
+Lajpat Singh Panwar and P. K. Mishra

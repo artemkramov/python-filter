@@ -1,0 +1,3 @@
+﻿Investigation of some materials as buffer layer in copper zinc tin sulphide (Cu2ZnSnS4) solar cells by SCAPS-1D
+In this work, we have simulated Cu2ZnSnS4 solar cells with different buffer materials in order to propose an alternative to Cadmium Sulphide (CdS) as a solar cell buffer material. The goal was to reduce the toxic effect of cadmium containing solar cells on the environment. Materials like Zinc Sulphide(ZnS), Zinc Selenide(ZnSe) and Indium Sulphide(InS) were tested along with CdS. Results obtained with ZnSe and ZnS compare favourably well with that of CdS. We therefore propose ZnSe and ZnS as viable alternatives to the toxic CdS as buffer material for Cu2ZnSnS4 solar cells.
+M. A. Olopade, O. O. Oyebola and B. S. Adeleke

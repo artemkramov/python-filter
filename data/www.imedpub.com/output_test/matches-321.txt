@@ -1,0 +1,3 @@
+﻿Effect of fuel to oxidizer ratio on synthesis of Alumina powder using Solution Combustion Technique-Aluminium Nitrate &amp; Glycine combination
+The combustion synthesis is a technique using glycine as fuel and Aluminium Nitrate as an oxidizer is able to produce alumina powders in Nano scale. Thermodynamic modelling of the combustion reaction shows variation in amount of gases produced and in flame temperature (combustion temperature) with variation in fuel to oxidizer ratio. Amorphous structure and Nano scale particles size found after XRD and SEM analysis.
+Amit Sharma, O. P. Modi and Gaurav K Gupta

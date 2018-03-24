@@ -1,0 +1,6 @@
+﻿A Note on Gravitational Radiation with Geometric Constraints
+Beginning with the Einstein Field equations, we characterize gravitational waves by expressing the one dimensional wave equation in terms of Lie derivatives for the space-time general relativity. A condition for a radiative gravitational field is obtained. This condition proves to be satisfied for the exact solution, including plane waves as well as approximate solutions.
+S. O. Maliki and E. I. Ugwu
+a-note-on-gravitational-radiation-with-geometric-constraints.pdf" title="A Note on Gravitational Radiation with Geometric Constraints
+a-note-on-gravitational-radiation-with-geometric-constraints-16180
+a-note-on-gravitational-radiation-with-geometric-constraints

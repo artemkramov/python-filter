@@ -1,0 +1,6 @@
+﻿Analysis of Linear stability on double diffusive convection in a fluid saturated anisotropic porous layer with Soret effect
+The double diffusive convection in a horizontal anisotropic porous layer saturated with a Boussinesq fluid, which is heated and salted from below in the presence of Soret coefficient is studied analytically using linear stability analysis based on the usual normal mode technique. The generalized Darcy model is employed for the momentum equation. The effect of mechanical anisotropy parameter, thermal anisotropy parameter, Lewis number and Soret parameter on stationary and oscillatory convection are shown graphically.
+S. N. Gaikwad and S. S. Kamble
+analysis-of-linear-stability-on-double-diffusive-convection-in-a-fluidsaturated-anisotropic-porous-layer-with-soret-effect.pdf" title="Analysis of Linear stability on double diffusive convection in a fluidsaturated anisotropic porous layer with Soret effect
+analysis-of-linear-stability-on-double-diffusive-convection-in-a-fluidrnsaturated-anisotropic-porous-layer-with-soret-effect-16258
+analysis-of-linear-stability-on-double-diffusive-convection-in-a-fluidsaturated-anisotropic-porous-layer-with-soret-effect

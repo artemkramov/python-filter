@@ -1,0 +1,6 @@
+﻿On Some Polynomial-time Algorithms for Solving Linear Programming Problems
+In this article we survey some Polynomial-time Algorithms for Solving Linear Programming Problems namely: the ellipsoid method, Karmarkar’s algorithm and the affine scaling algorithm. Finally, we considered a test problem which we solved with the methods where applicable and conclusions drawn from the results so obtained.
+B. O. Adejo and H. S. Adaji
+on-some-polynomialtime-algorithms-for-solving-linearprogramming-problems.pdf" title="On Some Polynomial-time Algorithms for Solving LinearProgramming Problems
+on-some-polynomialtime-algorithms-for-solving-linearrnprogramming-problems-16688
+on-some-polynomialtime-algorithms-for-solving-linearprogramming-problems

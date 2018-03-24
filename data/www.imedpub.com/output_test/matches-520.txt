@@ -1,0 +1,3 @@
+﻿Four-vector, Dirac spinor representation and Lorentz Transformations
+Author found a simple geometrical representation of the general covariant form of Maxwell's equations and few related relations. We mention here briefly another equivalent way to formulate the geometrization of the four fields, totally need Dirac spin matrices which are used as vectors, do not required tensors knowledge but leading to simplifications of the four vectors, three vector physical quantities
+S. B. Khasare, J. N. Ramteke, Shashank S. Khasare

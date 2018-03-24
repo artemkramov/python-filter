@@ -1,0 +1,3 @@
+﻿Fabrication Methods of group 2 doped calcium substituted hydroxyapatite for application as biomaterial
+In today’s world HAp has gained popularity as a potential biomaterial for dental and orthopedic applications. Replacement of some of Ca2+ ions by some other ions of group 2 modifies biological and load bearing properties. Many methods are available for synthesizing these doped HAp samples characterized by particle size in nanometer range with each method having its own advantages. This review paper gives an insight into the methods like mechanochemical method, solution combustion synthesis, sol-gel method, aqueous precipitation method, hydrothermal method.
+Ravinder Kumar, A. P. Singh and Kanchan Lata Singh

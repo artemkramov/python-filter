@@ -1,0 +1,4 @@
+A Method of Redistribution of a Regional Automobile Transport Streams on the Basis of Simulation
+Sukach E.I.
+A stand of simulation of transport systems is offered. It allows to control and predict the condition of railway net and to automate the process of transit transport streams of a region in conditions of random influences. Refs: 4 titles.
+simulation, transit transport streams, transport net.
