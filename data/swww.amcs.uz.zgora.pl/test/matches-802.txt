@@ -1,0 +1,6 @@
+﻿2 - June 2011
+21 - 2011
+Performance evaluation of MapReduce using full virtualisation on a departmental cloud
+Horacio González-Vélez, Maryam Kontagora
+This work analyses the performance of Hadoop, an implementation of the MapReduce programming model for distributed parallel computing, executing on a virtualisation environment comprised of 1+16 nodes running the VMWare workstation software. A set of experiments using the standard Hadoop benchmarks has been designed in order to determine whether or not significant reductions in the execution time of computations are experienced when using Hadoop on this virtualisation platform on a departmental cloud. Our findings indicate that a significant decrease in computing times is observed under these conditions. They also highlight how overheads and virtualisation in a distributed environment hinder the possibility of achieving the maximum (peak) performance.
+MapReduce, server virtualization, cloud computing, algorithmic skeletons, structured parallelism, parallel computing</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-011-0020-3">10.2478/v10006-011-0020-3</a>

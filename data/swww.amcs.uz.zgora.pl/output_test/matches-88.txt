@@ -1,0 +1,3 @@
+Limit distributions of the capacity of large regular channel graphs
+Wojciech Kordecki
+The paper is devoted to the investigation of reliability of large channel graphs having links with low reliabilities. Under some regularity assumptions regarding such graphs, we derive bounds and limit distributions of their capacities. The main goal of the paper is to prove a Poisson convergence of the capacity.

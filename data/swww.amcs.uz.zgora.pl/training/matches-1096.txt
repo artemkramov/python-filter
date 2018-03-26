@@ -1,0 +1,6 @@
+﻿1 - March 2006
+16 - 2006
+Optimal erasures in decision-feedback equalization for the Gaussian noise
+Jerzy W. Kisilewicz, Arkadiusz Grzybowski
+A new method of optimizing decision feedback parameters for intersymbol interference equalizers is described. The coefficient existing in the decision feedback loop depends on risk qualification of the received decision. We prove that bit error probability can be decreased with this method for any channel with a single interference sample and small Gaussian noise. Experimental results are presented for selected channels. The dependences of optimal feedback parameters on channel interference samples and noise power are presented, too.
+data communication, decision feedback equalizer, intersymbol interference, error rate minimization

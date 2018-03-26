@@ -1,0 +1,6 @@
+﻿1 - March 1998
+8 - 1998
+A new sliding mode approach to asymptotic feedback linearisation with application to the control of non-flat systems
+Xiao-Yun Lu, Sarah K. Spurgeon
+A dynamic sliding mode controller design method is proposed. The method uses a novel choice of the sliding surface to effect asymptotic linearisation of nonlinear differential input output systems and a class of state space systems. The stability of the overall system, i.e. a canonical state space form with a dynamic feedback, is analysed. This method is shown to be able to control a fairly general class of systems, including some which are not linearizable by dynamic feedback, using a chatter free control. The theoretical results are applied to the control of a particular single input system which is not dynamic feedback linearizable.
+-

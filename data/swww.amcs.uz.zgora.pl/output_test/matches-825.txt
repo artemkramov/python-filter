@@ -1,0 +1,3 @@
+Motion representations for the Lafferriere–Sussmann algorithm for nilpotent control systems
+Ignacy Dulęba, Jacek Jagodziński
+In this paper, an extension of the Lafferriere–Sussmann algorithm of motion planning for driftless nilpotent control systems is analyzed. It is aimed at making more numerous admissible representations of motion in the algorithm. The representations allow designing a shape of trajectories joining the initial and final configuration of the motion planning task. This feature is especially important in motion planning in a cluttered environment. Some natural functions are introduced to measure the shape of a trajectory in the configuration space and to evaluate trajectories corresponding to different representations of motion.

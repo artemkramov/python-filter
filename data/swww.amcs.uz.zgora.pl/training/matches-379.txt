@@ -1,0 +1,6 @@
+﻿4 - December 2016
+26 - 2016
+Fault isolability with different forms of the faults–symptoms relation
+Jan Maciej Kościelny, Michał Syfert, Kornel Rostek, Anna Sztyber
+The definitions and conditions for fault isolability of single faults for various forms of the diagnostic relation are reviewed. Fault isolability and unisolability on the basis of a binary diagnostic matrix are analyzed. Definitions for conditional and unconditional isolability and unisolability on the basis of a fault information system (FIS), symptom sequences and directional residuals are formulated. General definitions for conditional and unconditional isolability and unisolability in the cases of simultaneous evaluation of diagnostic signal values and a sequence of symptoms are provided. A comprehensive example is discussed.
+diagnosis, fault diagnosis, fault isolation, sequences, information systems</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0058">10.1515/amcs-2016-0058</a>

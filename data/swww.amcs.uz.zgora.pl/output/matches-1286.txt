@@ -1,0 +1,6 @@
+﻿4 - December 2003
+13 - 2003
+On the constrained controllability of dynamical systems with multiple delays in the state
+Beata Sikora
+Linear stationary dynamical systems with multiple constant delays in the state are studied. Their relative and approximate controllability properties with constrained controls are discussed. Definitions of various types of controllability with constrained controls for systems with delays in the state are introduced. Some theorems concerning the relative and the approximate relative controllability with constrained controls for dynamical systems with delays in the state are established. Various types of constraints are considered. Numerical examples illustrate the theoretical analysis. An example of a real technical dynamical system is given to indicate one of possible practical applications of the theoretical results.
+delay systems, constrained controllability, control, constraints, asymptotic stability

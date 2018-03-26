@@ -1,0 +1,6 @@
+﻿3 - September 1997
+7 - 1997
+Fuzzy control of robotic manipulators
+Meng J. Er, Nikos E. Mastorakis
+This paper presents an Intelligent Control Strategy for an<em>n</em>-degree-of-freedom (d.o.f.) robotic manipulator. It covers the design and simulation study of a Fuzzy Controller (FC) for the robotic manipulator with a view of tracking a predetermined trajectory of motion in the joint space. An industrial robotic manipulator, Adept One Robot, was used to evaluate the effectiveness of the proposed scheme. The Adept One Robot was simulated as a three-axis manipulator with the dynamics of the tool (fourth link) neglected and the mass of the load incorporated into the mass of the third link. The overall performance of the control system under various conditions, namely variation in payload, variations in coefficients of static, dynamic and viscous friction and various trajectories were studied and a comparison was made with the Neural Network Controller (NNC) of (Er, 1996) and Computed Torque Controllers 1 and 2 of (Craig, 1989) which are designed assuming full knowledge and partial knowledge of the robot dynamics, respectively. The FC was shown to be robust and able to overcome the drawbacks of the NNC and the two computed torque controllers.
+-

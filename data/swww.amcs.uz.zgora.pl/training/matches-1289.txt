@@ -1,0 +1,6 @@
+﻿4 - December 2003
+13 - 2003
+Argument increment stability criterion for linear delta models
+Milan Hofreiter, Pavel Zítek
+Currently used stability criteria for linear sampled-data systems refer to the standard linear difference equation form of the system model. This paper presents a stability criterion based on the argument increment rule modified for the delta operator form of the sampled-data model. For the asymptotic stability of this system form it is necessary and sufficient that the roots of the appropriate characteristic equation lie inside a circle in the left half of the complex plane, the radius of which is inversely proportional to the sampling period. Therefore the argument increment of the system characteristic polynomial of an asymptotically stable delta model has to increase by 2π<em>n</em>if this circle has been run around in the counter-clockwise direction. The criterion developed based on this principle permits not only the proof of the system stability itself, but also the approximation of the dominant roots of its characteristic equation.
+delta model, stability criterion, conformal mapping, delta operator, argument increment rule

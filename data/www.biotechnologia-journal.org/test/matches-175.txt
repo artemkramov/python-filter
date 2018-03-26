@@ -1,0 +1,17 @@
+﻿3/2014
+5
+Genetic-predisposition-to-breast-and-or-ovarian-cancer-r-n-focus-on-the-candidate-BARD1-gene,85,25960,0
+abstract:</div><div>Review paper
+Genetic predisposition to breast and/or ovarian cancer – focus on the candidate<i>BARD1</i>gene
+h3>Katarzyna Klonowska, Magdalena Ratajska, Marzena Wojciechowska, Piotr Kozlowski</h3><div>vol. 95(3) C pp. 203-214 C 2014
+4.54796">https://doi.org/10.5114/bta.2014.54796
+a>View full text</a
+25960
+Klonowska K, Ratajska M, Wojciechowska M, Kozlowski P. Genetic predisposition to breast and/or ovarian cancer – focus on the candidate &lt;i&gt;BARD1 &lt;/i&gt;gene. BioTechnologia. 2015;95(3):203-214. doi:10.5114/bta.2014.54796
+Klonowska, K., Ratajska, M., Wojciechowska, M., &amp; Kozlowski, P. (2015). Genetic predisposition to breast and/or ovarian cancer – focus on the candidate &lt;i&gt;BARD1 &lt;/i&gt;gene. BioTechnologia, 95(3), 203-214. https://doi.org/10.5114/bta.2014.54796
+Klonowska, Katarzyna, Magdalena Ratajska, Marzena Wojciechowska, and Piotr Kozlowski. 2015. "Genetic predisposition to breast and/or ovarian cancer – focus on the candidate &lt;i&gt;BARD1 &lt;/i&gt;gene". BioTechnologia 95 (3): 203-214. doi:10.5114/bta.2014.54796
+Klonowska, K., Ratajska, M., Wojciechowska, M., and Kozlowski, P. (2015). Genetic predisposition to breast and/or ovarian cancer – focus on the candidate &lt;i&gt;BARD1 &lt;/i&gt;gene. BioTechnologia, 95(3), pp.203-214. https://doi.org/10.5114/bta.2014.54796
+Klonowska, Katarzyna et al. "Genetic predisposition to breast and/or ovarian cancer – focus on the candidate &lt;i&gt;BARD1 &lt;/i&gt;gene." BioTechnologia, vol. 95, no. 3, 2015, pp. 203-214. doi:10.5114/bta.2014.54796
+/div><div>Germline mutations affecting the<i>BRCA1</i>and<i>BRCA2</i>genes explain 16-40% of breast and/or ovarian cancers aggregated<br><br>in families. Besides the<i>BRCA1/2</i>genes and several genetic factors associated with hereditary syndromes<br><br>which increase the risk of breast cancer, a considerable fraction of potential breast cancer predisposing<br><br>factors (-50%) remains unknown. It is presumed that candidate genes, functionally related to the<i>BRCA1/2</i>genes,<br><br>may account for some of the missing heritability. The<i>BARD1</i>gene, which encodes a protein indispensable for<br><br>BRCA1-mediated tumor suppression function and adequate apoptosis regulation, serves as a candidate breast<br><br>cancer susceptibility gene. Some initial reports indicated that<i>BARD1</i>is a plausible target for several pathogenic<br><br>mutations associated with increased breast and/or ovarian cancer risk. Nonetheless, further mutational studies<br><br>are necessary to determine the penetrance and role of the<i>BARD1</i>gene in cancer predisposition.<
+null
+keywords:</div><h3><i>BARD1</i>, breast and/or ovarian cancer, familial cancer predisposition, DSB repair genes</h3

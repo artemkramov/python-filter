@@ -1,0 +1,3 @@
+BEM and FEM results of displacements in a poroelastic column
+Bettina Albers, Stavros A. Savidis, H. Ercan Taşan, Otto von Estorff, Malte Gehlken
+The dynamical investigation of two-component poroelastic media is important for practical applications. Analytic solution methods are often not available since they are too complicated for the complex governing sets of equations. For this reason, often some existing numerical methods are used. In this work results obtained with the finite element method are opposed to those obtained by Schanz using the boundary element method. Not only the influence of the number of elements and time steps on the simple example of a poroelastic column but also the impact of different values of the permeability coefficient is investigated.

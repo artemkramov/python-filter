@@ -1,0 +1,6 @@
+﻿1 - March 2012
+22 - 2012
+Test signal generation for service diagnosis based on local structural properties
+Michael Ungermann, Jan Lunze, Dieter Schwarzmann
+The paper presents a new approach to the generation of test signals used in service diagnosis. The tests make it possible to isolate faults, which are isolable only if the system is brought into specific operating points. The basis for the test signal selection is a structure graph that represents the couplings among the external and internal signals of the system and the fault signals. Graph-theoretic methods are used to identify edges that disappear under certain operating conditions and prevent a fault from changing the system behavior at this operating point. These operating conditions are identified by validuals, which are indicators obtained during the graph-theoretic analysis. The test generation method is illustrated by a process engineering example.
+structural analysis, service diagnosis, active diagnosis, test generation</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0004-y">10.2478/v10006-012-0004-y</a>

@@ -1,0 +1,6 @@
+﻿2 - June 2011
+21 - 2011
+Design of microprogrammed controllers to be implemented in FPGAs
+Remigiusz Wiśniewski, Alexander Barkalov, Larisa Titarenko, Wolfgang A. Halang
+In the article we propose a new design method for microprogrammed controllers. The traditional structure is improved by modifying internal modules and connections. Such a solution allows reducing the total number of logic elements needed for implementation in programmable structures, especially Field Programmable Gate Arrays (FPGAs). Detailed results of experiments show that on the average the application of the proposed methods yields up to 30% savings as far as the destination device is considered.
+control unit, microprogrammed controller, field programmable gate array</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-011-0030-1">10.2478/v10006-011-0030-1</a>

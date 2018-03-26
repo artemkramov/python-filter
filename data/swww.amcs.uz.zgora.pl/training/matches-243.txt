@@ -1,0 +1,6 @@
+﻿2 - June 1996
+6 - 1996
+Sensitivity analysis of buckling loads of physically non-linear frames using dynamic and static criteria
+Andrzej Garstecki, Adam Glema
+Small eigenvibrations around the prestressed equilibrium state are considered and the sensitivity of eigenfrequencies with respect to cross-sectional parameters of the frame is assessed. The sensitivity operators thus derived are used to determine the sensitivity of buckling load with dynamic criterion. For comparison, the static criterion is employed, too. The problem is solved with the use of variational formulation. The redistribution of prestress is evaluated by the adjoint-variable method. Numerical examples solved with the use of the Finite-Element Method illustrate the theory and demonstrate the quantitative contribution of prestress redistribution into sensitivity operators. The numerical efficiency of dynamic and static approaches is discussed.
+-

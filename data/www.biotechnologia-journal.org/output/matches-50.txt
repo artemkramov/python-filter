@@ -1,0 +1,17 @@
+﻿3/2016
+7
+Biotransformation-of-1-and-2-phenylethanol-to-products-of-high-value-via-redox-reactions,85,28339,0
+abstract:</div><div>RESEARCH PAPERS
+Biotransformation of 1- and 2-phenylethanol to products of high value<i>via</i>redox reactions
+h3>Agata Głąb, Beata Szmigiel-Merena, Małgorzata Brzezińska-Rodak, Ewa Żymańczyk-Duda</h3><div>vol. 97(3) C pp. 203-210 C 2016
+6.62358">https://doi.org/10.5114/bta.2016.62358
+a>View full text</a
+28339
+Głąb A, Szmigiel-Merena B, Brzezińska-Rodak M, Żymańczyk-Duda E. Biotransformation of 1- and 2-phenylethanol to products of high value &lt;i&gt;via&lt;/i&gt; redox reactions. BioTechnologia. 2016;97(3):203-210. doi:10.5114/bta.2016.62358
+Głąb, A., Szmigiel-Merena, B., Brzezińska-Rodak, M., &amp; Żymańczyk-Duda, E. (2016). Biotransformation of 1- and 2-phenylethanol to products of high value &lt;i&gt;via&lt;/i&gt; redox reactions. BioTechnologia, 97(3), 203-210. https://doi.org/10.5114/bta.2016.62358
+Głąb, Agata, Beata Szmigiel-Merena, Małgorzata Brzezińska-Rodak, and Ewa Żymańczyk-Duda. 2016. "Biotransformation of 1- and 2-phenylethanol to products of high value &lt;i&gt;via&lt;/i&gt; redox reactions". BioTechnologia 97 (3): 203-210. doi:10.5114/bta.2016.62358
+Głąb, A., Szmigiel-Merena, B., Brzezińska-Rodak, M., and Żymańczyk-Duda, E. (2016). Biotransformation of 1- and 2-phenylethanol to products of high value &lt;i&gt;via&lt;/i&gt; redox reactions. BioTechnologia, 97(3), pp.203-210. https://doi.org/10.5114/bta.2016.62358
+Głąb, Agata et al. "Biotransformation of 1- and 2-phenylethanol to products of high value &lt;i&gt;via&lt;/i&gt; redox reactions." BioTechnologia, vol. 97, no. 3, 2016, pp. 203-210. doi:10.5114/bta.2016.62358
+/div><div>The aim of this research was to conduct biotransformation of phenolic compounds, prochiral ketone acetophenone into optically pure (R )- and (S )-1-phenylethanol and 2-phenylethanol into tyrosol and hydroxytyrosol. For acetophenone reduction reaction, the biocatalysts of choice were cyanobacteria, phototrophic microorganisms with biocatalytic potential that have not yet been fully discovered. For the hydroxylation reaction of 2-phenylethanol, instead of using vital Aspergillus niger cells, the reaction was carried out using the spores. As a result, high conversion rates were obtained (79.6%) for the reduction reaction performed by photobiocatalyst Nodularia sphaerocarpa, although the enantioselectivity was moderate (enantiomeric excess, ee 48%). The reaction carried out by cyanobacterium Leptolyngbya foveolarum yielded 25.7%, but with high enantioselectivity of (S )-1-phenylethanol 95% ee was received. It has also been proven that the acetophenone reduction did not depend on the light regime. For aromatic ring hydroxylation, several modifications of the conditions of biooxidation were introduced to maximize the effectiveness; the addition of glucose into the reaction medium gave the best results. As a result, new methods of bioconversion of phenylethyl alcohol have been developed, leading to the formation of desired products: 1-phenylethanol, tyrosol, and hydroxytyrosol antioxidants, compounds of utilitarian meaning.<
+null
+keywords:</div><h3>spores, cyanobacteria, Aspergillus niger, phenylethanol, biocatalysis, tyrosol</h3

@@ -1,0 +1,6 @@
+﻿3 - September 2017
+27 - 2017
+A column generation technique for routing and spectrum allocation in cloud-ready survivable elastic optical networks
+Róża Goścień, Krzysztof Walkowiak
+Driven by increasing user requirements and expectations, the fast development of telecommunications networks brings new challenging optimization problems. One of them is routing and spectrum allocation (RSA) of three types of network flows (unicast, anycast, multicast) in elastic optical networks (EONs) implementing dedicated path protection (DPP). In the paper, we model this problem as integer linear programming (ILP) and we introduce two new optimization approaches—a dedicated heuristic algorithm and a column generation (CG)-based method. Then, relying on extensive simulations, we compare algorithm performance with reference methods and evaluate CG efficiency in detail. The results show that the proposed CG method significantly outperforms reference algorithms and achieves results very close to optimal ones (the average distance to optimal results was at most 2.1%).
+elastic optical network, anycast traffic, multicast traffic, network survivability, column generation technique</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2017-0042">10.1515/amcs-2017-0042</a>

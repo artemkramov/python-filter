@@ -1,0 +1,6 @@
+﻿3 - September 2010
+20 - 2010
+On-line wavelet estimation of Hammerstein system nonlinearity
+Przemysław Śliwiński
+A new algorithm for nonparametric wavelet estimation of Hammerstein system nonlinearity is proposed. The algorithm works in the on-line regime (viz., past measurements are not available) and offers a convenient uniform routine for nonlinearity estimation at an arbitrary point and at any moment of the identification process. The pointwise convergence of the estimate to locally bounded nonlinearities and the rate of this convergence are both established.
+Hammerstein systems, on-line nonparametric identification, wavelet estimates, convergence analysis</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-010-0038-y">10.2478/v10006-010-0038-y</a>

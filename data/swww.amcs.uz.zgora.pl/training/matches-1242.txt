@@ -1,0 +1,6 @@
+﻿1 - March 2003
+13 - 2003
+A functorial approach to the behaviour of multidimensional control systems
+Jean-François Pommaret, Alban Quadrat
+We show how to use the extension and torsion functors in order to compute the torsion submodule of a differential module associated with a multidimensional control system. In particular, we show that the concept of the weak primeness of matrices corresponds to the torsion-freeness of a certain module.
+multidimensional systems, weak primeness, controllability, algebraic analysis, torsion and extension functors, rings of differential operators

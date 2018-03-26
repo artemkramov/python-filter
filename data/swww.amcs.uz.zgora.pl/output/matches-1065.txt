@@ -1,0 +1,6 @@
+﻿3 - September 2007
+17 - 2007
+Numerical approximation of self-consistent Vlasov models for low-frequency electromagnetic phenomena
+Nicolas Besse, Norbert J. Mauser, Eric Sonnendrücker
+We present a new numerical method to solve the Vlasov-Darwin and Vlasov-Poisswell systems which are approximations of the Vlasov-Maxwell equation in the asymptotic limit of the infinite speed of light. These systems model low-frequency electromagnetic phenomena in plasmas, and thus "light waves" are somewhat supressed, which in turn allows the numerical discretization to dispense with the Courant-Friedrichs-Lewy condition on the time step. We construct a numerical scheme based on semi-Lagrangian methods and time splitting techniques. We develop a four-dimensional phase space algorithm for the distribution function while the electromagnetic field is solved on a two-dimensional Cartesian grid. Finally, we present two nontrivial test cases: (a) the wave Landau damping and (b) the electromagnetic beam-plasma instability. For these cases our numerical scheme works very well and is in agreement with analytic kinetic theory.
+Vlasov-Darwin model, Vlasov-Poisswell model, semi-Lagrangian methods, low-frequency electromagnetic phenomena</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0030-3">10.2478/v10006-007-0030-3</a>

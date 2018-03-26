@@ -1,0 +1,3 @@
+Control flow graphs and code coverage
+Robert Gold
+The control flow of programs can be represented by directed graphs. In this paper we provide a uniform and detailed formal basis for control flow graphs combining known definitions and results with new aspects. Two graph reductions are defined using only syntactical information about the graphs, but no semantical information about the represented programs. We prove some properties of reduced graphs and also about the paths in reduced graphs. Based on graphs, we define statement coverage and branch coverage such that coverage notions correspond to node coverage, and edge coverage, respectively.

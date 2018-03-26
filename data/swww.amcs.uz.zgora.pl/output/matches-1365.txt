@@ -1,0 +1,6 @@
+﻿1 - March 2001
+11 - 2001
+Motor control: Neural models and systems theory
+Kenji Doya, Hidenori Kimura, Aiko Miyamura
+In this paper, we introduce several system theoretic problems brought forward by recent studies on neural models of motor control. We focus our attention on three topics: (i) the cerebellum and adaptive control, (ii) reinforcement learning and the basal ganglia, and (iii) modular control with multiple models. We discuss these subjects from both neuroscience and systems theory viewpoints with the aim of promoting interplay between the two research communities.
+inverse model, adaptive control, cerebellum, reinforcement learning, basal ganglia, multiple models

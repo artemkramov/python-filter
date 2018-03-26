@@ -1,0 +1,6 @@
+﻿2 - June 2013
+23 - 2013
+Decomposition of the fuzzy inference system for implementation in the FPGA structure
+Bernard Wyrwoł, Edward Hrynkiewicz
+The paper presents the design and implementation of a digital rule-relational fuzzy logic controller. Classical and decomposed logical structures of fuzzy systems are discussed. The second allows a decrease in the hardware cost of the fuzzy system and in the computing time of the final result (fuzzy or crisp), especially when referring to relational systems. The physical architecture consists of IP modules implemented in an FPGA structure. The modules can be inserted into or removed from the project to get a desirable fuzzy logic controller configuration. The fuzzy inference system implemented in FPGA can operate with a much higher performance than software implementations on standard microcontrollers.
+fuzzy logic, fuzzy inference algorithm, decomposition, digital fuzzy logic controller, FPGA</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0036">10.2478/amcs-2013-0036</a>

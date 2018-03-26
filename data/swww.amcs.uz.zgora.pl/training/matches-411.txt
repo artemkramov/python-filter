@@ -1,0 +1,6 @@
+﻿3 - September 1993
+3 - 1993
+A survey of robustness problems in quantitative model-based fault diagnosis
+Ron J. Patton, J. Chen
+Quantitative model-based fault diagnosis has become a popular issue in safety-critical systems, e.g., aircraft, spacecraft, chemical processes and nuclear plants. The use of dynamic system model information has been widely recognized as an important approach to fault detection and isolation for the case when there are no repeated hardware units. A prerequisite for reliability in model-based fault diagnosis is robust performance with respect to uncertainties. This paper gives a tutorial discussion of the different problems in robustness and surveys the state of the art in robust solutions for quantitative model-based fault diagnosis. The state observer with disturbance de-coupling design has been recommended as a good solution for robustness in fault diagnosis. Further research topics in robust fault diagnosis have also been outlined.
+-

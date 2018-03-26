@@ -1,0 +1,6 @@
+﻿4 - October 2001
+11 - 2001
+Spatial compensation of boundary disturbances by boundary actuators
+Larbi Afifi, Abdelhakim Chafiai, Abdelhaq El Jai
+In this paper we show how to find convenient boundary actuators, termed boundary efficient actuators, ensuring finite-time space compensation of any boundary disturbance. This is the so-called remediability problem. Then we study the relationship between this remediability notion and controllability by boundary actuators, and hence the relationship between boundary strategic and boundary efficient actuators. We also determine the set of boundary remediable disturbances, and for a boundary disturbance, we give the optimal control ensuring its compensation.
+distributed-parameter systems, remediability, controllability, actuators, sensors

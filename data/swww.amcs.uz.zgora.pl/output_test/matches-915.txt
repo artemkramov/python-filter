@@ -1,0 +1,3 @@
+Regional observation and sensors
+Abdelhaq El Jai, Houria Hamzaoui
+The purpose of this short paper is to provide original results related to the choice of the number of sensors and their supports for general distributed parameter systems. We introduce the notion of extended sensors and we show that the observation error decreases when the support of a sensor is widened. We also show that the observation error decreases when the number of sensors increases.

@@ -1,0 +1,6 @@
+﻿1 - March 1998
+8 - 1998
+A polar coordinate based sliding mode design for vibration control
+K. David Young
+A polar coordinate based sliding mode control design approach for solving vibration control problems is proposed. The phase plane in subdivided into multiple sets, and a different sliding manifold can be chosen for each of the sets. This flexibility in the design allows a different variable structure control law to be applied depending on the phase angle of the vibration. Transient performance improvements over conventional VSC with sliding hyperplanes are demonstrated.
+-

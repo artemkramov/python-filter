@@ -1,0 +1,6 @@
+﻿1 - March 2018
+28 - 2018
+Decentralized stabilization of fractional positive descriptor continuous-time linear systems
+Tadeusz Kaczorek
+A method for decentralized stabilization of fractional positive descriptor linear systems is proposed. Necessary and sufficient conditions for decentralized stabilization of fractional positive descriptor linear systems are established. The efficiency of the proposed method is demonstrated on a numerical example.
+positive system, linear system, continuous-time system, descriptor system, decentralized stabilization</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2018-0010">10.2478/amcs-2018-0010</a>

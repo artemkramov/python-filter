@@ -1,0 +1,6 @@
+﻿1 - March 1994
+4 - 1994
+Minimization of energy losses on the transmission line
+Maciej Siwczyński, Marian Pasko
+The paper formulates and solves the problem of matching the receiver to the source in the way which minimizes the losses of active power on the transmission line at given active power supplied to the receiver. The existence and uniqueness of the solution have been shown and the convergence of iterative procedure has been proved. Thanks to functional analysis the problem has been solved for a large class of signals and linear systems. A simple example has been presented for sinusoidal signals in the system invariable in time.
+-

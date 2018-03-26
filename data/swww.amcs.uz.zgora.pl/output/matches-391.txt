@@ -1,0 +1,6 @@
+﻿1 - March 1993
+3 - 1993
+Benchmarking an associative processor array for vision
+M. Pout, A.W.G. Duller
+The DARPA Image Understanding Benchmarks are used to measure the suitability of the GLiTCH associative processor architecture for a range of vision related tasks. hl particular the tasks of edge detection, connected component labelling and the Hough transform are discussed in some detail. Results are then presented for two different array sizes for all of the image understanding tasks.
+-

@@ -1,0 +1,6 @@
+﻿2 - June 2000
+10 - 2000
+Optimal selection of measurement locations for parameter estimation in distributed processes
+Dariusz Uciński
+The problem of locating pointwise sensor measurements so as to optimally estimate unknown parameters in a class of distributed systems is studied. Based on a scalar measure of performance defined on the corresponding Fisher information matrix, two approaches are developed for this problem: introduction of continuous designs, which allows for adaptation of well-known sequential algorithms of classical optimum experimental design, and application of standard non-linear programming techniques. In each case, particular algorithms are delineated and analysis of the appropriate sensor placements is made. The relative advantages and shortcomings of both the approaches are discussed and demonstrated by applying them to a two-dimensional diffusion process.
+sensor location, distributed-parameter systems, parameter estimation, optimum experimental design, spatial statistics

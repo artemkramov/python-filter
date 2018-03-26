@@ -1,0 +1,15 @@
+﻿Experimental-investigation-of-leakage-current-influence-on-automotive-spark-plug,81479
+4-2015,3237">4/2015 vol. 16
+Statistical-identification-of-complex-technical-system-operation-process,81480,0,2.html" title="NEXT
+</div><div>Experimental investigation of leakage current influence on automotive spark plug voltage waveform
+Bernard-Fryśkowski/699">Bernard Fryśkowski
+null
+bernard.fryskowski@ee.pw.edu.pl
+Faculty of Electrical Engineering, Warsaw University of Technology Plac Politechniki 1, Warsaw
+Publish date: 2017-12-21
+5;16(4):3–8
+81479-16960?filename=Experimental
+gnition+systems/146988">gnition systems<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-spark+plugs/104065">spark plugs<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-spark+ignition+engine/146989">spark ignition engine<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-vacuum+tubes/146990">vacuum tubes
+car+diagnostics/146991">car diagnostics
+The misfire effect in an automotive ignition circuits is caused by parasitic spark plug shunt resistance resulting in leakage current flow. The main explanation for leakage current flow through a spark plug insulator is insulator surface contamination or dielectric failure. Practical measurements show that the spark plug waveforms analysis could be used for diagnostic purposes to recognize the presence of shunt resistance in secondary ignition circuit. A novel method of leakage current simulation and a prototype of an adjustable ignition coil electric load able to operate at high –voltage were proposed. Energy dissipated by adjustable electric load, spark plug voltage and leakage current measurement results were presented. A change in the shape of spark plug voltage and current waveforms caused by leakage current was analyzed and discussed.
+></div></div><div><div><div></div>Related articles</div><div><div><a href="http://www.diagnostyka.net.pl/Electric-field-distribution-in-spark-plugs-insulators-modeling-and-computer-simulation,69065,0,2.html">Electric field distribution in spark plugs insulators – modeling and computer simulation</a></div

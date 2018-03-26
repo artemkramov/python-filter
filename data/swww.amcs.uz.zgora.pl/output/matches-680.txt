@@ -1,0 +1,6 @@
+﻿4 - December 2013
+23 - 2013
+Exact boundary controllability of coupled hyperbolic equations
+Sergei Avdonin, Abdon Choque Rivero, Luz de Teresa
+We study the exact boundary controllability of two coupled one dimensional wave equations with a control acting only in one equation. The problem is transformed into a moment problem. This framework has been used in control theory of distributed parameter systems since the classical works of A.G. Butkovsky, H.O. Fattorini and D.L. Russell in the late 1960s to the early 1970s. We use recent results on the Riesz basis property of exponential divided differences.
+coupled wave equations, controllability, Riesz bases, moment problem</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0052">10.2478/amcs-2013-0052</a>

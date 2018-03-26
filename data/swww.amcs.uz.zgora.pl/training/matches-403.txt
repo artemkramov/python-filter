@@ -1,0 +1,6 @@
+﻿2 - June 1993
+3 - 1993
+Physical interpretation of impact bend test by means of mathematical methods
+Eugeniusz Ranatowski, Jan Sadowski, Ryszard Strzelecki
+The paper deals with the possibility to apply mathematical methods to process dynamic impact bend test diagrams in force-time (<em>F – t</em>) layout. The paper presents both a methodology of taking off<em>F – t</em>characteristics and a computer-aided testing stand, as well as processing algorithms of diagrams in the field of mathematical filtration based on averaging random variable and oscilation in the field of time and frequency. A procedure for defining characteristic points of the sample impact cracking process has also been defined. As a complement to theoretical consideration, the paper presents an example of specific processing of<em>F – t</em>diagrams for<em>C – Mn</em>steel sample, which may be the basis for evaluation of failure process parameters in crack mechanics bearing.
+-

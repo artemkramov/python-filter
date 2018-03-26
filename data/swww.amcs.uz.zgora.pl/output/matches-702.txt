@@ -1,0 +1,6 @@
+﻿1 - March 2012
+22 - 2012
+A model-based approach to fault-tolerant control
+Hans Henrik Niemann
+A model-based controller architecture for Fault-Tolerant Control (FTC) is presented in this paper. The controller architecture is based on a general controller parameterization. The FTC architecture consists of two main parts, a Fault Detection and Isolation (FDI) part and a controller reconfiguration part. The theoretical basis for the architecture is given followed by an investigation of the single parts in the architecture. It is shown that the general controller parameterization is central in connection with both fault diagnosis as well as controller reconfiguration. Especially in relation to the controller reconfiguration part, the application of controller parameterization results in a systematic technique for switching between different controllers. This also allows controller switching using different sets of actuators and sensors.
+fault-tolerant control, controller architecture, fault diagnosis, active fault diagnosis, controller switching</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0005-x">10.2478/v10006-012-0005-x</a>

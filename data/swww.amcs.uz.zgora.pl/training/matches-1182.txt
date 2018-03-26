@@ -1,0 +1,6 @@
+﻿4 - December 2005
+15 - 2005
+Identifiability and estimation of pharmacokinetic parameters for the ligands of the macrophagemannose receptor
+Nathalie Verdière, Lilianne Denis-Vidal, Ghislaine Joly-Blanchard, Dominique Domurado
+The aim of this paper is numerical estimation of pharmacokinetic parameters of the ligands of the macrophage mannose receptor, without knowing a priori the values of these parameters. However, it first requires a model identifiability analysis, which is done by applying an algorithm implemented in a symbolic computation language. It is shown that this step can lead to a direct numerical estimation algorithm. In this way, a first estimate is computed from noisy simulated observations without a priori parameter values. Then the resulting parameter estimate is improved by using the classical least-squares method.
+nonlinear systems, identifiability, parameter estimation, biological applications

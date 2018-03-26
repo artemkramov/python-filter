@@ -1,0 +1,6 @@
+﻿1 - March 1999
+9 - 1999
+Suboptimal nonlinear predictive controllers
+Filip Declercq, Robin De Keyser
+Predictive control based on linear models has become a mature technology in the last decade. Many successful real-time applications can be found in almost every sector of industry. Nonlinear predictive control can further increase the performance of this easy-to-understand control strategy. One of the main problems of implementing nonlinear predictive control is the computational aspect, which is of most importance in real-life applications. In this paper, suboptimal nonlinear predictive control strategies are proposed and compared. The nonlinear predictors are built based on neural identification methods or by white modelling. The use of diophantine equations, which is a common technique to calculate the optimal contribution of the noise model, is avoided by using a more natural method. The comparison between the control algorithms is made based on a simulated discrete multivariable nonlinear system and a continuous stirred tank reactor.
+predictive control, nonlinear control, sequential quadratic programming, diophantine equations

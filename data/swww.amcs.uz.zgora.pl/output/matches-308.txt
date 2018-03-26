@@ -1,0 +1,6 @@
+﻿4 - December 1995
+5 - 1995
+Logical valuation of connectives for fuzzy control by partial differential equations
+Michael Berger, Helmut Schwarz
+There exist numerous criteria (axiomatic, progmatic and empirical) to choose from the fuzzy connectives and apply them to an intersection (conjunction) and union (disjunction). So far these valuations have had no direct connection between the fuzzy logic and the control for technical processes. In this paper, a new valuation (logical valuation) of fuzzy connectives is proposed. The dependence of the correcting variable described by the linguistic rules is compared with the dependence of the correcting variable calculated by means of an analytical description of the fuzzy controller.
+-

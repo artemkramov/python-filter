@@ -1,0 +1,6 @@
+﻿2 - June 2002
+12 - 2002
+Optimizing the linear quadratic minimum-time problem for discrete distributed systems
+Mostafa Rachik, Ahmed Abdelhak
+With reference to the work of Verriest and Lewis (1991) on continuous finite-dimensional systems, the linear quadratic minimum-time problem is considered for discrete distributed systems and discrete distributed time delay systems. We treat the problem in two variants, with fixed and free end points. We consider a cost functional<em>J</em>which includes time, energy and precision terms, and then we investigate the optimal pair<em>(N, u)</em>which minimizes<em>J</em>.
+discrete distributed systems, time delay systems, minimum time, optimal control

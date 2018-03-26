@@ -1,0 +1,6 @@
+﻿4 - December 2017
+27 - 2017
+Methods for mining co–location patterns with extended spatial objects
+Robert Bembenik, Wiktor Jóźwicki, Grzegorz Protaziuk
+The paper discusses various approaches to mining co-location patterns with extended spatial objects. We focus on the properties of transaction-free approaches EXCOM and DEOSP, and discuss the differences between the method using a buffer and that employing clustering and triangulation. These theoretical differences between the two methods are verified experimentally. In the performed tests three different implementations of EXCOM are compared with DEOSP, highlighting the advantages and downsides of both approaches.
+spatial data mining, co-location patterns, extended objects</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2017-0047">10.1515/amcs-2017-0047</a>

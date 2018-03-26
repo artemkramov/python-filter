@@ -1,0 +1,6 @@
+﻿4 - December 2015
+25 - 2015
+Exponential estimates of a class of time-delay nonlinear systems with convex representations
+Máximo Ramírez, Raúl Villafuerte, Temoatzin González, Miguel Bernal
+This work introduces a novel approach to stability and stabilization of nonlinear systems with delayed multivariable inputs; it provides exponential estimates as well as a guaranteed cost of the system solutions. The result is based on an exact convex representation of the nonlinear system which allows a Lyapunov–Krasovskii functional to be applied in order to obtain sufficient conditions in the form of linear matrix inequalities. These are efficiently solved via convex optimization techniques. A real-time implementation of the developed approach on the twin rotor MIMO system is included.
+exponential estimates, time delay systems, TS model, guaranteed cost, convex representations</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2015-0058">10.1515/amcs-2015-0058</a>

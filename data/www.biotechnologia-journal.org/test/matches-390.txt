@@ -1,0 +1,17 @@
+﻿4/2017
+8
+Rapid-callogenesis-and-plant-regeneration-of-fine-and-coarse-varieties-of-rice,85,31316,0
+abstract:</div><div>RESEARCH PAPERS
+Rapid callogenesis and plant regeneration of fine and coarse varieties of rice
+h3>Muhammad Ilyas Khokhar, Muhammad Zaffar Iqbal, Jaime A. Teixeira Da Silva</h3><div>BioTechnologia vol. 98(4) C pp. 283-293 C 2017
+7.72289">https://doi.org/10.5114/bta.2017.72289
+a>View full text</a
+31316
+Khokhar M, Iqbal M, Da Silva J. Rapid callogenesis and plant regeneration of fine and coarse varieties of rice. BioTechnologia. 2018;98(4):283-293. doi:10.5114/bta.2017.72289
+Khokhar, M., Iqbal, M., &amp; Da Silva, J. (2018). Rapid callogenesis and plant regeneration of fine and coarse varieties of rice. BioTechnologia, 98(4), 283-293. https://doi.org/10.5114/bta.2017.72289
+Khokhar, Muhammad Ilyas, Muhammad Zaffar Iqbal, and Jaime A. Teixeira Da Silva. 2018. "Rapid callogenesis and plant regeneration of fine and coarse varieties of rice". BioTechnologia 98 (4): 283-293. doi:10.5114/bta.2017.72289
+Khokhar, M., Iqbal, M., and Da Silva, J. (2018). Rapid callogenesis and plant regeneration of fine and coarse varieties of rice. BioTechnologia, 98(4), pp.283-293. https://doi.org/10.5114/bta.2017.72289
+Khokhar, Muhammad Ilyas et al. "Rapid callogenesis and plant regeneration of fine and coarse varieties of rice." BioTechnologia, vol. 98, no. 4, 2018, pp. 283-293. doi:10.5114/bta.2017.72289
+/div><div>In this study, we aimed to develop an effective and genotype-dependent protocol for in vitro callogenesis and plant regeneration of two fine rice varieties (Super Basmati and Basmati-515) and one coarse variety (KS-282). According to the results, maximum callus induction (52% of the explants) was observed in case of KS-282 after 11 days of incubation with Murashige and Skoog basal medium (MS, with 30 g/l sucrose and 1.76 g/l Gellan gum), which was supplemented with 3 mg/l of 2,4-dichlorophenoxy acetic acid (2,4-D). In contrast, 41% of the Super Basmati explants produced callus within 17 days, followed by 32% of the Basmati-515 explants (within 11 days), in the aforementioned medium but which is supplemented with 4 mg/l 2,4-D. Indirect shoot formation from callus was found to be the highest in case of KS-282 (24% of callus explants) and Basmati-515 (18% of callus explants) after 21 days of incubation. Next, we tested MS medium without 2,4-D but which was supplemented with 3 mg/l kinetin (Kin), 1 mg/l 6-benzyladenine (BA), and 0.5 mg/l indole-3-acetic acid (IAA). According to the results, 22% of the explants of Super Basmati formed shoots after 19 days on MS medium supplemented with BA instead of 2,4-D at a concentration of 1 mg/l. Roots were formed from shoots on a half-strength MS medium without plant growth regulators after 15 days in KS-282 (93% roots formed), after 19 days in Super Basmati (90% roots formed), and after 23 days in Basmati-515 (86% roots formed). Shoots were effectively multiplied in KS-282, followed by Super Basmati, and Basmati-515 varieties (37, 29, and 23 shoots/shoot, respectively) on a basal MS medium supplemented with 4 mg/l Kin. Rooting was induced within 47, 55, and 57 days for KS-282, Super Basmati, and Basmati-515, respectively. Following acclimatization, the percentage of survival was found to be 71%, 70%, and 65%, which was found to be at-par for all three tested rice varieties.<
+null
+keywords:</div><h3>6-benzyladenine, acclimatization, callus, kinetin,<i>Oryza sativa</i>L</h3

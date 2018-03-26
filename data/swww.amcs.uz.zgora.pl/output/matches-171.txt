@@ -1,0 +1,6 @@
+﻿4 - December 1998
+8 - 1998
+System modelling using neural network parameter functions
+Arun Tholudur, W. Fred Ramirez
+The development of mathematical models that accurately describe the dynamics of a complex system is a very difficult task. The use of neural networks in conjunction with prior process knowledge improves modelling performance. This can be achieved by using the method of neural network parameter function modelling. This paper presents the application of this technique to the modelling of a complex batch biotechnology system. The models developed are optimized using two different methods and the results compared.
+-

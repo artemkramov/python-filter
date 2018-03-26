@@ -1,0 +1,6 @@
+﻿1 - March 1993
+3 - 1993
+A BDD engine for logic verification
+Dariusz Caban
+Logic verification is based on the comparison of a circuit behavioural specification with its structural realisation. It plays an important part in VLSI design. The circuit descriptions are expressed in a hardware description language. A modified language may simplify the verification process, e.g. the NODEN HDL. Logic verification is based on the transformation of different levels of circuit description. to a common, canonical form. Binary Decision Diagrams (BDD) are used for this purpose because of their capability to produce simple models for the results of arithmetic addition. Logic verification is a numerically complex task, which limits its usefulness. Parallel processing on a multi-transputer system can make it more attractive. It is proposed to introduce the parallel processing at the level of constructing the decision diagrams (BDD Engine).
+-

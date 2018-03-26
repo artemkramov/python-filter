@@ -1,0 +1,18 @@
+﻿2/2016
+7
+Differential-gene-expression-in-response-to-cold-stress-r-nin-Viola-wittrockiana-,85,27817,0
+abstract:</div><div>RESEARCH PAPERS
+Differential gene expression in response to cold stress in<i>Viola wittrockiana</i>
+h3>Ali Deljou, Morteza Hosseini-Vasoukolaei, Samad Goudarzi, Sommayeh Falahatian, Asghar Mirzaie-Asl, Nasibeh Hosseini-Vasoukolaei, Mohhamad Ali Ahmadi Shad</h3><div>BioTechnologia vol. 97(2) C pp. 87-94 C 2016
+6.60779">https://doi.org/10.5114/bta.2016.60779
+a>View full text</a
+27817
+Deljou A, Hosseini-Vasoukolaei M, Goudarzi S, et al. Differential gene expression in response to cold stress in &lt;i&gt;Viola wittrockiana&lt;/i&gt;. BioTechnologia. 2016;97(2):87-94. doi:10.5114/bta.2016.60779
+Deljou, A., Hosseini-Vasoukolaei, M., Goudarzi, S., Falahatian, S., Mirzaie-Asl, A., &amp; Hosseini-Vasoukolaei, N. et al. (2016). Differential gene expression in response to cold stress in &lt;i&gt;Viola wittrockiana&lt;/i&gt;. BioTechnologia, 97(2), 87-94. https://doi.org/10.5114/bta.2016.60779
+Deljou, Ali, Morteza Hosseini-Vasoukolaei, Samad Goudarzi, Sommayeh Falahatian, Asghar Mirzaie-Asl, Nasibeh Hosseini-Vasoukolaei, and Mohhamad Ali Ahmadi Shad. 2016. "Differential gene expression in response to cold stress in &lt;i&gt;Viola wittrockiana&lt;/i&gt;". BioTechnologia 97 (2): 87-94. doi:10.5114/bta.2016.60779
+Deljou, A., Hosseini-Vasoukolaei, M., Goudarzi, S., Falahatian, S., Mirzaie-Asl, A., Hosseini-Vasoukolaei, N., and Ahmadi Shad, M. (2016). Differential gene expression in response to cold stress in &lt;i&gt;Viola wittrockiana&lt;/i&gt;. BioTechnologia, 97(2), pp.87-94. https://doi.org/10.5114/bta.2016.60779
+Deljou, Ali et al. "Differential gene expression in response to cold stress in &lt;i&gt;Viola wittrockiana&lt;/i&gt;." BioTechnologia, vol. 97, no. 2, 2016, pp. 87-94. doi:10.5114/bta.2016.60779
+Deljou A, Hosseini-Vasoukolaei M, Goudarzi S, Falahatian S, Mirzaie-Asl A, Hosseini-Vasoukolaei N et al. Differential gene expression in response to cold stress in &lt;i&gt;Viola wittrockiana&lt;/i&gt;. BioTechnologia. 2016;97(2):87-94. doi:10.5114/bta.2016.60779
+/div><div>Environmental stresses such as cold are among the most important factors contributing to plant species diversity. When exposed to cold and freezing temperatures, most temperate plants enhance their tolerance prior to the arrival of sub lethal colds. This mechanism of plant adaptation in the face of cold stress conditions is called chilly acclimation. The purpose of this study was to gather more information about the genes involved in cold acclimation through the detection and isolation of differentially expressed transcripts in<i>Viola</i>wittrockiana plants under different temperature treatments. Changes in gene expression levels were studied using the differential display RT-PCR method (DDRT-PCR). Band separation was carried out in a 19% non-denaturing olyacrylamide gel. In this study, six samples were isolated and sequenced. These sequences were screened for similarity with known sequences deposited in databases, using the BLAST algorithm. Also, the expression patterns of six newly-identified ESTs were confirmed by Northern blot analyzes. MHV2 and MHV6 showed significant homology to 23S rRNA and trnI-GAU genes, respectively.<
+null
+keywords:</div><h3>cold stress, differential display, gene expression,<i>Viola wittrockiana</i></h3

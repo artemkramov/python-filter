@@ -1,4 +1,3 @@
 ﻿Optical Properties of CuInS2 Films Produced By Spray Pyrolysis Method
 CuInS2 Semiconductor Films have been produced by the Spray Pyrolysis method on to the glass substrate by using different molarity solutions. Optical Characteristics of the CuInS2 Films have been analysed using Spectrophotometer in the wavelength range 380-1000 nm. The optical band gap energy has been obtained from the plot of (αhu)2 Vs hu. The absorption spectra of the Films Showed that this Compound is a direct band gap material and gap values varied between 1.51-1.80 ev, depending on the molarity solutions. The X-rays diffraction (XRD) spectra of the films have shown that the films produced are polycrystalline and chalcopyrite in structure.
 R S Meshram, R M Thombre and B M Suryavanshi
-optical-properties-of-cuins2-films-produced-by-spray-pyrolysis-method.pdf" title="Optical Properties of CuInS2 Films Produced By Spray Pyrolysis Method

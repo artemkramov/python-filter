@@ -1,0 +1,6 @@
+﻿4 - December 2016
+26 - 2016
+The use of a non-integer order PI controller with an active queue management mechanism
+Adam Domański, Joanna Domańska, Tadeusz Czachórski, Jerzy Klamka
+In this paper the performance of a fractional order PI controller is compared with that of RED, a well-known active queue management (AQM) mechanism. The article uses fluid flow approximation and discrete-event simulation to investigate the influence of the AQM policy on the packet loss probability, the queue length and its variability. The impact of self-similar traffic is also considered.
+active queue management, PI controller, dropping packets, fractional calculus</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0055">10.1515/amcs-2016-0055</a>

@@ -1,0 +1,6 @@
+﻿3 - September 2017
+27 - 2017
+Exact null controllability, complete stabilizability and continuous final observability of neutral type systems
+Rabah Rabah, Grigory Sklyar, Pavel Barkhayev
+For abstract linear systems in Hilbert spaces we revisit the problems of exact controllability and complete stabilizability (stabilizability with an arbitrary decay rate), the latter property being related to exact null controllability. We also consider the case when the feedback is not bounded. We obtain a characterization of complete stabilizability for neutral type systems. Conditions for exact null controllability of neutral type systems are discussed. By duality, we obtain a result about continuous final observability. Illustrative examples are given.
+exact null controllability, complete stabilizability, final observability, neutral type system</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2017-0034">10.1515/amcs-2017-0034</a>

@@ -1,0 +1,6 @@
+﻿3 - September 1998
+8 - 1998
+Controllability of second-order semilinear infinite-dimensional dynamical systems
+Jerzy Klamka
+In the paper, the approximate controllability of semilinear abstract second-order infinite-dimensional dynamical systems is considered. It is proved by using the frequency-domain and functional-analysis methods that the approximate controllability of second-order semilinear dynamical system can be verified by the approximate controllability conditions for a simplified suitably-defined first-order linear dynamical system. General results are then applied to a semilinear mechanical flexible-structure vibratory dynamical system. Some special cases are also considered. Moreover, remarks and comments on the relationships between different concepts of controllability are given. The paper extends the results presented in (Klamka, 1992; Triggiani, 1978) to a more general class of second-order abstract dynamical systems.
+-

@@ -1,0 +1,6 @@
+﻿2 - June 2000
+10 - 2000
+Criteria for stability of uncertain linear systems with time-varying delay
+Qing-Long Han, Keqin Gu
+This paper focuses on the stability problem for uncertain linear systems with<em>time-varying</em>delays. Based on a<em>discretized Lyapunov functional</em>approach, delay-dependent criteria that are formulated in terms of linear matrix inequalities are proposed to guarantee asymptotic stability for such systems. Numerical examples are also included to show the effectiveness of the method.
+stability, time-varying delay, uncertainty, linear matrix inequalities, Lyapunov functional

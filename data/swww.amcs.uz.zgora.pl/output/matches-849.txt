@@ -1,0 +1,6 @@
+﻿1 - March 2010
+20 - 2010
+Local stability conditions for discrete-time cascade locally recurrent neural networks
+Krzysztof Patan
+The paper deals with a specific kind of discrete-time recurrent neural network designed with dynamic neuron models. Dynamics are reproduced within each single neuron, hence the network considered is a locally recurrent globally feedforward. A crucial problem with neural networks of the dynamic type is stability as well as stabilization in learning problems. The paper formulates local stability conditions for the analysed class of neural networks using Lyapunov's first method. Moreover, a stabilization problem is defined and solved as a constrained optimization task. In order to tackle this problem, a gradient projection method is adopted. The efficiency and usefulness of the proposed approach are justified by using a number of experiments.
+locally recurrent neural network, stability, stabilization, learning, constrained optimization</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-010-0002-x">10.2478/v10006-010-0002-x</a>

@@ -1,0 +1,17 @@
+﻿4/2017
+8
+Development-of-technology-for-obtaining-water-soluble-bacterial-melanin-and-determination-of-some-of-pigment-properties,85,31319,0
+abstract:</div><div>RESEARCH PAPERS
+Development of technology for obtaining water-soluble bacterial melanin and determination of some of pigment properties
+h3>A.E. Aghajanyan, A.A. Vardanyan, A.C. Hovsepyan, A.A. Hambardzumyan, V. Filipenia, A.C. Saghyan</h3><div>BioTechnologia vol. 98(4) C pp. 315-322 C 2017
+7.72292">https://doi.org/10.5114/bta.2017.72292
+a>View full text</a
+31319
+Aghajanyan A, Vardanyan A, Hovsepyan A, Hambardzumyan A, Filipenia V, Saghyan A. Development of technology for obtaining water-soluble bacterial melanin and determination of some of pigment properties. BioTechnologia. 2018;98(4):315-322. doi:10.5114/bta.2017.72292
+Aghajanyan, A., Vardanyan, A., Hovsepyan, A., Hambardzumyan, A., Filipenia, V., &amp; Saghyan, A. (2018). Development of technology for obtaining water-soluble bacterial melanin and determination of some of pigment properties. BioTechnologia, 98(4), 315-322. https://doi.org/10.5114/bta.2017.72292
+Aghajanyan, A.E., A.A. Vardanyan, A.C. Hovsepyan, A.A. Hambardzumyan, V. Filipenia, and A.C. Saghyan. 2018. "Development of technology for obtaining water-soluble bacterial melanin and determination of some of pigment properties". BioTechnologia 98 (4): 315-322. doi:10.5114/bta.2017.72292
+Aghajanyan, A., Vardanyan, A., Hovsepyan, A., Hambardzumyan, A., Filipenia, V., and Saghyan, A. (2018). Development of technology for obtaining water-soluble bacterial melanin and determination of some of pigment properties. BioTechnologia, 98(4), pp.315-322. https://doi.org/10.5114/bta.2017.72292
+Aghajanyan, A.E. et al. "Development of technology for obtaining water-soluble bacterial melanin and determination of some of pigment properties." BioTechnologia, vol. 98, no. 4, 2018, pp. 315-322. doi:10.5114/bta.2017.72292
+/div><div>The dependence was studied of the biosynthesis of melanin on the medium pH, the intensity of aeration and the method of regulation of the levels of these parameters during the fermentation process. Based on the obtained results, a technology was developed for the production of Bacillus thuringiensis melanin. Optimization of the pH of the growth medium and mass-transfer coefficient regulation resulted in a rise in the melanin yield up to 13 g/l and a 20-22% increase in the efficiency of the process. The highest yield in fermentation was observed at pH 8.8-9.0. The optimal technological parameters were determined for the sorption of melanin on the ionic sorbent and its elution from the sorbent. The yield of melanin from the culture liquid at the stage of isolation and purification after drying was 78.4%. Relative intensities were determined of the EPR signal of melanin dissolved in water, depending on the dilution factor and pH, as well as the electrical conductivity of melanin.<
+null
+keywords:</div><h3>melanin, fermentation, aeration, process optimization, sorption</h3

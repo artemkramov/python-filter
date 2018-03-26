@@ -1,0 +1,6 @@
+﻿3 - September 1998
+8 - 1998
+New results to the inverse optimal control problem for discrete-time linear systems
+Dimitris P. Iracleods, A.T. Alexandridis
+The inverse optimal control problem, i.e. the problem of the optimal eigenvalue assignment for multi-input linear discrete-time systems, is considered. New necessary and sufficient conditions are proposed which lead to new simple optimal design methods. In particular, for an<em>n</em>-th order system with<em>m</em>inputs the proposed method assigns<em>n – m</em>dominant eigenvalues to any preselected positions while the remaining m eigenvalues are accommodated to ensure stability and to satisfy optimal criteria.
+-

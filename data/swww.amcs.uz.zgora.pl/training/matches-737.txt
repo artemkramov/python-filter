@@ -1,0 +1,6 @@
+﻿2 - June 2012
+22 - 2012
+Noise effects in the quantum search algorithm from the viewpoint of computational complexity
+Piotr Gawron, Jerzy Klamka, Ryszard Winiarczyk
+We analyse the resilience of the quantum search algorithm in the presence of quantum noise modelled as trace preserving completely positive maps. We study the influence of noise on the computational complexity of the quantum search algorithm. We show that it is only for small amounts of noise that the quantum search algorithm is still more efficient than any classical algorithm.
+uantum algorithms, quantum noise, algorithm complexity</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0037-2">10.2478/v10006-012-0037-2</a>

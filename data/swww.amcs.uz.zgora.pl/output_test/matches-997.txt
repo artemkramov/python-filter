@@ -1,0 +1,3 @@
+Fractional positive continuous-time linear systems and their reachability
+Tadeusz Kaczorek
+A new class of fractional linear continuous-time linear systems described by state equations is introduced. The solution to the state equations is derived using the Laplace transform. Necessary and sufficient conditions are established for the internal and external positivity of fractional systems. Sufficient conditions are given for the reachability of fractional positive systems.

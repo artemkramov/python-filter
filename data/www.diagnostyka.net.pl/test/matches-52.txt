@@ -1,0 +1,16 @@
+﻿A-universal-stand-for-air-gear-test-made-in-rapid-prototyping-process,81454
+2-2015,3235">2/2015 vol. 16
+Application-of-GPR-method-in-diagnostics-of-reinforced-concrete-structures,81455,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/Problems-in-estimation-of-hand-grip-force-based-on-EMG-signal,81452,0,2.html" title="PREVIOUS
+A universal stand for air gear test made in rapid prototyping process
+Grzegorz-Budzik/74798">Grzegorz Budzik
+null
+</sup>&nbsp;&nbsp;<a href="mailto:gbudzik@prz.edu.pl"><div></div></a>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Bogdan-Kozik/74799">Bogdan Kozik</a></span>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Mariusz-Cieplak/74800">Mariusz Cieplak</a></span><sup>2
+m.cieplak@ccmetal.pl
+Politechnika Rzeszowska im. Ignacego Łukasiewicza, Wydział Budowy Maszyn i Lotnictwa Al. Powstańców Warszawy 12, 35-959 Rzeszów</span></div></td></tr><tr><td>2</td><td><div><span>CC METAL S.C. Tropie 251, 38-100 Strzyżów
+Publish date: 2017-12-21
+5;16(2):27–30
+81454-16938?filename=A universal stand for air
+a+diagnostic+at+the+stage+production/146775">a diagnostic at the stage production<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-a+universal+stand/146776">a universal stand<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-Rapid+Prototyping+%28RP%29/146777">Rapid Prototyping (RP)
+air+gears/146778">air gears
+This paper presents a universal stand to diagnose air gear models made in the process of Rapid Prototyping (RP) at the production stage. The stand is designed in an open system, powered by a three-phase electric motor with a power of 0.75 kW, whose speed is controlled by a single-phase inverter. The stand is equipped with two measuring shafts, connected directly to a recorder RMC that allow you to read values torque and rpm in real time. Between this measuring shafts installed a gear reducer to allow the exchange of tested pair of gears. Powder br ake with variable speed control is installed on the output as a load. Responsible for data acquisition software is copyright RMC-M - Monitor, which allows you to preview the results of measurements and print them in a report. Trials conducted on the universal test stand for air gears demonstrators give reproducible, stable work parameters and thus enable to obtain uninterrupted, accurate measurements.
+></div></div><div><div><div></div>Related articles</div><div><div><a href="http://www.diagnostyka.net.pl/A-universal-stand-for-air-gear-test-made-in-rapid-prototyping-process,81384,0,2.html">A universal stand for air gear test made in rapid prototyping process</a></div

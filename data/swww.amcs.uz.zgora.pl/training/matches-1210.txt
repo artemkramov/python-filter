@@ -1,0 +1,6 @@
+﻿2 - June 2004
+14 - 2004
+A numerical procedure for filtering and efficient high-order signal differentiation
+Salim Ibrir, Sette Diop
+In this paper, we propose a numerical algorithm for filtering and robust signal differentiation. The numerical procedure is based on the solution of a simplified linear optimization problem. A compromise between smoothing and fidelity with respect to the measurable data is achieved by the computation of an optimal regularization parameter that minimizes the Generalized Cross Validation criterion (GCV). Simulation results are given to highlight the effectiveness of the proposed procedure.
+generalized cross validation, smoothing, differentiation, splines functions, optimization

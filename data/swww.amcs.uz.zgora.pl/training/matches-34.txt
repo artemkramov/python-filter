@@ -1,0 +1,6 @@
+﻿2 - June 2000
+10 - 2000
+Fornasini-Marchesini 2-D state space models: Transfer function computation via the DFT
+George E. Antoniou, Kelly Emmons
+A new algorithm is presented for the computation of the coefficients of the determinantal polynomial and the coefficients of the adjoint polynomial matrix of a given two-dimensional (2-D) state space model of Fornasini-Marchesini type. The algorithm has been implemented in Matlab and uses the discrete Fourier transform (DFT). The simplicity and efficiency of the technique are illustrated by two examples.
+two dimensions system theory, Fourier transform, DFT algorithm, Fornasini-Marchesini's model

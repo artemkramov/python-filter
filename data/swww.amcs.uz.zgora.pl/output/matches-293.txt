@@ -1,0 +1,6 @@
+﻿2 - June 1995
+5 - 1995
+Lyapunov control in robotic systems: Tracking regular and chaotic dynamics
+Henk Nijmeijer, Harry Berghuis
+Lyapunov-type controllers for trajectory tracking of rigid robot manipulators are described. The so-called passivity-based controllers exploit the desired physical energy of the robot system. A discussion about tracking control in the absence of complete state information and model knowledge then leads to practical stability. It is shown that these Lyapunov-type controllers can also be used in other mechanical systems as e.g. the controlled Duffing equation. In that case the controller can be used as a tool for creation or annihilation of chaotic dynamics.
+-

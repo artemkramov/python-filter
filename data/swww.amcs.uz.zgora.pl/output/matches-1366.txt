@@ -1,0 +1,6 @@
+﻿2 - June 2016
+26 - 2016
+Reduced-order fractional descriptor observers for a class of fractional descriptor continuous-time nonlinear systems
+Tadeusz Kaczorek
+Fractional descriptor reduced-order nonlinear observers for a class of fractional descriptor continuous-time nonlinear systems are proposed. Sufficient conditions for the existence of the observers are established. The design procedure for the observers is given and demonstrated on a numerical example.
+fractional system, descriptor system, nonlinear systems, reduced-order observer</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0019">10.1515/amcs-2016-0019</a>

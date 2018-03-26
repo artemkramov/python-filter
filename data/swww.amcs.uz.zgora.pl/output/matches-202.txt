@@ -1,0 +1,6 @@
+﻿3 - September 1997
+7 - 1997
+Sub-gradient algorithms for solving multi-dimensional analysis problems of dissimilarity data
+Adnan Yassine
+The multi-dimensional scaling (MDS) problem, extensively addressed in data analysis, has been investigated in significant works (e.g. De Leeuw, 1977; 1988; De Leeuw and Pruzansky, 1976; Kruskal, 1964; Shepard, 1974). It consists in determination of a configuration<em>x</em>* such that the matrix elements of distances between the points are required to be those of a given matrix called the proximity or dissimilarity matrix or, if this is impossible, it reduces to the nearest optimization problem in which a function (called the loss function) is to be minimized. In this paper, the stability and regularity of the Lagrangian duality in convex maximization (non-convex minimization) are considered. We present some convergence results of the DC (Difference of Convex functions) optimization algorithms which are based on DC duality and local optimality conditions for DC optimization. Various regularization techniques are studied in order to improve the quality (robustness, stability, convergence rate) of the DC algorithm (DCA). For solving MDS problems, sub-gradient algorithms (involving or not regularization techniques) in DC optimization are presented. Some numerical applications for large-scale problems are also provided.
+-

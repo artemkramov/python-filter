@@ -1,0 +1,6 @@
+﻿3 - September 1993
+3 - 1993
+Fault detection in linear discrete dynamic systems using generalized-likelihood-ratio technique
+Shogo Tanaka
+Generalized-likelihood-ratio (GLR) technique is used for fault detection in linear discrete dynamic systems. Based on fault detectability, three detection methods are first introduced; a reduced order step-hypothesized GLR (SHGLR) method, a reduced order tracking functional subspace method (TFSM), which makes use of the system information about input and observation, and a pattern recognition based method (PRBM), which recognizes the pattern of the curve of the reduced order SHGLR to detect the fault. Finally, the robustness on uncertainties of the system is considered.
+-

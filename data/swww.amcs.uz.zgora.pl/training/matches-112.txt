@@ -1,0 +1,6 @@
+﻿1 - March 2018
+28 - 2018
+Bounds on the rate of convergence for one class of inhomogeneous Markovian queueing models with possible batch arrivals and services
+Alexander Zeifman, Rostislav Razumchik, Yacov Satin, Ksenia Kiseleva, Anna Korotysheva, Victor Korolev
+In this paper we present a method for the computation of convergence bounds for four classes of multiserver queueing systems, described by inhomogeneous Markov chains. Specifically, we consider an inhomogeneous<em>M/M/S</em>queueing system with possible state-dependent arrival and service intensities, and additionally possible batch arrivals and batch service. A unified approach based on a logarithmic norm of linear operators for obtaining sharp upper and lower bounds on the rate of convergence and corresponding sharp perturbation bounds is described. As a side effect, we show, by virtue of numerical examples, that the approach based on a logarithmic norm can also be used to approximate limiting characteristics (the idle probability and the mean number of customers in the system) of the systems considered with a given approximation error.
+inhomogeneous birth and death processes, weak ergodicity, rate of convergence, sharp bounds, logarithmic norm, forward Kolmogorov system</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2018-0011">10.2478/amcs-2018-0011</a>

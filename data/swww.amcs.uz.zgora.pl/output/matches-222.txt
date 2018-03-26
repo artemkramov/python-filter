@@ -1,0 +1,6 @@
+﻿1 - March 1996
+6 - 1996
+A note on applications of interpolation theory to control problems of infinite-dimensional systems
+Hans Zwart
+In this paper we shall give two examples of how interpolation theory plays an important role in control theory. The first one is proving the necessary and sufficient conditions for admissibility of a one-dimensional input vector for a diagonal semigroup. The other problem is showing lack of optimizability for the well-known Zabczyk example (Zabczyk, 1975).
+-

@@ -1,0 +1,6 @@
+﻿3 - September 2017
+27 - 2017
+A numerical solution for a class of time fractional diffusion equations with delay
+Vladimir G. Pimenov, Ahmed S. Hendy
+This paper describes a numerical scheme for a class of fractional diffusion equations with fixed time delay. The study focuses on the uniqueness, convergence and stability of the resulting numerical solution by means of the discrete energy method. The derivation of a linearized difference scheme with convergence order<em>O(τ<sup>2−α</sup>+ h<sup>4</sup>)</em>in<em>L</em><sub>∞</sub>-norm is the main purpose of this study. Numerical experiments are carried out to support the obtained theoretical results.
+fractional diffusion equation with delay, difference scheme, convergence analysis</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2017-0033">10.1515/amcs-2017-0033</a>

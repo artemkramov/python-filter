@@ -1,0 +1,17 @@
+﻿4/2014
+5
+Human-ribonuclease-Dicer-inhibition-using-RNA-aptamers,85,26431,0
+abstract:</div><div>Short communication
+Human ribonuclease Dicer inhibition using RNA aptamers
+h3>Agata Tyczewska</h3><div>vol. 95(4) C pp. 259-263 C 2014
+4.56596">https://doi.org/10.5114/bta.2014.56596
+a>View full text</a
+26431
+Tyczewska A. Human ribonuclease Dicer inhibition using RNA aptamers. BioTechnologia. 2015;95(4):259-263. doi:10.5114/bta.2014.56596
+Tyczewska, A. (2015). Human ribonuclease Dicer inhibition using RNA aptamers. BioTechnologia, 95(4), 259-263. https://doi.org/10.5114/bta.2014.56596
+Tyczewska, Agata. 2015. "Human ribonuclease Dicer inhibition using RNA aptamers". BioTechnologia 95 (4): 259-263. doi:10.5114/bta.2014.56596
+Tyczewska, A. (2015). Human ribonuclease Dicer inhibition using RNA aptamers. BioTechnologia, 95(4), pp.259-263. https://doi.org/10.5114/bta.2014.56596
+Tyczewska, Agata. "Human ribonuclease Dicer inhibition using RNA aptamers." BioTechnologia, vol. 95, no. 4, 2015, pp. 259-263. doi:10.5114/bta.2014.56596
+/div><div>The aim of this invention was to select RNA aptamers that specifically bind human ribonuclease Dicer, which is one of the main enzymes that take part in miRNA biogenesis and the biogenesis of other short regulatory RNAs, and then to find out if pre-selected molecules affect enzyme activity. Other aims of this solution include: 1) using RNA aptamers as ribonuclease Dicer competitive inhibitors; 2) using RNA aptamers that are allosteric ribonucle- ase Dicer inhibitors, 3) identifying RNA aptamers that are selective inhibitors of emergence of selected miRNAs.<
+null
+keywords:</div><h3>Ribonuclease Dicer, SELEX, aptamers</h3

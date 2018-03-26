@@ -1,0 +1,6 @@
+﻿3 - September 2015
+25 - 2015
+On the order equivalence relation of binary association measures
+Mariusz Paradowski
+Over a century of research has resulted in a set of more than a hundred binary association measures. Many of them share similar properties. An overview of binary association measures is presented, focused on their order equivalences. Association measures are grouped according to their relations. Transformations between these measures are shown, both formally and visually. A generalization coefficient is proposed, based on joint probability and marginal probabilities. Combining association measures is one of recent trends in computer science. Measures are combined in linear and nonlinear discrimination models, automated feature selection or construction. Knowledge about their relations is particularly important to avoid problems of meaningless results, zeroed generalized variances, the curse of dimensionality, or simply to save time.
+association coefficient, result ranking, linear combination, zeroed variance determinant, feature selection</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2015-0047">10.1515/amcs-2015-0047</a>

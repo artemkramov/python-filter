@@ -1,0 +1,6 @@
+﻿2 - December 1992
+2 - 1992
+Some control problems related to optimal chemotherapy-singular solutions
+Andrzej Świerniak, Zdzisław Duda
+In the paper it has been proved that some optimal control problems resulting from the simplest models of cancer chemotherapy lead to singular control solutions. The singularity seems to be a characteristic feature of bilinear models even if dynamics of the drug activity or reaction of critical normal tissues is encountered. On the other hand, the singular control is absent when the Gompertz-type growth is applied.
+-

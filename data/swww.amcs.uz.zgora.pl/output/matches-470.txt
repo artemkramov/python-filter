@@ -1,0 +1,6 @@
+﻿1 - December 1991
+1 - 1991
+Control system for uncoiler with induction motor drive
+Bogumiła Mrozek
+The paper presents results of an investigation into the control systems of uncoiler drives in the environment of a rolling mill at metallurgical plant. Variable diameter and variable inertia of coil and demand of stable stretch are important features of this machine. Control system of an uncoiler working without the need of a stretch sensor is presented. The current source inverter and AC moto are controlled by a digital system with field orientation. The variation of linear speed of sheet (if needed) and stable stretch are assured. Compensation of dynamical torque and static looses of the uncoiler is shown. The author does not know any uncoiler in exploitation with an AC motor drive. The presented system has not been implemented yet. Its verification was tested using a microcomputer simulation using Pascal language (Turbo Pascal v. 5.5). The simulation results (steady state values and transient plots) for start, steady state and brake of the AC drive system are presented. The simulation has proved that modern drive may replace the old DC system. The replacement will give better reliability and trouble free service thanks to the rugged AC motor and powerful electronics.
+-

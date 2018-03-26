@@ -1,0 +1,6 @@
+﻿3 - September 2005
+15 - 2005
+On the computation of the minimal polynomial of a polynomial matrix
+Nicholas P. Karampetakis, Panagiotis Tzekis
+The main contribution of this work is to provide two algorithms for the computation of the minimal polynomial of univariate polynomial matrices. The first algorithm is based on the solution of linear matrix equations while the second one employs DFT techniques. The whole theory is illustrated with examples.
+minimal polynomial, discrete Fourier transform, polynomial matrix, linear matrix equations

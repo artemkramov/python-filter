@@ -1,0 +1,6 @@
+﻿4 - December 2006
+16 - 2006
+Random perturbation of the variable metric method for unconstrained nonsmooth nonconvex optimization
+Abdelkrim El Mouatasim, Rachid Ellaia, José E. Souza de Cursi
+We consider the global optimization of a nonsmooth (nondifferentiable) nonconvex real function. We introduce a variable metric descent method adapted to nonsmooth situations, which is modified by the incorporation of suitable random perturbations. Convergence to a global minimum is established and a simple method for the generation of suitable perturbations is introduced. An algorithm is proposed and numerical results are presented, showing that the method is computationally effective and stable.
+nonconvex optimization, stochastic perturbation, variable metric method, nonsmooth optimization, generalized gradient

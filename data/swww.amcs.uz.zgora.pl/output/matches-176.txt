@@ -1,0 +1,6 @@
+﻿1 - March 1997
+7 - 1997
+Optimal state and parameter estimation for a fed-batch induced foreign protein bioreactor
+Jongdae Lee, W. Fred Ramirez
+An extended Kalman filter was used for on-line estimation of system states and parameters for a fed-batch induced foreign protein bioreactor. Simulation work was carried out to test the feasibility of the filter. The extended Kalman filter worked well for state and parameter estimation. The ratio of the covariance matrices reflecting model uncertainty to measurement noise significantly influenced the filter performance. An iterative version of the extended Kalman filter algorithm was even more effective in estimating model parameters and states. When the model parameters to be estimated are assumed constant, application of a static estimation algorithm was extremely effective. Estimates were significantly less noisy than estimates using the dynamic extended Kalman filter.
+-

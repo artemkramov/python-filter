@@ -1,0 +1,6 @@
+﻿3 - September 2000
+10 - 2000
+Optimal shape design for elliptic equations via BIE-methods
+Karsten Eppler
+special description of the boundary variation in a shape optimization problem is investigated. This, together with the use of a potential theory for the state, result in natural embedding of the problem in a Banach space. Therefore, standard differential calculus can be applied in order to prove the Frechét-differentiability of the cost function for appropriately chosen data (sufficiently smooth). Moreover, necessary optimality conditions are obtained in a similar way as in other approaches, and are expressed in terms of an adjoint state for more regular data.
+optimal shape design, fundamental solution, boundary integral equation, first-order necessary condition

@@ -1,0 +1,6 @@
+﻿3 - September 2009
+19 - 2009
+An object-oriented approach to simulating human gait motion based on motion tracking
+Martin Tändl, Tobias Stark, Nihat Ercümet Erol, Franz Löer, Andrés Kecskeméthy
+Accurate bone motion reconstruction from marker tracking is still an open and challenging issue in biomechanics. Presented in this paper is a novel approach to gait motion reconstruction based on kinematical loops and functional skeleton features extracted from segmented Magnetic Resonance Imaging (MRI) data. The method uses an alternative path for concatenating relative motion starting at the feet and closing at the hip joints. From the evaluation of discrepancies between predicted and geometrically identified functional data, such as hip joint centers, a cost function is generated with which the prediction model can be optimized. The method is based on the object-oriented multibody library MOBILE, which has already been successfully applied to the development of industrial virtual design environments. The approach has been implemented in a general gait visualization environment termed<em>Mobile Body</em>.
+gait/motion analysis, muskuloskeletal system, multibody simulation, MRI, X-ray, motion tracking</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-009-0038-y">10.2478/v10006-009-0038-y</a>

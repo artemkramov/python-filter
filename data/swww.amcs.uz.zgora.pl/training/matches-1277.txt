@@ -1,0 +1,6 @@
+﻿1 - March 2016
+26 - 2016
+Adaptive predictions of the euro/złoty currency exchange rate using state space wavelet networks and forecast combinations
+Mietek A. Brdyś, Marcin T. Brdyś, Sebastian M. Maciejewski
+The paper considers the forecasting of the euro/Polish złoty (EUR/PLN) spot exchange rate by applying state space wavelet network and econometric forecast combination models. Both prediction methods are applied to produce one-trading-day-ahead forecasts of the EUR/PLN exchange rate. The paper presents the general state space wavelet network and forecast combination models as well as their underlying principles. The state space wavelet network model is, in contrast to econometric forecast combinations, a non-parametric prediction technique which does not make any distributional assumptions regarding the underlying input variables. Both methods can be used as forecasting tools in portfolio investment management, asset valuation, IT security and integrated business risk intelligence in volatile market conditions.
+currency exchange rate, artificial intelligence, state space wavelet network, Metropolis Monte Carlo, forecast combinations, data generating process</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0011">10.1515/amcs-2016-0011</a>

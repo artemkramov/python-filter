@@ -1,0 +1,6 @@
+﻿2 - June 2001
+11 - 2001
+An algorithm for construction of<em>ε</em>-value functions for the Bolza control problem
+Edyta Jacewicz
+The problem considered is that of approximate numerical minimisation of the non-linear control problem of Bolza. Starting from the classical dynamic programming method of Bellman, an<em>ε</em>-value function is defined as an approximation for the value function being a solution to the Hamilton-Jacobi equation. The paper shows how an<em>ε</em>-value function which maintains suitable properties analogous to the original Hamilton-Jacobi value function can be constructed using a stable numerical algorithm. The paper shows the numerical closeness of the approximate minimum to the infimum of the Bolza functional.
+non-linear optimisation, Bolza problem, optimal control, Hamilton-Jacobi equation, dynamic programming,<em>ε</em>-value function, approximate minimum

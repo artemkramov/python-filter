@@ -1,0 +1,6 @@
+﻿4 - December 1994
+4 - 1994
+On limiting forms of the reliability functions sequence of the parallel-series system
+Krzysztof Kołowrocki
+In the investigation of large scale systems the problem of the complexity of their reliability functions appears. This problem may be approximately solved on the assumption that the number of the system components tends to infinity and by finding the limit reliability function of this system. In this paper a ten-element closed class of limit reliability functions for parallel-series system with dissimilar components is given. This system is such that at least the number of its series or the number of its parallel components tends to infinity. The result is obtained on the assumption that lifetimes of the particular components are independent random variables. The fixed class is more extensive than up to now known class of limit distributions of maximin statistics of independent random variables with the same distributions. The result can be useful in the reliability evaluation of large systems.
+-

@@ -1,0 +1,6 @@
+﻿3 - September 2003
+13 - 2003
+Stochastic models of progression of cancer and their use in controlling cancer-related mortality
+Marek Kimmel, Olga Y. Gorlova
+A construction of a realistic statistical model of lung cancer risk and progression is proposed. The essential elements of the model are genetic and behavioral determinants of susceptibility, progression of the disease from precursor lesions through early (localized) tumors to disseminated disease, detection by various modalities, and medical intervention. Using model estimates as a foundation, mortality reduction caused by early-detection and intervention programs can be predicted under different scenarios. Genetic indicators of susceptibility to lung cancer should be used to define the highest-risk subgroups of the high-risk behavior population (smokers). The calibration and validation of the model requires applying our techniques to a variety of data sets available, including public registry data of the SEER type, data from the NCI lung cancer chest X-ray screening studies, and the recent ELCAP CT-scan screening study.
+lung cancer, genetic susceptibility, environmental exposure, tumor growth, statistical modeling, simulation

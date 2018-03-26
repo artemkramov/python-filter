@@ -1,0 +1,6 @@
+﻿4 - December 1996
+6 - 1996
+Pattern recognition techniques using fuzzily labeled data for process fault detection
+Teodor Marcu
+The problem of robust diagnosis of process faults is addressed in the context of intelligent control. Fuzzy and non-parametric theoretic decision methods of pattern recognition are developed and applied to model-based fault detection based on parameter estimation. The present approach uses the concept of fuzzy sets to construct and to improve the performances of linear and nonlinear classifiers based on a distance. Simulation and experimental results regarding the diagnosis of various processes are included in two comparative studies.
+-

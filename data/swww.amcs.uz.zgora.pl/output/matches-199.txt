@@ -1,0 +1,6 @@
+﻿3 - September 1997
+7 - 1997
+Optimality conditions for linear 2-D control systems with constraints
+Michael Dymkov
+Optimal control problems for linear two-dimensional (2-D) discrete and continuous-discrete systems with mixed constraints are investigated. The problems under consideration are reduced to linear-programming ones in appropriate Hilbert spaces. The main duality relations are derived such that optimality conditions are specified by using methods of linear operator theory. The optimality conditions are expressed in terms of solutions of adjoint systems. A simple illustrative example is also given.
+-

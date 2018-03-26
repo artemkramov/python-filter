@@ -1,0 +1,6 @@
+﻿3 - September 2008
+18 - 2008
+Iterative learning control - monotonicity and optimization
+David H. Owens, Steve Daley
+The area if Iterative Learning Control (ILC) has great potential for applications to systems with a naturally repetitive action where the transfer of data from repetition (trial or iteration) can lead to substantial improvements in tracking performance. There are several serious issues arising from the "2D" structure of ILC and a number of new problems requiring new ways of thinking and design. This paper introduces some of these issues from the point of view of the research group at Sheffield University and concentrates on linear systems and the potential for the use of optimization methods and switching strategies to achieve effective control.
+iterative learning control, optimization, monotonicity, robust control</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0026-7">10.2478/v10006-008-0026-7</a>

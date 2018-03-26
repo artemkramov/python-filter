@@ -1,0 +1,6 @@
+a>View full text</a
+Kashyap S, Singh B, Amla D. RESEARCH PAPER&lt;br&gt;Homology modeling deduced tridimensional structure of &lt;i&gt;Bacillus thuringiensis&lt;/i&gt; Cry1Ab18 toxin. BioTechnologia. 2014;93(1):48-58. doi:10.5114/bta.2012.46568
+Kashyap, S., Singh, B., &amp; Amla, D. (2014). RESEARCH PAPER&lt;br&gt;Homology modeling deduced tridimensional structure of &lt;i&gt;Bacillus thuringiensis&lt;/i&gt; Cry1Ab18 toxin. BioTechnologia, 93(1), 48-58. https://doi.org/10.5114/bta.2012.46568
+Kashyap, Sudhanshu, Brahma Dev Singh, and Devindra Vijay Amla. 2014. "RESEARCH PAPER&lt;br&gt;Homology modeling deduced tridimensional structure of &lt;i&gt;Bacillus thuringiensis&lt;/i&gt; Cry1Ab18 toxin". BioTechnologia 93 (1): 48-58. doi:10.5114/bta.2012.46568
+Kashyap, S., Singh, B., and Amla, D. (2014). RESEARCH PAPER&lt;br&gt;Homology modeling deduced tridimensional structure of &lt;i&gt;Bacillus thuringiensis&lt;/i&gt; Cry1Ab18 toxin. BioTechnologia, 93(1), pp.48-58. https://doi.org/10.5114/bta.2012.46568
+Kashyap, Sudhanshu et al. "RESEARCH PAPER&lt;br&gt;Homology modeling deduced tridimensional structure of &lt;i&gt;Bacillus thuringiensis&lt;/i&gt; Cry1Ab18 toxin." BioTechnologia, vol. 93, no. 1, 2014, pp. 48-58. doi:10.5114/bta.2012.46568

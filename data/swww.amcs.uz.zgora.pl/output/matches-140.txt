@@ -1,0 +1,6 @@
+﻿2 - June 1998
+8 - 1998
+Spreadability and spray actuators
+Samira El Yacoubi, Abdelhaq El Jai, Jamila Karrakchou
+Spreadability of distributed systems has been recently introduced (El Jai and Kassara, 1994; El Jai et al., 1995). The aim of this paper is to propose a new approach to spreadability based on considering actuators as generators of spreadability. This approach is related to ecological and environmental problems, like vegetation dynamics, where the actuators are assumed to be governed by a transport equation while the system is described by a diffusion model.
+-

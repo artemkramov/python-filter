@@ -1,0 +1,17 @@
+﻿2/2011
+2
+REVIEW-PAPER-Association-between-body-iron-stores-r-nand-level-of-oxidatively-modified-DNA-bases,85,23864,0
+abstract:
+REVIEW PAPER<br>Association between body iron stores and level of oxidatively modified DNA bases
+h3>Tomasz Dziaman, Marek Jurgowiak, Ryszard Oliński</h3><div>BioTechnologia vol. 92(2) C pp. 159-165 C 2011
+1.46531">https://doi.org/10.5114/bta.2011.46531
+a>View full text</a
+23864
+Dziaman T, Jurgowiak M, Oliński R. REVIEW PAPER&lt;br&gt;Association between body iron stores and level of oxidatively modified DNA bases. BioTechnologia. 2014;92(2):159-165. doi:10.5114/bta.2011.46531
+Dziaman, T., Jurgowiak, M., &amp; Oliński, R. (2014). REVIEW PAPER&lt;br&gt;Association between body iron stores and level of oxidatively modified DNA bases. BioTechnologia, 92(2), 159-165. https://doi.org/10.5114/bta.2011.46531
+Dziaman, Tomasz, Marek Jurgowiak, and Ryszard Oliński. 2014. "REVIEW PAPER&lt;br&gt;Association between body iron stores and level of oxidatively modified DNA bases". BioTechnologia 92 (2): 159-165. doi:10.5114/bta.2011.46531
+Dziaman, T., Jurgowiak, M., and Oliński, R. (2014). REVIEW PAPER&lt;br&gt;Association between body iron stores and level of oxidatively modified DNA bases. BioTechnologia, 92(2), pp.159-165. https://doi.org/10.5114/bta.2011.46531
+Dziaman, Tomasz et al. "REVIEW PAPER&lt;br&gt;Association between body iron stores and level of oxidatively modified DNA bases." BioTechnologia, vol. 92, no. 2, 2014, pp. 159-165. doi:10.5114/bta.2011.46531
+/div><div>It appears that the presence of labile iron pool (LIP, iron not bound to proteins) in cells can result in the production<br><br>of reactive oxygen species namely COH radical which may be responsible for the formation of 8-oxo-7,8-dihydro-<br><br>2N-deoxyguanosine (8-oxodG) in the cellular DNA. This oxidatively modified molecule is regarded as a good<br><br>biomarker of cancer risk and a general index of oxidative stress in relation to other diseases. There are numerous<br><br>data suggesting that oxidative stress may be involved in the development of cardiovascular diseases and cancer.<br><br>It has been observed that heterozygosity for hereditary hemochromatosis (a disease with abnormal iron storage)<br><br>is a risk factor for vascular diseases. Previously we have demonstrated higher levels of LIP in a group of atherosclerotic<br><br>patients when compared with the control group. This suggests that LIP may increase the risk of disease<br><br>development. The aforementioned condition may lead to oxidative stress, which is manifested by a higher level<br><br>of 8-oxodG in blood lymphocytes, and may be one of the factors responsible for the development of cardiovascular<br><br>diseases. We have also reported the relationship between LIP and the endogenous level of 8-oxodG in human<br><br>lymphocytes of the colon cancer patients. Good correlation has been determined between LIP and oxidatively modified<br><br>nucleoside. The results of our studies on piglets supplemented with iron dextran (FeDex) also show an increase<br><br>in the 8-oxodG level in hepatic DNA. These findings confirm the possibility that iron overload may favor<br><br>the persistence of harmful LIP which may catalyze generation of the potentially carcinogenic 8-oxodG moiety in<br><br>the cellular DNA.<
+null
+keywords:</div><h3>labile iron pool, oxidative stress, 8-oxodG</h3

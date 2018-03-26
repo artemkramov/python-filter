@@ -1,0 +1,6 @@
+﻿3 - September 2011
+21 - 2011
+A sign preserving mixed finite element approximation for contact problems
+Patrick Hild
+This paper is concerned with the frictionless unilateral contact problem (i.e., a Signorini problem with the elasticity operator). We consider a mixed finite element method in which the unknowns are the displacement field and the contact pressure. The particularity of the method is that it furnishes a normal displacement field and a contact pressure satisfying the sign conditions of the continuous problem. The<em>a priori</em>error analysis of the method is closely linked with the study of a specific positivity preserving operator of averaging type which differs from the one of Chen and Nochetto. We show that this method is convergent and satisfies the same<em>a priori</em>error estimates as the standard approach in which the approximated contact pressure satisfies only a weak sign condition. Finally we perform some computations to illustrate and compare the sign preserving method with the standard approach.
+variational inequality, positive operator, averaging operator, contact problem, Signorini problem, mixed finite element method</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-011-0037-7">10.2478/v10006-011-0037-7</a>

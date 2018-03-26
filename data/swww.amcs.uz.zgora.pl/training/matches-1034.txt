@@ -1,0 +1,6 @@
+﻿1 - March 2007
+17 - 2007
+Stochastic controllability of linear systems with state delays
+Jerzy Klamka
+A class of finite-dimensional stationary dynamic control systems described by linear stochastic ordinary differential state equations with a single point delay in the state variables is considered. Using a theorem and methods adopted directly from deterministic controllability problems, necessary and sufficient conditions for various kinds of stochastic relative controllability are formulated and proved. It will be demonstrated that under suitable assumptions the relative controllability of an associated deterministic linear dynamic system is equivalent to the stochastic relative exact controllability and the stochastic relative approximate controllability of the original linear stochastic dynamic system. Some remarks and comments on the existing results for the controllability of linear dynamic systems with delays are also presented. Finally, a minimum energy control problem for a stochastic dynamic system is formulated and solved.
+controllability, linear control systems, stochastic control systems, delayed state variables, minimum energy control</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0001-8">10.2478/v10006-007-0001-8</a>

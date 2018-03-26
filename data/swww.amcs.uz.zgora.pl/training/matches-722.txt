@@ -1,0 +1,6 @@
+﻿2 - June 2017
+27 - 2017
+Assessment of the GPC control quality using non-Gaussian statistical measures
+Paweł D. Domański, Maciej Ławryńczuk
+This paper presents an alternative approach to the task of control performance assessment. Various statistical measures based on Gaussian and non-Gaussian distribution functions are evaluated. The analysis starts with the review of control error histograms followed by their statistical analysis using probability distribution functions. Simulation results obtained for a control system with the generalized predictive controller algorithm are considered. The proposed approach using Cauchy and Lévy<em>α</em>-stable distributions shows robustness against disturbances and enables effective control loop quality evaluation. Tests of the predictive algorithm prove its ability to detect the impact of the main controller parameters, such as the model gain, the dynamics or the prediction horizon.
+control performance assessment, GPC control, non-Gaussian PDF, Cauchy PDF, Lévy<em>α</em>-stable PDF</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2017-0021">10.1515/amcs-2017-0021</a>

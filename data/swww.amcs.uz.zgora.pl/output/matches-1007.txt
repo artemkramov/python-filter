@@ -1,0 +1,6 @@
+﻿3 - September 2008
+18 - 2008
+New self-checking Booth multipliers
+Marc Hunger, Daniel Marienfeld
+This work presents the first self-checking Booth-3 multiplier and a new self-checking Booth-2 multiplier using parity prediction. We propose a method which combines error-detection of Booth-3 (or Booth-2) decoder cells and parity prediction. Additionally, code disjointness is ensured by reusing logic for partial product generation. Parity prediction is applied to a carry-save-adder with the standard sign-bit extension. In this adder almost all cells have odd fanouts and faults are detected by the parity. Only one adder cell has an even fanout in the case of Booth-3 multiplication. Especially, for even-number Booth-2 multipliers parity prediction becomes efficient. Since that prediction slightly differs from previous work which describes CSA-folded adders, formulas to predict the parity are developed here. The proposed multipliers are compared experimentally with existing solutions. Only 102% of the area of Booth-2 without error detection is needed for the self-checking Booth-3 multiplier.
+Booth multiplier, self-checking, parity-prediction, carry-dependent adder, 1-out-of-5 code</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0029-4">10.2478/v10006-008-0029-4</a>

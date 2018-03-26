@@ -1,0 +1,3 @@
+Constrained controllability of nonlinear stochastic impulsive systems
+Shanmugasundaram Karthikeyan, Krishnan Balachandran
+This paper is concerned with complete controllability of a class of nonlinear stochastic systems involving impulsive effects in a finite time interval by means of controls whose initial and final values can be assigned in advance. The result is achieved by using a fixed-point argument.

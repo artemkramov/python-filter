@@ -1,0 +1,6 @@
+﻿3 - September 2007
+17 - 2007
+A level set method in shape and topology optimization for variational inequalities
+Piotr Fulmański, Antoine Laurain, Jean-Francois Scheid, Jan Sokołowski
+The level set method is used for shape optimization of the energy functional for the Signorini problem. The boundary variations technique is used in order to derive the shape gradients of the energy functional. The conical differentiability of solutions with respect to the boundary variations is exploited. The topology modifications during the optimization process are identified by means of an asymptotic analysis. The topological derivatives of the energy shape functional are employed for the topology variations in the form of small holes. The derivation of topological derivatives is performed within the framework proposed in (Sokołowski and Żochowski, 2003). Numerical results confirm that the method is efficient and gives better results compared with the classical shape optimization techniques.
+shape optimization, topological derivative, level set method, variational inequality, asymptotic analysis</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0034-z">10.2478/v10006-007-0034-z</a>

@@ -1,0 +1,16 @@
+﻿1/2013
+4
+Crystal-structure-of-a-PR-10-nodulin-r-nin-complex-with-trans-zeatin,85,23828,0
+abstract:</div><div>Short communication
+Crystal structure of a PR-10 nodulin in complex with<i>trans</i>-zeatin
+h3>Milosz Ruszkowski, Michal Sikorski, Mariusz Jaskolski</h3><div>BioTechnologia vol. 94(1) C pp. 42-46 C 2013
+3.46436">https://doi.org/10.5114/bta.2013.46436
+a>View full text</a
+23828
+Ruszkowski M, Sikorski M, Jaskolski M. Crystal structure of a PR-10 nodulin in complex with &lt;i&gt;trans&lt;/i&gt;-zeatin. BioTechnologia. 2014;94(1):42-46. doi:10.5114/bta.2013.46436
+Ruszkowski, M., Sikorski, M., &amp; Jaskolski, M. (2014). Crystal structure of a PR-10 nodulin in complex with &lt;i&gt;trans&lt;/i&gt;-zeatin. BioTechnologia, 94(1), 42-46. https://doi.org/10.5114/bta.2013.46436
+Ruszkowski, Milosz, Michal Sikorski, and Mariusz Jaskolski. 2014. "Crystal structure of a PR-10 nodulin in complex with &lt;i&gt;trans&lt;/i&gt;-zeatin". BioTechnologia 94 (1): 42-46. doi:10.5114/bta.2013.46436
+Ruszkowski, M., Sikorski, M., and Jaskolski, M. (2014). Crystal structure of a PR-10 nodulin in complex with &lt;i&gt;trans&lt;/i&gt;-zeatin. BioTechnologia, 94(1), pp.42-46. https://doi.org/10.5114/bta.2013.46436
+Ruszkowski, Milosz et al. "Crystal structure of a PR-10 nodulin in complex with &lt;i&gt;trans&lt;/i&gt;-zeatin." BioTechnologia, vol. 94, no. 1, 2014, pp. 42-46. doi:10.5114/bta.2013.46436
+null
+Nodules are unique root organs of legume plants. Nodulation (nodule formation) is an extraordinary symbiotic<br><br>process which eventually allows a plant to assimilate atmospheric nitrogen. The nitrogen-fixing bacteria that colonize<br><br>the nodules convert molecular nitrogen N2 into compounds suitable for plant metabolism. A class of plant<br><br>hormones called cytokinins are known to affect the nodulation process. A small protein, Nodulin 13 from<i>Medicago<br><br>truncatula</i>(MtN13), is expressed in the outer cortex of the nodule at early stages of nodulation. MtN13 belongs<br><br>to class 10 of plant pathogenesis-related proteins (PR-10). PR-10 members have been shown to bind cytokinins.<br><br>This paper focuses on the involvement of cytokinins in nodulation and presents a brief overview of the<br><br>crystal structure of MtN13 in complex with trans-zeatin, a naturally occurring cytokinin.</div

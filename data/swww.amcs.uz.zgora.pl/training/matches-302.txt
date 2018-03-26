@@ -1,0 +1,6 @@
+﻿3 - September 1995
+5 - 1995
+Arithmetic modelling – a link between discrete-time systems and binary process control
+Dieter Franke
+The paper addresses finite state machines which provide suitable mathematical models for discrete-event dynamical systems. Boolean automata are of particular interest. In contrast to the classical automata theory, an arithmetic representation of Boolean functions is used based on multilinear polynomials. By this technique, finite automata are embedded in the Euclidean vector space, which makes it possible to find a closer relationship between discrete-event systems and classical discrete-time systems. The problem of self-regulation of binary dynamic systems is interpreted in terms of feedback control structures with a focus on two special classes of systems. First, systems which are linear with respect to state and control are studied within the framework of the classical state space theory. Then systems which are linear in the control and multilinear in the state are considered. It is shown that multilinear state feedback can be utilized to globally linearize the overall system. The design equations turn out to be linear with respect to the controller parameters in this case.
+-

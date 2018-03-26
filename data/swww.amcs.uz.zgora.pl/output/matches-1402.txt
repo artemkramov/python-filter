@@ -1,0 +1,6 @@
+﻿4 - October 2001
+11 - 2001
+Ingham-type inequalities and Riesz bases of divided differences
+Sergei Avdonin, William Moran
+<em>Please see the PDF file.</em>
+simultaneous controllability, string equation, beam equation, Riesz bases, divided differences

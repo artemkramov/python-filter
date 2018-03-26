@@ -1,0 +1,3 @@
+Optimization-based approach to path planning for closed chain robot systems
+Wojciech Szynkiewicz, Jacek Błaszczyk
+An application of advanced optimization techniques to solve the path planning problem for closed chain robot systems is proposed. The approach to path planning is formulated as a "quasi-dynamic" NonLinear Programming (NLP) problem with equality and inequality constraints in terms of the joint variables. The essence of the method is to find joint paths which satisfy the given constraints and minimize the proposed performance index. For numerical solution of the NLP problem, the IPOPT solver is used, which implements a nonlinear primal-dual interior-point method, one of the leading techniques for large-scale nonlinear optimization.

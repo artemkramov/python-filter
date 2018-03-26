@@ -1,0 +1,17 @@
+﻿1/2017
+8
+Adhesives-based-on-formaldehyde-r-n-environmental-problems,85,29646,0
+abstract:</div><div>REVIEW PAPER
+Adhesives based on formaldehyde – environmental problems
+h3>Maria Łebkowska, Monika Załęska-Radziwiłł, Agnieszka Tabernacka</h3><div>BioTechnologia vol. 98(1) C pp. 53-65 C 2017
+7.66617">https://doi.org/10.5114/bta.2017.66617
+a>View full text</a
+29646
+Łebkowska M, Załęska-Radziwiłł M, Tabernacka A. Adhesives based on formaldehyde – environmental problems. BioTechnologia. 2017;98(1):53-65. doi:10.5114/bta.2017.66617
+Łebkowska, M., Załęska-Radziwiłł, M., &amp; Tabernacka, A. (2017). Adhesives based on formaldehyde – environmental problems. BioTechnologia, 98(1), 53-65. https://doi.org/10.5114/bta.2017.66617
+Łebkowska, Maria, Monika Załęska-Radziwiłł, and Agnieszka Tabernacka. 2017. "Adhesives based on formaldehyde – environmental problems". BioTechnologia 98 (1): 53-65. doi:10.5114/bta.2017.66617
+Łebkowska, M., Załęska-Radziwiłł, M., and Tabernacka, A. (2017). Adhesives based on formaldehyde – environmental problems. BioTechnologia, 98(1), pp.53-65. https://doi.org/10.5114/bta.2017.66617
+Łebkowska, Maria et al. "Adhesives based on formaldehyde – environmental problems." BioTechnologia, vol. 98, no. 1, 2017, pp. 53-65. doi:10.5114/bta.2017.66617
+/div><div>Adhesives are substances that increase the surface adhesion of bonded items. Unfortunately, they also emit volatile organic compounds (VOCs) which negatively impact upon human and animal health. VOCs have carcinogenic and mutagenic properties and can cause migraines, irritation to the eyes, nasal passages, mouth, and lungs, and respiratory problems. Wastewater from adhesive production is characterized by high levels of pollutants and contains high concentrations of compounds including formaldehyde that are toxic to water biocenoses. Moreover,<br><br>its purification causes many problems and requires the application of specific methods. This review presents data concerning the toxicity and ecotoxicity of selected adhesives components. VOC emission rates from adhesives and wooden construction elements with adhesives are also discussed and assessed. Current knowledge on the treatment methods for wastewater containing adhesive components is reviewed. Finally, the treatment and disposal methods for solid wooden waste containing adhesives are also analyzed and discussed.<
+null
+keywords:</div><h3>adhesives, formaldehyde, wastewater treatment</h3

@@ -1,0 +1,6 @@
+﻿3 - September 2006
+16 - 2006
+Modeling shortest path games with Petri nets: A Lyapunov based theory
+Julio Clempner
+In this paper we introduce a new modeling paradigm for shortest path games representation with Petri nets. Whereas previous works have restricted attention to tracking the net using Bellman's equation as a utility function, this work uses a Lyapunov-like function. In this sense, we change the traditional cost function by a trajectory-tracking function which is also an optimal cost-to-target function. This makes a significant difference in the conceptualization of the problem domain, allowing the replacement of the Nash equilibrium point by the Lyapunov equilibrium point in game theory. We show that the Lyapunov equilibrium point coincides with the Nash equilibrium point. As a consequence, all properties of equilibrium and stability are preserved in game theory. This is the most important contribution of this work. The potential of this approach remains in its formal proof simplicity for the existence of an equilibrium point.
+shortest path game, game theory, Nash equilibrium point, Lyapunov equilibrium point, Bellman’s equation, Lyapunov-like fuction, stability

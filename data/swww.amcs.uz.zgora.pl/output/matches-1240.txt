@@ -1,0 +1,6 @@
+﻿4 - December 2004
+14 - 2004
+Molecular modelling of stresses and deformations in nanostructured materials
+Gwidon Szefer
+A molecular dynamics approach to the deformation and stress analysis in structured materials is presented. A new deformation measure for a lumped mass system of points is proposed. In full consistency with the continuum mechanical description, three kinds of stress tensors for the discrete system of atoms are defined. A computer simulation for a set of 105 atoms forming a sheet undergoing tension (Case 1) and contraction (Case 2) is given. Characteristic microstress distributions evoked by a crack propagation illustrate the mechanical problem considered.
+molecular modelling, deformation and stress analysis, nanostructured materials

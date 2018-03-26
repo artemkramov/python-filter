@@ -1,0 +1,17 @@
+﻿4/2011
+2
+RESEARCH-PAPER-Selected-aspects-of-endothelial-dysfunction-and-their-influence-r-non-the-atherosclerosis-process-modeled-and-analyzed-r-nby-Petri-net-based-approach,85,23885,0
+abstract:
+RESEARCH PAPER<br>Selected aspects of endothelial dysfunction and their influence on the atherosclerosis process modeled and analyzed by Petri net based approach
+h3>Dorota Formanowicz, Adam Kozak, Piotr Formanowicz</h3><div>BioTechnologia vol. 92(4) C pp. 359-368 C 2011
+1.46553">https://doi.org/10.5114/bta.2011.46553
+a>View full text</a
+23885
+Formanowicz D, Kozak A, Formanowicz P. RESEARCH PAPER&lt;br&gt;Selected aspects of endothelial dysfunction and their influence on the atherosclerosis process modeled and analyzed by Petri net based approach. BioTechnologia. 2014;92(4):359-368. doi:10.5114/bta.2011.46553
+Formanowicz, D., Kozak, A., &amp; Formanowicz, P. (2014). RESEARCH PAPER&lt;br&gt;Selected aspects of endothelial dysfunction and their influence on the atherosclerosis process modeled and analyzed by Petri net based approach. BioTechnologia, 92(4), 359-368. https://doi.org/10.5114/bta.2011.46553
+Formanowicz, Dorota, Adam Kozak, and Piotr Formanowicz. 2014. "RESEARCH PAPER&lt;br&gt;Selected aspects of endothelial dysfunction and their influence on the atherosclerosis process modeled and analyzed by Petri net based approach". BioTechnologia 92 (4): 359-368. doi:10.5114/bta.2011.46553
+Formanowicz, D., Kozak, A., and Formanowicz, P. (2014). RESEARCH PAPER&lt;br&gt;Selected aspects of endothelial dysfunction and their influence on the atherosclerosis process modeled and analyzed by Petri net based approach. BioTechnologia, 92(4), pp.359-368. https://doi.org/10.5114/bta.2011.46553
+Formanowicz, Dorota et al. "RESEARCH PAPER&lt;br&gt;Selected aspects of endothelial dysfunction and their influence on the atherosclerosis process modeled and analyzed by Petri net based approach." BioTechnologia, vol. 92, no. 4, 2014, pp. 359-368. doi:10.5114/bta.2011.46553
+/div><div>In this paper a Petri net based model of the process of endothelial dysfunction is presented. The model describes<br><br>some selected aspects of this process and their relation with atherosclerosis. Models expressed in the language<br><br>of Petri net theory have, on the one hand, an intuitive graphical interpretation, and on the other hand, they can<br><br>be analyzed using rigorous mathematical methods. Such analysis and simulation of the net behavior can be supported<br><br>by many freely available software tools. Here, results of an analysis based on t-invariants of the proposed<br><br>model are presented. In particular, feasible t-invariants, MCT-sets and t-clusters have been calculated and their<br><br>biological meaning has been determined.<
+null
+keywords:</div><h3>endothelial dysfunction, biological systems, modeling, Petri nets, t-invariants</h3

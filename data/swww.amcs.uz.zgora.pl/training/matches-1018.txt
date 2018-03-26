@@ -1,0 +1,6 @@
+﻿4 - December 2008
+18 - 2008
+Towards robustness in neural network based fault diagnosis
+Krzysztof Patan, Marcin Witczak, Józef Korbicz
+Challenging design problems arise regularly in modern fault diagnosis systems. Unfortunately, classical analytical techniques often cannot provide acceptable solutions to such difficult tasks. This explains why soft computing techniques such as neural networks become more and more popular in industrial applications of fault diagnosis. Taking into account the two crucial aspects, i.e., the nonlinear behaviour of the system being diagnosed as well as the robustness of a fault diagnosis scheme with respect to modelling uncertainty, two different neural network based schemes are described and carefully discussed. The final part of the paper presents an illustrative example regarding the modelling and fault diagnosis of a DC motor, which shows the performance of the proposed strategy.
+fault diagnosis, robustness, dynamic neural network, GMDH neural network</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0039-2">10.2478/v10006-008-0039-2</a>

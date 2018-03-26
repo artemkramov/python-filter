@@ -1,0 +1,6 @@
+﻿1 - March 1994
+4 - 1994
+A feedback synthesis of boundary control problem for a plate equation with structural damping
+Irena Lasiecka, Dahlard Lukes, Luciano Pandolfi
+A boundary control problem for a Kirchhoff plate equation with a structural damping is considered. A distinctive feature- of this problem is the lack of strong coercivity with respect to control variable. It is shown that the optimal control admits a pointwise state feedback synthesis via a solution of nonstandard Riccati equation. The novelty of the problem with respect to the literature is that both: the associated Riccati equation<em>and</em>the feedback control operator, are nonstandard.
+-

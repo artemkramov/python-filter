@@ -1,0 +1,6 @@
+﻿4 - December 2006
+16 - 2006
+A learning paradigm for motion control of mobile manipulators
+Foudil Abdessemed, Eric Monacelli, Khier Benmahammed
+Motion control of a mobile manipulator is discussed. The objective is to allow the end-effector to track a given trajectory in a fixed world frame. The motion of the platform and that of the manipulator are coordinated by a neural network which is a kind of graph designed from the kinematic model of the system. A learning paradigm is used to produce the required reference variables for each of the mobile platform and the robot manipulator for an overall coordinate behavior. Simulation results are presented to show the effectiveness of the proposed scheme.
+mobile manipulator, neural network, backpropagation, obstacle avoidance

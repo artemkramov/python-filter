@@ -1,0 +1,6 @@
+﻿1 - March 1995
+5 - 1995
+Operational rate distortion theory
+Ilan Sadeh
+The paper treats data compression from the viewpoint of information theory where a certain error probability is tolerable. We obtain bounds for the minimal rate given an error probability for block-coding of general stationary ergodic sources. An application of the theory of large deviations provides numerical methods to compute for memoryless sources, the minimal compression rate given a tolerable error probability. Interesting connections between Cramer's functions and Shannon's theory for lossy coding are found.
+-

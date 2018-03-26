@@ -1,0 +1,6 @@
+﻿2 - June 2013
+23 - 2013
+The well-posedness of a swimming model in the 3-D incompressible fluid governed by the nonstationary Stokes equation
+Alexander Khapalov
+We introduce and investigate the well-posedness of a model describing the self-propelled motion of a<em>small</em>abstract<em>swimmer</em>in the 3-D incompressible fluid governed by the nonstationary Stokes equation, typically associated with low Reynolds numbers. It is assumed that the swimmer’s body consists of finitely many subsequently connected parts, identified with the fluid they occupy, linked by rotational and elastic Hooke forces. Models like this are of interest in biological and engineering applications dealing with the study and design of propulsion systems in fluids.
+swimming models, coupled PDE/ODE systems, nonstationary Stokes equation</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0021">10.2478/amcs-2013-0021</a>

@@ -1,0 +1,6 @@
+﻿4 - December 1995
+5 - 1995
+The necessary and sufficient conditions for the integral of a multivalued map to be a polygon
+Ahmed Boussouar, O. Arino, S. Gautier
+Let<em>F</em>be a multivalued map from<em>I := [a, b]</em>into IR<sup>2</sup>defined by<em>F(t) = {h(t), f(t)}</em>, where<em>f</em>and<em>h</em>are continuous maps from<em>I</em>into IR<sup>2</sup>. The aim of this paper is to find the necessary and sufficient conditions on the mappings<em>f</em>and<em>h</em>for an integral of<em>F</em>to be a convex polygon.
+-

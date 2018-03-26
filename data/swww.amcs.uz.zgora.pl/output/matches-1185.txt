@@ -1,0 +1,6 @@
+﻿4 - December 2005
+15 - 2005
+Latent semantic indexing for patent documents
+Andreea Moldovan, Radu Ioan Boţ, Gert Wanka
+Since the huge database of patent documents is continuously increasing, the issue of classifying, updating and retrieving patent documents turned into an acute necessity. Therefore, we investigate the efficiency of applying Latent Semantic Indexing, an automatic indexing method of information retrieval, to some classes of patent documents from the United States Patent Classification System. We present some experiments that provide the optimal number of dimensions for the Latent Semantic Space and we compare the performance of Latent Semantic Indexing (LSI) to the Vector Space Model (VSM) technique applied to real life text documents, namely, patent documents. However, we do not strongly recommend the LSI as an improved alternative method to the VSM, since the results are not significantly better.
+Latent Semantic Indexing (LSI), Singular Value Decomposition (SVD), Vector Space Model (VSM), patent classification

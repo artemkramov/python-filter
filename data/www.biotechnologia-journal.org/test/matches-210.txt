@@ -1,0 +1,17 @@
+﻿3/2013
+4
+Amino-acid-mineralization-by-Serratia-marcescens-,85,23813,0
+abstract:</div><div>Review paper
+Amino acid mineralization by<i>Serratia marcescens</i>
+h3>Monika Górak, Małgorzata Brzezińska-Rodak, Magdalena Klimek-Ochab, Ewa Żymańczyk-Duda</h3><div>BioTechnologia vol. 94(3) C pp. 269-274 C 2013
+3.46420">https://doi.org/10.5114/bta.2013.46420
+a>View full text</a
+23813
+Górak M, Brzezińska-Rodak M, Klimek-Ochab M, Żymańczyk-Duda E. Amino acid mineralization by &lt;i&gt;Serratia marcescens&lt;/i&gt;. BioTechnologia. 2014;94(3):269-274. doi:10.5114/bta.2013.46420
+Górak, M., Brzezińska-Rodak, M., Klimek-Ochab, M., &amp; Żymańczyk-Duda, E. (2014). Amino acid mineralization by &lt;i&gt;Serratia marcescens&lt;/i&gt;. BioTechnologia, 94(3), 269-274. https://doi.org/10.5114/bta.2013.46420
+Górak, Monika, Małgorzata Brzezińska-Rodak, Magdalena Klimek-Ochab, and Ewa Żymańczyk-Duda. 2014. "Amino acid mineralization by &lt;i&gt;Serratia marcescens&lt;/i&gt;". BioTechnologia 94 (3): 269-274. doi:10.5114/bta.2013.46420
+Górak, M., Brzezińska-Rodak, M., Klimek-Ochab, M., and Żymańczyk-Duda, E. (2014). Amino acid mineralization by &lt;i&gt;Serratia marcescens&lt;/i&gt;. BioTechnologia, 94(3), pp.269-274. https://doi.org/10.5114/bta.2013.46420
+Górak, Monika et al. "Amino acid mineralization by &lt;i&gt;Serratia marcescens&lt;/i&gt;." BioTechnologia, vol. 94, no. 3, 2014, pp. 269-274. doi:10.5114/bta.2013.46420
+/div><div>The influence of different cultivation conditions (medium, pH values, temperatures of the process, air access) on<br><br>the ability of amino acid mineralization via oxidative deamination by<i>Serratia marcescens</i>(facultative anaerobic<br><br>bacterial strain) was examined. Among 11 tested substrates – amino acids serine and proline, of both optical configurations,<br><br>were chosen as model substrates for the determination of the acceptable range of the value of external<br><br>factors influencing the mineralization process. Both pH and oxygen access were found to be limiting factors.<br><br>While the acidic pH switched off the mineralization, restricted aeration significantly reduced the effectiveness<br><br>of the process, extending the time for its completion.<
+null
+keywords:</div><h3>biotransformation, amino acids,<i>Serratia marcescens</i></h3

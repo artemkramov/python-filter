@@ -1,0 +1,6 @@
+﻿2 - June 2015
+25 - 2015
+On-line parameter and delay estimation of continuous-time dynamic systems
+Janusz Kozłowski, Zdzisław Kowalczuk
+The problem of on-line identification of non-stationary delay systems is considered. The dynamics of supervised industrial processes are usually modeled by ordinary differential equations. Discrete-time mechanizations of continuous-time process models are implemented with the use of dedicated finite-horizon integrating filters. Least-squares and instrumental variable procedures mechanized in recursive forms are applied for simultaneous identification of input delay and spectral parameters of the system models. The performance of the proposed estimation algorithms is verified in an illustrative numerical simulation study.
+delay systems, continuous-time models, discrete approximation, parameter estimation, least-squares estimator, instrumental variable estimator</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2015-0017">10.1515/amcs-2015-0017</a>

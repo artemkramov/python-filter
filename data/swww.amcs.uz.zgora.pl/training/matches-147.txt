@@ -1,0 +1,6 @@
+﻿3 - September 1998
+8 - 1998
+Time-optimal control of a parabolic system with multiple time-varying lags
+Adam Kowalewski, Anna Krakowiak
+In this paper, the time-optimal control problem for a distributed parabolic system in which different multiple time-varying lags appear both in the state equation and in the boundary condition is presented. Some particular properties of the optimal control are discussed.
+-

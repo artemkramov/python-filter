@@ -1,0 +1,6 @@
+﻿2 - June 2000
+10 - 2000
+Existence and computation of the set of positive solutions to polynomial matrix equations
+Tadeusz Kaczorek, Rafał Łopatka
+Necessary and sufficient conditions are established for the existence of positive solutions to polynomial diophatine equations. A method of computing of the set of positive solutions to a polynomial diophatine equation based on extreme points and extreme directions is proposed. The effectiveness of the method is demonstrated on a numerical example.
+computation, set of positive solutions, polynomial matrix equation

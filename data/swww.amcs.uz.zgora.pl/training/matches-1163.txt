@@ -1,0 +1,6 @@
+﻿3 - September 2005
+15 - 2005
+Stability and stabilizability of a class of uncertain dynamical systems with delays
+Mohammed Salah Saadni, Mohammed Chaabane, Driss Mehdi
+This paper deals with a class of uncertain systems with time-varying delays and norm-bounded uncertainty. The stability and stabilizability of this class of systems are considered. Linear Matrix Inequalities (LMI) delay-dependent sufficient conditions for both stability and stabilizability and their robustness are established.
+dynamical systems, time-varying delays, time-varying uncertainty, norm-bounded robust stability, robust stabilizability

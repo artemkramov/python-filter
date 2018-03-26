@@ -1,0 +1,6 @@
+﻿1 - March 1997
+7 - 1997
+Basic systems theory for discrete linear repetitive processes using 2D Roesser model interpretations
+Krzysztof Gałkowski, Eric Rogers, David Owens
+Previous work has shown that the stability conditions for discrete linear repetitive processes and 2D linear systems recursive in the positive quadrant can be tested using the same tests. This does not provide a suitable basis for studying the application of 2D linear systems theory to key, currently open, systems theoretic questions for discrete linear repetitive processes, such as e.g. what (if anything) is meant by reachability/controllability and observability and how these properties are characterised. The objective of this paper is to develop 2D systems models for the repetitive processes which remove this difficulty. Here the main results are a range of 2D linear systems models, with particular emphasis on the well-known Roesser model structure, a proof of stability equivalence, and some key results regarding reachability.
+-

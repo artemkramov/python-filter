@@ -1,0 +1,6 @@
+﻿1 - March 2003
+13 - 2003
+Polynomial systems theory applied to the analysis and design of multidimensional systems
+Jari Hätönen, Raimo Ylinen
+<em>Please see the PDF file.</em>
+<em>n</em>D systems, module of fractions, partial differential equations, polynomial systems theory

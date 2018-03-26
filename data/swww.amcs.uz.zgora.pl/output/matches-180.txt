@@ -1,0 +1,6 @@
+﻿1 - March 1997
+7 - 1997
+Two-stage identification of interconnected steady-state systems with cascade structure: A parametric approach. Part 2: empirical identification algorithm
+Zygmunt Hasiewicz
+The paper deals with an empirical counterpart of the two-stage parametric identification algorithm for serially structured systems, introduced and motivated in (Hasiewicz, 1996). An empirical two-stage identification scheme is formulated and the convergence (with probability one) of the corresponding model parameter estimates to the desired reference values, when the number of measurement data records becomes large, is shown. The asymptotic rate of convergence of the estimates (in probability) is established. Some illustrative numerical examples are also included.
+-

@@ -1,0 +1,6 @@
+﻿2 - June 2001
+11 - 2001
+Separation principle for nonlinear systems: A bilinear approach
+Mohamed Ali Hammami, Hamadi Jerbi
+In this paper we investigate the local stabilizability of single-input nonlinear affine systems by means of an estimated state feedback law given by a bilinear observer. The associated bilinear approximating system is assumed to be observable for any input and stabilizable by a homogeneous feedback law of degree zero. Furthermore, we discuss the case of planar systems which admit bad inputs (i.e. the ones that make bilinear systems unobservable). A separation principle for such systems is given.
+nonlinear systems, bilinear systems, observer, stabilization

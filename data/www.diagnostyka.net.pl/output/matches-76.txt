@@ -1,0 +1,14 @@
+﻿The-impact-estimation-of-damping-foundations-in-dynamics-of-the-rotor-system,75353
+3-2017,2581">3/2017 vol. 18
+Rubber-and-magnetorheological-fluid-applied-as-the-interlayer-in-composite-armours,76353,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/Free-vibration-method-for-technical-condition-assessment-of-automotive-shock-absorbers,75536,0,2.html" title="PREVIOUS
+The impact estimation of damping foundations in dynamics of the rotor system
+Marcin-Kluczyk/59685">Marcin Kluczyk</a></span><sup>1</sup>&nbsp;&nbsp;<a href="mailto:m.kluczyk@amw.gdynia.pl"><div></div></a>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Andrzej-Grządziela/59686">Andrzej Grządziela
+null
+a.grzadziela@maw.gdynia.pl
+Akademia Marynarki Wojennej
+Publish date: 2017-09-25</div><div>Submission date: 2017-04-03</div><div>Final revision date: 2017-05-26</div><div>Acceptance date: 2017-06-22
+7;18(3):55–61
+75353-17645?filename=The impact estimation of
+resonance/39489">resonance<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-Deceleration/42005">Deceleration<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-Damping/78536">Damping
+rotor+system/111059">rotor system</a><div>&nbsp;</div></div><div>TOPICS:</div><div><a href="http://www.diagnostyka.net.pl/Topic-Signal+analysis/3949">Signal analysis<div></div></a><a href="http://www.diagnostyka.net.pl/Topic-Diagnosis+vehicle/3946">Diagnosis vehicle<div></div></a><a href="http://www.diagnostyka.net.pl/Topic-Technical+diagnostics/3947">Technical diagnostics
+The paper presents results of dynamic researches conducted on test bed of rotor system. The aim of research was to identify the impact of damping washers to natural frequency of the system. The first part of paper treats with measurements of rotor system in non-stationary states and the second one is about vibration performances parameters in stationary states. Article presents an example of approach to the problem conducted in laboratory conditions, the results of which can be easily transferred on board of a ship or vessel.</div><div>CORRESPONDING AUTHOR:</div><a href="http://www.diagnostyka.net.pl/Author-Marcin-Kluczyk/59685">Marcin Kluczyk</a>&nbsp;&nbsp;<a href="mailto:m.kluczyk@amw.gdynia.pl"><div></div></a><div>Akademia Marynarki Wojennej, ul. Śmidowicza 69, 81-127 Gdynia, Polska

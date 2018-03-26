@@ -1,0 +1,6 @@
+﻿2 - June 1998
+8 - 1998
+Two-point Padé approximants for Stieltjes functions and their application to composite materials
+Stanisław Tokarzewski, Józef J. Telega
+By employing special continued fractions to asymptotic expansions at zero and infinity, the convergence of the balanced and unbalanced two-point Padé approximants (2PPA) to a Stieltjes function is studied in a real domain. We prove that certain balanced and unbalanced two-point Padé approximants form a monotone sequence of upper and lower bounds uniformly converging to a Stieltjes function. The observed monotone and uniform convergence of 2PPA is exemplified in the evaluation of bounds on the effective transport coefficients of periodic inhomogeneous media.
+-

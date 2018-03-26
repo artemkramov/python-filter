@@ -1,0 +1,6 @@
+﻿3 - September 2010
+20 - 2010
+Similarity transformation of matrices to one common canonical form and its applications to 2D linear systems
+Tadeusz Kaczorek
+The notion of a common canonical form for a sequence of square matrices is introduced. Necessary and sufficient conditions for the existence of a similarity transformation reducing the sequence of matrices to the common canonical form are established. It is shown that (i) using a suitable state vector linear transformation it is possible to decompose a linear 2D system into two linear 2D subsystems such that the dynamics of the second subsystem are independent of those of the first one, (ii) the reduced 2D system is positive if and only if the linear transformation matrix is monomial. Necessary and sufficient conditions are established for the existence of a gain matrix such that the matrices of the closed-loop system can be reduced to the common canonical form.
+common canonical form, similarity transformation, 2D linear system, state feedback</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-010-0037-z">10.2478/v10006-010-0037-z</a>

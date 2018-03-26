@@ -1,0 +1,6 @@
+﻿3 - September 2004
+14 - 2004
+A hybrid approach for scheduling transportation networks
+Mahjoub Dridi, Imed Kacem
+In this paper, we consider a regulation problem of an urban transportation network. From a given timetable, we aim to find a new schedule of multiple vehicles after the detection of a disturbance at a given time. The main objective is to find a solution maximizing the level of service for all passengers. This problem was intensively studied with evolutionary approaches and multi-agent techniques, but without identifying its type before. In this paper, we formulate the problem as a classical one in the case of an unlimited vehicle capacity. In the case of a limited capacity and an integrity constraint, the problem becomes difficult to solve. Then, a new coding and well-adapted operators are proposed for such a problem and integrated in a new evolutionary approach.
+transportation systems, traffic regulation, genetic algorithms, multi-criteria optimization

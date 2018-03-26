@@ -1,0 +1,6 @@
+﻿1 - March 2012
+22 - 2012
+Supervisory fault tolerant control with integrated fault detection and isolation: A switched system approach
+Hao Yang, Bin Jiang, Vincent Cocquempot, Lingli Lu
+This paper focuses on supervisory fault tolerant control design for a class of systems with faults ranging over a finite cover. The proposed framework is based on a switched system approach, and relies on a supervisory switching within a family of pre-computed candidate controllers without individual fault detection and isolation schemes. Each fault set can be accommodated either by one candidate controller or by a set of controllers under an appropriate switching law. Two aircraft examples are included to illustrate the efficiency of the proposed method.
+fault tolerant control, fault detection and isolation, switching control, switched systems</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0006-9">10.2478/v10006-012-0006-9</a>

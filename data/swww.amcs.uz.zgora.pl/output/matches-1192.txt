@@ -1,0 +1,6 @@
+﻿1 - March 2004
+14 - 2004
+Closed-form expressions for the approximation of arclength parameterization for Bézier curves
+Mohsen Madi
+In applications such as CNC machining, highway and railway design, manufacturing industry and animation, there is a need to systematically generate sets of reference points with prescribed arclengths along parametric curves, with sufficient accuracy and real-time performance. Thus, mechanisms to produce a parameter set that yields the coordinates of the reference points along the curve<em><strong>Q</strong>(t) = {x(t), y(t)}</em>are sought. Arclength parameterizable expressions usually yield a parameter set that is necessary to generate reference points. However, for typical design curves, such expressions are not often available in closed form. It is thus desirable to find efficient ways to compensate for this lack of arclength parameterization. In this paper, several methods for approximating arclength parameterizations are studied. These methods are examined for both accuracy and real-time processing requirements. The application of generating reference points uniformly spaced along the paths of several curves is chosen for the illustration and comparison between the presented methods.
+arclength parameterization, Hermite interpolation, reference points

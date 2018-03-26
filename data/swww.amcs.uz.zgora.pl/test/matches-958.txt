@@ -1,0 +1,6 @@
+﻿3 - September 2009
+19 - 2009
+Verified solution method for population epidemiology models with uncertainty
+Joshua A. Enszer, Mark A. Stadtherr
+Epidemiological models can be used to study the impact of an infection within a population. These models often involve parameters that are not known with certainty. Using a method for verified solution of nonlinear dynamic models, we can bound the disease trajectories that are possible for given bounds on the uncertain parameters. The method is based on the use of an interval Taylor series to represent dependence on time and the use of Taylor models to represent dependence on uncertain parameters and/or initial conditions. The use of this method in epidemiology is demonstrated using the SIRS model, and other variations of Kermack-McKendrick models, including the case of time-dependent transmission.
+nonlinear dynamics, epidemiology, interval analysis, verified computing, ordinary differential equations</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-009-0040-4">10.2478/v10006-009-0040-4</a>

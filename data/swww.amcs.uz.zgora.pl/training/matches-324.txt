@@ -1,0 +1,6 @@
+﻿1 - March 1994
+4 - 1994
+On statistical reconstruction of vector random fields
+Maciej Niedźwiecki
+The problem of statistical reconstruction of missing samples arbitrarily located within the rectangular segment of a Gaussian vector random field is considered. It is shown that the reconstruction is made up of the deterministic (predictable and hence unique) component and the stochastic (unpredictable and hence nonunique) component. First, the .reconstruction procedure is briefly sketched for general homogenous random fields. Next, it is shown that a major computational simplifications can be acheved if the unilateral conditional Markov (CM) model of the field is adopted. For CM fields the possibility of decomposing the restoration procedure into a number of computationally less demanding sub-problems is also discussed.
+-

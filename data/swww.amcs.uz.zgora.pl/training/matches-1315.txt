@@ -1,0 +1,6 @@
+﻿2 - June 2002
+12 - 2002
+Regional boundary observability: A numerical approach
+El Hassane Zerrik, Hamid Bourray, Ali Boutoulout
+In this paper we review the concept of regional boundary observability, developed in (Michelitti, 1976), by means of sensor structures. This leads to the so-called boundary strategic sensors. A characterization of such sensors which guarantees regional boundary observability is given. The results obtained are applied to a two-dimensional system, and various cases of sensors are considered. We also describe an approach which leads to the estimation of the initial boundary state, which is illustrated by simulations.
+observability, regional observability, regional boundary observability, boundary strategic sensors

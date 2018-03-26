@@ -1,0 +1,6 @@
+﻿4 - December 2004
+14 - 2004
+Control structure in optimization problems of bar systems
+Leszek Mikulski
+Optimal design problems in mechanics can be mathematically formulated as optimal control tasks. The minimum principle is employed in solving such problems. This principle allows us to write down optimal design problems as Multipoint Boundary Value Problems (MPBVPs). The dimension of MPBVPs is an essential restriction that decides on numerical difficulties. Optimal control theory does not give much information about the control structure, i.e., about the sequence of the forms of the right-hand sides of state equations appearing successively in time. The correctness of the assumed control structure can be checked after obtaining the solution of the boundary problem. For the numerical solution, we use hybrid procedures which are a connection of the multiple shooting method with that of collocation.
+optimization, minimum principle, elastic structures

@@ -1,0 +1,6 @@
+﻿2 - June 2014
+24 - 2014
+Bivariate Hahn moments for image reconstruction
+Haiyong Wu, Senlin Yan
+This paper presents a new set of bivariate discrete orthogonal moments which are based on bivariate Hahn polynomials with non-separable basis. The polynomials are scaled to ensure numerical stability. Their computational aspects are discussed in detail. The principle of parameter selection is established by analyzing several plots of polynomials with different kinds of parameters. Appropriate parameters of binary images and a grayscale image are obtained through experimental results. The performance of the proposed moments in describing images is investigated through several image reconstruction experiments, including noisy and noise-free conditions. Comparisons with existing discrete orthogonal moments are also presented. The experimental results show that the proposed moments outperform slightly separable Hahn moments for higher orders.
+bivariate Hahn moments, bivariate Hahn polynomials, image reconstruction, pattern recognition</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0032">10.2478/amcs-2014-0032</a>

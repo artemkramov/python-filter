@@ -1,0 +1,6 @@
+﻿3 - September 2005
+15 - 2005
+Stabilising solutions to a class of nonlinear optimal state tracking problems using radial basis function networks
+Zahir Ahmida, Abdelfettah Charef, Victor M. Becerra
+A controller architecture for nonlinear systems described by Gaussian RBF neural networks is proposed. The controller is a stabilising solution to a class of nonlinear optimal state tracking problems and consists of a combination of a state feedback stabilising regulator and a feedforward neuro-controller. The state feedback stabilising regulator is computed online by transforming the tracking problem into a more manageable regulation one, which is solved within the framework of a nonlinear predictive control strategy with guaranteed stability. The feedforward neuro-controller has been designed using the concept of inverse mapping. The proposed control scheme is demonstrated on a simulated single-link robotic manipulator.
+nonlinear systems, optimal control, radial basis functions, neural networks, predictive control, feedforward control

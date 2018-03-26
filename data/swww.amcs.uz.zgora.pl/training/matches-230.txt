@@ -1,0 +1,6 @@
+﻿1 - March 1996
+6 - 1996
+Two-stage identification of interconnected steady-state systems with cascade structure: A parametric approach. Part 1: Background
+Zygmunt Hasiewicz
+The paper deals with selecting, within a stochastic framework, an approximate system model from a parametric candidate model set for a composite steady-state system with cascade structure, assuming mean-squared model output error as a measure of the model accuracy. With applications in mind, particular emphasis is laid on computational simplicity of the model search routine and an easy-to-use but suboptimal two-stage approach is proposed for solving the corresponding identification task. In the first part, a theoretical background for the method is given and the degree of sub optimality of the resultant model is analysed under full probabilistic knowledge of the system. Some illustrative examples are included to inquire into applicability of the method. The empirical counterpart of the algorithm, employing the measured input-output data from the plant, is investigated in Part 2.
+-

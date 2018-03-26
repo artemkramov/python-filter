@@ -1,0 +1,6 @@
+﻿1 - March 1993
+3 - 1993
+Petri nets in ASIC design
+Marian Adamski
+This paper shows how Petri nets can be used for the design of a complex digital system. Many well known methods for the system description such as flowchart (ASM-charts) are not suitable for the description of parallel processes. Petri nets provide a mechanism which is well suited for representing such important phenomena in digital systems as parallelism and hierarchism.
+-

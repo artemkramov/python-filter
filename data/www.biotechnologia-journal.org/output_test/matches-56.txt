@@ -1,0 +1,6 @@
+a>View full text</a
+Rajalingham K. Cell-based assays in high-throughput mode (HTS). BioTechnologia. 2016;97(3):227-234. doi:10.5114/bta.2016.62927
+Rajalingham, K. (2016). Cell-based assays in high-throughput mode (HTS). BioTechnologia, 97(3), 227-234. https://doi.org/10.5114/bta.2016.62927
+Rajalingham, Kalyani. 2016. "Cell-based assays in high-throughput mode (HTS)". BioTechnologia 97 (3): 227-234. doi:10.5114/bta.2016.62927
+Rajalingham, K. (2016). Cell-based assays in high-throughput mode (HTS). BioTechnologia, 97(3), pp.227-234. https://doi.org/10.5114/bta.2016.62927
+Rajalingham, Kalyani. "Cell-based assays in high-throughput mode (HTS)." BioTechnologia, vol. 97, no. 3, 2016, pp. 227-234. doi:10.5114/bta.2016.62927

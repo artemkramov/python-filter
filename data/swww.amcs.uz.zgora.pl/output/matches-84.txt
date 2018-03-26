@@ -1,0 +1,6 @@
+﻿2 - June 1999
+9 - 1999
+Detection and regulation problems for discrete-time distributed systems with delays
+Abdelwahed Namir, Fouad Lahmidi, Omar Alif
+A distributed discrete-time hereditary system is considered. An unknown input is supposed to be a perturbation. First, we investigate the possibility of reconstructing this input using the information provided by an output equation. Then we treat the problem of keeping the observation as close as possible to some desired values (with the system still perturbed by the unknown input). To illustrate the results, some examples are presented.
+detection, discrete and delay systems, regulation, unknown inputs

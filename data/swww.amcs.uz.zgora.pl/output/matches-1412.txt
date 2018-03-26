@@ -1,0 +1,6 @@
+﻿4 - October 2001
+11 - 2001
+Recursive identification of Wiener systems
+Włodzimierz Greblicki
+A Wiener system, i.e. a cascade system consisting of a linear dynamic subsystem and a nonlinear memoryless subsystem is identified. The a priori information is nonparametric, i.e. neither the functional form of the nonlinear characteristic nor the order of the dynamic part are known. Both the input signal and the disturbance are Gaussian white random processes. Recursive algorithms to estimate the nonlinear characteristic are proposed and their convergence is shown. Results of numerical simulation are also given. A known algorithm recovering the impulse response of the dynamic part is presented in a recursive form.
+Wiener system, system identification, recursive identification, nonparametric identification

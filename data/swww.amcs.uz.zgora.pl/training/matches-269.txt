@@ -1,0 +1,6 @@
+﻿4 - December 1996
+6 - 1996
+Universal adaptive tracking controller for rigid manipulators
+Alicja Mazur
+The problem of (semiglobal) joint space trajectory tracking of rigid manipulators is considered. A new exponentially stable control algorithm is introduced. This algorithm requires only the knowledge of the manipulator dynamics along a desired trajectory. A set of n local universal adaptive controllers joined to each robot arm plays the role of generators of the 'correction of control'. The proposed universal adaptive tracking algorithm (UATA) has the following advantages: (i) a balanced gain distribution in the feedback-loop, (ii) small overshoots and (iii) a fast transient response.
+-

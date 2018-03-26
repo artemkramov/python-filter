@@ -1,0 +1,6 @@
+﻿3 - September 1997
+7 - 1997
+New neural transfer functions
+Włodzislaw Duch, Norbert Jankowski
+The choice of transfer functions in neural networks is of crucial importance to their performance. Although sigmoidal transfer functions are the most common, there is no<em>a-priori</em>reason why they should be optimal in all cases. In this article, advantages of various neural transfer functions are discussed and several new types of functions are introduced. Universal transfer functions, parameterized to change from a localized to a delocalized type, are of greatest interest. Biradial functions are formed from products or linear combinations of two sigmoids. Products of<em>N</em>biradial functions in an<em>N</em>-dimensional input space give densities of arbitrary shapes, offering great flexibility in modelling the probability density of the input vectors. Extensions of biradial functions, offering a good tradeoff between the complexity of transfer functions and flexibility of the densities they are able to represent, are proposed. Biradial functions can be used as transfer functions in many types of neural networks, such as RBF, RAN, FSM and IncNet. Using such functions and going into the hard limit (steep slopes) facilitates logical interpretation of the network performance, i.e. extraction of logical rules from the training data.
+-

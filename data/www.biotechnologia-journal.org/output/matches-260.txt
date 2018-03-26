@@ -1,0 +1,18 @@
+﻿4/2012
+3
+REVIEW-PAPER-Molecular-mechanisms-of-genome-expression-r-nof-coxsackievirus-B3-that-belongs-to-enteroviruses,85,23921,0
+abstract:
+REVIEW PAPER<br>Molecular mechanisms of genome expression of coxsackievirus B3 that belongs to enteroviruses
+h3>Mariola Dutkiewicz, Agata Swiatkowska, Agata Ojdowska, Barbara Smólska, Teresa Dymarek-Babś, Anna Jasińska, Jerzy Ciesiołka</h3><div>BioTechnologia vol. 93(4) C pp. 414-423 C 2012
+2.46595">https://doi.org/10.5114/bta.2012.46595
+a>View full text</a
+23921
+Dutkiewicz M, Swiatkowska A, Ojdowska A, et al. REVIEW PAPER&lt;br&gt;Molecular mechanisms of genome expression of coxsackievirus B3 that belongs to enteroviruses. BioTechnologia. 2014;93(4):414-423. doi:10.5114/bta.2012.46595
+Dutkiewicz, M., Swiatkowska, A., Ojdowska, A., Smólska, B., Dymarek-Babś, T., &amp; Jasińska, A. et al. (2014). REVIEW PAPER&lt;br&gt;Molecular mechanisms of genome expression of coxsackievirus B3 that belongs to enteroviruses. BioTechnologia, 93(4), 414-423. https://doi.org/10.5114/bta.2012.46595
+Dutkiewicz, Mariola, Agata Swiatkowska, Agata Ojdowska, Barbara Smólska, Teresa Dymarek-Babś, Anna Jasińska, and Jerzy Ciesiołka. 2014. "REVIEW PAPER&lt;br&gt;Molecular mechanisms of genome expression of coxsackievirus B3 that belongs to enteroviruses". BioTechnologia 93 (4): 414-423. doi:10.5114/bta.2012.46595
+Dutkiewicz, M., Swiatkowska, A., Ojdowska, A., Smólska, B., Dymarek-Babś, T., Jasińska, A., and Ciesiołka, J. (2014). REVIEW PAPER&lt;br&gt;Molecular mechanisms of genome expression of coxsackievirus B3 that belongs to enteroviruses. BioTechnologia, 93(4), pp.414-423. https://doi.org/10.5114/bta.2012.46595
+Dutkiewicz, Mariola et al. "REVIEW PAPER&lt;br&gt;Molecular mechanisms of genome expression of coxsackievirus B3 that belongs to enteroviruses." BioTechnologia, vol. 93, no. 4, 2014, pp. 414-423. doi:10.5114/bta.2012.46595
+Dutkiewicz M, Swiatkowska A, Ojdowska A, Smólska B, Dymarek-Babś T, Jasińska A et al. REVIEW PAPER&lt;br&gt;Molecular mechanisms of genome expression of coxsackievirus B3 that belongs to enteroviruses. BioTechnologia. 2014;93(4):414-423. doi:10.5114/bta.2012.46595
+/div><div>Coxsackievirus B3 (CVB-3) belongs to the Picornaviridae family of enterovirus genus of pathogens that cause<br><br>a great number of human diseases. A viral infection is associated with many pathological states such as:<i>myocarditis</i>,<br><br>dilated<i>cardiomyopathy, pericarditis, pleurodynia</i>, systemic infection in infants,<i>aseptic meningitis,</i>and<i>pancreatitis</i>.<br><br>Since viral diseases, especially in their chronic state, are difficult to treat, there has not been as yet, any<br><br>specific therapeutic developed against coxsackievirus till date. CVB-3 is a single stranded, positive-sense RNA<br><br>virus that encodes one large open reading frame flanked by two untranslated regions (UTR). The 5NUTR contains<br><br>an IRES element that directs the translation process and a cloverleaf structure that regulate viral replication. The<br><br>complementary, 3N terminal region of the replicative strand is also believed to be crucial for the replication of<br><br>events. The secondary structure RNA elements regulate the most important processes in the viral propagation<br><br>cycle. The mechanisms that rule the CBV-3 gene expression, its genome structure and the key steps of its viral<br><br>life cycle are being reviewed in the hope that better knowledge of these processes will lead to better understanding<br><br>of the molecular biology of CVB-3 and to the design of an effective therapy against this enterovirus.<
+null
+keywords:</div><h3>enterovirus, coxsackievirus B3, untranslated region, IRES-dependent translation, cloverleaf structure, viral replication</h3

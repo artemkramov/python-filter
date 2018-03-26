@@ -1,0 +1,6 @@
+﻿1 - December 1991
+1 - 1991
+Fault detection in dynamic systems. State estimation approach
+Józef Korbicz, Zohreh Fathi, W. Fred Ramirez
+The state estimation problem for dynamic systems is one of the fundamental problems in the fields of modeling, optimal control, and fault detection and diagnosis. The linear and nonlinear state estimation has been a very active research field during the last 30 years. The purpose of this paper is to give a brief review of the basic fault detection and diagnosis methods based upon the analytical and knowledge-based redundancy. The main emphasis is placed upon estimation methods that are widely applied for fault detection. The advantages and disadvantages of these methods also are discussed both in general and in diagnostic applications.
+-

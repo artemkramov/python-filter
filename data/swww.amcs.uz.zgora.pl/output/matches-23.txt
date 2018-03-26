@@ -1,0 +1,6 @@
+﻿1 - March 2000
+10 - 2000
+An application of general branching processes to a cell cycle model with two uncoupled sub-cycles and unequal cell division
+Marina Alexandersson
+A cell population model is constructed and analysed in the framework of general branching process theory. The model uses the idea that the DNA division cycle and the cell growth cycle are loosely coupled. The cell division is assumed to be unequal and the structure variables of the model are size and growth, where the growth is regulated by supramitotic growth control. An explicit expression for the stable birth type distribution is given and asymptotics, such as the α- and β<sub>1</sub>-curve and various size distributions, are derived. We also prove that the microheterogeneity in growth causes the mother-daughter life length correlation to be non-negative.
+branching process, cell cycle model, unequal cell division, stable type distribution, α-curve, β -curve, mother-daughter correlation

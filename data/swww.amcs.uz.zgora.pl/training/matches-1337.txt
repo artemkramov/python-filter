@@ -1,0 +1,6 @@
+﻿3 - September 2002
+12 - 2002
+A context-based approach to linguistic hedges
+Martine De Cock, Etienne E. Kerre
+We present a framework of<em>L</em>-fuzzy modifiers for<em>L</em>being a complete lattice. They are used to model linguistic hedges that act on linguistic terms represented by<em>L</em>-fuzzy sets. In the modelling process the context is taken into account by means of<em>L</em>-fuzzy relations, endowing the<em>L</em>-fuzzy modifiers with a clear inherent semantics. To our knowledge, these<em>L</em>-fuzzy modifiers are the first ones proposed that are suitable to perform this representation task for a lattice<em>L</em>different from the unit interval. In the latter case they undoubtedly outperform the traditional representations, such as powering and shifting hedges, from the semantical point of view.
+<em>L</em>-fuzzy modifier,<em>L</em>-fuzzy relation, resemblance relation, linguistic hedge, linguistic variable

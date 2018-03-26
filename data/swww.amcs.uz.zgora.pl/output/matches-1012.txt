@@ -1,0 +1,6 @@
+﻿3 - September 2008
+18 - 2008
+Determining the weights of a Fourier series neural network on the basis of the multidimensional discrete Fourier transform
+Krzysztof Halawa
+This paper presents a method for training a Fourier series neural network on the basis of the multidimensional discrete Fourier transform. The proposed method is characterized by low computational complexity. The article shows how the method can be used for modelling dynamic systems.
+orthogonal neural networks, Fourier series, fast Fourier transform, approximation, nonlinear systems</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0033-8">10.2478/v10006-008-0033-8</a>

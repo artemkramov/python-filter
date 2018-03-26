@@ -1,0 +1,6 @@
+﻿1 - March 2014
+24 - 2014
+Survival analysis on data streams: Analyzing temporal events in dynamically changing environments
+Ammar Shaker, Eyke Hüllermeier
+In this paper, we introduce a method for survival analysis on data streams. Survival analysis (also known as event history analysis) is an established statistical method for the study of temporal “events” or, more specifically, questions regarding the temporal distribution of the occurrence of events and their dependence on covariates of the data sources. To make this method applicable in the setting of data streams, we propose an adaptive variant of a model that is closely related to the well-known Cox proportional hazard model. Adopting a sliding window approach, our method continuously updates its parameters based on the event data in the current time window. As a proof of concept, we present two case studies in which our method is used for different types of spatio-temporal data analysis, namely, the analysis of earthquake data and Twitter data. In an attempt to explain the frequency of events by the spatial location of the data source, both studies use the location as covariates of the sources.
+data streams, survival analysis, event history analysis, earthquake data, Twitter data</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0015">10.2478/amcs-2014-0015</a>

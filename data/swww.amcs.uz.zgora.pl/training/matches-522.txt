@@ -1,0 +1,6 @@
+﻿1 - March 2017
+27 - 2017
+Minimum energy control of descriptor fractional discrete-time linear systems with two different fractional orders
+Łukasz Sajewski
+Reachability and minimum energy control of descriptor fractional discrete-time linear systems with different fractional orders are addressed. Using the Weierstrass–Kronecker decomposition theorem of the regular pencil, a solution to the state equation of descriptor fractional discrete-time linear systems with different fractional orders is given. The reachability condition of this class of systems is presented and used for solving the minimum energy control problem. The discussion is illustrated with numerical examples.
+minimum energy control, descriptor system, fractional system, discrete-time linear system</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2017-0003">10.1515/amcs-2017-0003</a>

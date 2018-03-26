@@ -1,0 +1,6 @@
+﻿4 - December 1996
+6 - 1996
+Robustness analysis for linear time-invariant systems with structured incrementally sector bounded feedback nonlinearities
+Xin Chen, John T. Wen
+This paper addresses the stability analysis of a negative feedback interconnection of a multivariable linear time-invariant system and a structured time-invariant incrementally sector bounded nonlinearity. The classic Zames-Falb multiplier is extended to the multivariable case and is approximated by linear matrix inequalities. The problem of finding the multiplier that provides the largest stability bound then becomes a convex optimization problem over state space parameters. The method is also applied to symmetric incrementally sector bounded structured nonlinearities and provides an upper bound for the generalized structured singular value. Numerical examples are provided to demonstrate the effectiveness of this method.
+-

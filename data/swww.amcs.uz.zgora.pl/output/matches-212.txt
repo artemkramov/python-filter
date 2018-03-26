@@ -1,0 +1,6 @@
+﻿3 - September 2016
+26 - 2016
+Heating source localization in a reduced time
+Sara Beddiaf, Laurent Autrique, Laetitia Perez, Jean-Claude Jolly
+Inverse three-dimensional heat conduction problems devoted to heating source localization are ill posed. Identification can be performed using an iterative regularization method based on the conjugate gradient algorithm. Such a method is usually implemented off-line, taking into account observations (temperature measurements, for example). However, in a practical context, if the source has to be located as fast as possible (e.g., for diagnosis), the observation horizon has to be reduced. To this end, several configurations are detailed and effects of noisy observations are investigated.
+parameter identification, inverse heat conduction problem, optimal observation, source localization</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0043">10.1515/amcs-2016-0043</a>

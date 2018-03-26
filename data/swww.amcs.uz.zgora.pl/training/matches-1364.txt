@@ -1,0 +1,6 @@
+﻿1 - March 2001
+11 - 2001
+Some algorithmic aspects of subspace identification with inputs
+Alessandro Chiuso, Giorgio Picci
+It has been experimentally verified that most commonly used subspace methods for identification of linear state-space systems with exogenous inputs may, in certain experimental conditions, run into ill-conditioning and lead to ambiguous results. An analysis of the critical situations has lead us to propose a new algorithmic structure which could be used either to test difficult cases and/or to implement a suitable combination of new and old algorithms presented in the literature to help fixing the problem.
+subspace identification, multivariable systems, identification with inputs, ill-conditioning

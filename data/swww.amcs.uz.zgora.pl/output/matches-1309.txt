@@ -1,0 +1,6 @@
+﻿1 - March 2002
+12 - 2002
+The energy method for elastic problems with non-homogeneous boundary conditions
+Ramon Quintanilla
+In this paper we propose the weighted energy method as a way to study estimates of solutions of boundary-value problems with non-homogeneous boundary conditions in elasticity. First, we use this method to study spatial decay estimates in two-dimensional elasticity when we consider non-homogeneous boundary conditions on the boundary. Some comments in the case of harmonic vibrations are considered as well. We also extend the arguments to a class of three-dimensional problems in a cylinder. A section is devoted to the study of an ill-posed problem. Some remarks are presented in the last section of the paper.
+weighted energy method, decay estimates, Navier equations, non-homogeneous boundary conditions

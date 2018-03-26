@@ -1,0 +1,6 @@
+﻿2 - June 1995
+5 - 1995
+Kinematics of path tracking at singularities of the planar 2R manipulator
+Jon Kieffer
+A method for determining the differential kinematics of path tracking at singular configurations of the planar 2R manipulator is presented. The method is based on Taylor series analysis of the displacement equations to determine low-order parametric curves that satisfy those equations. Results show that singularities can take the form of isolated points, turning points, nodes, and cusps and that the form of the singularity depends on the degree of contact between the path and the workspace boundary. The resulting expansions provide complete low-order information on admissible rates of path traversal and on all families of joint trajectories that track the path at the singularity.
+-

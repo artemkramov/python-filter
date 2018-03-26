@@ -1,0 +1,6 @@
+﻿2 - June 1993
+3 - 1993
+Data reduction for the representation of curves by piecewise polynomials
+Christoph Maas, Frank Levermann
+In the course of the development of an industrial CAD-software package a method had to be developed for storing curves given by a scanner in bitmap format. The objective is to reduce the amount of data necessary for defining the curve while allowing a certain deviation of the stored curve from the original one. Two solutions are presented based upon Hermite-interpolation or B-Spline-interpolation of the bitmap, respectively. The solutions involve questions about an appropriate parametrization of the data and about easy editing of the results by the user of the program.
+-

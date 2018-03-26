@@ -1,2 +1,3 @@
 ﻿A Study of the Optical Properties of Un-doped and Potash Doped Lead Chloride Crystal in Silica Gel
 The optical properties of potash doped lead chloride (PbCl2) have been studied by sol gel technique. The optical properties of the materials were determined using a JENWAY 6405 UV-VIS spectrophotometer operating at a wavelength range of 200nm to 1200nm at an interval of 5nm. It was observed that the crystals are optically transparent. The average refractive index (n) is between 0.6 and 2.9. The refractive index greater than 2.0 makes the crystals good materials for protective coatings. The band gaps are from 3.9 to 5.0 showing that they are wide band gap materials and are good refractory materials.
+Okpala V. Uche, Ezema I. Felix and Osuji U. Rose.

@@ -1,0 +1,6 @@
+﻿4 - December 1993
+3 - 1993
+On self-synchronisation of cascade-like coupled cyclic processes
+Zbigniew Banaszak, Krzysztof Jędrzejek
+In this paper a unified framework is introduced for the study as well as for analyzing the performance of concurrently interacting cyclic processes. Conditions that guarantee the periodicity of cascade-like interacting processes' behavior are provided. Formulae determining the parameters of the steady-state cyclic behaviors are proposed and are regarded as formal models of a self-synchronisation phenomenon. The parameters change and priority rules selection are examined. Procedures aimed at the control and performance evaluation are suggested.
+-

@@ -1,0 +1,6 @@
+﻿2 - June 2001
+11 - 2001
+Another look at a model for evaluating interface aesthetics
+David Chek Ling Ngo, John G. Byrne
+Gestalt psychologists promulgated the principles of visual organisation in the early twentieth century. These principles have been discussed and re-emphasised, and their importance and relevance to user interface design is understood. However, a limited number of systems represent and make adequate use of this knowledge in the form of a design tool that supports certain aspects of the user interface design process. The graphic design rules that these systems use are extremely rudimentary and often vastly oversimplified. Most of them have no concept of design basics such as visual balance or rhythm. In this paper, we attempt to synthesize the guidelines and empirical data related to the formatting of screen layouts into a well-defined model. Fourteen aesthetic characteristics have been selected for that purpose. The results of our exercise suggest that these characteristics are important to prospective viewers.
+screen design, interface aesthetics, aesthetic measures, aesthetic characteristics, multi-screen interfaces

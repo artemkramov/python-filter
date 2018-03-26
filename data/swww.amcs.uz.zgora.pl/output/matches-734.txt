@@ -1,0 +1,6 @@
+﻿2 - June 2012
+22 - 2012
+Backpropagation generalized delta rule for the selective attention Sigma-if artificial neural network
+Maciej Huk
+In this paper the Sigma-if artificial neural network model is considered, which is a generalization of an MLP network with sigmoidal neurons. It was found to be a potentially universal tool for automatic creation of distributed classification and selective attention systems. To overcome the high nonlinearity of the aggregation function of Sigma-if neurons, the training process of the Sigma-if network combines an error backpropagation algorithm with the self-consistency paradigm widely used in physics. But for the same reason, the classical backpropagation delta rule for the MLP network cannot be used. The general equation for the backpropagation generalized delta rule for the Sigma-if neural network is derived and a selection of experimental results that confirm its usefulness are presented.
+artificial neural networks, selective attention, self consistency, error backpropagation, delta rule</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0034-5">10.2478/v10006-012-0034-5</a>

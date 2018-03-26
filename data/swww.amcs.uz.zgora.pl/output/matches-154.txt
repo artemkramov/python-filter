@@ -1,0 +1,6 @@
+﻿3 - September 1998
+8 - 1998
+Solving differential equations with nonlinear perceptron
+Piotr S. Szczepaniak, Bartosz Lis
+The work concerns training neural networks for approximate mappings being solutions to differential equations, especially partial-differential equations. The presented approaches fall into two categories. In the first one, backpropagation training is combined with an arbitrary numerical method used for obtaining tabulated solutions to the equations for training sequences. In the other, the neural network is forced to suggest a solution to the equation and to keep on improving that mapping during the backpropagation process. The other approach implies certain modifications in the structures of the neural network, neuron and neural signals.
+-

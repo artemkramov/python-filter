@@ -1,0 +1,6 @@
+﻿4 - December 2009
+19 - 2009
+On path following control of nonholonomic mobile manipulators
+Alicja Mazur, Dawid Szakiel
+This paper describes the problem of designing control laws for path following robots, including two types of nonholonomic mobile manipulators. Due to a cascade structure of the motion equation, a backstepping procedure is used to achieve motion along a desired path. The control algorithm consists of two simultaneously working controllers: the kinematic controller, solving motion constraints, and the dynamic controller, preserving an appropriate coordination between both subsystems of a mobile manipulator, i.e. the mobile platform and the manipulating arm. A description of the nonholonomic subsystem relative to the desired path using the Frenet parametrization is the basis for formulating the path following problem and designing a kinematic control algorithm. In turn, the dynamic control algorithm is a modification of a passivity-based controller. Theoretical deliberations are illustrated with simulations.
+mobile manipulator, nonholonomic constraints, path following, Frenet parametrization</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-009-0044-0">10.2478/v10006-009-0044-0</a>

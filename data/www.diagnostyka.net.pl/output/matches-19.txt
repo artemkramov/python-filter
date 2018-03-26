@@ -1,0 +1,16 @@
+﻿Assessment-of-technical-state-of-the-belt-conveyor-rollers-with-use-vibroacoustics,81502
+1-2016,3238">1/2016 vol. 17
+Influence-of-construction-the-rollers-c-type-on-resistance-of-rotating-driven-system,81503,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/Integrated-system-of-control-and-management-of-exploitation-of-water-supply-system,81501,0,2.html" title="PREVIOUS
+Assessment of technical state of the belt conveyor rollers with use vibroacoustics methods – preliminary studies
+Grzegorz-Peruń/74964">Grzegorz Peruń
+null
+grzegorz.perun@polsl.pl
+>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Tadeusz-Opasiak/74965">Tadeusz Opasiak</a></span
+Silesian University of Technology, Faculty of Transport, Department of Automotive Vehicle Construction and Department of Logistics and Industrial Transportation 40-019 Katowice, Krasińskiego 8
+Publish date: 2017-12-21
+6;17(1):75–81
+81502-16994?filename=Assessment of technical
+belt+conveyor/58829">belt conveyor<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-vibroacoustics/90111">vibroacoustics
+vibration+measurements/128399">vibration measurements
+Most numerous elements in construction of belt conveyors are rollers. From theirs technical state depend the losses of energy among other things on overcome turn resistances of rollers rotation. With point of view of exploitation significant is correct technical state of rollers, which guarantee minimal costs of conveyor work. In the article are present results of preliminary studies, which have on aim non-invasive qualification of technical state of belt conveyor rollers after specified time of exploitation. The measurements of jacket’s vibrations of roller installed on laboratory stand were conducted. Next, registered vibration signals were processed. Authors make an assumption, that the comparison of analyses’ results for new and wear rollers, allow in next stages of studies determining of limit levels of vibroacoustics phenomena, which exceeding qualify roller to replacement.
+></div></div><div><div><div></div>Related articles</div><div><div><a href="http://www.diagnostyka.net.pl/Influence-of-construction-the-rollers-c-type-on-resistance-of-rotating-driven-system,81503,0,2.html">Influence of construction the rollers c type on resistance of rotating driven system of the belt conveyor</a></div><div><a href="http://www.diagnostyka.net.pl/Early-detection-of-cracks-in-rear-suspension-beam-with-the-use-of-time-domain-estimates,81488,0,2.html">Early detection of cracks in rear suspension beam with the use of time domain estimates of vibration during the fatigue testing</a></div><div><a href="http://www.diagnostyka.net.pl/Research-of-loading-carrying-idlers-used-in-belt-conveyor-practical-applications,81380,0,2.html">Research of loading carrying idlers used in belt conveyor – practical applications</a></div><div><a href="http://www.diagnostyka.net.pl/Calibration-and-evaluation-of-accelerometers-based-on-multisinusoidal-excitation,78347,0,2.html">Calibration and evaluation of accelerometers based on multisinusoidal excitation</a></div

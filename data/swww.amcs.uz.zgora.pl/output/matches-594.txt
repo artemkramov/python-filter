@@ -1,0 +1,6 @@
+﻿3 - September 2014
+24 - 2014
+Methods for estimating vehicle queues at a marine terminal: A computational comparison
+Gang Chen, Zhong-Zhen Yang
+A long queue of vehicles at the gate of a marine terminal is a common traffic phenomenon in a port-city, which sometimes causes problems in urban traffic. In order to be able to solve this issue, we firstly need accurate models to estimate such a vehicle queue length. In this paper, we compare the existing methods in a case study, and evaluate their advantages and disadvantages. Particularly, we develop a simulation-based regression model, using the micro traffic simulation software PARAMIC. In simulation, it is found that the queue transient process follows a natural logarithm curve. Then, based on these curves, we develop a queue length estimation model. In the numerical experiment, the proposed model exhibits better estimation accuracy than the other existing methods.
+truck queue, container terminal, queueing theory, simulation, regression</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0044">10.2478/amcs-2014-0044</a>

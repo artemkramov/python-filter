@@ -1,2 +1,4 @@
+﻿A Review on Dirac Ã¢ÂÂ Jordan Transformation Theory
 In this review we will try to perform a comprehensive summery of Dirac – Jordan transformation theory. This theory indicates that, any quantum state of a particle will determine by a vector of state in abstract space, D. There are very few authors who have discussed this theory in abstract and pure form. For this reason, the aim of this paper is to illustrate the ability of this theory by different experiments, and to show its capability in different consequences. Then, we will try to show also, the specific distinct between this method and other methods.
 F. Ashrafi, S.A. Babanejad, A. Modanloo Juybari, M. Jafari Matehkolaee
+a-review-on-dirac--jordan-transformation-theory.pdf" title="A Review on Dirac Ã¢ÂÂ Jordan Transformation Theory

@@ -1,0 +1,6 @@
+﻿1 - March 2001
+11 - 2001
+Numerical analysis and simulations of quasistatic frictionless contact problems
+José Ramón Fernández Garcí­a, Weimin Han, Meir Shillor, Mircea Sofonea
+A summary of recent results concerning the modelling as well as the variational and numerical analysis of frictionless contact problems for viscoplastic materials are presented. The contact is modelled with the Signorini or normal compliance conditions. Error estimates for the fully discrete numerical scheme are described, and numerical simulations based on these schemes are reported.
+quasistatic contact, Signorini condition, normal compliance, viscoplasticity, variational inequality, error estimate, finite element method (FEM), numerical approximation

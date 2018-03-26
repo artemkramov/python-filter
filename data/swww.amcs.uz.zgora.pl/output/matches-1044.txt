@@ -1,0 +1,6 @@
+﻿4 - December 2017
+27 - 2017
+CCR: A combined cleaning and resampling algorithm for imbalanced data classification
+Michał Koziarski, Michał Woźniak
+Imbalanced data classification is one of the most widespread challenges in contemporary pattern recognition. Varying levels of imbalance may be observed in most real datasets, affecting the performance of classification algorithms. Particularly, high levels of imbalance make serious difficulties, often requiring the use of specially designed methods. In such cases the most important issue is often to properly detect minority examples, but at the same time the performance on the majority class cannot be neglected. In this paper we describe a novel resampling technique focused on proper detection of minority examples in a two-class imbalanced data task. The proposed method combines cleaning the decision border around minority objects with guided synthetic oversampling. Results of the conducted experimental study indicate that the proposed algorithm usually outperforms the conventional oversampling approaches, especially when the detection of minority examples is considered.
+machine learning, classification, imbalanced data, preprocessing, oversampling</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2017-0050">10.1515/amcs-2017-0050</a>

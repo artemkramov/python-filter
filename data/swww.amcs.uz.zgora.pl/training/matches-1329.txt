@@ -1,0 +1,6 @@
+﻿2 - June 2002
+12 - 2002
+Confidence and self-confidence: Perceived and real
+David W. Pearson
+The problem of modelling the dynamics of confidence levels between two individuals is investigated. A model, based on a master equation approach, is developed and presented. An important feature of the model is that self-confidence is modeled along with its interaction with confidence towards others. Simulation results are presented.
+quantitative sociodynamics, confidence, self-confidence

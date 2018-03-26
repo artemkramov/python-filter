@@ -1,0 +1,6 @@
+﻿1 - March 1998
+8 - 1998
+Implicit state estimators and their application to pole assignment controllers for systems with uncertainties
+Xinkai Chen, Toshio Fukuda
+This paper presents implicit robust state observers for SISO minimum phase dynamical systems with arbitrarily relative degrees (with respect to the relation between the disturbance and the output). For systems with relative degree one, the state is expressed by the filters of the input and the output. No<em>a-priori</em>knowledge of the disturbance is required in this case. For systems with higher relative degrees, by first estimating the disturbance, the state vector is asymptotically expressed by the filters of the input, the filters of the output and the estimates of the first-order filters of the disturbance. Then the state observer and the estimated disturbance are applied to a controller to place desired poles and to cancel the disturbance. Finally, examples and simulation results show that the proposed algorithms are effective.
+-

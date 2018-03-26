@@ -1,0 +1,6 @@
+﻿1 - March 2014
+24 - 2014
+An analytical iterative statistical algorithm for image reconstruction from projections
+Robert Cierniak
+The main purpose of the paper is to present a statistical model-based iterative approach to the problem of image reconstruction from projections. This originally formulated reconstruction algorithm is based on a maximum likelihood method with an objective adjusted to the probability distribution of measured signals obtained from an x-ray computed tomograph with parallel beam geometry. Various forms of objectives are tested. Experimental results show that an objective that is exactly tailored statistically yields the best results, and that the proposed reconstruction algorithm reconstructs an image with better quality than a conventional algorithm with convolution and back-projection.
+computed tomography, image reconstruction from projections, statistical reconstruction algorithm</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0001">10.2478/amcs-2014-0001</a>

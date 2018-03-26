@@ -1,0 +1,15 @@
+﻿Mathematical-modeling-of-unsteady-processes-in-electromechanical-system-of-ring-ball,68437
+1-2017,2204">1/2017 vol. 18
+Wirelessely-powered-mobile-sensor-energy-harvesting-experiments,68551,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/Diagnosis-of-wind-turbine-misalignment-through-SCADA-data,69052,0,2.html" title="PREVIOUS
+Mathematical modeling of unsteady processes in electromechanical system of ring-ball mill
+Yevhen-Kharchenko/49224">Yevhen Kharchenko
+null
+</sup>&nbsp;&nbsp;<a href="mailto:kharchen@wp.pl"><div></div></a>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Łukasz-Dragun/49225">Łukasz Dragun</a></span><sup>2
+l.dragun@pb.edu.pl
+Uniwersytet Warmińsko-Mazurski w Olsztynie</span></div></td></tr><tr><td>2</td><td><div><span>Politechnika Białostocka
+Publish date: 2017-03-23</div><div>Submission date: 2016-12-24</div><div>Acceptance date: 2017-01-12
+7;18(1):25–35
+68437-17747?filename=Mathematical modeling of
+ring-ball+mill/101301">ring-ball mill<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-electromechanical+system/101302">electromechanical system<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-non-stationary+processes/101303">non-stationary processes
+dynamic+loads/24461">dynamic loads</a><div>&nbsp;</div></div><div>TOPICS:</div><div><a href="http://www.diagnostyka.net.pl/Topic-Technical+diagnostics/3947">Technical diagnostics<div></div></a><a href="http://www.diagnostyka.net.pl/Topic-Reliability/3944">Reliability
+We examine the mathematical model of start processes of the electromechanical system of the ring-ball mill, which was built taking into account the interaction of electromagnetic phenomena in asynchronous motor and mechanical vibrational phenomena. The specifics of transfer of the torque from the motor to the reducer by means of the centrifugal clutch with shot are taken into account in the motion equations of the mechanical system, as well as instability of reduced moment of inertia of the actuating mechanism and parameters of the technological load during filling or emptying of crushing cell. Electromagnetic state of asynchronous motor is described based on magnetic saturation. The mathematical model can be used to predict the fatigue strength of heavy loaded elements of ring-ball mill’s constructions. Substantiated practical recommendations aimed at reducing the dynamic loads of the main shaft of the mill.</div><div>CORRESPONDING AUTHOR:</div><a href="http://www.diagnostyka.net.pl/Author-Yevhen-Kharchenko/49224">Yevhen Kharchenko</a>&nbsp;&nbsp;<a href="mailto:kharchen@wp.pl"><div></div></a><div>Uniwersytet Warmińsko-Mazurski w Olsztynie, ul. Oczapowskiego 11E, pok. 126, 10-736 Olsztyn, Polska

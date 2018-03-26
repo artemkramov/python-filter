@@ -1,0 +1,6 @@
+﻿3 - September 2011
+21 - 2011
+Reconfigurability analysis for reliable fault-tolerant control design
+Ahmed Khelassi, Didier Theilliol, Philippe Weber
+In this paper the integration of reliability evaluation in reconfigurability analysis of a fault-tolerant control system is considered. The aim of this work is to contribute to reliable fault-tolerant control design. The admissibility of control reconfigurability is analyzed with respect to reliability requirements. This analysis shows the relationship between reliability and control reconfigurability defined generally through Gramian controllability. An admissible solution for reconfigurability is proposed according to reliability evaluation based on energy consumption under degraded functional conditions. The proposed study is illustrated with a flight control application.
+fault-tolerant control system, reconfigurability, reliability, actuator faults</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-011-0032-z">10.2478/v10006-011-0032-z</a>

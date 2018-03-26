@@ -1,0 +1,6 @@
+﻿4 - December 2008
+18 - 2008
+Fault diagnosis of a water for injection system using enhanced structural isolation
+Morten Laursen, Mogens Blanke, Dilek Düştegör
+A water for injection system supplies chilled sterile water as a solvent for pharmaceutical products. There are ultimate requirements for the quality of the sterile water, and the consequence of a fault in temperature or in flow control within the process may cause a loss of one or more batches of the production. Early diagnosis of faults is hence of considerable interest for this process. This study investigates the properties of multiple matchings with respect to isolability, and it suggests to explore the topologies of multiple use-modes for the process and to employ active techniques for fault isolation to enhance structural isolability of faults. The suggested methods are validated on a high-fidelity simulation of the process.
+structural analysis, fault isolation, fault diagnosis, matching</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0052-5">10.2478/v10006-008-0052-5</a>

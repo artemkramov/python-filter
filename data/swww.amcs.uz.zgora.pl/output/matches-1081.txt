@@ -1,0 +1,6 @@
+﻿4 - December 2007
+17 - 2007
+Real-valued GCS classifier system
+Łukasz Cielecki, Olgierd Unold
+Learning Classifier Systems (LCSs) have gained increasing interest in the genetic and evolutionary computation literature. Many real-world problems are not conveniently expressed using the ternary representation typically used by LCSs and for such problems an interval-based representation is preferable. A new model of LCSs is introduced to classify realvalued data. The approach applies the continous-valued context-free grammar-based system GCS. In order to handle data effectively, the terminal rules were replaced by the so-called environment probing rules. The rGCS model was tested on the checkerboard problem.
+earning classifier systems, GCS, GAs, grammatical inference, context-free grammar</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0044-x">10.2478/v10006-007-0044-x</a>

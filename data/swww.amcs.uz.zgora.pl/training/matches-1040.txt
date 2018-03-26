@@ -1,0 +1,6 @@
+﻿1 - March 2007
+17 - 2007
+A backstepping approach to ship course control
+Anna Witkowska, Mirosław Tomera, Roman Śmierzchalski
+As an object of course control, the ship is characterised by a nonlinear function describing static manoeuvring characteristics that reflect the steady-state relation between the rudder deflection and the rate of turn of the hull. One of the methods which can be used for designing a nonlinear ship course controller is the backstepping method. It is used here for designing two configurations of nonlinear controllers, which are then applied to ship course control. The parameters of the obtained nonlinear control structures are tuned to optimise the operation of the control system. The optimisation is performed using genetic algorithms. The quality of operation of the designed control algorithms is checked in simulation tests performed on the mathematical model of a tanker. In order to obtain reference results to be used for comparison with those recorded for nonlinear controllers designed using the backstepping method, a control system with the PD controller is examined as well.
+backstepping, nonlinear control, genetic algorithms, ship control, Lyapunov function</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0007-2">10.2478/v10006-007-0007-2</a>

@@ -1,0 +1,6 @@
+﻿2 - June 1997
+7 - 1997
+Two-way recursive decomposition of the free-flying robot mass matrix
+Guillermo Rodriguez, Abhinandan Jain
+<em>Please see the PDF file.</em>
+-

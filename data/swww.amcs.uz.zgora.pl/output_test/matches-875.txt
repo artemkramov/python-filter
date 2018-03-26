@@ -1,0 +1,3 @@
+Rule weights in a neuro-fuzzy system with a hierarchical domain partition
+Krzysztof Simiński
+The paper discusses the problem of rule weight tuning in neuro-fuzzy systems with parameterized consequences in which rule weights and the activation of the rules are not interchangeable. Some heuristic methods of rule weight computation in neuro-fuzzy systems with a hierarchical input domain partition and parameterized consequences are proposed. Several heuristics with experimental results showing the advantage of their usage are presented.

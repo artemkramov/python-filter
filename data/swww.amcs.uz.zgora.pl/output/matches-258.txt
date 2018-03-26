@@ -1,0 +1,6 @@
+﻿3 - September 1996
+6 - 1996
+Automated construction of possibilistic networks from data
+Jörg Gebhardt, Rudolf Kruse
+Possibilistic networks constitute a promising framework for efficient treatment of uncertain and imprecise information in knowledge-based systems. In this paper, we propose a new method for induction of the structure (the qualitative part) and the attached possibility distributions (the quantitative part) of a possibilistic network from a database of sample cases that may contain imprecise or missing values. It turns out that a modified random-set approach to the semantics of possibility distributions is adequate to provide a possibilistic interpretation of the databases under consideration. Since constructing a possibilistic network can be viewed as a generalization of the structure identification problem in relational data, we have to overcome well-known complexity problems. Therefore we present an efficient Greedy search structure induction algorithm for possibilistic networks that has successfully been applied to construct a non-trivial network of practical interest from a given database.
+-

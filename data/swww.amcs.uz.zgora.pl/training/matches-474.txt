@@ -1,0 +1,6 @@
+﻿1 - March 2015
+25 - 2015
+A Hamiltonian approach to fault isolation in a planar vertical take-off and landing aircraft model
+Luis H. Rodriguez-Alfaro, Efrain Alcorta-Garcia, David Lara, Gerardo Romero
+The problem of fault detection and isolation in a class of nonlinear systems having a Hamiltonian representation is considered. In particular, a model of a planar vertical take-off and landing aircraft with sensor and actuator faults is studied. A Hamiltonian representation is derived from an Euler–Lagrange representation of the system model considered. In this form, nonlinear decoupling is applied in order to obtain subsystems with (as much as possible) specific fault sensitivity properties. The resulting decoupled subsystem is represented as a Hamiltonian system and observer-based residual generators are designed. The results are presented through simulations to show the effectiveness of the proposed approach.
+Hamiltonian, observer, fault diagnosis, nonlinear systems, UAVs</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2015-0005">10.1515/amcs-2015-0005</a>

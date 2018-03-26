@@ -1,0 +1,6 @@
+﻿2 - June 1997
+7 - 1997
+Control of redundant robots under end-effector commands: A case study in underactuated systems
+Alessandro De Luca, Raffaella Mattone, Giuseppe Oriolo
+We analyze the control problem for a kinematically redundant robot driven by forces/torques imposed on the end-effector, an interesting example of underactuated system. A convenient format for the dynamic equations of this mechanism can be obtained via partial feedback linearization. In particular, we point out the existence of two special forms in which the system can be put under suitable assumptions, namely the second-order triangular and Caplygin forms. Nonlinear controllability tools are utilized to derive conditions under which it is possible to steer the robot between two given configurations using end-effector commands. With a PPR robot as a case study, a steering algorithm is proposed that achieves reconfiguration in finite time. Simulation results and a discussion on possible generalizations are presented.
+-

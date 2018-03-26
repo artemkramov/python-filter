@@ -2,3 +2,4 @@
 In this paper we analyzed SIQR-B model with incidence rate in form of   +    
  . Compartment Q represents quarantine which is used to separate and restrict the movement of persons; it is a 'state of enforced isolation'. It is often used in connection to disease and illness, such as those who may possibly have been exposed to a communicable disease .By analyzing the corresponding characteristics equations, the local stability of a diseasefree equilibrium and an endemic equilibrium is established. The quarantine reproduction number is obtained
 Nidhi Nirwani, V. H. Badshah and R. Khandelwa
+siqr-model-for-transmission-of-cholera.pdf" title="SIQR model for transmission of cholera

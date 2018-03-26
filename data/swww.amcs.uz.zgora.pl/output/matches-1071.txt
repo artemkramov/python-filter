@@ -1,0 +1,6 @@
+﻿4 - December 2007
+17 - 2007
+An output controllability problem for semilinear distributed hyperbolic systems
+E. Zerrik, R. Larhrissi and H. Bourray
+The paper aims at extending the notion of regional controllability developed for linear systems to the semilinear hyperbolic case. We begin with an asymptotically linear system and the approach is based on an extension of the Hilbert uniqueness method and Schauder's fixed point theorem. The analytical case is then tackled using generalized inverse techniques and converted to a fixed point problem leading to an algorithm which is successfully implemented numerically and illustrated with examples.
+distributed parameter systems, semilinear hyperbolic systems, constrained controllability, fixed point</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0035-y">10.2478/v10006-007-0035-y</a>

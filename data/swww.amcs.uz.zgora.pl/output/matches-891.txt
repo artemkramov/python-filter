@@ -1,0 +1,6 @@
+﻿3 - September 2010
+20 - 2010
+Probabilities of discrepancy between minima of cross-validation, Vapnik bounds and true risks
+Przemysław Klęsk
+Two known approaches to complexity selection are taken under consideration:<em>n</em>-fold cross-validation and structural risk minimization. Obviously, in either approach, a discrepancy between the indicated optimal complexity (indicated as the minimum of a generalization error estimate or a bound) and the genuine minimum of<em>unknown true risks</em>is possible. In the paper, this problem is posed in a novel quantitative way. We state and prove theorems demonstrating how one can calculate pessimistic probabilities of discrepancy between these minima for given for given conditions of an experiment. The probabilities are calculated in terms of all relevant constants: the sample size, the number of cross-validation folds, the capacity of the set of approximating functions and bounds on this set. We report experiments carried out to validate the results.
+regression estimation, model comparison, complexity selection, cross-validation, generalization, statistical learning theory, generalization bounds, structural risk minimization</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-010-0039-x">10.2478/v10006-010-0039-x</a>

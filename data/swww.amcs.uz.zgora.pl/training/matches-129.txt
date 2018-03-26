@@ -1,0 +1,6 @@
+﻿1 - March 1998
+8 - 1998
+A robust tracking control scheme for a class of nonlinear systems with fuzzy nominal model
+Fei Mei, Man Zhihong, Xinghuo Yu, Thong Nguyen
+A novel robust tracking control scheme is proposed for a class of nonlinear systems. It is shown that a nonlinear system is first approximated by a fuzzy nominal model by aggregating a set of linearized local subsystems and then a conventional linear feedback controller is designed to stabilise the nominal system. In order to obtain good tracking performance for the controlled nonlinear system, a variable structure compensator is introduced to eliminate the effects of the approximation error and uncertainties between the fuzzy nominal model and the nonlinear system. A simulation example using a one-link rigid robotic manipulator is given in support of the proposed control scheme.
+-

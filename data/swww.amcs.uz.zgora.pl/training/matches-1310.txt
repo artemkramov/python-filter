@@ -1,0 +1,6 @@
+﻿1 - March 2018
+28 - 2018
+Boundary controllability of nonlinear stochastic fractional systems in Hilbert spaces
+Rajendran Mabel Lizzy, Krishnan Balachandran
+equivalent integral equations are derived for both linear and nonlinear systems, and the control function is given in terms of the pseudoinverse operator. The Banach contraction mapping theorem is used to obtain the result. A controllability result for nonlinear stochastic fractional integrodifferential systems is also attained. Examples are included to illustrate the theory.
+boundary controllability, stochastic fractional systems, pseudoinverse, integrodifferential systems</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2018-0009">10.2478/amcs-2018-0009</a>

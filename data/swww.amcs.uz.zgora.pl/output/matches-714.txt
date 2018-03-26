@@ -1,0 +1,6 @@
+﻿1 - March 2012
+22 - 2012
+Robust multisensor fault tolerant model-following MPC design for constrained systems
+Alain Yetendje, Maria M. Seron, José A. De Doná
+In this paper, a robust fault-tolerant control strategy for constrained multisensor linear systems, subject to sensor faults and in the presence of bounded state and output disturbances, is proposed. The scheme verifies that, for each sensors–estimator combination, suitable residual variables lie inside pre-computed sets and selects a more appropriate combination based on a chosen criterion. An active fault tolerant output feedback controller yields an MPC-based control law and, by means of the notion of a "tube" of trajectories, we ensure robust closed-loop exponential stability and good performance in the fault-free case and under the occurrence of abrupt sensor faults.
+fault tolerant control, constraints, robustness, invariant sets</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0016-7">10.2478/v10006-012-0016-7</a>

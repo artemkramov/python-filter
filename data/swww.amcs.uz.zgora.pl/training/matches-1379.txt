@@ -1,0 +1,6 @@
+﻿2 - June 2001
+11 - 2001
+Elimination of finite eigenvalues of the 2D Roesser model by state feedbacks
+Tadeusz Kaczorek
+A new problem of decreasing the degree of the closed-loop characteristic polynomial of the 2D Roesser model by a suitable choice of state feedbacks is formulated. Sufficient conditions are established under which it is possible to choose state feedbacks such that the non-zero closed-loop characteristic polynomial has degree zero. A procedure for computation of the feedback gain matrices is presented and illustrated by a numerical example.
+elimination, finite eigenvalue, state feedback, 2D Roesser model

@@ -1,0 +1,6 @@
+﻿4 - December 2003
+13 - 2003
+Sturm-Liouville systems are Riesz-spectral systems
+Cédric Delattre, Denis Dochain, Joseph Winkin
+The class of Sturm-Liouville systems is defined. It appears to be a subclass of Riesz-spectral systems, since it is shown that the negative of a Sturm-Liouville operator is a Riesz-spectral operator on<em>L</em><sup>2</sup><em>(a, b)</em>and the infinitesimal generator of a<em>C</em><sub>0</sub>-semigroup of bounded linear operators.
+Sturm-Liouville system, Riesz-spectral system, infinite-dimensional state-space system,<em>C</em><sub>0</sub>-semigroup

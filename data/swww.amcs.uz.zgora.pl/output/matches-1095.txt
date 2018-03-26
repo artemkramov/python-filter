@@ -1,0 +1,6 @@
+﻿1 - March 2006
+16 - 2006
+An extension of the Cayley-Hamilton theorem for nonlinear time-varying systems
+Tadeusz Kaczorek
+The classical Cayley-Hamilton theorem is extended to nonlinear time-varying systems with square and rectangular system matrices. It is shown that in both cases system matrices satisfy many equations with coefficients being the coefficients of characteristic polynomials of suitable square matrices. The proposed theorems are illustrated with numerical examples.
+extension, Cayley-Hamilton theorem, nonlinear, time-varying system

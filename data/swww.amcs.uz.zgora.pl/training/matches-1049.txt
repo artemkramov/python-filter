@@ -1,0 +1,6 @@
+﻿2 - June 2007
+17 - 2007
+Positive partial realization problem for linear discrete-time systems
+Tadeusz Kaczorek
+A partial realization problem for positive linear discrete-time systems is addressed. Sufficient conditions for the existence of its solution are established. A procedure for the computation of a positive partial realization for a given finite sequence of the values of the impulse response is proposed. The procedure is illustrated by four numerical examples.
+positive systems, partial realization, existence, computation, linear systems, discrete-time systems</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0015-2">10.2478/v10006-007-0015-2</a>

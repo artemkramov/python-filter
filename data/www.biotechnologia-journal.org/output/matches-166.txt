@@ -1,0 +1,17 @@
+﻿3/2014
+5
+Regulation-of-alternative-splicing-by-RNA-secondary-structure,85,25957,0
+abstract:</div><div>Review paper
+Regulation of alternative splicing by RNA secondary structure
+h3>Jolanta Lisowiec, Grażyna Dominiak, Ryszard Kierzek</h3><div>vol. 95(3) C pp. 181-186 C 2014
+4.54792">https://doi.org/10.5114/bta.2014.54792
+a>View full text</a
+25957
+Lisowiec J, Dominiak G, Kierzek R. Regulation of alternative splicing by RNA secondary structure. BioTechnologia. 2015;95(3):181-186. doi:10.5114/bta.2014.54792
+Lisowiec, J., Dominiak, G., &amp; Kierzek, R. (2015). Regulation of alternative splicing by RNA secondary structure. BioTechnologia, 95(3), 181-186. https://doi.org/10.5114/bta.2014.54792
+Lisowiec, Jolanta, Grażyna Dominiak, and Ryszard Kierzek. 2015. "Regulation of alternative splicing by RNA secondary structure". BioTechnologia 95 (3): 181-186. doi:10.5114/bta.2014.54792
+Lisowiec, J., Dominiak, G., and Kierzek, R. (2015). Regulation of alternative splicing by RNA secondary structure. BioTechnologia, 95(3), pp.181-186. https://doi.org/10.5114/bta.2014.54792
+Lisowiec, Jolanta et al. "Regulation of alternative splicing by RNA secondary structure." BioTechnologia, vol. 95, no. 3, 2015, pp. 181-186. doi:10.5114/bta.2014.54792
+/div><div>The alternative splicing process is controlled by trans-acting factors and cis-acting elements. Initially, it was<br><br>thought that hnRNP proteins interact with the newly synthetized transcript and prevent the generation of a premRNA<br><br>secondary structure. However, there are many examples of the impact of secondary structure on the<br><br>alternative splicing of genes. An alternative splicing regulation is presented based on: the recognition of 5N and<br><br>3N splicing sites and branch sites, regulatory cis-acting elements, long-range interaction.<
+null
+keywords:</div><h3>alternative splicing, RNA secondary structure, splicing regulatory elements</h3

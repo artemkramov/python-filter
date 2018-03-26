@@ -1,0 +1,17 @@
+﻿2/2017
+8
+Date-palm-Phoenix-dactylifera-L-biotechnology-a-mini-review,85,30112,0
+abstract:</div><div>REVIEW PAPER
+Date palm (<i>Phoenix dactylifera</i>L.) biotechnology: a mini-review
+h3>Muhammad Ilyas Khokhar, Jaime A. Teixeira Da Silva</h3><div>BioTechnologia vol. 98(2) pp. 153-161 2017
+7.68315">https://doi.org/10.5114/bta.2017.68315
+a>View full text</a
+30112
+Khokhar M, Da Silva J. Date palm (&lt;i&gt;Phoenix dactylifera&lt;/i&gt; L.) biotechnology: a mini-review. BioTechnologia. 2017;98(2):153-161. doi:10.5114/bta.2017.68315
+Khokhar, M., &amp; Da Silva, J. (2017). Date palm (&lt;i&gt;Phoenix dactylifera&lt;/i&gt; L.) biotechnology: a mini-review. BioTechnologia, 98(2), 153-161. https://doi.org/10.5114/bta.2017.68315
+Khokhar, Muhammad Ilyas, and Jaime A. Teixeira Da Silva. 2017. "Date palm (&lt;i&gt;Phoenix dactylifera&lt;/i&gt; L.) biotechnology: a mini-review". BioTechnologia 98 (2): 153-161. doi:10.5114/bta.2017.68315
+Khokhar, M., and Da Silva, J. (2017). Date palm (&lt;i&gt;Phoenix dactylifera&lt;/i&gt; L.) biotechnology: a mini-review. BioTechnologia, 98(2), pp.153-161. https://doi.org/10.5114/bta.2017.68315
+Khokhar, Muhammad Ilyas et al. "Date palm (&lt;i&gt;Phoenix dactylifera&lt;/i&gt; L.) biotechnology: a mini-review." BioTechnologia, vol. 98, no. 2, 2017, pp. 153-161. doi:10.5114/bta.2017.68315
+/div><div>Date palm (<i>Phoenix dactylifera</i>L.) is the source of fruit and palm oil, which is broadly used in the food industry. The regeneration of recalcitrant date palm genotypes through somatic embryogenesis or organogenesis is difficult to achieve. Micropropagation, however, provides a way to obtain a sufficient number of true-to-type elite, healthy (disease-free) and vigorous plants to satisfy local and international markets. This mini-review highlights some of the main achievements in the tissue culture of date palm. In particular, explant selection and disinfection, shoot induction, multiplication and elongation, root induction and acclimatization are highlighted. In addition to using the in vitro tissue culture as the basis for an in vitro gene banking, a mid-term low-temperature storage of germplasm is possible by careful selection of the osmotic agent. A long-term storage of date palm using cryopreservation, with or without synthetic seeds is also possible. Molecular markers, as well as sex-specific markers, have been useful to discriminate germplasms and to identify somaclonal variants derived from tissue cultures. The genetic transformation of date palm can be achieved by either particle bombardment or Agrobacterium –based protocols. Thus, biotechnology is an important element of date palm germplasm development and its sustainable improvement.<
+null
+keywords:</div><h3>acclimatization, adventitious shoots, explant, organogenesis, rooting, shoot multiplication</h3

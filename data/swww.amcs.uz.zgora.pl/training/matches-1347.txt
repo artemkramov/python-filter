@@ -1,0 +1,6 @@
+﻿4 - December 2002
+12 - 2002
+An elastic membrane with an attached non-linear thermoelastic rod
+Werner Horn, Jan Sokołowski
+<em>Please see the PDF file.</em>
+thermoelastic materials, non-linear partial differential equations

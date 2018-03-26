@@ -1,0 +1,6 @@
+﻿3 - September 1993
+3 - 1993
+Theory of energy transforming systems and their application in diagnostics of operating systems
+Czesław Cempel
+In this paper the theory of energy transforming systems (ETS) with finite dissipation capacity was presented and applied to condition assessment of operating systems (OS). It was shown that externally dissipated energy transformed into life-symptom of OS has direct equivalence with its reliability, and the remaining life. It was shown also, that ETS modules can serve as building block for creating the diagnostic and reliability models of any OS. These models have very important fractal-like property which enables us to apply this line of reasoning to every level of energy transforming hierarchy of any OS. The explanatory properties of such fractal-like modeling can be used for better understanding of life evolution of OS. The diagnostic and reliability consideration were illustrated and validated by the computer program applied to Diesel engine vibration condition monitoring.
+-

@@ -1,0 +1,6 @@
+﻿2 - June 1998
+8 - 1998
+The LQ controller synthesis problem: An operator case
+Piotr Grabowski
+The aim of this paper is to provide a new, direct approach to the classical LQ problem with an infinite time horizon. In our approach, the LQ problem is formulated as a parametric optimization problem of a special type, and then analysed by the methods presented in our earlier papers (Grabowski, 1990; 1993). The results simplify the well-known theory presented in (Curtain and Pritchard, 1978, Sec.4.4; Zabczyk, 1976).
+-

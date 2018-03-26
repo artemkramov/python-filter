@@ -1,0 +1,6 @@
+﻿3 - September 1999
+9 - 1999
+Fuzzy-logic fault isolation in large-scale systems
+Jan M. Kościelny, Dariusz Sędziak, Karol Zakroczymski
+Application of fuzzy logic in fault isolation is proposed. The introduced methods assume the industrial requirements such as integration of different detection algorithms, system complexity, data and knowledge uncertainties. Algorithms of decreasing the calculation expenditures for diagnosing large-scale systems are also introduced. An example of the application is also shown. The proposed technique is a development of the Dynamic State Tables method.
+diagnostics, fuzzy logic, fault isolation, large-scale systems

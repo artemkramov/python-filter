@@ -1,0 +1,15 @@
+﻿Approach-to-automated-hot-spot-detection-using-image-processing-for-thermographic,62861
+2-2016,1600">2/2016 vol. 17
+Technical-diagnostics-of-hydropower-turbine-using-modern-measurement-techniques,62892,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/Supervised-and-unsupervised-learning-process-in-damage-classification-of-rolling,62459,0,2.html" title="PREVIOUS
+Approach to automated hot spot detection using image processing for thermographic inspections of power transmission lines
+Angelika-Wronkowicz/36154">Angelika Wronkowicz
+null
+angelika.wronkowicz@polsl.pl
+Politechnika Śląska
+Publish date: 2016-06-04</div><div>Submission date: 2016-03-30</div><div>Final revision date: 2016-04-25</div><div>Acceptance date: 2016-04-25
+6;17(2):81–86
+62861-17832?filename=Approach to automated hot
+power+transmission+lines/10224">power transmission lines<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-image+processing/11722">image processing<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-hot+spot+detection/74873">hot spot detection
+thermographic+inspections/74874">thermographic inspections</a><div>&nbsp;</div></div><div>TOPICS:</div><div><a href="http://www.diagnostyka.net.pl/Topic-Signal+analysis/3949">Signal analysis<div></div></a><a href="http://www.diagnostyka.net.pl/Topic-Technical+diagnostics/3947">Technical diagnostics
+The paper deals with detection of hot spots in thermograms acquired after infrared inspections of power transmission lines. The author proposes an approach to automated selection of a threshold value for image segmentation using several methods of image processing and analysis. The algorithm is based on finding the steepest growth of successive gradients of sorted values of input image after certain image pre-processing steps. Several post-processing procedures were applied for proper visualization of detected regions in the resulting images. The results have brought satisfying effects and the algorithm, owing to its fast performance, could be also used on-line, during vision inspections.</div><div>CORRESPONDING AUTHOR:</div><a href="http://www.diagnostyka.net.pl/Author-Angelika-Wronkowicz/36154">Angelika Wronkowicz</a>&nbsp;&nbsp;<a href="mailto:angelika.wronkowicz@polsl.pl"><div></div></a><div>Politechnika Śląska, Konarskiego 18A, Instytut Podstaw Konstrukcji Maszyn, Gliwice 44-100, Polska
+></div></div><div><div><div></div>Related articles</div><div><div><a href="http://www.diagnostyka.net.pl/Directionality-detection-of-delaminations-basing-on-analysis-of-CT-slices-using-wavelet,81445,0,2.html">Directionality detection of delaminations basing on analysis of CT slices using wavelet and Hough transforms-based algorithm</a></div><div><a href="http://www.diagnostyka.net.pl/Directionality-detection-of-delaminations-basing-on-analysis-of-CT-slices-using-wavelet,81381,0,2.html">Directionality detection of delaminations basing on analysis of CT slices using wavelet and Hough transforms-based algorithm</a></div

@@ -1,0 +1,6 @@
+﻿3 - September 2017
+27 - 2017
+Accurate gradient computations at interfaces using finite element methods
+Fangfang Qin, Zhaohui Wang, Zhijie Ma, Zhilin Li
+New finite element methods are proposed for elliptic interface problems in one and two dimensions. The main motivation is to get not only an accurate solution, but also an accurate first order derivative at the interface (from each side). The key in 1D is to use the idea of Wheeler (1974). For 2D interface problems, the point is to introduce a small tube near the interface and propose the gradient as part of unknowns, which is similar to a mixed finite element method, but only at the interface. Thus the computational cost is just slightly higher than in the standard finite element method. We present a rigorous one dimensional analysis, which shows a second order convergence order for both the solution and the gradient in 1D. For two dimensional problems, we present numerical results and observe second order convergence for the solution, and super-convergence for the gradient at the interface.
+elliptic interface problems, gradient/flux computation, IFEM, mixed FE formulation, computational tube</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2017-0037">10.1515/amcs-2017-0037</a>

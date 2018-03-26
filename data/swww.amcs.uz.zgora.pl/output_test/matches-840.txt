@@ -1,0 +1,3 @@
+Positive stable realizations of fractional continuous-time linear systems
+Tadeusz Kaczorek
+Conditions for the existence of positive stable realizations with system Metzler matrices for fractional continuous-time linear systems are established. A procedure based on the Gilbert method for computation of positive stable realizations of proper transfer matrices is proposed. It is shown that linear minimum-phase systems with real negative poles and zeros always have positive stable realizations.

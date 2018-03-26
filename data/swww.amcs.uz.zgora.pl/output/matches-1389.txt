@@ -1,0 +1,6 @@
+﻿3 - September 2001
+11 - 2001
+Rough sets methods in feature reduction and classification
+Roman W. Świniarski
+The paper presents an application of rough sets and statistical methods to feature reduction and pattern recognition. The presented description of rough sets theory emphasizes the role of rough sets reducts in feature selection and data reduction in pattern recognition. The overview of methods of feature selection emphasizes feature selection criteria, including rough set-based methods. The paper also contains a description of the algorithm for feature selection and reduction based on the rough sets method proposed jointly with Principal Component Analysis. Finally, the paper presents numerical results of face recognition experiments using the learning vector quantization neural network, with feature selection based on the proposed principal components analysis and rough sets methods.
+rough sets, feature selection, classification

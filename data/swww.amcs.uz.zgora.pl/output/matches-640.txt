@@ -1,0 +1,6 @@
+﻿1 - March 2013
+23 - 2013
+Mathematical modelling of molecule evolution in protocells
+Dariusz Myszor, Krzysztof A. Cyran
+In this article, we analyse the process of the emergence of RNA polynucleotides located in an enclosed environment, at an early stage of the RNA world. Therefore we prepared a mathematical model, composed of a set of differential equations, which simulates the behaviour of an early biological system bounded by a protocell membrane. There is evidence that enclosed environments were available on the primordial Earth. There are also experimental proofs that RNA strands can develop in these formations. The proposed model allows analysis of the influence of membrane permeability on the composition of internal material. It takes into account phenomena that lead to the elongation of an RNA strand (ligation), fission of molecules (phosphodiester bond breakage) and replication of polynucleotides. Results obtained from the model point out that the existence of protocells might support concentration of material and creation of longer molecules.
+RNA world, proto-cell, mathematical model</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0017">10.2478/amcs-2013-0017</a>

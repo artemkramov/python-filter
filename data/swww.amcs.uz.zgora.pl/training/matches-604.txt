@@ -1,0 +1,6 @@
+﻿4 - December 2014
+24 - 2014
+On an infinite dimensional linear-quadratic problem with fixed endpoints: The continuity question
+K. Maciej Przyłuski
+In a Hilbert space setting, necessary and sufficient conditions for the minimum norm solution<em>u</em>to the equation<em>Su = Rz</em>to be continuously dependent on<em>z</em>are given. These conditions are used to study the continuity of minimum energy and linear-quadratic control problems for infinite dimensional linear systems with fixed endpoints.
+minimum norm problem, linear-quadratic control, linear-quadratic economies, controllability, continuity of optimal control</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0053">10.2478/amcs-2014-0053</a>

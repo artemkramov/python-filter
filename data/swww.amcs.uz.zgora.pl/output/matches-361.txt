@@ -1,0 +1,6 @@
+﻿4 - December 1994
+4 - 1994
+A multidimensional polynomial factorization method based on the multidimensional Lagrange polynomials
+Nikos E. Mastorakis, Spyros G. Tzafestas, Nickolas J. Theodorou
+This paper provides a factorization technique of multidimensional polynomials which is based on the concept of multidimensional Lagrange polynomials. These polynomials are used for finding the coefficients of the factors of the multidimensional polynomial. The result is that the given polynomial is factorized in general factors involving several independent variables. The technique is fully supported by a set of theorems and an illustrative example.
+-

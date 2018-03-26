@@ -1,0 +1,6 @@
+﻿1 - March 2016
+26 - 2016
+Simultaneous routing and flow rate optimization in energy-aware computer networks
+Przemysław Jaskóła, Piotr Arabas, Andrzej Karbowski
+The issue of energy-aware traffic engineering has become prominent in telecommunications industry in the last years. This paper presents a two-criteria network optimization problem, in which routing and bandwidth allocation are determined jointly, so as to minimize the amount of energy consumed by a telecommunication infrastructure and to satisfy given demands represented by a traffic matrix. A scalarization of the criteria is proposed and the choice of model parameters is discussed in detail. The model of power dissipation as a function of carried traffic in a typical software router is introduced. Then the problem is expressed in a form suitable for the mixed integer quadratic programming (MIQP) solver. The paper is concluded with a set of small, illustrative computational examples. Computed solutions are implemented in a testbed to validate the accuracy of energy consumption models and the correctness of the proposed traffic engineering algorithm.
+MINLP, MIQP, network optimization, green networking, fairness, multi-criteria</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0016">10.1515/amcs-2016-0016</a>

@@ -1,0 +1,6 @@
+﻿3 - September 2016
+26 - 2016
+A new sufficient schedulability analysis for hybrid scheduling
+Fengxiang Zhang, Yanfeng Zhai, Jianwei Liao
+Earliest deadline first (EDF) and fixed priority (FP) are the most commonly used and studied scheduling algorithms for real-time systems. This paper focuses on combining the EDF and FP strategies in one system. We provide a new sufficient schedulability analysis for real-time hybrid task systems which are scheduled by EDF and FP. The proposed analysis has a polynomial time complexity and no restrictions on task parameters, where the relative deadline of each task could be less than, equal to, or greater than its period. By extensive experiments, we show that our proposed analysis significantly improves the acceptance ratio compared with the existing results of the sufficient schedulability test for hybrid scheduling systems.
+scheduling algorithms, real-time systems, schedulability analysis, preemptive scheduling, earliest deadline first, fixed priority</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0047">10.1515/amcs-2016-0047</a>

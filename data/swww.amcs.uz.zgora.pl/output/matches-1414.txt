@@ -1,0 +1,6 @@
+﻿5 - December 2001
+11 - 2001
+Numerical analysis and systems theory
+Stephen L. Campbell
+The area of numerical analysis interacts with the area of control and systems theory in a number of ways, some of which are widely recognized and some of which are not fully appreciated or understood. This paper will briefly discuss some of these areas of interaction and place the papers in this volume in context.
+numerical analysis, control, systems theory

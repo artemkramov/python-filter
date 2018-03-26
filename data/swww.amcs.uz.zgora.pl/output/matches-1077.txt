@@ -1,0 +1,6 @@
+﻿4 - December 2017
+27 - 2017
+Actuator failure compensation for two linked 2WD mobile robots based on multiple-model control
+Yajie Ma, Vincent Cocquempot, Maan El Badaoui El Najjar, Bin Jiang
+This paper develops a new actuator failure compensation scheme for two linked two-wheel drive (2WD) mobile robots based on multiple-model control. First, a configuration of two linked 2WD robots is described, and their kinematics and dynamics are modeled. Then, a multiple-model based failure compensation scheme is developed to compensate for actuator failures, consisting of a kinematic controller, multiple dynamic controllers and a control switching mechanism, which ensures system stability and asymptotic tracking properties. Finally, simulation results verify the effectiveness of the proposed failure compensation control system.
+actuator failure, multiple-model control, physically linked robots, two-wheel drive</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2017-0053">10.1515/amcs-2017-0053</a>

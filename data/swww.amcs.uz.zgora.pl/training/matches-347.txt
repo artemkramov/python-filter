@@ -1,0 +1,6 @@
+﻿3 - September 1994
+4 - 1994
+Learning through integral representations
+Marek B. Zaremba, Eugeniusz Porada
+This paper addresses the issue of building neural networks capable of approximating arbitrary continuous target functions. An approach based on integral representation of the desired function is presented. The method allows the user to construct the network architecture by applying qualitative geometrical analysis of the space of input states.
+-

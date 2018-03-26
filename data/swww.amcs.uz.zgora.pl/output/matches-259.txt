@@ -1,0 +1,6 @@
+﻿3 - September 1996
+6 - 1996
+FLC design for multi-objective systems
+Taeseung Lim, Zeungnam Bien
+For a system with multiple objectives, designing the rule base for a fuzzy-logic controller (FLC) is not an easy task. In particular, when the fuzzy if-then rules are obtained from human operators, they can be inconsistent due to possibly conflicting multiple objectives. In this paper, we propose an FLC design scheme that is suitable for this type of systems. The proposed controller consists of a supervisory controller and many sub controllers. Each sub controller is a typical FLC responsible for the corresponding control objective and the supervisory controller coordinates the sub controllers by adjusting the weights. Some learning mechanism is also introduced for the supervisory controller to enhance its performance. Then, the stability issue of the proposed FLC is discussed when it is used for a regulation system. By means of a simple example, the proposed algorithm is shown to be effective for multi-objective systems.
+-

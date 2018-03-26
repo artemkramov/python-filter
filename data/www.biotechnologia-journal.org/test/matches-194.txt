@@ -1,0 +1,17 @@
+﻿4/2013
+4
+Microbial-biotransformation-of-two-phosphonoacetic-acid-r-nderivatives-bearing-two-stereomeric-centres,85,23805,0
+abstract:</div><div>Review paper
+Microbial biotransformation of two phosphonoacetic acid derivatives bearing two stereomeric centres
+h3>Jagoda Szyszkowiak, Paulina Majewska</h3><div>BioTechnologia vol. 94(4) C pp. 425-431 C 2013
+3.46412">https://doi.org/10.5114/bta.2013.46412
+a>View full text</a
+23805
+Szyszkowiak J, Majewska P. Microbial biotransformation of two phosphonoacetic acid derivatives bearing two stereomeric centres. BioTechnologia. 2014;94(4):425-431. doi:10.5114/bta.2013.46412
+Szyszkowiak, J., &amp; Majewska, P. (2014). Microbial biotransformation of two phosphonoacetic acid derivatives bearing two stereomeric centres. BioTechnologia, 94(4), 425-431. https://doi.org/10.5114/bta.2013.46412
+Szyszkowiak, Jagoda, and Paulina Majewska. 2014. "Microbial biotransformation of two phosphonoacetic acid derivatives bearing two stereomeric centres". BioTechnologia 94 (4): 425-431. doi:10.5114/bta.2013.46412
+Szyszkowiak, J., and Majewska, P. (2014). Microbial biotransformation of two phosphonoacetic acid derivatives bearing two stereomeric centres. BioTechnologia, 94(4), pp.425-431. https://doi.org/10.5114/bta.2013.46412
+Szyszkowiak, Jagoda et al. "Microbial biotransformation of two phosphonoacetic acid derivatives bearing two stereomeric centres." BioTechnologia, vol. 94, no. 4, 2014, pp. 425-431. doi:10.5114/bta.2013.46412
+/div><div>Three strains of microorganisms: Bacillus subtilis, Serratia liquefaciens and Escherichia coli were tested as<br><br>whole-cell biocatalysts for the kinetic resolution of isomers of two new phosphonoacetic acid derivatives. Used<br><br>compounds possess two chiral centres – one at the carbon adjacent to both functional groups and the other at the<br><br>phosphorus. Biocatalytic hydrolysis of 2-butyryloxy-2-(butoxyetoxyphosphinyl)acetic acid and 2-butyryloxy-2-(isobutoxyetoxyphosphinyl)<br><br>acetic acid with whole cells of Bacillus subtilis produced corresponding hydroxyphosphonates<br><br>with diastereoselectivity ranging from 50 to 60%.<
+null
+keywords:</div><h3>hydroxyphosphonates, lipolytic activity, biotransformations</h3

@@ -1,0 +1,6 @@
+﻿1 - March 2009
+19 - 2009
+Algebraic condition for decomposition of large-scale linear dynamic systems
+Henryk Górecki
+The paper concerns the problem of decomposition of a large-scale linear dynamic system into two subsystems. An equivalent problem is to split the characteristic polynomial of the original system into two polynomials of lower degrees. Conditions are found concerning the coefficients of the original polynomial which must be fulfilled for its factorization. It is proved that knowledge of only one of the symmetric functions of those polynomials of lower degrees is sufficient for factorization of the characteristic polynomial of the original large-scale system. An algorithm for finding all the coefficients of the decomposed polynomials and a general condition of factorization are given. Examples of splitting the polynomials of the fifth and sixth degrees are discussed in detail.
+decomposition, algebraic condition, dynamic systems</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-009-0010-x">10.2478/v10006-009-0010-x</a>

@@ -1,0 +1,6 @@
+﻿1 - March 2014
+24 - 2014
+Cross-task code reuse in genetic programming applied to visual learning
+Wojciech Jaśkowski, Krzysztof Krawiec, Bartosz Wieloch
+We propose a method that enables effective code reuse between evolutionary runs that solve a set of related visual learning tasks. We start with introducing a visual learning approach that uses genetic programming individuals to recognize objects. The process of recognition is generative, i.e., requires the learner to restore the shape of the processed object. This method is extended with a<em>code reuse</em>mechanism by introducing a<em>crossbreeding</em>operator that allows importing the genetic material from other evolutionary runs. In the experimental part, we compare the performance of the extended approach to the basic method on a real-world task of handwritten character recognition, and conclude that code reuse leads to better results in terms of fitness and recognition accuracy. Detailed analysis of the crossbred genetic material shows also that code reuse is most profitable when the recognized objects exhibit visual similarity.
+genetic programming, code reuse, knowledge sharing, visual learning, multi-task learning, optical character recognition</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0014">10.2478/amcs-2014-0014</a>

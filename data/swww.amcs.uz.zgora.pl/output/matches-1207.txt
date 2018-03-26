@@ -1,0 +1,6 @@
+﻿2 - June 2004
+14 - 2004
+An infinite horizon predictive control algorithm based on multivariable input-output models
+Maciej Ławryńczuk, Piotr Tatjewski
+In this paper an infinite horizon predictive control algorithm, for which closed loop stability is guaranteed, is developed in the framework of multivariable linear input-output models. The original infinite dimensional optimisation problem is transformed into a finite dimensional one with a penalty term. In the unconstrained case the stabilising control law, using a numerically reliable SVD decomposition, is derived as an analytical formula, calculated off-line. Considering constraints needs solving on-line a quadratic programming problem. Additionally, it is shown how free and forced responses can be calculated without the necessity of solving a matrix Diophantine equation.
+model predictive control, stability, infinite horizon, singular-value decomposition, quadratic programming

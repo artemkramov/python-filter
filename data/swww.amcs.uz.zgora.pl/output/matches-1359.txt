@@ -1,0 +1,6 @@
+﻿4 - December 2002
+12 - 2002
+Component composition validation
+Andreas Speck, Elke Pulvermüller, Michael Jerger, Bogdan Franczyk
+Many approaches such as component technologies have been invented in order to support software reuse. Based on these technologies a large variety of techniques have been introduced to connect components. However, there is little experience concerning the validation of component systems. We know how to plug components together, but we do need ways to check whether that works. In this paper we introduce an approach to validating component compositions and showing how such a process can be supported by tools. We introduce a way to compare the interface specification of components automatically against the code. Furthermore, we demonstrate how compositions of components can be specified by logical formulas, allowing us to automatically validate these compositions.
+composition verification, component composition, feature interaction, model checking

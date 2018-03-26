@@ -1,0 +1,6 @@
+﻿2 - June 2003
+13 - 2003
+The asymptotical stability of a dynamic system with structural damping
+Xuezhang Hou
+A dynamic system with structural damping described by partial differential equations is investigated. The system is first converted to an abstract evolution equation in an appropriate Hilbert space, and the spectral and semigroup properties of the system operator are discussed. Finally, the well-posedness and the asymptotical stability of the system are obtained by means of a semigroup of linear operators.
+dynamic system, evolution equation, asymptotic stability

@@ -1,0 +1,6 @@
+﻿2 - June 2014
+24 - 2014
+A robust computational technique for a system of singularly perturbed reaction–diffusion equations
+Vinod Kumar, Rajesh K. Bawa, Arvind K. Lal
+In this paper, a singularly perturbed system of reaction–diffusion Boundary Value Problems (BVPs) is examined. To solve such a type of problems, a Modified Initial Value Technique (MIVT) is proposed on an appropriate piecewise uniform Shishkin mesh. The MIVT is shown to be of second order convergent (up to a logarithmic factor). Numerical results are presented which are in agreement with the theoretical results.
+asymptotic expansion approximation, backward difference operator, trapezoidal method, piecewise uniform Shishkin mesh</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0029">10.2478/amcs-2014-0029</a>

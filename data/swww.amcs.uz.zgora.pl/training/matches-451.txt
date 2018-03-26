@@ -1,0 +1,6 @@
+﻿2 - December 1992
+2 - 1992
+Dynamic slicing of distributed programs
+Bogdan Korel, Roger Ferguson
+A static slice<em>S</em>of a sequential program<em>Q</em>is an executable part of<em>Q</em>that computes the same function as<em>Q</em>does in a subset of variables at some selected point of interest. As originally introduced, it involves all potential terminating program executions. In debugging, however, we typically deal with a particular incorrect execution and are interested in locating the cause of incorrectness of that execution. Therefore, we are interested in a slice, referred to as a dynamic slice, that preserves the program's behavior for a specific input. The concept of dynamic slicing has been initially introduced for sequential programs. In this paper we extend the concept of dynamic slicing to distributed programs. A distributed program introduces new challenges (e.g., nonreproducible behaviors, nondeterministic selection of communication events, etc.) that are not captured by the original definition of dynamic slicing. Consequently, the concept of dynamic slicing needs to be extended in order to make it a useful tool for debugging distributed programs.
+-

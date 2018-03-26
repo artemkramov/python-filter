@@ -1,0 +1,6 @@
+﻿2 - June 1994
+4 - 1994
+Irregularity in scheduling of cancer chemotherapy
+Andrzej Świerniak, Andrzej Polański
+The paper presents a problem of optimal control of a bilinear system in the plane which has irregular properties although the optimization problem is similar to . those ones which admit the "regular synthesis" (Sussman, 1987c). The number of switchings derived from the maximum principle can be arbitrarily large in any time interval and multiple solutions to the two-point. boundary-value problem are possible. An example from modelling cancer chemotherapy was derived to demonstrate irregularities.
+-

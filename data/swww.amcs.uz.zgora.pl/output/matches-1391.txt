@@ -1,0 +1,6 @@
+﻿3 - September 2001
+11 - 2001
+A rough set-based knowledge discovery process
+Ning Zhong, Andrzej Skowron
+The knowledge discovery from real-life databases is a multi-phase process consisting of numerous steps, including attribute selection, discretization of real-valued attributes, and rule induction. In the paper, we discuss a rule discovery process that is based on rough set theory. The core of the process is a soft hybrid induction system called the Generalized Distribution Table and Rough Set System (GDT-RS) for discovering classification rules from databases with uncertain and incomplete data. The system is based on a combination of Generalization Distribution Table (GDT) and the Rough Set methodologies. In the preprocessing, two modules, i.e. Rough Sets with Heuristics (RSH) and Rough Sets with Boolean Reasoning (RSBR), are used for attribute selection and discretization of real-valued attributes, respectively. We use a slope-collapse database as an example showing how rules can be discovered from a large, real-life database.
+rough sets, KDD process, hybrid systems

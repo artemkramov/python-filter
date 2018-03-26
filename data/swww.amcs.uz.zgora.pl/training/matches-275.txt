@@ -1,0 +1,6 @@
+﻿1 - March 1995
+5 - 1995
+Determination of the stability of a non-linear ordinary differential equation by least square approximation. Computational procedure
+Tayeb Benouaz, Ovide Arino
+The purpose of this paper is to present a computational procedure, based on the minimization in the least square sense, which is associated with a given non-linear ordinary differential equation, when considered in the neighborhood of one of its equilibrium points P, a linear ordinary differential equation, having the same stability property as the non-linear equation at P.
+-

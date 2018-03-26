@@ -1,0 +1,3 @@
+An application of optimal control theory to the design of theoretical schedules of anticancer drugs
+Jose L. Boldrini, Michel I.S. Costa
+A system of differential equations for the control of tumor growth cells in a cycle non-specific chemotherapy is analyzed. Spontaneously acquired drug resistance is taken into account by means of a mutation rate non-decreasingly dependent on time and the drug kill rate is supposed to depend on the growth rate of sensitive cells. For general tumor growth and drug kill rates the optimal treatment consists in maximizing the allowable drug concentration throughout.

@@ -1,0 +1,2 @@
+Verified methods for computing Pareto sets: General algorithmic analysis
+Boglárka G.-Tóth, Vladik Kreinovich

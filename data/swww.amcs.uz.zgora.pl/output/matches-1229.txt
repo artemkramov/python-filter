@@ -1,0 +1,6 @@
+﻿3 - September 2004
+14 - 2004
+Evolutionary learning of rich neural networks in the Bayesian model selection framework
+Matteo Matteucci, Dario Spadoni
+In this paper we focus on the problem of using a genetic algorithm for model selection within a Bayesian framework. We propose to reduce the model selection problem to a search problem solved using evolutionary computation to explore a posterior distribution over the model space. As a case study, we introduce ELeaRNT (Evolutionary Learning of Rich Neural Network Topologies), a genetic algorithm which evolves a particular class of models, namely, Rich Neural Networks (RNN), in order to find an optimal domain-specific non-linear function approximator with a good generalization capability. In order to evolve this kind of neural networks, ELeaRNT uses a Bayesian fitness function. The experimental results prove that ELeaRNT using a Bayesian fitness function finds, in a completely automated way, networks well-matched to the analysed problem, with acceptable complexity.
+Rich Neural Networks, Bayesian model selection, genetic algorithms, Bayesian fitness

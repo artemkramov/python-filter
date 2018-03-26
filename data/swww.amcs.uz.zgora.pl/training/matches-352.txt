@@ -1,0 +1,6 @@
+﻿3 - September 1994
+4 - 1994
+On pattern classification and system identification by probabilistic neural networks
+Leszek Rutkowski, Tomasz Gałkowski
+In the paper probabilistic neural networks are discussed in detail. Neural network structures for non-parametric pattern classification and system identification are developed.
+-

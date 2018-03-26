@@ -1,0 +1,6 @@
+﻿4 - October 2001
+11 - 2001
+A problem of robust control of a system with time delay
+Marina Blizorukova, Franz Kappel, Vyacheslav Maksimov
+A problem of guaranteed control is under discussion. This problem consists in the attainment of a given target set by a phase trajectory of a system described by an equation with time delay. An uncontrolled disturbance (along with a control) is assumed to act upon the system. An algorithm for solving the problem in the case when information on a phase trajectory is incomplete (measurements of a 'part' of coordinates) is designed. The algorithm is stable with respect to informational noises and computational errors.
+robust control, system with time delay

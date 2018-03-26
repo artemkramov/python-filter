@@ -1,0 +1,6 @@
+﻿4 - December 2016
+26 - 2016
+Performance evaluation of an<em>M/G/n</em>-type queue with bounded capacity and packet dropping
+Oleg Tikhonenko, Wojciech M. Kempa
+A queueing system of the<em>M/G/n</em>-type,<em>n</em>≥ 1, with a bounded total volume is considered. It is assumed that the volumes of the arriving packets are generally distributed random variables. Moreover, the AQM-type mechanism is used to control the actual buffer state: each of the arriving packets is dropped with a probability depending on its volume and the occupied volume of the system at the pre-arrival epoch. The explicit formulae for the stationary queue-size distribution and the loss probability are found. Numerical examples illustrating theoretical formulae are given as well.
+AQM algorithms, finite buffer, loss probability, total packet volume, queue-size distribution</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0060">10.1515/amcs-2016-0060</a>

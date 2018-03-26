@@ -1,0 +1,6 @@
+﻿4 - December 1999
+9 - 1999
+Approximate controllability properties of the semilinear heat equation with lumped controls
+Alexander Yu Khapalov
+In this article, we study the global controllability properties of a one-dimensional semilinear heat equation with sublinear reaction term, governed in a bounded domain by internal lumped controls. We prove that it is possible to<em>exactly</em>control any finite dimensional portion of its solution (when expanded along the sequence of the eigenfunctions of the associated Laplacian), provided that the truncated linear equation is approximately controllable in<em>L</em><sup>2</sup>(0,1). We also describe a certain topology (weaker than<em>L</em><sup>2</sup>(0,1)) in which this system is, in fact, globally approximately controllable at any positive time. Some extensions to the case of several dimensions are also given.
+semilinear heat equation, controllability, internal lumped control

@@ -1,0 +1,6 @@
+﻿5 - December 2001
+11 - 2001
+On the choice of subspace for iterative methods for linear discrete ill-posed problems
+Daniela Calvetti, Bryan Lewis, Lothar Reichel
+Many iterative methods for the solution of linear discrete ill-posed problems with a large matrix require the computed approximate solutions to be orthogonal to the null space of the matrix. We show that when the desired solution is not smooth, it may be possible to determine meaningful approximate solutions with less computational work by not imposing this orthogonality condition.
+minimal residual method, conjugate gradient method, ill-posed problems

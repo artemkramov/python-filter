@@ -1,0 +1,17 @@
+﻿2/2011
+2
+PERSPECTIVES-High-throughput-protein-production,85,23859,0
+abstract:
+PERSPECTIVES<br>High throughput protein production
+h3>Aleksander Tworak, Jan Podkowiński, Marek Figlerowicz</h3><div>BioTechnologia vol. 92(2) C pp. 119-131 C 2011
+1.46525">https://doi.org/10.5114/bta.2011.46525
+a>View full text</a
+23859
+Tworak A, Podkowiński J, Figlerowicz M. PERSPECTIVES&lt;br&gt;High throughput protein production. BioTechnologia. 2014;92(2):119-131. doi:10.5114/bta.2011.46525
+Tworak, A., Podkowiński, J., &amp; Figlerowicz, M. (2014). PERSPECTIVES&lt;br&gt;High throughput protein production. BioTechnologia, 92(2), 119-131. https://doi.org/10.5114/bta.2011.46525
+Tworak, Aleksander, Jan Podkowiński, and Marek Figlerowicz. 2014. "PERSPECTIVES&lt;br&gt;High throughput protein production". BioTechnologia 92 (2): 119-131. doi:10.5114/bta.2011.46525
+Tworak, A., Podkowiński, J., and Figlerowicz, M. (2014). PERSPECTIVES&lt;br&gt;High throughput protein production. BioTechnologia, 92(2), pp.119-131. https://doi.org/10.5114/bta.2011.46525
+Tworak, Aleksander et al. "PERSPECTIVES&lt;br&gt;High throughput protein production." BioTechnologia, vol. 92, no. 2, 2014, pp. 119-131. doi:10.5114/bta.2011.46525
+/div><div>Research in the relationship between the architecture and function of proteins aims to understand the mechanism<br><br>of proteins folding and their activity at the atomic level. This knowledge leads to a progress in new technologies<br><br>that allow simultaneous production of numerous proteins on a large scale – high throughput protein production<br><br>(HTPP) methods. The HTPP methods allow parallel processing of multiple samples and are also important for<br><br>the determination of optimal protein production procedure, where usually combinations of different conditions<br><br>have to be tested. This article describes available cloning, expression, and purification approaches that may be<br><br>used in a high throughput and parallel manner. Additionally, the implementation of automation facilities is briefly<br><br>outlined.<
+null
+keywords:</div><h3>protein, production, high throughput, structural genomics</h3

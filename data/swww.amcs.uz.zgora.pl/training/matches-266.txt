@@ -1,0 +1,6 @@
+﻿4 - December 1996
+6 - 1996
+On the approximate solving of control problems for systems described by variational inequalities with nonlinear operators
+Olesya Vladimirovna Solonoukha
+In this paper an approximate solution of some extremal problem is constructed. The system is described by a variational inequality (VI), where the operator is of uniformly lower semilimited variation. For this purpose, we carry out the change of the initial problem for the family of auxiliary problems: the inequality is converted into an equality by adding a penalty term to the utility function<em>L(u, y)</em>, and the control space is extended. At each step we find the optimal control, which is an approximate solution of the initial problem. If there are some assumptions on the differentiability of the system operator and the utility function, then we can deduce the optimality conditions for the approximate problem. As examples, we consider some free-boundary problems on<em>W<sub>p</sub><sup>1</sup>(Ω), p ≥ 2</em>.
+-

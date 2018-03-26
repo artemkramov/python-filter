@@ -1,0 +1,6 @@
+﻿1 - March 2003
+13 - 2003
+On the interaction between theory, experiments, and simulation in developing practical learning control algorithms
+Richard W. Longman
+Iterative learning control (ILC) develops controllers that iteratively adjust the command to a feedback control system in order to converge to zero tracking error following a specific desired trajectory. Unlike optimal control and other control methods, the iterations are made using the real world in place of a computer model. If desired, the learning process can be conducted both in the time domain during each iteration and in repetitions, making ILC a 2D system. Because ILC iterates with the real world, and aims for zero error, the field pushes the limits of theory, modeling, and simulation, to predict the behavior when applied in the real world. It is the thesis of this paper that in order to make significant progress in this field it is essential that the research effort employ a coordinated simultaneous synergistic effort involving theory, experiments, and serious simulations. Otherwise, one very easily expends effort on something that seems fundamental from the theoretical perspective, but in fact has very little relevance to the performance in real world applications.
+iterative learning control, ILC, 2D systems, learning transients

@@ -1,0 +1,6 @@
+﻿1 - March 2003
+13 - 2003
+Towards a framework for continuous and discrete multidimensional systems
+Rudolf Rabenstein, Lutz Trautmann
+Continuous multidimensional systems described by partial differential equations can be represented by discrete systems in a number of ways. However, the relations between the various forms of continuous, semi-continuous, and discrete multidimensional systems do not fit into an established framework like in the case of one-dimensional systems. This paper contributes to the development of such a framework in the case of multidimensional systems. First, different forms of partial differential equations of physics-based systems are presented. Secondly, it is shown how the different forms of continuous multidimensional systems lead to certain discrete models in current use (finite-difference models, multidimensional wave digital filters, transfer function models). The links between these discrete models are established on the basis of the respective continuous descriptions. The presentation is based on three examples of physical systems (heat flow, transmission of electrical signals, acoustic wave propagation).
+multidimensional systems, partial differential equations, transfer functions, wave digital models

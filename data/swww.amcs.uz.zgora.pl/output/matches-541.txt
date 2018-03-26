@@ -1,0 +1,6 @@
+﻿4 - December 2015
+25 - 2015
+Statistical testing of segment homogeneity in classification of piecewise-regular objects
+Andrey V. Savchenko, Natalya S. Belova
+The paper is focused on the problem of multi-class classification of composite (piecewise-regular) objects (e.g., speech signals, complex images, etc.). We propose a mathematical model of composite object representation as a sequence of independent segments. Each segment is represented as a random sample of independent identically distributed feature vectors. Based on this model and a statistical approach, we reduce the task to a problem of composite hypothesis testing of segment homogeneity. Several nearest-neighbor criteria are implemented, and for some of them the well-known special cases (e.g., the Kullback–Leibler minimum information discrimination principle, the probabilistic neural network) are highlighted. It is experimentally shown that the proposed approach improves the accuracy when compared with contemporary classifiers.
+statistical pattern recognition, classification, testing of segment homogeneity, probabilistic neural network</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2015-0065">10.1515/amcs-2015-0065</a>

@@ -1,0 +1,6 @@
+﻿4 - December 1995
+5 - 1995
+Multilayer fuzzy control of multivariable systems by passive decomposition
+Alexander E. Gegov
+The paper considers the problem of multilayer fuzzy control of multivariable systems. Some relevant definitions and theorems are given. Multilayer fuzzy control algorithms, based on passive decomposition of the original system into layers, are presented and illustrated by numerical examples. The algorithms use a subset of state variables, leading to a unilayer control solution by taking into account implicitly the other variables. It is shown that the number of measured variables and fuzzy relations is significantly reduced and thus the real time measurement and control implementation are facilitated.
+-

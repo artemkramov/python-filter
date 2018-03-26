@@ -1,0 +1,6 @@
+﻿2 - June 1996
+6 - 1996
+Mathematical modelling and numerical simulation of induction heating processes
+Jacques Rappaz, Marek Świerkosz
+This paper deals with numerical simulation of induction heating for tridimensional time-varying axisymmetric geometries. A mathematical model is presented together with the numerical scheme used to solve it. The whole is illustrated by results of sample computations.
+-

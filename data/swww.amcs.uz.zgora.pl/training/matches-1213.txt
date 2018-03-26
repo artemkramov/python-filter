@@ -1,0 +1,6 @@
+﻿2 - June 2004
+14 - 2004
+Linear-wavelet networks
+Roberto K.H. Galvão, Victor M. Becerra, João M.F. Calado, Pedro M. Silva
+This paper proposes a nonlinear regression structure comprising a wavelet network and a linear term. The introduction of the linear term is aimed at providing a more parsimonious interpolation in high-dimensional spaces when the modeling samples are sparse. A constructive procedure for building such structures, termed linear-wavelet networks, is described. For illustration, the proposed procedure is employed in the framework of dynamic system identification. In an example involving a simulated fermentation process, it is shown that a linear-wavelet network yields a smaller approximation error when compared with a wavelet network with the same number of regressors. The proposed technique is also applied to the identification of a pressure plant from experimental data. In this case, the results show that the introduction of wavelets considerably improves the prediction ability of a linear model. Standard errors on the estimated model coefficients are also calculated to assess the numerical conditioning of the identification process.
+wavelet networks, nonlinear models, regression analysis, system identification

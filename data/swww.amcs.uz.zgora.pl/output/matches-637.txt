@@ -1,0 +1,6 @@
+﻿1 - March 2013
+23 - 2013
+Actuator fault diagnosis for flat systems: A constraint satisfaction approach
+Ramatou Seydou, Tarek Raissi, Ali Zolghadri, Denis Efimov
+This paper describes a robust set-membership-based Fault Detection and Isolation (FDI) technique for a particular class of nonlinear systems, the so-called flat systems. The proposed strategy consists in checking if the expected input value belongs to an estimated feasible set computed using the system model and the derivatives of the measured output vector. The output derivatives are computed using a numerical differentiator. The set-membership estimator design for the input vector takes into account the measurement noise thereby making the consistency test robust. The performances of the proposed strategy are illustrated through a three-tank system simulation affected by actuator faults.
+fault detection, input observer, flat systems, consistency techniques</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0014">10.2478/amcs-2013-0014</a>

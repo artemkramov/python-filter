@@ -1,0 +1,6 @@
+﻿1 - June 1992
+2 - 1992
+An inverse problem of a differential equation in a Banach space
+Vycheslav I. Maksimov
+A problem of dynamical reconstruction of the unknown right hand side for a linear differential equation in a Banach space is considered. A numerical solution method based on certain constructions of the theory of positional (closed-loop) control and modelling is suggested.
+-

@@ -1,0 +1,16 @@
+﻿1/2011
+2
+-Iron-introduction-to-a-short-series-of-articles,85,23844,0
+abstract:
+<br>Iron – introduction to a short series of articles
+h3>Paweł Lipiński</h3><div>BioTechnologia vol. 92(1) C pp. 4-5 C 2011
+1.46510">https://doi.org/10.5114/bta.2011.46510
+a>View full text</a
+23844
+Lipiński P. &lt;br&gt;Iron – introduction to a short series of articles. BioTechnologia. 2014;92(1):4-5. doi:10.5114/bta.2011.46510
+Lipiński, P. (2014). &lt;br&gt;Iron – introduction to a short series of articles. BioTechnologia, 92(1), 4-5. https://doi.org/10.5114/bta.2011.46510
+Lipiński, Paweł. 2014. "&lt;br&gt;Iron – introduction to a short series of articles". BioTechnologia 92 (1): 4-5. doi:10.5114/bta.2011.46510
+Lipiński, P. (2014). &lt;br&gt;Iron – introduction to a short series of articles. BioTechnologia, 92(1), pp.4-5. https://doi.org/10.5114/bta.2011.46510
+Lipiński, Paweł. "&lt;br&gt;Iron – introduction to a short series of articles." BioTechnologia, vol. 92, no. 1, 2014, pp. 4-5. doi:10.5114/bta.2011.46510
+null
+</div

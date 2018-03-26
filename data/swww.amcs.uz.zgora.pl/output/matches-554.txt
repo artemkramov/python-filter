@@ -1,0 +1,6 @@
+﻿1 - March 2014
+24 - 2014
+Approximation of a linear dynamic process model using the frequency approach and a non-quadratic measure of the model error
+Krzysztof B. Janiszowski
+The paper presents a novel approach to approximation of a linear transfer function model, based on dynamic properties represented by a frequency response, e.g., determined as a result of discrete-time identification. The approximation is derived for minimization of a non-quadratic performance index. This index can be determined as an exponent or absolute norm of an error. Two algorithms for determination of the approximation coefficients are considered, a batch processing one and a recursive scheme, based on the well-known on-line identification algorithm. The proposed approach is not sensitive to local outliers present in the original frequency response. Application of the approach and its features are presented on examples of two simple dynamic systems.
+approximation method, frequency domain, non-quadratic criterion, recursive algorithm</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0008">10.2478/amcs-2014-0008</a>

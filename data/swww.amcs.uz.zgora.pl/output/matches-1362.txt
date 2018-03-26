@@ -1,0 +1,6 @@
+﻿1 - March 2001
+11 - 2001
+Well-posed linear systems - A survey with emphasis on conservative systems
+George Weiss, Olof J. Staffans, Marius Tucsnak
+We survey the literature on well-posed linear systems, which has been an area of rapid development in recent years. We examine the particular subclass of conservative systems and its connections to scattering theory. We study some transformations of well-posed systems, namely duality and time-flow inversion, and their effect on the transfer function and the generating operators. We describe a simple way to generate conservative systems via a second-order differential equation in a Hilbert space. We give results about the stability, controllability and observability of such conservative systems and illustrate these with a system modeling a controlled beam.
+well-posed linear system, regular linear system, operator semigroup, conservative system, scattering theory, time-flow-inversion, differential equations in Hilbert space, beam equation

@@ -1,0 +1,6 @@
+﻿3 - September 2014
+24 - 2014
+An unconditionally positive and global stability preserving NSFD scheme for an epidemic model with vaccination
+Deqiong Ding, Qiang Ma, Xiaohua Ding
+In this paper, a NonStandard Finite Difference (NSFD) scheme is constructed, which can be used to determine numerical solutions for an epidemic model with vaccination. Here the NSFD method is employed to derive a set of difference equations for the epidemic model with vaccination. We show that difference equations have the same dynamics as the original differential system, such as the positivity of the solutions and the stability of the equilibria, without being restricted by the time step. Our proof of global stability utilizes the method of Lyapunov functions. Numerical simulation illustrates the effectiveness of our results.
+nonstandard finite differences, unconditional positivity, stability, Lyapunov function</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0046">10.2478/amcs-2014-0046</a>

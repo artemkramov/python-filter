@@ -1,0 +1,6 @@
+﻿3 - September 2006
+16 - 2006
+Minimax LQG control
+Ian R. Petersen
+This paper presents an overview of some recent results concerning the emerging theory of minimax LQG control for uncertain systems with a relative entropy constraint uncertainty description. This is an important new robust control system design methodology providing minimax optimal performance in terms of a quadratic cost functional. The paper first considers some standard uncertainty descriptions to motivate the relative entropy constraint uncertainty description. The minimax LQG problem under consideration is further motivated by analysing the basic properties of relative entropy. The paper then presents a solution to a worst case control system performance problem which can be generalized to the minimax LQG problem. The solution to this minimax LQG control problem is found to be closely connected to the problem of risk-sensitive optimal control.
+stochastic uncertain system, minimax control, LQG control, risk-sensitive control, output-feedback control, robust control

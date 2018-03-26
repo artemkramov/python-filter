@@ -1,0 +1,6 @@
+﻿4 - October 2001
+11 - 2001
+Identification of a quasilinear parabolic equation from final data
+Luis A. Fernández, Cecilia Pola
+<em>Please see the PDF file.</em>
+quasilinear parabolic equation, inverse problem, parameter estimation

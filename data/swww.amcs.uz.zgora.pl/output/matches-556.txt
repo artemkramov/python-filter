@@ -1,0 +1,6 @@
+﻿1 - March 2017
+27 - 2017
+Saturating stiffness control of robot manipulators with bounded inputs
+María del Carmen Rodríguez-Liñán, Marco Mendoza, Isela Bonilla, César A. Chávez-Olivares
+A saturating stiffness control scheme for robot manipulators with bounded torque inputs is proposed. The control law is assumed to be a PD-type controller, and the corresponding Lyapunov stability analysis of the closed-loop equilibrium point is presented. The interaction between the robot manipulator and the environment is modeled as spring-like contact forces. The proper behavior of the closed-loop system is validated using a three degree-of-freedom robotic arm.
+bounded inputs, robot manipulator, saturation, stiffness control</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2017-0006">10.1515/amcs-2017-0006</a>

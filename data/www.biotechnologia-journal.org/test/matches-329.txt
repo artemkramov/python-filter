@@ -1,0 +1,17 @@
+﻿4/2011
+2
+OPINIONS-Acetyl-coenzyme-A-carboxylase-r-n-an-attractive-enzyme-for-biotechnology,85,23881,0
+abstract:
+OPINIONS<br>Acetyl-coenzyme A carboxylase – an attractive enzyme for biotechnology
+h3>Jan Podkowiński, Aleksander Tworak</h3><div>BioTechnologia vol. 92(4) C pp. 321-335 C 2011
+1.46549">https://doi.org/10.5114/bta.2011.46549
+a>View full text</a
+23881
+Podkowiński J, Tworak A. OPINIONS&lt;br&gt;Acetyl-coenzyme A carboxylase – an attractive enzyme for biotechnology. BioTechnologia. 2014;92(4):321-335. doi:10.5114/bta.2011.46549
+Podkowiński, J., &amp; Tworak, A. (2014). OPINIONS&lt;br&gt;Acetyl-coenzyme A carboxylase – an attractive enzyme for biotechnology. BioTechnologia, 92(4), 321-335. https://doi.org/10.5114/bta.2011.46549
+Podkowiński, Jan, and Aleksander Tworak. 2014. "OPINIONS&lt;br&gt;Acetyl-coenzyme A carboxylase – an attractive enzyme for biotechnology". BioTechnologia 92 (4): 321-335. doi:10.5114/bta.2011.46549
+Podkowiński, J., and Tworak, A. (2014). OPINIONS&lt;br&gt;Acetyl-coenzyme A carboxylase – an attractive enzyme for biotechnology. BioTechnologia, 92(4), pp.321-335. https://doi.org/10.5114/bta.2011.46549
+Podkowiński, Jan et al. "OPINIONS&lt;br&gt;Acetyl-coenzyme A carboxylase – an attractive enzyme for biotechnology." BioTechnologia, vol. 92, no. 4, 2014, pp. 321-335. doi:10.5114/bta.2011.46549
+/div><div>Acetyl-CoA carboxylase catalyzes the carboxylation of acetyl-CoA to malonyl-CoA. This reaction constitutes<br><br>the first committed step of fatty acid synthesis in most organisms, while its product also serves as a universal precursor<br><br>for various other high-value compounds. The important regulatory and rate-limiting role of acetyl-CoA<br><br>carboxylase makes this enzyme a powerful tool in a variety of biotechnological and medical projects. This review<br><br>presents the current knowledge on structural and functional features of the enzyme and focuses on its divergent<br><br>applications. Different metabolic engineering attempts that lead to the production of various compounds, such<br><br>as fatty acids, polyketides or flavonoids, are presented and their advantages and limitations discussed. The importance<br><br>of studies on acetyl-CoA carboxylase activity for design and development of new herbicides and antibiotics<br><br>as well as for medical intervention is also highlighted.<
+null
+keywords:</div><h3>acetyl-coenzyme A carboxylase, fatty acid, metabolic engineering, biotechnology</h3

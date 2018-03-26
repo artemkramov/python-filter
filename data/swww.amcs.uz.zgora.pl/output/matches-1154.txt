@@ -1,0 +1,6 @@
+﻿2 - June 2005
+15 - 2005
+Extension of the Cayley-Hamilton theorem to continuous-time linear systems with delays
+Tadeusz Kaczorek
+<em>Please see the PDF file.</em>
+Cayley-Hamilton theorem, continuous-time, linear system, delay, extension

@@ -1,0 +1,6 @@
+﻿1 - December 1991
+1 - 1991
+Dynamical identification of controls for parabolic variational inequalities
+Vycheslav I. Maksimov
+The reconstruction problems of the unknown parameters based on the available information is one of the fundamental problems in the field of optimal control. This paper presents a new method of the positional modelling of distributed controls for the system described by the parabolic variational inequalities.
+-

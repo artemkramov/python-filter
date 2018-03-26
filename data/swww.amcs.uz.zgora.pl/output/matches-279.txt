@@ -1,0 +1,6 @@
+﻿3 - September 2016
+26 - 2016
+A scheme of resource allocation and stability for peer-to-peer file-sharing networks
+Shiyong Li, Wei Sun, Cheng-Guo E, Lina Shi
+Peer-to-peer (P2P) networks offer a cost-effective and easily deployable framework for sharing content. However, P2P file-sharing applications face a fundamental problem of unfairness. Pricing is regarded as an effective way to provide incentives to peers to cooperate. In this paper we propose a pricing scheme to achieve reasonable resource allocation in P2P file-sharing networks, and give an interpretation for the utility maximization problem and its sub-problems from an economic point of view. We also deduce the exact expression of optimal resource allocation for each peer, and confirm it with both simulation and optimization software. In order to realize the optimum in a decentralized architecture, we present a novel price-based algorithm and discuss its stability based on Lyapunov stability theory. Simulation results confirm that the proposed algorithm can attain an optimum within reasonable convergence times.
+peer-to-peer networks, fairness, pricing, stability, utility maximization</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0049">10.1515/amcs-2016-0049</a>

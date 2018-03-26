@@ -1,0 +1,6 @@
+﻿3 - September 2015
+25 - 2015
+A study on meme propagation in multimemetic algorithms
+Rafael Nogueras, Carlos Cotta
+Multimemetic algorithms (MMAs) are a subclass of memetic algorithms in which memes are explicitly attached to genotypes and evolve alongside them. We analyze the propagation of memes in MMAs with a spatial structure. For this purpose we propose an idealized selecto-Lamarckian model that only features selection and local improvement, and study under which conditions good, high-potential memes can proliferate. We compare population models with panmictic and toroidal grid topologies. We show that the increased takeover time induced by the latter is essential for improving the chances for good memes to express themselves in the population by improving their hosts, hence enhancing their survival rates. Experiments realized with an actual MMA on three different complex pseudo-Boolean functions are consistent with these findings, indicating that memes are more successful in a spatially structured MMA, rather than in a panmictic MMA, and that the performance of the former is significantly better than that of its panmictic counterpart.
+memetic algorithms, spatial structure, meme propagation</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2015-0037">10.1515/amcs-2015-0037</a>

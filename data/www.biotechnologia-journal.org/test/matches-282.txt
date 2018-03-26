@@ -1,0 +1,18 @@
+﻿3/2012
+3
+CORRECTED-VERSION-Identification-and-characterization-of-genes-connected-r-nwith-flower-morphogenesis-in-cucumber,85,23914,0
+abstract:
+CORRECTED VERSION<br>Identification and characterization of genes connected with flower morphogenesis in cucumber
+h3>Magdalena Pawełkowicz, Paweł Osipowski, Michał Wojcieszek, Rafał Wóycicki, Justyna Witkowicz, Dirk Hincha, Zbigniew Przybecki</h3><div>BioTechnologia vol. 93(2) C pp. 123-134 C 2012
+2.46588">https://doi.org/10.5114/bta.2012.46588
+a>View full text</a
+23914
+Pawełkowicz M, Osipowski P, Wojcieszek M, et al. CORRECTED VERSION&lt;br&gt;Identification and characterization of genes connected with flower morphogenesis in cucumber. BioTechnologia. 2014;93(3):123-134. doi:10.5114/bta.2012.46588
+Pawełkowicz, M., Osipowski, P., Wojcieszek, M., Wóycicki, R., Witkowicz, J., &amp; Hincha, D. et al. (2014). CORRECTED VERSION&lt;br&gt;Identification and characterization of genes connected with flower morphogenesis in cucumber. BioTechnologia, 93(3), 123-134. https://doi.org/10.5114/bta.2012.46588
+Pawełkowicz, Magdalena, Paweł Osipowski, Michał Wojcieszek, Rafał Wóycicki, Justyna Witkowicz, Dirk Hincha, and Zbigniew Przybecki. 2014. "CORRECTED VERSION&lt;br&gt;Identification and characterization of genes connected with flower morphogenesis in cucumber". BioTechnologia 93 (3): 123-134. doi:10.5114/bta.2012.46588
+Pawełkowicz, M., Osipowski, P., Wojcieszek, M., Wóycicki, R., Witkowicz, J., Hincha, D., and Przybecki, Z. (2014). CORRECTED VERSION&lt;br&gt;Identification and characterization of genes connected with flower morphogenesis in cucumber. BioTechnologia, 93(3), pp.123-134. https://doi.org/10.5114/bta.2012.46588
+Pawełkowicz, Magdalena et al. "CORRECTED VERSION&lt;br&gt;Identification and characterization of genes connected with flower morphogenesis in cucumber." BioTechnologia, vol. 93, no. 3, 2014, pp. 123-134. doi:10.5114/bta.2012.46588
+Pawełkowicz M, Osipowski P, Wojcieszek M, Wóycicki R, Witkowicz J, Hincha D et al. CORRECTED VERSION&lt;br&gt;Identification and characterization of genes connected with flower morphogenesis in cucumber. BioTechnologia. 2014;93(3):123-134. doi:10.5114/bta.2012.46588
+/div><div>Sex determination and flower morphogenesis are very broad and complex processes controlled at many levels.<br><br>Four clones have been isolated from cucumber transcriptomes, mapped onto the cucumber genome and checked<br><br>if the corresponding genes expression differed between the vegetative and generative tissues (leaf, shoot apex,<br><br>and 1- to 2-mm flower buds) of monoecious and gynoecious cucumber lines. To determine the role, and characteristics<br><br>of identified genes in flower morphogenesis, as well as to understand the flower reproduction in cucumber,<br><br>comprehensive computational studies using upstream regulatory elements and protein motifs were performed.<br><br>A genome-wide overview of cucumber clones revealed that sequence of only one clone was mapped in the coding<br><br>site. The gene was described as<i>CsPSTK1</i>encoding serine/threonine kinase. The results allow us to conclude<br><br>that cucumber generative organs differ in responsiveness to plant hormones due to the distinct signal transductions<br><br>that are mediated by protein kinases in male and female organs of the floral buds and shoot apices. Protein<br><br>kinases may be an alternative way for hormonal signal transduction in flowers of the opposite sex, taking part in<br><br>the inhibition of unwanted generative organs that cause the development of a unisex flower.<
+null
+keywords:</div><h3><i>Cucumis sativus</i>, flower morphogenesis, sex determination, tissue specification, cucumber genome, protein serine/threonine kinase</h3

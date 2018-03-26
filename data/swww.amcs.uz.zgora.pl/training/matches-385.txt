@@ -1,0 +1,6 @@
+﻿1 - March 1993
+3 - 1993
+Defining a curriculum in computer architecture: A view on the activities of the JEP0449 Working Party on advanced computer architecture
+Antonio de Brito Ferrari
+This paper describes the rationale for the Advanced Computer Architecture course proposals of the JEP0449 TEMPUS project. The discussion on the consequences of the recent developments in processor architectures for the curriculum contents provides the background for the presentation of the Working Party proposals. These are described in some detail. Finally the integration of the new courses into the Computer Engineering curricula at Wroclaw and Zielona Gora is examined.
+-

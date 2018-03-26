@@ -1,0 +1,6 @@
+﻿3 - September 1998
+8 - 1998
+Generating a self-organizing fuzzy controller from human skill performance for multivariable systems
+Anna Lekova, D. Boyadjiev
+The paper presents a learning concept for creating of a self-organizing fuzzy controller for multi variable systems by explicit use of human skill performance during the control of a complex technological process. When such processes cannot be entirely controlled automatically, a natural way to achieve flexible and adaptive control is a combination of human resources and information technologies. The main idea is the decomposition of a multivariable control system into several subsystems with two inputs and multiple outputs. The number of sub-systems corresponds to the number of all orthogonal projections of an<em>N</em>-dimensional input vector in the two-dimensional plane. Thus the method for generating fuzzy if-then rules from numerical data in the two-dimensional plane which is already available, can be used. Fuzzy rules with variable fuzzy regions are generated automatically. An aggregation operator for calculating the connectivity degree of membership functions which connects the whole set of the generated fuzzy rules in all decomposed subsystems is found.
+-

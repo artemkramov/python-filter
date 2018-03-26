@@ -1,0 +1,6 @@
+﻿3 - September 2008
+18 - 2008
+Natural quantum operational semantics with predicates
+Marek Sawerwain, Roman Gielerak
+A general definition of a quantum predicate and quantum labelled transition systems for finite quantum computation systems is presented. The notion of a quantum predicate as a positive operator-valued measure is developed. The main results of this paper are a theorem about the existence of generalised predicates for quantum programs defined as completely positive maps and a theorem about the existence of a GSOS format for quantum labelled transition systems. The first theorem is a slight generalisation of D'Hondt and Panagaden's theorem about the quantum weakest precondition in terms of discrete support positive operator-valued measures.
+quantum computation, predicate notion for quantum programs, quantum labelled transition systems</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0031-x">10.2478/v10006-008-0031-x</a>

@@ -1,0 +1,6 @@
+﻿2 - June 2012
+22 - 2012
+Straight-lines modelling using planar information for monocular SLAM
+André M. Santana, Adelardo A.D. Medeiros
+This work proposes a SLAM<em>(Simultaneous Localization And Mapping)</em>solution based on an Extended Kalman Filter (EKF) in order to enable a robot to navigate along the environment using information from odometry and pre-existing lines on the floor. These lines are recognized by a Hough transform and are mapped into world measurements using a homography matrix. The prediction phase of the EKF is developed using an odometry model of the robot, and the updating makes use of the line parameters in Kalman equations without any intermediate stage for calculating the distance or the position. We show two experiments (indoor and outdoor) dealing with a real robot in order to validate the project.
+SLAM, Kalman filter, Hough transform, monocular vision</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0031-8">10.2478/v10006-012-0031-8</a>

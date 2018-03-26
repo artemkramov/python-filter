@@ -1,0 +1,6 @@
+﻿3 - September 1999
+9 - 1999
+Development of dynamic neural networks with application to observer-based fault detection and isolation
+Teodor Marcu, Letitia Mirea, Paul M. Frank
+The paper suggests a neural-network approach to the design of robust fault diagnosis systems. The main emphasis is placed upon the development of neural observer schemes. They are built based on dynamic neural networks, i.e. dynamic multi-layer perceptrons with mixed structure. The goal is to achieve an adequate approximation of process outputs for known classes of the process behaviour. The obtained symptoms are then classified by means of static artificial nets. Appropriate decision mechanisms are designed for each type of observer schemes. An application to a laboratory process is included. It refers to component and instrument fault detection and isolation in a three-tank system.
+fault diagnosis, dynamic neural networks, system identification, static neural classifiers, three-tank system

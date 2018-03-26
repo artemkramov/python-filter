@@ -1,0 +1,6 @@
+﻿2 - June 2001
+11 - 2001
+Admissible disturbance sets for discrete perturbed systems
+Jamal Bouyaghroumni, Abdelhaq El Jai, Mostafa Rachik
+<em>Please see the PDF file.</em>
+discrete systems, bilinear disturbance, admissibility index

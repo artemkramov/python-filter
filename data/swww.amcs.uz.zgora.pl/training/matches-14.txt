@@ -1,0 +1,6 @@
+﻿6 - December 2001
+11 - 2001
+The geometry of Darlington synthesis
+Patrick Dewilde
+<em>In memory of W. Cauer.</em><br>We revisit the classical problem of 'Darlington synthesis', or Darlington embedding. Although traditionally it is solved using analytic means, a more natural way to approach it is to use the geometric properties of a well-chosen Hankel map. The method yields surprising results. In the first place, it allows us to formulate necessary and sufficient conditions for the existence of the embedding in terms of systems properties of the transfer operation to be embedded. In addition, the approach allows us to extend the solution to situations where no analytical transform is available. The paper has a high review content, as all the results presented have been obtained during the last twenty years and have been published. However, we make a systematic attempt at formulating them in a geometric way, independent of an accidental parametrization. The benefit is clarity and generality.
+Darlington synthesis, Hankel operator, time-varying systems, contractive operators, coprime factorization

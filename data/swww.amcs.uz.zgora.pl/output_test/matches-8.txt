@@ -1,0 +1,3 @@
+Exact observability of diagonal systems with a one-dimensional output operator
+Birgit Jacob, Hans Zwart
+In this paper equivalent conditions for exact observability of diagonal systems with a one-dimensional output operator are given. One of these equivalent conditions is the conjecture of Russell and Weiss (1994). The other conditions are given in terms of the eigenvalues and the Fourier coefficients of the system data.

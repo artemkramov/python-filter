@@ -1,0 +1,6 @@
+﻿3 - September 2015
+25 - 2015
+An<em>H</em><sub>∞</sub>sliding mode observer for Takagi–Sugeno nonlinear systems with simultaneous actuator and sensor faults
+Ali Ben Brahim, Slim Dhahri, Fayçal Ben Hmida, Anis Sellami
+This paper considers the problem of robust reconstruction of simultaneous actuator and sensor faults for a class of uncertain Takagi–Sugeno nonlinear systems with unmeasurable premise variables. The proposed fault reconstruction and estimation design method with<em>H</em><sub>∞</sub>performance is used to reconstruct both actuator and sensor faults when the latter are transformed into pseudo-actuator faults by introducing a simple filter. The main contribution is to develop a sliding mode observer (SMO) with two discontinuous terms to solve the problem of simultaneous faults. Sufficient stability conditions in terms linear matrix inequalities are achieved to guarantee the stability of the state estimation error. The observer gains are obtained by solving a convex multiobjective optimization problem. Simulation examples are given to illustrate the performance of the proposed observer.
+fault reconstruction and estimation, simultaneous faults, H∞ sliding mode observer, uncertain Takagi–Sugeno systems, LMI optimization</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2015-0041">10.1515/amcs-2015-0041</a>

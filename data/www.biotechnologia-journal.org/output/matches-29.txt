@@ -1,0 +1,17 @@
+﻿3/2016
+7
+Suitability-of-high-throughput-DMS-probing-data-for-constraining-the-secondary-structure-prediction-of-small-RNAs,85,28334,0
+abstract:</div><div>RESEARCH PAPERS
+Suitability of high-throughput DMS-probing data for constraining the secondary structure prediction of small RNAs
+h3>Marianna Plucinska, Kamilla Bąkowska-Żywicka, Marek Żywicki</h3><div>vol. 97(3) C pp. 161-167 C 2016
+6.62353">https://doi.org/10.5114/bta.2016.62353
+a>View full text</a
+28334
+Plucinska M, Bąkowska-Żywicka K, Żywicki M. Suitability of high-throughput DMS-probing data for constraining the secondary structure prediction of small RNAs. BioTechnologia. 2016;97(3):161-167. doi:10.5114/bta.2016.62353
+Plucinska, M., Bąkowska-Żywicka, K., &amp; Żywicki, M. (2016). Suitability of high-throughput DMS-probing data for constraining the secondary structure prediction of small RNAs. BioTechnologia, 97(3), 161-167. https://doi.org/10.5114/bta.2016.62353
+Plucinska, Marianna, Kamilla Bąkowska-Żywicka, and Marek Żywicki. 2016. "Suitability of high-throughput DMS-probing data for constraining the secondary structure prediction of small RNAs". BioTechnologia 97 (3): 161-167. doi:10.5114/bta.2016.62353
+Plucinska, M., Bąkowska-Żywicka, K., and Żywicki, M. (2016). Suitability of high-throughput DMS-probing data for constraining the secondary structure prediction of small RNAs. BioTechnologia, 97(3), pp.161-167. https://doi.org/10.5114/bta.2016.62353
+Plucinska, Marianna et al. "Suitability of high-throughput DMS-probing data for constraining the secondary structure prediction of small RNAs." BioTechnologia, vol. 97, no. 3, 2016, pp. 161-167. doi:10.5114/bta.2016.62353
+/div><div>The secondary structure prediction has been of special interest of computational scientists for almost a quarter of a century. When the early methods suffered from lack of data, recent high-throughput sequencing techniques extended the traditional RNA footprinting methods to provide the data for whole-transcriptome studies of RNA secondary structures. Although the utility of such data has been well documented for secondary structure of large RNAs, like rRNA or SRP RNA, our interest focuses on small RNAs, which are more challenging in employment of high-throughput probing data. Here, we test the suitability of high-throughput DMS-probing data and positions of known tRNA modifications as constraints for secondary structure predictions of Saccharomyces cerevisiae tRNAs. Our results suggest that the employment of high-throughput DMS data only slightly increases the quality of predictions. In contrast, the incorporation of known positions of modified bases as knowledge-based constraints outperforms both, unconstrained and DMS-constrained predictions. This study provides an overview of the utility of different sources of constraints for a small RNA folding.<
+null
+keywords:</div><h3>RNA secondary structure, RNA secondary structure prediction, Mod-seq, DMS probing, RNA probing, RNA modifications, tRNA</h3

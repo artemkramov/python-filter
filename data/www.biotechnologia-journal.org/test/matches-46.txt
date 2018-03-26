@@ -1,0 +1,17 @@
+﻿3/2016
+7
+PCR-RAPD-based-estimation-of-hospital-wastewater-genotoxicity-on-Allium-cepa-,85,28338,0
+abstract:</div><div>RESEARCH PAPERS
+PCR-RAPD based estimation of hospital wastewater genotoxicity on<i>Allium cepa</i>
+h3>Aleksandra Ziembińska-Buczyńska, Marcin Szulc, Aleksandra Zgórska</h3><div>vol. 97(3) C pp. 195-201 C 2016
+6.62357">https://doi.org/10.5114/bta.2016.62357
+a>View full text</a
+28338
+Ziembińska-Buczyńska A, Szulc M, Zgórska A. PCR-RAPD based estimation of hospital wastewater genotoxicity on &lt;i&gt;Allium cepa&lt;/i&gt;. BioTechnologia. 2016;97(3):195-201. doi:10.5114/bta.2016.62357
+Ziembińska-Buczyńska, A., Szulc, M., &amp; Zgórska, A. (2016). PCR-RAPD based estimation of hospital wastewater genotoxicity on &lt;i&gt;Allium cepa&lt;/i&gt;. BioTechnologia, 97(3), 195-201. https://doi.org/10.5114/bta.2016.62357
+Ziembińska-Buczyńska, Aleksandra, Marcin Szulc, and Aleksandra Zgórska. 2016. "PCR-RAPD based estimation of hospital wastewater genotoxicity on &lt;i&gt;Allium cepa&lt;/i&gt;". BioTechnologia 97 (3): 195-201. doi:10.5114/bta.2016.62357
+Ziembińska-Buczyńska, A., Szulc, M., and Zgórska, A. (2016). PCR-RAPD based estimation of hospital wastewater genotoxicity on &lt;i&gt;Allium cepa&lt;/i&gt;. BioTechnologia, 97(3), pp.195-201. https://doi.org/10.5114/bta.2016.62357
+Ziembińska-Buczyńska, Aleksandra et al. "PCR-RAPD based estimation of hospital wastewater genotoxicity on &lt;i&gt;Allium cepa&lt;/i&gt;." BioTechnologia, vol. 97, no. 3, 2016, pp. 195-201. doi:10.5114/bta.2016.62357
+/div><div>The Chief Sanitary Inspectorate Reports in Poland showed that more than 60% of the hospital wastewater is discharged directly into the sewage system and directed further to municipal wastewater treatment plants. Moreover, 26% of the hospital wastewater is discharged directly into the receivers without any treatment processes and 20% of the hospitals do not disinfect the wastewater that requires sanitization. Such situation can occur not only in Poland. Thus, an estimation of raw wastewater genotoxic impact on environment is understandable, justified, and necessary. Genotoxicity tests performed on plants are becoming more and more popular because they are cheap and easy in the usage compared to other tests based on e.g., cell cultures. DNA isolated from the root meristem cells of onion (<i>Allium cepa</i>) exposed to the increasing concentrations of hospital wastewater were tested using PCR-RAPD. The results obtained in this study confirmed the genotoxic effect of raw hospital wastewater on genetic material, which at concentrations between 75% and 100% caused the genotoxic effect less visible than for wastewater in concentrations up to 75%.<
+null
+keywords:</div><h3><i>Allium cepa</i>, hospital wastewater, genotoxicity, PCR-RAPD</h3

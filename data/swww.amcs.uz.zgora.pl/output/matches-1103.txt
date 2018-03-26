@@ -1,0 +1,6 @@
+﻿2 - June 2006
+16 - 2006
+Servo tracking of targets at sea
+Anis Ahmed, Mieczysław A. Brdyś
+This paper details a proposal for the position control system of a two-axis ship-mounted tracker. Aspects of the non-linear dynamics governing Line-Of-Sight (LOS) errors between the tracker and the target are presented. It is shown that the regulation of LOS errors can be achieved by introducing a feed-forward term based on the target's velocity. This velocity is not measurable, and an estimator is required. Given that the tracking problem is non-linear, the classical separation principle does not hold, and cascading the estimator and regulator together may not lead to an optimal position control system. The 'LQAdaptive' system proposed here aims therefore to improve conformity to the separation principle. Simulation trials show that tracking is improved under the LQAdaptive system in comparison to a simple estimator-regulator structure.
+target tracking, tracker, Kalman Filter, adaptive control

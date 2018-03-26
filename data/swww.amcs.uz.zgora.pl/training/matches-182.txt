@@ -1,0 +1,6 @@
+﻿1 - March 1997
+7 - 1997
+Fast-learning neuro-fuzzy PID-controller with minimal number of fuzzy regions
+Andrzej Piegat, Marcin Pluciński
+Some problems connected with learning neuro-fuzzy controllers are presented and then the concept of a neuro-fuzzy PID-controller with a minimal number of fuzzy regions is discussed. The controller has soft performance, which distinguishes it from classical fuzzy controllers. It is characterized by short training time and genetic search algorithms are not required. The advantages mentioned above were achieved owing to the application of linear AND and OR operators. Learning results of the controller in a system with reference model are presented in the final part of the paper.
+-

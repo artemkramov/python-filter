@@ -1,0 +1,4 @@
+2-2015,3235">2/2015 vol. 16
+Application of GPR method in diagnostics of reinforced concrete structures
+81455-16939?filename=Application of GPR method
+This paper presents an application of the ground penetration method (GPR) for diagnostics of reinforced concrete structures. In situ measur ements were conducted for three civil engineering structures: the ground floor structure, the abutment of the railway viaduct and the concrete well. The dual polarized ground penetrating radar with the antenna operating at a center frequency of 2 GHz was used for GPR surveys. Three different methodologies of measurements were analyzed. The results showed that the GPR method enables quick and efficient diagnostics of concrete structures. Based on GPR results it is possible to identify the distribution and amount of reinforcement, as well as the thickness of the concrete layer.

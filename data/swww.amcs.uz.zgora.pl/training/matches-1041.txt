@@ -1,0 +1,6 @@
+﻿1 - March 2007
+17 - 2007
+Application of bearing and distance trees to the identification of landmarks on the coast
+Tomasz Praczyk
+The problem of continuous position availability is one of the most important issues connected with the human activity at sea. Because the availability of satellite navigational systems can be limited in some cases, e.g. during military operations, one has to consider additional methods of acquiring information about the ship's position. In this paper one of these methods is presented, which is based on exploiting landmarks located on a coastline. A navigational radar is used to obtain information about these points. In order to estimate the ship's position by means of a set of landmarks, it is necessary to know their accurate locations. The paper presents a landmark identification method based on the comparison of bearing and distance trees representing pattern points generated from a chart, as well as points extracted from a radar image.
+ship's positioning, landmark identification, bearing and distance tree</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0008-1">10.2478/v10006-007-0008-1</a>

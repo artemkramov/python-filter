@@ -1,0 +1,6 @@
+﻿2 - June 1995
+5 - 1995
+Normal forms of kinematic singularities of 3R robot manipulators
+Krzysztof Tchoń
+Using the singularity theory approach we study kinematic singularities of 3R robot manipulators satisfying certain geometric conditions. A classification of singular configurations is set forth and three mathematical models (normal forms) of the kinematics around singular configurations are derived.
+-

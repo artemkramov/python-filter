@@ -1,0 +1,6 @@
+﻿4 - December 2008
+18 - 2008
+Random projection RBF nets for multidimensional density estimation
+Ewa Skubalska-Rafajłowicz
+The dimensionality and the amount of data that need to be processed when intensive data streams are observed grow rapidly together with the development of sensors arrays, CCD and CMOS cameras and other devices. The aim of this paper is to propose an approach to dimensionality reduction as a first stage of training RBF nets. As a vehicle for presenting the ideas, the problem of estimating multivariate probability densities is chosen. The linear projection method is briefly surveyed. Using random projections as the first (additional) layer, we are able to reduce the dimensionality of input data. Bounds on the accuracy of RBF nets equipped with a random projection layer in comparison to RBF nets without dimensionality reduction are established. Finally, the results of simulations concerning multidimensional density estimation are briefly reported.
+radial basis functions, multivariate density estimation, dimension reduction, normal random projection, novelty detection</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0040-9">10.2478/v10006-008-0040-9</a>

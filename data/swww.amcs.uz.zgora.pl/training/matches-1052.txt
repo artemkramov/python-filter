@@ -1,0 +1,6 @@
+﻿2 - June 2007
+17 - 2007
+Generalized kernel regression estimate for the identification of Hammerstein systems
+Grzegorz Mzyk
+A modified version of the classical kernel nonparametric identification algorithm for nonlinearity recovering in a Hammerstein system under the existence of random noise is proposed. The assumptions imposed on the unknown characteristic are weak. The generalized kernel method proposed in the paper provides more accurate results in comparison with the classical kernel nonparametric estimate, regardless of the number of measurements. The convergence in probability of the proposed estimate to the unknown characteristic is proved and the question of the convergence rate is discussed. Illustrative simulation examples are included.
+Hammerstein system, nonparametric regression, kernel estimation</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0018-z">10.2478/v10006-007-0018-z</a>

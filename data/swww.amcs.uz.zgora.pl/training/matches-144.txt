@@ -1,0 +1,6 @@
+﻿2 - June 1998
+8 - 1998
+Non-singleton fuzzy models
+Danuta Rutkowska
+This paper presents an approach to design non-singleton fuzzy-logic systems. The relation between non-singleton and singleton fuzzy-logic systems is derived. Simulation results illustrate the effect of uncertainty of the input variables on the truck trajectories in the truck backer-upper control problem.
+-

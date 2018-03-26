@@ -1,0 +1,6 @@
+﻿1 - March 2000
+10 - 2000
+Solvability and asymptotic behavior of a population problem taking into account random mating and females' pregnancy
+Vladas Skakauskas
+Two deterministic age-sex-structured population dynamics models are discussed taking into account random mating of sexes (without formation of permanent male-female couples), possible destruction of the fetus (abortion), and female's pregnancy. One of them deals with both random and directed diffusion in the whole space while in the other the population is assumed to be nondispersing. The population consists of three components: one male and two female, the latter two being the single (nonfertilized) female and the fertilized one. The case of a separable solution of the limited nondispersing population (in which death moduli can be decomposed into the sum of two terms where one of them depends on time and age and the other is a function of time and the population size) is analyzed. The existence of a unique solution of the Cauchy problem for the nondispersing population model is proved and its longtime behavior is demonstrated. An analogous situation for the dispersing population is analyzed, too.
+population dynamics, random mating, gestation of females, migration

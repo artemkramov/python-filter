@@ -1,0 +1,3 @@
+Sensors and boundary state reconstruction of hyperbolic systems
+El Hassan Zerrik, Hamid Bourray, Samir Ben Hadid
+This paper deals with the problem of regional observability of hyperbolic systems in the case where the subregion of interest is a boundary part of the system evolution domain. We give a definition and establish characterizations in connection with the sensor structure. Then we show that it is possible to reconstruct the system state on a subregion of the boundary. The developed approach, based on the Hilbert uniqueness method (Lions, 1988), leads to a reconstruction algorithm. The obtained results are illustrated with numerical examples and simulations.

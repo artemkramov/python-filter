@@ -1,0 +1,6 @@
+﻿4 - December 2015
+25 - 2015
+High dynamic range imaging by perceptual logarithmic exposure merging
+Corneliu Florea, Constantin Vertan, Laura Florea
+In this paper we emphasize a similarity between the logarithmic type image processing (LTIP) model and the Naka–Rushton model of the human visual system (HVS). LTIP is a derivation of logarithmic image processing (LIP), which further replaces the logarithmic function with a ratio of polynomial functions. Based on this similarity, we show that it is possible to present a unifying framework for the high dynamic range (HDR) imaging problem, namely, that performing exposure merging under the LTIP model is equivalent to standard irradiance map fusion. The resulting HDR algorithm is shown to provide high quality in both subjective and objective evaluations.
+logarithmic image processing, human visual system, high dynamic range</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2015-0067">10.1515/amcs-2015-0067</a>

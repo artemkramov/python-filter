@@ -1,0 +1,6 @@
+﻿4 - December 1999
+9 - 1999
+Quasi-sliding mode control of discrete-time systems
+Andrzej Bartoszewicz
+A reaching law approach to the design of discrete-time quasi-sliding mode control systems is considered. First the required position of the system representative point with reference to the sliding plane is specified, and then novel control strategies, which drive the system in such a way that the position actually changes according to the specification, are proposed. The strategies are linear and consequently the undesirable chattering and high-frequency switching between different values of the control signal are avoided. Furthermore, the state of the controlled system is driven to the narrowest possible band around the sliding plane. The strategies, when compared with previously published results, are simpler and they guarantee favourable performance of the controlled systems while using essentially reduced control effort.
+sliding-mode control, discrete-time systems

@@ -1,3 +1,4 @@
 ﻿Fixed Point Theorems for Mappings
 Some fixed point theorems for two metric spaces was proved by B.Fisher[1]. Here we also prove fixed point theorems for two pair of mappings in which one of them is coninuous, on two metric space.
 Vishal Gupta and Richa Sharma
+fixed-point-theorems-for-mappings.pdf" title="Fixed Point Theorems for Mappings

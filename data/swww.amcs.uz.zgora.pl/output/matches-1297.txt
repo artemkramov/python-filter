@@ -1,0 +1,6 @@
+﻿4 - December 2003
+13 - 2003
+The spectral test of the Boolean function linearity
+Piotr Porwik
+The paper discusses the problem of recognizing the Boolean function linearity. A spectral method of the analysis of Boolean functions using the Walsh transform is described. Linearity and nonlinearity play important roles in the design of digital circuits. The analysis of the distribution of spectral coefficients allows us to determine various combinatorial properties of Boolean functions, such as redundancy, monotonicity, self-duality, correcting capability, etc., which seems more difficult be performed by means of other methods. In particular, the basic synthesis method described in the paper allows us to compute the spectral coefficients in an iterative manner. The method can be easily used in investigations of large Boolean functions (of many variables), which seems very attractive for modern digital technologies. Experimental results demonstrate the efficiency of the approach.
+Walsh coefficients, coefficients distribution, Boolean functions, bent functions, linearity measure of a Boolean

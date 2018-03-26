@@ -1,0 +1,15 @@
+﻿Simply-and-low-coast-electromyography-signal-amplifier,79742
+4-2017,2755">4/2017 vol. 18
+Calibration-and-evaluation-of-accelerometers-based-on-multisinusoidal-excitation,78347,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/Measurement-of-contact-pressure-distributions-between-surfaces-by-thermoelasticic,79766,0,2.html" title="PREVIOUS
+Simply and low coast electromyography signal amplifier
+Robert-Barański/69982">Robert Barański
+null
+</sup>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Anna-Grzeczka/72099">Anna Grzeczka</a></span><sup>2
+annagrzeczka@gmail.com
+AGH University of Science and Technology, Faculty of Mechanical Engineering and Robotics Adama Mickiewicza 30, 30-059 Kraków, Poland</span></div></td></tr><tr><td>2</td><td><div><span>Gdańsk University of Technology, Faculty of Mechanical Engineering
+Publish date: 2017-11-08</div><div>Submission date: 2017-10-08</div><div>Final revision date: 2017-11-03</div><div>Acceptance date: 2017-11-03
+7;18(4):69–77
+79742-17623?filename=Simply and low coast
+EMG+amplifier/136161">EMG amplifier<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-Electromyography+amplifier/136162">Electromyography amplifier
+bioelectric+amplifier/136163">bioelectric amplifier</a><div>&nbsp;</div></div><div>TOPICS:</div><div><a href="http://www.diagnostyka.net.pl/Topic-Diagnostic+systems/3943">Diagnostic systems<div></div></a><a href="http://www.diagnostyka.net.pl/Topic-Signal+analysis/3949">Signal analysis
+Recently, there has been a noticeable increase in interest in solutions utilizing electrical signals accompanying muscle activity. Electromyography (EMG) is a technique for recording, analysis and evaluating the electrical activity produced by striated muscle. Its great popularity is due, among other, to the ability to measure with non-invasive electrodes (called as sEMG surface electromyography). However, the limitations of this method are the high costs of specialized measuring equipment, and in particular the systems of bioelectric signal preamplifier circuits. The work presents the design of a low budget EMG signal amplifier. It has been designed and validated in accordance with ISEK (International Society of Electrophysiology and Kinesiology) and SENIAM (Surface ElectroMyGraphy for Non-Invasive Assessment of Muscles).</div><div>CORRESPONDING AUTHOR:</div><a href="http://www.diagnostyka.net.pl/Author-Anna-Grzeczka/72099">Anna Grzeczka</a>&nbsp;&nbsp;<a href="mailto:annagrzeczka@gmail.com"><div></div></a><div>Gdańsk University of Technology, Faculty of Mechanical Engineering, Narutowicza 11/12, 80-233 Gdańsk, Polska

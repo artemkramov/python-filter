@@ -1,0 +1,6 @@
+﻿1 - December 1991
+1 - 1991
+A flexible approach to transaction management in distributed, multimedia systems
+M. Beatriz F. de Toledo, Gordon S. Blair
+This paper discusses the potential impact of multimedia on one classic distributed systems problem – the provision of transaction mechanisms to support fault tolerance and concurrency control. Several features of distributed multimedia sytems are highlighted: the real-time requirements of continuous media types, the cooperative styles of working and the engineering requirements across the range of media types. It is argued that, given these demands, multimedia will require a more flexible approach to transaction management. A framework for flexible transaction management is described. This framework is based on the ANSA architecture and allows applications to specify particular policies for concurrency control, recovery and real-time behaviour.
+-

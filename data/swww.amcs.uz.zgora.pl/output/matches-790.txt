@@ -1,0 +1,6 @@
+﻿1 - March 2011
+21 - 2011
+Stability of impulsive Hopfield neural networks with Markovian switching and time-varying delays
+Ramachandran Raja, Rathinasamy Sakthivel, Selvaraj Marshal Anthoni, Hyunsoo Kim
+The paper is concerned with stability analysis for a class of impulsive Hopfield neural networks with Markovian jumping parameters and time-varying delays. The jumping parameters considered here are generated from a continuous-time discrete-state homogenous Markov process. By employing a Lyapunov functional approach, new delay-dependent stochastic stability criteria are obtained in terms of linear matrix inequalities (LMIs). The proposed criteria can be easily checked by using some standard numerical packages such as the Matlab LMI Toolbox. A numerical example is provided to show that the proposed results significantly improve the allowable upper bounds of delays over some results existing in the literature.
+Hopfield neural networks, Markovian jumping, stochastic stability, Lyapunov function, impulses</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-011-0009-y">10.2478/v10006-011-0009-y</a>

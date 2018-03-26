@@ -1,0 +1,17 @@
+﻿2/2017
+8
+In-vitro-shoot-proliferation-of-Passiflora-caerulea-L-via-cotyledonary-node-and-shoot-tip-explants,85,30108,0
+abstract:</div><div>RESEARCH PAPERS
+In vitro shoot proliferation of<i>Passiflora caerulea</i>L. via cotyledonary node and shoot tip explants
+h3>Marziyeh Jafari, Mohammad Hosein Daneshvar, Amin Lotfi</h3><div>BioTechnologia vol. 98(2) pp. 113-119 2017
+7.68310">https://doi.org/10.5114/bta.2017.68310
+a>View full text</a
+30108
+Jafari M, Daneshvar M, Lotfi A. In vitro shoot proliferation of &lt;i&gt;Passiflora caerulea &lt;/i&gt;L. via cotyledonary node and shoot tip explants. BioTechnologia. 2017;98(2):113-119. doi:10.5114/bta.2017.68310
+Jafari, M., Daneshvar, M., &amp; Lotfi, A. (2017). In vitro shoot proliferation of &lt;i&gt;Passiflora caerulea &lt;/i&gt;L. via cotyledonary node and shoot tip explants. BioTechnologia, 98(2), 113-119. https://doi.org/10.5114/bta.2017.68310
+Jafari, Marziyeh, Mohammad Hosein Daneshvar, and Amin Lotfi. 2017. "In vitro shoot proliferation of &lt;i&gt;Passiflora caerulea &lt;/i&gt;L. via cotyledonary node and shoot tip explants". BioTechnologia 98 (2): 113-119. doi:10.5114/bta.2017.68310
+Jafari, M., Daneshvar, M., and Lotfi, A. (2017). In vitro shoot proliferation of &lt;i&gt;Passiflora caerulea &lt;/i&gt;L. via cotyledonary node and shoot tip explants. BioTechnologia, 98(2), pp.113-119. https://doi.org/10.5114/bta.2017.68310
+Jafari, Marziyeh et al. "In vitro shoot proliferation of &lt;i&gt;Passiflora caerulea &lt;/i&gt;L. via cotyledonary node and shoot tip explants." BioTechnologia, vol. 98, no. 2, 2017, pp. 113-119. doi:10.5114/bta.2017.68310
+/div><div><i>Passiflora caerulea</i>L. is a herbaceous climber that belongs to the Passifloraceae family. One of the most important techniques used in plant biotechnology is tissue culture, which allows for the mass production of pathogenfree plants. Cotyledonary nodes have a great potential for shoot proliferation; however, to the best of our knowledge there are no reports regarding plant regeneration from cotyledonary nodes of P. caerulea. Therefore, this study aimed to evaluate the potential of two different types of explants (shoot tips and cotyledonary nodes) to obtain shoot multiplication of P. caerulea. Various concentrations of 6-benzylaminopurine (BAP) (0.5, 1, and 1.5 mg/l), 6-furfurylaminopurine (kinetin, KIN) (1 and 2 mg/l), and thidiazuron (TDZ) (0.25, 0.5, and 1 mg/l) in combination with indole butyric acid (IBA) were used in a completely randomized design, in three replications. The results showed that the highest percentage of regeneration frequency (90%) and a maximum number of shoots (8.86) in cotyledonary node explants were obtained on MS medium supplemented with 1.5 mg/l BAP along with 0.15 mg/l IBA. Furthermore, in the shoot tip explants, the percentage of regeneration rate (96.66%) and the highest number of shoots (9.86) were obtained in the above-mentioned medium. In rooting experiments, the maximum rooting percentage (90%) was obtained on MS medium containing 1 mg/l IBA. In vitro-raised plantlets were placed in pots and were stored in soil under room temperature for 20 to 30 days before planting, and it showed more than 90% survival rate. Based on our results, the protocol described in this study has a high potential to be used in the micropropagation of this valuable plant.<
+null
+keywords:</div><h3>acclimatization,<i>Passiflora caerulea</i>, plant growth regulator, regeneration, rooting</h3

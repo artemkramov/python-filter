@@ -1,0 +1,6 @@
+﻿4 - December 1997
+7 - 1997
+A formal approach to discrete systems theory
+Jiří Gregor
+Based on earlier results, an abstract multi-dimensional discrete systems theory is formulated here for further discussion. We believe that a more general framework including variable-parameter systems and nonlinear systems together with some discrete systems which cannot be treated on a common rectangular grid, may widen the scope of possible applications of n-D discrete systems theory. Some general results are summarized and examples are given.
+-

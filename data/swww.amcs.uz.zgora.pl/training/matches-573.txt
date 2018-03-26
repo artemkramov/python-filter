@@ -1,0 +1,6 @@
+﻿2 - June 2014
+24 - 2014
+Minimum energy control of fractional positive continuous-time linear systems with bounded inputs
+Tadeusz Kaczorek
+A minimum energy control problem for fractional positive continuous-time linear systems with bounded inputs is formulated and solved. Sufficient conditions for the existence of a solution to the problem are established. A procedure for solving the problem is proposed and illustrated with a numerical example.
+fractional systems, positive systems, minimum energy control, bounded inputs</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0025">10.2478/amcs-2014-0025</a>

@@ -1,0 +1,6 @@
+﻿3 - September 2008
+18 - 2008
+Address sequences and backgrounds with different Hamming distances for multiple run March tests
+Svetlana Yarmolik
+It is widely known that pattern sensitive faults are the most difficult faults to detect during the RAM testing process. One of the techniques which can be used for effective detection of this kind of faults is the multi-background test technique. According to this technique, multiple-run memory test execution is done. In this case, to achieve a high fault coverage, the structure of the consecutive memory backgrounds and the address sequence are very important. This paper defines requirements which have to be taken into account in the background and address sequence selection process. A set of backgrounds which satisfied those requirements guarantee us to achieve a very high fault coverage for multi-background memory testing.
+random-access memory (RAM), memory testing, March memory test, neighbourhood pattern sensitive faults, memory address, memory background, Gray code, Hamming distance</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0030-y">10.2478/v10006-008-0030-y</a>

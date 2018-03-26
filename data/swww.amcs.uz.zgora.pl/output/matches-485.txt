@@ -1,0 +1,6 @@
+﻿2 - June 2015
+25 - 2015
+Controllability of nonlinear stochastic systems with multiple time-varying delays in control
+Shanmugasundaram Karthikeyan, Krishnan Balachandran, Murugesan Sathya
+This paper is concerned with the problem of controllability of semi-linear stochastic systems with time varying multiple delays in control in finite dimensional spaces. Sufficient conditions are established for the relative controllability of semilinear stochastic systems by using the Banach fixed point theorem. A numerical example is given to illustrate the application of the theoretical results. Some important comments are also presented on existing results for the stochastic controllability of fractional dynamical systems.
+relative controllability, stochastic control system, multiple delays in control, Banach fixed point theorem</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2015-0015">10.1515/amcs-2015-0015</a>

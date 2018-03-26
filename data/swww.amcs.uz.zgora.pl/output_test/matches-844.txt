@@ -1,0 +1,3 @@
+Feedback design of differential equations of reconstruction for second-order distributed parameter systems
+Vyacheslav I. Maksimov, Boris S. Mordukhovich
+The paper aims at studying a class of second-order partial differential equations subject to uncertainty involving unknown inputs for which no probabilistic information is available. Developing an approach of feedback control with a model, we derive an efficient reconstruction procedure and thereby design differential equations of reconstruction. A characteristic feature of the obtained equations is that their inputs formed by the feedback control principle constructively approximate unknown inputs of the given second-order distributed parameter system.

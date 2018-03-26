@@ -1,0 +1,6 @@
+﻿5 - December 2001
+11 - 2001
+Efficient numerical algorithms for balanced stochastic truncation
+Peter Benner, Enrique S. Quintana-Ortí­, Gregorio Quintana-Ortí
+We propose an efficient numerical algorithm for relative error model reduction based on balanced stochastic truncation. The method uses full-rank factors of the Gramians to be balanced versus each other and exploits the fact that for large-scale systems these Gramians are often of low numerical rank. We use the easy-to-parallelize sign function method as the major computational tool in determining these full-rank factors and demonstrate the numerical performance of the suggested implementation of balanced stochastic truncation model reduction.
+model reduction, stochastic realization, balanced truncation, sign function method, Newton's method

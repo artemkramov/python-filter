@@ -1,0 +1,6 @@
+﻿1 - March 2000
+10 - 2000
+Global asymptotic convergence results for multitype models
+Linda Rass, John Radcliffe
+This paper proves global asymptotic convergence in a multitype epidemic model which encompasses both the<em>S → I</em>and<em>S → I → S</em>epidemics. Systems are considered where the infection matrix may be reducible, and for which the system may be closed or can be open with a stable population size. New global asymptotic convergence results are obtained.
+global asymptotic convergence, multitype<em>S → I → S</em>epidemics, stable population size, reducible systems

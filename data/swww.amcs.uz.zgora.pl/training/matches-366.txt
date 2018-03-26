@@ -1,0 +1,6 @@
+﻿4 - December 1994
+4 - 1994
+Formal description technique to support load modelling for innovative communication systems
+Jan Magott, Bernd Wolfinger
+In order to evaluate the performance of computer and communication systems under realistic boundary conditions, adequate load models are urgently required. It is desirable to derive those models directly from load measurements. In this paper, Petri net based' models for users of innovative communication systems are presented. First, a survey of basic requirements to a formal load description technique is given. A starting point of our technique is an elementary user modeled by a Petri net being an automaton with time factor. Then basic compositions of elementary users such as sequential, alternative, and iterative compositions are introduced. Finally, the parallel compositions of elementary users are considered. In order to define the parallel composition of many users with similar behaviour, equivalence relations between users are defined.
+-

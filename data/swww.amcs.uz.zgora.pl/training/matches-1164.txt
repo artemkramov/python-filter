@@ -1,0 +1,6 @@
+﻿3 - September 2005
+15 - 2005
+An observability problem for a class of uncertain-parameter linear dynamic systems
+Krzysztof Oprzędkiewicz
+An observability problem for a class of linear, uncertain-parameter, time-invariant dynamic SISO systems is discussed. The class of systems under consideration is described by a finite dimensional state-space equation with an interval diagonal state matrix, known control and output matrices and a two-dimensional uncertain parameter space. For the system considered a simple geometric interpretation of the system spectrum can be given. The geometric interpretation of the system spectrum is the base for defining observability and non-observability areas for the discussed system. The duality principle allows us to test observablity using controllability criteria. For the uncertain-parameter system considered, some controllability criteria presented in the author's previous papers are used. The results are illustrated with numerical examples.
+linear uncertain-parameter dynamic systems, observability

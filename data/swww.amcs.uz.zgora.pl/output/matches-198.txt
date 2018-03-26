@@ -1,0 +1,6 @@
+﻿3 - September 1997
+7 - 1997
+Boundary stabilization of coupled wave equations
+Mahmoud Najafi, Reza Sarhangi
+The qualitative behavior of the coupled wave equations in bounded domains are addressed. Here it has been shown that uniform exponential stability can be achieved provided both equations are exposed to velocity feedback controllers. However, if one of the controllers is removed from one equation and placed in another one, only strong stability can be guaranteed. Numerical computations are presented to match the theoretical results.
+-

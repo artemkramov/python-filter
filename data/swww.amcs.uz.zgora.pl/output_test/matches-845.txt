@@ -1,0 +1,3 @@
+Knowledge discovery in data using formal concept analysis and random projections
+Cherukuri Aswani Kumar
+In this paper our objective is to propose a random projections based formal concept analysis for knowledge discovery in data. We demonstrate the implementation of the proposed method on two real world healthcare datasets. Formal Concept Analysis (FCA) is a mathematical framework that offers a conceptual knowledge representation through hierarchical conceptual structures called concept lattices. However, during the design of a concept lattice, complexity plays a major role.

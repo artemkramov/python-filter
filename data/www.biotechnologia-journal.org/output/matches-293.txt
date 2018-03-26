@@ -1,0 +1,17 @@
+﻿2/2012
+3
+RESEARCH-PAPER-Broadening-the-variability-of-quality-traits-in-rapeseed-r-nthrough-interspecific-hybridization-r-nwith-an-application-of-immature-embryo-culture,85,23901,0
+abstract:
+RESEARCH PAPER<br>Broadening the variability of quality traits in rapeseed through interspecific hybridization with an application of immature embryo culture
+h3>Janetta Niemann, Andrzej Wojciechowski, Jowita Janowicz</h3><div>BioTechnologia vol. 93(2) C pp. 109-115 C 2012
+2.46575">https://doi.org/10.5114/bta.2012.46575
+a>View full text</a
+23901
+Niemann J, Wojciechowski A, Janowicz J. RESEARCH PAPER&lt;br&gt;Broadening the variability of quality traits in rapeseed through interspecific hybridization with an application of immature embryo culture. BioTechnologia. 2014;93(2):109-115. doi:10.5114/bta.2012.46575
+Niemann, J., Wojciechowski, A., &amp; Janowicz, J. (2014). RESEARCH PAPER&lt;br&gt;Broadening the variability of quality traits in rapeseed through interspecific hybridization with an application of immature embryo culture. BioTechnologia, 93(2), 109-115. https://doi.org/10.5114/bta.2012.46575
+Niemann, Janetta, Andrzej Wojciechowski, and Jowita Janowicz. 2014. "RESEARCH PAPER&lt;br&gt;Broadening the variability of quality traits in rapeseed through interspecific hybridization with an application of immature embryo culture". BioTechnologia 93 (2): 109-115. doi:10.5114/bta.2012.46575
+Niemann, J., Wojciechowski, A., and Janowicz, J. (2014). RESEARCH PAPER&lt;br&gt;Broadening the variability of quality traits in rapeseed through interspecific hybridization with an application of immature embryo culture. BioTechnologia, 93(2), pp.109-115. https://doi.org/10.5114/bta.2012.46575
+Niemann, Janetta et al. "RESEARCH PAPER&lt;br&gt;Broadening the variability of quality traits in rapeseed through interspecific hybridization with an application of immature embryo culture." BioTechnologia, vol. 93, no. 2, 2014, pp. 109-115. doi:10.5114/bta.2012.46575
+/div><div>Interspecific hybridization is an important tool to transfer characters across species and develop synthetic amphidiploids,<br><br>and therefore it has been widely applied for improving Brassica spp. The aim of our study was to determine<br><br>whether the interspecific crosses can help increase the range of variability of traits connected with<br><br>the higher value of rapeseed. An attempt was also made to investigate the environmental influence on the studied<br><br>traits. For this reason, in our experiments, crosses between male sterile line of F8 generation and<i>B. campestris</i><br><br>ssp. sarson, Yellow sarson;<i>B. campestris</i>ssp. pekinensis;<i>B. carinata</i>and<i>B. juncea</i>were first attempted. Thereafter,<br><br>hybrid seeds of 96 lines obtained by crossing Brassica napus male sterile line MS8 with three other Brassica<br><br>species were tested for fiber and glucosinolates content using near-infrared reflectance spectroscopy (NIRS).<br><br>Moreover, chromatography and spectrophotometric measurements of sinapine and tocopherols contents in those<br><br>seeds were made. On the basis of the obtained results, it was found that all tested hybrid lines showed a great<br><br>increase of variability for the studied quality traits when compared to the parental forms. As a result of our<br><br>analyses, reduced glucosinolates hybrid lines were selected.<
+null
+keywords:</div><h3>interspecific hybridization, quality traits, infrared reflectance spectroscopy (NIRS), glucosinolates, sinapine, fiber</h3

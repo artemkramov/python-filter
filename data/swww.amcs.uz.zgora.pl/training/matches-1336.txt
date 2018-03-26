@@ -1,0 +1,6 @@
+﻿3 - September 2002
+12 - 2002
+Upper and lower set formulas: Restriction and modification of the Dempster-Pawlak formalism
+Ismail Burhan Türkşen
+A modification of Dempster's and Pawlak's constructs forms a new foundation for the identification of upper and lower sets formulas. Also, in this modified Dempster-Pawlak construct we require that subsets of the power set be restricted to the well-known information granules of the power set. An aggregation of upper information granules amongst each other and lower information granules amongst each other determine upper and lower set formulas for both crisp and fuzzy sets. The results are equivalent to the Truth Table derivation of FDCF and FCCF, Fuzzy Disjunctive Canonical Forms and Fuzzy Conjunctive Canonical Forms, respectively. Furthermore, they collapse to DNF ≡ CNF, i.e., the equivalence of Disjunctive Normal Forms and Conjunctive Normal Forms, in the combination of concepts once the LEM, LC and absorption, idempotency and distributivity axioms are admitted into the framework. Finally, a proof of the containment is obtained between FDCF and FCCF for the particular class of strict and nilpotent Archimedian<em>t</em>-norms and<em>t</em>-conorms.
+upper and lower set formulas, information granules, Dempster-Pawlak modification, fuzzy canonical formulas

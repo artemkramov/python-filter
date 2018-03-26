@@ -1,0 +1,6 @@
+﻿2 - June 2004
+14 - 2004
+Input reconstruction by means of system inversion: A geometric approach to fault detection and isolation in nonlinear systems
+András Edelmayer, József Bokor, Zoltán Szabó, Ferenc Szigeti
+In this paper the classical detection filter design problem is considered as an input reconstruction problem. Input reconstruction is viewed as a dynamic inversion problem. This approach is based on the existence of the left inverse and arrives at detector architectures whose outputs are the fault signals while the inputs are the measured system inputs and outputs and possibly their time derivatives. The paper gives a brief summary of the properties and existence of the inverse for linear and nonlinear multivariable systems. A view of the inversion-based input reconstruction with special emphasis on the aspects of fault detection and isolation by using invariant subspaces and the results of classical geometrical systems theory is provided. The applicability of the idea to fault reconstruction is demonstrated through examples.
+fault detection and isolation, input reconstruction, linear systems, nonlinear systems, system inversion

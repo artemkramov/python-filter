@@ -1,0 +1,6 @@
+﻿1 - March 1999
+9 - 1999
+Some issues in the design of predictive controllers
+Lalo Magni, Giuseppe De Nicolao, Riccardo Scattolini
+In the paper, we discuss how to design a predictive controller capable of addressing a number of important issues ranging from nominal stability to the model identification/controller design interplay. Nominal stability is ensured by resorting to Constrained Receding Horizon Predictive Control. As for robust stability, the connections between the frequency weighting P-polynomial in the cost function and the achievable robustness against multiplicative uncertainty are investigated. Then, a two-step design procedure is proposed in order to enhance the closed-loop robustness and obtain nominal performances. A correlation technique is also proposed as a tool to estimate uncertainty bounds to be used in controller design. Finally, the control and identification procedures are put together to form an iterative identification/control design methodology. A simulation example is reported to illustrate the approach.
+predictive control, robust control, two degree of freedom regulation, identification for control

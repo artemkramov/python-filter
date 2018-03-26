@@ -1,0 +1,6 @@
+﻿3 - September 1997
+7 - 1997
+Kinematics of free-floating robots revisited
+Ignacy Dulęba
+In this paper, a decomposed expression for the kinematics of a free-floating robot with rotational joints is derived in detail. Some mathematical conditions on invertibility of a matrix used in a definition of the generalized Jacobian matrix are derived and proved for a general robot and for a planar robot (an<em>n</em>-pendulum). For the<em>n</em>-pendulum, closed-form kinematics are given. A comparison of the resulting kinematic equations for the simplest free-floating robot (a planar 2-pendulum), with the simplest mobile robot (a unicycle) is presented. Being an extended version of (Dulęba, 1996), this paper offers a family of models of nonholonomic systems.
+-

@@ -1,0 +1,6 @@
+﻿3 - September 1995
+5 - 1995
+Properties of model reduction techniques based on the retention of first- and second-order information
+Wiesław Krajewski, Antonio Lepschy, Umberto Viaro
+In the recent literature on model simplification considerable interest has been focused on the techniques leading to reduced models that match a suitable number of both first-order and second-order information indices. By limiting attention to the information supplied by the Markov parameters and the entries of the impulse-response Gramian, respectively, the paper considers three main approaches. The related algorithms are briefly presented and discussed. Some examples concerning both SISO and MIMO systems illustrate the procedures and compare their performance with that of alternative reduction techniques.
+-

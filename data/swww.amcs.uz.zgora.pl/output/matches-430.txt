@@ -1,0 +1,6 @@
+﻿4 - December 1993
+3 - 1993
+Stabilization for nonlinear interconnected systems
+Zheng-Zhi Han, Feng Gao, Zhong-Jun Zhang
+The problem of decentralized stabilization for nonlinear interconnected systems coupled in the general form or, particularly, coupled in the lower triangular form are investigated. The Lyapunov-Like conditions of stabilization for these interconnected systems are established, and the decentralized feedback laws for stabilization are presented.
+-

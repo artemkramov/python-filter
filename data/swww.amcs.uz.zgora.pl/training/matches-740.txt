@@ -1,0 +1,6 @@
+﻿3 - September 2012
+22 - 2012
+Equivalent descriptions of a discrete-time fractional-order linear system and its stability domains
+Piotr Ostalczyk
+Two description forms of a linear fractional-order discrete system are considered. The first one is by a fractional-order difference equation, whereas the second by a fractional-order state-space equation. In relation to the two above-mentioned description forms, stability domains are evaluated. Several simulations of stable, marginally stable and unstable unit step responses of fractional-order systems due to different values of system parameters are presented.
+fractional calculus, linear discrete-time system, stability domain</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0040-7">10.2478/v10006-012-0040-7</a>

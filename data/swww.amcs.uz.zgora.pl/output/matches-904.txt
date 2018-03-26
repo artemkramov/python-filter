@@ -1,0 +1,6 @@
+﻿4 - December 2010
+20 - 2010
+Derivative-free nonlinear optimization filter simplex
+Aldina Correia, João Matias, Pedro Mestre, Carlos Serodio
+The filter method is a technique for solving nonlinear programming problems. The filter algorithm has two phases in each iteration. The first one reduces a measure of infeasibility, while in the second the objective function value is reduced. In real optimization problems, usually the objective function is not differentiable or its derivatives are unknown. In these cases it becomes essential to use optimization methods where the calculation of the derivatives or the verification of their existence is not necessary: direct search methods or derivative-free methods are examples of such techniques. In this work we present a new direct search method, based on simplex methods, for general constrained optimization that combines the features of simplex and filter methods. This method neither computes nor approximates derivatives, penalty constants or Lagrange multipliers.
+nonlinear constrained optimization, filter methods, direct search methods</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-010-0051-1">10.2478/v10006-010-0051-1</a>

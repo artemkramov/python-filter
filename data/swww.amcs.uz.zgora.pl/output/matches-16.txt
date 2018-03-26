@@ -1,0 +1,6 @@
+﻿1 - March 2000
+10 - 2000
+Extinction, weak extinction and persistence in a discrete, competitive Lotka-Volterra model
+David M. Chan, John E. Franke
+In a discrete Lotka-Volerra model, the set of points where a population remains unchanged over one generation is a hyperplane. Examining the relative position of these hyperplanes, we give sufficient conditions for a group of species to drive another species to extinction. Further using these hyperplanes, we find necessary and sufficient conditions where every ω-limit point of the model has at least one species missing. Building on the work of Hofbauer et al. (1987) involving permanence, we obtain a sufficient condition for one or more species to persist. Additionally, in the presence of extinction occurring, we take these persistence results and the previously mentioned extinction results and extend them to subsystems of the full model. Finally, we combine the ideas of persistence and weak extinction to obtain another extinction result.
+extinction, persistence, weak extinction, Lotka-Volterra model, ω-limit set

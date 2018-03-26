@@ -1,0 +1,6 @@
+﻿4 - October 2001
+11 - 2001
+On delay-dependent stability for neutral delay-differential systems
+Qing-Long Han
+This paper deals with the stability problem for a class of linear neutral delay-differential systems. The time delay is assumed constant and known. Delay-dependent criteria are derived. The criteria are given in the form of linear matrix inequalities which are easy to use when checking the stability of the systems considered. Numerical examples indicate significant improvements over some existing results.
+stability, time delay, neutral system, linear matrix inequality (LMI)

@@ -1,0 +1,6 @@
+﻿4 - December 2002
+12 - 2002
+Optimal feedback control proportional to the system state can be found for non-causal descriptor systems (A remark on a paper by P.C. Müller)
+Galina A. Kurina
+Optimal feedback control depending only on the system state is constructed for a control problem by the non-causal descriptor system for which optimal feedback control depending on state derivatives was considered in the paper (Müller, 1998). To this end, a non-symmetric solution of the algebraic operator Riccati equation is used.
+optimal feedback control, non-causal descriptor systems

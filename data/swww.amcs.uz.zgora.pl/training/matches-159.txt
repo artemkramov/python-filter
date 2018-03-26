@@ -1,0 +1,6 @@
+﻿3 - September 1998
+8 - 1998
+Data encryption using<em>N</em>-lag white multisine random time-series
+Antoni Niederliński, Jarosław Figwer
+A new data encryption method based on<em>N</em>-lag white multisine random time-series (WMRTS) is presented. Its essence is that consecutive characters of the cleartext are used to generate phase shifts for all or for some of the sine components of an<em>N</em>-lag WMRTS. This time-series is defined in the frequency domain by its Discrete Fourier Transform (DFT). It consists of two spectra: the phaseshift spectrum containing encrypted characters and the amplitude spectrum with the same amplitude for all frequencies. This DFT is calculated with the help of the Fast Fourier Transform (FFT) algorithm transformed into the time domain. The result is the cyphert ext in the form of an<em>N</em>-lag WMRTS. To decrypt the cyphertext, it is processed by the FFT algorithm, the result being the original DFT, from which all phase shifts are recovered. The paper presents theoretical foundations of the method and a numerical example demonstrating its effectiveness.
+-

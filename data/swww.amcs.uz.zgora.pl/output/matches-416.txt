@@ -1,0 +1,6 @@
+﻿3 - September 1993
+3 - 1993
+Problems of computer-aided data processing in machine diagnostics and monitoring
+Jan Kaźmierczak
+The first part of the paper presents a structure of tasks which are performed in systems of monitoring and diagnosing of states of machines. Basing on the list of such tasks the areas of utilizing particular methods and algorithms for the needs of data processing in monitoring and diagnostic systems are then defined. The paper shows some common features of data processing from the view-point of computer aiding. This part of the paper is illustrated by on example of forecasting as a particular problem in diagnostic research. By means of this example some consequences due to the use of general methods in specific field are discussed. In conclusions some proposals are introduced which concern the managing of input and output data in diagnostic and monitoring systems, supporting the choice of computational algorithms and problems of visualization of input data as well as results of its processing in various phases of functioning of the system as the tasks which can be supported by means of computer tools. This part of the paper is illustrated by some results of research works which have been carried out in the Chair of Fundamentals of Machine Design, Silesian University of Technology in Gliwice.
+-

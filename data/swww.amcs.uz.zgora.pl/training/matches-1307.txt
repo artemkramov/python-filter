@@ -1,0 +1,6 @@
+﻿1 - March 2002
+12 - 2002
+Dynamic contact problems with slip-dependent friction in viscoelasticity
+Ioan R. Ionescu, Quoc-Lan Nguyen
+The dynamic evolution with frictional contact of a viscoelastic body is considered. The assumptions on the functions used in modelling the contact are broad enough to include both the normal compliance and the Tresca models. The friction law uses a friction coefficient which is a non-monotone function of the slip. The existence and uniqueness of the solution are proved in the general three-dimensional case.
+slip-dependent friction, dynamic viscoelasticity, Tresca contact, normal compliance, existence and uniqueness

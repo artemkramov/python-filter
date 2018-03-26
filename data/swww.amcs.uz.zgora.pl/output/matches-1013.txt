@@ -1,0 +1,6 @@
+﻿3 - September 2008
+18 - 2008
+On the development of SCILAB compatible software for the analysis and control of repetitive processes
+Łukasz Hładowski, Błażej Cichy, Krzysztof Gałkowski, Eric Rogers
+Łukasz Hładowski, Błażej Cichy, Krzysztof Gałkowski, Eric Rogers In this paper further results on the development of a SCILAB compatible software package for the analysis and control of repetitive processes is described. The core of the package consists of a simulation tool which enables the user to inspect the response of a given example to an input, design a control law for stability and/or performance, and also simulate the response of a controlled process to a specified reference signal.
+repetitive processes, simulation, SCILAB</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0034-7">10.2478/v10006-008-0034-7</a>

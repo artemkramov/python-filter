@@ -1,0 +1,6 @@
+﻿4 - December 1999
+9 - 1999
+Robust control of nonlinear time-delay systems
+Charalambos Antoniades, Panagiotis D. Christofides
+This paper focuses on single-input single-output nonlinear differential difference equation (DDE) systems with uncertain variables. For such systems, a general methodology is developed for the synthesis of robust nonlinear state feedback controllers that guarantee boundedness of the states and ensure that the ultimate discrepancy between the output and the external reference input in the closed-loop system can be made arbitrarily small by an appropriate choice of controller parameters. The controllers are synthesized by using a novel combination of geometric and Lyapunov-based techniques and enforce the above properties in the closed-loop system independently of the size of the state delay. The proposed control method is successfully applied to a fluidized catalytic cracking unit with a time-varying uncertain variable and is shown to outperform a proportional integral (PI) controller, a nonlinear controller that does not account for the uncertainty, and a nonlinear controller that does not account for the state delays.
+model uncertainty, time-delays, nonlinear robust control, fluidized catalytic cracker

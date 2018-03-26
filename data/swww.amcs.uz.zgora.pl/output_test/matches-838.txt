@@ -1,0 +1,3 @@
+Intelligent decision-making system for autonomous robots
+Zdzisław Kowalczuk, Michał Czubenko
+The paper gives an account of research results concerning a project on creating a fully autonomous robotic decision-making system, able to interact with its environment and based on a mathematical model of human cognitive-behavioural psychology, with some key elements of personality psychology included. The principal idea of the paper is focused on the concept of needs, with a certain instrumental role of emotions.

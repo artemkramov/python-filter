@@ -1,0 +1,6 @@
+﻿2 - June 2002
+12 - 2002
+The branch and bound algorithm for a backup virtual path assignment in survivable ATM networks
+Krzysztof Walkowiak
+Issues of network survivability are important, since users of computer networks should be provided with some guarantees of data delivery. A large amount of data may be lost in high-speed Asynchronous Transfer Mode (ATM) due to a network failure and cause significant economic loses. This paper addresses problems of network survivability. The characteristics of virtual paths and their influence on network restoration are examined. A new problem of Backup Virtual Path Routing is presented for the local-destination rerouting strategy. The function of the flow lost due to a failure of a single link is chosen as the performance index. The problem of finding the optimal virtual path assignment is NP-complete. Therefore we develop an exact algorithm based on the branch and bound approach. Moreover, two heuristic algorithms are proposed. Numerical results are presented.
+survivable networks, ATM, branch and bound algorithm

@@ -1,0 +1,6 @@
+﻿2 - June 1994
+4 - 1994
+<em>H</em><sub>∞</sub>-methods in population modelling and control
+Sebastian Anita, Hheorge Aniculaesei
+This paper deals with an<em>H</em><sub>∞</sub>-problem with control constraints for the population dynamics. The biological significance of such a problem is discussed. The necessary and sufficient conditions for the existence of a solution to the suboptimal<em>H</em><sub>∞</sub>-problem for input-output linear population dynamics with control constraints are established. The last part of this paper contains some considerations about possible applications of<em>H</em><sub>∞</sub>-methods to cancer cell population modelling and control.
+-

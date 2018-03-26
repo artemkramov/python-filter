@@ -1,0 +1,17 @@
+﻿1/2011
+2
+RESEARCH-PAPER-Energy-saving-and-by-products-free-production-r-nof-ethanol-from-granular-corn-starch,85,23854,0
+abstract:
+RESEARCH PAPER<br>Energy-saving and by-products-free production of ethanol from granular corn starch
+h3>Daria Szymanowska, Włodzimierz Grajek</h3><div>BioTechnologia vol. 92(1) C pp. 85-91 C 2011
+1.46520">https://doi.org/10.5114/bta.2011.46520
+a>View full text</a
+23854
+Szymanowska D, Grajek W. RESEARCH PAPER&lt;br&gt;Energy-saving and by-products-free production of ethanol from granular corn starch. BioTechnologia. 2014;92(1):85-91. doi:10.5114/bta.2011.46520
+Szymanowska, D., &amp; Grajek, W. (2014). RESEARCH PAPER&lt;br&gt;Energy-saving and by-products-free production of ethanol from granular corn starch. BioTechnologia, 92(1), 85-91. https://doi.org/10.5114/bta.2011.46520
+Szymanowska, Daria, and Włodzimierz Grajek. 2014. "RESEARCH PAPER&lt;br&gt;Energy-saving and by-products-free production of ethanol from granular corn starch". BioTechnologia 92 (1): 85-91. doi:10.5114/bta.2011.46520
+Szymanowska, D., and Grajek, W. (2014). RESEARCH PAPER&lt;br&gt;Energy-saving and by-products-free production of ethanol from granular corn starch. BioTechnologia, 92(1), pp.85-91. https://doi.org/10.5114/bta.2011.46520
+Szymanowska, Daria et al. "RESEARCH PAPER&lt;br&gt;Energy-saving and by-products-free production of ethanol from granular corn starch." BioTechnologia, vol. 92, no. 1, 2014, pp. 85-91. doi:10.5114/bta.2011.46520
+/div><div>Intense development of the transport sector and a rise in the prices of fossil fuels boost the demand for fuels from<br><br>alternative sources of energy, including biofuels. Thus, new energy-efficient technologies of fuel production from<br><br>renewable resources are being developed. Accordingly, we attempted to create a technology of bioethanol production<br><br>by simultaneous enzymatic hydrolysis and fermentation of native corn starch. In our work we used commercially<br><br>available STARGEN 001 enzymatic preparation for native corn starch hydrolyzis, and yeast Saccharomyces<br><br>cerevisiae strain Red Star Ethanol Red for it’s fermentation. A major part of the research was on developing<br><br>a fermentation technology with repeated full recirculation of stillage liquid fraction. It has been shown that<br><br>a completely effluentless ethanol production with separation of stillage solid fraction and using the liquid fraction<br><br>to prepare the next portion of corn mash is possible. Thus the process can proceed for several months without<br><br>any effluent.<
+null
+keywords:</div><h3>ethanol, simultaneous saccharification and fermentation, stillage, recycling</h3

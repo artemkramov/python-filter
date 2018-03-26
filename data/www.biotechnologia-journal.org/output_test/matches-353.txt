@@ -1,0 +1,7 @@
+REVIEW PAPER<br>Deterministic models and stochastic simulations in multiple reaction models in systems biology
+a>View full text</a
+Lachor P, Puszyński K, Polański A. REVIEW PAPER&lt;br&gt;Deterministic models and stochastic simulations in multiple reaction models in systems biology. BioTechnologia. 2014;92(3):265-280. doi:10.5114/bta.2011.46543
+Lachor, P., Puszyński, K., &amp; Polański, A. (2014). REVIEW PAPER&lt;br&gt;Deterministic models and stochastic simulations in multiple reaction models in systems biology. BioTechnologia, 92(3), 265-280. https://doi.org/10.5114/bta.2011.46543
+Lachor, Paweł, Krzysztof Puszyński, and Andrzej Polański. 2014. "REVIEW PAPER&lt;br&gt;Deterministic models and stochastic simulations in multiple reaction models in systems biology". BioTechnologia 92 (3): 265-280. doi:10.5114/bta.2011.46543
+Lachor, P., Puszyński, K., and Polański, A. (2014). REVIEW PAPER&lt;br&gt;Deterministic models and stochastic simulations in multiple reaction models in systems biology. BioTechnologia, 92(3), pp.265-280. https://doi.org/10.5114/bta.2011.46543
+Lachor, Paweł et al. "REVIEW PAPER&lt;br&gt;Deterministic models and stochastic simulations in multiple reaction models in systems biology." BioTechnologia, vol. 92, no. 3, 2014, pp. 265-280. doi:10.5114/bta.2011.46543

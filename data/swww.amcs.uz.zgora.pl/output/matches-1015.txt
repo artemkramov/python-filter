@@ -1,0 +1,6 @@
+﻿3 - September 2008
+18 - 2008
+An automatic hybrid method for retinal blood vessel extraction
+Yong Yang, Shuying Huang, Nini Rao
+The extraction of blood vessels from retinal images is an important and challenging task in medical analysis and diagnosis. This paper presents a novel hybrid automatic approach for the extraction of retinal image vessels. The method consists in the application of mathematical morphology and a fuzzy clustering algorithm followed by a purification procedure. In mathematical morphology, the retinal image is smoothed and strengthened so that the blood vessels are enhanced and the background information is suppressed. The fuzzy clustering algorithm is then employed to the previous enhanced image for segmentation. After the fuzzy segmentation, a purification procedure is used to reduce the weak edges and noise, and the final results of the blood vessels are consequently achieved. The performance of the proposed method is compared with some existing segmentation methods and hand-labeled segmentations. The approach has been tested on a series of retinal images, and experimental results show that our technique is promising and effective.
+blood vessel extraction, retinal image, mathematical morphology, fuzzy clustering</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0036-5">10.2478/v10006-008-0036-5</a>

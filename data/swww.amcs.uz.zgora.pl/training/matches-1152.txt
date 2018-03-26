@@ -1,0 +1,6 @@
+﻿2 - June 2005
+15 - 2005
+Ant algorithm for flow assignment in connection-oriented networks
+Krzysztof Walkowiak
+This work introduces ANB (<strong>A</strong>nt Algorithm for<strong>N</strong>on-<strong>B</strong>ifurcated Flows), a novel approach to capacitated static optimization of flows in connection-oriented computer networks. The problem considered arises naturally from several optimization problems that have recently received significant attention. The proposed ANB is an ant algorithm motivated by recent works on the application of the ant algorithm to solving various problems related to computer networks. However, few works concern the use of ant algorithms in the assignment of static flows in connection-oriented networks. We analyze the major characteristics of the ANB and try to explain its performance. We report results of many experiments over various networks.
+ant algorithms, flow assignment, computer networks

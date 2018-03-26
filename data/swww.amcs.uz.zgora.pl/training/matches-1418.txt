@@ -1,0 +1,6 @@
+﻿5 - December 2001
+11 - 2001
+Approximation of large-scale dynamical systems: An overview
+Athanasios C. Antoulas, Dan C. Sorensen
+In this paper we review the state of affairs in the area of approximation of largescale systems. We distinguish three basic categories, namely the SVD-based, the Krylov-based and the SVD-Krylov-based approximation methods. The first two were developed independently of each other and have distinct sets of attributes and drawbacks. The third approach seeks to combine the best attributes of the first two.
+model reduction, SVD, Hankel, balancing, Krylov

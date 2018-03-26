@@ -1,0 +1,6 @@
+﻿2 - June 2013
+23 - 2013
+Convergence analysis of piecewise continuous collocation methods for higher index integral algebraic equations of the Hessenberg type
+Babak Shiri, Sedaghat Shahmorad, Gholamreza Hojjati
+In this paper, we deal with a system of integral algebraic equations of the Hessenberg type. Using a new index definition, the existence and uniqueness of a solution to this system are studied. The well-known piecewise continuous collocation methods are used to solve this system numerically, and the convergence properties of the perturbed piecewise continuous collocation methods are investigated to obtain the order of convergence for the given numerical methods. Finally, some numerical experiments are provided to support the theoretical results.
+piecewise continuous collocations methods, Volterra integral equations, integral algebraic equations</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0026">10.2478/amcs-2013-0026</a>

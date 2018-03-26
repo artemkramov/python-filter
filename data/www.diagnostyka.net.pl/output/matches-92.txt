@@ -1,0 +1,15 @@
+﻿Cross-correlation-function-in-identifying-head-checking-defects-of-the-railway-rails,73790
+2-2017,2313">2/2017 vol. 18
+Monitoring-of-helicopter-transmission-use-of-the-FAM-C-diagnosis-method,68818,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/Power-loss-in-a-combustion-engine-of-a-prototype-vehicle,73791,0,2.html" title="PREVIOUS
+Cross-correlation function in identifying head checking defects of the railway rails
+Piotr-Lesiak/59680">Piotr Lesiak
+null
+</sup>&nbsp;&nbsp;<a href="mailto:p.lesiak@albnet.pl"><div></div></a>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Aleksander-Sokołowski/59681">Aleksander Sokołowski</a></span><sup>2</sup>&nbsp;&nbsp;<a href="mailto:alex5@prz.edu.pl"><div></div></a>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Marek-Wlazło/59682">Marek Wlazło</a></span><sup>3
+marek@sunnco.pl
+Wyższa Szkoła Ekonomii i Innowacji w Lublinie, Wydział Transportu i Informatyki</span></div></td></tr><tr><td>2</td><td><div><span>Politechnika Rzeszowska, Wydział Zarządzania</span></div></td></tr><tr><td>3</td><td><div><span>Sunnco KS
+Publish date: 2017-06-21</div><div>Submission date: 2017-04-03</div><div>Final revision date: 2017-05-02</div><div>Acceptance date: 2017-05-15
+7;18(2):65–74
+73790-17736?filename=Cross-correlation
+cross-correlation/89344">cross-correlation<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-railway+rails/111027">railway rails<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-defect+head+checking/111028">defect head checking
+laser+scatterometry+method/111029">laser scatterometry method</a><div>&nbsp;</div></div><div>TOPICS:</div><div><a href="http://www.diagnostyka.net.pl/Topic-Signal+analysis/3949">Signal analysis<div></div></a><a href="http://www.diagnostyka.net.pl/Topic-Technical+diagnostics/3947">Technical diagnostics
+The cross-correlation function has been applied to the study of the similarity of the two functions. One of these functions is known and represents a defect type HC (Head Checking) in the railway rail. The second function is unknown and based on cross-correlation function of both functions specifies the parameters of the similarities. These functions correspond to defects whose images have been determined using laser scatterometry method. FFT method has been used to calculate these functions.</div><div>CORRESPONDING AUTHOR:</div><a href="http://www.diagnostyka.net.pl/Author-Piotr-Lesiak/59680">Piotr Lesiak</a>&nbsp;&nbsp;<a href="mailto:p.lesiak@albnet.pl"><div></div></a><div>Wyższa Szkoła Ekonomii i Innowacji w Lublinie, Wydział Transportu i Informatyki, ul. Projektowa 4, 20-209 Lublin, Polska

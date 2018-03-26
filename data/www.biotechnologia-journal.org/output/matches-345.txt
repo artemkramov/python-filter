@@ -1,0 +1,17 @@
+﻿3/2011
+2
+PERSPECTIVES-Modelling-the-Virtual-Physiological-Human,85,23871,0
+abstract:
+PERSPECTIVES<br>Modelling the Virtual Physiological Human
+h3>Clare Sansom, Miriam Mendes, Peter Coveney</h3><div>BioTechnologia vol. 92(3) C pp. 225-229 C 2011
+1.46538">https://doi.org/10.5114/bta.2011.46538
+a>View full text</a
+23871
+Sansom C, Mendes M, Coveney P. PERSPECTIVES&lt;br&gt;Modelling the Virtual Physiological Human. BioTechnologia. 2014;92(3):225-229. doi:10.5114/bta.2011.46538
+Sansom, C., Mendes, M., &amp; Coveney, P. (2014). PERSPECTIVES&lt;br&gt;Modelling the Virtual Physiological Human. BioTechnologia, 92(3), 225-229. https://doi.org/10.5114/bta.2011.46538
+Sansom, Clare, Miriam Mendes, and Peter Coveney. 2014. "PERSPECTIVES&lt;br&gt;Modelling the Virtual Physiological Human". BioTechnologia 92 (3): 225-229. doi:10.5114/bta.2011.46538
+Sansom, C., Mendes, M., and Coveney, P. (2014). PERSPECTIVES&lt;br&gt;Modelling the Virtual Physiological Human. BioTechnologia, 92(3), pp.225-229. https://doi.org/10.5114/bta.2011.46538
+Sansom, Clare et al. "PERSPECTIVES&lt;br&gt;Modelling the Virtual Physiological Human." BioTechnologia, vol. 92, no. 3, 2014, pp. 225-229. doi:10.5114/bta.2011.46538
+/div><div>The second half of the twentieth century can be regarded as the era of reductionism in biology, when, driven by<br><br>revolutions in molecular biology and genomics, the dominant paradigm saw biology as the sum of its parts: the<br><br>genes and proteins that make up each organism. Most biologists, however, now recognize that an integrative<br><br>approach – an understanding of how these parts work together in a complex entity – is as important as a reductionist<br><br>one. The relatively new discipline of systems biology combines this philosophy with an integration of<br><br>experimental biology with computational biology. One of the most ambitious goals of systems biology is that of<br><br>modeling the entire human physiology. Human body can be broken down into a series of interlocking organs and<br><br>systems, with one of the most tractable to model being the heart. Simple mathematical models of cardiac ion<br><br>channel action have developed over half a century into complex simulations that are being used successfully in<br><br>drug discovery. Integrating models together, however, requires close international collaboration. Under Framework<br><br>Six, the European Commission funded a few collaborative projects in human systems biology including<br><br>ImmunoGrid, which set out, perhaps over-ambitiously, to model the immune system. Under Framework Seven,<br><br>over €200 M has been channeled into research projects and networks under the umbrella of the Virtual Physiological<br><br>Human. Projects funded under this initiative cover a large range of systems and disease states, with<br><br>the cardio-vascular system and cancer dominating the first tranche of fifteen. This initiative is poised to further<br><br>develop under the next framework programme (Horizon 2020), which will run for seven years from 2014.<
+null
+keywords:</div><h3>systems biology, human physiology, modeling, heart, cancer</h3

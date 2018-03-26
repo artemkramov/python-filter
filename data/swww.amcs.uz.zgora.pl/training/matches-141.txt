@@ -1,0 +1,6 @@
+﻿2 - June 1998
+8 - 1998
+Observer design for distributed-parameter dissipative bilinear systems
+H. Bounit, H. Hammouri
+This paper deals with the problem of observer synthesis for a class of infinite-dimensional dissipative bilinear systems working for a class of inputs. First, a simple observer (the estimation error converges strongly asymptotically to zero) for strongly persistent input signals is presented. Next, sufficient conditions are given which guarantee the existence of an exponential observer for skew-adjoint bilinear systems based on the time-varying differential Riccati (or Lyapunov) equations working for strongly regularly persistent inputs. These results are illustrated by means of partial-differential systems.
+-

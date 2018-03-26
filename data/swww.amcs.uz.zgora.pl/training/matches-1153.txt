@@ -1,0 +1,6 @@
+﻿2 - June 2005
+15 - 2005
+On the stability of neutral-type uncertain systems with multiple time delays
+Pin-Lin Liu
+The problems of both single and multiple delays for neutral-type uncertain systems are considered. First, for single neutral time delay systems, based on a Razumikhin-type theorem, some delay-dependent stability criteria are derived in terms of the Lyapunov equation for various classes of model transformation and decomposition techniques. Second, robust control for neutral systems with multiple time delays is considered. Finally, we demonstrate numerical examples to illustrate the effectiveness of the proposed approaches. Compared with results existing in the literature, our methods are shown to be superior to them.
+Razumikhin-type theorem, time-delay, neutral type uncertain systems

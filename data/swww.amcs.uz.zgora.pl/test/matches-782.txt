@@ -1,0 +1,6 @@
+﻿1 - March 2011
+21 - 2011
+Engineering intelligent systems on the knowledge formalization continuum
+Joachim Baumeister, Jochen Reutelshoefer, Frank Puppe
+In spite of their industrial success, the development of intelligent systems is still a complex and risky task. When building intelligent systems, we see that domain knowledge is often present at different levels of formalization—ranging from text documents to explicit rules. In this paper, we describe the knowledge formalization continuum as a metaphor to help domain specialists during the knowledge acquisition phase. To make use of the knowledge formalization continuum, the agile use of knowledge representations within a knowledge engineering project is proposed, as well as transitions between the different representations, when required. We show that a semantic wiki is a flexible tool for engineering knowledge on the knowledge formalization continuum. Case studies are taken from one industrial and one academic project, and they illustrate the applicability and benefits of semantic wikis in combination with the knowledge formalization continuum.
+knowledge engineering, knowledge acquisition, semantic wiki</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-011-0002-5">10.2478/v10006-011-0002-5</a>

@@ -1,0 +1,3 @@
+Controllability of nonlinear impulsive Ito type stochastic systems
+Rathinasamy Sakthivel
+In this article, we consider finite dimensional dynamical control systems described by nonlinear impulsive Ito type stochastic integrodifferential equations. Necessary and sufficient conditions for complete controllability of nonlinear impulsive stochastic systems are formulated and proved under the natural assumption that the corresponding linear system is appropriately controllable. A fixed point approach is employed for achieving the required result.

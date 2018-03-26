@@ -1,0 +1,6 @@
+﻿3 - September 2014
+24 - 2014
+A factor graph based genetic algorithm
+B. Hoda Helmi, Adel T. Rahmani, Martin Pelikan
+We propose a new linkage learning genetic algorithm called the Factor Graph based Genetic Algorithm (FGGA). In the FGGA, a factor graph is used to encode the underlying dependencies between variables of the problem. In order to learn the factor graph from a population of potential solutions, a symmetric non-negative matrix factorization is employed to factorize the matrix of pair-wise dependencies. To show the performance of the FGGA, encouraging experimental results on different separable problems are provided as support for the mathematical analysis of the approach. The experiments show that FGGA is capable of learning linkages and solving the optimization problems in polynomial time with a polynomial number of evaluations.
+optimization problems, genetic algorithms, estimation of distribution algorithms, factor graph, matrix factorization</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0045">10.2478/amcs-2014-0045</a>

@@ -1,0 +1,15 @@
+﻿Application-of-wavelet-transform-in-analysis-of-guided-wave-propagation-signals-for,81458
+2-2015,3235">2/2015 vol. 16
+Influence-of-setting-the-selected-parameters-of-hydraulic-systems-on-pressure-pulsation,81459,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/Thermal-imaging-studies-on-grain-harvester-belt-transmissions,81456,0,2.html" title="PREVIOUS
+Application of wavelet transform in analysis of guided wave propagation signals for damage detection in a steel plate
+Beata-Zima/37814">Beata Zima
+null
+beazima@pg.gda.pl"><div></div></a>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Magdalena-Rucka/35064">Magdalena Rucka</a></span>&nbsp;&nbsp;<a href="mailto:mrucka@pg.gda.pl
+Gdańsk University of Technology, Faculty of Civil and Environmental Engineering, Department of Structural Mechanics, Narutowicza 11/12, 80-233 Gdańsk, Poland
+Publish date: 2017-12-21
+5;16(2):43–48
+81458-16941?filename=Application of wavelet
+guided+waves/75580">guided waves<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-damage+detection/73134">damage detection<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-non-destructive+testing/73024">non-destructive testing
+continuous+wavelet+transform/146784">continuous wavelet transform
+The paper presents results of experimental investigations on damage detection using guided wave propagation technique. The tested specimen was a steel plate with a defect in the form of a rectangular notch. Lamb waves were excited by a PZT actuator and sensed by a laser vibrometer. Since reflections from damage in registered signals are often masked by measurement noise, for identification of time of reflections from damage, continuous wavelet transform (CWT) was used. Obtained results indicated that application of wavelet signal processing enabled precise reconstruction of reflected wavefront from damage.
+></div></div><div><div><div></div>Related articles</div><div><div><a href="http://www.diagnostyka.net.pl/Evaluation-of-the-quality-of-steel-cord-belt-splices-based-on-belt-condition-examination,81473,0,2.html">Evaluation of the quality of steel cord belt splices based on belt condition examination using magnetic techniques</a></div><div><a href="http://www.diagnostyka.net.pl/The-influence-of-excitation-frequency-on-the-effectiveness-of-vibrothermographic,81425,0,2.html">The influence of excitation frequency on the effectiveness of vibrothermographic testing</a></div><div><a href="http://www.diagnostyka.net.pl/Diagnostics-of-bolted-lap-joint-using-guided-wave-propagation,81423,0,2.html">Diagnostics of bolted lap joint using guided wave propagation</a></div><div><a href="http://www.diagnostyka.net.pl/Multiple-damage-localization-using-local-modal-filters,81407,0,2.html">Multiple damage localization using local modal filters</a></div><div><a href="http://www.diagnostyka.net.pl/Application-of-wavelet-transform-in-analysis-of-guided-wave-propagation-signals-for,81387,0,2.html">Application of wavelet transform in analysis of guided wave propagation signals for damage detection in a steel plate</a></div

@@ -1,0 +1,6 @@
+﻿3 - September 2016
+26 - 2016
+Recursive set membership estimation for output-error fractional models with unknown-but-bounded errors
+Messaoud Amairi
+This paper presents a new formulation for set-membership parameter estimation of fractional systems. In such a context, the error between the measured data and the output model is supposed to be unknown but bounded with<em>a priori</em>known bounds. The bounded error is specified over measurement noise, rather than over an equation error, which is mainly motivated by experimental considerations. The proposed approach is based on the optimal bounding ellipsoid algorithm for linear output-error fractional models. A numerical example is presented to show effectiveness and discuss results.
+fractional calculus, set membership, estimation, unknown-but-bounded error</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0038">10.1515/amcs-2016-0038</a>

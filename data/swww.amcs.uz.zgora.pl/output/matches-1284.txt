@@ -1,0 +1,6 @@
+﻿4 - December 2003
+13 - 2003
+Adaptive compensators for perturbed positive infinite-dimensional systems
+Ruth F. Curtain, Michael A. Demetriou, Kazufumi Ito
+The aim of this investigation is to construct an adaptive observer and an adaptive compensator for a class of infinite-dimensional plants having a known exogenous input and a structured perturbation with an unknown constant parameter, such as the case of static output feedback with an unknown gain. The adaptive observer uses the nominal dynamics of the unperturbed plant and an adaptation law based on the Lyapunov redesign method. We obtain conditions on the system to ensure uniform boundedness of the estimator dynamics and the parameter estimates, and the convergence of the estimator error. For the case of a known periodic exogenous input we design an adaptive compensator which forces the system to converge to a unique periodic solution. We illustrate our approach with a delay example and a diffusion example for which we obtain convincing numerical results.
+infinite-dimensional systems, positive real systems, adaptive controllers

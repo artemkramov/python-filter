@@ -1,0 +1,15 @@
+﻿The-reliability-model-for-failure-cause-analysis-of-pressure-vessel-protective-fittings,81481
+4-2015,3237">4/2015 vol. 16
+Analysis-of-a-road-accident-in-the-aspect-of-mechanics-of-a-frontal-crash-between,81482,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/Statistical-identification-of-complex-technical-system-operation-process,81480,0,2.html" title="PREVIOUS
+The reliability model for failure cause analysis of pressure vessel protective fittings with taking into account load-sharing effect between valves
+Tetyana-Stefanovych/74925">Tetyana Stefanovych
+null
+shcherbov@lp.edu.ua
+>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Serhiy-Shcherbovskykh/74926">Serhiy Shcherbovskykh</a></span>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Paweł-Droździel/38771">Paweł Droździel</a></span
+Lviv Polytechnic National University, Bandera str., 12 Lviv, Ukraine
+Publish date: 2017-12-21
+5;16(4):17–24
+81481-16962?filename=The reliability model for
+pressure+vessel/146995">pressure vessel<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-safety+valves/146996">safety valves<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-protective+fittings/146997">protective fittings<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-reliability+model/89089">reliability model<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-dynamic+fault+tree/146998">dynamic fault tree<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-Markov+model/146999">Markov model
+failure+cause/147000">failure cause
+In the paper reliability model for pressure vessel protective fittings is developed. The model is intended for the quantitative analysis of failure causes of such system. Reliability of the system is formalized by the dynamic fault tree in which load-sharing phenomena are mathematically described. Using the dynamic fault tree th e split homogeneous Markov model is obtained. Reliability characteristics are calculated based on the Markov model. Life of protective fittings components is distributed by Weibull that provided by tensor splitting of Markov model. The result of the simulation is probability curve family obtained for different values of load-sharing coefficients. It is shown how the main cause of system failure changing with these coefficients changing.

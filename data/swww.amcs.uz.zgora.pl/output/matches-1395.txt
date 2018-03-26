@@ -1,0 +1,6 @@
+﻿3 - September 2001
+11 - 2001
+Rough modeling - A bottom-up approach to model construction
+Terje Løken, Jan Komorowski
+Traditional data mining methods based on rough set theory focus on extracting models which are good at classifying unseen objects. If one wants to uncover new knowledge from the data, the model must have a high descriptive quality - it must describe the data set in a clear and concise manner, without sacrificing classification performance. Rough modeling, introduced by Kowalczyk (1998), is an approach which aims at providing models with good predictive and descriptive qualities, in addition to being computationally simple enough to handle large data sets. As rough models are exible in nature and simple to generate, it is possible to generate a large number of models and search through them for the best model. Initial experiments confirm that the drop in performance of rough models compared to models induced using traditional rough set methods is slight at worst, and the gain in descriptive quality is very large.
+knowledge discovery, rough sets, rough modeling, descriptive models

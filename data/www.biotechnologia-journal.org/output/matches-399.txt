@@ -1,0 +1,17 @@
+﻿1/2011
+2
+REVIEW-PAPER-Pathogenesis-and-clinical-consequences-of-iron-overload-r-nin-chronic-hepatitis-C-impact-of-host-and-viral-factors-r-nrelated-to-iron-metabolism,85,23851,0
+abstract:
+REVIEW PAPER<br>Pathogenesis and clinical consequences of iron overload in chronic hepatitis C -- impact of host and viral factors related to iron metabolism
+h3>Katarzyna Sikorska, Tomasz Romanowski, Krzysztof P. Bielawski</h3><div>BioTechnologia vol. 92(1) C pp. 54-65 C 2011
+1.46517">https://doi.org/10.5114/bta.2011.46517
+a>View full text</a
+23851
+Sikorska K, Romanowski T, P. Bielawski K. REVIEW PAPER&lt;br&gt;Pathogenesis and clinical consequences of iron overload in chronic hepatitis C -- impact of host and viral factors related to iron metabolism. BioTechnologia. 2014;92(1):54-65. doi:10.5114/bta.2011.46517
+Sikorska, K., Romanowski, T., &amp; P. Bielawski, K. (2014). REVIEW PAPER&lt;br&gt;Pathogenesis and clinical consequences of iron overload in chronic hepatitis C -- impact of host and viral factors related to iron metabolism. BioTechnologia, 92(1), 54-65. https://doi.org/10.5114/bta.2011.46517
+Sikorska, Katarzyna, Tomasz Romanowski, and Krzysztof P. Bielawski. 2014. "REVIEW PAPER&lt;br&gt;Pathogenesis and clinical consequences of iron overload in chronic hepatitis C -- impact of host and viral factors related to iron metabolism". BioTechnologia 92 (1): 54-65. doi:10.5114/bta.2011.46517
+Sikorska, K., Romanowski, T., and P. Bielawski, K. (2014). REVIEW PAPER&lt;br&gt;Pathogenesis and clinical consequences of iron overload in chronic hepatitis C -- impact of host and viral factors related to iron metabolism. BioTechnologia, 92(1), pp.54-65. https://doi.org/10.5114/bta.2011.46517
+Sikorska, Katarzyna et al. "REVIEW PAPER&lt;br&gt;Pathogenesis and clinical consequences of iron overload in chronic hepatitis C -- impact of host and viral factors related to iron metabolism." BioTechnologia, vol. 92, no. 1, 2014, pp. 54-65. doi:10.5114/bta.2011.46517
+/div><div>Chronic hepatitis C virus infection is a leading cause of progressive liver fibrosis, liver cirrhosis and hepatocellular<br><br>carcinoma. Iron overload is frequently observed in cases of chronic hepatitis C and has been suggested as a negative<br><br>prognostic factor for this disease. Although the mechanisms leading to iron accumulation are not fully explained<br><br>yet, both host and viral factors seem to contribute towards the development of this pathology. Better understanding<br><br>of the interplay between hepatitis C virus replication and expression of iron regulatory molecules may<br><br>elucidate new and interesting targets for the effective treatment of chronic hepatitis C.<
+null
+keywords:</div><h3>hepatitis C, pathogenesis, iron</h3

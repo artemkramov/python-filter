@@ -1,0 +1,6 @@
+﻿3 - September 2001
+11 - 2001
+Minimal decision rules based on the Apriori algorithm
+Marí­a C. Fernández, Ernestina Menasalvas, Óscar Marbán, José M. Peña, Socorro Millán
+Based on rough set theory many algorithms for rules extraction from data have been proposed. Decision rules can be obtained directly from a database. Some condition values may be unnecessary in a decision rule produced directly from the database. Such values can then be eliminated to create a more comprehensible (minimal) rule. Most of the algorithms that have been proposed to calculate minimal rules are based on rough set theory or machine learning. In our approach, in a post-processing stage, we apply the Apriori algorithm to reduce the decision rules obtained through rough sets. The set of dependencies thus obtained will help us discover irrelevant attribute values.
+rough sets, rough dependencies, association rules, Apriori algorithm, minimal decision rules

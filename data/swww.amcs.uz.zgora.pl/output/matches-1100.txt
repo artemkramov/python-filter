@@ -1,0 +1,6 @@
+﻿4 - December 2017
+27 - 2017
+Regulation control of an underactuated mechanical system with discontinuous friction and backlash
+Raúl Rascón, David Rosas, Daniel Hernandez-Balbuena
+In this work, the problem of position regulation control is addressed for a 2DOF underactuated mechanical system with friction and backlash. For this purpose, a method combining sliding mode and<em>H∞</em>control is developed. We prove that the application of the method to the nonlinear model considered results in an asymptotically stable equilibria set. Moreover, it is possible to achieve a sufficiently small and bounded steady-state position error even in the presence of disturbances by employing the proposed technique. That is, the developed controller is able to account not only for unmatched external perturbations and model discrepancies of the test rig considered, but also for matched bounded perturbations. The control methodology is presented from both the theoretical and experimental angles to demonstrate the good performance of the proposed controller.
+underactuated mechanical system, sliding mode control,<em>H∞</em>control, discontinuous observer</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2017-0055">10.1515/amcs-2017-0055</a>

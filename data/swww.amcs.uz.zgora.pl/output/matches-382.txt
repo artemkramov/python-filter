@@ -1,0 +1,6 @@
+﻿1 - March 1993
+3 - 1993
+Working Party 1: ASIC design, CAD tools &amp; methodology
+Trevor A. York
+A working party has been assembled, comprising academics from the six original participating institutions in JEP 0449, to suggest the curriculum for a course in 'ASIC Design, CAD Tools and Methodology' at the Polish institutions of Wroclaw Technical University and Zielona Gora Higher College of Education. The working party has identified the time that is available for the course at each of the institutions, assumed to be about. 120 hours total, and has recommended lecture content and practical activities. The four sections of lectured material are 'Digital System Design', 'ASIC Implementation Styles', 'Computer-Aided Design' and 'Testing'. Initially, practical activities are to concentrate on programmable devices including conventional Programmable Logic Devices (PLD) for simple exercises and, to mimic as closely as possible the environment of a conventional mask-programmable gate array, Xilinx Logic Cell Arrays (LCA) for more demanding projects. Exercises are to include schematic capture and hardware description languages (including VHDL), logic simulation, layout, implementation and testing of designs.
+-

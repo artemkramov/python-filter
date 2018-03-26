@@ -1,0 +1,6 @@
+﻿2 - June 2005
+15 - 2005
+On the two-step iterative method of solving frictional contact problems in elasticity
+Todor A. Angelov, Asterios A. Liolios
+A class of contact problems with friction in elastostatics is considered. Under a certain restriction on the friction coefficient, the convergence of the two-step iterative method proposed by P.D. Panagiotopoulos is proved. Its applicability is discussed and compared with two other iterative methods, and the computed results are presented.
+contact problems with friction, iterative methods

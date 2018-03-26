@@ -1,0 +1,6 @@
+﻿3 - September 1995
+5 - 1995
+Iterative learning control – An overview of recent algorithms
+David H. Owens, Notker Amann, Eric Rogers
+Recent results in an important area of Iterative Learning Control are reviewed. Iterative Learning Control is a new control technique for repetitive systems where the controller learns from previous experience. The paper includes a short survey of work in this area and shows new results that extend previous work. All control algorithms use feedback control instead of the feedforward control often used in Iterative Learning Control. Several important aspects as robustness of learning, convergence conditions, convergence types and limitations due to plant properties are addressed.
+-

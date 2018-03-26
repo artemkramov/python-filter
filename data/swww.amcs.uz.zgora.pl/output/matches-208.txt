@@ -1,0 +1,6 @@
+﻿3 - September 1997
+7 - 1997
+Universal voice compression algorithms based on approximate string matching
+Ilan Sadeh, Alexander Keizelman, Michael Zak
+Two practical voice-coding schemes based on approximate string matching are proposed. The first one is an approximate fixed-length string-matching data compression, and the other is a Lempel-Ziv-type quasi-parsing method by approximate string matching. The performance of the two algorithms and their sub-optimal versions are evaluated. The main advantages of the proposed methods are the asymptotic sequential behaviour of the encoder and the simplicity of the decoder. In particular, a sub-optimal tree-structure algorithm is proposed and its real-time advantages are demonstrated.
+-

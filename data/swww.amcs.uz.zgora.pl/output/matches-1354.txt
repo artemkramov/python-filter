@@ -1,0 +1,6 @@
+﻿4 - December 2002
+12 - 2002
+Dynamics of social networks: A deterministic approach
+David W. Pearson, Mark McCartney
+Our aim is to model the dynamics of social networks, which comprises the problem of how people get to know each other, like each other, detest each other, etc. Most existing models are stochastic in nature and, obviously, based on random events. Our approach is deterministic and based on ordinary differential equations. This should not be seen as a challenge to stochastic models, but rather as a complement.
+social networks, dynamic systems, quantitative sociodynamics

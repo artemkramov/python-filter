@@ -1,0 +1,6 @@
+﻿3 - September 2016
+26 - 2016
+Controllability criteria for time-delay fractional systems with a retarded state
+Beata Sikora
+The paper is concerned with time-delay linear fractional systems with multiple delays in the state. A formula for the solution of the discussed systems is presented and derived using the Laplace transform. Definitions of relative controllability with and without constraints for linear fractional systems with delays in the state are formulated. Relative controllability, both with and without constraints imposed on control values, is discussed. Various types of necessary and sufficient conditions for relative controllability and relative<em>U</em>-controllability are established and proved. Numerical examples illustrate the obtained theoretical results.
+fractional dynamical systems, controllability, delays in the state, constraints, pseudo-transition matrix, Caputo derivative</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0036">10.1515/amcs-2016-0036</a>

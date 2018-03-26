@@ -1,0 +1,17 @@
+﻿4/2015
+6
+Purification-of-wastewater-by-natural-flocculants,85,26897,0
+abstract:</div><div>REVIEW PAPER
+Purification of wastewater by natural flocculants
+h3>Magdalena Czemierska, Aleksandra Szcześ, Anna Jarosz-Wilkołazka</h3><div>BioTechnologia vol. 96(4) C pp. 272-278 C 2015
+5.57731">https://doi.org/10.5114/bta.2015.57731
+a>View full text</a
+26897
+Czemierska M, Szcześ A, Jarosz-Wilkołazka A. Purification of wastewater by natural flocculants. BioTechnologia. 2016;96(4):272-278. doi:10.5114/bta.2015.57731
+Czemierska, M., Szcześ, A., &amp; Jarosz-Wilkołazka, A. (2016). Purification of wastewater by natural flocculants. BioTechnologia, 96(4), 272-278. https://doi.org/10.5114/bta.2015.57731
+Czemierska, Magdalena, Aleksandra Szcześ, and Anna Jarosz-Wilkołazka. 2016. "Purification of wastewater by natural flocculants". BioTechnologia 96 (4): 272-278. doi:10.5114/bta.2015.57731
+Czemierska, M., Szcześ, A., and Jarosz-Wilkołazka, A. (2016). Purification of wastewater by natural flocculants. BioTechnologia, 96(4), pp.272-278. https://doi.org/10.5114/bta.2015.57731
+Czemierska, Magdalena et al. "Purification of wastewater by natural flocculants." BioTechnologia, vol. 96, no. 4, 2016, pp. 272-278. doi:10.5114/bta.2015.57731
+/div><div>Bioflocculants are macromolecules produced by microorganisms in response to environmental factors (pH value of soil, temperature, presence of metal ions). They are known to possess biosorption abilities and can be applied as wastewater clarifiers. They possess interesting abilities to remove small particles that cannot be removed by any other purification techniques. Bioflocculants may cause aggregation of particles through increasing their molecular weight, which leads to their settlement at the bottom of a water reservoir. Their flocculation abilities can be used for removing metal ions, which are formed in industrial processes (metallurgy, mining, petroleum and chemical industry) as by-products accumulated in aquatic solutions. Biosorption of heavy metals by natural flocculants is possible by neutralization of the surface charge. Flocculants characterized by a negative charge and low zeta potential can aggregate with ions because repulsion forces formed during this process are weaker than van der Waals forces. Further studies on mechanisms of bioflocculation are needed to find a safe and economic way to prevent pollutant accumulation in natural ecosystems.<
+null
+keywords:</div><h3>bioflocculants, aggregation, flocculation, zeta potential</h3

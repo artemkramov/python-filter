@@ -1,0 +1,6 @@
+﻿1 - March 2004
+14 - 2004
+Fault location in EHV transmission lines using artificial neural networks
+Tahar Bouthiba
+This paper deals with the application of artificial neural networks (ANNs) to fault detection and location in extra high voltage (EHV) transmission lines for high speed protection using terminal line data. The proposed neural fault detector and locator were trained using various sets of data available from a selected power network model and simulating different fault scenarios (fault types, fault locations, fault resistances and fault inception angles) and different power system data (source capacities, source voltages, source angles, time constants of the sources). Three fault locators are proposed and a comparative study of the proposed fault locators is carried out in order to determine which ANN fault locator structure leads to the best performance. The results show that artificial neural networks offer the possibility to be used for on-line fault detection and location in transmission lines and give satisfactory results.
+transmission line, fault detection, fault location, artificial neural networks

@@ -1,0 +1,6 @@
+﻿2 - June 1994
+4 - 1994
+Evaluation of some optimal chemotherapy protocols by using a gradient method
+Zdzisław Duda
+The paper presents some optimal problems resulting from cancer chemotherapy. Two bilinear models of a cell population cycle and a linear performance index are considered. A numerical gradient method is applied to solve the problems. Some properties and related simulation results of optimal control strategies are discussed.
+-

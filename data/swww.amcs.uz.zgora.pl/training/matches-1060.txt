@@ -1,0 +1,6 @@
+﻿3 - September 2007
+17 - 2007
+Finite-volume solvers for a multilayer Saint-Venant system
+Emmanuel Audusse, Marie-Odile Bristeau
+We consider the numerical investigation of two hyperbolic shallow water models. We focus on the treatment of the hyperbolic part. We first recall some efficient finite volume solvers for the classical Saint-Venant system. Then we study their extensions to a new multilayer Saint-Venant system. Finally, we use a kinetic solver to perform some numerical tests which prove that the 2D multilayer Saint-Venant system is a relevant alternative to 3D hydrostatic Navier-Stokes equations.
+Saint-Venant system, shallow water equations, finite volumes, kinetic solver, approximate Riemann solvers, multilayer model</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0025-0">10.2478/v10006-007-0025-0</a>

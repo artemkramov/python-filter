@@ -1,0 +1,6 @@
+﻿2 - June 1993
+3 - 1993
+Analytical study of the Kalman filter for stationary dynamic systems
+Petro Bidyuk, Vladimir Podladchikov, Iryna Podladchikova
+This paper is devoted to development of analytical approach to the Kalman filter study. This approach is based upon making use of Riccati equation solution for a class of dynamic systems considered, as well as Kalman and Wiener filters transition matrices. An example of a moving object state estimation shows advantages of the method proposed, the main of which are substantial reduction of computational expenses on modelling of estimation algorithm and a possibility of analytical study of estimation results. A case of correlated measurement noise is also considered. Optimal and suboptimal filters are applied to this case, and expressions for filtering errors are derived. The results obtained can be used to determine a possibility of using suboptimal instead of optimal filters, and to reduce computational expenses.
+-

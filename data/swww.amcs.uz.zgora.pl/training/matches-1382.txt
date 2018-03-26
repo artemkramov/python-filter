@@ -1,0 +1,6 @@
+﻿2 - June 2001
+11 - 2001
+Analysis of an ISOPE-type dual algorithm for optimizing control and nonlinear optimization
+Wojciech Tadej, Piotr Tatjewski
+First results concerning important theoretical properties of the dual ISOPE (Integrated System Optimization and Parameter Estimation) algorithm are presented. The algorithm applies to on-line set-point optimization in control structures with uncertainty in process models and disturbance estimates, as well as to difficult nonlinear constrained optimization problems. Properties of the conditioned (dualized) set of problem constraints are investigated, showing its structure and feasibility properties important for applications. Convergence conditions for a simplified version of the algorithm are derived, indicating a practically important threshold value of the right-hand side of the conditioning constraint. Results of simulations are given confirming the theoretical results and illustrating properties of the algorithms.
+nonlinear optimization, optimizing control, duality, condition number

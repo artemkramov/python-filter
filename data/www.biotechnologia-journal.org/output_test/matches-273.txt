@@ -1,0 +1,6 @@
+a>View full text</a
+Charzyńska A, Nałęcz A, Rybiński M, Gambin A. RESEARCH PAPER&lt;br&gt;Sensitivity analysis of mathematical models of signaling pathways. BioTechnologia. 2014;93(3):291-308. doi:10.5114/bta.2012.46584
+Charzyńska, A., Nałęcz, A., Rybiński, M., &amp; Gambin, A. (2014). RESEARCH PAPER&lt;br&gt;Sensitivity analysis of mathematical models of signaling pathways. BioTechnologia, 93(3), 291-308. https://doi.org/10.5114/bta.2012.46584
+Charzyńska, Agata, Anna Nałęcz, Mikołaj Rybiński, and Anna Gambin. 2014. "RESEARCH PAPER&lt;br&gt;Sensitivity analysis of mathematical models of signaling pathways". BioTechnologia 93 (3): 291-308. doi:10.5114/bta.2012.46584
+Charzyńska, A., Nałęcz, A., Rybiński, M., and Gambin, A. (2014). RESEARCH PAPER&lt;br&gt;Sensitivity analysis of mathematical models of signaling pathways. BioTechnologia, 93(3), pp.291-308. https://doi.org/10.5114/bta.2012.46584
+Charzyńska, Agata et al. "RESEARCH PAPER&lt;br&gt;Sensitivity analysis of mathematical models of signaling pathways." BioTechnologia, vol. 93, no. 3, 2014, pp. 291-308. doi:10.5114/bta.2012.46584

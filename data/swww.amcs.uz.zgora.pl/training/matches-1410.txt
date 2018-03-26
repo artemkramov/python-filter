@@ -1,0 +1,6 @@
+﻿2 - June 2016
+26 - 2016
+Robust LQR and LQI control with actuator failure of a 2DOF unmanned bicycle robot stabilized by an inertial wheel
+Adam Owczarkowski, Dariusz Horla
+Essential ingredients for robust control are the ability to cope with different types of system behavior following modeling imperfections and the ability to assure a certain performance level. In this paper, we propose to use an actuator fault-tolerant control law to govern, during experiments, the stabilization of a bicycle robot with an inertial wheel in order to take into account unmodeled uncertainty introduced by using a linearized model in an LQR fashion. Our proposal is illustrated by signal plots and the values of performance indices obtained from a set of experiments.
+unmanned bicycle robot, LQR/LQI control, robustness, actuator failure</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0023">10.1515/amcs-2016-0023</a>

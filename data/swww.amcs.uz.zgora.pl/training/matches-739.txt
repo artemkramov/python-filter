@@ -1,0 +1,6 @@
+﻿3 - September 2012
+22 - 2012
+On the controllability of fractional dynamical systems
+Krishnan Balachandran, Jayakumar Kokila
+This paper is concerned with the controllability of linear and nonlinear fractional dynamical systems in finite dimensional spaces. Sufficient conditions for controllability are obtained using Schauder’s fixed point theorem and the controllability Grammian matrix which is defined by the Mittag-Leffler matrix function. Examples are given to illustrate the effectiveness of the theory.
+controllability, fractional differential equations, Mittag-Leffler function</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0039-0">10.2478/v10006-012-0039-0</a>

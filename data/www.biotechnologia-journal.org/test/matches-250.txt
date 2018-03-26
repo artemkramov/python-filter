@@ -1,0 +1,17 @@
+﻿4/2012
+3
+REVIEW-PAPER-Artemisia-species-in-vitro-cultures-for-production-r-nof-biologically-active-secondary-metabolites,85,23917,0
+abstract:
+REVIEW PAPER<br><i>Artemisia</i>species<i>in vitro</i>cultures for production of biologically active secondary metabolites
+h3>Marta Grech-Baran, Agnieszka Pietrosiuk</h3><div>BioTechnologia vol. 93(4) C pp. 371-380 C 2012
+2.46591">https://doi.org/10.5114/bta.2012.46591
+a>View full text</a
+23917
+Grech-Baran M, Pietrosiuk A. REVIEW PAPER&lt;br&gt;&lt;i&gt;Artemisia&lt;/i&gt; species &lt;i&gt;in vitro&lt;/i&gt; cultures for production of biologically active secondary metabolites. BioTechnologia. 2014;93(4):371-380. doi:10.5114/bta.2012.46591
+Grech-Baran, M., &amp; Pietrosiuk, A. (2014). REVIEW PAPER&lt;br&gt;&lt;i&gt;Artemisia&lt;/i&gt; species &lt;i&gt;in vitro&lt;/i&gt; cultures for production of biologically active secondary metabolites. BioTechnologia, 93(4), 371-380. https://doi.org/10.5114/bta.2012.46591
+Grech-Baran, Marta, and Agnieszka Pietrosiuk. 2014. "REVIEW PAPER&lt;br&gt;&lt;i&gt;Artemisia&lt;/i&gt; species &lt;i&gt;in vitro&lt;/i&gt; cultures for production of biologically active secondary metabolites". BioTechnologia 93 (4): 371-380. doi:10.5114/bta.2012.46591
+Grech-Baran, M., and Pietrosiuk, A. (2014). REVIEW PAPER&lt;br&gt;&lt;i&gt;Artemisia&lt;/i&gt; species &lt;i&gt;in vitro&lt;/i&gt; cultures for production of biologically active secondary metabolites. BioTechnologia, 93(4), pp.371-380. https://doi.org/10.5114/bta.2012.46591
+Grech-Baran, Marta et al. "REVIEW PAPER&lt;br&gt;&lt;i&gt;Artemisia&lt;/i&gt; species &lt;i&gt;in vitro&lt;/i&gt; cultures for production of biologically active secondary metabolites." BioTechnologia, vol. 93, no. 4, 2014, pp. 371-380. doi:10.5114/bta.2012.46591
+/div><div>An overview of recent studies conducted with the use of various plant tissues, organ culture and plant regeneration<br><br>of<i>Artemisia</i>species is presented in this paper. Species that belong to this genus contain important secondary<br><br>metabolites of diverse structure and biological activity. Owing to their valuable pharmacological properties,<br><br><i>Artemisia</i>species have been the object of various biotechnological studies. Different<i>in vitro</i>methods of<i>Artemisia</i><br><br>sp. culture are key to the production of these valuable compounds – especially sesquiterpene lactones – artemisinin<br><br>and arglabin – used as natural drugs.<
+null
+keywords:</div><h3><i>Artemisia</i>, cultures<i>in vitro</i>, hairy roots, cultures in bioreactors, artemisinin, arglabin</h3

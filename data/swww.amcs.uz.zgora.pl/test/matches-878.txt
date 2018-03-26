@@ -1,0 +1,6 @@
+﻿3 - September 2017
+27 - 2017
+The controllability of nonlinear implicit fractional delay dynamical systems
+Rajagopal Joice Nirmala, Krishnan Balachandran
+This paper is concerned with the controllability of nonlinear fractional delay dynamical systems with implicit fractional derivatives for multiple delays and distributed delays in control variables. Sufficient conditions are obtained by using the Darbo fixed point theorem. Further, examples are given to illustrate the theory.
+controllability, fractional delay differential equation, Mittag-Leffler function, fixed point theorem</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2017-0035">10.1515/amcs-2017-0035</a>

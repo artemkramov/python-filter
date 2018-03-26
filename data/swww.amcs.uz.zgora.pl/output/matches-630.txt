@@ -1,0 +1,6 @@
+﻿1 - March 2013
+23 - 2013
+Predictive control for trajectory tracking and decentralized navigation of multi-agent formations
+Ionela Prodan, Sorin Olaru, Cristina Stoica, Silviu-Iulian Niculescu
+This paper addresses a predictive control strategy for a particular class of multi-agent formations with a time-varying topology. The goal is to guarantee tracking capabilities with respect to a reference trajectory which is pre-specified for an agent designed as the<em>leader</em>. Then, the remaining agents, designed as<em>followers</em>, track the position and orientation of the leader. In real-time, a predictive control strategy enhanced with the potential field methodology is used in order to derive a feedback control action based only on local information within the group of agents. The main concern is that the interconnections between the agents are time-varying, affecting the neighborhood around each agent. The proposed method exhibits effective performance validated through some illustrative examples.
+multi-agent systems, linear systems, model predictive control, potential function, polyhedral function</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0008">10.2478/amcs-2013-0008</a>

@@ -1,0 +1,17 @@
+﻿3/2017
+8
+Optimization-of-in-vitro-culture-conditions-for-obtaining-flax-r-n-Linum-usitatissimum-L-cv-Modran-cell-suspension-culture,85,30828,0
+abstract:</div><div>RESEARCH PAPERS
+Optimization of in vitro culture conditions for obtaining flax (<i>Linum usitatissimum</i>L. cv. Modran) cell suspension culture
+h3>Aleksandra Seta-Koselska, Ewa Skórzyńska-Polit</h3><div>BioTechnologia vol. 98(3) C pp. 183-188 C 2017
+7.70796">https://doi.org/10.5114/bta.2017.70796
+a>View full text</a
+30828
+Seta-Koselska A, Skórzyńska-Polit E. Optimization of in vitro culture conditions for obtaining flax (&lt;i&gt;Linum usitatissimum&lt;/i&gt; L. cv. Modran) cell suspension culture. BioTechnologia. 2018;98(3):183-188. doi:10.5114/bta.2017.70796
+Seta-Koselska, A., &amp; Skórzyńska-Polit, E. (2018). Optimization of in vitro culture conditions for obtaining flax (&lt;i&gt;Linum usitatissimum&lt;/i&gt; L. cv. Modran) cell suspension culture. BioTechnologia, 98(3), 183-188. https://doi.org/10.5114/bta.2017.70796
+Seta-Koselska, Aleksandra, and Ewa Skórzyńska-Polit. 2018. "Optimization of in vitro culture conditions for obtaining flax (&lt;i&gt;Linum usitatissimum&lt;/i&gt; L. cv. Modran) cell suspension culture". BioTechnologia 98 (3): 183-188. doi:10.5114/bta.2017.70796
+Seta-Koselska, A., and Skórzyńska-Polit, E. (2018). Optimization of in vitro culture conditions for obtaining flax (&lt;i&gt;Linum usitatissimum&lt;/i&gt; L. cv. Modran) cell suspension culture. BioTechnologia, 98(3), pp.183-188. https://doi.org/10.5114/bta.2017.70796
+Seta-Koselska, Aleksandra et al. "Optimization of in vitro culture conditions for obtaining flax (&lt;i&gt;Linum usitatissimum&lt;/i&gt; L. cv. Modran) cell suspension culture." BioTechnologia, vol. 98, no. 3, 2018, pp. 183-188. doi:10.5114/bta.2017.70796
+/div><div>Flax (<i>Linum usitatissimum</i>L.) is an ancient crop that is widely cultivated as a source of oil, fiber, and bioactive compounds. Flax fiber is traditionally used in textile industry, linseed oil is processed for industrial oils, paints, varnishes and bio-petroleum. Flaxseeds are also rich in α-linolenic acid and phytochemicals such as lignans. In addition to the commercial aspects, this species has been used widely and readily in biotechnological, developmental, and plant-pathogen interaction studies. Differences in the levels of endogenous hormones in various cultivars of flax significantly affected the intensity of callogenesis and determined the type and concentration of growth regulators necessary for callus production. The aim of our investigation was to optimize the culture conditions for callus formation and cell proliferation in liquid medium of the Polish cultivar of fiber flax – Modran. In the first step, 4 combinations of phytohormones in the medium were tested to obtain established callus tissue suitable for initiation of suspension culture. Next, we investigated the effect of chosen plant growth regulators on cell divisions, fresh and dry weight, and dispersal of callus cells in liquid medium. Fast growing and friable callus was obtained in a modified MS medium supplemented with 0.5 mg/l BAP and 0.1 mg/l NAA. We determined that for the initiation of cell suspension supplementation with 0.5 mg/l BAP and 0.5 mg/l NAA is optimal. The results obtained indicated that high concentration of cytokinin (BAP) in liquid medium limited cell proliferation and decreased biomass formation.<
+null
+keywords:</div><h3><i>Linum usitatissimum</i>, callus culture, cell suspension culture</h3

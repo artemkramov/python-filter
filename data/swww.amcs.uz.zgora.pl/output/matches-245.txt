@@ -1,0 +1,6 @@
+﻿2 - June 1996
+6 - 1996
+A simple method for improving the accuracy and convergence of FEM computations
+Antoni Żochowski
+In the paper, a simple method for improving the convergence rate and accuracy of finite-element computations is presented. It is based on a discrete formulation of the problems on certain types of superelements and uses the formal-series technique. It makes possible a uniform treatment of problems with corner singularities and an improvement of accuracy in ordinary FEM computations, without any increase in the dimensionality of the problem.
+-

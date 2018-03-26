@@ -1,0 +1,4 @@
+4-2015,3237">4/2015 vol. 16
+Statistical identification of complex technical system operation process
+Akademia Morska w Gdyni 81-225 Gdynia, ul. Morska 81-87
+The paper is concerned with the methods and procedures for identification of unknown parameters of a general probability model of a complex technical system operation process and their practical application. The general multistate model of a complex technical system operation process is proposed and the procedure of identifying its basic unknown parameters is presented. There are also suggested typical distribution functions describing the system operation process conditional sojourn times at particular operation states and the procedure of identifying their unknown parameters is proposed. An illustration of the proposed methods and procedures practical application to identifying the port oil piping transportation system operation process and its operation characteristics prediction is presented.

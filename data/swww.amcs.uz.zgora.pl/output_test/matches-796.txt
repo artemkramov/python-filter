@@ -1,0 +1,3 @@
+KHM clustering technique as a segmentation method for endoscopic colour images
+Mariusz Frąckiewicz, Henryk Palus
+In this paper, the idea of applying the<em>k</em>-harmonic means (KHM) technique in biomedical colour image segmentation is presented. The<em>k</em>-means (KM) technique establishes a background for the comparison of clustering techniques. Two original initialization methods for both clustering techniques and two evaluation functions are described. The proposed method of colour image segmentation is completed by a postprocessing procedure. Experimental tests realized on real endoscopic colour images show the superiority of KHM over KM.

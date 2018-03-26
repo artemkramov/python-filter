@@ -1,0 +1,6 @@
+﻿3 - September 1998
+8 - 1998
+Model-based predictive control of large-scale systems using a neural estimator
+Spyros Tzafestas, Efthimios Kyriannakis, Yiannis Anthopoulos
+An approach to the design of discrete-time decentralized control systems based on model-based predictive control (MBPC) and neural estimation is proposed. The class of interconnected large-scale systems (LSS) is considered, and a model is used at each control station to predict the corresponding subsystem output over a long time period. In the case of subsystems with<em>m</em>-step delay information patterns the non-locally available interaction trajectories are estimated by a multi-layer neural network trained on-line with a modified backpropagation-type algorithm. Representative computer simulation results are provided and compared for a set of illustrative examples. The proposed control scheme shows better performance than the other schemes, and also covers the important case where the subsystems' interactions are nonlinear.
+-

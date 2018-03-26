@@ -1,0 +1,6 @@
+﻿1 - March 2002
+12 - 2002
+On finite element uniqueness studies for Coulomb's frictional contact model
+Patrick Hild
+We are interested in the finite element approximation of Coulomb's frictional unilateral contact problem in linear elasticity. Using a mixed finite element method and an appropriate regularization, it becomes possible to prove existence and uniqueness when the friction coefficient is less than<em>Cε<sup>2</sup></em>|log<em>(h)</em>|<sup>-1</sup>, where<em>h</em>and<em>ε</em>denote the discretization and regularization parameters, respectively. This bound converging very slowly towards 0 when<em>h</em>decreases (in comparison with the already known results of the non-regularized case) suggests a minor dependence of the mesh size on the uniqueness conditions, at least for practical engineering computations. Then we study the solutions of a simple finite element example in the non-regularized case. It can be shown that one, multiple or an infinity of solutions may occur and that, for a given loading, the number of solutions may eventually decrease when the friction coefficient increases.
+Coulomb's friction law, finite elements, mesh-size dependent uniqueness conditions, non-uniqueness example

@@ -1,0 +1,6 @@
+﻿2 - June 2009
+19 - 2009
+Simple conditions for practical stability of positive fractional discrete-time linear systems
+Mikołaj Busłowicz, Tadeusz Kaczorek
+In the paper the problem of practical stability of linear positive discrete-time systems of fractional order is addressed. New simple necessary and sufficient conditions for practical stability and for practical stability independent of the length of practical implementation are established. It is shown that practical stability of the system is equivalent to asymptotic stability of the corresponding standard positive discrete-time systems of the same order. The discussion is illustrated with numerical examples.
+linear system, positive, discrete-time, fractional, stability, practical stability</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-009-0022-6">10.2478/v10006-009-0022-6</a>

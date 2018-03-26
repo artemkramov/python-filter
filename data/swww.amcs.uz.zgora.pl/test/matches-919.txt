@@ -1,0 +1,6 @@
+﻿1 - March 2009
+19 - 2009
+Robust parameter design using the weighted metric method—The case of 'the smaller the better'
+Mostafa Kamali Ardakani, Rassoul Noorossana, Seyed Taghi Akhavan Niaki, Homayoun Lahijanian
+In process robustness studies, it is desirable to minimize the influence of noise factors on the system and simultaneously determine the levels of controllable factors optimizing the overall response or outcome. In the cases when a random effects model is applicable and a fixed effects model is assumed instead, an increase in the variance of the coefficient vector should be expected. In this paper, the impacts of this assumption on the results of the experiment in the context of robust parameter design are investigated. Furthermore, two criteria are considered to determine the optimum settings for the control factors. In order to better understand the proposed method and to evaluate its performances, a numerical example for the case of 'the smaller the better' is included.
+multiobjective decision making, regression estimation, response surface methodology, robust parameter design, weighted metric method</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-009-0005-7">10.2478/v10006-009-0005-7</a>

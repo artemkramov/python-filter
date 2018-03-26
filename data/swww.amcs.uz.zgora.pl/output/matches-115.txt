@@ -1,0 +1,6 @@
+﻿4 - December 1999
+9 - 1999
+Stochastic neural networks for feasibility checking
+György Strausz
+Complex diagnosis problems, defined by high-level models, often lead to constraint-based discrete optimization tasks. A logical description of large, complex systems usually contains numerous variables. The first test of the logical description is typically to check the feasibility in order to know that there is no contradiction in the model. This can be formulated as an optimization problem and methods of discrete optimization theory can then be used. The purpose of the paper is to show that stochastic neural networks can be applied to this type of tasks and the networks are efficient tools for finding feasible or good-quality configurations. Boltzmann and mean-field neural networks were tested on large-sized complex problems. The paper presents simulation results obtained from a real application task and compares the performance of the neural networks being examined.
+optimization, neural networks, simulated annealing, mean-field approximation

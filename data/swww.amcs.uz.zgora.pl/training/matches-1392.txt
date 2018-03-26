@@ -1,0 +1,6 @@
+﻿3 - September 2001
+11 - 2001
+Rough relation properties
+Maria do Carmo Nicoletti, Joaquim Quinteiro Uchôa, Margarete T.Z. Baptistini
+Rough Set Theory (RST) is a mathematical formalism for representing uncertainty that can be considered an extension of the classical set theory. It has been used in many different research areas, including those related to inductive machine learning and reduction of knowledge in knowledge-based systems. One important concept related to RST is that of a rough relation. This paper rewrites some properties of rough relations found in the literature, proving their validity.
+rough set theory, rough relation, knowledge representation

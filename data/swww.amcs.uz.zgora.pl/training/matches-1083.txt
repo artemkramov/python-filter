@@ -1,0 +1,6 @@
+﻿4 - December 2007
+17 - 2007
+Reduction in the number of PAL macrocells in the circuit of a Moore FSM
+Alexander Barkalov, Larysa Titarenko, Sławomir Chmielewski
+Optimization methods of logic circuits for Moore finite-state machines are proposed. These methods are based on the existence of pseudoequivalent states of a Moore finite-state machine, a wide fan-in of PAL macrocells and free resources of embedded memory blocks. The methods are oriented to hypothetical VLSI microcircuits based on the CPLD technology and containing PAL macrocells and embedded memory blocks. The conditions of effective application of each proposed method are shown. An algorithm to choose the best model of a finite-state machine for given conditions is proposed. Examples of proposed methods application are given. The effectiveness of the proposed methods is also investigated.
+Moore finite-state machine, complex programmable logic devices, design, logic circuit, pseudoequivalent states</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0046-8">10.2478/v10006-007-0046-8</a>

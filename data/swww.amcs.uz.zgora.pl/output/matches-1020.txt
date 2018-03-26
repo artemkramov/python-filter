@@ -1,0 +1,6 @@
+﻿4 - December 2008
+18 - 2008
+A new approach to multiple fault diagnosis: A combination of diagnostic matrices, graphs, algebraic and rule-based models. The case of two-layer models
+Antoni Ligęza, Jan Maciej Kościelny
+The diagnosis of multiple faults is significantly more difficult than singular fault diagnosis. However, in realistic industrial systems the possibility of simultaneous occurrence of multiple faults must be taken into account. This paper investigates some of the limitations of the diagnostic model based on the simple binary diagnostic matrix in the case of multiple faults. Several possible interpretations of the diagnostic matrix with rule-based systems are provided and analyzed. A proposal of an extension of the basic, single-level model based on diagnostic matrices to a two-level one, founded on causal analysis and incorporating an OR and an AND matrix is put forward. An approach to the diagnosis of multiple faults based on inconsistency analysis is outlined, and a refinement procedure using a qualitative model of dependencies among system variables is sketched out.
+automated diagnosis, diagnostic matrix, diagnostic rules, model-based diagnosis, consistency-based diagnosis</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0041-8">10.2478/v10006-008-0041-8</a>

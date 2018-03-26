@@ -1,0 +1,6 @@
+﻿1 - June 1992
+2 - 1992
+Optimal routing and frame distribution assignment problem in the integrated services digital network
+Adam Grzech, Andrzej Kasprzak
+In the paper, the optimal routing and frames distribution assignment problem in Integrated Services Digital Network (ISDN) is considered. The problem consists of simultaneously finding the routes for both voice and data traffic and the distribution of frames between voice and data traffics which minimize the total average delay per packet such that the traffic requirements are satisfied. The problem presented here is the nonlinear mixed-integer programming problem. The paper is divided to present the exact algorithm for the above formulated problem. Since this problem is NP-complete then a branch and bound method is used to construct this optimal algorithm.
+-

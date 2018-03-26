@@ -1,0 +1,6 @@
+﻿1 - March 2004
+14 - 2004
+Gradient flow optimization for reducing blocking effects of transform coding
+Feng Gao, Xiaokun Li, Xun Wang, William G. Wee
+This paper addresses the problem of reducing blocking effects in transform coding. A novel optimization approach using the gradient flow is proposed. Using some properties of the gradient flow on a manifold, an optimized filter design method for reducing the blocking effects is presented. Based on this method, an image reconstruction algorithm is derived. The algorithm maintains the fidelity of images while reducing the blocking effects. Experimental tests demonstrate that the presented algorithm is effective.
+gradient flow, blocking effects, optimization, transform coding

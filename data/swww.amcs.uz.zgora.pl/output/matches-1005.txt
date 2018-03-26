@@ -1,0 +1,6 @@
+﻿3 - September 2008
+18 - 2008
+Block-based physical modeling with applications in musical acoustics
+Rudolf Rabenstein, Stefan Petrausch
+Block-based physical modeling is a methodology for modeling physical systems with different subsystems. Each subsystem may be modeled according to a different paradigm. Connecting systems of diverse nature in the discrete-time domain requires a unified interconnection strategy. Such a strategy is provided by the well-known wave digital principle, which had been introduced initially for the design of digital filters. It serves as a starting point for the more general idea of block-based physical modeling, where arbitrary discrete-time state space representations can communicate via wave variables. An example in musical acoustics shows the application of block-based modeling to multidimensional physical systems.
+physical modeling, wave digital filters, sound synthesis</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0027-6">10.2478/v10006-008-0027-6</a>

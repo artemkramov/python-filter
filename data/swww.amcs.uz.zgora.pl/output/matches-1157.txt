@@ -1,0 +1,6 @@
+﻿2 - June 2005
+15 - 2005
+Comparison of linear control methods for an AMB system
+Wojciech Grega, Adam Piłat
+The contactless nature of active magnetic bearings brings about many advantages over the conventional bearing while industrial real-time applications are often limited by the significant complexity of control algorithms. This paper presents the application of an LQ controller to an active magnetic bearing system (AMB). Two control strategies are presented and compared: local and global. In the first case the rotor is modelled as two separated masses located at the bearing. In the second case rotor stabilization is considered globally as a problem of the rotating rigid body suspended in a magnetic field. The second approach is especially important for high-speed rotating machines. The control performance of both algorithms was analysed using an experimental AMB laboratory system.
+active magnetic bearing, real-time control, modelling, LQ control, control performance

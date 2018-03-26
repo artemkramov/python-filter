@@ -1,0 +1,6 @@
+﻿3 - September 2011
+21 - 2011
+A neural-network controlled dynamic evolutionary scheme for global molecular geometry optimization
+Anna Styrcz, Janusz Mrozek, Grzegorz Mazur
+A novel, neural network controlled, dynamic evolutionary algorithm is proposed for the purposes of molecular geometry optimization. The approach is tested for selected model molecules and some molecular systems of importance in biochemistry. The new algorithm is shown to compare favorably with the standard, statically parametrized memetic algorithm.
+global optimization, memetic algorithm, molecular geometry</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-011-0044-8">10.2478/v10006-011-0044-8</a>

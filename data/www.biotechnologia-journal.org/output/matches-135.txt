@@ -1,0 +1,17 @@
+﻿2/2015
+6
+Determination-of-an-optimal-isolation-and-culture-conditions-r-nof-grass-pea-protoplasts,85,25780,0
+abstract:</div><div>Review paper
+Determination of an optimal isolation and culture conditions of grass pea protoplasts
+h3>Barbara Piwowarczyk, Anna Pindel</h3><div>vol. 96(2) C pp. 192-202 C 2015
+5.54205">https://doi.org/10.5114/bta.2015.54205
+a>View full text</a
+25780
+Piwowarczyk B, Pindel A. Determination of an optimal isolation and culture conditions of grass pea protoplasts. BioTechnologia. 2015;96(2):192-202. doi:10.5114/bta.2015.54205
+Piwowarczyk, B., &amp; Pindel, A. (2015). Determination of an optimal isolation and culture conditions of grass pea protoplasts. BioTechnologia, 96(2), 192-202. https://doi.org/10.5114/bta.2015.54205
+Piwowarczyk, Barbara, and Anna Pindel. 2015. "Determination of an optimal isolation and culture conditions of grass pea protoplasts". BioTechnologia 96 (2): 192-202. doi:10.5114/bta.2015.54205
+Piwowarczyk, B., and Pindel, A. (2015). Determination of an optimal isolation and culture conditions of grass pea protoplasts. BioTechnologia, 96(2), pp.192-202. https://doi.org/10.5114/bta.2015.54205
+Piwowarczyk, Barbara et al. "Determination of an optimal isolation and culture conditions of grass pea protoplasts." BioTechnologia, vol. 96, no. 2, 2015, pp. 192-202. doi:10.5114/bta.2015.54205
+/div><div>This paper presents a study on determination of optimal grass pea (<i>Lathyrus sativus</i>L.) protoplast solation and culture conditions. The plant material comprised the Polish variety “Derek”. Explants for protoplast isolation were leaves of 10, 15, 21 and 28 day-old in vitro and in vivo grown seedlings. The plant material was briefly incubated (3-4 hours) or left overnight (17-18 hours) in different enzymatic mixtures. The isolation efficiency and viability of protoplasts were assessed to compare the applied isolation conditions. The best selected isolation conditions were used in subsequent experiments. Protoplast cultures were established in liquid and solid media enriched in various supplements. Protoplast viability, morphological responses and cell wall reconstruction were evaluated. Grass pea leaves proved to be a good source of protoplasts. The origin and the age of donor plants as well as the type of the applied enzymatic mixture had an impact on the isolation efficiency, viability of protoplasts and further protoplast responses during the culture. Overnight incubation resulted in a higher yield of protoplasts. However, protoplasts isolated from briefly incubated material had higher viability. Protoplasts from leaves of 15-21 day-old in vitro seedlings obtained after overnight isolation showed the highest viability on the 10th day of cultivation. In liquid media, protoplasts survived for about 10 days and only an addition of chitosan prolonged their viability to more than 15 days. Shape changes and intensive budding of protoplasts were observed during the culture. Although no steady mitotic activity was observed in liquid media, occasional cell divisions were noted in an agarose-droplet culture. After 24 hours, grass pea mesophyll protoplasts rebuilt their cell wall at different ratios (10-60%) depending on the applied media. A high frequency of protoplast budding suggests some abnormalities in cell wall structure that prevent the further development of a culture.<
+null
+keywords:</div><h3>agarose-droplet culture, chitosan,<i>Lathyrus sativus</i>, leaf mesophyll, protoplast isolation efficiency, protoplast viability</h3

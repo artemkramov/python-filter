@@ -1,0 +1,6 @@
+﻿3 - September 1994
+4 - 1994
+Application of neural networks to the analysis of industrial images
+Piotr Pawlik, Zbigniew Bubliński
+This paper describes a system for automatic evaluation of digital images of a glass production process based on neural networks. Some details concerning used networks and learning sets are presented. The obtained results are compared with the description given by glasswork technology service. Also, some possibilities of improving the quality and the speed of the system are proposed.
+-

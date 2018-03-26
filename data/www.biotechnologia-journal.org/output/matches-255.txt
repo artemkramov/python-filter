@@ -1,0 +1,17 @@
+﻿4/2012
+3
+REVIEW-PAPER-Non-nucleosidic-analogs-of-nucleic-acids,85,23919,0
+abstract:
+REVIEW PAPER<br>Non-nucleosidic analogs of nucleic acids
+h3>Jolanta Brzezińska, Katarzyna Adrych-Rożek, Zofia Jahnz-Wechmann, Jerzy Boryski, Wojciech T. Markiewicz</h3><div>BioTechnologia vol. 93(4) C pp. 391-399 C 2012
+2.46593">https://doi.org/10.5114/bta.2012.46593
+a>View full text</a
+23919
+Brzezińska J, Adrych-Rożek K, Jahnz-Wechmann Z, Boryski J, Markiewicz W. REVIEW PAPER&lt;br&gt;Non-nucleosidic analogs of nucleic acids. BioTechnologia. 2014;93(4):391-399. doi:10.5114/bta.2012.46593
+Brzezińska, J., Adrych-Rożek, K., Jahnz-Wechmann, Z., Boryski, J., &amp; Markiewicz, W. (2014). REVIEW PAPER&lt;br&gt;Non-nucleosidic analogs of nucleic acids. BioTechnologia, 93(4), 391-399. https://doi.org/10.5114/bta.2012.46593
+Brzezińska, Jolanta, Katarzyna Adrych-Rożek, Zofia Jahnz-Wechmann, Jerzy Boryski, and Wojciech T. Markiewicz. 2014. "REVIEW PAPER&lt;br&gt;Non-nucleosidic analogs of nucleic acids". BioTechnologia 93 (4): 391-399. doi:10.5114/bta.2012.46593
+Brzezińska, J., Adrych-Rożek, K., Jahnz-Wechmann, Z., Boryski, J., and Markiewicz, W. (2014). REVIEW PAPER&lt;br&gt;Non-nucleosidic analogs of nucleic acids. BioTechnologia, 93(4), pp.391-399. https://doi.org/10.5114/bta.2012.46593
+Brzezińska, Jolanta et al. "REVIEW PAPER&lt;br&gt;Non-nucleosidic analogs of nucleic acids." BioTechnologia, vol. 93, no. 4, 2014, pp. 391-399. doi:10.5114/bta.2012.46593
+/div><div>This paper presents several analogs of nucleic acids, including their structure and selected physico-chemical properties,<br><br>reported recently as being obtained from non-nucleosidic units connected via phosphorodiester bonds.<br><br>These analogs are built from units that instead of sugar residues carry different diol structures functionalized<br><br>either with natural nucleobases or with other ring systems of an aromatic character. Some interesting nonnucleosidic<br><br>oligonucleotide analogs and their applications are described. Unlocked (UNA) and glycerol nucleic<br><br>acids (GNA) are also described.<
+null
+keywords:</div><h3>nucleic acids, oligonucleotides, non-nucleosidic nucleic acids, UNA, GNA, oligonucleotide analogs</h3

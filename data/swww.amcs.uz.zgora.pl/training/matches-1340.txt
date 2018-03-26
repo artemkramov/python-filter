@@ -1,0 +1,6 @@
+﻿3 - September 2002
+12 - 2002
+On granular derivatives and the solution of a granular initial value problem
+Ildar Batyrshin
+Perceptions about function changes are represented by rules like<em>"If X is SMALL then Y is QUICKLY INCREASING."</em>The consequent part of a rule describes a granule of directions of the function change when<em>X</em>is increasing on the fuzzy interval given in the antecedent part of the rule. Each rule defines a granular differential and a rule base defines a granular derivative. A reconstruction of a fuzzy function given by the granular derivative and the initial value given by the rule is similar to Euler's piecewise linear solution of an initial value problem. The solution method is based on a granulation of the directions of the function change, on an extension of the initial value in directions and on a propagation of fuzzy constraints given in antecedent parts of rules on possible function values. The proposed method is illustrated with an example.
+fuzzy differential, fuzzy granule, initial value problem, cylindrical extension

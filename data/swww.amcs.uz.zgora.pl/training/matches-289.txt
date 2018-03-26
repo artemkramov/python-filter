@@ -1,0 +1,6 @@
+﻿2 - June 1995
+5 - 1995
+On tracking control of rigid and flexible joint robots
+Antonio Loria, Romeo Ortega
+The problem of (semi-global) trajectory tracking control of<em>rigid</em>and<em>flexible</em>joints robots using computed torque based controllers is considered. The paper contains two contributions; firstly, for rigid robots it is shown that velocity in the control algorithm can be replaced by the filtered position, thus obviating the explicit need for<em>state observers</em>. Secondly, it is shown that it is possible to achieve trajectory tracking of flexible joint robots<em>without calculating link jerk</em>. Removing the need for observers and the determination of link jerk reduces the controller complexity and enhances its robustness with respect to parameter uncertainty and unmodelled dynamics.
+-

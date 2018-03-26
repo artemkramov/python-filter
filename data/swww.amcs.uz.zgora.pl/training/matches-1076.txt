@@ -1,0 +1,6 @@
+﻿4 - December 2007
+17 - 2007
+Redundancy relations for fault diagnosis in nonlinear uncertain systems
+Alexey Shumsky
+The problem of fault detection and isolation in nonlinear uncertain systems is studied within the scope of the analytical redundancy concept. The problem solution involves checking the redundancy relations existing among measured system inputs and outputs. A novel method is proposed for constructing redundancy relations based on system models described by differential equations whose right-hand sides are polynomials. The method involves a nonlinear transformation of the initial system model into a strict feedback form. Algebraic and geometric tools are used for this transformation. The features of the method are made particular for uncertain systems with a linear structure.
+fault detection and isolation, nonlinear systems, redundancy relations, full decoupling, algebraic approach, geometric approach</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0040-1">10.2478/v10006-007-0040-1</a>

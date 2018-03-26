@@ -1,0 +1,6 @@
+﻿4 - October 2001
+11 - 2001
+An<em>ε</em>-insensitive approach to fuzzy clustering
+Jacek Łęski
+Fuzzy clustering can be helpful in finding natural vague boundaries in data. The fuzzy<em>c</em>-means method is one of the most popular clustering methods based on minimization of a criterion function. However, one of the greatest disadvantages of this method is its sensitivity to the presence of noise and outliers in the data. The present paper introduces a new<em>ε</em>-insensitive Fuzzy<em>C</em>-Means (<em>ε</em>FCM) clustering algorithm. As a special case, this algorithm includes the well-known Fuzzy<em>C</em>-Medians method (FCMED). The performance of the new clustering algorithm is experimentally compared with the Fuzzy<em>C</em>-Means (FCM) method using synthetic data with outliers and heavy-tailed, overlapped groups of the data.
+fuzzy clustering, fuzzy<em>c</em>-means, robust methods,<em>ε</em>-insensitivity, fuzzy<em>c</em>-medians

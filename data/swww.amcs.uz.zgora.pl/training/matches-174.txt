@@ -1,0 +1,6 @@
+﻿1 - March 1997
+7 - 1997
+A new approach to convergence analysis of RLS-based self-tuning stochastic control
+Antoni Niederliński
+It is demonstrated that a recently derived bound on the error convergence rate in (open-loop) RLS estimation is applicable to RLS-based stochastic self-tuning control as well. This leads to a generalized upper bound for the estimation error convergence rate in stochastic self-tuning control. The bound is shown to converge to zero under some assumptions regarding the model structure. The result is used to formulate two<em>principles of self-tuning</em>stating sufficient conditions under which self-tuning to stability and self-tuning to parameter consistency may occur.
+-

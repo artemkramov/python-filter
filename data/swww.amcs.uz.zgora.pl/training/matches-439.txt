@@ -1,0 +1,6 @@
+﻿1 - June 1992
+2 - 1992
+Load control in distributed database based multistage decision-making system
+Leszek Borzemski
+In shared database management systems there is a need for load control to improve distributed system utilization. It is shown how this aim can be achieved in the case of a distributed database developed for supporting a decision-making distributed system where decisions are based on a common decision tree. The load balancing approach is investigated and several general and application specific task load balancing algorithms are proposed and tested. The results show the relative merits of different approaches to the load balancing problem. A pre-scheduling policy is proposed which is superior to other investigated algorithms in the real-time environments.
+-

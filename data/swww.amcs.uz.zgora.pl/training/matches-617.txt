@@ -1,0 +1,6 @@
+﻿4 - December 2014
+24 - 2014
+A finite-buffer queue with a single vacation policy: An analytical study with evolutionary positioning
+Marcin Woźniak, Wojciech M. Kempa, Marcin Gabryel, Robert K. Nowicki
+In this paper, application of an evolutionary strategy to positioning a<em>GI/M/</em>1<em>/N</em>-type finite-buffer queueing system with exhaustive service and a single vacation policy is presented. The examined object is modeled by a conditional joint transform of the first busy period, the first idle time and the number of packets completely served during the first busy period. A mathematical model is defined recursively by means of input distributions. In the paper, an analytical study and numerical experiments are presented. A cost optimization problem is solved using an evolutionary strategy for a class of queueing systems described by exponential and Erlang distributions.
+finite-buffer queue, evolutionary strategy, object positioning, queueing system, busy period, idle time, single vacation</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0065">10.2478/amcs-2014-0065</a>

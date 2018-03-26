@@ -1,0 +1,6 @@
+﻿1 - March 1994
+4 - 1994
+General response formula for 2-D bilinear systems
+Tadeusz Kaczorek
+Two new models of 2-D bilinear systems are introduced. The general response formulae for the models are derived.
+-

@@ -1,0 +1,6 @@
+﻿4 - December 2016
+26 - 2016
+Modeling heat distribution with the use of a non-integer order, state space model
+Krzysztof Oprzędkiewicz, Edyta Gawin, Wojciech Mitkowski
+A new, state space, non-integer order model for the heat transfer process is presented. The proposed model is based on a Feller semigroup one, the derivative with respect to time is expressed by the non-integer order Caputo operator, and the derivative with respect to length is described by the non-integer order Riesz operator. Elementary properties of the state operator are proven and a formula for the step response of the system is also given. The proposed model is applied to the modeling of temperature distribution in a one dimensional plant. Results of experiments show that the proposed model is more accurate than the analogical integer order model in the sense of the MSE cost function.
+non-integer order systems, heat transfer equation, infinite dimensional systems, Feller semigroups</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0052">10.1515/amcs-2016-0052</a>

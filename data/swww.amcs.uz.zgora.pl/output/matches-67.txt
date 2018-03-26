@@ -1,0 +1,6 @@
+﻿1 - March 1999
+9 - 1999
+Adaptive control through on-line optimization. The MPCI paradigm and variants
+Michael Nikolaou, S. Alper Eker
+A new variant of Model Predictive Control and Identification (MPCI) is proposed. The on-line objective is not to minimize the sum of square errors, but to maximize on-line the sum of the lower bounds on the minimum eigenvalues of the information matrices over finite horizons. In that way, inputs to the controlled process are allowed to excite the process highly enough to generate as much modelling information as possible, while the process goes off-spec as little as possible. Constraints can be loosened or tightened according to the need for identification. The effectiveness of the proposed new methodology is illustrated through a number of simulations.
+adaptive control, model predictive control, closed-loop identification, persistent excitation, linear matrix inequalities, semidefinite programming

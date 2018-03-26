@@ -1,0 +1,6 @@
+﻿4 - December 1997
+7 - 1997
+Recent developments in 2D positive systems theory
+Ettore Fornasini, Maria Elena Valcher
+Two-dimensional (2D) positive systems are 2D state space models whose variables take only nonnegative values and, hence, are described by a family<em>(A, B, M, N, C, D)</em>of nonnegative matrices. In the paper, the notions of asymptotic and simple stability, corresponding to an arbitrary set of nonnegative initial conditions, are introduced and related to the spectral properties of the matrix sum<em>A + B</em>. Some results concerning the positive realization problem for 2D rational functions are also presented. 2D compartmental models are introduced as 2D positive systems which obey some conservation law, and consequently are characterized by the property that the matrix pair<em>(A, B)</em>, responsible for their state-updating, has a substochastic sum. A canonical form to which every 2D compartmental model can be reduced is derived here, thus leading to obtaining interesting results about stability and positive realizability problems. The relevance of these models is illustrated by means of a couple of examples.
+-

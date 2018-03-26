@@ -1,0 +1,6 @@
+﻿4 - December 2014
+24 - 2014
+A primal sub-gradient method for structured classification with the averaged sum loss
+Dejan Mančev, Branimir Todorović
+We present a primal sub-gradient method for structured SVM optimization defined with the averaged sum of hinge losses inside each example. Compared with the mini-batch version of the Pegasos algorithm for the structured case, which deals with a single structure from each of multiple examples, our algorithm considers multiple structures from a single example in one update. This approach should increase the amount of information learned from the example. We show that the proposed version with the averaged sum loss has at least the same guarantees in terms of the prediction loss as the stochastic version. Experiments are conducted on two sequence labeling problems, shallow parsing and part-of-speech tagging, and also include a comparison with other popular sequential structured learning algorithms.
+structured classification, support vector machines, sub-gradient methods, sequence labeling</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0067">10.2478/amcs-2014-0067</a>

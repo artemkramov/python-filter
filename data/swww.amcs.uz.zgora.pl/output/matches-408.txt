@@ -1,0 +1,6 @@
+﻿2 - June 1993
+3 - 1993
+Problem-oriented computer system with load control to complex computational works
+Iwona Poźniak
+Balancing the workload among processors is of fundamental importance to the efficient utilization of a local computer network. In the paper some ideas from control area are applied to improve load-balancing for problem-oriented complex works which are composed of sequences of dependent tasks. The flexible system with load control is recommended. The flexibility gives opportunities to perform the work by using one of the modes of performing available. The designed modes differ by allocation of executors in processors, initial tasks assignment, policies to interprocessor exchange of tasks and tasks scheduling algorithms. The control program is responsible for choosing the mode to maximize processors balancing for given work. An application of the system is to aid the diagnostic process. The results of experiments in that case show a significant increase of efficiency. Moreover, the proposed ideas to design such a system may be adopted to a broader class of computational works which may be characterized by tree-structured parallel processing.
+-

@@ -1,0 +1,6 @@
+﻿2 - June 2004
+14 - 2004
+A note on some characterization of invariant zeros in singular systems and algebraic criteria of nondegeneracy
+Jerzy Tokarzewski
+The question how the classical definition of the Smith zeros of an LTI continuous-time singular control system<em>S(E,A,B,C,D)</em>can be generalized and related to state-space methods is discussed. The zeros are defined as those complex numbers for which there exists a zero direction with a nonzero state-zero direction. Such a definition allows an infinite number of zeros (then the system is called degenerate). A sufficient and necessary condition for nondegeneracy is formulated. Moreover, some characterization of invariant zeros, based on the Weierstrass-Kronecker canonical form of the system and the first nonzero Markov parameter, is obtained.
+singular control systems, multivariable zeros, state-space methods, Markov parameters

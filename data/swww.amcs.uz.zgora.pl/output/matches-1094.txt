@@ -1,0 +1,6 @@
+﻿1 - March 2006
+16 - 2006
+Fractional Kalman filter algorithm for the states, parameters and order of fractional system estimation
+Dominik Sierociuk, Andrzej Dzieliński
+This paper presents a generalization of the Kalman filter for linear and nonlinear fractional order discrete state-space systems. Linear and nonlinear discrete fractional order state-space systems are also introduced. The simplified kalman filter for the linear case is called the fractional Kalman filter and its nonlinear extension is named the extended fractional Kalman filter. The background and motivations for using such techniques are given, and some algorithms are discussed. The paper also shows a simple numerical example of linear state estimation. Finally, as an example of nonlinear estimation, the paper discusses the possibility of using these algorithms for parameters and fractional order estimation for fractional order systems. Numerical examples of the use of these algorithms in a general nonlinear case are presented.
+discrete fractional state-space systems, fractional Kalman filter, parameters estimation, order estimation, extended fractional Kalman filter

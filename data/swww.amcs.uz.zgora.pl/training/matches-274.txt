@@ -1,0 +1,6 @@
+﻿1 - March 1995
+5 - 1995
+Multidimensional spectral factorization through the reduction method of multidimensional polynomial factorization
+Nikos E. Mastorakis
+In this paper, the (unsolved) Spectral Factorization problem, in m dimensions, is considered. A pure mathematical solution is attempted through the m-D polynomial factorization method of the Reduction. The necessary and sufficient condition is proved. The proposed method, which is also automated via a suitable computer code, is illustrated by a two-dimensional example.
+-

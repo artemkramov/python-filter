@@ -1,0 +1,6 @@
+﻿3 - September 2012
+22 - 2012
+A multi-model approach to Saint-Venant equations: A stability study by LMIs
+Valérie Dos Santos Martins, Mickael Rodrigues, Mamadou Diagne
+This paper deals with the stability study of the nonlinear Saint-Venant Partial Differential Equation (PDE). The proposed approach is based on the multi-model concept which takes into account some Linear Time Invariant (LTI) models defined around a set of operating points. This method allows describing the dynamics of this nonlinear system in an infinite dimensional space over a wide operating range. A stability analysis of the nonlinear Saint-Venant PDE is proposed both by using Linear Matrix Inequalities (LMIs) and an Internal Model Boundary Control (IMBC) structure. The method is applied both in simulations and real experiments through a microchannel, illustrating thus the theoretical results developed in the paper.
+Saint-Venant equation, multi-model, LMIs, infinite dimensional system, exponential stability, strongly continuous semigroup, internal model boundary control</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0041-6">10.2478/v10006-012-0041-6</a>

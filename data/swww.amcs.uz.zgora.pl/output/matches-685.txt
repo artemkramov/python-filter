@@ -1,0 +1,6 @@
+﻿4 - December 2013
+23 - 2013
+On the dynamics of a vaccination model with multiple transmission ways
+Shu Liao, Weiming Yang
+In this paper, we present a vaccination model with multiple transmission ways and derive the control reproduction number. The stability analysis of both the disease-free and endemic equilibria is carried out, and bifurcation theory is applied to explore a variety of dynamics of this model. In addition, we present numerical simulations to verify the model predictions. Mathematical results suggest that vaccination is helpful for disease control by decreasing the control reproduction number below unity.
+vaccination model, stability, equilibrium</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0057">10.2478/amcs-2013-0057</a>

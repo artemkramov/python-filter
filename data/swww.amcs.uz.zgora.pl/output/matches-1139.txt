@@ -1,0 +1,6 @@
+﻿1 - March 2005
+15 - 2005
+Range identification for a perspective dynamic system with a single homogeneous observation
+Lili Ma, YangQuan Chen, Kevin L. Moore
+Perspective problems arise in machine vision when using a camera to observe the scene. Essential problems include the identification of unknown states and/or unknown parameters from perspective observations. Range identification is used to estimate the states/positions of a moving object with known motion parameters. Range estimation has been discussed in the literature using nonlinear observers with full homogeneous observations derived from the image plane. In this paper, the same range identification problem is discussed with a single homogeneous observation using nonlinear observers. Our simulation results verify the convergence of the observers when their observability conditions are satisfied.
+range identification, perspective dynamic systems, nonlinear observer

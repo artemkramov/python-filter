@@ -1,0 +1,15 @@
+﻿Research-in-the-field-of-photoelasticity-in-the-diagnosis-of-selected-parts-of-torsional,81472
+3-2015,3236">3/2015 vol. 16
+Evaluation-of-the-quality-of-steel-cord-belt-splices-based-on-belt-condition-examination,81473,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/Application-development-for-analysis-of-bevel-gears-engagement-using-FEM,81471,0,2.html" title="PREVIOUS
+Research in the field of photoelasticity in the diagnosis of selected parts of torsional vibration dampers
+Wojciech-Homik/74829">Wojciech Homik
+null
+whomik@prz.edu.pl
+>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Tomasz-Kudasik/74921">Tomasz Kudasik</a></span
+Faculty of Mechanical Engineering and Aeronautics RzeszowUniversity of Technology, Powstańców Warszawy 8, 35-959 Rzeszów, Poland
+Publish date: 2017-12-21
+5;16(3):53–58
+81472-16953?filename=Research in the field of
+torsional+vibration+damper/146973">torsional vibration damper<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-photoelasticity+research/146974">photoelasticity research
+stress+pattern/146975">stress pattern
+The article presents the results of experimental research selected parts of the rubber small-dimension torsional vibration damper. The study aimed to determine the dynamic loads and stress pattern in the area of the damper hub mounting to a crankshaft of a multicylinder engine. For this purpose a photoelasticity is used, what allows to distribution of effort of both real parts of machine and models based on their , made, among others, RP rapid prototyping techniques (called. Rapid Prototyping) and RT techniques (called. Rapid Tooling), in particular by casting in silicone molds (VC. Vacuum Casting). The paper presents the exact process of create models of torsional vibration damper VC techniques based on real element and the process of coating photoelasticity layer to the model, what is necessary to carry the analysis out by photoelasticity method on the reflected light. The results of analysis, determining the hazardous area in terms of stress distribution. In this study is presented own experiences and verify the suitability of the method and material used for research photoelastic ity torsional vibration damper.

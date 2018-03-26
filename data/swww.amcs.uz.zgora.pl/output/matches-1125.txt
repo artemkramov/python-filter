@@ -1,0 +1,6 @@
+﻿4 - December 2006
+16 - 2006
+Robust stabilization of discrete linear repetitive processes with switched dynamics
+Jacek Bochniak, Krzysztof Gałkowski, Eric Rogers, Anton Kummert
+Repetitive processes constitute a distinct class of 2D systems, i.e., systems characterized by information propagation in two independent directions, which are interesting in both theory and applications. They cannot be controlled by a direct extension of the existing techniques from either standard (termed 1D here) or 2D systems theories. Here we give new results on the design of physically based control laws. These results are for a sub-class of discrete linear repetitive processes with switched dynamics in both independent directions of information propagation.
+repetitive processes, 2D systems, switched dynamics, stabilization, uncertainty

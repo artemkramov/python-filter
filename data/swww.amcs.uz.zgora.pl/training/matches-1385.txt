@@ -1,0 +1,6 @@
+﻿2 - June 2001
+11 - 2001
+Periodic coordination in hierarchical air defence systems
+Piotr Arabas, Krzysztof Malinowski
+The subject of this work is the defence planning of a point target against an air attack. The defence system is decomposed into a number of sectors. A direct method of coordination is used at the upper level, while the sectors use a discrete-time event-based model and the description of uncertainty by multiple scenarios of an attack. The resulting problems are solved using linear programming. A comparison of two coordination strategies for realistic attack scenarios and an analysis of effectiveness are provided.
+missile defence, hierarchical systems, coordination, decision support systems

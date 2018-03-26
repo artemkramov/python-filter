@@ -1,0 +1,6 @@
+﻿3 - September 2009
+19 - 2009
+Verified methods for computing Pareto sets: General algorithmic analysis
+Boglárka G.-Tóth, Vladik Kreinovich
+In many engineering problems, we face multi-objective optimization, with several objective functions<em>f<sub>1</sub>, . . . , f<sub>n</sub></em>. We want to provide the user with the Pareto set—a set of all possible solutions x which cannot be improved in all categories (i.e., for which<em>f<sub>j</sub>(x’) ≥ f<sub>j</sub>(x)</em>for all<em>j</em>and<em>f<sub>j</sub>(x’) &gt; f<sub>j</sub>(x)</em>for some<em>j</em>is impossible). The user should be able to select an appropriate trade-off between, say, cost and durability. We extend the general results about (verified) algorithmic computability of maxima locations to show that Pareto sets can also be computed.
+multi-objective optimization, Pareto set, verified computing</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-009-0031-5">10.2478/v10006-009-0031-5</a>

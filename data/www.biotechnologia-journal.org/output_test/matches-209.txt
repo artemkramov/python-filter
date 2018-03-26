@@ -1,0 +1,6 @@
+a>View full text</a
+Górak M, Brzezińska-Rodak M, Klimek-Ochab M, Żymańczyk-Duda E. Amino acid mineralization by &lt;i&gt;Serratia marcescens&lt;/i&gt;. BioTechnologia. 2014;94(3):269-274. doi:10.5114/bta.2013.46420
+Górak, M., Brzezińska-Rodak, M., Klimek-Ochab, M., &amp; Żymańczyk-Duda, E. (2014). Amino acid mineralization by &lt;i&gt;Serratia marcescens&lt;/i&gt;. BioTechnologia, 94(3), 269-274. https://doi.org/10.5114/bta.2013.46420
+Górak, Monika, Małgorzata Brzezińska-Rodak, Magdalena Klimek-Ochab, and Ewa Żymańczyk-Duda. 2014. "Amino acid mineralization by &lt;i&gt;Serratia marcescens&lt;/i&gt;". BioTechnologia 94 (3): 269-274. doi:10.5114/bta.2013.46420
+Górak, M., Brzezińska-Rodak, M., Klimek-Ochab, M., and Żymańczyk-Duda, E. (2014). Amino acid mineralization by &lt;i&gt;Serratia marcescens&lt;/i&gt;. BioTechnologia, 94(3), pp.269-274. https://doi.org/10.5114/bta.2013.46420
+Górak, Monika et al. "Amino acid mineralization by &lt;i&gt;Serratia marcescens&lt;/i&gt;." BioTechnologia, vol. 94, no. 3, 2014, pp. 269-274. doi:10.5114/bta.2013.46420

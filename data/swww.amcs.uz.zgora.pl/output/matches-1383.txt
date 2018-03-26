@@ -1,0 +1,6 @@
+﻿2 - June 2001
+11 - 2001
+Self-tuning generalized predictive control with input constraints
+Andrzej Królikowski, Damian Jerzy
+The handling of various input constraints in the self-tuning generalized predictive control (STGPC) problem of ARIMAX/ARMAX systems is considered. The methods based on the Lagrange multipliers and Lemke's algorithm are used to solve the constrained optimization problem. A self-tuning controller is implemented in an indirect way, and the considered constraints imposed on the control input signal are of the rate, amplitude and energy types. A comparative simulation study of self-tuning control system behaviour is given with respect to the design parameters and constraints. The stability of a closed-loop control system is analyzed and the computational loads of both the methods are compared.
+generalized predictive control, constraints, self-tuning, ARIMAX/ARMAX systems

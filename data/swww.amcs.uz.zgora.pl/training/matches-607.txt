@@ -1,0 +1,6 @@
+﻿4 - December 2014
+24 - 2014
+Efficiency analysis of control algorithms in spatially distributed systems with chaotic behavior
+Łukasz Korus
+The paper presents results of examination of control algorithms for the purpose of controlling chaos in spatially distributed systems like the coupled map lattice (CML). The mathematical definition of the CML, stability analysis as well as some basic results of numerical simulation exposing complex, spatiotemporal and chaotic behavior of the CML were already presented in another paper. The main purpose of this article is to compare the efficiency of controlling chaos by simple classical algorithms in spatially distributed systems like CMLs. This comparison is made based on qualitative and quantitative evaluation methods proposed in the previous paper such as the indirect Lyapunov method, Lyapunov exponents and the net direction phase indicator. As a summary of this paper, some conclusions which can be useful for creating a more efficient algorithm of controlling chaos in spatially distributed systems are made.
+controlling spatiotemporal chaos, coupled map lattice, system stability, Lyapunov exponents, net direction phase</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0056">10.2478/amcs-2014-0056</a>

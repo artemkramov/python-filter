@@ -1,0 +1,6 @@
+﻿2 - June 2014
+24 - 2014
+Transient and stationary characteristics of a packet buffer modelled as an<em>MAP/SM/1/b</em>system
+Krzysztof Rusek, Lucjan Janowski, Zdzisław Papir
+A packet buffer limited to a fixed number of packets (regardless of their lengths) is considered. The buffer is described as a finite FIFO queuing system fed by a Markovian Arrival Process (MAP) with service times forming a Semi-Markov (SM) process (<em>MAP/SM/1/b</em>in Kendall’s notation). Such assumptions allow us to obtain new analytical results for the queuing characteristics of the buffer. In the paper, the following are considered: the time to fill the buffer, the local loss intensity, the loss ratio, and the total number of losses in a given time interval. Predictions of the proposed model are much closer to the trace-driven simulation results compared with the prediction of the<em>MAP/G/1/b</em>model.
+router interface, Markovian arrival process, semi-Markov service time, hidden Markov model, finite-buffer queue, packet loss, first passage time</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0033">10.2478/amcs-2014-0033</a>

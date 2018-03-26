@@ -1,0 +1,6 @@
+﻿1 - March 2007
+17 - 2007
+Data probes, vertical trajectories and classification: A tentative study
+David W. Pearson
+In this paper we introduce a method of classification based on data probes. Data points are considered as point masses in space and a probe is simply a particle that is launched into the space. As the probe passes by data clusters, its trajectory will be influenced by the point masses. We use this information to help us to find vertical trajectories. These are trajectories in the input space that are mapped onto the same value in the output space and correspond to the data classes.
+classification, output zeroing, nonlinear control, differential geometry</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0010-7">10.2478/v10006-007-0010-7</a>

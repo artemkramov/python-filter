@@ -1,0 +1,6 @@
+﻿3 - September 1994
+4 - 1994
+Neural networks applied to visual pattern recognition – a comparative study
+Ryszard Tadeusiewicz, Zbigniew Mikrut
+In this paper, we discuss the principles of using back-propagation neural networks for pattern recognition. The basic information on neural networks learning is presented. A comparison is drawn between classification performance of the back-propagation network and other pattern recognition methods. Special attention is paid to preprocessing of the required data. The following problems are discussed in detail: choosing network topology, selecting proper values for learning coefficients, and estimating the quality of learning and recognition processes.
+-

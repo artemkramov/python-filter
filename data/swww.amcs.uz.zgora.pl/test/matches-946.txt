@@ -1,0 +1,6 @@
+﻿2 - June 2009
+19 - 2009
+Adaptive prediction of stock exchange indices by state space wavelet networks
+Mietek A. Brdyś, Adam Borowa, Piotr Idźkowiak, Marcin T. Brdyś
+The paper considers the forecasting of the Warsaw Stock Exchange price index WIG20 by applying a state space wavelet network model of the index price. The approach can be applied to the development of tools for predicting changes of other economic indicators, especially stock exchange indices. The paper presents a general state space wavelet network model and the underlying principles. The model is applied to produce one session ahead and five sessions ahead adaptive predictors of the WIG20 index prices. The predictors are validated based on real data records to produce promising results. The state space wavelet network model may also be used as a forecasting tool for a wide range of economic and non-economic indicators, such as goods and row materials prices, electricity/fuel consumption or currency exchange rates.
+forecasting, stock exchange, artificial intelligence, state space wavelet network, simulated annealing</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-009-0029-z">10.2478/v10006-009-0029-z</a>

@@ -1,0 +1,6 @@
+﻿4 - December 1998
+8 - 1998
+Lake bed classification using acoustic data
+K. Karen Yin, Xing Li, John Bonde, Carl Richards, Gary Cholwek
+As part of our effort to identify the lake bed surficial substrates using remote sensing data, this work designs pattern classifiers by multivariate statistical methods. Probability distribution of the preprocessed acoustic signal is analyzed first. A confidence region approach is then adopted to improve the design of the existing classifier. A technique for further isolation is proposed which minimizes the expected loss from misclassification. The devices constructed are applicable for real-time lake bed categorization. A minimax approach is suggested to treat more general cases where the<em>a priori</em>probability distribution of the substrate types is unknown. Comparison of the suggested methods with the traditional likelihood ratio tests is discussed.
+-

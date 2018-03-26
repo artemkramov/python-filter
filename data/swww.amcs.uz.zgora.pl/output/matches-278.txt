@@ -1,0 +1,6 @@
+﻿1 - March 1995
+5 - 1995
+Throughflow of a Bingham fluid in a slot between rotating surfaces of revolution
+Edward Walicki, Anna Walicka
+This paper contains formulae which define such parameters of the steady laminar flow of a Bingham fluid between rotating surfaces of revolution as the velocity components<em>v<sub>x</sub>, V<sub>Θ,</sub>, V<sub>y</sub></em>and pressure<em>p</em>. The linearized equations of motion of the Bingham fluid flow for axial symmetry in the intrinsic curvilinear coordinate system<em>x, Θ, y</em>are used. The solutions of the equations of motion have been illustrated by the example of fluid flow through the slot of constant thickness between rotating disks and between rotating spherical surfaces.
+-

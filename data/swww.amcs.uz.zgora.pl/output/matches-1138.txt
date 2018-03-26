@@ -1,0 +1,6 @@
+﻿1 - March 2005
+15 - 2005
+On adaptive control for the continuous time-varying JLQG problem
+Adam Czornik, Andrzej Świerniak
+In this paper the adaptive control problem for a continuous infinite time-varying stochastic control system with jumps in parameters and quadratic cost is investigated. It is assumed that the unknown coefficients of the system have limits as time tends to infinity and the boundary system is absolutely observable and stabilizable. Under these assumptions it is shown that the optimal value of the quadratic cost can be reached based only on the values of these limits, which, in turn, can be estimated through strongly consistent estimators.
+time varying systems, adaptive control, JLQG problem

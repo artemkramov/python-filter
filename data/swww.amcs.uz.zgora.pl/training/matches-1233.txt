@@ -1,0 +1,6 @@
+﻿1 - March 2016
+26 - 2016
+Efficient generation of 3D surfel maps using RGB-D sensors
+Artur Wilkowski, Tomasz Kornuta, Maciej Stefańczyk, Włodzimierz Kasprzak
+The article focuses on the problem of building dense 3D occupancy maps using commercial RGB-D sensors and the SLAM approach. In particular, it addresses the problem of 3D map representations, which must be able both to store millions of points and to offer efficient update mechanisms. The proposed solution consists of two such key elements, visual odometry and surfel-based mapping, but it contains substantial improvements: storing the surfel maps in octree form and utilizing a frustum culling-based method to accelerate the map update step. The performed experiments verify the usefulness and efficiency of the developed system.
+RGB-D, V-SLAM, surfel map, frustum culling, octree</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0007">10.1515/amcs-2016-0007</a>

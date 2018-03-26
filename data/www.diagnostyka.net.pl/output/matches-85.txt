@@ -1,0 +1,15 @@
+﻿Linear-and-geometrically-non-linear-frequencies-and-mode-shapes-of-beams-carrying,74179
+2-2017,2313">2/2017 vol. 18
+Pipeline-stress-analysis-under-supporting-structure-vibrations,74209,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/Availability-phase-estimation-in-gas-turbine-based-on-prognostic-system-modeling,69731,0,2.html" title="PREVIOUS
+Linear and geometrically non-linear frequencies and mode shapes of beams carrying a point mass at various locations. an analytical approch and a parametric study
+Adri-Ahmed/60535">Adri Ahmed
+null
+</sup>&nbsp;&nbsp;<a href="mailto:ahmedadri@gmail.com"><div></div></a>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Benamar-Rhali/60536">Benamar Rhali</a></span><sup>2
+rhali.benamar@gmail.com
+Ecole Supérieure de Technologie</span></div></td></tr><tr><td>2</td><td><div><span>Ecole Mohammadia des Ingénieurs Rabat
+Publish date: 2017-06-21</div><div>Submission date: 2017-04-13</div><div>Acceptance date: 2017-05-29
+7;18(2):13–21
+74179-17653?filename=Linear and geometrically
+Non-linear+vibration/112093">Non-linear vibration<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-Hamilton%E2%80%99s+principle/112094">Hamilton’s principle<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-Newton-Raphson/112095">Newton-Raphson<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-backbone+curve/112096">backbone curve
+second+formulation/112097">second formulation</a><div>&nbsp;</div></div><div>TOPICS:</div><div><a href="http://www.diagnostyka.net.pl/Topic-Diagnostic+systems/3943">Diagnostic systems<div></div></a><a href="http://www.diagnostyka.net.pl/Topic-Diagnostics+of+buildings/3945">Diagnostics of buildings
+In the present paper, the frequencies and mode shapes of a clamped beam carrying a point mass, located at different positions, are investigated analytically and a parametric study is performed. The dynamic equation is written at two intervals of the beam span with the appropriate end and continuity conditions. After the necessary algebraic transformations, the generalised transcendental frequency equation is solved iteratively using the Newton Raphson method. Once the corresponding program is implemented, investigations are made of the changes in the beam frequencies and mode shapes for many values of the mass and mass location. Numerical results and plots are given for the clamped beam first and second frequencies and mode shapes corresponding to various added mass positions. The effect of the geometrical non-linearity is then examined using a single mode approach in order to obtain the corresponding backbone curves giving the amplitude dependent non-linear frequencies.</div><div>CORRESPONDING AUTHOR:</div><a href="http://www.diagnostyka.net.pl/Author-Adri-Ahmed/60535">Adri Ahmed</a>&nbsp;&nbsp;<a href="mailto:ahmedadri@gmail.com"><div></div></a><div>Ecole Supérieure de Technologie, 7 route d'el jadida BP 8012 OASIS, 20000 Casablanca, Morocco

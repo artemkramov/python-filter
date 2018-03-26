@@ -1,0 +1,6 @@
+﻿4 - December 2004
+14 - 2004
+FEMLab software applied to Active Magnetic Bearing analysis
+Adam Piłat
+This paper presents how the FEMLab package can be used to perform the magnetic field analysis in the Active Magnetic Bearing (AMB). The AMB is an integral part of the industrial rotational machine laboratory model. The electromagnetic field distribution and density analysis allow verifying the designed AMB and the influence of the shaft and coil current changes on the bearing parameters.
+electromagnetic field, active magnetic bearing, finite element method

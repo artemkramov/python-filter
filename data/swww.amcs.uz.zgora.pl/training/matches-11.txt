@@ -1,0 +1,6 @@
+﻿6 - December 2001
+11 - 2001
+Time-variant Darlington synthesis and induced realizations
+Derk Pik
+<em>Please see the PDF file.</em>
+contractive linear systems, Darlington synthesis, time-variant linear systems

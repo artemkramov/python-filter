@@ -1,0 +1,6 @@
+﻿3 - September 2016
+26 - 2016
+Fractional descriptor continuous-time linear systems described by the Caputo–Fabrizio derivative
+Tadeusz Kaczorek, Kamil Borawski
+The Weierstrass–Kronecker theorem on the decomposition of the regular pencil is extended to fractional descriptor continuous-time linear systems described by the Caputo–Fabrizio derivative. A method for computing solutions of continuous-time systems is presented. Necessary and sufficient conditions for the positivity and stability of these systems are established. The discussion is illustrated with a numerical example.
+fractional system, descriptor system, continuous-time, linear system, Caputo–Fabrizio derivative</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0037">10.1515/amcs-2016-0037</a>

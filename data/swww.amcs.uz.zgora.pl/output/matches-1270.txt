@@ -1,0 +1,6 @@
+﻿3 - September 2003
+13 - 2003
+Mathematical modeling of the competition between acquired immunity and cancer
+Mikhail Kolev
+In this paper we propose and analyse a model of the competition between cancer and the acquired immune system. The model is a system of integro-differential bilinear equations. The role of the humoral response is analyzed. The simulations are related to the immunotherapy of tumors with antibodies.
+Leukemia, acquired immunity, immunotherapy, antibodies, integro-differential equations

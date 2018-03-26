@@ -1,0 +1,15 @@
+﻿Performance-optimization-of-model-free-fault-diagnosis-schemes,81499
+1-2016,3238">1/2016 vol. 17
+The-method-of-frequency-determination-of-impulse-response-components-based-on-cross,81500,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/Research-methods-and-testing-stand-developed-to-examine-vibrations-generated-by-rolling,81498,0,2.html" title="PREVIOUS
+Performance optimization of model-free fault diagnosis schemes
+Mateusz-Kalisch/74956">Mateusz Kalisch
+null
+mateusz.kalisch@polsl.pl
+>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Piotr-Przystałka/74957">Piotr Przystałka</a></span>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Andrzej-Katunin/37154">Andrzej Katunin</a></span>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Anna-Timofiejczuk/74958">Anna Timofiejczuk</a></span
+Institute of Fundamentals of Machinery Design, Silesian University of Technology Konarskiego 18A, 44-100 Gliwice, Poland
+Publish date: 2017-12-21
+6;17(1):51–58
+81499-16991?filename=Performance optimization
+fault+detection+and+isolation/81124">fault detection and isolation<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-evolutionary+optimization/147053">evolutionary optimization<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-data+mining+techniques/73697">data mining techniques<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-wavelet+analysis/29933">wavelet analysis
+wind+turbine+systems/147054">wind turbine systems
+This paper describes the method of model-free fault detection and isolation. The main purpose of the research is to present one possibility of the development of diagnostic schemes for which the component structure and behavioural parameters are tuned automatically in order to obtain the maximal efficiency of the fault detection and isolation system. The proposed approach can be viewed as the intersection of elementary methods (classic and soft computing) such as discrete wavelet analysis, machine learning (using decision trees or artificial neural networks), and evolutionary algorithms. The fundamental verification of the method was conducted for data made available within the benchmark problem involving a wind turbine. The achieved results confirm the effectiveness of the proposed approach while also showing its limitations.

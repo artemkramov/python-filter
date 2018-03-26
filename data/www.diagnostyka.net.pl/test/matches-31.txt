@@ -1,0 +1,15 @@
+﻿The-influence-of-degradation-on-the-viscosity-and-molecular-mass-of-poly-lactide,81489
+4-2015,3237">4/2015 vol. 16
+Life-time-assessment-of-clamp-forming-machine-boom-durability,81490,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/Early-detection-of-cracks-in-rear-suspension-beam-with-the-use-of-time-domain-estimates,81488,0,2.html" title="PREVIOUS
+The influence of degradation on the viscosity and molecular mass of poly(lactide acid) biopolymer
+Martyna-Ekiert/36465">Martyna Ekiert
+null
+mekiert@agh.edu.pl
+>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Andrzej-Młyniec/74938">Andrzej Młyniec</a></span>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Tadeusz-Uhl/36468">Tadeusz Uhl</a></span
+AGH University of Science and Technology, Faculty of Mechanical Engineering and Robotics, Department of Robotics and Mechatronics Mickiewicza 30 Av., 30-059 Krakow, Poland
+Publish date: 2017-12-21
+5;16(4):63–70
+81489-16981?filename=The influence of
+PLA/54301">PLA<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-biopolymers/9002">biopolymers<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-stability/6251">stability<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-molecular+model/147026">molecular model<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-viscosity+loss/147027">viscosity loss
+molar+mass+averages/147028">molar mass averages
+In this paper, we present a study on stability of popular biopolymer poly(lactide acid) (PLA) under degradation process. As a main objective of this study we investigate an influence of polymer decomposition on decrease of its two physicochemical parameters –dynamic viscosity and molecular mass. To include the molar mass distribution we calculate three various mass averages: the number, the weight and the viscosity molar mass. To simulate the polylactide behavior at the atomic level we use molecular dynamics method in conjunction with reactive force field ReaxFF. To provide degradation conditions similar to human interior system we operate in the MD-NVT conditions at the temperature 310K. Based on reported in literature values of polylactide density we develop computational model of its amorphous structure. We achieve full compliance with expectations –obtained values of PLA viscosity and mass are steadily dropping. Determined trends confirm progressive polymer decomposition resulting in deterioration of polymer durability. The obtained results may be use in a future to predict a lifetime of biomedical polymer implants.

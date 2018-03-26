@@ -1,0 +1,17 @@
+﻿3/2011
+2
+RESEARCH-PAPER-Optimization-algorithm-for-de-novo-analysis-r-nof-tandem-mass-spectrometry-data,85,23877,0
+abstract:
+RESEARCH PAPER<br>Optimization algorithm for<i>de novo</i>analysis of tandem mass spectrometry data
+h3>Michał Kistowski, Anna Gambin</h3><div>BioTechnologia vol. 92(3) C pp. 296-300 C 2011
+1.46545">https://doi.org/10.5114/bta.2011.46545
+a>View full text</a
+23877
+Kistowski M, Gambin A. RESEARCH PAPER&lt;br&gt;Optimization algorithm for&lt;i&gt; de novo&lt;/i&gt; analysis of tandem mass spectrometry data. BioTechnologia. 2014;92(3):296-300. doi:10.5114/bta.2011.46545
+Kistowski, M., &amp; Gambin, A. (2014). RESEARCH PAPER&lt;br&gt;Optimization algorithm for&lt;i&gt; de novo&lt;/i&gt; analysis of tandem mass spectrometry data. BioTechnologia, 92(3), 296-300. https://doi.org/10.5114/bta.2011.46545
+Kistowski, Michał, and Anna Gambin. 2014. "RESEARCH PAPER&lt;br&gt;Optimization algorithm for&lt;i&gt; de novo&lt;/i&gt; analysis of tandem mass spectrometry data". BioTechnologia 92 (3): 296-300. doi:10.5114/bta.2011.46545
+Kistowski, M., and Gambin, A. (2014). RESEARCH PAPER&lt;br&gt;Optimization algorithm for&lt;i&gt; de novo&lt;/i&gt; analysis of tandem mass spectrometry data. BioTechnologia, 92(3), pp.296-300. https://doi.org/10.5114/bta.2011.46545
+Kistowski, Michał et al. "RESEARCH PAPER&lt;br&gt;Optimization algorithm for&lt;i&gt; de novo&lt;/i&gt; analysis of tandem mass spectrometry data." BioTechnologia, vol. 92, no. 3, 2014, pp. 296-300. doi:10.5114/bta.2011.46545
+/div><div>Protein identification is usually achieved by tandem mass spectrometry (MS/MS). Because of the difficulty in<br><br>measuring complete proteins using MS/MS, typically a protein is enzymatically digested into peptides and the<br><br>MS/MS spectrum of each peptide is measured. The database searching methods are predominant in the task of<br><br>peptide identification. Their aim is to find the best match between model spectra generated from the peptides<br><br>stored in the database and the experimental mass spectrum obtained for an unidentified peptide. In this approach<br><br>one assumes that the peptide under investigation belongs to the scanned database. Otherwise, so called de novo<br><br>methods have to be applied to determine the peptide sequence. Unfortunately, de novo sequencing algorithms<br><br>are fragile in the presence of missing peaks, background noise or post-translational protein modifications. In this<br><br>paper, we propose a post-processing method for optimizing the results obtained from de novo sequencing<br><br>algorithms. Our approach in the reconstruction of amino acid sequences employs only spectral features and is<br><br>robust with respect to missing data. We demonstrate the significant improvement achieved using our method<br><br>applied to sequences reconstructed using a popular de novo sequencing method. The tool is freely available at<br><br>http://pepygen. sourceforge.net.<
+null
+keywords:</div><h3>tandem mass spectrometry, de novo sequencing, genetic algorithm</h3

@@ -1,0 +1,6 @@
+﻿1 - March 2014
+24 - 2014
+An optimal sliding mode congestion controller for connection-oriented communication networks with lossy links
+Andrzej Bartoszewicz, Piotr Leśniewski
+A new discrete-time sliding-mode congestion controller for connection-oriented networks is proposed. Packet losses which may occur during the transmission process are explicitly taken into account. Two control laws are presented, each obtained by minimizing a different cost functional. The first one concentrates on the output variable, whereas in the second one the whole state vector is considered. Weighting factors for adjusting the influence of the control signal and appropriate (state or output) errors are incorporated in both the functionals. The asymptotic stability of the closed-loop system is proved, and the conditions for 100% bottleneck node bandwidth utilization are derived. The performance of the proposed algorithm is verified by computer simulations.
+optimal control, sliding-mode control, flow control, discrete-time systems</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0007">10.2478/amcs-2014-0007</a>

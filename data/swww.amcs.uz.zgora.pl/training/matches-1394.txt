@@ -1,0 +1,6 @@
+﻿3 - September 2001
+11 - 2001
+Concept approximations based on rough sets and similarity measures
+Jamil Saquer, Jitender S. Deogun
+The formal concept analysis gives a mathematical definition of a formal concept. However, in many real-life applications, the problem under investigation cannot be described by formal concepts. Such concepts are called the non-definable concepts (Saquer and Deogun, 2000a). The process of finding formal concepts that best describe non-definable concepts is called the concept approximation. In this paper, we present two different approaches to the concept approximation. The first approach is based on rough set theory while the other is based on a similarity measure. We present algorithms for the two approaches.
+formal concept analysis, similarity measures, rough sets, concept approximation

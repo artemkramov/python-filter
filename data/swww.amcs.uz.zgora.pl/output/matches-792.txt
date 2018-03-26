@@ -1,0 +1,6 @@
+﻿1 - March 2011
+21 - 2011
+Simple environment for developing methods of controlling chaos in spatially distributed systems
+Łukasz Korus
+The paper presents a simple mathematical model called a coupled map lattice (CML). For some range of its parameters, this model generates complex, spatiotemporal behavior which seems to be chaotic. The main purpose of the paper is to provide results of stability analysis and compare them with those obtained from numerical simulation. The indirect Lyapunov method and Lyapunov exponents are used to examine the dependence on initial conditions. The net direction phase is introduced to measure the symmetry of the system state trajectory. In addition, a real system, which can be modeled by the CML, is presented. In general, this article describes basic elements of environment, which can be used for creating and examining methods of chaos controlling in systems with spatiotemporal dynamics.
+coupled map lattice, spatiotemporal chaos, system stability, Lyapunov exponents, net direction phase</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-011-0011-4">10.2478/v10006-011-0011-4</a>

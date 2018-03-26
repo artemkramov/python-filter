@@ -1,0 +1,6 @@
+﻿4 - December 2004
+14 - 2004
+Parameters identification of material models based on the inverse analysis
+Danuta Szeliga, Jerzy Gawąd, Maciej Pietrzyk
+The paper presents an application of the inverse analysis to the identification of two models: a phase transformation model and a rheological model. The optimization algorithm for the inverse analysis was tested for various techniques of searching for the minimum: derivative-free and gradient methods, as well as genetic algorithms. Simulation results were validated for microalloyed niobium steel. An optimization strategy, which is adequate for the inverse analysis, is suggested.
+inverse analysis, phase transformation, internal variable model

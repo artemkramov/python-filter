@@ -1,0 +1,6 @@
+﻿2 - June 2013
+23 - 2013
+Descriptor fractional linear systems with regular pencils
+Tadeusz Kaczorek
+Methods for finding solutions of the state equations of descriptor fractional discrete-time and continuous-time linear systems with regular pencils are proposed. The derivation of the solution formulas is based on the application of the<em>Z</em>transform, the Laplace transform and the convolution theorems. Procedures for computation of the transition matrices are proposed. The efficiency of the proposed methods is demonstrated on simple numerical examples.
+descriptor system, fractional, system, regular pencil</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0023">10.2478/amcs-2013-0023</a>

@@ -1,0 +1,6 @@
+﻿3 - September 2003
+13 - 2003
+Different models of chemotherapy taking into account drug resistance stemming from gene amplification
+Jarosław Śmieja, Andrzej Świerniak
+This paper presents an analysis of some class of bilinear systems that can be applied to biomedical modelling. It combines models that have been studied separately so far, taking into account both the phenomenon of gene amplification and multidrug chemotherapy in their different aspects. The mathematical description is given by an infinite dimensional state equation with a system matrix whose form allows decomposing the model into two interacting subsystems. While the first one, of a finite dimension, can have any form, the other is infinite dimensional and tridiagonal. A methodology of the analysis of such models, based on system decomposition, is presented. An optimal control problem is defined in the<em>l</em><sup>1</sup>space. In order to derive necessary conditions for optimal control, the model description is transformed into an integro-differential form. Finally, biomedical implications of the obtained results are discussed.
+biomedical modelling, infinite dimensional systems, multivariable control

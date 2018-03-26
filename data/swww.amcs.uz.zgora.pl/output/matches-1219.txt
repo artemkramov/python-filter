@@ -1,0 +1,6 @@
+﻿3 - September 2004
+14 - 2004
+Phenotypic evolution with a mutation based on symmetric α-stable distributions
+Andrzej Obuchowicz, Przemysław Prętki
+Multidimensional Symmetric α-Stable (<em>S</em>α<em>S</em>) mutations are applied to phenotypic evolutionary algorithms. Such mutations are characterized by non-spherical symmetry for α &lt; 2 and the fact that the most probable distance of mutated points is not in a close neighborhood of the origin, but at a certain distance from it. It is the so-called surrounding effect (Obuchowicz, 2001b; 2003b). For α = 2, the<em>S</em>α<em>S</em>mutation reduces to the Gaussian one, and in the case of α = 1, the Cauchy mutation is obtained. The exploration and exploitation abilities of evolutionary algorithms, using<em>S</em>α<em>S</em>mutations for different α, are analyzed by a set of simulation experiments. The obtained results prove the important influence of the surrounding effect of symmetric α-stable mutations on both the abilities considered.
+evolutionary algorithms, Lévy-stable distributions, global optimization, surrounding effect

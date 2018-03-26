@@ -1,0 +1,6 @@
+﻿2 - June 2013
+23 - 2013
+A comparison of Jacobian-based methods of inverse kinematics for serial robot manipulators
+Ignacy Dulęba, Michał Opałka
+The objective of this paper is to present and make a comparative study of several inverse kinematics methods for serial manipulators, based on the Jacobian matrix. Besides the well-known Jacobian transpose and Jacobian pseudo-inverse methods, three others, borrowed from numerical analysis, are presented. Among them, two approximation methods avoid the explicit manipulability matrix inversion, while the third one is a slightly modified version of the Levenberg–Marquardt method (mLM). Their comparison is based on the evaluation of a short distance approaching the goal point and on their computational complexity. As the reference method, the Jacobian pseudo-inverse is utilized. Simulation results reveal that the modified Levenberg–Marquardt method is promising, while the first order approximation method is reliable and requires mild computational costs. Some hints are formulated concerning the application of Jacobian-based methods in practice.
+serial manipulator, inverse kinematics, Jacobian methods, comparison, applications</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0028">10.2478/amcs-2013-0028</a>

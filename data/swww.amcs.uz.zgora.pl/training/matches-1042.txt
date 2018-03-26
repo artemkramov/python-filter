@@ -1,0 +1,6 @@
+﻿1 - March 2007
+17 - 2007
+A federated approach to parallel and distributed simulation of complex systems
+Andrzej Sikora, Ewa Niewiadomska-Szynkiewicz
+The paper describes a Java-based framework called ASimJava that can be used to develop parallel and distributed simulators of complex real-life systems. Some important issues associated with the implementation of parallel and distributed simulations are discussed. Two principal paradigms for constructing simulations today are considered. Particular attention is paid to an approach for federating parallel and distributed simulators. We describe the design, performance and applications of the ASimJava framework. Two practical examples, namely, a simple manufacturing system and computer network simulations are provided to illustrate the effectiveness and range of applications of the presented software tool.
+parallel simulation, distributed simulation, federated simulators, computer networks simulation, Frame Relay</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0009-0">10.2478/v10006-007-0009-0</a>

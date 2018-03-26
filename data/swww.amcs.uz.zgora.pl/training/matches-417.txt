@@ -1,0 +1,6 @@
+﻿3 - September 1993
+3 - 1993
+Noise filtering in monitoring systems
+Wojciech Batko, Tadeusz Banek
+The solution of the optimal filtering problem for technical state monitoring system of hydrodynamic journal bearing nodes of rotary machines is presented in the paper. The proposed method is based on the dynamic model of the plain journal bearing and corresponding model of variation of technical state symptoms values under supervision of the monitoring system. The Kalman filter design procedure for noise filtering is described. Such a filter enables on-line filtering and prediction of state symptoms values which are modeled by stochastic differential equations.
+-

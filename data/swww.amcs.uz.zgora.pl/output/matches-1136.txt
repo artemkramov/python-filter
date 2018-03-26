@@ -1,0 +1,6 @@
+﻿1 - March 2005
+15 - 2005
+On a regularization method for variational inequalities with<em>P</em><sub>0</sub>mappings
+Igor Konnov, Elena Mazurkevich, Mohamed Ali
+We consider partial Browder-Tikhonov regularization techniques for variational inequality problems with<em>P</em><sub>0</sub>cost mappings and box-constrained feasible sets. We present classes of economic equilibrium problems which satisfy such assumptions and propose a regularization method for these problems.
+variational inequalities, partial regularization approach,<em>P</em><sub>0</sub>-mappings

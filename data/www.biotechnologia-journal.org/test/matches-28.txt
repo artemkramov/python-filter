@@ -1,0 +1,17 @@
+﻿3/2016
+7
+Suitability-of-high-throughput-DMS-probing-data-for-constraining-the-secondary-structure-prediction-of-small-RNAs,85,28334,1
+RESEARCH PAPERS
+Suitability of high-throughput DMS-probing data for constraining the secondary structure prediction of small RNAs
+h3>Marianna Plucinska, Kamilla Bąkowska-Żywicka, Marek Żywicki</h3><div>vol. 97(3) C pp. 161-167 C 2016
+6.62353">https://doi.org/10.5114/bta.2016.62353
+div>Article file</div><div>-<a>BTA#316-01 str 161-167.pdf</a>&nbsp;<span>[0.99 MB]</span></div></div
+28334
+Plucinska M, Bąkowska-Żywicka K, Żywicki M. Suitability of high-throughput DMS-probing data for constraining the secondary structure prediction of small RNAs. BioTechnologia. 2016;97(3):161-167. doi:10.5114/bta.2016.62353
+Plucinska, M., Bąkowska-Żywicka, K., &amp; Żywicki, M. (2016). Suitability of high-throughput DMS-probing data for constraining the secondary structure prediction of small RNAs. BioTechnologia, 97(3), 161-167. https://doi.org/10.5114/bta.2016.62353
+Plucinska, Marianna, Kamilla Bąkowska-Żywicka, and Marek Żywicki. 2016. "Suitability of high-throughput DMS-probing data for constraining the secondary structure prediction of small RNAs". BioTechnologia 97 (3): 161-167. doi:10.5114/bta.2016.62353
+Plucinska, M., Bąkowska-Żywicka, K., and Żywicki, M. (2016). Suitability of high-throughput DMS-probing data for constraining the secondary structure prediction of small RNAs. BioTechnologia, 97(3), pp.161-167. https://doi.org/10.5114/bta.2016.62353
+Plucinska, Marianna et al. "Suitability of high-throughput DMS-probing data for constraining the secondary structure prediction of small RNAs." BioTechnologia, vol. 97, no. 3, 2016, pp. 161-167. doi:10.5114/bta.2016.62353
+div>&nbsp;</div><div><
+null
+Copyright: © 2016 Institute of Bioorganic Chemistry, Polish Academy of Sciences This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs (CC BY-NC-ND) (https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode),.allowing third parties to download and share its works but not commercially purposes or to create derivative works.</div

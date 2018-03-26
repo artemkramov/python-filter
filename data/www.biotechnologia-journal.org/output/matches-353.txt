@@ -1,0 +1,17 @@
+﻿3/2011
+2
+REVIEW-PAPER-Deterministic-models-and-stochastic-simulations-r-nin-multiple-reaction-models-in-systems-biology,85,23875,0
+abstract:
+REVIEW PAPER<br>Deterministic models and stochastic simulations in multiple reaction models in systems biology
+h3>Paweł Lachor, Krzysztof Puszyński, Andrzej Polański</h3><div>BioTechnologia vol. 92(3) C pp. 265-280 C 2011
+1.46543">https://doi.org/10.5114/bta.2011.46543
+a>View full text</a
+23875
+Lachor P, Puszyński K, Polański A. REVIEW PAPER&lt;br&gt;Deterministic models and stochastic simulations in multiple reaction models in systems biology. BioTechnologia. 2014;92(3):265-280. doi:10.5114/bta.2011.46543
+Lachor, P., Puszyński, K., &amp; Polański, A. (2014). REVIEW PAPER&lt;br&gt;Deterministic models and stochastic simulations in multiple reaction models in systems biology. BioTechnologia, 92(3), 265-280. https://doi.org/10.5114/bta.2011.46543
+Lachor, Paweł, Krzysztof Puszyński, and Andrzej Polański. 2014. "REVIEW PAPER&lt;br&gt;Deterministic models and stochastic simulations in multiple reaction models in systems biology". BioTechnologia 92 (3): 265-280. doi:10.5114/bta.2011.46543
+Lachor, P., Puszyński, K., and Polański, A. (2014). REVIEW PAPER&lt;br&gt;Deterministic models and stochastic simulations in multiple reaction models in systems biology. BioTechnologia, 92(3), pp.265-280. https://doi.org/10.5114/bta.2011.46543
+Lachor, Paweł et al. "REVIEW PAPER&lt;br&gt;Deterministic models and stochastic simulations in multiple reaction models in systems biology." BioTechnologia, vol. 92, no. 3, 2014, pp. 265-280. doi:10.5114/bta.2011.46543
+/div><div>In this paper, we have overviewed deterministic and stochastic approaches for the modeling of bio-molecular<br><br>reactions in systems biology. We have described and compared different versions of stochastic simulation<br><br>approaches towards the modeling of bio-molecular reaction systems, the direct approach and the family of the tauleap<br><br>methods. We also have illustrated differences between different approaches by providing numerical examples<br><br>of computational analyses for selected models. Computational examples of application of stochastic simulation<br><br>algorithms involved two systems of different interacting bio-molecular species and one model from the area of<br><br>ecology, describing interactions between two animal populations. Apart from the direct approach and tau-leap<br><br>family of methods, we have also overviewed the so called hybrid algorithm of stochastic simulations, proven to<br><br>be very efficient when there are huge differences between reaction rates in the system.<
+null
+keywords:</div><h3>stochastic simulation algorithms, direct algorithm, Tau-Leap approximated stochastic simulation algorithms, hybrid algorithm</h3

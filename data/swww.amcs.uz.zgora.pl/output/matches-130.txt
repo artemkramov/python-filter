@@ -1,0 +1,6 @@
+﻿1 - March 1998
+8 - 1998
+Evaluation of discrete-time VSC on an inverted pendulum apparatus with additional dynamics
+Masaaki Hara, Katsuhisa Furuta, Yaodong Pan, Tasuku Hoshino
+Discrete-time Variable Structure Control (VSC) with sliding sector is experimentally evaluated on a new rotational-type inverted pendulum apparatus including an additional dynamics which is used to investigate the robustness of the controller. It is experimentally shown that the discrete-time VS controller makes the system robust stable with respect to parameter uncertainties and gives a quick response against external disturbances, which yields a good control performance without chattering.
+-

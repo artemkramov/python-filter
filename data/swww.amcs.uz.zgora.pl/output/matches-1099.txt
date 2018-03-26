@@ -1,0 +1,6 @@
+﻿2 - June 2006
+16 - 2006
+An equivalent matrix pencil for bivariate polynomial matrices
+Mohamed S. Boudellioua
+In this paper, we present a simple algorithm for the reduction of a given bivariate polynomial matrix to a pencil form which is encountered in Fornasini-Marchesini's type of singular systems. It is shown that the resulting matrix pencil is related to the original polynomial matrix by the transformation of zero coprime equivalence. The exact form of both the matrix pencil and the transformation connecting it to the original matrix are established.
+matrix pencils, 2-D singular systems, zero-coprime-equivalence, invariant polynomials, invariant zeros

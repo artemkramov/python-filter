@@ -1,0 +1,6 @@
+﻿1 - March 2003
+13 - 2003
+An application of the Fourier transform to optimization of continuous 2-D systems
+Vitali Dymkou, Michael Dymkov
+This paper uses the theory of entire functions to study the linear quadratic optimization problem for a class of continuous 2D systems. We show that in some cases optimal control can be given by an analytical formula. A simple method is also proposed to find an approximate solution with preassigned accuracy. Some application to the 1D optimization problem is presented, too. The obtained results form a theoretical background for the design problem of optimal controllers for relevant processes.
+2D systems, optimization, entire functions, Fourier transform, approximation

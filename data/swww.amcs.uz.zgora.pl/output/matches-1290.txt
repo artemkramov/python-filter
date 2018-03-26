@@ -1,0 +1,6 @@
+﻿4 - December 2003
+13 - 2003
+Infinite elementary divisor structure-preserving transformations for polynomial matrices
+Nicholas P. Karampetakis, Stavros Vologiannidis
+The main purpose of this work is to propose new notions of equivalence between polynomial matrices that preserve both the finite and infinite elementary divisor structures. The approach we use is twofold: (a) the 'homogeneous polynomial matrix approach', where in place of the polynomial matrices we study their homogeneous polynomial matrix forms and use 2-D equivalence transformations in order to preserve their elementary divisor structure, and (b) the 'polynomial matrix approach', where some conditions between the 1-D polynomial matrices and their transforming matrices are proposed.
+equivalence, transformation, infinite elementary divisors, autoregressive representations

@@ -1,0 +1,6 @@
+﻿1 - March 2008
+18 - 2008
+Classification of breast cancer malignancy using cytological images of fine needle aspiration biopsies
+Łukasz Jeleń, Thomas Fevens, Adam Krzyżak
+According to the World Health Organization (WHO), breast cancer (BC) is one of the most deadly cancers diagnosed among middle-aged women. Precise diagnosis and prognosis are crucial to reduce the high death rate. In this paper we present a framework for automatic malignancy grading of fine needle aspiration biopsy tissue. The malignancy grade is one of the most important factors taken into consideration during the prediction of cancer behavior after the treatment. Our framework is based on a classification using Support Vector Machines (SVM). The SVMs presented here are able to assign a malignancy grade based on preextracted features with the accuracy up to 94.24%. We also show that SVMs performed best out of four tested classifiers.
+automated malignancy grading, FNA grading, SVM, breast cancer grading, Bloom-Richardson</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0007-x">10.2478/v10006-008-0007-x</a>

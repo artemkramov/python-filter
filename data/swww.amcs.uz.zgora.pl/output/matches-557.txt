@@ -1,0 +1,6 @@
+﻿1 - March 2014
+24 - 2014
+An efficient eigenspace updating scheme for high-dimensional systems
+Simon Gangl, Domen Mongus, Borut Žalik
+Systems based on principal component analysis have developed from exploratory data analysis in the past to current data processing applications which encode and decode vectors of data using a changing projection space (eigenspace). Linear systems, which need to be solved to obtain a constantly updated eigenspace, have increased significantly in their dimensions during this evolution. The basic scheme used for updating the eigenspace, however, has remained basically the same: (re)computing the eigenspace whenever the error exceeds a predefined threshold. In this paper we propose a computationally efficient eigenspace updating scheme, which specifically supports high-dimensional systems from any domain. The key principle is a prior selection of the vectors used to update the eigenspace in combination with an optimized eigenspace computation. The presented theoretical analysis proves the superior reconstruction capability of the introduced scheme, and further provides an estimate of the achievable compression ratios.
+eigenspace updating, projection space, data compression, principal component analysis</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0010">10.2478/amcs-2014-0010</a>

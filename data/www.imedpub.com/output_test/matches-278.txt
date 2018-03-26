@@ -1,3 +1,4 @@
 ﻿Some Fixed Point Theorems in 2-Metric Spaces
 In the present paper we prove two common fixed theorems for four mappings in complete 2-metric spaces. This theorem is a version of many fixed point theorems in complete metric spaces, given by many authors announced in the literature.
 Vishal Gupta, S. B. Singh and Ravinder Kumar
+some-fixed-point-theorems-in-2metric-spaces.pdf" title="Some Fixed Point Theorems in 2-Metric Spaces

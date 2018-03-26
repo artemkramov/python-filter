@@ -1,0 +1,17 @@
+﻿4/2012
+3
+RESEARCH-PAPER-Protoplast-fusion-of-Rhizopus-oryzae-and-Rhizopus-microsporus-r-nfor-enhanced-fumaric-acid-production-from-glycerol,85,23922,0
+abstract:
+RESEARCH PAPER<br>Protoplast fusion of<i>Rhizopus oryzae</i>and<i>Rhizopus microsporus</i>for enhanced fumaric acid production from glycerol
+h3>Monika Kordowska-Wiater, Magdalena Polak-Berecka, Adam Waśko, Zdzisław Targoński</h3><div>BioTechnologia vol. 93(4) C pp. 425-430 C 2012
+2.46596">https://doi.org/10.5114/bta.2012.46596
+a>View full text</a
+23922
+Kordowska-Wiater M, Polak-Berecka M, Waśko A, Targoński Z. RESEARCH PAPER&lt;BR&gt;Protoplast fusion of &lt;i&gt;Rhizopus oryzae&lt;/i&gt; and &lt;i&gt;Rhizopus microsporus&lt;/i&gt; for enhanced fumaric acid production from glycerol. BioTechnologia. 2014;93(4):425-430. doi:10.5114/bta.2012.46596
+Kordowska-Wiater, M., Polak-Berecka, M., Waśko, A., &amp; Targoński, Z. (2014). RESEARCH PAPER&lt;BR&gt;Protoplast fusion of &lt;i&gt;Rhizopus oryzae&lt;/i&gt; and &lt;i&gt;Rhizopus microsporus&lt;/i&gt; for enhanced fumaric acid production from glycerol. BioTechnologia, 93(4), 425-430. https://doi.org/10.5114/bta.2012.46596
+Kordowska-Wiater, Monika, Magdalena Polak-Berecka, Adam Waśko, and Zdzisław Targoński. 2014. "RESEARCH PAPER&lt;BR&gt;Protoplast fusion of &lt;i&gt;Rhizopus oryzae&lt;/i&gt; and &lt;i&gt;Rhizopus microsporus&lt;/i&gt; for enhanced fumaric acid production from glycerol". BioTechnologia 93 (4): 425-430. doi:10.5114/bta.2012.46596
+Kordowska-Wiater, M., Polak-Berecka, M., Waśko, A., and Targoński, Z. (2014). RESEARCH PAPER&lt;BR&gt;Protoplast fusion of &lt;i&gt;Rhizopus oryzae&lt;/i&gt; and &lt;i&gt;Rhizopus microsporus&lt;/i&gt; for enhanced fumaric acid production from glycerol. BioTechnologia, 93(4), pp.425-430. https://doi.org/10.5114/bta.2012.46596
+Kordowska-Wiater, Monika et al. "RESEARCH PAPER&lt;BR&gt;Protoplast fusion of &lt;i&gt;Rhizopus oryzae&lt;/i&gt; and &lt;i&gt;Rhizopus microsporus&lt;/i&gt; for enhanced fumaric acid production from glycerol." BioTechnologia, vol. 93, no. 4, 2014, pp. 425-430. doi:10.5114/bta.2012.46596
+/div><div><i><i>Rhizopus</i>oryzae</i>and<i><i>Rhizopus</i>microsporus</i>strains were screened for their ability to produce fumaric acid on glycerol<br><br>as the sole carbon source in the medium. After seven days of stationary culture, fumaric acid was assayed<br><br>by HPLC analysis, and maximum concentrations of 0.3% (w/v) and 0.33% (w/v) were recorded. Protoplast fusion<br><br>was used to improve fumaric acid production. A selective medium for the fusant culture was composed on the<br><br>basis of biochemical differences between parental strains, as examined using the Biolog FF MicroPlate<sup>TM</sup>Fungi<br><br>Identification Test. Double fusion rounds led to a 1.46-fold increase in fumaric acid productivity relative to the<br><br>parental strains. Individual<i>Rhizopus</i>fusants demonstrated a various ability to produce fumaric acid from<br><br>2.0% (w/v) of glycerol, with the most effective ones producing from 0.2 to 0.27 g · g<sup>-1</sup>this acid. To date, no studies<br><br>have been carried out to improve fumaric acid production by<i>Rhizopus</i>with the use of glycerol as the only<br><br>carbon source in the medium.<
+null
+keywords:</div><h3><i>Rhizopus</i>, fumaric acid, protoplast fusion, glycerol</h3

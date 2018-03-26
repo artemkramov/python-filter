@@ -1,0 +1,6 @@
+﻿4 - December 2014
+24 - 2014
+Fault diagnosis in a networked control system under communication constraints: A quadrotor application
+Karim Chabir, Mohamed Amine Sid, Dominique Sauter
+This paper considers the problem of attitude sensor fault diagnosis in a quadrotor helicopter. The proposed approach is composed of two stages. The first one is the modelling of the system attitude dynamics taking into account the induced communication constraints. Then a robust fault detection and evaluation scheme is proposed using a post-filter designed under a particular design objective. This approach is compared with previous results based on the standard Kalman filter and gives better results for sensor fault diagnosis.
+networked control systems, transmission delays, robust residual generation, adaptive residual evaluation</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0060">10.2478/amcs-2014-0060</a>

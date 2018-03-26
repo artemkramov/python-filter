@@ -1,0 +1,6 @@
+﻿2 - June 1997
+7 - 1997
+An adaptive force/position control scheme for robot manipulators
+Stefano Chiaverini, Bruno Siciliano, Luigi Villani
+An adaptive control scheme is proposed for controlling both the force and position for a robot manipulator in contact with a compliant surface. The controller is developed in the framework of parallel control of inverse-dynamics type. Adaptation to unknown stiffness is achieved by resorting to a suitable estimate update law driven by the force error. The stability of the system is formally proved, which ensures the tracking of both the position along the unconstrained directions and the force along the constrained direction. Simulation results are presented to show the applicability of the technique to practical manipulation tasks involving interaction with the environment.
+-

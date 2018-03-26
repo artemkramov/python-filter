@@ -1,0 +1,6 @@
+﻿2 - June 1993
+3 - 1993
+Automated realization of Boolean algebra theorems in the simplification of logical expressions
+Janusz Szajna
+This paper presents an approach to the automation of symbolic transformation and simplification of complex logical expressions. The transformation is performed with the aid of Prolog – one of the two programming languages being used for artificial intelligence. Due to the declarative nature of Prolog the specification of a particular theorem together with its variations becomes its realization at the same time. Moreover, each predicate is a direct reflection of a heuristic way of the expressions transformations, written in Prolog convention.
+-

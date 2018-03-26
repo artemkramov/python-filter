@@ -1,0 +1,6 @@
+﻿3 - September 2000
+10 - 2000
+Detection and control problems for non-linear distributed-parameter systems with delays
+Abdelwahed Namir, Fouad Lahmidi, El Houssine Labriji
+First, we consider non-linear discrete-time and continuous-time systems with unknown inputs. The problem of reconstructing an input using the information given by an output equation is investigated. Then we examine a control problem for non-linear discrete-time hereditary systems, i.e. the problem of finding a control which drives the state of the system from its initial value to a given desired final state. The methods used to solve these problems are based on the state-space technique and fixed-point theorems. To illustrate the outlined ideas, various numerical simulation results are presented.
+distributed parameter systems, non-linear discrete-time systems, detection, control, fixed-point theorems

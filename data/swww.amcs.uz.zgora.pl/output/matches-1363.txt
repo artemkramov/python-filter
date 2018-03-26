@@ -1,0 +1,6 @@
+﻿1 - March 2001
+11 - 2001
+Reproducing kernels and Riccati equations
+Harry Dym
+The purpose of this paper is to exhibit a connection between the Hermitian solutions of matrix Riccati equations and a class of finite dimensional reproducing kernel Krein spaces. This connection is then exploited to obtain minimal factorizations of rational matrix valued functions that are<em>J</em>-unitary on the imaginary axis in a natural way.
+Riccati equations, Lyapunov equations, reproducing kernel spaces, de Branges spaces,<em>J</em>-inner matrix valued functions,<em>J</em>-unitary matrix valued functions

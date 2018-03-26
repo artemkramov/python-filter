@@ -1,0 +1,6 @@
+﻿4 - December 2003
+13 - 2003
+The stability of an irrigation canal system
+Hamid Bounit
+In this paper we examine the stability of an irrigation canal system. The system considered is a single reach of an irrigation canal which is derived from Saint-Venant’s equations. It is modelled as a system of nonlinear partial differential equations which is then linearized. The linearized system consists of hyperbolic partial differential equations. Both the control and observation operators are unbounded but admissible. From the theory of symmetric hyperbolic systems, we derive the exponential (or internal) stability of the semigroup underlying the system. Next, we compute explicitly the transfer functions of the system and we show that the input-output (or external) stability holds. Finally, we prove that the system is regular in the sense of (Weiss, 1994) and give various properties related to its transfer functions.
+Saint-Venant equation, dimensionless, symmetric hyperbolic equation, internal stability, transfer function, input-output stability, regular systems

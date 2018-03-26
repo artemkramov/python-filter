@@ -1,0 +1,6 @@
+﻿4 - December 2009
+19 - 2009
+Approximation of Jacobian inverse kinematics algorithms
+Krzysztof Tchoń, Joanna Karpińska, Mariusz Janiak
+This paper addresses the synthesis problem of Jacobian inverse kinematics algorithms for stationary manipulators and mobile robots. Special attention is paid to the design of extended Jacobian algorithms that approximate the Jacobian pseudoinverse algorithm. Two approaches to the approximation problem are developed: one relies on variational calculus, the other is differential geometric. Example designs of the extended Jacobian inverse kinematics algorithm for 3DOF manipulators as well as for the unicycle mobile robot illustrate the theoretical concepts.
+robot inverse kinematics, extended Jacobian, Jacobian pseudoinverse, approximation</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-009-0041-3">10.2478/v10006-009-0041-3</a>

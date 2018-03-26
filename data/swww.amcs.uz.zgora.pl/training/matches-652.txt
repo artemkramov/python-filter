@@ -1,0 +1,6 @@
+﻿2 - June 2013
+23 - 2013
+An unconditionally stable nonstandard finite difference method applied to a mathematical model of HIV infection
+Hasim A. Obaid, Rachid Ouifki, Kailash C. Patidar
+We formulate and analyze an unconditionally stable nonstandard finite difference method for a mathematical model of HIV transmission dynamics. The dynamics of this model are studied using the qualitative theory of dynamical systems. These qualitative features of the continuous model are preserved by the numerical method that we propose in this paper. This method also preserves the positivity of the solution, which is one of the essential requirements when modeling epidemic diseases. Robust numerical results confirming theoretical investigations are provided. Comparisons are also made with the other conventional approaches that are routinely used for such problems.
+HIV infection, dynamical systems, nonstandard finite difference methods, equilibria, stability</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0027">10.2478/amcs-2013-0027</a>

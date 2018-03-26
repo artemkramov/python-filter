@@ -1,0 +1,6 @@
+a>View full text</a
+Zieleziński A, Potarzycki P, Książkiewicz M, Karłowski W. RESEARCH PAPER&lt;br&gt;Annotating a non-model plant genome – a study on the narrow-leafed lupin. BioTechnologia. 2014;93(3):318-332. doi:10.5114/bta.2012.46586
+Zieleziński, A., Potarzycki, P., Książkiewicz, M., &amp; Karłowski, W. (2014). RESEARCH PAPER&lt;br&gt;Annotating a non-model plant genome – a study on the narrow-leafed lupin. BioTechnologia, 93(3), 318-332. https://doi.org/10.5114/bta.2012.46586
+Zieleziński, Andrzej, Piotr Potarzycki, Michał Książkiewicz, and Wojciech M. Karłowski. 2014. "RESEARCH PAPER&lt;br&gt;Annotating a non-model plant genome – a study on the narrow-leafed lupin". BioTechnologia 93 (3): 318-332. doi:10.5114/bta.2012.46586
+Zieleziński, A., Potarzycki, P., Książkiewicz, M., and Karłowski, W. (2014). RESEARCH PAPER&lt;br&gt;Annotating a non-model plant genome – a study on the narrow-leafed lupin. BioTechnologia, 93(3), pp.318-332. https://doi.org/10.5114/bta.2012.46586
+Zieleziński, Andrzej et al. "RESEARCH PAPER&lt;br&gt;Annotating a non-model plant genome – a study on the narrow-leafed lupin." BioTechnologia, vol. 93, no. 3, 2014, pp. 318-332. doi:10.5114/bta.2012.46586

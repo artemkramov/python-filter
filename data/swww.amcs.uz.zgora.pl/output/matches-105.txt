@@ -1,0 +1,6 @@
+﻿4 - December 1999
+9 - 1999
+Stability of multi-dimensional discrete systems with varying structure
+Michael Dymkov, Ivan Gaishun
+A new class of multi-dimensional discrete systems with varying structure is introduced. The notions of total solvability,<em>p<sub>t</sub></em>-boundedness,<em>p<sub>t</sub></em>-stability and asymptotic stability are defined. For studying properties of the solutions for the considered systems a curvilinear composition of mappings along discrete curves is used. Total solvability conditions similar to the Frobenius ones are obtained. Sufficient conditions for<em>p<sub>t</sub></em>-stability and asymptotic stability based on the Lyapunov functional method are also established. A two-dimensional system of Volterra equations is presented as an example of equations with varying structure.
+multi-dimensional systems, total solvability, curvilinear composition, stability

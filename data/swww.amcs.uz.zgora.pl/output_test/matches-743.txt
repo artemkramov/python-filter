@@ -1,0 +1,3 @@
+Enclosures for the solution set of parametric interval linear systems
+Milan Hladík
+We investigate parametric interval linear systems of equations. The main result is a generalization of the Bauer–Skeel and the Hansen–Bliek–Rohn bounds for this case, comparing and refinement of both. We show that the latter bounds are not provable better, and that they are also sometimes too pessimistic. The presented form of both methods is suitable for combining them into one to get a more efficient algorithm. Some numerical experiments are carried out to illustrate performances of the methods.

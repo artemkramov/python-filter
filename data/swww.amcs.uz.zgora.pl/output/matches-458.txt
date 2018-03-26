@@ -1,0 +1,6 @@
+﻿2 - December 1992
+2 - 1992
+Numerical analysis of forced-convection heat transfer in radioelectronic device channel
+S. Bochkovaja, V. Skorik, K. Skorik
+A problem of finding the temperature field of printed circuit boards with the sources in the radioelectronic device unit under forced-convection conditions is considered. A heat equation with special type boundary conditions is described. The aim of this study is to increase the velocity of finding the temperature field. The results of numerical experiment are given.
+-

@@ -1,0 +1,17 @@
+﻿3/2013
+4
+Neural-modeling-of-plant-tissue-cultures-a-review,85,23812,0
+abstract:</div><div>Review paper
+Neural modeling of plant tissue cultures: a review
+h3>Sylwia Zielińska, Ewa Kępczyńska</h3><div>BioTechnologia vol. 94(3) C pp. 253-268 C 2013
+3.46419">https://doi.org/10.5114/bta.2013.46419
+a>View full text</a
+23812
+Zielińska S, Kępczyńska E. Neural modeling of plant tissue cultures: a review. BioTechnologia. 2014;94(3):253-268. doi:10.5114/bta.2013.46419
+Zielińska, S., &amp; Kępczyńska, E. (2014). Neural modeling of plant tissue cultures: a review. BioTechnologia, 94(3), 253-268. https://doi.org/10.5114/bta.2013.46419
+Zielińska, Sylwia, and Ewa Kępczyńska. 2014. "Neural modeling of plant tissue cultures: a review". BioTechnologia 94 (3): 253-268. doi:10.5114/bta.2013.46419
+Zielińska, S., and Kępczyńska, E. (2014). Neural modeling of plant tissue cultures: a review. BioTechnologia, 94(3), pp.253-268. https://doi.org/10.5114/bta.2013.46419
+Zielińska, Sylwia et al. "Neural modeling of plant tissue cultures: a review." BioTechnologia, vol. 94, no. 3, 2014, pp. 253-268. doi:10.5114/bta.2013.46419
+/div><div>Artificial neural networks (ANNs) are widely used in science and technology, and have been successfully applied<br><br>in plant tissue cultures. First of all, ANNs can simulate the growth of plants under different<i>in vitro</i>conditions.<br><br>Their usefulness has been confirmed in the estimation of biomass in plant cell cultures and the length of shoots<br><br><i>in vitro</i>, in the classification of somatic embryos, evaluation of the physical conditions of an<i>in vitro</i>environment,<br><br>and in the prediction of optimal conditions for<i>in vitro</i>culture to achieve maximum efficiency and productivity.<br><br>Secondly, with the help of various types of neural models,<i>in vitro</i>-regenerated plants are sorted, respectively,<br><br>to their quality and likeliness of further development. Thirdly, ANNs are capable of predicting plant behavior<br><br>during<i>in vitro</i>rhizogenesis and subsequent acclimatization to ex vitro conditions. Several neural and neurofuzzy<br><br>models for the aforementioned biological processes are reviewed in this paper. In addition, the fundamentals of<br><br>neural modeling, namely the construction of ANNs, are presented and their flexibility and attractiveness are<br><br>highlighted.<
+null
+keywords:</div><h3>biomass estimation, embryo classification, neural modeling, plant clustering, prediction of conditions, tissue culture</h3

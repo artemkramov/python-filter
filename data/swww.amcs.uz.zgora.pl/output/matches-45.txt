@@ -1,0 +1,6 @@
+﻿3 - September 2000
+10 - 2000
+Linear quadratic control problem with fixed final state for discrete-time distributed systems
+Lotfi Chraïbi, Jamila Karrakchou, Abdelatif Ouansafi, Mostafa Rachik
+The problem considered is that of minimizing a quadratic cost functional for a discrete distributed system with fixed initial and final states. It is shown that under suitable controllability assumptions, there is a close relationship between this problem and that of exact controllability with minimization of a time-varying energy criterion. The HUM technique is then extended to treat the exact controllability problem in the time-varying case and applied to provide an explicit form for the optimal control and the optimal cost.
+exact controllability, feedback law, open loop, optimal control, quadratic control

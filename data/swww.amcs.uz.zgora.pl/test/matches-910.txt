@@ -1,0 +1,6 @@
+﻿4 - December 2010
+20 - 2010
+Reduction in the number of LUT elements for control units with code sharing
+Alexander Barkalov, Larysa Titarenko, Jacek Bieganowski
+Two methods are proposed targeted at reduction in the number of look-up table elements in logic circuits of compositional microprogram control units (CMCUs) with code sharing. The methods assume the application of field-programmable gate arrays for the implementation of the combinational part of the CMCU, whereas embedded-memory blocks are used for implementation of its control memory. Both methods are based on the existence of classes of pseudoequivalent operational linear chains in a microprogram to be implemented. Conditions for the application of the proposed methods and examples of design are shown. Results of conducted experiments are given.
+compositional microprogram control unit, code sharing, operational linear chain, field-programmable gate arrays, look-up table, design, embedded-memory block</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-010-0057-8">10.2478/v10006-010-0057-8</a>

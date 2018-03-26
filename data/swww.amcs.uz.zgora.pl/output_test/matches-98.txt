@@ -1,0 +1,3 @@
+Fuzzy-logic fault diagnosis of industrial process actuators
+Jan M. Kościelny, Michal Syfert, Michał Bartyś
+The paper presents an idea of decomposition of diagnostic tasks in complex systems. Such decomposition consists in splitting basic diagnostic functions into lower-level units existing in decentralised structures of automatic control and supervision of the process. An example of a unit that realises this concept and includes a positioner that controls and diagnoses an assembly consisting of a servomotor and a pneumatic control valve is also given. An application of fuzzy logic to the actuator diagnosing algorithm is presented and results of the corresponding fault detection tests in an industrial environment are discussed.

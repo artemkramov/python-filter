@@ -1,0 +1,6 @@
+﻿1 - March 2006
+16 - 2006
+Refinement of UML collaborations
+Bogumiła Hnatkowska, Zbigniew Huzar, Lech Tuzinkiewicz
+The paper concerns the concept of refinement as a commonly used design practice in the software development process. The refinement relationship is formulated and formally expressed for UML collaborations. Collaborations are suitable for presenting the proposed approach as they represent both static and dynamic aspects of a modeled system or its part, for example, a use case. Our approach to refinement is based on the rule of preserving the observable behavior of a modeled system. The introduced notion of sub-collaborations allows us to refine collaboration diagrams in a systematic way.
+UML, collaborations, refinement

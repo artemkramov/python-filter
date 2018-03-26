@@ -1,0 +1,6 @@
+﻿4 - December 2004
+14 - 2004
+Modeling and control of a 4-wheel skid-steering mobile robot
+Krzysztof Kozłowski, Dariusz Pazderski
+A mathematical model of a 4-wheel skid-steering mobile robot is presented in a systematic way. The robot is considered as a subsystem consisting of kinematic, dynamic and drive levels. Next, a designing process of a kinematic controller based on the algorithm introduced by (Dixon et al., 2001) is shown. An extension of the kinematic control law at the dynamic and motor levels using the Lyapunov analysis and the backstepping technique is developed. To validate the designed algorithm, extensive simulation results for trajectory tracking and set-point cases are discussed. Some deliberations concerning the tuning of the controller are presented, too.
+mobile robots, skid-steering vehicles, time-varying control laws, backstepping, Lyapunov analysis

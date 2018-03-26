@@ -1,0 +1,6 @@
+﻿4 - December 2007
+17 - 2007
+On the computation of the GCD of 2-D polynomials
+Panagiotis Tzekis, Nicholas P. Karampetakis, Haralambos K. Terzidis
+The main contribution of this work is to provide an algorithm for the computation of the GCD of 2-D polynomials, based on DFT techniques. The whole theory is implemented via illustrative examples.
+greatest common divisor, discrete Fourier transform, two-variable polynomial</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0038-8">10.2478/v10006-007-0038-8</a>

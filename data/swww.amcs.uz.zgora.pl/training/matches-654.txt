@@ -1,0 +1,6 @@
+﻿2 - June 2013
+23 - 2013
+State estimation for a class of nonlinear systems
+Benoît Schwaller, Denis Ensminger, Birgitta Dresp-Langley, José Ragot
+We propose a new type of Proportional Integral (PI) state observer for a class of nonlinear systems in continuous time which ensures an asymptotic stable convergence of the state estimates. Approximations of non-linearity are not necessary to obtain such results, but the functions must be, at least locally, of the<em>Lipschitz</em>type. The obtained state variables are exact and robust against noise.<em>Naslin’s</em>damping criterion permits synthesizing gains in an algebraically simple and efficient way. Both the speed and damping of the observer response are controlled in this way. Model simulations based on a<em>Sprott</em>strange attractor are discussed as an example.
+non-linear systems, state observers, continuous time</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0029">10.2478/amcs-2013-0029</a>

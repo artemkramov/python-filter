@@ -1,0 +1,6 @@
+﻿4 - December 2010
+20 - 2010
+Robust stability of positive continuous-time linear systems with delays
+Mikołaj Busłowicz
+The paper is devoted to the problem of robust stability of positive continuous-time linear systems with delays with structured perturbations of state matrices. Simple necessary and sufficient conditions for robust stability in the general case and in the case of systems with a linear uncertainty structure in two sub-cases: (i) a unity rank uncertainty structure and (ii) nonnegative perturbation matrices are established. The problems are illustrated with numerical examples.
+positive continuous-time linear system, delays, robust stability, linear uncertainty, interval system</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-010-0049-8">10.2478/v10006-010-0049-8</a>

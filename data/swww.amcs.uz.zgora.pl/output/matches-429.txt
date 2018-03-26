@@ -1,0 +1,6 @@
+﻿4 - December 1993
+3 - 1993
+Optimal control of hyperbolic system with time lags
+Adam Kowalewski
+In this paper an optimal distributed control problem for a hyperbolic system in which time lags appear in the state equation and in the boundary condition simultaneously is considered. The necessary and sufficient conditions of optimality for the Neumann problem are derived making use of Lions' scheme.
+-

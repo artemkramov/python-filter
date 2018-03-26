@@ -1,0 +1,6 @@
+﻿2 - June 2012
+22 - 2012
+Computer methods for stability analysis of the Roesser type model of 2D continuous-discrete linear systems
+Mikołaj Busłowicz, Andrzej Ruszewski
+Asymptotic stability of models of 2D continuous-discrete linear systems is considered. Computer methods for investigation of the asymptotic stability of the Roesser type model are given. The methods require computation of eigenvalue-loci of complex matrices or evaluation of complex functions. The effectiveness of the stability tests is demonstrated on numerical examples.
+continuous-discrete system, hybrid system, stability, computer methods</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0030-9">10.2478/v10006-012-0030-9</a>

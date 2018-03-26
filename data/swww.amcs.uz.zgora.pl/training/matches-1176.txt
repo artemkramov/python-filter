@@ -1,0 +1,6 @@
+﻿4 - December 2005
+15 - 2005
+Optimal random sampling for spectrum estimation in DASP applications
+Andrzej Tarczyński, Dongdong Qu
+In this paper we analyse a class of DASP (Digital Alias-free Signal Processing) methods for spectrum estimation of sampled signals. These methods consist in sampling the processed signals at randomly selected time instants. We construct estimators of Fourier transforms of the analysed signals. The estimators are unbiased inside arbitrarily wide frequency ranges, regardless of how sparsely the signal samples are collected. In order to facilitate quality assessment of the estimators, we calculate their standard deviations. The optimal sampling scheme that minimises the variance of the resulting estimator is derived. The further analysis presented in this paper shows how sampling instant jitter deteriorates the quality of spectrum estimation. A couple of numerical examples illustrate the main thesis of the paper.
+digital alias-free signal processing, random sampling, spectral analysis, optimal sampling

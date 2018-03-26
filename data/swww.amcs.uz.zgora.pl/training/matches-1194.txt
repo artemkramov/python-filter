@@ -1,0 +1,6 @@
+﻿1 - March 2004
+14 - 2004
+Kernel Ho-Kashyap classifier with generalization control
+Jacek Łęski
+This paper introduces a new classifier design method based on a kernel extension of the classical Ho-Kashyap procedure. The proposed method uses an approximation of the absolute error rather than the squared error to design a classifier, which leads to robustness against outliers and a better approximation of the misclassification error. Additionally, easy control of the generalization ability is obtained using the structural risk minimization induction principle from statistical learning theory. Finally, examples are given to demonstrate the validity of the introduced method.
+kernel methods, classifier design, Ho-Kashyap classifier, generalization control, robust methods

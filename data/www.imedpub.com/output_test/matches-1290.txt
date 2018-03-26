@@ -1,3 +1,4 @@
 ﻿Relative Air Pollution Index (RAPI) - A New Method for Aggregate Air Pollution Assessment
 In this article, the author proposes a new method for integrating the relatively individual pollution indexes into an aggregate index called Relative Air Pollution Index (RAPI). This index has overcome some limitations of the air pollution index (API) or air quality index (AQI) which is being used in countries around the world as well as in Vietnam. Using the automated observation data recorded at Nguyen Van Cu station in Hanoi in 2016 to test the RAPI calculations, the results show that RAPI is conformed to the ambient air pollution level at Nguyen Van Cu station.
 Pham Ngoc Ho
+relative-air-pollution-index-rapi--a-new-method-for-aggregate-air-pollution-assessment.pdf" title="Relative Air Pollution Index (RAPI) - A New Method for Aggregate Air Pollution Assessment

@@ -1,0 +1,6 @@
+﻿1 - June 1992
+2 - 1992
+Petri net approach to the synthesis of self-reprogramming control software
+Zbigniew Banaszak, Robert Wójcik, Kelwyn A. D'Souza
+A new approach to automated design of adaptive concurrent control software of discrete event systems is presented. An algorithm transforming a given specification of the pipeline-like flowing concurrent processes into a Petri net model of admissible control flows of competing processes is introduced. Models generated guarantee the time-independent and deadlock-free execution of processes. Based on the assumption that some of the system shared resources may be substituted by others, e.g. in case of their damage, a fault-tolerant recovery procedure aimed at the reprogramming of Petri net-based control software is provided. This procedure guarantees the fault-tolerant operation of real-time controlled systems. The formal description of modelling procedures is described in details.
+-

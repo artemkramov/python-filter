@@ -1,0 +1,6 @@
+﻿2 - June 2012
+22 - 2012
+Distributed scheduling of sensor networks for identification of spatio-temporal processes
+Maciej Patan
+An approach to determine a scheduling policy for a sensor network monitoring some spatial domain in order to identify unknown parameters of a distributed system is discussed. Given a finite number of possible sites at which sensors are located, the activation schedule for scanning sensors is provided so as to maximize a criterion defined on the Fisher information matrix associated with the estimated parameters. The related combinatorial problem is relaxed through operating on the density of sensors in lieu of individual sensor positions. Then, based on the adaptation of pairwise communication algorithms and the idea of running consensus, a numerical scheme is developed which distributes the computational burden between the network nodes. As a result, a simple exchange algorithm is outlined to solve the design problem in a decentralized fashion.
+distributed-parameter system, parameter estimation, running consensus, scanning measurements, sensor network</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0022-9">10.2478/v10006-012-0022-9</a>

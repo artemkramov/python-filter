@@ -1,0 +1,18 @@
+﻿4/2016
+7
+Obtaining-doubled-haploid-lines-of-the-Lr19-gene-using-anther-cultures-of-winter-wheat-genotypes,85,28881,0
+abstract:</div><div>RESEARCH PAPERS
+Obtaining doubled haploid lines of the<i>Lr19</i>gene using anther cultures of winter wheat genotypes
+h3>Dorota Weigt, Angelika Kiel, Jerzy Nawracała, Agnieszka Tomkowiak, Danuta Kurasiak-Popowska, Idzi Siatkowski, Bogusława Ługowska</h3><div>BioTechnologia vol. 97(4) C pp. 285-293 C 2016
+6.64545">https://doi.org/10.5114/bta.2016.64545
+a>View full text</a
+28881
+Weigt D, Kiel A, Nawracała J, et al. Obtaining doubled haploid lines of the &lt;i&gt;Lr19&lt;/i&gt; gene using anther cultures of winter wheat genotypes. BioTechnologia. 2017;97(4):285-293. doi:10.5114/bta.2016.64545
+Weigt, D., Kiel, A., Nawracała, J., Tomkowiak, A., Kurasiak-Popowska, D., &amp; Siatkowski, I. et al. (2017). Obtaining doubled haploid lines of the &lt;i&gt;Lr19&lt;/i&gt; gene using anther cultures of winter wheat genotypes. BioTechnologia, 97(4), 285-293. https://doi.org/10.5114/bta.2016.64545
+Weigt, Dorota, Angelika Kiel, Jerzy Nawracała, Agnieszka Tomkowiak, Danuta Kurasiak-Popowska, Idzi Siatkowski, and Bogusława Ługowska. 2017. "Obtaining doubled haploid lines of the &lt;i&gt;Lr19&lt;/i&gt; gene using anther cultures of winter wheat genotypes". BioTechnologia 97 (4): 285-293. doi:10.5114/bta.2016.64545
+Weigt, D., Kiel, A., Nawracała, J., Tomkowiak, A., Kurasiak-Popowska, D., Siatkowski, I., and Ługowska, B. (2017). Obtaining doubled haploid lines of the &lt;i&gt;Lr19&lt;/i&gt; gene using anther cultures of winter wheat genotypes. BioTechnologia, 97(4), pp.285-293. https://doi.org/10.5114/bta.2016.64545
+Weigt, Dorota et al. "Obtaining doubled haploid lines of the &lt;i&gt;Lr19&lt;/i&gt; gene using anther cultures of winter wheat genotypes." BioTechnologia, vol. 97, no. 4, 2017, pp. 285-293. doi:10.5114/bta.2016.64545
+Weigt D, Kiel A, Nawracała J, Tomkowiak A, Kurasiak-Popowska D, Siatkowski I et al. Obtaining doubled haploid lines of the &lt;i&gt;Lr19&lt;/i&gt; gene using anther cultures of winter wheat genotypes. BioTechnologia. 2017;97(4):285-293. doi:10.5114/bta.2016.64545
+/div><div>Leaf rust pathogens are able to overcome plants’ resistance by the appearance of new races. Therefore, an introduction of leaf rust resistance genes into highyielding wheat genotypes is essential. One of such genes is Lr19 (leaf rust resistance gene) that could be a source of resistance in polish breeding programs. The aim of this study was to obtain doubled haploid lines of the Lr19 gene in anther cultures of winter wheat genotypes. In the experiment, F3 generation plants from two cross-combinations were used: genotype T39 × Ozon and genotype T36 × Hondia (T36 and T39 lines carry Lr19 gene). Three combinations of growth regulators such as 2,4-D; 2,4-D and dicamba; and 2,4-D and kinetin were applied. A total of 13,550 anthers were tested. The embryo-like structures were formed at an average frequency of 9.95% and were mainly influenced by the genotype, not by the composition of hormones in induction media. Regeneration frequency of green plants was recorded to be 1.45%. The<br><br>highest frequency of green plant regeneration was observed on induction media supplemented with 2,4-D and dicamba reaching 1.79%. Spontaneous doubled haploids tested by laser flow cytometry were detected in 33.95% of plants. The frequency of the formation of embryo-like structure was mainly influenced by the genotype, not by the composition of hormones in induction media.<
+null
+keywords:</div><h3>wheat, leave rust, androgenesis, regeneration frequency, doubled haploids</h3

@@ -1,0 +1,6 @@
+﻿2 - June 2006
+16 - 2006
+Lower bounds for the scheduling problem with uncertain demands
+Djamel Berkoune, Khaled Mesghouni, Besoa Rabenasolo
+This paper proposes various lower bounds to the makespan of the flexible job shop scheduling problem (FJSP). The FJSP is known in the literature as one of the most difficult combinatorial optimisation problems (NP-hard). We will use genetic algorithms for the optimisation of this type of problems. The list of the demands is divided in two sets: the actual demand, which is considered as certain (a list of jobs with known characteristics), and the predicted demand, which is a list of uncertain jobs. The actual demand is scheduled in priority by the genetic algorithm. Then, the predicted demand is inserted using various methods in order to generate different scheduling solutions. Two lower bounds are given for the makespan before and after the insertion of the predicted demand. The performance of solutions is evaluated by comparing the real values obtained on many static and dynamic scheduling examples with the corresponding lower bounds.
+flexible job shop scheduling, insertion, makespan, predicted demands, lower bounds

@@ -1,0 +1,6 @@
+﻿1 - March 2015
+25 - 2015
+Fault tolerant control using Gaussian processes and model predictive control
+Xiaoke Yang, Jan M. Maciejowski
+Essential ingredients for fault-tolerant control are the ability to represent system behaviour following the occurrence of a fault, and the ability to exploit this representation for deciding control actions. Gaussian processes seem to be very promising candidates for the first of these, and model predictive control has a proven capability for the second. We therefore propose to use the two together to obtain fault-tolerant control functionality. Our proposal is illustrated by several reasonably realistic examples drawn from flight control.
+fault-tolerant control, Gaussian process, model predictive control, aircraft control, probabilistic modelling</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2015-0010">10.1515/amcs-2015-0010</a>

@@ -1,0 +1,6 @@
+﻿4 - December 1999
+9 - 1999
+On the equivalence of problem-oriented databases
+Swietlana Lebiediewa
+A comparison is made between problem-oriented databases for multistage decision making and general-purpose databases. An exemplary problem-oriented database IDEN for supporting the process of multistage identification is discussed in detail. An equivalence condition for problem-oriented databases is formulated and then the equivalence with respect to data structures and operations is proved for hierarchical, network and relational models of the IDEN database.
+problem-oriented database, data manipulations language, distributed databases, equivalence of databases

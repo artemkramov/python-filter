@@ -1,0 +1,6 @@
+﻿2 - June 2000
+10 - 2000
+Shape optimization of labyrinth seals
+Rajae Aboulaïch, Karim Azelmat, Jacques Baranger, Ali Souissp
+In this work, we determine the optimal shape of a labyrinth seal in a hydraulic Francis turbine. The numerical approximation of the optimal shape is obtained using shape optimization techniques. The flow is governed by Navier-Stokes equations. We first prove the existence of an optimal domain, and later we present the computation of the shape gradient which allows us to approximate numerically the optimal domain.
+shape optimization, hydraulic turbine, Navier-Stokes equations, finite element method

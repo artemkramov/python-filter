@@ -1,0 +1,6 @@
+﻿2 - June 2012
+22 - 2012
+The role of parameter constraints in EE and OE methods for optimal identification of continuous LTI models
+Witold Byrski, Jędrzej Byrski
+The paper presents two methods used for the identification of Continuous-time Linear Time Invariant (CLTI) systems. In both methods the idea of using modulating functions and a convolution filter is exploited. It enables the proper transformation of a differential equation to an algebraic equation with the same parameters. Possible different normalizations of the model are strictly connected with different parameter constraints which have to be assumed for the nontrivial solution of the optimal identification problem. Different parameter constraints result in different quality of identification. A thorough discussion on the role of parameter constraints in the optimality of system identification is included. For time continuous systems, the Equation Error Method (EEM) is compared with the continuous version of the Output Error Method (OEM), which appears as a special sub-case of the EEM.
+continuous systems, parameter constraints in identification, modulating functions, transfer function normalization, least squares method</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0028-3">10.2478/v10006-012-0028-3</a>

@@ -1,0 +1,17 @@
+﻿1/2016
+7
+Alternative-splicing-in-plant-stress-response,85,26893,0
+abstract:</div><div>REVIEW PAPER
+Alternative splicing in plant stress response
+h3>Joanna Gracz</h3><div>BioTechnologia vol. 97(1) C pp. 9-17 C 2016
+6.57719">https://doi.org/10.5114/bta.2016.57719
+a>View full text</a
+26893
+Gracz J. Alternative splicing in plant stress response. BioTechnologia. 2016;97(1):9-17. doi:10.5114/bta.2016.57719
+Gracz, J. (2016). Alternative splicing in plant stress response. BioTechnologia, 97(1), 9-17. https://doi.org/10.5114/bta.2016.57719
+Gracz, Joanna. 2016. "Alternative splicing in plant stress response". BioTechnologia 97 (1): 9-17. doi:10.5114/bta.2016.57719
+Gracz, J. (2016). Alternative splicing in plant stress response. BioTechnologia, 97(1), pp.9-17. https://doi.org/10.5114/bta.2016.57719
+Gracz, Joanna. "Alternative splicing in plant stress response." BioTechnologia, vol. 97, no. 1, 2016, pp. 9-17. doi:10.5114/bta.2016.57719
+/div><div>Alternative splicing is a cellular process in which multiple mRNA transcripts are created from a single gene. Comparative studies of splicing on plant and animal systems have revealed differences between those two kingdoms in splice-site recognition, distribution of various splice types, and overall frequency of splicing events. Moreover, global analysis of plant genomes showed an impact of alternative splicing on crop domestication and trait selection. In recent years, new functions of this process in plant development and stress responses were described. From known examples of spliced transcripts emerges a complicated picture of mutual relationship of splicing process with various molecular machineries taking part in regulation of gene expression. For now, we know that splicing is coupled with nonsense-mediated mRNA decay and dependent on chromatin modification. It also influences miRNA pathway. This review summarizes the role of alternative spliced transcripts in expression of plant genetic information especially in response to biotic and abiotic stress conditions.<
+null
+keywords:</div><h3>alternative splicing, gene expression, stress conditions, plants</h3

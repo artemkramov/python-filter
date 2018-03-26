@@ -1,0 +1,6 @@
+﻿4 - December 2008
+18 - 2008
+Actuator fault tolerant control design based on a reconfigurable reference input
+Didier Theilliol, Cédric Join, Youmin Zhang
+The prospective work reported in this paper explores a new approach to enhance the performance of an active fault tolerant control system. The proposed technique is based on a modified recovery/trajectory control system in which a reconfigurable reference input is considered when performance degradation occurs in the system due to faults in actuator dynamics. An added value of this work is to reduce the energy spent to achieve the desired closed-loop performance. This work is justified by the need of maintaining a reliable system in a dynamical way in order to achieve a mission by an autonomous system, e.g., a launcher, a satellite, a submarine, etc. The effectiveness is illustrated using a three-tank system for slowly varying reference inputs corrupted by actuators faults.
+fault tolerant control (FTC), actuator fault accommodation, reconfigurable reference input</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0048-1">10.2478/v10006-008-0048-1</a>

@@ -1,0 +1,6 @@
+﻿5 - December 2001
+11 - 2001
+Reduction of large circuit models via low rank approximate gramians
+Jing-Rebecca Li, Jacob White
+We describe a model reduction algorithm which is well-suited for the reduction of large linear interconnect models. It is an orthogonal projection method which takes as the projection space the sum of the approximate dominant controllable subspace and the approximate dominant observable subspace. These approximate dominant subspaces are obtained using the Cholesky Factor ADI (CF-ADI) algorithm. We describe an improvement upon the existing implementation of CF-ADI which can result in significant savings in computational cost. We show that the new model reduction method matches moments at the negative of the CF-ADI parameters, and that it can be easily adapted to allow for DC matching, as well as for passivity preservation for multi-port RLC circuit models which come from modified nodal analysis.
+model reduction, Lyapunov equations, Cholesky-Factor ADI, moment matching, passivity

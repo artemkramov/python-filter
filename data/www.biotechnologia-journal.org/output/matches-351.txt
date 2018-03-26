@@ -1,0 +1,17 @@
+﻿3/2011
+2
+REVIEW-PAPER-Virtual-screening-strategies-in-drug-design-r-n-methods-and-applications,85,23874,0
+abstract:
+REVIEW PAPER<br>Virtual screening strategies in drug design – methods and applications
+h3>Ewa Bielska, Xavier Lucas, Anna Czerwoniec, Joanna M. Kasprzak, Katarzyna H. Kaminska, Janusz M. Bujnicki</h3><div>BioTechnologia vol. 92(3) C pp. 249-264 C 2011
+1.46542">https://doi.org/10.5114/bta.2011.46542
+a>View full text</a
+23874
+Bielska E, Lucas X, Czerwoniec A, M. Kasprzak J, H. Kaminska K, M. Bujnicki J. REVIEW PAPER&lt;BR&gt;Virtual screening strategies in drug design – methods and applications. BioTechnologia. 2014;92(3):249-264. doi:10.5114/bta.2011.46542
+Bielska, E., Lucas, X., Czerwoniec, A., M. Kasprzak, J., H. Kaminska, K., &amp; M. Bujnicki, J. (2014). REVIEW PAPER&lt;BR&gt;Virtual screening strategies in drug design – methods and applications. BioTechnologia, 92(3), 249-264. https://doi.org/10.5114/bta.2011.46542
+Bielska, Ewa, Xavier Lucas, Anna Czerwoniec, Joanna M. Kasprzak, Katarzyna H. Kaminska, and Janusz M. Bujnicki. 2014. "REVIEW PAPER&lt;BR&gt;Virtual screening strategies in drug design – methods and applications". BioTechnologia 92 (3): 249-264. doi:10.5114/bta.2011.46542
+Bielska, E., Lucas, X., Czerwoniec, A., M. Kasprzak, J., H. Kaminska, K., and M. Bujnicki, J. (2014). REVIEW PAPER&lt;BR&gt;Virtual screening strategies in drug design – methods and applications. BioTechnologia, 92(3), pp.249-264. https://doi.org/10.5114/bta.2011.46542
+Bielska, Ewa et al. "REVIEW PAPER&lt;BR&gt;Virtual screening strategies in drug design – methods and applications." BioTechnologia, vol. 92, no. 3, 2014, pp. 249-264. doi:10.5114/bta.2011.46542
+/div><div>Virtual screening (VS) overcomes the limitations of traditional high-throughput screening (HTS) by applying computer-<br><br>based methods in drug discovery. VS takes advantage of fast algorithms to filter chemical space and successfully<br><br>select potential drug candidates. A key aspect in structure-based VS is the sampling of ligand-receptor conformations<br><br>and the evaluation of these poses to predict near-native binding modes. The development of fast and<br><br>accurate algorithms during the last few years has allowed VS to become an important tool in drug discovery and<br><br>design. Herein, an overview of widely used ligand-based (e.g., similarity, pharmacophore searches) and structurebased<br><br>(protein-ligand docking) VS methods is discussed. Their strengths and limitations are described, along with<br><br>many successful stories. This review not only serves as an introductory guide for inexperienced VS users but also<br><br>presents a general overview of the current state and scope of these powerful tools.<
+null
+keywords:</div><h3>high-throughput virtual screening, drug design, drug discovery, ligand-based, similarity searches, pharmacophore, receptor-based, protein-ligand docking</h3

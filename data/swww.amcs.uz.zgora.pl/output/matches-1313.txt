@@ -1,0 +1,6 @@
+﻿1 - March 2002
+12 - 2002
+Unilateral contact applications using FEM software
+M.E. Stavroulaki, G.E. Stavroulakis
+Nonsmooth analysis, inequality constrained optimization and variational inequalities are involved in the modelling of unilateral contact problems. The corresponding theoretical and algorithmic tools, which are part of the area known as nonsmooth mechanics, are by no means classical. In general purpose software some of these tools (perhaps in a simplified way) are currently available. Two engineering applications, a rubber-coated roller contact problem and a masonry wall, solved with MARC, are briefly presented, together with elements of the underlying theory.
+nonsmooth analysis, constrained optimization, contact problems

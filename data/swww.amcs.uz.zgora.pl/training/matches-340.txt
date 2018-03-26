@@ -1,0 +1,6 @@
+﻿2 - June 1994
+4 - 1994
+Mathematical methods for cell cycle analysis from flow cytometric DNA-BrdUrd distributions
+Alessandro Bertuzzi, Alberto Gandolfi, Carmela Sinisgalli, Giuseppe Starace
+The paper discusses some mathematical methods, presented in the literature or proposed by the authors, which aim at the estimation of cell kinetic parameters from DNA-BrdUrd distributions obtained by the pulse labelling technique. In particular, we give an expression for the time behaviour of the relative movement of BrdUrd-labelled undivided cells, that takes into account the variability of DNA synthesis rate across<em>S</em>phase.
+-

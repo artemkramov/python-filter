@@ -1,0 +1,6 @@
+﻿4 - December 1993
+3 - 1993
+On the number of actuators in parabolic systems
+A. El Jai, S. El Yacoubi
+Given a parabolic system defined on a bounded domain<em>n</em>and excited by a finite number of actuators, the purpose of this paper is to show that one actuator can achieve the controllability of the system. The method is based on a perturbation of the boundary of<em>n</em>.
+-

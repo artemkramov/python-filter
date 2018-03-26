@@ -1,0 +1,6 @@
+﻿2 - June 2012
+22 - 2012
+A general on-the-fly algorithm for modifying the kinematic tree hierarchy
+Jakub Stępień, Andrzej Polański, Konrad Wojciechowski
+When conducting a dynamic simulation of a multibody mechanical system, the model definition may need to be altered during the simulation course due to, e.g., changes in the way the system interacts with external objects. In this paper, we propose a general procedure for modifying simulation models of articulated figures, particularly useful when dealing with systems in time-varying contact with the environment. The proposed algorithm adjusts model connectivity, geometry and current state, producing its equivalent ready to be used by the simulation procedure. Furthermore, we also provide a simple usage scenario—a passive planar biped walker.
+dynamics, articulated system, rigid bodies, system hierarchy, contact, animation</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0032-7">10.2478/v10006-012-0032-7</a>

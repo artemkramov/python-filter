@@ -1,0 +1,6 @@
+﻿4 - December 1995
+5 - 1995
+Non-optimal behaviour of finite element methods for first order hyperbolic problems
+Todd E. Peterson, David B. Shuster
+We investigate two explicit finite element methods for linear scalar first order hyperbolic equations, one using a continuous piecewise-polynomial approximation and one using a discontinuous approximation. Several aspects of the performance of these methods are considered; in particular, the sharpness of some existing error estimates, and crosswind spread estimates. For the discontinuous method, we give a new error estimate for the case of piecewise-constants.
+-

@@ -1,0 +1,6 @@
+﻿1 - March 2011
+21 - 2011
+Application of agent-based simulated annealing and tabu search procedures to solving the data reduction problem
+Ireneusz Czarnowski, Piotr Jędrzejowicz
+The problem considered concerns data reduction for machine learning. Data reduction aims at deciding which features and instances from the training set should be retained for further use during the learning process. Data reduction results in increased capabilities and generalization properties of the learning model and a shorter time of the learning process. It can also help in scaling up to large data sources. The paper proposes an agent-based data reduction approach with the learning process executed by a team of agents (A-Team). Several A-Team architectures with agents executing the simulated annealing and tabu search procedures are proposed and investigated. The paper includes a detailed description of the proposed approach and discusses the results of a validating experiment.
+data reduction, machine learning, A-Team, optimization, multi-agent system</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-011-0004-3">10.2478/v10006-011-0004-3</a>

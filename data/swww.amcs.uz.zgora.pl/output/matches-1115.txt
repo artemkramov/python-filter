@@ -1,0 +1,6 @@
+﻿3 - September 2006
+16 - 2006
+A realization problem for positive continuous-time systems with reduced numbers of delays
+Tadeusz Kaczorek
+A realization problem for positive, continuous-time linear systems with reduced numbers of delays in state and in control is formulated and solved. Sufficient conditions for the existence of positive realizations with reduced numbers of delays of a given proper transfer function are established. A procedure for the computation of positive realizations with reduced numbers of delays is presented and illustrated by an example.
+positive realization, continuous-time system, delay, existence, computation

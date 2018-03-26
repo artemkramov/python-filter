@@ -1,0 +1,15 @@
+﻿Power-loss-in-a-combustion-engine-of-a-prototype-vehicle,73791
+2-2017,2313">2/2017 vol. 18
+Cross-correlation-function-in-identifying-head-checking-defects-of-the-railway-rails,73790,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/Measurements-and-vibration-analysis-of-a-five-stage-axial-flow-microturbine-operating,69463,0,2.html" title="PREVIOUS
+Power loss in a combustion engine of a prototype vehicle
+Ján-Petróci/59683">Ján Petróci</a></span><sup>1</sup>&nbsp;&nbsp;<a href="mailto:jan.petroci@tuke.sk"><div></div></a>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Martin-Mantič/37807">Martin Mantič
+null
+</sup>&nbsp;&nbsp;<a href="mailto:martin.mantic@tuke.sk"><div></div></a>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Oskár-Sloboda/59684">Oskár Sloboda</a></span><sup>2
+oskar.sloboda@tuke.sk
+Technical University of Košice</span></div></td></tr><tr><td>2</td><td><div><span>Technical university of Kosice
+Publish date: 2017-06-21</div><div>Submission date: 2017-04-11</div><div>Final revision date: 2017-05-03</div><div>Acceptance date: 2017-05-15
+7;18(2):59–64
+73791-17735?filename=Power loss in a
+prototype+combustion+engine/111923">prototype combustion engine<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-power%E2%80%93torque+measurement/111924">power–torque measurement<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-engine+diagnostics/111925">engine diagnostics
+compression+pressure/111926">compression pressure</a><div>&nbsp;</div></div><div>TOPICS:</div><div><a href="http://www.diagnostyka.net.pl/Topic-Diagnosis+vehicle/3946">Diagnosis vehicle<div></div></a><a href="http://www.diagnostyka.net.pl/Topic-Diagnostic+systems/3943">Diagnostic systems<div></div></a><a href="http://www.diagnostyka.net.pl/Topic-Reliability/3944">Reliability<div></div></a><a href="http://www.diagnostyka.net.pl/Topic-Signal+analysis/3949">Signal analysis<div></div></a><a href="http://www.diagnostyka.net.pl/Topic-Technical+diagnostics/3947">Technical diagnostics
+The paper deals with the analysis of power loss involved in an experimental single-cylinder internal combustion engine during its operation. The experimental engine has been developed and built entirely at the University for the purposes of Shell Eco-marathon. A series of experimental measurements was taken to discover the reasons for the issues we had encountered by obtaining output power characteristics and the value of compression pressure regularly at specific intervals. The data we obtained served to diagnose faults and to propose solutions for their elimination.</div><div>CORRESPONDING AUTHOR:</div><a href="http://www.diagnostyka.net.pl/Author-Ján-Petróci/59683">Ján Petróci</a>&nbsp;&nbsp;<a href="mailto:jan.petroci@tuke.sk"><div></div></a><div>Technical University of Košice, Toryská 4, 04011 Košice, Slovak Republic

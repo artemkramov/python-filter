@@ -1,0 +1,5 @@
+4-2015,3237">4/2015 vol. 16
+Analysis of a road accident in the aspect of mechanics of a frontal crash between two vehicles
+Faculty of Administration and Social Sciences, Warsaw University of Technology, Nowakowskiego 18/20, 00-668 Warsaw, Poland,
+81482-16963?filename=Analysis of a road
+In this paper a computer simulation of a frontal oblique collision between two motor vehicles was carried out, using the PC-Crash 8.0 software. The simulation repeated several times for specific values of the coefficient of restitution. Then the results were compared with analytical calculations, which were based on the planar collision mechanics, including the theory of collision between the bodies with smooth surfaces. Analysis of the influence of the selected coefficient was made primarily in terms of change in the after crash vehicle speed. The aim of the study was to determine whether the value of the coefficient of restitution in a frontal impact play an important role in the analysis of the process of such phenomenon.

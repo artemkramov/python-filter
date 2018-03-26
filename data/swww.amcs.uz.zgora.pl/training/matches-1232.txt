@@ -1,0 +1,6 @@
+﻿4 - December 2004
+14 - 2004
+Optimization of thrust allocation in the propulsion system of an underwater vehicle
+Jerzy Garus
+The paper addresses methods of thrust distribution in a propulsion system for an unmanned underwater vehicle. It concentrates on finding an optimal thrust allocation for desired values of forces and moments acting on the vehicle. Special attention is paid to the unconstrained thrust allocation. The proposed methods are developed using a configuration matrix describing the layout of thrusters in the propulsion system. The paper includes algorithms of thrust distribution for both faultless work of the propulsion system and a failure of one of the thrusters. Illustrative examples are provided to demonstrate the effectiveness and correctness of the proposed methods.
+underwater vehicle, unconstrained control, propulsion system, thrust allocation

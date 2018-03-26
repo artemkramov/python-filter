@@ -1,0 +1,6 @@
+﻿4 - December 2014
+24 - 2014
+A modified van der Pol equation with delay in a description of the heart action
+Beata Zduniak, Marek Bodnar, Urszula Foryś
+In this paper, a modified van der Pol equation is considered as a description of the heart action. This model has a number of interesting properties allowing reconstruction of phenomena observed in physiological experiments as well as in Holter electrocardiographic recordings. Our aim is to study periodic solutions of the modified van der Pol equation and take into consideration the influence of feedback and delay which occur in the normal heart action mode as well as in pathological modes. Usage of certain values for feedback and delay parameters allows simulating the heart action when an accessory conducting pathway is present (Wolff–Parkinson–White syndrome).
+system with feedback, stability, action potential</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0063">10.2478/amcs-2014-0063</a>

@@ -1,0 +1,6 @@
+﻿1 - March 2000
+10 - 2000
+Behaviour of solutions to Marchuk's model depending on a time delay
+Marek Bodnar, Urszula Foryś
+Marchuk's model of an immune reaction is a system of differential equations with a time delay. The aim of this paper is to study the behaviour of solutions to Marchuk's model depending upon the delay of immune reaction and the history of an illness. We study Marchuk's model without delays, with a constant delay and with an infinite delay. A continuous dependence on the delay is considered. Bifurcation points are found using computer simulations.
+antigen, antibody, plasma cell, organ-target, delay differential equation, stationary state, stability, bifurcation point

@@ -1,0 +1,6 @@
+﻿4 - December 2002
+12 - 2002
+Efficient calculation of the Reed-Muller form by means of the Walsh transform
+Piotr Porwik
+The paper describes a spectral method for combinational logic synthesis using the Walsh transform and the Reed-Muller form. A new algorithm is presented that allows us to obtain the mixed polarity Reed-Muller expansion of Boolean functions. The most popular minimisation (sub-minimisation) criterion of the Reed-Muller form is obtained by the exhaustive search of all the polarity vectors. This paper presents a non-exhaustive method for Reed-Muller expansions. The new method allows us to build the Reed-Muller form based on the analysis of Walsh-Hadamard coefficients. The presented method has much less complexity than the procedures which have been applied until now. Both the transforms and the presented Walsh-Hadamard spectral characterization of the Reed-Muller expansion are compared. An analysis of the properties of the spectra obtained from these transforms is made.
+Reed-Muller coefficients, Walsh coefficients, coefficient distribution, Boolean function, synthesis of Boolean functions

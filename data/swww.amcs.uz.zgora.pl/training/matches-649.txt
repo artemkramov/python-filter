@@ -1,0 +1,6 @@
+﻿2 - June 2013
+23 - 2013
+Decentralized design of interconnected<em>H<sub>∞</sub></em>feedback control systems with quantized signals
+Guisheng Zhai, Ning Chen, Weihua Gui
+In this paper, we consider the design of interconnected<em>H<sub>∞</sub></em>feedback control systems with quantized signals. We assume that a decentralized dynamic output feedback has been designed for an interconnected continuous-time LTI system so that the closed-loop system is stable and a desired<em>H<sub>∞</sub></em>disturbance attenuation level is achieved, and that the subsystem measurement outputs are quantized before they are passed to the local controllers. We propose a local-output-dependent strategy for updating the parameters of the quantizers, so that the overall closed-loop system is asymptotically stable and achieves the same<em>H<sub>∞</sub></em>disturbance attenuation level. Both the pre-designed controllers and the parameters of the quantizers are constructed in a decentralized manner, depending on local measurement outputs.
+interconnected systems, decentralized<em>H<sub>∞</sub></em>control, dynamic output feedback, quantizer, quantization, matrix inequality, LMI</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0024">10.2478/amcs-2013-0024</a>

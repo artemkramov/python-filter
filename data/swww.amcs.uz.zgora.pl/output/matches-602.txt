@@ -1,0 +1,6 @@
+﻿3 - September 2014
+24 - 2014
+A RED modified weighted moving average for soft real-time application
+Joanna Domańska, Adam Domański, Dariusz R. Augustyn, Jerzy Klamka
+The popularity of TCP/IP has resulted in an increase in usage of best-effort networks for real-time communication. Much effort has been spent to ensure quality of service for soft real-time traffic over IP networks. The Internet Engineering Task Force has proposed some architecture components, such as Active Queue Management (AQM). The paper investigates the influence of the weighted moving average on packet waiting time reduction for an AQM mechanism: the RED algorithm. The proposed method for computing the average queue length is based on a difference equation (a recursive equation). Depending on a particular optimality criterion, proper parameters of the modified weighted moving average function can be chosen. This change will allow reducing the number of violations of timing constraints and better use of this mechanism for soft real-time transmissions. The optimization problem is solved through simulations performed in OMNeT++ and later verified experimentally on a Linux implementation.
+active queue management, soft real-time, dropping packets</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0051">10.2478/amcs-2014-0051</a>

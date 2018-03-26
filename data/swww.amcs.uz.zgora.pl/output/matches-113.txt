@@ -1,0 +1,6 @@
+﻿2 - June 2016
+26 - 2016
+A branch hash function as a method of message synchronization in anonymous P2P conversations
+Anna Kobusińska, Jerzy Brzeziński, Michał Boroń, Łukasz Inatlewski, Michał Jabczyński, Mateusz Maciejewski
+Currently existing solutions rarely protect message integrity, authenticity and user anonymity without burdening the user with details of key management. To address this problem, we present Aldeon—a protocol for anonymous group conversations in a peer-to-peer system. The efficiency of Aldeon is based on a novel tree synchronization algorithm, which is proposed and discussed in this paper. By using this algorithm, a significant reduction in the number of exchanged messages is achieved. In the paper, the formal definition of the proposed hash branch function and the proof of its efficiency are presented.
+peer-to-peer, synchronization, conversations, anonymity</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0034">10.1515/amcs-2016-0034</a>

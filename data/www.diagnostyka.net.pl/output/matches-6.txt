@@ -1,0 +1,15 @@
+﻿Technical-diagnostics-of-hydropower-turbine-using-modern-measurement-techniques,62892
+2-2016,1600">2/2016 vol. 17
+Application-of-time-frequency-distributions-in-diagnostic-signal-processing-problems,63467,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/Approach-to-automated-hot-spot-detection-using-image-processing-for-thermographic,62861,0,2.html" title="PREVIOUS
+Technical diagnostics of hydropower turbine using modern measurement techniques
+Grzegorz-Żywica/35705">Grzegorz Żywica
+null
+</sup>&nbsp;&nbsp;<a href="mailto:gzywica@imp.gda.pl"><div></div></a>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Maciej-Kaniecki/36228">Maciej Kaniecki</a></span><sup>2
+maciej.kaniecki@zregdansk.pl
+Instytut Maszyn Przepływowych PAN</span></div></td></tr><tr><td>2</td><td><div><span>ZRE Gdańsk S.A.
+Publish date: 2016-06-04</div><div>Submission date: 2016-03-20</div><div>Acceptance date: 2016-04-26
+6;17(2):87–94
+62892-17834?filename=Technical diagnostics of
+technical+diagnostics/73723">technical diagnostics<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-vibration-based+diagnostics/73724">vibration-based diagnostics<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-turbine+set/73725">turbine set
+water+turbine/19705">water turbine</a><div>&nbsp;</div></div><div>TOPICS:</div><div><a href="http://www.diagnostyka.net.pl/Topic-Technical+diagnostics/3947">Technical diagnostics
+The article demonstrates how to take advantage of modern measurement techniques and detect defects of different types. These techniques contributed to solve the unknown operating problem of a hydropower machine. The examined hydro set comprises a water turbine (of the Francis type), elastic coupling, flywheel and electro-generator. To assess the dynamical state of the machine and detect the reasons for elevated vibration level, the following diagnostic tests were carried out: precision measurement of vibration, laser shaft alignment check and thermal imaging tests. These three widely diverse measurement techniques complemented each other, allowing the identification of the cause of increased vibrations and taking countermeasures to make further operation possible. The article provides an example of the practical application of the currently available vibrodiagnostic methods for monitoring and assessment of the technical condition of fluid-flow machines.</div><div>CORRESPONDING AUTHOR:</div><a href="http://www.diagnostyka.net.pl/Author-Grzegorz-Żywica/35705">Grzegorz Żywica</a>&nbsp;&nbsp;<a href="mailto:gzywica@imp.gda.pl"><div></div></a><div>Instytut Maszyn Przepływowych PAN, Fiszera 14, 80-231 Gdańsk, Polska

@@ -1,0 +1,6 @@
+﻿2 - June 2002
+12 - 2002
+Application of deontic logic in role-based access control
+Grzegorz Kołaczek
+The paper presents a short overview of the foundations of the Role-Based Access Control Modal Model and its properties. In particular, the translation of these model formulae to the first-order logic formulae in a form of Horn's clauses is analysed. The automation of processes and mechanisms related to access control on the basis of logical automated reasoning and the PROLOG language are described.
+formal logic, access control, RBAC, system security, reasoning automation

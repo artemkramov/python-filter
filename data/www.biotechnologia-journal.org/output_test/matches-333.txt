@@ -1,0 +1,6 @@
+a>View full text</a
+Leja K, Myszka K, Czaczyk K. REVIEW PAPER&lt;br&gt;Genome shuffling: a method to improve biotechnological processes. BioTechnologia. 2014;92(4):345-351. doi:10.5114/bta.2011.46551
+Leja, K., Myszka, K., &amp; Czaczyk, K. (2014). REVIEW PAPER&lt;br&gt;Genome shuffling: a method to improve biotechnological processes. BioTechnologia, 92(4), 345-351. https://doi.org/10.5114/bta.2011.46551
+Leja, Katarzyna, Kamila Myszka, and Katarzyna Czaczyk. 2014. "REVIEW PAPER&lt;br&gt;Genome shuffling: a method to improve biotechnological processes". BioTechnologia 92 (4): 345-351. doi:10.5114/bta.2011.46551
+Leja, K., Myszka, K., and Czaczyk, K. (2014). REVIEW PAPER&lt;br&gt;Genome shuffling: a method to improve biotechnological processes. BioTechnologia, 92(4), pp.345-351. https://doi.org/10.5114/bta.2011.46551
+Leja, Katarzyna et al. "REVIEW PAPER&lt;br&gt;Genome shuffling: a method to improve biotechnological processes." BioTechnologia, vol. 92, no. 4, 2014, pp. 345-351. doi:10.5114/bta.2011.46551

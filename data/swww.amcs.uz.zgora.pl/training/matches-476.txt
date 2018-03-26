@@ -1,0 +1,6 @@
+﻿1 - March 2015
+25 - 2015
+A fault tolerant direct control allocation scheme with integral sliding modes
+Mirza Tariq Hamayun, Christopher Edwards, Halim Alwi, Abdulrahman Bajodah
+In this paper, integral sliding mode control ideas are combined with direct control allocation in order to create a fault tolerant control scheme. Traditional integral sliding mode control can directly handle actuator faults; however, it cannot do so with actuator failures. Therefore, a mechanism needs to be adopted to distribute the control effort amongst the remaining functioning actuators in cases of faults or failures, so that an acceptable level of closed-loop performance can be retained. This paper considers the possibility of introducing fault tolerance even if fault or failure information is not provided to the control strategy. To demonstrate the efficacy of the proposed scheme, a high fidelity nonlinear model of a large civil aircraft is considered in the simulations in the presence of wind, gusts and sensor noise.
+fault tolerant control, integral sliding mode control, linear matrix inequalities</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2015-0007">10.1515/amcs-2015-0007</a>

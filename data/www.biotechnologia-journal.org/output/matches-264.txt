@@ -1,0 +1,17 @@
+﻿3/2017
+8
+-In-silico-and-In-vitro-cytotoxic-effect-of-prodigiosin-conjugated-r-nsilver-nanoparticles-on-liver-cancer-cells-HepG2-,85,30833,0
+abstract:</div><div>RESEARCH PAPERS
+<i>In silico</i>and<i>In vitro</i>cytotoxic effect of prodigiosin-conjugated silver nanoparticles on liver cancer cells (HepG2)
+h3>Ahmed I. El-Batal, Hoda H. El-Hendawy, Ahmed H. I. Faraag</h3><div>BioTechnologia vol. 98(3) C pp. 225-243 C 2017
+7.70801">https://doi.org/10.5114/bta.2017.70801
+a>View full text</a
+30833
+El-Batal A, El-Hendawy H, Faraag A. &lt;i&gt;In silico&lt;/i&gt; and &lt;i&gt;In vitro&lt;/i&gt; cytotoxic effect of prodigiosin-conjugated silver nanoparticles on liver cancer cells (HepG2). BioTechnologia. 2018;98(3):225-243. doi:10.5114/bta.2017.70801
+El-Batal, A., El-Hendawy, H., &amp; Faraag, A. (2018). &lt;i&gt;In silico&lt;/i&gt; and &lt;i&gt;In vitro&lt;/i&gt; cytotoxic effect of prodigiosin-conjugated silver nanoparticles on liver cancer cells (HepG2). BioTechnologia, 98(3), 225-243. https://doi.org/10.5114/bta.2017.70801
+El-Batal, Ahmed I., Hoda H. El-Hendawy, and Ahmed H. I. Faraag. 2018. "&lt;i&gt;In silico&lt;/i&gt; and &lt;i&gt;In vitro&lt;/i&gt; cytotoxic effect of prodigiosin-conjugated silver nanoparticles on liver cancer cells (HepG2)". BioTechnologia 98 (3): 225-243. doi:10.5114/bta.2017.70801
+El-Batal, A., El-Hendawy, H., and Faraag, A. (2018). &lt;i&gt;In silico&lt;/i&gt; and &lt;i&gt;In vitro&lt;/i&gt; cytotoxic effect of prodigiosin-conjugated silver nanoparticles on liver cancer cells (HepG2). BioTechnologia, 98(3), pp.225-243. https://doi.org/10.5114/bta.2017.70801
+El-Batal, Ahmed I. et al. "&lt;i&gt;In silico&lt;/i&gt; and &lt;i&gt;In vitro&lt;/i&gt; cytotoxic effect of prodigiosin-conjugated silver nanoparticles on liver cancer cells (HepG2)." BioTechnologia, vol. 98, no. 3, 2018, pp. 225-243. doi:10.5114/bta.2017.70801
+/div><div>This study demonstrates a novel approach for the synthesis of silver nanoparticles (AgNPs) against human liver cancer cell line (HepG2) using prodigiosin pigment isolated from Serratia marcescens. It further investigates the influence of various parameters such as initial pH, temperature, silver nitrate (AgNO<sub>3</sub>) concentration, and prodigiosin concentration on stability and optical properties of synthesized prodigiosin AgNPs. Highly stable, spherical prodigiosin-conjugated AgNPs were synthesized with a mean diameter of 9.98 nm using a rapid one-step method. The cytotoxic activity investigated in the present study indicated that prodigiosin and prodigiosin-conjugated AgNPs possessed a strong cytotoxic potency against human liver cancer. The<i>In silico</i>molecular docking results of prodigiosin and prodigiosin-conjugated AgNPs are congruent with the<i>In vitro</i>studies and these AgNPs can be considered as good inhibitors of mitogen-activated protein kinase 1 (MEK kinases). The study opened the possibility of using prodigiosin-conjugated AgNPs to increase the efficiency of liver cancer treatment.<
+null
+keywords:</div><h3>silver nanoparticles, cytotoxic activity, Serratia marcescens,<i>In silico</i>, prodigiosin</h3

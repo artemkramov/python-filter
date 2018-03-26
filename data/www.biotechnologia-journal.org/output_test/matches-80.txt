@@ -1,0 +1,6 @@
+The new RNAi-based therapy for brain tumors
+a>View full text</a
+Rolle K, Barciszewski J. The new RNAi-based therapy for brain tumors. BioTechnologia. 2016;97(2):153-155. doi:10.5114/bta.2016.60785
+Rolle, K., &amp; Barciszewski, J. (2016). The new RNAi-based therapy for brain tumors. BioTechnologia, 97(2), 153-155. https://doi.org/10.5114/bta.2016.60785
+Rolle, K., and Barciszewski, J. (2016). The new RNAi-based therapy for brain tumors. BioTechnologia, 97(2), pp.153-155. https://doi.org/10.5114/bta.2016.60785
+The subject matter of this invention includes a sequence of double-stranded RNA: ATN-RNA, intervention using interference RNA intervention (iRNAi); the use of a sequence of double-stranded RNA: ATN-RNA, a method of treating (a) brain tumor and a method of inhibiting brain tumor cells which express tenascin, a kit for inhibiting cancer cell which expresses tenascin and a method for a kit preparation in a brain tumor therapy. Malignant gliomas preferentially express a number of surface markers that may be exploited as therapeutic targets, including tenascin-C, an extracellular matrix glycoprotein ubiquitously expressed by malignant gliomas, which probably contributes to the tumor cell adhesion, invasion, migration, and proliferation. For tenascin-C inhibition, the iRNAi approach has been applied.</div

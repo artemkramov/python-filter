@@ -1,0 +1,6 @@
+﻿3 - September 1997
+7 - 1997
+Unreachability and uncontrollability of 2-D linear systems with bounded inputs
+Tadeusz Kaczorek
+It is shown that the general 2-D model, with constant coefficients, of linear systems with bounded inputs and bounded norms of input matrices is not locally reachable and locally controllable if the norms of its system matrices are less than or equal to one. The classical 2-D Roesser model with bounded inputs and a bounded norm of input matrix is not locally reachable and locally controllable if the norm of its system matrix is less than or equal to one. Similar results have been proved for the models with variable coefficients.
+-

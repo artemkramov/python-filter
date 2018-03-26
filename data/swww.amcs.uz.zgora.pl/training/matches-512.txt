@@ -1,0 +1,6 @@
+﻿3 - September 2015
+25 - 2015
+A sixth-order finite volume method for the 1D biharmonic operator: Application to intramedullary nail simulation
+Ricardo Costa, Gaspar J. Machado, Stéphane Clain
+A new very high-order finite volume method to solve problems with harmonic and biharmonic operators for one-dimensional geometries is proposed. The main ingredient is polynomial reconstruction based on local interpolations of mean values providing accurate approximations of the solution up to the sixth-order accuracy. First developed with the harmonic operator, an extension for the biharmonic operator is obtained, which allows designing a very high-order finite volume scheme where the solution is obtained by solving a matrix-free problem. An application in elasticity coupling the two operators is presented. We consider a beam subject to a combination of tensile and bending loads, where the main goal is the stress critical point determination for an intramedullary nail.
+finite volume method, polynomial reconstruction operator, harmonic operator, biharmonic operator, high-order method</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2015-0039">10.1515/amcs-2015-0039</a>

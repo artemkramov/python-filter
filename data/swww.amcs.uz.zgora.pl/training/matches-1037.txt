@@ -1,0 +1,6 @@
+﻿1 - March 2007
+17 - 2007
+Fault tolerant control design for polytopic LPV systems
+Mickael Rodrigues, Didier Theilliol, Samir Aberkane, Dominique Sauter
+This paper deals with a Fault Tolerant Control (FTC) strategy for polytopic Linear Parameter Varying (LPV) systems. The main contribution consists in the design of a Static Output Feedback (SOF) dedicated to such systems in the presence of multiple actuator faults/failures. The controllers are synthesized through Linear Matrix Inequalities (LMIs) in both fault-free and faulty cases in order to preserve the system closed-loop stability. Hence, this paper provides a new sufficient (but not necessary) condition for the solvability of the stabilizing output feedback control problem. An example illustrates the effectiveness and performances of the proposed FTC method.
+fault tolerant control, multiple actuator failures, polytopic LPV systems, LMI, static output feedback, stability</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0004-5">10.2478/v10006-007-0004-5</a>

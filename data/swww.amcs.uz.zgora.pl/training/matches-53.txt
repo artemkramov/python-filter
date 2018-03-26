@@ -1,0 +1,6 @@
+﻿4 - December 2000
+10 - 2000
+Fusion technology of neural networks and fuzzy systems: A chronicled progression from the laboratory to our daily lives
+Hideyuki Takagi
+We chronicle the research on the fusion technology of neural networks and fuzzy systems (NN + FS), the models that have been proposed from this research, and the commercial products and industrial systems that have adopted these models. First, we review the NN+FS research activity during the early stages of their development in Japan, the US, and Europe. Next, following the classification of NN+FS models, we show the ease of fusing these technologies based on the similarities of the data flow network structures and the non-linearity realization strategies of NNs and FSs. Then, we describe several models and applications of NN+FS. Finally, we introduce some important and recently developed NN+FS patents.
+cooperative models, neural networks, fuzzy systems, genetic algorithms, real world applications, overview

@@ -1,0 +1,6 @@
+﻿2 - June 2000
+10 - 2000
+Robust dynamic input reconstruction for delay systems
+Franz Kappel, Vyacheslav Niaksimov
+A problem of reconstruction of a non-observable control input for a system with a time delay is analyzed within the framework of the dynamical input reconstruction approach (see Kryazhimskii and Osipov, 1987; Osipov and Kryazhimskii, 1995; Osipov et al., 1991). In (Maksimov, 1987; 1988) methods of dynamical input reconstruction were described for delay systems with fully observable states. The present paper provides an input reconstruction algorithm for partially observable systems. The algorithm is robust to the observation perturbations.
+delay system, input reconstruction, observation, robust algorithm

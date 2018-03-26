@@ -1,0 +1,6 @@
+﻿4 - December 2000
+10 - 2000
+Abstraction based connectionist analogy processor
+Syozo Yasui
+The Abstraction Based Connectionist Analogy Processor (AB-CAP) is a trainable neural network for analogical learning/inference. An internal abstraction model, which extracts the underlying relational isomorphism and expresses predicate-argument bindings at the abstract level, is induced structurally as a result of the backpropagation training coupled with a structure-pruning mechanism. AB-CAP also develops dynamically abstraction and de-abstraction mappings for the role-filler matching. Thus, the propositions including both known and inferred ones can be expressed by, induced as, stored in and retrieved from the internal structural patterns. As such, there is no need for AB-CAP to use rule-based symbolic processing such as hypothesis making and constraint satisfaction or pattern completion checking. In this paper, AB-CAP is evaluated by using some examples. In particular, incremental analogical learning by AB-CAP shows that the internal abstraction model acquired from previous analogical learning acts as a potent attracter to bind a new set of isomorphic data, manifesting the analogical memory access/retrieval characteristics of AB-CAP.
+analogy, neural network, network pruning, dynamic binding, abstraction

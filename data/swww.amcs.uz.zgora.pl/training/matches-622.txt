@@ -1,0 +1,6 @@
+﻿1 - March 2017
+27 - 2017
+Dimension reduction for objects composed of vector sets
+Marton Szemenyei, Ferenc Vajda
+Dimension reduction and feature selection are fundamental tools for machine learning and data mining. Most existing methods, however, assume that objects are represented by a single vectorial descriptor. In reality, some description methods assign unordered sets or graphs of vectors to a single object, where each vector is assumed to have the same number of dimensions, but is drawn from a different probability distribution. Moreover, some applications (such as pose estimation) may require the recognition of individual vectors (nodes) of an object. In such cases it is essential that the nodes within a single object remain distinguishable after dimension reduction. In this paper we propose new discriminant analysis methods that are able to satisfy two criteria at the same time: separating between classes and between the nodes of an object instance. We analyze and evaluate our methods on several different synthetic and real-world datasets.
+dimension reduction, discriminant analysis, object recognition, registration</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2017-0012">10.1515/amcs-2017-0012</a>

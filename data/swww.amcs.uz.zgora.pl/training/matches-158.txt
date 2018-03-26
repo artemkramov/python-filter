@@ -1,0 +1,6 @@
+﻿3 - September 1998
+8 - 1998
+Searching for optimal experimental designs using space-filling curves
+Ewa Skubalska-Rafajłowicz, Ewaryst Rafajłowicz
+A new approach to the standard problem of searching for optimal experimental designs is considered. It consists in replacing a multidimensional search for global maxima by a one-dimensional global search. The points found in this way are then transformed to the multivariate design domain by using a space-filling curve. It is shown that this approach leads to the optimal design, provided that the one-dimensional global search is reliable. An additional advantage of the proposed approach is the possibility of visualization of the model variance surface. The results are presented for the D-optimality criterion, but their extension to other criteria is not difficult.
+-

@@ -1,0 +1,6 @@
+﻿1 - March 2007
+17 - 2007
+Equivalence and reduction of delay-differential systems
+Mohamed Salah Boudellioua
+A new direct method is presented which reduces a given high-order representation of a control system with delays to a first-order form that is encountered in the study of neutral delay-differential systems. Using the polynomial system description (PMD) setting due to Rosenbrock, it is shown that the transformation connecting the original PMD with the first-order form is Fuhrmann's strict system equivalence. This type of system equivalence leaves the transfer function and other relevant structural properties of the original system invariant.
+polynomial matrix description, neutral delay-differential systems, strict system equivalence, determinantal ideals, Gröbner bases</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0002-7">10.2478/v10006-007-0002-7</a>

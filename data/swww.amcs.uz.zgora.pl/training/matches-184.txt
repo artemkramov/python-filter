@@ -1,0 +1,6 @@
+﻿1 - March 1997
+7 - 1997
+On-the-fly detection of a class of word-based patterns in labelled DAGs
+Michel Hurfin, Michel Raynal
+The problem tackled in this paper originates from the debugging of distributed applications. Execution of such an application can be modelled as a partially ordered set of process states. The debugging of control flows (sequences of process states) of these executions is based on satisfying the predicates by process states. A process state that satisfies a predicate inherits its label. In this context, it follows that a distributed execution is a labelled directed acyclic graph (DAG for brevity). To debug or to determine if control flows of a distributed execution satisfy some property amounts to testing if the labelled DAG includes some pattern defined on predicate labels. This paper first introduces a general pattern (called<em>the diamond necklace</em>) which includes classical patterns encountered in distributed debugging. Then an efficient polynomial-time algorithm detecting such patterns in a labelled DAG is presented. To be easily adapted to an on-the-fly detection of the pattern in distributed executions, the algorithm visits the nodes of the graph according to a topological sort strategy.
+-

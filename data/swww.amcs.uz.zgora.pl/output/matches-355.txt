@@ -1,0 +1,6 @@
+﻿3 - September 1994
+4 - 1994
+A comparison of neural net and conventional techniques for lighting control
+Robert Dodier, Diane Lukianow, James Ries, Michael C. Mozer
+We compare two techniques for lighting control in an actual room equipped with seven banks of lights and photoresistors to detect the lighting level at four sensing points. Each bank of lights can be independently set to one of sixteen intensity levels. The task is to determine the device intensity levels that achieve a particular configuration of sensor readings. One technique we explored uses a neural network to approximate the mapping between sensor readings and device intensity levels. The other technique we examined uses a conventional feedback control loop. The neural network approach appears superior both in that it does not require experimentation on the fly (and hence fluctuating light intensity levels during settling, and lengthy settling times) and in that it can deal with complex interactions that conventional control techniques do not handle well. This comparison was performed as part of the "Adaptive House" project, which is described briefly. Further directions for control in the Adaptive House are also discussed.
+-

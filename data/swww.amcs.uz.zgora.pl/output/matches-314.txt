@@ -1,0 +1,6 @@
+﻿4 - December 1995
+5 - 1995
+On the existence of Nash equilibrium in a non-cooperative,<em>n</em>-person, linear differential games with measures as coefficients
+Oleg A. Malafyeev, Zdzisław Wyderka
+In this paper, the existence of ε-equilibrium in the sense of Nash for linear differential games with measures as coefficients and with fixed time duration is studied. The strategies of the players are understood in a sense similar to Varaiya-Lin strategies. Two cases of payoffs are considered: payoffs dependent on the whole trajectories and terminal payoffs.
+-

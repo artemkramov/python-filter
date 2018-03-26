@@ -1,0 +1,6 @@
+﻿3 - September 2009
+19 - 2009
+Nonlinear stabilizing control of an uncertain bioprocess model
+Neli Dimitrova, Mikhail Krastanov
+In this paper we consider a nonlinear model of a biological wastewater treatment process, based on two microbial populations and two substrates. The model, described by a four-dimensional dynamic system, is known to be practically verified and reliable. First we study the equilibrium points of the open-loop system, their stability and local bifurcations with respect to the control variable. Further we propose a feedback control law for asymptotic stabilization of the closed-loop system towards a previously chosen operating point. A numerical extremum seeking algorithm is designed to stabilize the dynamics towards the maximum methane output flow rate in the presence of coefficient uncertainties. Computer simulations in Maple are reported to illustrate the theoretical results.
+wastewater treatment model, local bifurcations of steady states, asymptotic stabilization, extremum seeking, uncertain data</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-009-0036-0">10.2478/v10006-009-0036-0</a>

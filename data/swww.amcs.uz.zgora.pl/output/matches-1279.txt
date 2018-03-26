@@ -1,0 +1,6 @@
+﻿3 - September 2003
+13 - 2003
+Application of the adaptive center-weighted vector median framework for the enhancement of cDNA microarray images
+Rastislav Lukac, Bogdan Smołka
+In this paper a novel method of noise reduction in color images is presented. The new technique is capable of attenuating both impulsive and Gaussian noise, while preserving and even enhancing the sharpness of the image edges. Extensive simulations reveal that the new method outperforms significantly the standard techniques widely used in multivariate signal processing. In this work we apply the new noise reduction method for the enhancement of the images of the so called gene chips. We demonstrate that the new technique is capable of reducing the impulsive noise present in microarray images and that it facilitates efficient spot location and the estimation of the gene expression levels due to the smoothing effect and preservation of the spot edges. This paper contains a comparison of the new technique of impulsive noise reduction with the standard procedures used for the processing of vector valued images, as well as examples of the efficiency of the new algorithm when applied to typical microarray images.
+DNA microarray images, multichannel image processing, order-statistic theory, vector filters, impulsive noise

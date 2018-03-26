@@ -1,0 +1,3 @@
+How to compensate a spreading disturbance for a class of nonlinear systems
+Youssef Qaraai, Abdes Samed Bernoussi, Abdelhaq El Jai
+We consider a system which is assumed to be affected by an expanding disturbance which occurs at the initial time. The compensation of the disturbance is accomplished by extending the concept of remediability to a class of nonlinear systems. The results are implemented and illustrated with a nonlinear distributed model.

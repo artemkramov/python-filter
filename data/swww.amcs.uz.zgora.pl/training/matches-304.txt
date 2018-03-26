@@ -1,0 +1,6 @@
+﻿3 - September 1995
+5 - 1995
+Uncertain systems and minimum energy control
+Zbigniew Emirsajłow, Stuart Townley
+The paper considers two minimum energy control problems for an uncertain linear infinite-dimensional system with a bounded input operator. Uncertainty in the system description is modelled by unknown bounded perturbations of the system operator and the input operator. We present a new approach to computing estimates for the deviation of the final state of the perturbed system from the final state of the unperturbed system. This approach involves differential Lyapunov equations and a novel concept of the so-called<em>composite semigroup</em>.
+-

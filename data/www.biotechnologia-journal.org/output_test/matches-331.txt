@@ -1,0 +1,6 @@
+a>View full text</a
+Andraszek K, Smalec E. REVIEW PAPER&lt;br&gt;Structure and functions of lampbrush chromosomes. BioTechnologia. 2014;92(4):337-344. doi:10.5114/bta.2011.46550
+Andraszek, K., &amp; Smalec, E. (2014). REVIEW PAPER&lt;br&gt;Structure and functions of lampbrush chromosomes. BioTechnologia, 92(4), 337-344. https://doi.org/10.5114/bta.2011.46550
+Andraszek, Katarzyna, and Elżbieta Smalec. 2014. "REVIEW PAPER&lt;br&gt;Structure and functions of lampbrush chromosomes". BioTechnologia 92 (4): 337-344. doi:10.5114/bta.2011.46550
+Andraszek, K., and Smalec, E. (2014). REVIEW PAPER&lt;br&gt;Structure and functions of lampbrush chromosomes. BioTechnologia, 92(4), pp.337-344. https://doi.org/10.5114/bta.2011.46550
+Andraszek, Katarzyna et al. "REVIEW PAPER&lt;br&gt;Structure and functions of lampbrush chromosomes." BioTechnologia, vol. 92, no. 4, 2014, pp. 337-344. doi:10.5114/bta.2011.46550

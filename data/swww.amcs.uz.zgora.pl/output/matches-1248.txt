@@ -1,0 +1,6 @@
+﻿1 - March 2003
+13 - 2003
+Canonical forms of singular 1D and 2D linear systems
+Tadeusz Kaczorek
+The paper consists of two parts. In the first part, new canonical forms are defined for singular 1D linear systems and a procedure to determine nonsingular matrices transforming matrices of singular systems to their canonical forms is derived. In the second part new canonical forms of matrices of the singular 2D Roesser model are defined and a procedure for determining realisations in canonical forms for a given 2D transfer function is presented. Necessary and sufficient conditions for the existence of a pair of nonsingular block diagonal matrices transforming the matrices of the singular 2D Roesser model to their canonical forms are established. A procedure for computing the pair of nonsingular matrices is presented.
+canonical form, singular, 2D Roesser model, 1D system, transformation

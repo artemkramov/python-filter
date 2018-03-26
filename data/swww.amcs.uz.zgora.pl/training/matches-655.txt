@@ -1,0 +1,6 @@
+﻿2 - June 2013
+23 - 2013
+Double fault distinguishability in linear systems
+Jan Maciej Kościelny, Zofia M. Łabęda-Grudziak
+This paper develops a new approach to double fault isolation in linear systems with the aid of directional residuals. The method of residual generation for computational as well as internal forms is applied. Isolation of double faults is based on the investigation of the coplanarity of the residual vector with the planes defined by the individual pairs of directional fault vectors. Additionally, the method of designing secondary residuals, which are structured and directional, is proposed. These transformations allow achieving various isolation properties. It is shown that double fault distinguishability can be improved by decomposing the observed residual vector along the response directions. The described methods are illustrated with a simple computational example.
+faults isolation, double fault, fault distinguishability, directional and structured residuals, secondary residuals, linear systems</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0030">10.2478/amcs-2013-0030</a>

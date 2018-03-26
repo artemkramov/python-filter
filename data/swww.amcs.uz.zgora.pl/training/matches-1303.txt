@@ -1,0 +1,6 @@
+﻿1 - March 2002
+12 - 2002
+On the solution of a finite element approximation of a linear obstacle plate problem
+Luis M. Fernandes, Isabel N. Figueiredo, Joaquim J. Júdice
+In this paper the solution of a finite element approximation of a linear obstacle plate problem is investigated. A simple version of an interior point method and a block pivoting algorithm have been proposed for the solution of this problem. Special purpose implementations of these procedures are included and have been used in the solution of a set of test problems. The results of these experiences indicate that these procedures are quite efficient to deal with these instances and compare favourably with the path-following PATH and the active-set MINOS codes of the commercial GAMS collection.
+variational inequality, complementarity problem, contact problem

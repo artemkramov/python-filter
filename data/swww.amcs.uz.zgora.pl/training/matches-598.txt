@@ -1,0 +1,6 @@
+﻿3 - September 2014
+24 - 2014
+Data mining methods for gene selection on the basis of gene expression arrays
+Michał Muszyński, Stanisław Osowski
+The paper presents data mining methods applied to gene selection for recognition of a particular type of prostate cancer on the basis of gene expression arrays. Several chosen methods of gene selection, including the Fisher method, correlation of gene with a class, application of the support vector machine and statistical hypotheses, are compared on the basis of clustering measures. The results of applying these individual selection methods are combined together to identify the most often selected genes forming the required pattern, best associated with the cancerous cases. This resulting pattern of selected gene lists is treated as the input data to the classifier, performing the task of the final recognition of the patterns. The numerical results of the recognition of prostate cancer from normal (reference) cases using the selected genes and the support vector machine confirm the good performance of the proposed gene selection approach.
+gene expression array, gene ranking, feature selection, clusterization measures, fusion, SVM classification</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0048">10.2478/amcs-2014-0048</a>

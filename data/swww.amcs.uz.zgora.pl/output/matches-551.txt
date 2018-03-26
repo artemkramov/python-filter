@@ -1,0 +1,6 @@
+﻿1 - March 2014
+24 - 2014
+Discretization of singular systems and error estimation
+Nicholas P. Karampetakis, Rallis Karamichalis
+This paper proposes a discretization technique for a descriptor differential system. The methodology used is both triangular first order hold discretization and zero order hold for the input function. Upper bounds for the error between the continuous and the discrete time solution are produced for both discretization methods and are shown to be better than any other existing method in the literature.
+descriptor systems, discretization, truncation error, first order hold, zero order hold</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0005">10.2478/amcs-2014-0005</a>

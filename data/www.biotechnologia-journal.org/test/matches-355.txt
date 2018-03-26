@@ -1,0 +1,17 @@
+﻿3/2011
+2
+RESEARCH-PAPER-A-stable-density-approach-to-probe-selection-r-nfor-a-custom-aCGH-design,85,23876,0
+abstract:
+RESEARCH PAPER<br>A stable density approach to probe selection for a custom aCGH design
+h3>Tomasz Gambin, Paweł Stankiewicz, Anna Gambin</h3><div>BioTechnologia vol. 92(3) C pp. 283-295 C 2011
+1.46544">https://doi.org/10.5114/bta.2011.46544
+a>View full text</a
+23876
+Gambin T, Stankiewicz P, Gambin A. RESEARCH PAPER&lt;br&gt;A stable density approach to probe selection for a custom aCGH design. BioTechnologia. 2014;92(3):283-295. doi:10.5114/bta.2011.46544
+Gambin, T., Stankiewicz, P., &amp; Gambin, A. (2014). RESEARCH PAPER&lt;br&gt;A stable density approach to probe selection for a custom aCGH design. BioTechnologia, 92(3), 283-295. https://doi.org/10.5114/bta.2011.46544
+Gambin, Tomasz, Paweł Stankiewicz, and Anna Gambin. 2014. "RESEARCH PAPER&lt;br&gt;A stable density approach to probe selection for a custom aCGH design". BioTechnologia 92 (3): 283-295. doi:10.5114/bta.2011.46544
+Gambin, T., Stankiewicz, P., and Gambin, A. (2014). RESEARCH PAPER&lt;br&gt;A stable density approach to probe selection for a custom aCGH design. BioTechnologia, 92(3), pp.283-295. https://doi.org/10.5114/bta.2011.46544
+Gambin, Tomasz et al. "RESEARCH PAPER&lt;br&gt;A stable density approach to probe selection for a custom aCGH design." BioTechnologia, vol. 92, no. 3, 2014, pp. 283-295. doi:10.5114/bta.2011.46544
+/div><div>Usage of the custom aCGH design provides the ability to detect copy number alternations (CNAs) with a very high<br><br>resolution in almost every genomic region. Since the detection rate of CNAs greatly depends on the quality of the<br><br>design, it is crucial to ensure the optimal probe coverage for the regions of interests. In this paper, we focus on<br><br>the problem of finding the best possible probe coverage for a given region and a predefined set of probes.<br><br>The lack of available probes at some places is a considerable problem which may lead to the decrease in the detection<br><br>rate of CNAs. We propose a new approach towards the generation of coverage with stable probe density.<br><br>The developed algorithms attempt to compensate the lack of probes in poorly covered regions by selecting<br><br>additional probes from their nearest neighborhood. Here we introduce evaluation measures that reflect density<br><br>stabilization along the covered region. Finally, we use these measures to compare our algorithms with other standard<br><br>approaches for coverage preparation.<
+null
+keywords:</div><h3>custom aCGH design, probe selection, Copy Number Alternations</h3

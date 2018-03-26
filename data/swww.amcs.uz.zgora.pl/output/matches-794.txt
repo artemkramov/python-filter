@@ -1,0 +1,6 @@
+﻿1 - March 2011
+21 - 2011
+Hierarchical residue number systems with small moduli and simple converters
+Tadeusz Tomczak
+In this paper, a new class of Hierarchical Residue Number Systems (HRNSs) is proposed, where the numbers are represented as a set of residues modulo factors of 2<sup><em>k</em></sup>± 1 and modulo 2<sup><em>k</em></sup>. The converters between the proposed HRNS and the positional binary number system can be built as 2-level structures using efficient circuits designed for the RNS (2<sup><em>k</em></sup>− 1, 2<sup><em>k</em></sup>, 2<sup><em>k</em></sup>+ 1). This approach allows using many small moduli in arithmetic channels without large conversion overhead. The advantages resulting from the use of the proposed HRNS depend on the possibility of factorisation of moduli 2<sup><em>k</em></sup>± 1.
+digital arithmetic, digital circuits, residue number system, VLSI</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-011-0013-2">10.2478/v10006-011-0013-2</a>

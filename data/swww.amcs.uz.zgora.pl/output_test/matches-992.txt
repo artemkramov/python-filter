@@ -1,0 +1,3 @@
+Segmentation of breast cancer fine needle biopsy cytological images
+Maciej Hrebień, Piotr Steć, Tomasz Nieczkowski, Andrzej Obuchowicz
+This paper describes three cytological image segmentation methods. The analysis includes the watershed algorithm, active contouring and a cellular automata GrowCut method. One can also find here a description of image pre-processing, Hough transform based pre-segmentation and an automatic nuclei localization mechanism used in our approach. Preliminary experimental results collected on a benchmark database present the quality of the methods in the analyzed issue. The discussion of common errors and possible future problems summarizes the work and points out regions that need further research.

@@ -1,0 +1,6 @@
+﻿4 - December 1998
+8 - 1998
+Nonlinear black-box identification of distillation column models – design variable selection for model performance enhancement
+Wei-Ming Ling, Daniel E. Rivera
+Conventional linear system identification techniques fail to capture the strong nonlinearity characteristic of distillation processes. On the other hand, general theories to guide selection of design variables in nonlinear system identification methods, such as the model structure selection, are lacking. In this paper, using the results of a binary distillation column simulation as a basis, problems relating to the proper selection of model structure and input perturbation design for nonlinear system identification are investigated systematically. Three commonly used model structures including the second-order Volterra model, block-structured models and the NARX model are considered. Identification results using a control-relevant technique are also presented where the goodness-of-fit is naturally represented by closed-loop performance requirements.
+-

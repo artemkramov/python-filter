@@ -1,0 +1,17 @@
+﻿4/2012
+3
+RESEARCH-PAPER-Phytotests-as-tools-for-monitoring-the-bioremediation-process-r-nof-soil-contaminated-with-diesel-oil,85,23923,0
+abstract:
+RESEARCH PAPER<br>Phytotests as tools for monitoring the bioremediation process of soil contaminated with diesel oil
+h3>Dorota Wieczorek, Ewa Kwapisz, Olga Marchut-Mikołajczyk, Stanisław Bielecki</h3><div>BioTechnologia vol. 93(4) C pp. 431-439 C 2012
+2.46597">https://doi.org/10.5114/bta.2012.46597
+a>View full text</a
+23923
+Wieczorek D, Kwapisz E, Marchut-Mikołajczyk O, Bielecki S. RESEARCH PAPER&lt;br&gt;Phytotests as tools for monitoring the bioremediation process of soil contaminated with diesel oil. BioTechnologia. 2014;93(4):431-439. doi:10.5114/bta.2012.46597
+Wieczorek, D., Kwapisz, E., Marchut-Mikołajczyk, O., &amp; Bielecki, S. (2014). RESEARCH PAPER&lt;br&gt;Phytotests as tools for monitoring the bioremediation process of soil contaminated with diesel oil. BioTechnologia, 93(4), 431-439. https://doi.org/10.5114/bta.2012.46597
+Wieczorek, Dorota, Ewa Kwapisz, Olga Marchut-Mikołajczyk, and Stanisław Bielecki. 2014. "RESEARCH PAPER&lt;br&gt;Phytotests as tools for monitoring the bioremediation process of soil contaminated with diesel oil". BioTechnologia 93 (4): 431-439. doi:10.5114/bta.2012.46597
+Wieczorek, D., Kwapisz, E., Marchut-Mikołajczyk, O., and Bielecki, S. (2014). RESEARCH PAPER&lt;br&gt;Phytotests as tools for monitoring the bioremediation process of soil contaminated with diesel oil. BioTechnologia, 93(4), pp.431-439. https://doi.org/10.5114/bta.2012.46597
+Wieczorek, Dorota et al. "RESEARCH PAPER&lt;br&gt;Phytotests as tools for monitoring the bioremediation process of soil contaminated with diesel oil." BioTechnologia, vol. 93, no. 4, 2014, pp. 431-439. doi:10.5114/bta.2012.46597
+/div><div>The aim of the study was to determine changes in phytotoxicity levels during bioremediation of soil contaminated<br><br>with 5% (v/w) diesel oil and find their correlation with the effectiveness of hydrocarbon degradation. Bioremediation<br><br>trials were performed using a<i>Gordonia alkanivorans</i>S7 strain. The clean-up process was enhanced through<br><br>the addition of dried fungal enzymatic preparations obtained from fungi Phanerohaete chrysosporium and<i>Aspergillus<br><br>niger</i>. After 110 days of bioremediation the decrease in soil pollution ranged between 68 and 77% depending<br><br>on treatment conditions. Toxicological tests using marker plants revealed significant differences in the phytotoxicity<br><br>levels of soil during bioremediation, depending on the treatment variant. The addition of an enzymatic fungal<br><br>preparation to soil was found to accelerate the rate of contaminant degradation. The rate of hydrocarbon depletion<br><br>in subsequent phases of the remediation process was found to be correlated with the phytotoxicity level. The obtained<br><br>results provide evidence that phytotests can be useful tools for monitoring toxicity changes during<br><br>bioremediation either mediated only by bacteria or additionally stimulated by fungal enzymatic preparations.<
+null
+keywords:</div><h3>Phytotoxicity test, bioremediation, monitoring, diesel oil, fungal enzymatic preparations</h3

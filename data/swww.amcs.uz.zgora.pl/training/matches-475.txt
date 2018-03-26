@@ -1,0 +1,6 @@
+﻿1 - March 2015
+25 - 2015
+Increasing pursuer capturability by using hybrid dynamics
+Valery Y. Glizer, Vladimir Turetsky
+A robust interception of a maneuverable target (evader) by an interceptor (pursuer) with hybrid dynamics is considered. The controls of the pursuer and the evader are bounded. The duration of the engagement is prescribed. The pursuer has two possible dynamic modes, which can be switched once during the engagement, while the dynamics of the evader are fixed. The case where for both dynamic modes there exists an unbounded capture zone was analyzed in our previous work. The conditions under which the pursuer can increase its capturability by utilizing the hybrid dynamics were established and the new robust capture zone was constructed. In the present paper, we extend this result to the cases where at least for one dynamic mode of the pursuer the capture zone is bounded. For these instances, conditions of increasing the pursuer’s hybrid capturability are derived. Respective capture zones are constructed. Illustrative examples and results of extensive simulation for a realistic non-linear engagement model in the presence of a random wind are given.
+interception problem, hybrid interceptor’s dynamics, robust capture zone</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2015-0006">10.1515/amcs-2015-0006</a>

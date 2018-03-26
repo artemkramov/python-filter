@@ -1,0 +1,6 @@
+﻿3 - September 2013
+23 - 2013
+Epoch-incremental reinforcement learning algorithms
+Roman Zajdel
+In this article, a new class of the epoch-incremental reinforcement learning algorithm is proposed. In the incremental mode, the fundamental TD(0) or TD(λ) algorithm is performed and an environment model is created. In the epoch mode, on the basis of the environment model, the distances of past-active states to the terminal state are computed. These distances and the reinforcement terminal state signal are used to improve the agent policy.
+reinforcement learning, epoch-incremental algorithm, grid world</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0047">10.2478/amcs-2013-0047</a>

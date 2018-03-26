@@ -1,0 +1,6 @@
+﻿2 - June 2003
+13 - 2003
+Gradient observability for diffusion systems
+El Hassane Zerrik, Hamid Bourray
+The aim of this paper is to study regional gradient observability for a diffusion system and the reconstruction of the state gradient without the knowledge of the state. First, we give definitions and characterizations of these new concepts and establish necessary conditions for the sensor structure in order to obtain regional gradient observability. We also explore an approach which allows for a regional gradient reconstruction. The developed method is original and leads to a numerical algorithm illustrated by simulations.
+diffusion system, observability, regional gradient observability, gradient strategic sensor, gradient reconstruction

@@ -1,0 +1,17 @@
+﻿4/2011
+2
+REVIEW-PAPER-Genome-shuffling-r-na-method-to-improve-biotechnological-processes,85,23883,0
+abstract:
+REVIEW PAPER<br>Genome shuffling: a method to improve biotechnological processes
+h3>Katarzyna Leja, Kamila Myszka, Katarzyna Czaczyk</h3><div>BioTechnologia vol. 92(4) C pp. 345-351 C 2011
+1.46551">https://doi.org/10.5114/bta.2011.46551
+a>View full text</a
+23883
+Leja K, Myszka K, Czaczyk K. REVIEW PAPER&lt;br&gt;Genome shuffling: a method to improve biotechnological processes. BioTechnologia. 2014;92(4):345-351. doi:10.5114/bta.2011.46551
+Leja, K., Myszka, K., &amp; Czaczyk, K. (2014). REVIEW PAPER&lt;br&gt;Genome shuffling: a method to improve biotechnological processes. BioTechnologia, 92(4), 345-351. https://doi.org/10.5114/bta.2011.46551
+Leja, Katarzyna, Kamila Myszka, and Katarzyna Czaczyk. 2014. "REVIEW PAPER&lt;br&gt;Genome shuffling: a method to improve biotechnological processes". BioTechnologia 92 (4): 345-351. doi:10.5114/bta.2011.46551
+Leja, K., Myszka, K., and Czaczyk, K. (2014). REVIEW PAPER&lt;br&gt;Genome shuffling: a method to improve biotechnological processes. BioTechnologia, 92(4), pp.345-351. https://doi.org/10.5114/bta.2011.46551
+Leja, Katarzyna et al. "REVIEW PAPER&lt;br&gt;Genome shuffling: a method to improve biotechnological processes." BioTechnologia, vol. 92, no. 4, 2014, pp. 345-351. doi:10.5114/bta.2011.46551
+/div><div>Genome shuffling is widely used for increasing the production of metabolites by bacterial strains, improving<br><br>substrate uptake as well as enhancing strain tolerance. This technique combines the advantage of multiparental<br><br>crossing allowed by DNA shuffling together with the recombination of entire genomes normally associated with<br><br>conventional breeding, or through protoplast fusion that increases the recombination process. The method of<br><br>genome shuffling was first presented by Stemmer and co-workers in 2002 when it was used to improve the<br><br>production of tylosin by Streptomyces fradiae. Nowadays, it is used in many experiments for increasing the<br><br>production of metabolites by bacterial strains, improving substrate uptake, and enhancing strain tolerance.<br><br>Genome shuffling is a major milestone in the strain-improvement technology and metabolic engineering.<
+null
+keywords:</div><h3>bacteria strains, genome shuffling, mutagenesis, protoplast fusion, strain-improvement technology</h3

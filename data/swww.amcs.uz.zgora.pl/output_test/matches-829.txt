@@ -1,0 +1,3 @@
+Analysis of AQM queues with queue size based packet dropping
+Andrzej Chydziński, Łukasz Chróst
+Queueing systems in which an arriving job is blocked and lost with a probability that depends on the queue size are studied. The study is motivated by the popularity of Active Queue Management (AQM) algorithms proposed for packet queueing in Internet routers. AQM algorithms often exploit the idea of queue-size based packet dropping. The main results include analytical solutions for queue size distribution, loss ratio and throughput. The analytical results are illustrated via numerical examples that include some commonly used blocking probabilities (dropping functions).

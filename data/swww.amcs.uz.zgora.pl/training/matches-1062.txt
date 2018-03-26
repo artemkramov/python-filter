@@ -1,0 +1,6 @@
+﻿3 - September 2007
+17 - 2007
+A Hermite-type adaptive semi-Lagrangian scheme
+Michel Mehrenberger, Eric Violard
+We study a new Hermite-type interpolating operator arising in a semi-Lagrangian scheme for solving the Vlasov equation in the 2D phase space. Numerical results on uniform and adaptive grids are shown and compared with the biquadratic Lagrange interpolation introduced in (Campos Pinto and Mehrenberger, 2004) in the case of a rotating Gaussian.
+adaptive method, Vlasov equation, numerical simulation, Hermite operator</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0027-y">10.2478/v10006-007-0027-y</a>

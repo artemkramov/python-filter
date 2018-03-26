@@ -1,0 +1,6 @@
+﻿3 - September 2010
+20 - 2010
+A mathematical model of HIV-1 infection including the saturation effect of healthy cell proliferation
+Mahiéddine Kouche, Bedr'Eddine Ainseba
+In this paper we derive a model describing the dynamics of HIV-1 infection in tissue culture where the infection spreads directly from infected cells to healthy cells trough cell-to-cell contact. We assume that the infection rate between healthy and infected cells is a saturating function of cell concentration. Our analysis shows that if the basic reproduction number does not exceed unity then infected cells are cleared and the disease dies out. Otherwise, the infection is persistent with the existence of an infected equilibrium. Numerical simulations indicate that, depending on the fraction of cells surviving the incubation period, the solutions approach either an infected steady state or a periodic orbit.
+HIV, periodic oscillations, persistence, stability, tissue culture</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-010-0045-z">10.2478/v10006-010-0045-z</a>

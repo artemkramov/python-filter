@@ -1,0 +1,6 @@
+﻿4 - December 2000
+10 - 2000
+A neuro-fuzzy system based on logical interpretation of if-then rules
+Jacek Łęski, Norbert Henzel
+Several important fuzzy implications and their properties are described on the basis of an axiomatic approach to the definition of the fuzzy implications. Then the idea of approximate reasoning using the generalized modus ponens and fuzzy implications is considered. The elimination of the non-informative part of the final fuzzy set before defuzzification plays the key role in this paper. After reviewing well-known fuzzy systems, a new artificial neural network based on logical interpretation of if-then rules (ANBLIR) is introduced. Moreover, this system automatically generates rules from numerical data. Applications of ANBLIR to pattern recognition on numerical examples using benchmark databases are indicated.
+neuro-fuzzy systems, soft computing, fuzzy implications, approximate reasoning

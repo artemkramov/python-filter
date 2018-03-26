@@ -1,0 +1,6 @@
+﻿3 - September 2006
+16 - 2006
+Observer design using a partial nonlinear observer canonical form
+Klaus Röbenack, Alan F. Lynch
+This paper proposes two methods for nonlinear observer design which are based on a partial nonlinear observer canonical form (POCF). Observability and integrability existence conditions for the new POCF are weaker than the well-established nonlinear observer canonical form (OCF), which achieves exact error linearization. The proposed observers provide the global asymptotic stability of error dynamics assuming that a global Lipschitz and detectability-like condition holds. Examples illustrate the advantages of the approach relative to the existing nonlinear observer design methods. The advantages of the proposed method include a relatively simple design procedure which can be broadly applied.
+observer design, canonical form, detectability

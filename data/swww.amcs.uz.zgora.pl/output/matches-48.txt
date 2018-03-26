@@ -1,0 +1,6 @@
+﻿3 - September 2000
+10 - 2000
+Least-squares estimation for a long-horizon performance index
+Krzysztof B. Janiszowski
+Estimation of a parametric, discrete-time model for a SISO dynamic plant, derived for minimisation of a performance index determined as a sum of squared prediction errors within some time horizon is considered. A formula for a Long-Horizon Least-Squares (LHLS) off-line solution as well as a theorem for an LHLS recursive on-line scheme are derived. The LHLS scheme reveals some features of Least-Squares (LS) estimation and Instrumental-Variable (IV) estimation. An algorithm for the on-line LHLS scheme is presented and compared with LS and IV estimation schemes for a linear, second-order system. The fast convergence of the derived LHLS on-line scheme is demonstrated in the case of detecting changes in parameters of a non-stationary system.
+identification, least-squares estimation, prediction, recursive scheme

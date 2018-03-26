@@ -1,0 +1,6 @@
+﻿1 - March 2013
+23 - 2013
+Fast convergence of the Coiflet-Galerkin method for general elliptic BVPs
+Hani Akbari
+We consider a general elliptic Robin boundary value problem. Using orthogonal Coifman wavelets (Coiflets) as basis functions in the Galerkin method, we prove that the rate of convergence of an approximate solution to the exact one is<em>O(2<sup>−nN</sup>)</em>in the<em>H<sup>1</sup></em>norm, where<em>n</em>is the level of approximation and<em>N</em>is the Coiflet degree. The Galerkin method needs to evaluate a lot of complicated integrals. We present a structured approach for fast and effective evaluation of these integrals via trivariate connection coefficients. Due to the fast convergence rate, very good approximations are found at low levels and with low Coiflet degrees, hence the size of corresponding linear systems is small. Numerical experiments confirm these claims.
+general stationary elliptic BVPs, Robin boundary condition, orthogonal Coifman wavelets, trivariate connection coefficients, fast convergence</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0002">10.2478/amcs-2013-0002</a>

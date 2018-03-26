@@ -1,0 +1,6 @@
+﻿3 - September 2003
+13 - 2003
+The EM algorithm and its implementation for the estimation of frequencies of SNP-haplotypes
+Joanna Polańska
+A haplotype analysis is becoming increasingly important in studying complex genetic diseases. Various algorithms and specialized computer software have been developed to statistically estimate haplotype frequencies from marker phenotypes in unrelated individuals. However, currently there are very few empirical reports on the performance of the methods for the recovery of haplotype frequencies. One of the most widely used methods of haplotype reconstruction is the Maximum Likelihood method, employing the Expectation-Maximization (EM) algorithm. The aim of this study is to explore the variability of the EM estimates of the haplotype frequency for real data. We analyzed haplotypes at the BLM, WRN, RECQL and ATM genes with 8-14 biallelic markers per gene in 300 individuals. We also re-analyzed the data presented by Mano et al. (2002). We studied the convergence speed, the shape of the loglikelihood hypersurface, and the existence of local maxima, as well as their relations with heterozygosity, the linkage disequilibrium and departures from the Hardy-Weinberg equilibrium. Our study contributes to determining practical values for algorithm sensitivities.
+algorithms, haplotypes, likelihood functions, gene frequency

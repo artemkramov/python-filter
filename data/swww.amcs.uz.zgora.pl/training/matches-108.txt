@@ -1,0 +1,6 @@
+﻿4 - December 1999
+9 - 1999
+Identification of low-order continuos-time models via discrete-time trends of measurements
+Krzysztof B. Janiszowski
+The paper deals with the problem of continuous-time (CT) identification of parameters in transfer functions for low-order linear systems, based on recorded discrete-time (DT) data. Algorithms for direct estimation of CT parameters are developed from rules for transformation of a CT transfer function controlled via a zero-order sampling-and-hold unit into a DT representation. Two schemes are derived and tested: the first is based on the Goodwin transformation and the other is derived from the modified Tustin transformation. Both the approaches result in relations which can be used for direct estimation of CT parameters in a model of the investigated system. The numerical schemes contain some expressions that are reminiscent of DT differences and consequently they may magnify disturbances. Therefore the results of extensively testing both the schemes including different types of disturbances, measurement noise, slow varying drifts, measurement resolution errors together with changes in the sampling time are presented. A model of a pneumatic servomechanism system was used as a test plant.
+continuous time, transfer function, discrete-time model, identification

@@ -1,0 +1,6 @@
+﻿2 - December 1992
+2 - 1992
+Analytical models for file transfers in packet-switched computer networks
+R. Feix, B. Wolfinger
+One of the most important application-oriented services in computer networks is file transfer and one of the most important performance characteristics from a user's point of view is delay (e.g. for data transfer requests). This makes delay analyses for file transfer highly desirable. In this paper, we present an approximative analytical ;model which. makes it possible to calculate file delays in packet-switched data networks as well as in interconnected LAN-WAN-networks. Besides homogeneous applications of file transfer type, the models take into account mixed traffic situations, where file transfer is overlayed by some interactive traffic of higher priority. Starting with a model for a transient first moment analysis, steady-state investigations are carried out thereafter. Model validation results indicate the high degree of accuracy Of the models for a variety of system configurations and load situations.
+-

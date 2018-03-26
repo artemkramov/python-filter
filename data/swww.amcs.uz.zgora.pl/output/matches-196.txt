@@ -1,0 +1,6 @@
+﻿2 - June 1997
+7 - 1997
+Time-optimal trajectory planning in dynamic environments
+Paolo Fiorini, Zvi Shiller
+This paper presents a direct method for computing the time-optimal trajectory for a robot among stationary and moving obstacles, subject to the robot's dynamics and actuator constraints. The motion planning problem is first formulated as an optimization problem, and then solved numerically using a gradient descent. The initial guess for the optimization is generated using a method based on the concept of Velocity Obstacles. The method is demonstrated for a 2-DOF planar manipulator moving in static and dynamic environments.
+-

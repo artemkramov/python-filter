@@ -1,0 +1,6 @@
+﻿3 - September 2007
+17 - 2007
+On the numerical approximation of first-order Hamilton-Jacobi equations
+Rémi Abgrall, Vincent Perrier
+Some methods for the numerical approximation of time-dependent and steady first-order Hamilton-Jacobi equations are reviewed. Most of the discussion focuses on conformal triangular-type meshes, but we show how to extend this to the most general meshes. We review some first-order monotone schemes and also high-order ones specially dedicated to steady problems.
+approximation of Hamilton-Jacobi equations, viscous solution, Cauchy-Dirichlet problem, triangular mesh</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0033-0">10.2478/v10006-007-0033-0</a>

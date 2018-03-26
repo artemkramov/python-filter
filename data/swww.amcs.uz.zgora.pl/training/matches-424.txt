@@ -1,0 +1,6 @@
+﻿3 - September 1993
+3 - 1993
+Frames in diagnostic reasoning
+Wojciech Cholewa
+A frame is a flexible representation of statements and rules. It is especially attractive for the designing of interfaces with an expert system. It has been shown in the paper, that frames are a useful tool in the designing of reasoning systems for technical diagnostics. They can be successfully applied to support the most difficult part of such a task – i.e. to acquire knowledge. The main features of an expert system shell composed of a frame interpreter and tools for programmers have been presented, too.
+-

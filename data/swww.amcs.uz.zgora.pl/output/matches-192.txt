@@ -1,0 +1,6 @@
+﻿2 - June 1997
+7 - 1997
+Modelling and simulation of assembly processes with robots
+Thomas Meitinger, F. Pfeiffer
+This paper deals with planning assembly processes for a manipulator using numerical simulations, so that the load on the parts and the dynamics of the robot during the part insertion can be studied. Typical for mating processes is the contact of the robot with its environment through the parts. The arising contact forces influence the motion of the robot. For numerical simulations we have to describe this operation by mechanical models. We present the dynamical model of the manipulator and models for mounting processes. Various methods are applied depending on the mechanical properties of the parts. With compliant mating parts, the forces and moments are only dependent on the relative position and the velocity of the robot's gripper with respect to the environment. If the mating parts are very stiff, the dynamics of the robot is characterized by closed loops, which requires special mathematical treatment. Numerical and experimental results illustrate our approaches.
+-

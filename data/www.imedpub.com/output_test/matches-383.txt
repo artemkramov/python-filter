@@ -1,3 +1,4 @@
 ﻿Reliability analysis of a square solid timber column
 In this paper, the reliability analysis of a solid timber column subjected to both axial and lateral loading in accordance with the design requirements of Eurocode 5 using interaction formula is reported. The First Order Reliability Method (FORM) which was written in FORTRAN language was invoked in the estimation of reliability levels. The effect of changing load ratios as well as the slenderness ratio of the timber column was examined. The results obtained showed that changing load ratios has effects on the reliability of timber columns. The obtained results also showed that the reliability of such a column can be improved by choosing adequate suitable dimensions in order to have a low slenderness ratio.
 Benu M. J., Sule S. and Nwofor T.C.
+reliability-analysis-of-a-square-solid-timber-column.pdf" title="Reliability analysis of a square solid timber column

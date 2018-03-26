@@ -1,0 +1,7 @@
+Mass spectrometry approaches in proteomic and metabolomic studies
+a>View full text</a
+Rodziewicz P, Swarcewicz B, Chmielewska K. Mass spectrometry approaches in proteomic and metabolomic studies. BioTechnologia. 2015;95(3):192-202. doi:10.5114/bta.2014.54794
+Rodziewicz, P., Swarcewicz, B., &amp; Chmielewska, K. (2015). Mass spectrometry approaches in proteomic and metabolomic studies. BioTechnologia, 95(3), 192-202. https://doi.org/10.5114/bta.2014.54794
+Rodziewicz, Paweł, Barbara Swarcewicz, and Klaudia Chmielewska. 2015. "Mass spectrometry approaches in proteomic and metabolomic studies". BioTechnologia 95 (3): 192-202. doi:10.5114/bta.2014.54794
+Rodziewicz, P., Swarcewicz, B., and Chmielewska, K. (2015). Mass spectrometry approaches in proteomic and metabolomic studies. BioTechnologia, 95(3), pp.192-202. https://doi.org/10.5114/bta.2014.54794
+With the development of the systems biology concept proteomic and metabolomic studies have become even<br><br>more attractive. The advancement in separation methods of proteins and metabolites, and particularly the progress<br><br>that has been made in the field of mass spectrometry significantly facilitated high-throughput analyses and<br><br>substantially increased both quality and quantity of the data. In this short review we discuss some aspects of the<br><br>analytical strategies used in proteome and metabolome research in which mass spectrometry plays a crucial role.</div

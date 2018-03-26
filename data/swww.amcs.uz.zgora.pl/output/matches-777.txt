@@ -1,0 +1,6 @@
+﻿4 - December 2012
+22 - 2012
+Designing a ship course controller by applying the adaptive backstepping method
+Anna Witkowska, Roman Śmierzchalski
+The article discusses the problem of designing a proper and efficient adaptive course-keeping control system for a seagoing ship based on the adaptive backstepping method. The proposed controller in the design stage takes into account the dynamic properties of the steering gear and the full nonlinear static maneuvering characteristic. The adjustable parameters of the achieved nonlinear control structure were tuned up by using the genetic algorithm in order to optimize the system performance. A realistic full-scale simulation model of the B-481 type vessel including wave and wind effects was applied to simulate the control algorithm by using time domain analysis.
+autopilot, adaptive control, nonlinear control, backstepping, genetic algorithm</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0073-y">10.2478/v10006-012-0073-y</a>

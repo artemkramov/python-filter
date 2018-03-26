@@ -1,0 +1,6 @@
+﻿1 - March 1994
+4 - 1994
+Static and quasi-static routing in integrated services digital networks
+Adam Grzech, Andrzej Kasprzak
+The aim of this paper is to formulate, discuss and solve some selected problems concerning routings problems in the Integrated Services Digital Network. The problems under consideration are restricted to routes in the ISDN over which both voice calls and data streams are transmitted using circuit- and packet-switched transmission modes. In the paper several optimization problems for static and quasi-static routing are formulated and considered. Solutions of the formulated optimization problems allowed us to design a routing procedures at the ISDN. The. procedures are distributed, i.e. at each node of the network, routing variables are assigned independently both for the traffic classes considered and transmission modes applied.
+-

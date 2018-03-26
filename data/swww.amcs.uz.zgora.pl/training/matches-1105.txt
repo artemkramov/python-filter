@@ -1,0 +1,6 @@
+﻿2 - June 2006
+16 - 2006
+Neural network-based MRAC control of dynamic nonlinear systems
+Ghania Debbache, Abdelhak Bennia, Noureddine Goléa
+This paper presents direct model reference adaptive control for a class of nonlinear systems with unknown nonlinearities. The model following conditions are assured by using adaptive neural networks as the nonlinear state feedback controller. Both full state information and observer-based schemes are investigated. All the signals in the closed loop are guaranteed to be bounded and the system state is proven to converge to a small neighborhood of the reference model state. It is also shown that stability conditions can be formulated as linear matrix inequalities (LMI) that can be solved using efficient software algorithms. The control performance of the closed-loop system is guaranteed by suitably choosing the design parameters. Simulation results are presented to show the effectiveness of the approach.
+neural networks, reference model, nonlinear systems, adaptive control, observer, stability, LMI

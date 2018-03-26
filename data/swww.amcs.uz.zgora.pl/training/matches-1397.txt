@@ -1,0 +1,6 @@
+﻿3 - September 2001
+11 - 2001
+Fuzzy versus probabilistic benefit/cost ratio analysis for public work projects
+Cengiz Kahraman
+The benefit/cost (B/C) ratio method is utilized in many government and public work projects to determine if the expected benefits provide an acceptable return on the estimated investment and costs. Many authors have studied probabilistic cash ows in recent years. They introduced some analytical methods which determine the probability distribution function of the net present value and internal rate of return of a series of random discrete cash ows. They considered serially correlated cash ows and the uncertainty of future capital investment and reinvestment rates and they presented some formulae for the B/C ratio for probabilistic cash ows. In the paper, the expected value and the variance of a probabilistic cash ow are obtained by means of moments. Then a probabilistic B/C ratio is given. Fuzzy set theory has the capability of representing vague knowledge and allows mathematical operators and programming to be applied to the fuzzy domain. The theory is primarily concerned with quantifying the vagueness in human thoughts and perceptions. The fuzzy B/C ratios are developed for a single investment project and for multiple projects having equal or different lives.
+economic justification, risk, fuzzy set theory, B/C ratio

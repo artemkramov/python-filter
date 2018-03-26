@@ -1,0 +1,6 @@
+﻿1 - March 2016
+26 - 2016
+Nonlinear analysis of vehicle control actuations based on controlled invariant sets
+Balázs Németh, Péter Gáspár, Tamás Péni
+In the paper, an analysis method is applied to the lateral stabilization problem of vehicle systems. The aim is to find the largest state-space region in which the lateral stability of the vehicle can be guaranteed by the peak-bounded control input. In the analysis, the nonlinear polynomial sum-of-squares programming method is applied. A practical computation technique is developed to calculate the maximum controlled invariant set of the system. The method calculates the maximum controlled invariant sets of the steering and braking control systems at various velocities and road conditions. Illustration examples show that, depending on the environments, different vehicle dynamic regions can be reached and stabilized by these controllers. The results can be applied to the theoretical basis of their interventions into the vehicle control system.
+vehicle dynamics, sum-of-squares programming, Lyapunov method</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0003">10.1515/amcs-2016-0003</a>

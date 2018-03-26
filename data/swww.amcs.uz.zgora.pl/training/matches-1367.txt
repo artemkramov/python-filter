@@ -1,0 +1,6 @@
+﻿1 - March 2001
+11 - 2001
+Modeling and control of induction motors
+Emmanuel Delaleau, Jean-Paul Louis, Romeo Ortega
+This paper is devoted to the modeling and control of the induction motor. The well-established field oriented control is recalled and two recent control strategies are exposed, namely the passivity-based control and the flatness-based control.
+induction motors, field oriented control, passivity based control, flatness based control, nonlinear control

@@ -1,0 +1,6 @@
+﻿2 - June 2002
+12 - 2002
+Controllability of nonlinear discrete systems
+Jerzy Klamka
+Local constrained controllability problems for nonlinear finite-dimensional discrete 1-D and 2-D control systems with constant coefficients are formulated and discussed. Using some mapping theorems taken from nonlinear functional analysis and linear approximation methods, sufficient conditions for constrained controllability in bounded domains are derived and proved. The paper extends the controllability conditions with unconstrained controls given in the literature to cover both 1-D and 2-D nonlinear discrete systems with constrained controls.
+nonlinear systems, discrete systems, 2-D systems, controllability, nonlinear covering operators

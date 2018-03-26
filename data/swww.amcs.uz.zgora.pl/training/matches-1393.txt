@@ -1,0 +1,6 @@
+﻿3 - September 2001
+11 - 2001
+Relative sets and rough sets
+Amin Mousavi, Parviz Jabedar-Maralani
+In this paper, by defining a pair of classical sets as a relative set, an extension of the classical set algebra which is a counterpart of Belnap's four-valued logic is achieved. Every relative set partitions all objects into four distinct regions corresponding to four truth-values of Belnap's logic. Like truth-values of Belnap's logic, relative sets have two orderings; one is an order of inclusion and the other is an order of knowledge or information. By defining a rough set as a pair of definable sets, an integrated approach to relative sets and rough sets is obtained. With this definition, we are able to define an approximation of a rough set in an approximation space, and so we can obtain sequential approximations of a set, which is a good model of communication among agents.
+rough sets, set theory, data analysis, multi-valued logic, interval sets, knowledge representation

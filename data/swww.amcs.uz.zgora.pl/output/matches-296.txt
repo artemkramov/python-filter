@@ -1,0 +1,6 @@
+﻿3 - September 1995
+5 - 1995
+Generalized 2-D continuous-discrete linear systems with delays
+Tadeusz Kaczorek
+A general Kurek (K) type model and a general Roesser (R) type model of 2-D continuous-discrete linear systems with deviating arguments are introduced. A solu tion and the general response formula for the regular general type model of 2-D continuous-discrete linear systems with delays are derived. The necessary and sufficient conditions for the local reachability and the local controllability of the regular general K type model are established. The minimum energy control of the regular model is solved.
+-

@@ -1,0 +1,6 @@
+﻿4 - December 1998
+8 - 1998
+The Heisenberg modelling procedure and applications to process control
+Agnar Höskuldsson
+The Heisenberg modelling procedure is presented. The underlying idea is to define the<em>basic modelling units</em>that describe the modelling task. The associated algorithm gives a simultaneous expansion of the data matrix<em><strong>X</strong></em>and its generalised inverse<em><strong>X</strong><sup>+</sup></em>. The procedure is applied to linear regression, time series analysis, Kalman filtering and nonlinear modelling. Some applications to Statistical Process Control (SPC) are described. Applications of the Heisenberg modelling procedure give new algorithms in different fields. The advantage of the procedure is that it gives stable estimates of parameters.
+-

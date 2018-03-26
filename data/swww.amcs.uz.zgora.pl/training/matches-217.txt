@@ -1,0 +1,6 @@
+﻿4 - December 1997
+7 - 1997
+Controllability of 2-D systems: A survey
+Jerzy Klamka
+In this paper, a survey of recent results concerning controllability of 2-D systems is presented. Various types of linear and nonlinear 2-D systems with constant coefficients are discussed. Several controllability conditions for various kinds of 2-D systems are formulated without proofs. Moreover, many supplementary remarks and bibliographical comments are given. The relationships between different concepts of controllability are also explained.
+-

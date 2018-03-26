@@ -1,0 +1,6 @@
+﻿2 - June 1998
+8 - 1998
+An algebraic approach to modelling and performance optimisation of a traffic route system
+Andrzej Obuchowicz, Kelwyn A. D'Souza, Zbigniew A. Banaszak
+An algebraic approach to performance optimisation of collision-free traffic route systems is presented. The proposed models take into account traffic conditions in a wide area and react to the dynamic nature of the traffic flow. The adjustment of traffic-signal timings to minimise the total travel time through a city is considered. The approach is based on the (max, +) and (min, +) algebras which provide a framework to build an executable performance-oriented model for sequential and repetitive processes like a set of signalised intersections coordinating the traffic access to the routes through a sequence of signal timings. The concept of a quasi-rendez-vous synchronisation mechanism of processes is introduced. A computer example is provided in the final part of the paper to illustrate the effectiveness of the approach.
+-

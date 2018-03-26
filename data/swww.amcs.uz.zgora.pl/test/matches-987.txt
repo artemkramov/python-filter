@@ -1,0 +1,6 @@
+﻿2 - June 2008
+18 - 2008
+Analysis of the ReSuMe learning process for spiking neural networks
+Filip Ponulak
+In this paper we perform an analysis of the learning process with the ReSuMe method and spiking neural networks (Ponulak, 2005; Ponulak, 2006b). We investigate how the particular parameters of the learning algorithm affect the process of learning. We consider the issue of speeding up the adaptation process, while maintaining the stability of the optimal solution. This is an important issue in many real-life tasks where the neural networks are applied and where the fast learning convergence is highly desirable.
+supervised learning, spiking neural networks, parametric analysis, learning window</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0011-1">10.2478/v10006-008-0011-1</a>

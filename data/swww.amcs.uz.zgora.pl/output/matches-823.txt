@@ -1,0 +1,6 @@
+﻿3 - September 2011
+21 - 2011
+Extracting second-order structures from single-input state-space models: Application to model order reduction
+Jérôme Guillet, Benjamin Mourllion, Abderazik Birouche, Michel Basset
+This paper focuses on the model order reduction problem of second-order form models. The aim is to provide a reduction procedure which guarantees the preservation of the physical structural conditions of second-order form models. To solve this problem, a new approach has been developed to transform a second-order form model from a state-space realization which ensures the preservation of the structural conditions. This new approach is designed for controllable single-input state-space realizations with real matrices and has been applied to reduce a single-input second-order form model by balanced truncation and modal truncation.
+second-order form model, preservation of the structural conditions, balanced truncation, modal truncation</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-011-0039-5">10.2478/v10006-011-0039-5</a>

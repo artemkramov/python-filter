@@ -1,0 +1,6 @@
+﻿1 - March 2000
+10 - 2000
+Periodicity of the population size of an age-dependent model with a dominant age class by means of impulsive perturbations
+Valery Covachev
+For an age-dependent model with a dominant age class an ω-periodic regime the population size is sought by means of impulsive perturbations. For both noncritical and critical cases of first order the problem is reduced to operator systems solvable by a convergent simple iteration method.
+population dynamics, age-dependent model, periodic solutions, nonlinear delay equations

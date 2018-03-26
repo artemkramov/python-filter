@@ -1,0 +1,17 @@
+﻿Research-of-thermal-processes-in-industrial-premises-with-energy-saving-technologies,70607
+2-2017,2313">2/2017 vol. 18
+Measurements-and-vibration-analysis-of-a-five-stage-axial-flow-microturbine-operating,69463,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/High-and-medium-speed-marine-diesel-engines-injection-installation-vibration-diagnostics,73793,0,2.html" title="PREVIOUS
+Research of thermal processes in industrial premises with energy-saving technologies of heating
+Olena-Gumen/53797">Olena Gumen
+null
+</sup>&nbsp;&nbsp;<a href="mailto:gumens@ukr.net"><div></div></a>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Nadiia-Spodyniuk/40524">Nadiia Spodyniuk</a></span><sup>2</sup>&nbsp;&nbsp;<a href="mailto:n_spoduniuk@meta.ua"><div></div></a>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Malgorzata-Ulewicz/32930">Malgorzata Ulewicz</a></span><sup>3
+ulewicz@onet.eu
+>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Yevgen-Martyn/53798">Yevgen Martyn</a></span><sup>4</sup
+National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”, Department of Descriptive Geometry, Engineering and Computer Graphics</span></div></td></tr><tr><td>2</td><td><div><span>Lviv Polytechnic National University</span></div></td></tr><tr><td>3</td><td><div><span>Czestochowa University of Technology, Department of General Building Engineering and Building Physics</span></div></td></tr><tr><td>4</td><td><div><span>Lviv State University of Life Safety, Department of Project Management, Information Technologies and Telecommunications
+Publish date: 2017-06-21</div><div>Submission date: 2017-02-27</div><div>Final revision date: 2017-04-08</div><div>Acceptance date: 2017-04-20
+7;18(2):43–49
+70607-17657?filename=Research of thermal
+infrared+heating/77220">infrared heating<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-energy-saving+systems/107142">energy-saving systems<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-graphic+computer+technologies/107143">graphic computer technologies
+geometric+modeling/107144">geometric modeling</a><div>&nbsp;</div></div><div>TOPICS:</div><div><a href="http://www.diagnostyka.net.pl/Topic-Diagnostic+systems/3943">Diagnostic systems<div></div></a><a href="http://www.diagnostyka.net.pl/Topic-Diagnostics+of+buildings/3945">Diagnostics of buildings<div></div></a><a href="http://www.diagnostyka.net.pl/Topic-Technical+diagnostics/3947">Technical diagnostics
+The article presents the results of experimental research of thermal processes in industrial premises with energy-saving technologies of heating and their analysis by geometric modeling tools and graphic computer technologies. The effectiveness of using the method of forced feeding of air heated by infrared emitter involving compromise graphical optimization was analyzed by geometric way.</div><div>CORRESPONDING AUTHOR:</div><a href="http://www.diagnostyka.net.pl/Author-Nadiia-Spodyniuk/40524">Nadiia Spodyniuk</a>&nbsp;&nbsp;<a href="mailto:n_spoduniuk@meta.ua"><div></div></a><div>Lviv Polytechnic National University, S. Bandery street, 12, 79013 Lviv, Ukraine
+></div></div><div><div><div></div>Related articles</div><div><div><a href="http://www.diagnostyka.net.pl/Analysis-of-the-processes-of-heat-exchange-on-infrared-heater-surface,64851,0,2.html">Analysis of the processes of heat exchange on infrared heater surface</a></div

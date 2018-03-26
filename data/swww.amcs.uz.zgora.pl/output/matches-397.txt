@@ -1,0 +1,6 @@
+﻿1 - March 1993
+3 - 1993
+Multi-level synthesis based on logic decomposition
+Tadeusz Łuba
+In this paper an effective decomposition algorithm for mapping of logic functions onto PLDs as well as FPGAs is proposed. The algorithm exploits our symbolic decomposition concept to find PLD (FPGA) based implementation with a minimal number of devices (CLBs). Experimental results of the presented method are provided and compared to other similar tools.
+-

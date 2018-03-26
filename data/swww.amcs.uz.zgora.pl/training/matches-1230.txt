@@ -1,0 +1,6 @@
+﻿4 - December 2004
+14 - 2004
+Optimality and sensitivity for semilinear bang-bang type optimal control problems
+Ursula Felgenhauer
+<em>Please see the PDF file.</em>
+stability in optimal control, solution structure, bang-bang control, optimality conditions, strong local optima, sensitivity differentials

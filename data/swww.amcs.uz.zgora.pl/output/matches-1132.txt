@@ -1,0 +1,6 @@
+﻿4 - December 2006
+16 - 2006
+Guided local search for query reformulation using weight propagation
+Issam Moghrabi
+A new technique for query reformulation that assesses the relevance of retrieved documents using weight propagation is proposed. The technique uses a Guided Local Search (GLS) in conjunction with the latent semantic indexing model (to semantically cluster documents together) and Lexical Matching (LM). The GLS algorithm is used to construct a minimum spanning tree that is later employed in the reformulation process. The computations done for Singular Value Decomposition (SVD), LM and the minimum spanning tree are necessary overheads that occur only initially and all subsequent work is based on them. Our experimental results reveal the effectiveness of the new technique.
+relevance feedback, clustering, latent semantic, query reformulation

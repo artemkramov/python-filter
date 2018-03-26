@@ -1,0 +1,3 @@
+A vehicle-track-soil dynamic interaction problem in sequential and parallel formulation
+Janusz Kogut, Henryk Ciurej
+Some problems regarding numerical modeling of predicted vibrations excited by railway traffic are discussed. Model formulation in the field of structural mechanics comprises a vehicle, a track (often in a tunnel) and soil. Time consuming computations are needed to update large matrices at every discrete step. At first, a sequential Matlab code is generated. Later on, the formulation is modified to use grid computing, thereby a significant reduction in computational time is expected.

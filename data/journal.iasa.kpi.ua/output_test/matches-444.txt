@@ -1,2 +1,3 @@
 Classification of methods for risk measures VaR and CVaR calculation and estimation
 Nataliia G. Zrazhevska, A. G. Zrazhevsky
+A systematic classification of the existing approaches for popular risk measures VaR and CVaR calculating and estimating is fulfilled. A review of the most used methods is done. For convenience, the considered methods are reduced to common econometric designations and concepts, guidance on the use of the methods is proposed. The correctness of the considered methods is numerically confirmed.</div><br></div><div><h4>Keywords</h4><br><div>estimation;Value-at-Risk;Conditional Value-at-Risk;structural-hierarchical scheme;systematization;classification

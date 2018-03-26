@@ -1,0 +1,17 @@
+﻿2/2011
+2
+REVIEW-PAPER-Therapeutic-potential-of-heme-oxygenase-1-r-nin-cardiovascular-disease,85,23865,0
+abstract:
+REVIEW PAPER<br>Therapeutic potential of heme oxygenase-1 in cardiovascular disease
+h3>Agnieszka Jazwa, Urszula Florczyk, Jacek Stepniewski, Alicja Jozkowicz, Jozef Dulak</h3><div>BioTechnologia vol. 92(2) C pp. 166-179 C 2011
+1.46532">https://doi.org/10.5114/bta.2011.46532
+a>View full text</a
+23865
+Jazwa A, Florczyk U, Stepniewski J, Jozkowicz A, Dulak J. REVIEW PAPER&lt;br&gt;Therapeutic potential of heme oxygenase-1 in cardiovascular disease. BioTechnologia. 2014;92(2):166-179. doi:10.5114/bta.2011.46532
+Jazwa, A., Florczyk, U., Stepniewski, J., Jozkowicz, A., &amp; Dulak, J. (2014). REVIEW PAPER&lt;br&gt;Therapeutic potential of heme oxygenase-1 in cardiovascular disease. BioTechnologia, 92(2), 166-179. https://doi.org/10.5114/bta.2011.46532
+Jazwa, Agnieszka, Urszula Florczyk, Jacek Stepniewski, Alicja Jozkowicz, and Jozef Dulak. 2014. "REVIEW PAPER&lt;br&gt;Therapeutic potential of heme oxygenase-1 in cardiovascular disease". BioTechnologia 92 (2): 166-179. doi:10.5114/bta.2011.46532
+Jazwa, A., Florczyk, U., Stepniewski, J., Jozkowicz, A., and Dulak, J. (2014). REVIEW PAPER&lt;br&gt;Therapeutic potential of heme oxygenase-1 in cardiovascular disease. BioTechnologia, 92(2), pp.166-179. https://doi.org/10.5114/bta.2011.46532
+Jazwa, Agnieszka et al. "REVIEW PAPER&lt;br&gt;Therapeutic potential of heme oxygenase-1 in cardiovascular disease." BioTechnologia, vol. 92, no. 2, 2014, pp. 166-179. doi:10.5114/bta.2011.46532
+/div><div>Heme oxygenase-1 (HO1) degrades heme to carbon monoxide (CO), biliverdin, and ferrous iron. Through these<br><br>products, HO1 mitigates cellular injury by exerting anti-oxidant, anti-apoptotic, and anti-inflammatory effects.<br><br>Several lines of evidence indicate that angiogenic factors, such as vascular endothelial growth factor A (VEGF)<br><br>and stromal cell-derived factor 1 (SDF1), mediate their proangiogenic action in endothelial cells and endothelial<br><br>progenitor cells through induction of HO1, and reciprocally, VEGF and SDF1 are enhanced by HO1 overexpression.<br><br>Ferrous iron released during the breakdown of free heme by HO1 is an extremely pro-oxidative molecule<br><br>that can be rapidly removed by ferritin. Of note, this iron sequestering protein also has been shown to exert some<br><br>proangiogenic effects. Moreover, our recent data indicate that HO1 is an important mediator of differentiation<br><br>and function of stem cells, including endothelial and myoblasts progenitors. All of this makes HO1 a promising<br><br>target for novel cardiovascular therapies. The aim of this review is to discuss the existing knowledge and to propose<br><br>the therapeutic approaches, which have to consider the necessity of tight regulation of HO1 expression.<
+null
+keywords:</div><h3>angiogenesis, cytoprotection, heme oxygenase 1, iron, hypoxia</h3

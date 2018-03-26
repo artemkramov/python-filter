@@ -1,0 +1,6 @@
+﻿1 - March 2004
+14 - 2004
+Detection of deadlocks and traps in Petri nets by means of Thelen's prime implicant method
+Agnieszka Węgrzyn, Andrei Karatkevich, Jacek Bieganowski
+A new method of detecting deadlocks and traps in Petri nets is presented. Deadlocks and traps in Petri nets can be represented by the roots of special equations in CNF form. Such equations can be solved by using the search tree algorithm proposed by Thelen. In order to decrease the tree size and to accelerate the computations, some heuristics for Thelen's method are presented.
+Petri net, deadlock, trap, analysis, liveness

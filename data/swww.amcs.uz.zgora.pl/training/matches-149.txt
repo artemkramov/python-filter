@@ -1,0 +1,6 @@
+﻿3 - September 1998
+8 - 1998
+A stochastic criterion for the optimal investment process
+Julia Bondarenko, Peter Bidyuk
+The paper describes an approach to the construction of a criterion suitable for optimization of an investment project. An income growth resulting from realization of the investment project is considered as a time sequence of random variables. Then an expression is derived which characterizes the project cost at a sequence of time intervals it and raises a possibility to find the real income as a random variable. Two situations are considered, namely when the investor possesses complete and incomplete information about the economic situation and the corresponding incomes. The obtained results can be used to construct an investment criterion in the case of a vague economic situation.
+-

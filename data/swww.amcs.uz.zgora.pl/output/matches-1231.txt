@@ -1,0 +1,6 @@
+﻿4 - December 2004
+14 - 2004
+Stabilization of second-order systems by non-linear feedback
+Paweł Skruch
+A stabilization problem of second-order systems by non-linear feedback is considered. We discuss the case when only position feedback is available. The non-linear stabilizer is constructed by placing actuators and sensors in the same location and by using a parallel compensator. The stability of the closed-loop system is proved by LaSalle's theorem. The distinctive feature of the solution is that no transformation to a first-order system is invoked. The results of analytic and numerical computations are included to verify the theoretical analysis and the mathematical formulation.
+second-order system, stability theory, non-linear feedback

@@ -1,0 +1,6 @@
+a>View full text</a
+Walkowiak M, Mleczko A, Bąkowska-Żywicka K. Evaluation of methods for the detection of low-abundant snoRNA-derived small RNAs in &lt;i&gt;Saccharomyces cerevisiae&lt;/i&gt;. BioTechnologia. 2016;97(1):19-26. doi:10.5114/bta.2016.58540
+Walkowiak, M., Mleczko, A., &amp; Bąkowska-Żywicka, K. (2016). Evaluation of methods for the detection of low-abundant snoRNA-derived small RNAs in &lt;i&gt;Saccharomyces cerevisiae&lt;/i&gt;. BioTechnologia, 97(1), 19-26. https://doi.org/10.5114/bta.2016.58540
+Walkowiak, Mateusz, Anna M. Mleczko, and Kamilla Bąkowska-Żywicka. 2016. "Evaluation of methods for the detection of low-abundant snoRNA-derived small RNAs in &lt;i&gt;Saccharomyces cerevisiae&lt;/i&gt;". BioTechnologia 97 (1): 19-26. doi:10.5114/bta.2016.58540
+Walkowiak, M., Mleczko, A., and Bąkowska-Żywicka, K. (2016). Evaluation of methods for the detection of low-abundant snoRNA-derived small RNAs in &lt;i&gt;Saccharomyces cerevisiae&lt;/i&gt;. BioTechnologia, 97(1), pp.19-26. https://doi.org/10.5114/bta.2016.58540
+Walkowiak, Mateusz et al. "Evaluation of methods for the detection of low-abundant snoRNA-derived small RNAs in &lt;i&gt;Saccharomyces cerevisiae&lt;/i&gt;." BioTechnologia, vol. 97, no. 1, 2016, pp. 19-26. doi:10.5114/bta.2016.58540

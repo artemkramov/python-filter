@@ -1,0 +1,6 @@
+﻿2 - June 2010
+20 - 2010
+Scalable PP-1 block cipher
+Krzysztof Bucholc, Krzysztof Chmiel, Anna Grocholewska-Czuryło, Ewa Idzikowska, Izabela Janicka-Lipska, Janusz Stokłosa
+A totally involutional, highly scalable PP-1 cipher is proposed, evaluated and discussed. Having very low memory requirements and using only simple and fast arithmetic operations, the cipher is aimed at platforms with limited resources, e.g., smartcards. At the core of the cipher’s processing is a carefully designed S-box. The paper discusses in detail all aspects of PP-1 cipher design including S-box construction, permutation and round key scheduling. The quality of the PP-1 cipher is also evaluated with respect to linear cryptanalysis and other attacks. PP-1’s concurrent error detection is also discussed. Some processing speed test results are given and compared with those of other ciphers.
+symmetric cipher, scalable cipher, S-box construction, resistance against cryptanalysis, error detection</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-010-0030-6">10.2478/v10006-010-0030-6</a>

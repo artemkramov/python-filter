@@ -1,0 +1,6 @@
+﻿1 - March 2005
+15 - 2005
+Control of a team of mobile robots based on non-cooperative equilibria with partial coordination
+Krzysztof Skrzypczyk
+In this work we present an application of the concept of non-cooperative game equilibria to the design of a collision free movement of a team of mobile robots in a dynamic environment. We propose the solution to the problem of feasible control synthesis, based on a partially centralized sensory system. The control strategy based on the concept of non-cooperative game equilibria is well known in the literature. It is highly efficient through phases where the solution is unique. However, even in simple navigation problems, it happens that multiple equilibria occur, which incurs a problem for control synthesis and may lead to erroneous results. In this paper we present a solution to this problem based on the partial centralization idea. The coordinator module is incorporated into the system and becomes active when multiple equilibria are detected. The coordination method includes a "fair arbiter" for the selection of an appropriate equilibrium solution. Simulation studies of the proposed methodology were carried out for 2, 3 and 5 robots, and their results are presented.
+multi-robot systems, motion planning, game theory

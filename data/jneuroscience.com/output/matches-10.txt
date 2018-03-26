@@ -1,0 +1,13 @@
+﻿Real-Time Imaging of Accessible Axon Guidance Assays in Three-Dimensional Culture</h1
+><i>Daniel Terheyden-Keighley, Beate Brand-Saberi and Carsten Theiss</i
+null
+&nbsp;</div><div>
+</p></div><p>During the development of the peripheral nervous system, neurons rely on precise timing and extra-cellular signalling to guide their axons to exact locations. This process is most readily apparent when looking at sensory and motor neurons from in and around the spinal cord, and how they project their axons deep into the periphery. These developmental guidance systems are inactive in the adult, leaving the peripheral nervous system to rely on imprecise regeneration mechanisms to recover from injury. To study these embryonic guidance processes,<i>in vitro</i>guidance models of ever increasing complexity and cost have been devised. Here, we demonstrate three accessible, yet effective protocols for testing the effects of signalling factor gradients on embryonic chicken sensory neurons in three-dimensional culture. These range from bead-based point sources, to diffusion-based microfluidics chambers and fluorescence-based live cell imaging via spinning disc confocal microscopy. Basic research on axon guidance will be critical for exploiting their mechanisms in neuroregenerative medicine.</p><p
+&nbsp;
+January 05, 2017
+&nbsp;10.17756/jnen.2016-015
+Terheyden-Keighley D, Brand-Saberi B, Theiss C. 2017. Real-Time Imaging of Accessible Axon Guidance Assays in Three-Dimensional Culture.<em>J Neurol Exp Neurosci</em>2(2): 34-39.</p><div
+jneuroscience.com/jnen/articles/v2n2/jnen-015-carsten-theiss
+></div
+7%2F01%2F05%2Freal-time-imaging-of-accessible-axon-guidance-assays-in-three-dimensional-culture%2F&amp;linkname=Real-Time%20Imaging%20of%20Accessible%20Axon%20Guidance%20Assays%20in%20Three-Dimensional%20Culture
+/div><

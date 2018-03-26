@@ -1,0 +1,6 @@
+﻿3 - September 1993
+3 - 1993
+Diagnostic inference based on predicted effective trajectory
+Lesław Będkowski, Tadeusz Dąbrowski
+The technical and operational state of a object is characterized by so called describing quantity set. Those quantities among others are random functions' of time. Each of the describing quantities has an upper and a lower constraint. Using an object in a time interval Δ<em>T</em>guarantees the achievement of a reliable effect (product). The effect value is a random function of the initial describing quantity values, describing a quantity process of realization of changes in the Δ<em>T</em>time interval, constraint function realizations, random failure distribution and also the object operation time Δ<em>T</em>.
+-

@@ -1,0 +1,6 @@
+﻿2 - June 2013
+23 - 2013
+Linear discriminant analysis with a generalization of the Moore–Penrose pseudoinverse
+Tomasz Górecki, Maciej Łuczak
+The Linear Discriminant Analysis (LDA) technique is an important and well-developed area of classification, and to date many linear (and also nonlinear) discrimination methods have been put forward. A complication in applying LDA to real data occurs when the number of features exceeds that of observations. In this case, the covariance estimates do not have full rank, and thus cannot be inverted. There are a number of ways to deal with this problem. In this paper, we propose improving LDA in this area, and we present a new approach which uses a generalization of the Moore–Penrose pseudoinverse to remove this weakness. Our new approach, in addition to managing the problem of inverting the covariance matrix, significantly improves the quality of classification, also on data sets where we can invert the covariance matrix. Experimental results on various data sets demonstrate that our improvements to LDA are efficient and our approach outperforms LDA.
+linear discriminant analysis, Moore–Penrose pseudoinverse, machine learning</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0035">10.2478/amcs-2013-0035</a>

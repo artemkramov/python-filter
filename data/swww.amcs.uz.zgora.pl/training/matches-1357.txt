@@ -1,0 +1,6 @@
+﻿4 - December 2002
+12 - 2002
+Generating quasigroups for cryptographic applications
+Czesław Kościelny
+A method of generating a practically unlimited number of quasigroups of a (theoretically) arbitrary order using the computer algebra system Maple 7 is presented. This problem is crucial to cryptography and its solution permits to implement practical quasigroup-based endomorphic cryptosystems. The order of a quasigroup usually equals the number of characters of the alphabet used for recording both the plaintext and the ciphertext. From the practical viewpoint, the most important quasigroups are of order 256, suitable for a fast software encryption of messages written down in the universal ASCII code. That is exactly what this paper provides: fast and easy ways of generating quasigroups of order up to 256 and a little more.
+quasigroups, latin squares, stream-ciphers, cryptography

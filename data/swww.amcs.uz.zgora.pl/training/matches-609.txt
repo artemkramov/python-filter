@@ -1,0 +1,6 @@
+﻿4 - December 2014
+24 - 2014
+Further results on robust fuzzy dynamic systems with LMI<em>D</em>-stability constraints
+Wudhichai Assawinchaichote
+This paper examines the problem of designing a robust<em>H</em><sub>∞</sub>fuzzy controller with<em>D</em>-stability constraints for a class of nonlinear dynamic systems which is described by a Takagi–Sugeno (TS) fuzzy model. Fuzzy modelling is a multi-model approach in which simple sub-models are combined to determine the global behavior of the system. Based on a linear matrix inequality (LMI) approach, we develop a robust<em>H</em><sub>∞</sub>fuzzy controller that guarantees (i) the<em>L</em><sub>2</sub>-gain of the mapping from the exogenous input noise to the regulated output to be less than some prescribed value, and (ii) the closed-loop poles of each local system to be within a specified stability region. Sufficient conditions for the controller are given in terms of LMIs. Finally, to show the effectiveness of the designed approach, an example is provided to illustrate the use of the proposed methodology.
+fuzzy controller, robust<em>H</em><sub>∞</sub>control, LMI approach,<em>D</em>-stability, Takagi–Sugeno fuzzy model</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0058">10.2478/amcs-2014-0058</a>

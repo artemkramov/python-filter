@@ -1,0 +1,17 @@
+﻿2/2011
+2
+PERSPECTIVES-Hiring-cell-gatekeepers-r-n-ABC-transporters-in-plant-biotechnology,85,23860,0
+abstract:
+PERSPECTIVES<br>Hiring cell gatekeepers – ABC transporters in plant biotechnology
+h3>Andrzej Szewczak, Iwona Ziomkiewicz, Michał Jasiński</h3><div>BioTechnologia vol. 92(2) C pp. 132-139 C 2011
+1.46526">https://doi.org/10.5114/bta.2011.46526
+a>View full text</a
+23860
+Szewczak A, Ziomkiewicz I, Jasiński M. PERSPECTIVES&lt;br&gt;Hiring cell gatekeepers – ABC transporters in plant biotechnology. BioTechnologia. 2014;92(2):132-139. doi:10.5114/bta.2011.46526
+Szewczak, A., Ziomkiewicz, I., &amp; Jasiński, M. (2014). PERSPECTIVES&lt;br&gt;Hiring cell gatekeepers – ABC transporters in plant biotechnology. BioTechnologia, 92(2), 132-139. https://doi.org/10.5114/bta.2011.46526
+Szewczak, Andrzej, Iwona Ziomkiewicz, and Michał Jasiński. 2014. "PERSPECTIVES&lt;br&gt;Hiring cell gatekeepers – ABC transporters in plant biotechnology". BioTechnologia 92 (2): 132-139. doi:10.5114/bta.2011.46526
+Szewczak, A., Ziomkiewicz, I., and Jasiński, M. (2014). PERSPECTIVES&lt;br&gt;Hiring cell gatekeepers – ABC transporters in plant biotechnology. BioTechnologia, 92(2), pp.132-139. https://doi.org/10.5114/bta.2011.46526
+Szewczak, Andrzej et al. "PERSPECTIVES&lt;br&gt;Hiring cell gatekeepers – ABC transporters in plant biotechnology." BioTechnologia, vol. 92, no. 2, 2014, pp. 132-139. doi:10.5114/bta.2011.46526
+/div><div>In order to survive in the environment, a cell has to be able to maintain a constant influx of chemical substances<br><br>which provide nourishment, it also has to dispose of endogenous or exogenous toxins as well as must perceive<br><br>and exchange signalling molecules. Such movement needs to be selective and organised. This prerequisite is realised<br><br>by an array of membrane transporters, channels, carriers and pumps. ATP-binding cassette (ABC) transporters<br><br>constitute the largest family of membrane transport proteins found in all organisms in every life domain.<br><br>Researches in recent years have shown recognition of the role that plant ABC transporters play in hormone<br><br>signalling, heavy metal tolerance, as well as natural product trafficking. In this review article we present plant<br><br>ABC transporters, their characteristic modular structure and importance in plant physiology. We also point out<br><br>the recent discoveries that describe their role in drought tolerance by modulation of abscisic acid traffic, and their<br><br>involvement in subcellular compartmentation of exogenous toxic compounds and/or natural products. Alongside<br><br>the gradually increasing number of results in fundamental research, plant ABC transporters begin to emerge as<br><br>novel targets for applied science. We present an outline of the work and ideas that may link genetic engineering<br><br>of ABC transporters with plant biotechnology. A particular attention is paid to the possibility of alleviating the<br><br>heavy metal stress and the production of secondary metabolites.<
+null
+keywords:</div><h3>ABC transporters, plant biotechnology, membrane transport, phytoremediation, secondary metabolites, drought resistance</h3

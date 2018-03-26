@@ -1,0 +1,16 @@
+﻿1/2013
+4
+Structural-enzymology-at-the-legume-microbe-interface-r-nS-adenosyl-L-homocysteine-hydrolase-of-rhizobia,85,23826,0
+abstract:</div><div>Short communication
+Structural enzymology at the legume-microbe interface: S-adenosyl-L-homocysteine hydrolase of rhizobia
+h3>Tomasz Manszewski, Kriti Singh, Barbara Imiolczyk, Mariusz Jaskolski</h3><div>BioTechnologia vol. 94(1) C pp. 38-39 C 2013
+3.46434">https://doi.org/10.5114/bta.2013.46434
+a>View full text</a
+23826
+Manszewski T, Singh K, Imiolczyk B, Jaskolski M. Structural enzymology at the legume-microbe interface: S-adenosyl-L-homocysteine hydrolase of rhizobia. BioTechnologia. 2014;94(1):38-39. doi:10.5114/bta.2013.46434
+Manszewski, T., Singh, K., Imiolczyk, B., &amp; Jaskolski, M. (2014). Structural enzymology at the legume-microbe interface: S-adenosyl-L-homocysteine hydrolase of rhizobia. BioTechnologia, 94(1), 38-39. https://doi.org/10.5114/bta.2013.46434
+Manszewski, Tomasz, Kriti Singh, Barbara Imiolczyk, and Mariusz Jaskolski. 2014. "Structural enzymology at the legume-microbe interface: S-adenosyl-L-homocysteine hydrolase of rhizobia". BioTechnologia 94 (1): 38-39. doi:10.5114/bta.2013.46434
+Manszewski, T., Singh, K., Imiolczyk, B., and Jaskolski, M. (2014). Structural enzymology at the legume-microbe interface: S-adenosyl-L-homocysteine hydrolase of rhizobia. BioTechnologia, 94(1), pp.38-39. https://doi.org/10.5114/bta.2013.46434
+Manszewski, Tomasz et al. "Structural enzymology at the legume-microbe interface: S-adenosyl-L-homocysteine hydrolase of rhizobia." BioTechnologia, vol. 94, no. 1, 2014, pp. 38-39. doi:10.5114/bta.2013.46434
+null
+S-adenosyl-L-methionine (SAM) is the most common substrate used in biological methylation reactions. During<br><br>methyl group transfer, S-adenosyl-L-homocysteine (SAH) is formed as a byproduct. Since SAH is a strong inhibitor<br><br>of the ubiquitous SAM dependent methylation reactions, removal of SAH by enzymatic hydrolysis serves as an<br><br>important mechanism in the control of cellular methylation processes.</div

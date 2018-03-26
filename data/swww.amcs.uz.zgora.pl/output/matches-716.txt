@@ -1,0 +1,6 @@
+﻿2 - June 2012
+22 - 2012
+Infinite-dimensional Sylvester equations: Basic theory and application to observer design
+Zbigniew Emirsajłow
+This paper develops a mathematical framework for the infinite-dimensional Sylvester equation both in the differential and the algebraic form. It uses the implemented semigroup concept as the main mathematical tool. This concept may be found in the literature on evolution equations occurring in mathematics and physics and is rather unknown in systems and control theories. But it is just systems and control theory where Sylvester equations widely appear, and for this reason we intend to give a mathematically rigorous introduction to the subject which is tailored to researchers and postgraduate students working on systems and control. This goal motivates the assumptions under which the results are developed. As an important example of applications we study the problem of designing an asymptotic state observer for a linear infinite- dimensional control system with a bounded input operator and an unbounded output operator.
+infinite-dimensional Sylvester equation, implemented semigroup, state observer design</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0018-5">10.2478/v10006-012-0018-5</a>

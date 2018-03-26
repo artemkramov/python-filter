@@ -1,0 +1,6 @@
+﻿1 - March 1999
+9 - 1999
+Adaptive predictive control of a distillation column
+Tae-Woong Yoon, Dae Ryook Yang, Kwang Soon Lee, Young-Min Kwon
+Distillation processes reveal complicated multivariable nonlinear dynamics for which it is difficult to design a high-performance control system. This paper proposes an adaptive control scheme for a distillation column. The proposed adaptive system consists of a multi variable receding-horizon predictive controller using a transfer function model and a recursive least-squares (RLS) based estimator. Simulations show a consistent closed-loop performance despite the uncertain nonlinear characteristics of the distillation column.
+adaptive control, multivariable predictive controller, distillation column

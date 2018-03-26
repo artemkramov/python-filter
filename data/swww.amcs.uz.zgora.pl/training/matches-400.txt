@@ -1,0 +1,6 @@
+﻿2 - June 1993
+3 - 1993
+Space-time finite element formulation for the dynamic evolutionary process
+Czesław Bajer
+In the paper a new formula for the space time finite element approach to dynamic solution of solid is developed. One degree of freedom system was analysed to find an unconditionally stable scheme of integration. Relations are expressed in terms of velocity. The geometry of the domain analysed is updated in every time step. The procedure can be efficient for geometrically non linear problems of mechanics of continuum.
+-

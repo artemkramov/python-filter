@@ -1,0 +1,17 @@
+﻿1/2016
+7
+Evaluation-of-methods-for-the-detection-of-low-abundant-snoRNA-derived-small-RNAs-in-Saccharomyces-cerevisiae-,85,27116,0
+abstract:</div><div>RESEARCH PAPERS
+Evaluation of methods for the detection of low-abundant snoRNA-derived small RNAs in<i>Saccharomyces cerevisiae</i>
+h3>Mateusz Walkowiak, Anna M. Mleczko, Kamilla Bąkowska-Żywicka</h3><div>BioTechnologia vol. 97(1) C pp. 19-26 C 2016
+6.58540">https://doi.org/10.5114/bta.2016.58540
+a>View full text</a
+27116
+Walkowiak M, Mleczko A, Bąkowska-Żywicka K. Evaluation of methods for the detection of low-abundant snoRNA-derived small RNAs in &lt;i&gt;Saccharomyces cerevisiae&lt;/i&gt;. BioTechnologia. 2016;97(1):19-26. doi:10.5114/bta.2016.58540
+Walkowiak, M., Mleczko, A., &amp; Bąkowska-Żywicka, K. (2016). Evaluation of methods for the detection of low-abundant snoRNA-derived small RNAs in &lt;i&gt;Saccharomyces cerevisiae&lt;/i&gt;. BioTechnologia, 97(1), 19-26. https://doi.org/10.5114/bta.2016.58540
+Walkowiak, Mateusz, Anna M. Mleczko, and Kamilla Bąkowska-Żywicka. 2016. "Evaluation of methods for the detection of low-abundant snoRNA-derived small RNAs in &lt;i&gt;Saccharomyces cerevisiae&lt;/i&gt;". BioTechnologia 97 (1): 19-26. doi:10.5114/bta.2016.58540
+Walkowiak, M., Mleczko, A., and Bąkowska-Żywicka, K. (2016). Evaluation of methods for the detection of low-abundant snoRNA-derived small RNAs in &lt;i&gt;Saccharomyces cerevisiae&lt;/i&gt;. BioTechnologia, 97(1), pp.19-26. https://doi.org/10.5114/bta.2016.58540
+Walkowiak, Mateusz et al. "Evaluation of methods for the detection of low-abundant snoRNA-derived small RNAs in &lt;i&gt;Saccharomyces cerevisiae&lt;/i&gt;." BioTechnologia, vol. 97, no. 1, 2016, pp. 19-26. doi:10.5114/bta.2016.58540
+/div><div>In recent years, there are a growing number of studies demonstrating the existence of small RNAs derived from snoRNAs (sdRNAs) in multiple eukaryotic organisms. Such RNAs have been initially observed in high throughput sequencing studies and assumed to be processed by miRNA machinery. Recently, we have identified sdRNAs that are associated with ribosomes in yeast<i>Saccharomyces cerevisiae</i>. Although sdRNAs were detectable in sequencing data, their low abundance hampered their detection by other methods. Here, we present the results of our survey for optimized experimental method for sdRNA detection. We have compared two extraction procedures of total RNA from S. cerevisiae : MasterPureTM kit and Trizol with two methods resulting in enrichment in small RNA fraction and MasterPureTM with selective isopropanol precipitation and bulk tRNA isolation methods. Also the sensitivity of three methods for sdRNA detection was verified: a northern blot using standard or LNA probes and stem-loop reverse transcription followed by PCR (SL-RT-PCR). Our results reveal that Trizol isolation method combined with SL-RT-PCR is the most effective in the detection of low-abundant sdRNAs.<
+null
+keywords:</div><h3>snoRNA, sdRNA, small RNA, ribosome-associated RNA, rancRNA,<i>Saccharomyces cerevisiae</i></h3

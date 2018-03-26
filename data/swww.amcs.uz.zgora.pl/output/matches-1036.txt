@@ -1,0 +1,6 @@
+﻿1 - March 2007
+17 - 2007
+Computation of realizations composed of dynamic and static parts of improper transfer matrices
+Tadeusz Kaczorek
+The problem of computing minimal realizations of a singular system decomposed into a standard dynamical system and a static system of a given improper transfer matrix is formulated and solved. A new notion of the minimal dynamical-static realization is introduced. It is shown that there always exists a minimal dynamical-static realization of a given improper transfer matrix. A procedure for the computation of a minimal dynamical-static realization for a given improper transfer matrix is proposed and illustrated by a numerical example.
+minimal realization, decomposition, improper transfer matrix, singular linear system</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0003-6">10.2478/v10006-007-0003-6</a>

@@ -1,0 +1,6 @@
+﻿3 - September 2007
+17 - 2007
+Genuinely multi-dimensional non-dissipative finite-volume schemes for transport
+Bruno Després, Frédéric Lagoutière
+We develop a new multidimensional finite-volume algorithm for transport equations. This algorithm is both stable and non-dissipative. It is based on a reconstruction of the discrete solution inside each cell at every time step. The proposed reconstruction, which is genuinely multidimensional, allows recovering sharp profiles in both the direction of the transport velocity and the transverse direction. It constitutes an extension of the one-dimensional reconstructions analyzed in (Lagoutière, 2005; Lagoutière, 2006).
+multidimensional transport, finite-volume schemes, anti-dissipative schemes, triangular grids</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0026-z">10.2478/v10006-007-0026-z</a>

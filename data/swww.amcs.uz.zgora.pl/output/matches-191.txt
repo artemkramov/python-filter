@@ -1,0 +1,6 @@
+﻿2 - June 1997
+7 - 1997
+Time-optimal control of redundant manipulators
+Mirosław Galicki, Grzegorz Pająk, Iwona Pająk
+A method of finding optimal controls for both non-redundant and redundant manipulators is considered. It is based on a strict convexifying of the original control set with any desired accuracy in the Hausdorff sense. The optimal controls thus obtained are shown to converge (weakly) to a bang-bang solution. Furthermore, this method produces also controls which may be directly used to provide nominal inputs in on-line manipulator control. A simple numerical example involving a three-degree-of-freedom revolute kinematically redundant manipulator is presented
+-

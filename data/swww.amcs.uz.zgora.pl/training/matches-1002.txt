@@ -1,0 +1,6 @@
+﻿3 - September 2008
+18 - 2008
+Behavioral systems theory: A survey
+Eva Zerz
+We survey the so-called behavioral approach to systems and control theory, which was founded by J. C. Willems and his school. The central idea of behavioral systems theory is to put the focus on the set of trajectories of a dynamical system rather than on a specific set of equations modelling the underlying phenomenon. Moreover, all signal components are treated on an equal footing at first, and their partition into inputs and outputs is derived from the system law, in a way that admits several valid cause-effect interpretations, in general.
+linear systems, behavioral approach</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0024-9">10.2478/v10006-008-0024-9</a>

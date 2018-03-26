@@ -1,0 +1,6 @@
+﻿3 - September 1993
+3 - 1993
+Recognition of faults in the diagnosing process
+Jan M. Kościelny
+The paper presents a general diagram of a supervisory system realizing functions of diagnosing and protection of an object. The formalized description of the object and the diagnosing process have also been given, assuming two-stage interpretation of diagnostic test results (residual values). Quotient sets have been applied for analysis of differentiation of faults and differentiation of the object states. Measures of diagnosing quality and an example of their calculation have been given. Also practical diagnosing problems have been formulated.
+-

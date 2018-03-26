@@ -1,0 +1,6 @@
+﻿1 - March 2005
+15 - 2005
+The UD RLS algorithm for training feedforward neural networks
+Jarosław Bilski
+A new algorithm for training feedforward multilayer neural networks is proposed. It is based on recursive least squares procedures and U-D factorization, which is a well-known technique in filter theory. It will be shown that due to the U-D factorization method, our algorithm requires fewer computations than the classical RLS applied to feedforward multilayer neural network training.
+neural networks, learning algorithms, recursive least squares method, UD factorization

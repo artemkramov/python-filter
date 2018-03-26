@@ -1,0 +1,14 @@
+﻿High-and-medium-speed-marine-diesel-engines-injection-installation-vibration-diagnostics,73793
+2-2017,2313">2/2017 vol. 18
+Research-of-thermal-processes-in-industrial-premises-with-energy-saving-technologies,70607,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/Elastic-wave-propagation-in-diagnostics-of-self-drilling-system-of-grouted-anchors,71559,0,2.html" title="PREVIOUS
+High and medium speed marine diesel engines injection installation vibration diagnostics
+Marcin-Kluczyk/59685">Marcin Kluczyk</a></span><sup>1</sup>&nbsp;&nbsp;<a href="mailto:m.kluczyk@amw.gdynia.pl"><div></div></a>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Andrzej-Grządziela/59686">Andrzej Grządziela
+null
+a.grzadziela@amw.gdynia.pl
+Akademia Marynarki Wojennej
+Publish date: 2017-06-21</div><div>Submission date: 2017-03-09</div><div>Final revision date: 2017-03-20</div><div>Acceptance date: 2017-05-15
+7;18(2):37–42
+73793-17656?filename=High and medium speed
+reciprocating+engines/108069">reciprocating engines<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-marine+engines/108070">marine engines<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-injection+installation/108071">injection installation
+vibration+diagnostics/108072">vibration diagnostics</a><div>&nbsp;</div></div><div>TOPICS:</div><div><a href="http://www.diagnostyka.net.pl/Topic-Signal+analysis/3949">Signal analysis<div></div></a><a href="http://www.diagnostyka.net.pl/Topic-Diagnosis+vehicle/3946">Diagnosis vehicle<div></div></a><a href="http://www.diagnostyka.net.pl/Topic-Technical+diagnostics/3947">Technical diagnostics<div></div></a><a href="http://www.diagnostyka.net.pl/Topic-Diagnostic+systems/3943">Diagnostic systems
+In recent years, diagnostics of marine reciprocating engines devote more and more attention. In principle, all methods for the diagnostics of marine engines can be divided into based on the measurement of work parameters (mostly changes in internal cylinder pressure), and measuring the residual energy. For this study the authors focused on the measurement of vibration parameters and their analyzes. Acceleration of vibration measurements was carried out on the engine head. During the tests, fatigues to the injection installation were simulated, it had affected to the value and the course of the gas pressure inside the cylinders. The results of research proving the usefulness of the proposed method.</div><div>CORRESPONDING AUTHOR:</div><a href="http://www.diagnostyka.net.pl/Author-Marcin-Kluczyk/59685">Marcin Kluczyk</a>&nbsp;&nbsp;<a href="mailto:m.kluczyk@amw.gdynia.pl"><div></div></a><div>Akademia Marynarki Wojennej, ul. Śmidowicza 69, 81-127 Gdynia, Polska

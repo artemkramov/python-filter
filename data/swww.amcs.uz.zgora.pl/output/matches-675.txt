@@ -1,0 +1,6 @@
+﻿3 - September 2013
+23 - 2013
+Parametric logarithmic type image processing for contrast based auto-focus in extreme lighting conditions
+Corneliu Florea, Laura Florea
+While most of state-of-the-art image processing techniques were built under the so-called classical linear image processing, an alternative that presents superior behavior for specific applications comes in the form of Logarithmic Type Image Processing (LTIP). This refers to mathematical models constructed for the representation and processing of gray tones images. In this paper we describe a general mathematical framework that allows extensions of these models by various means while preserving their mathematical properties. We propose a parametric extension of LTIP models and discuss its similarities with the human visual system. The usability of the proposed extension model is verified for an application of contrast based auto-focus in extreme lighting conditions. The closing property of the named models facilitates superior behavior when compared with state-of-the-art methods.
+logarithmic image processing, digital camera, auto-focus</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0048">10.2478/amcs-2013-0048</a>

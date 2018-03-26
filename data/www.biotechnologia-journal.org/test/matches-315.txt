@@ -1,0 +1,17 @@
+﻿1/2012
+3
+RESEARCH-PAPER-Homology-modeling-deduced-tridimensional-structure-r-nof-Bacillus-thuringiensis-Cry1Ab18-toxin,85,23894,0
+abstract:
+RESEARCH PAPER<br>Homology modeling deduced tridimensional structure of<i>Bacillus thuringiensis</i>Cry1Ab18 toxin
+h3>Sudhanshu Kashyap, Brahma Dev Singh, Devindra Vijay Amla</h3><div>BioTechnologia vol. 93(1) C pp. 48-58 C 2012
+2.46568">https://doi.org/10.5114/bta.2012.46568
+a>View full text</a
+23894
+Kashyap S, Singh B, Amla D. RESEARCH PAPER&lt;br&gt;Homology modeling deduced tridimensional structure of &lt;i&gt;Bacillus thuringiensis&lt;/i&gt; Cry1Ab18 toxin. BioTechnologia. 2014;93(1):48-58. doi:10.5114/bta.2012.46568
+Kashyap, S., Singh, B., &amp; Amla, D. (2014). RESEARCH PAPER&lt;br&gt;Homology modeling deduced tridimensional structure of &lt;i&gt;Bacillus thuringiensis&lt;/i&gt; Cry1Ab18 toxin. BioTechnologia, 93(1), 48-58. https://doi.org/10.5114/bta.2012.46568
+Kashyap, Sudhanshu, Brahma Dev Singh, and Devindra Vijay Amla. 2014. "RESEARCH PAPER&lt;br&gt;Homology modeling deduced tridimensional structure of &lt;i&gt;Bacillus thuringiensis&lt;/i&gt; Cry1Ab18 toxin". BioTechnologia 93 (1): 48-58. doi:10.5114/bta.2012.46568
+Kashyap, S., Singh, B., and Amla, D. (2014). RESEARCH PAPER&lt;br&gt;Homology modeling deduced tridimensional structure of &lt;i&gt;Bacillus thuringiensis&lt;/i&gt; Cry1Ab18 toxin. BioTechnologia, 93(1), pp.48-58. https://doi.org/10.5114/bta.2012.46568
+Kashyap, Sudhanshu et al. "RESEARCH PAPER&lt;br&gt;Homology modeling deduced tridimensional structure of &lt;i&gt;Bacillus thuringiensis&lt;/i&gt; Cry1Ab18 toxin." BioTechnologia, vol. 93, no. 1, 2014, pp. 48-58. doi:10.5114/bta.2012.46568
+/div><div>Cry1Ab18 is an δ-endotoxin produced by<i>Bacillus thuringiensis</i>strain. Till date the detailed mechanism of this<br><br>toxin action is unclear. Therefore, solution of the three-dimensional structure of all Cry1 family members would<br><br>be desirable for a comprehensive understanding of the initial mechanisms that underlie the toxicity of this type<br><br>of toxin. Here, we predict a theoretical structural model of the newly reported Cry1Ab18 δ-endotoxin, using<br><br>a homology modeling technique with the structure of Cry1Aa toxin molecule (resolution 2.25Å). Cry1Ab18 resembles<br><br>Cry1Aa toxin by sharing a common three-domain structure. Domain I is composed of nine α helixes and<br><br>one small β strand, domain II is composed of nine β strands and two α helixes and domain III consists of two<br><br>α helixes and eleven β strands. This model supports the existing hypotheses of receptor insertion and will further<br><br>provide the initiation point for the domain swapping experiments aimed towards improving protein toxicity, and<br><br>will help in the deeper understanding of the mechanism of action of common toxins.<
+null
+keywords:</div><h3>three-dimensional structure, homology modeling, Cry1Ab18, δ-endotoxin,<i>Bacillus thuringiensis</i>, 3-D model, MODELLER, predictive model, third party annotation</h3

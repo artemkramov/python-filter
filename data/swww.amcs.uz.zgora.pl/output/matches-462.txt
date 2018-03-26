@@ -1,0 +1,6 @@
+﻿1 - December 1991
+1 - 1991
+Real-time synchronization mechanizm for complex concurrently competing processes coordination
+Zbigniew Banaszak, Bruce H. Krogh
+This paper presents a new approach to automated development of control software for concurrency control of discrete event systems as well as to the synthesis of computer-aided tools for production real-time management. A new modelling technique for complex concurrently competing processes description is introduced, then, sufficient conditions for deadlocks avoidance are presented. The processes considered consist of partially ordered elementary, i.e. sequential and pipeline-like flowing, production processes which share a set of resources in a production system. The results obtained allow one to design the real-time concurrency control programs of guaranteed correctness, i.e. the programs which guarantee absence of deadlocks, overflows and starvation during the competing processes interactions.
+-

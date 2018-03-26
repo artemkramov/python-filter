@@ -1,0 +1,6 @@
+﻿4 - December 2010
+20 - 2010
+Markov chain model of phytoplankton dynamics
+Radosław Wieczorek
+A discrete-time stochastic spatial model of plankton dynamics is given. We focus on aggregative behaviour of plankton cells. Our aim is to show the convergence of a microscopic, stochastic model to a macroscopic one, given by an evolution equation. Some numerical simulations are also presented.
+phytoplankton dynamics, coagulation, fragmentation, Markov chain</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-010-0058-7">10.2478/v10006-010-0058-7</a>

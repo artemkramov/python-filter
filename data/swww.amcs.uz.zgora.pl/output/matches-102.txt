@@ -1,0 +1,6 @@
+﻿3 - September 1999
+9 - 1999
+Parameter estimation based fault detection and isolation in Wiener and Hammerstein systems
+Andrzej Janczak
+Fault detection and isolation in Wiener and Hammerstein systems via generation and processing of residual sequences is considered. We assume that some models of the unfaulty Wiener and Hammerstein systems under consideration are known. For Wiener systems, we also assume that their static nonlinear subsystems are invertible. Then, based on a serial-parallel definition of the residual error, new fault detection and isolation methods are proposed. To detect and identify all the changes in both the Wiener and Hammerstein system parameters, the sequences of residuals are processed by using linear regression methods or a neural network approach.
+fault detection, fault isolation, parameter estimation, neural networks, nonlinear systems

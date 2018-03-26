@@ -1,0 +1,6 @@
+﻿1 - March 2013
+23 - 2013
+Stability of softly switched multiregional dynamic output controllers with a static antiwindup filter: A discrete-time case
+Tomasz Zubowicz, Mietek A. Brdyś
+This paper addresses the problem of model-based global stability analysis of discrete-time Takagi–Sugeno multiregional dynamic output controllers with static antiwindup filters. The presented analyses are reduced to the problem of a feasibility study of the Linear Matrix Inequalities (LMIs), derived based on Lyapunov stability theory. Two sets of LMIs are considered candidate derived from the classical common quadratic Lyapunov function, which may in some cases be too conservative, and a fuzzy Lyapunov function candidate, which has been proven to significantly reduce the conservatism level, although at the cost of increasing the number of LMIs. Two numerical examples illustrate the main result.
+Lyapunov, stability analysis, fuzzy control, antiwindup</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0006">10.2478/amcs-2013-0006</a>

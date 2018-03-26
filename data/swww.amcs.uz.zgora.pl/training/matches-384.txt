@@ -1,0 +1,6 @@
+﻿1 - March 1993
+3 - 1993
+Programmable logic devices in teaching
+David Milford
+The use of programmable logic devices in teaching digital electronics allows many worthwhile educational objectives to be achieved. The diversity and low cost of these devices makes them an ideal target for' the implementation of small and medium scale digital systems.
+-

@@ -1,0 +1,6 @@
+﻿2 - June 2003
+13 - 2003
+Approximation of the Zakai equation in a nonlinear filtering problem with delay
+Krystyna Twardowska, Tomasz Marnik, Monika Pasławska-Południak
+A nonlinear filtering problem with delays in the state and observation equations is considered. The unnormalized conditional probability density of the filtered diffusion process satisfies the so-called Zakai equation and solves the nonlinear filtering problem. We examine the solution of the Zakai equation using an approximation result. Our theoretical deliberations are illustrated by a numerical example.
+nonlinear filtering, stochastic differential equations with delay, Zakai's equation

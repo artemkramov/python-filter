@@ -1,0 +1,6 @@
+﻿4 - December 2014
+24 - 2014
+On infinite horizon active fault diagnosis for a class of non-linear non-Gaussian systems
+Ivo Punčochář, Miroslav Šimandl
+The paper considers the problem of active fault diagnosis for discrete-time stochastic systems over an infinite time horizon. It is assumed that the switching between a fault-free and finitely many faulty conditions can be modelled by a finite-state Markov chain and the continuous dynamics of the observed system can be described for the fault-free and each faulty condition by non-linear non-Gaussian models with a fully observed continuous state. The design of an optimal active fault detector that generates decisions and inputs improving the quality of detection is formulated as a dynamic optimization problem. As the optimal solution obtained by dynamic programming requires solving the Bellman functional equation, approximate techniques are employed to obtain a suboptimal active fault detector.
+active fault detection, non-linear stochastic systems, optimal input design, dynamic programming</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0059">10.2478/amcs-2014-0059</a>

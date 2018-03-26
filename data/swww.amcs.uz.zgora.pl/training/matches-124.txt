@@ -1,0 +1,6 @@
+﻿2 - June 2016
+26 - 2016
+A comprehensive survey on formal concept analysis, its research trends and applications
+Prem Kumar Singh, Cherukuri Aswani Kumar, Abdullah Gani
+In recent years, FCA has received significant attention from research communities of various fields. Further, the theory of FCA is being extended into different frontiers and augmented with other knowledge representation frameworks. In this backdrop, this paper aims to provide an understanding of the necessary mathematical background for each extension of FCA like FCA with granular computing, a fuzzy setting, interval-valued, possibility theory, triadic, factor concepts and handling incomplete data. Subsequently, the paper illustrates emerging trends for each extension with applications. To this end, we summarize more than 350 recent (published after 2011) research papers indexed in Google Scholar, IEEE Xplore, ScienceDirect, Scopus, SpringerLink, and a few authoritative fundamental papers
+concept lattice, formal concept analysis, formal concept, formal context, Galois connection</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0035">10.1515/amcs-2016-0035</a>

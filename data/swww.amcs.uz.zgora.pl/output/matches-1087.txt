@@ -1,0 +1,6 @@
+﻿1 - March 2006
+16 - 2006
+On fuzzy number calculus
+Witold Kosiński
+<em>In memory of the late Professor Ernest Czogała.</em><br>Some generalizations of the concept of ordered fuzzy numbers (OFN) are defined to handle fuzzy inputs in a quantitative way, exactly as real numbers are handled. Additional two structures, an algebraic one and a normed (topological) one, are introduced to allow for counting with a more general type of membership relations.
+fuzzy numbers, bounded variation

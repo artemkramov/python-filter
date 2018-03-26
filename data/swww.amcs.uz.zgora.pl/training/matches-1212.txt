@@ -1,0 +1,6 @@
+﻿2 - June 2004
+14 - 2004
+Powerful nonlinear observer associated with field-oriented control of an induction motor
+Abdellah Mansouri, Mohammed Chenafa, Abderrahmane Bouhenna, Eric Etien
+In this paper, we associate field-oriented control with a powerful nonlinear robust flux observer for an induction motor to show the improvement made by this observer compared with the open-loop and classical estimator used in this type of control. We implement this design strategy through an extension of a special class of nonlinear multivariable systems satisfying some regularity assumptions. We show by an extensive study that this observer is completely satisfactory at low and nominal speeds and it is not sensitive to disturbances and parametric errors. It is robust to changes in load torque, rotational speed and rotor resistance. The method achieves a good performance with only one easier gain tuning obtained from an algebraic Lyapunov equation. Finally, we present results and simulations with concluding remarks on the advantages and perspectives for the observer proposed with the field-oriented control.
+induction motor, field-oriented control, nonlinear observer, rotor resistance

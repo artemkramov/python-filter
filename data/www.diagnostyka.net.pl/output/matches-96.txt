@@ -1,0 +1,14 @@
+﻿Non-destructive-testing-of-adhesive-bonded-structures,70608
+2-2017,2313">2/2017 vol. 18
+Diagnostics-of-potential-incompatibilities-in-aeronautical-data-and-information-chain,73792,0,2.html" title="PREVIOUS
+Non-destructive testing of adhesive bonded structures
+Michał-Kurpiński/53799">Michał Kurpiński</a></span><sup>1</sup>&nbsp;&nbsp;<a href="mailto:michal.kurpinski@polsl.pl"><div></div></a>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Marek-Fidali/53800">Marek Fidali
+null
+marek.fidali@polsl.pl
+Politechnika Śląska, Wydział Mechaniczny Technologiczny, instytut Podstaw Konstrukcji Maszyn
+Publish date: 2017-06-21</div><div>Submission date: 2017-02-07</div><div>Final revision date: 2017-04-03</div><div>Acceptance date: 2017-04-20
+7;18(2):95–103
+70608-17742?filename=Non-destructive testing
+NDT+methods/104918">NDT methods<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-adhesive+bonded+joints/104919">adhesive bonded joints<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-active+thermography/104920">active thermography
+EMAT/104921">EMAT</a><div>&nbsp;</div></div><div>TOPICS:</div><div><a href="http://www.diagnostyka.net.pl/Topic-Signal+analysis/3949">Signal analysis<div></div></a><a href="http://www.diagnostyka.net.pl/Topic-Technical+diagnostics/3947">Technical diagnostics
+Adhesive bonded joints are one of the most popular type of joints in production process of a modern cars [1, 2, 3]. Main reason of that fact came from its uncommonly good ownerships i.e. durability, visual and economical properties [1, 2]. However, during production process some defects can occur. There are many NDT methods (non-destructive tests) which allow to detect different defects of adhesive joints and finally increase quality of production process as well as produced part. In the first part of the article an review of the most valuable, NDT methods was presented, especially from application to automated testing of automotive parts point of view. In the second part the two contactless NDT methods (EMAT and active thermography) were tested as well as an obtained results compared on the basis of preliminary laboratory tests. The aim of the research was to pointed out the most suitable method for industrial application.</div><div>CORRESPONDING AUTHOR:</div><a href="http://www.diagnostyka.net.pl/Author-Michał-Kurpiński/53799">Michał Kurpiński</a>&nbsp;&nbsp;<a href="mailto:michal.kurpinski@polsl.pl"><div></div></a><div>Politechnika Śląska, Wydział Mechaniczny Technologiczny, instytut Podstaw Konstrukcji Maszyn, ul. Konarskiego 18a, 44-100 Gliwice, Polska

@@ -1,0 +1,17 @@
+﻿1/2012
+3
+RESEARCH-PAPER-Neopterin-in-patients-with-chronic-kidney-disease-r-nand-patients-with-coronary-artery-disease,85,23895,0
+abstract:
+RESEARCH PAPER<br>Neopterin in patients with chronic kidney disease and patients with coronary artery disease
+h3>Dorota Formanowicz</h3><div>BioTechnologia vol. 93(1) C pp. 59-67 C 2012
+2.46569">https://doi.org/10.5114/bta.2012.46569
+a>View full text</a
+23895
+Formanowicz D. RESEARCH PAPER&lt;br&gt;Neopterin in patients with chronic kidney disease and patients with coronary artery disease. BioTechnologia. 2014;93(1):59-67. doi:10.5114/bta.2012.46569
+Formanowicz, D. (2014). RESEARCH PAPER&lt;br&gt;Neopterin in patients with chronic kidney disease and patients with coronary artery disease. BioTechnologia, 93(1), 59-67. https://doi.org/10.5114/bta.2012.46569
+Formanowicz, Dorota. 2014. "RESEARCH PAPER&lt;br&gt;Neopterin in patients with chronic kidney disease and patients with coronary artery disease". BioTechnologia 93 (1): 59-67. doi:10.5114/bta.2012.46569
+Formanowicz, D. (2014). RESEARCH PAPER&lt;br&gt;Neopterin in patients with chronic kidney disease and patients with coronary artery disease. BioTechnologia, 93(1), pp.59-67. https://doi.org/10.5114/bta.2012.46569
+Formanowicz, Dorota. "RESEARCH PAPER&lt;br&gt;Neopterin in patients with chronic kidney disease and patients with coronary artery disease." BioTechnologia, vol. 93, no. 1, 2014, pp. 59-67. doi:10.5114/bta.2012.46569
+/div><div>Neopterin, a marker of stimulated cellular immune response, levels increase during many disorders. A number<br><br>of different features of neopterin prompted us to study its serum concentration in patients with all stages of chronic<br><br>kidney disease (CKD) and patients with coronary artery disease (CARD). To the best of our knowledge this<br><br>is the first study that evaluates and compares the serum neopterin concentration in those diseases taken together<br><br>as one study. One hundred and twenty five subjects, divided into five groups, were included in the study. The first<br><br>three groups consisted of patients with different stages of CKD. CARD patients without CKD and healthy volunteers<br><br>as controls were also studied. Serum neopterin concentration was measured by an enzyme-linked immunosorbent<br><br>assay (ELISA, BRAHMS, Hennigsdorf/Berlin, Germany) according to the manufacturers’ instructions.<br><br>We have found that patients with the most advanced stage of CKD had fifteen times higher serum neopterin than<br><br>patients from other studied groups. Interestingly, in the CKD1-2, CKD3-4 and CARD patients without CKD, serum<br><br>neopterin concentrations were similar to those obtained from healthy volunteers. Serum urea and serum ferritin<br><br>appeared to be significant independent predictors of serum neopterin concentration after adjustment for urea,<br><br>CA-IMT, peripheral systolic blood pressure, ferritin, hsCRP, HD vintage, BMI and eGFR, explaining 95.89% of<br><br>serum neopterin variations. In conclusion, it seems that despite the existence of many factors that may influence<br><br>serum neopterin, those derived from impaired renal function and immunological disturbances coming from<br><br>hemodialysis treatment are crucial. In this study, we observed that the more impaired the renal function, higher<br><br>is the increase in serum neopterin concentration.<
+null
+keywords:</div><h3>neopterin, atherosclerosis, chronic kidney disease, immunological disturbances, inflammatory process</h3

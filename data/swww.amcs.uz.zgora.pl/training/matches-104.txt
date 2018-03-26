@@ -1,0 +1,6 @@
+﻿4 - December 1999
+9 - 1999
+Regional gradient controllability of parabolic systems
+El Hassane Zerrik, Ali Boutoulout, Asmae Kamal
+The purpose of this paper is to show for parabolic systems how one can achieve a final gradient in a subregion ω of the system domain Ω. First, we give a definition and delineate some properties of this new concept, and then we introduce the concept of regionally gradient strategic actuators. The importance of the spatial structure and location of the actuators in achieving regional gradient controllability is emphasized. Consequently, we concentrate on the determination of a control which would realize a given final gradient on ω with minimum energy. The developed approach is original and leads to numerical algorithms for constructing optimal controls. This approach is also illustrated by an example.
+parabolic systems, regional gradient controllability, G-strategic actuator

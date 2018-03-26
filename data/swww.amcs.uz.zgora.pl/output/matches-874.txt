@@ -1,0 +1,6 @@
+﻿2 - June 2010
+20 - 2010
+K3M: A universal algorithm for image skeletonization and a review of thinning techniques
+Khalid Saeed, Marek Tabędzki, Mariusz Rybnik, Marcin Adamski
+This paper aims at three aspects closely related to each other: first, it presents the state of the art in the area of thinning methodologies, by giving descriptions of general ideas of the most significant algorithms with a comparison between them. Secondly, it proposes a new thinning algorithm that presents interesting properties in terms of processing quality and algorithm clarity, enriched with examples. Thirdly, the work considers parallelization issues for intrinsically sequential algorithms of thinning. The main advantage of the suggested algorithm is its universality, which makes it useful and versatile for a variety of applications.
+skeletonization, thinning, digital image processing, parallelization, iteration, thinning methodologies, sequential thinning, parallel thinning</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-010-0024-4">10.2478/v10006-010-0024-4</a>

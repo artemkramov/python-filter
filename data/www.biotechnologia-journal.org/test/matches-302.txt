@@ -1,0 +1,17 @@
+﻿3/2017
+8
+Optimizing-biomethanation-of-a-lignocellulosic-biomass-r-nusing-indigenous-microbial-cellulases-systems,85,30834,0
+abstract:</div><div>RESEARCH PAPERS
+Optimizing biomethanation of a lignocellulosic biomass using indigenous microbial-cellulases systems
+h3>Chima Ngumah, Jude Ogbuli, Justina Orji, Ekperechi Amadi, Chris Nweke, Jude Allino</h3><div>BioTechnologia vol. 98(3) C pp. 245-255 C 2017
+7.70802">https://doi.org/10.5114/bta.2017.70802
+a>View full text</a
+30834
+Ngumah C, Ogbuli J, Orji J, Amadi E, Nweke C, Allino J. Optimizing biomethanation of a lignocellulosic biomass using indigenous microbial-cellulases systems. BioTechnologia. 2018;98(3):245-255. doi:10.5114/bta.2017.70802
+Ngumah, C., Ogbuli, J., Orji, J., Amadi, E., Nweke, C., &amp; Allino, J. (2018). Optimizing biomethanation of a lignocellulosic biomass using indigenous microbial-cellulases systems. BioTechnologia, 98(3), 245-255. https://doi.org/10.5114/bta.2017.70802
+Ngumah, Chima, Jude Ogbuli, Justina Orji, Ekperechi Amadi, Chris Nweke, and Jude Allino. 2018. "Optimizing biomethanation of a lignocellulosic biomass using indigenous microbial-cellulases systems". BioTechnologia 98 (3): 245-255. doi:10.5114/bta.2017.70802
+Ngumah, C., Ogbuli, J., Orji, J., Amadi, E., Nweke, C., and Allino, J. (2018). Optimizing biomethanation of a lignocellulosic biomass using indigenous microbial-cellulases systems. BioTechnologia, 98(3), pp.245-255. https://doi.org/10.5114/bta.2017.70802
+Ngumah, Chima et al. "Optimizing biomethanation of a lignocellulosic biomass using indigenous microbial-cellulases systems." BioTechnologia, vol. 98, no. 3, 2018, pp. 245-255. doi:10.5114/bta.2017.70802
+/div><div>Studies on enhancing biomethanation were performed to ascertain whether amending lignocellulosic biomass waste with indigenous microbial-cellulases systems will improve biomethane output. To evaluate this, gastrointestinal contents of slaughtered beef cattle were treated with inocula derived from the guts of giant African land snail (<i>Archachatina marginata</i>) and worker termites (<i>Coptotermes formosanus</i>), individually as well as combined. The fed-batch method operating at prevailing ambient room temperatures (30 ± 2EC) for a hydraulic retention time (HRT) of 60 days was adopted. Feedstock slurry without amendment, amended with<i>Archachatina marginata</i>-derived inoculum, amended with<i>Coptotermes formosanus</i>-derived inoculum, and amended with<i>Archachatina marginata</i>:<i>Coptotermes formosanus</i>(50 : 50%) mixed inocula yielded cumulative biomethane of 65.26 ml/g VS, 63.21 ml/g VS, 125.99 ml/g VS, and 97.16 ml/g VS, respectively. Physicochemical analysis of feedstock and digestates revealed increased reductions in lignin, hemicelluloses, and celluloses (lignocelluloses) in trials amended with microbial-cellulases systems. This study revealed that among the experiments assayed, the trial amended with the cellulases system from<i>Coptotermes formosanus</i>yielded the highest cumulative biomethane.<
+null
+keywords:</div><h3>anaerobic digestion, biogas, bio-augmentation, recalcitrant biowaste</h3

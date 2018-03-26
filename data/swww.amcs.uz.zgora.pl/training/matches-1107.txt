@@ -1,0 +1,6 @@
+﻿2 - June 2006
+16 - 2006
+A parallel block Lanczos algorithm and its implementation for the evaluation of some eigenvalues of large sparse symmetric matrices on multicomputers
+Mario Rosario Guarracino, Francesca Perla, Paolo Zanetti
+In the present work we describe HPEC (High Performance Eigenvalues Computation), a parallel software package for the evaluation of some eigenvalues of a large sparse symmetric matrix. It implements an efficient and portable Block Lanczos algorithm for distributed memory multicomputers. HPEC is based on basic linear algebra operations for sparse and dense matrices, some of which have been derived by ScaLAPACK library modules. Numerical experiments have been carried out to evaluate HPEC performance on a cluster of workstations with test matrices from Matrix Market and Higham’s collections. A comparison with a PARPACKroutine is also detailed. Finally, parallel performance is evaluated on random matrices, using standard parameters.
+symmetric block Lanczos algorithm, sparse matrices, parallel eigensolver, cluster architecture

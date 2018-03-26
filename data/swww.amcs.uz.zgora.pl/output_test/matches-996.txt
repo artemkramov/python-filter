@@ -1,0 +1,3 @@
+Controllability and observability of linear discrete-time fractional-order systems
+Said Guermah, Said Djennoune, Maamar Bettayeb
+In this paper we extend some basic results on the controllability and observability of linear discrete-time fractional-order systems. For both of these fundamental structural properties we establish some new concepts inherent to fractional-order systems and we develop new analytical methods for checking these properties. Numerical examples are presented to illustrate the theoretical results.

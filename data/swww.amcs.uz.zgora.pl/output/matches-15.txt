@@ -1,0 +1,6 @@
+﻿6 - December 2001
+11 - 2001
+Circle criterion and boundary control systems in factor form: Input-output approach
+Piotr Grabowski, Frank M. Callier
+<em>Please see the PDF file.</em>
+infinite-dimensional control systems, semigroups, input-output relations

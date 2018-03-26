@@ -1,0 +1,15 @@
+﻿Diagnostic-shell-expert-systems,81497
+1-2016,3238">1/2016 vol. 17
+Research-methods-and-testing-stand-developed-to-examine-vibrations-generated-by-rolling,81498,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/The-detection-of-anomalies-in-controlling-of-the-combustion-process-by-using-a-negative,81496,0,2.html" title="PREVIOUS
+Diagnostic shell expert systems
+Marcin-Amarowicz/74949">Marcin Amarowicz
+null
+marcin.amarowicz@polsl.pl
+>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Krzysztof-Psiuk/74950">Krzysztof Psiuk</a></span>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Tomasz-Rogala/74951">Tomasz Rogala</a></span>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Sebastian-Rzydzik/74952">Sebastian Rzydzik</a></span
+Silesian University of Technology, Institute of Fundamentals of Machinery Design, Konarskiego 18A
+Publish date: 2017-12-21
+6;17(1):33–40
+81497-16989?filename=Diagnostic shell expert
+shell+expert+system/147047">shell expert system<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-knowledge+acquisition/142465">knowledge acquisition
+signals+processing/147048">signals processing
+The paper presents the issues related to shell expert systems which are presented from different perspectives among others end-users, knowledge engineers engaged in the acquisition of knowledge and its edition and system administrators. The main characteristic of described shell expert systems is the ability to integrate knowledge from many different sources and an explicit form of representation of acquisited knowledge which allow to permanent maintenance and management of knowledge stored in the knowledge base.

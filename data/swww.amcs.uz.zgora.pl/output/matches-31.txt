@@ -1,0 +1,6 @@
+﻿2 - June 2000
+10 - 2000
+A stabilizing control law for invariant systems on Lie groups
+Nikolaos Apostolou, Demosthenes Kazakos
+This paper deals with the stabilizability of invariant control systems defined on Lie groups. A stabilization technique is presented which, under certain hypotheses, can lead to a criterion assuring the existence of a feedback controller which steers every initial condition to a specified target point of the state space of these systems.
+invariant systems, Lie groups, stabilization, feedback controller

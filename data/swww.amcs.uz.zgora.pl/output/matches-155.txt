@@ -1,0 +1,6 @@
+﻿3 - September 1998
+8 - 1998
+Nonregular nonlinear sector modelling
+Andrzej Piegat
+Fuzzy models realize human-like modelling schemes. However, a human being can create in his mind relatively simple models of real systems with maximum two inputs. The reason is that human models are based on rectangular lattice partitions of the input spaces. Such a partition enables us to understand the modelled system, which is a great advantage of fuzzy modelling. Despite this, the rectangular lattice partition makes modelling of systems with large numbers of inputs and those realizing complicated inputs/output mappings impossible or very difficult. The paper puts forward a self-organizing and self-tuning method for modelling nonlinear systems. It is based on a nonrectangular partition of the input space. The conclusions of rules can be here linear or nonlinear. For the latter, a special delinearization function (SDL) is proposed. It makes it possible to decrease considerably the number of rules, which results in efficient modelling. Also, the amount of measurement information from the system needed to learn a model can be decreased considerably.
+-

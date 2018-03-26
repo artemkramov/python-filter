@@ -1,0 +1,6 @@
+﻿1 - March 2003
+13 - 2003
+Linear repetitive process control theory applied to a physical example
+Krzysztof Gałkowski, Eric Rogers, Wojciech Paszke, David H. Owens
+In the case of linear dynamics, repetitive processes are a distinct class of 2D linear systems with uses in areas ranging from long-wall coal cutting and metal rolling operations to iterative learning control schemes. The main feature which makes them distinct from other classes of 2D linear systems is that information propagation in one of the two independent directions only occurs over a finite duration. This, in turn, means that a distinct systems theory must be developed for them for onward translation into efficient routinely applicable controller design algorithms for applications domains. In this paper, we introduce the dynamics of these processes by outlining the development of models for various metal rolling operations. These models are then used to illustrate some recent results on the development of a comprehensive control theory for these processes.
+repetitive dynamics, metal rolling, LMIs, delay differential system, stability

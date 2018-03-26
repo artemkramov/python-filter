@@ -1,0 +1,6 @@
+﻿4 - December 2003
+13 - 2003
+Test signal design for failure detection: A linear programming approach
+Héctor Rubio Scola, Ramine Nikoukhah, François Delebecque
+A new methodology for the design of filters that permits failure detection and isolation of dynamic systems is presented. Assuming that the normal and the faulty behavior of a process can be modeled by two linear systems subject to inequality bounded perturbations, a method for the on-line implementation of a test signal, guaranteeing failure detection, is proposed. To improve the fault detectability of the dynamic process, appropriate test signals are injected into the system. All the computations required by the proposed method are implemented as the solution of large sparse linear optimization problems. A simple numerical example is given to illustrate the proposed procedure.
+failure detection, large scale programming, failure isolation, bounded perturbations, active detection

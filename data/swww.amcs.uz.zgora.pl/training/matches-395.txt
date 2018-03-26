@@ -1,0 +1,6 @@
+﻿1 - March 1993
+3 - 1993
+Bipolar VLSI – an application for a high performance microcontroller
+Peter L. Jones
+This paper looks at the special merits of bipolar differential logic for high performance VLSI. A design route is developed using a high level hardware description language leading to a semi custom style of automatic layout. Preliminary assessment from simulation suggests that 100MHz operation of an eight-bit high-functionality microcontrol1er can be achieved using this approach.
+-

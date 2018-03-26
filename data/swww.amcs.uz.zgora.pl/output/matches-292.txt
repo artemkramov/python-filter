@@ -1,0 +1,6 @@
+﻿2 - June 1995
+5 - 1995
+Non-linear robot control: Method of exact linearization and decoupling by state feedback and alternative control design methods
+Peter C. Müller
+The dynamics of robots has to be considered as non-linear because of the couplings between the robot axes and the effects of the Coulomb friction within the joints. For the first type of non-linearities a state feedback control is often designed by the method of exact linearization and non-linear decoupling. But there are disadvantages of such control design: (i) exact knowledge about the system model is needed to avoid all the related sensitivity problems; (ii) discontinuous non-linearities, such as e.g. the Coulomb friction cannot be analysed by this method. Therefore two other design approaches are proposed: the method of "reverse linearization" and the method of estimation and compensation of non-linearities. They result in a robust independent joint control of robots.
+-

@@ -1,0 +1,6 @@
+﻿3 - September 2013
+23 - 2013
+Approximation of fractional positive stable continuous-time linear systems by fractional positive stable discrete-time systems
+Tadeusz Kaczorek
+Fractional positive asymptotically stable continuous-time linear systems are approximated by fractional positive asymptotically stable discrete-time systems using a linear Padé-type approximation. It is shown that the approximation preserves the positivity and asymptotic stability of the systems. An optional system approximation is also discussed.
+Padé approximation, fractional system, linear positive system</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0038">10.2478/amcs-2013-0038</a>

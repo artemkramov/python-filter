@@ -1,0 +1,6 @@
+﻿3 - September 2002
+12 - 2002
+Supply chain: Crisp and fuzzy aspects
+Mohammad Hossein Fazel Zarandi, Ismail Burhan Türkşen, Soroosh Saghiri
+This survey presents crisp and fuzzy models developed for the Supply Chain (SC). To this end, fuzzy concepts are first briefly reviewed. Then the structure of a supply chain system is explained. Recent challenges and ideas on these systems are also surveyed. Then, with reference to different aspects of an SC system, we classify the recent fuzzy models developed for different SC systems and compare them with related crisp models. Applications of the SC in manufacturing and service industries are investigated in each case.
+supply chain, crisp and fuzzy systems, SC system, material flow, information flow, supplier-buyer relationships

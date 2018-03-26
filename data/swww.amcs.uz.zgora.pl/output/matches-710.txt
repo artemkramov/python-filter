@@ -1,0 +1,6 @@
+﻿1 - March 2012
+22 - 2012
+LPV design of fault-tolerant control for road vehicles
+Péter Gáspár, Zoltán Szabó , József Bokor
+The aim of the paper is to present a supervisory decentralized architecture for the design and development of reconfigurable and fault-tolerant control systems in road vehicles. The performance specifications are guaranteed by local controllers, while the coordination of these components is provided by a supervisor. Since the monitoring components and FDI filters provide the supervisor with information about the various vehicle maneuvers and the different fault operations, it is able to make decisions about necessary interventions into the vehicle motions and guarantee reconfigurable and fault-tolerant operation of the vehicle. The design of the proposed reconfigurable and fault-tolerant control is based on an LPV method that uses monitored scheduling variables during the operation of the vehicle.
+robust control, fault detection, LPV systems, fault-tolerant control, vehicle dynamics, vehicle control</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0013-x">10.2478/v10006-012-0013-x</a>

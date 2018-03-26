@@ -1,0 +1,6 @@
+﻿2 - June 2009
+19 - 2009
+Input constraints handling in an MPC/feedback linearization scheme
+Jiamei Deng, Victor M. Becerra, Richard Stobart
+The combination of model predictive control based on linear models (MPC) with feedback linearization (FL) has attracted interest for a number of years, giving rise to MPC+FL control schemes. An important advantage of such schemes is that feedback linearizable plants can be controlled with a linear predictive controller with a fixed model. Handling input constraints within such schemes is difficult since simple bound contraints on the input become state dependent because of the nonlinear transformation introduced by feedback linearization. This paper introduces a technique for handling input constraints within a real time MPC/FL scheme, where the plant model employed is a class of dynamic neural networks. The technique is based on a simple affine transformation of the feasible area. A simulated case study is presented to illustrate the use and benefits of the technique.
+predictive control, feedback linearization, neural networks, nonlinear systems, constraints</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-009-0018-2">10.2478/v10006-009-0018-2</a>

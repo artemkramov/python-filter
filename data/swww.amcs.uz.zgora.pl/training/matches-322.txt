@@ -1,0 +1,6 @@
+﻿1 - March 1994
+4 - 1994
+Integration of multisensor measurements using modified Kalman filter
+Józef Korbicz, Vladimir Podladchikov, Petro Bidyuk
+The problem of integrating measurement data that come from various navigation sources at different moments of time is considered. An algorithm is established which uses modified Kalman filter to process separately scalar data even in cases of vector input. This approach allows us to construct unified estimation algorithm for processing variable dimension measurement vectors and to decrease covariances of estimate errors if extra measurement appears at the filter input from a new source and with different sampling interval. A simple method is also proposed to avoid filter divergence resulting from computational errors. Statistical simulation of the algorithm proving its applicability is presented.
+-

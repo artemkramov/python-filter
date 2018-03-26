@@ -1,0 +1,6 @@
+﻿3 - September 1997
+7 - 1997
+Genetic algorithms and Hopfield neural networks for solving combinatorial problems
+Jerzy Balicki, Andrzej Stateczny, Bogdan Żak
+In this paper, a Hopfield neural-network population for solving NP-hard multiobjective optimization problems with zero-one decision variables is proposed. The initial states of the Hopfield models in this population are modified by a genetic algorithm and the energy functions are constructed by using a non-negative convex combination method. Accordingly, optimization neural networks for the related optimization problem are designed. Simulation results are also presented to illustrate the effectiveness of the approach.
+-

@@ -1,0 +1,6 @@
+﻿3 - September 1994
+4 - 1994
+Estimation of the hidden layer size based on analysis of neural networks for handwritten digits recognition
+Zbigniew Mikrut
+The paper contains quantitative information about parameters generated in hidden layers of back-propagation type neural networks for handwritten digits recognition. On the basis of this information, a method of determination of the lower limit for the number of hidden layer elements for such networks is given. The method applies a suitable formula of combinatorics. The above-mentioned information is used to create an algorithm for the training set analysis aimed for more effective neural network initialization.
+-

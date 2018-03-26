@@ -1,0 +1,6 @@
+﻿3 - September 1993
+3 - 1993
+Frequency domain approach to minimizing detectable faults in FDI systems
+Paul M. Frank, X. Ding
+Problems related to fault detection and isolation in uncertain dynamical systems are studied. The purpose of this study is to develop a scheme to design residual generators and furthermore to evaluate residuals. Different from the most of previous studies, the basic idea of this work is to minimize the size of detectable faults. This physically means that a fault will be detected even if its size may be small. With the aid of frequency domain fault detection approach, a relationship between residual generators as well as residual evaluation function and the minimum size of detectable faults is established. This enables us to formulate the design problems as optimization problems that are solvable by using frequency domain optimization techniques. The study reveals how far a fault could be detected using a suitable residual generator and evaluation scheme and answers some questions that have been studied over the years.
+-

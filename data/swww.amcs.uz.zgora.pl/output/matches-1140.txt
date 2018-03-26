@@ -1,0 +1,6 @@
+﻿1 - March 2005
+15 - 2005
+Uncertainty models of vision sensors in mobile robot positioning
+Piotr Skrzypczyński
+This paper discusses how uncertainty models of vision-based positioning sensors can be used to support the planning and optimization of positioning actions for mobile robots. Two sensor types are considered: a global vision with overhead cameras, and an on-board camera observing artificial landmarks. The developed sensor models are applied to optimize robot positioning actions in a distributed system of mobile robots and monitoring sensors, and to plan the sequence of actions for a robot cooperating with the external infrastructure supporting its navigation.
+mobile robots, vision sensors, positioning, uncertainty, action planning, multi-agent systems

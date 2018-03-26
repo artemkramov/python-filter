@@ -1,0 +1,6 @@
+﻿2 - December 1992
+2 - 1992
+Bounded input bounded output stabilization of nonlinear systems using state detectors
+Zheng-Zhi Han, Zhong-Jun Zhang
+This paper is devoted to the study of relations between Lyapunov stabilization and bounded input bounded output (BIBO) stabilization for those nonlinear systems whose state is not available for measurement. It is found that when a state detector is used to construct asymptotic state, the local Lyapunov stabilization implies the local BIBO stabilization, and in the global case, this conclusions remain if the initial error between the output of state detector and state of compensated system is small enough.
+-

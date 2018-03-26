@@ -1,0 +1,6 @@
+﻿4 - December 2013
+23 - 2013
+Evolutionary algorithms and fuzzy sets for discovering temporal rules
+Stephen G. Matthews, Mario A. Gongora, Adrian A. Hopgood
+A novel method is presented for mining fuzzy association rules that have a temporal pattern. Our proposed method contributes towards discovering temporal patterns that could otherwise be lost from defining the membership functions before the mining process. The novelty of this research lies in exploring the composition of fuzzy and temporal association rules, and using a multi-objective evolutionary algorithm combined with iterative rule learning to mine many rules. Temporal patterns are augmented into a dataset to analyse the method’s ability in a controlled experiment. It is shown that the method is capable of discovering temporal patterns, and the effect of Boolean itemset support on the efficacy of discovering temporal fuzzy association rules is presented.
+fuzzy association rules, temporal association rules, multi-objective evolutionary algorithm</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0064">10.2478/amcs-2013-0064</a>

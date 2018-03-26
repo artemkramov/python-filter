@@ -1,0 +1,6 @@
+﻿3 - September 2016
+26 - 2016
+A finite element method for extended KdV equations
+Anna Karczewska, Piotr Rozmej, Maciej Szczeciński, Bartosz Boguniewicz
+The finite element method (FEM) is applied to obtain numerical solutions to a recently derived nonlinear equation for the shallow water wave problem. A weak formulation and the Petrov–Galerkin method are used. It is shown that the FEM gives a reasonable description of the wave dynamics of soliton waves governed by extended KdV equations. Some new results for several cases of bottom shapes are presented. The numerical scheme presented here is suitable for taking into account stochastic effects, which will be discussed in a subsequent paper.
+shallow water wave problem, nonlinear equations, second order KdV equations, finite element method, Petrov–Galerkin method</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0039">10.1515/amcs-2016-0039</a>

@@ -1,0 +1,15 @@
+﻿Monitoring-of-helicopter-transmission-use-of-the-FAM-C-diagnosis-method,68818
+2-2017,2313">2/2017 vol. 18
+Diagnostics-of-potential-incompatibilities-in-aeronautical-data-and-information-chain,73792,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/Cross-correlation-function-in-identifying-head-checking-defects-of-the-railway-rails,73790,0,2.html" title="PREVIOUS
+Monitoring of helicopter transmission use of the FAM-C diagnosis method
+Andrzej-Gębura/39571">Andrzej Jan Gębura
+null
+andrzej.gebura@itwl.pl
+Instytut Techniczny Wojsk Lotniczych
+Publish date: 2017-06-21</div><div>Submission date: 2016-12-20</div><div>Final revision date: 2017-02-06</div><div>Acceptance date: 2017-02-06
+7;18(2):75–85
+68818-17738?filename=Monitoring of helicopter
+frequency+modulation/76981">frequency modulation<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-alternator/100882">alternator
+power+transmission/100883">power transmission</a><div>&nbsp;</div></div><div>TOPICS:</div><div><a href="http://www.diagnostyka.net.pl/Topic-Signal+analysis/3949">Signal analysis<div></div></a><a href="http://www.diagnostyka.net.pl/Topic-Diagnosis+vehicle/3946">Diagnosis vehicle<div></div></a><a href="http://www.diagnostyka.net.pl/Topic-Technical+diagnostics/3947">Technical diagnostics
+Dynamics of the helicopter rotor (blade vibrations, ground resonance, influence of forward speed etc.) play a significant role in wear of the transmission and engine systems. Particularly severe wear of these elements can be expected on military helicopters operating in battlefield conditions, where exceedances of dynamic flight parameters and harsh maneuvers occur more frequently. The “FAM-C” diagnostic method, developed by the Air Force Institute of Technology, Poland, has been used for assessment and monitoring of this fatigue wear. In particular, the method can be used to monitor the damage modes of helicopter components – including main rotor bearing wear, gear teeth contact surface wear or increase of clearance between gear axes of main gearbox. Research based on analysis of these findings with the use of the FAM-C method is described in the paper. In the FAM-C method, signal from the AC generator used in routine operation of the helicopter is processed. Signal analysis enables simultaneous monitoring of several engine and transmission elements. Some example of diagnostic symptoms used to detect wear in the FAM-C are described in the paper.</div><div>CORRESPONDING AUTHOR:</div><a href="http://www.diagnostyka.net.pl/Author-Andrzej-Gębura/39571">Andrzej Jan Gębura</a>&nbsp;&nbsp;<a href="mailto:andrzej.gebura@itwl.pl"><div></div></a><div>Instytut Techniczny Wojsk Lotniczych, ul. Księcia Bolesława 6, 01-494 Warszawa, Polska
+></div></div><div><div><div></div>Related articles</div><div><div><a href="http://www.diagnostyka.net.pl/Diagnostic-testers-operating-of-basic-of-FAMC-method,64422,0,2.html">Diagnostic testers operating of basic of FAMC method</a></div

@@ -1,0 +1,6 @@
+﻿4 - December 2011
+21 - 2011
+Existence and exponential stability of a periodic solution for fuzzy cellular neural networks with time-varying delays
+Qianhong Zhang, Lihui Yang, Daixi Liao
+Fuzzy cellular neural networks with time-varying delays are considered. Some sufficient conditions for the existence and exponential stability of periodic solutions are obtained by using the continuation theorem based on the coincidence degree and the differential inequality technique. The sufficient conditions are easy to use in pattern recognition and automatic control. Finally, an example is given to show the feasibility and effectiveness of our methods.
+fuzzy cellular neural networks, global exponential stability, periodic solution, coincidence degree</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-011-0051-9">10.2478/v10006-011-0051-9</a>

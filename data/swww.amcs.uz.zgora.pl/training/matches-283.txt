@@ -1,0 +1,6 @@
+﻿1 - March 1995
+5 - 1995
+Structuring the message-passing channels
+Stanisław Chrobot, Agata Stras, Robert Stras
+Low-level primitives for a high-level language and protocols in this language are proposed to implement synchronous message passing for a set of distributed processes running on a set of single-processor multiprocessing nodes. This implementation is meant to explicitly express process scheduling and message dispatching algorithms in the high-level language. The link is proposed as a low-level one-to-one asynchronous communication channel able to buffer a simple data entity. Protocols are presented for using links in synchronous message passing. These protocols use interrupts as a main synchronisation tool. This decreases the context switching and process scheduling overhead considerably. On the top of these protocols, many-to-one message channels are implemented.
+-

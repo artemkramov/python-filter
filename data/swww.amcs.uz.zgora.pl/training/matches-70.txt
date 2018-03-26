@@ -1,0 +1,6 @@
+﻿1 - March 1999
+9 - 1999
+Robust predictive control using a time-varying youla parameter
+Ton J.J. Van Den Boom, Rob A.J. De Vries
+In this paper, a standard predictive control problem (SPCP) is formulated, which consists of one extended process description with a feedback uncertainty block. The most important finite horizon predictive control problems can be seen as special realizations of this SPCP. The SPCP and its solution are given in a state-space form. The objective of the controller is a nominal performance subject to signal constraints and robust stability with respect to a I-norm bounded model uncertainty. The optimal controller consists of a feedforward part for nominal signal tracking and a feedback part for disturbance rejection and model error compensation. The feedforward part is realized by the predictive controller for the nominal disturbance-free case. The feedback part of the controller is realized by using the Youla parametrization. The Youla parameter is optimized at every sample time in a receding horizon setting to cope with signal constraints and (robust stability) constraints on the operator itself.
+predictive control, Youla parametrization, stability, robustness

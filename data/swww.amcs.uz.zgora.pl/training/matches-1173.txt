@@ -1,0 +1,6 @@
+﻿4 - December 2005
+15 - 2005
+Observer design for systems with unknown inputs
+Stefen Hui, Stanisław H. Żak
+Design procedures are proposed for two different classes of observers for systems with unknown inputs. In the first approach, the state of the observed system is decomposed into known and unknown components. The unknown component is a projection, not necessarily orthogonal, of the whole state along the subspace in which the available state component resides. Then, a dynamical system to estimate the unknown component is constructed. Combining the output of the dynamical system, which estimates the unknown state component, with the available state information results in an observer that estimates the whole state. It is shown that some previously proposed observer architectures can be obtained using the projection operator approach presented in this paper. The second approach combines sliding modes and the second method of Lyapunov resulting in a nonlinear observer. The nonlinear component of the sliding mode observer forces the observation error into the sliding mode along a manifold in the observation error space. Design algorithms are given for both types of observers.
+state observation, unknown input observer (UIO), uncertain systems, projection operators, second method of Lyapunov

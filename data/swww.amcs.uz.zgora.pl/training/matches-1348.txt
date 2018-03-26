@@ -1,0 +1,6 @@
+﻿4 - December 2002
+12 - 2002
+A boundary-value problem for linear PDAEs
+Wiesław Marszałek, Zdzisław Trzaska
+We analyze a boundary-value problem for linear partial differential algebraic equations, or PDAEs, by using the method of the separation of variables. The analysis is based on the Kronecker-Weierstrass form of the matrix pencil [<em>A</em>, –λ<sub><em>n</em></sub><em>B</em>]. A new theorem is proved and two illustrative examples are given.
+differential algebraic equations, boundary-value problems, linear multivariable systems

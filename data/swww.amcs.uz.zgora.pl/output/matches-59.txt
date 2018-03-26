@@ -1,0 +1,6 @@
+﻿4 - December 2000
+10 - 2000
+One-dimensional Kohonen LVQ nets for multidimensional pattern recognition
+Ewa Skubalska-Rafajłowicz
+A new neural network based pattern recognition algorithm is proposed. The method consists in preprocessing the multidimensional data, using a space-filling curve based transformation into the unit interval, and employing Kohonen’s vector quantization algorithms (of 80M and LVQ types) in one dimension. The space-filling based transformation preserves the theoretical Bayes risk. Experiments show that such an approach can produce good or even better error rates than the classical LVQ performed in a multidimensional space.
+space-filling curve, pattern recognition, learning vector quantization, reduction of dimension

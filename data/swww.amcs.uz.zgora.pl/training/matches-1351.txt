@@ -1,0 +1,6 @@
+﻿4 - December 2002
+12 - 2002
+Control of an induction motor using sliding mode linearization
+Erik Etien, Sébastien Cauet, Laurent Rambault, Gérard Champenois
+Nonlinear control of the squirrel induction motor is designed using sliding mode theory. The developed approach leads to the design of a sliding mode controller in order to linearize the behaviour of an induction motor. The second problem described in the paper is decoupling between two physical outputs: the rotor speed and the rotor flux modulus. The sliding mode tools allow us to separate the control from these two outputs. To take account of parametric variations, a model-based approach is used to improve the robustness of the control law despite these perturbations. Experimental results obtained with a laboratory setup illustrate the good performance of this technique.
+induction motor, sliding mode control, linearization

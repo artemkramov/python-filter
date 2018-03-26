@@ -1,0 +1,6 @@
+﻿2 - June 2004
+14 - 2004
+Koiter shell governed by strongly monotone constitutive equations
+Piotr Kalita
+In this paper we use the theory of monotone operators to generalize the linear shell model presented in (Blouza and Le Dret, 1999) to a class of physically nonlinear models. We present a family of nonlinear constitutive equations, for which we prove the existence and uniqueness of the solution of the presented nonlinear model, as well as the convergence of the Galerkin method. We also present the physical discussion of the model.
+Koiter shell, physical nonlinearity, strongly monotone operators

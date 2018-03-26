@@ -1,0 +1,6 @@
+﻿3 - September 1996
+6 - 1996
+Algebraic operators: An alternative approach to fuzzy sets
+Władysław Homenda
+The paper deals with processing of uncertain information in terms of its repetitiveness and negativity. Neither of these features is handled in the lattice structure of fuzzy sets. In the case of repetitive information, the max-min operators are<em>noninteractive</em>(see (Pedrycz, 1993)). Triangular norms presented there can cope with repetitive information. Nevertheless, negativity still creates problems. In this paper, a new approach to processing of uncertain information is proposed. This approach is based on some extension of fuzzy sets theory: the linear space and ring structure of fuzzy sets. This extension is created by new operators, algebraic rather than logic. In this paper, the operators are called a-p-v operators. Basic properties of the introduced spaces are discussed. Both repetitive and negative kinds of information are handled in algebraic structures of fuzzy sets. Operators introduced in this paper are applied in two examples: fuzzy reasoning and fuzzy neural networks.
+-

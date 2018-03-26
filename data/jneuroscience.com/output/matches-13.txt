@@ -1,0 +1,11 @@
+﻿Proceedings of the Second Neurological Disorders Summit (NDS-2016)</h1
+null
+&nbsp;</div><div>
+</p></div><p>One pathological hallmark in ALS-linked motor neurons (MNs) is axonal accumulation of damaged mitochondria, which produce energy and buffer Ca<sup>2+</sup>less efficiently, and initiate apoptotic cascades and axonal degeneration. These observations raise a fundamental question: Does impaired removal of those damaged mitochondria by the autophagy-lysosome system play a pathological role during the early asymptomatic stage of fALS-linked mice? We recently reveal for the first time spinal MN-targeted progressive lysosomal deficits starting at asymptomatic stages in fALS-linked hSOD1G93A mice. These deficits impair autophagic degradation, resulting in aberrant accumulation of autophagic vacuoles engulfing damaged mitochondria along MN axons. These phenotypes were captured in cultured adult (P40) spinal MNs from the hSOD1G93A mice. Such early deficits are due to reduced late endosome (LE) retrograde transport via binding of mutant hSOD1G93A to dynein and can be reversed by introducing dynein adaptor snapin transgene. Snapin competes with hSOD1G93A for binding to dynein, thereby recruiting more dynein to LEs for transport. Thus, snapin and hSOD1G93A play opposite roles in LE retrograde transport. Expressing snapin efficiently reverses lysosome deficits and facilitates removal of damaged mitochondria. Injecting AAV9-snapin into the diseased mice rescues lysosome deficits and slows MN degeneration<i>in vivo</i>and disease progression. Our study advances our knowledge of early pathological mechanisms underlying MN degeneration. Enhancing clearance of damaged mitochondria by regulating endolysosomal trafficking may be a potential therapeutic strategy for ALS and perhaps other neurodegenerative diseases. (Supported by the Intramural Research Program of NINDS, NIH).</p><p
+October 21, 2016
+&nbsp;10.17756/jnen.2016-suppl2
+Proceedings of the Second Neurological Disorders Summit (NDS-2016).<em>J Neurol Exp Neurosci</em>2(Suppl 2): S1-S38.</p><div
+jneuroscience.com/jnen/articles/v2n2/jnen-s2-nds
+></div
+6%2F10%2F21%2Fproceedings-of-the-second-neurological-disorders-summit-nds-2016%2F&amp;linkname=Proceedings%20of%20the%20Second%20Neurological%20Disorders%20Summit%20%28NDS-2016%29
+/div><

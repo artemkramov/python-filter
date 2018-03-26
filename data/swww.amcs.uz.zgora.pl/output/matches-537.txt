@@ -1,0 +1,6 @@
+﻿4 - December 2015
+25 - 2015
+Towards robust predictive fault-tolerant control for a battery assembly system
+Lothar Seybold, Marcin Witczak, Paweł Majdzik, Ralf Stetter
+The paper deals with the modeling and fault-tolerant control of a real battery assembly system which is under implementation at the RAFI GmbH company (one of the leading electronic manufacturing service providers in Germany). To model and control the battery assembly system, a unified max-plus algebra and model predictive control framework is introduced. Subsequently, the control strategy is enhanced with fault-tolerance features that increase the overall performance of the production system being considered. In particular, it enables tolerating (up to some degree) mobile robot, processing and transportation faults. The paper discusses also robustness issues, which are inevitable in real production systems. As a result, a novel robust predictive fault-tolerant strategy is developed that is applied to the battery assembly system. The last part of the paper shows illustrative examples, which clearly exhibit the performance of the proposed approach.
+max-plus algebra, interval analysis, battery assembly, model predictive control, fault-tolerant control</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2015-0061">10.1515/amcs-2015-0061</a>

@@ -1,0 +1,6 @@
+﻿1 - June 1992
+2 - 1992
+A formal data model and object algebra for object-oriented databases
+Reda Al-Hajj, M. Erol Arkun
+In this paper we describe a formal object-oriented data model and a corresponding object-algebra. Described in the literature are two trends in query support for object-oriented databases. The first trend is to preserve existing objects, while the other trend allows for the creation of new objects. The object algebra presented in this paper is of the second type and includes operators of the relational algebra in addition to some others, but the semantics of all those operations has been specified to accomodate to the object-oriented features. An operand should have a defined set of objects and a set of message expressions. A message expression is sequence of messages. Also the result of any operation is defined to have the two sets and therefore, can be an operand. Hence the closure property is satisfied. Finally we include some of the properties of the described object algebra operators.
+-

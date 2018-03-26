@@ -1,0 +1,6 @@
+﻿2 - June 1997
+7 - 1997
+Motion generation in Cartesian space for industrial robots with actuator limitations
+Yasmina Bestaoui, Patrick Plédel, Maxime Gautier
+Cartesian positions, speeds and accelerations are planned to describe the desired motion of manipulators. We examine the cases of point-to-point and via-points motions, assuming that the reference values of the manipulator are represented by<em>C</em><sup>2</sup>polynomial trajectories. Taking into account usual kinematical constraints does not make use of full dynamic capabilities of the actuators. We propose to take into account the actuators' limitations on voltages and currents, in order to minimize the arrival time. We present some simulation results and show that the adopted method is of easy use.
+-

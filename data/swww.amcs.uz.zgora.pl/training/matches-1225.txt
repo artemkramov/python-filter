@@ -1,0 +1,6 @@
+﻿3 - September 2004
+14 - 2004
+EGIPSYS: An enhanced gene expression programming approach for symbolic regression problems
+Heitor S. Lopes, Wagner R. Weinert
+This paper reports a system based on the recently proposed evolutionary paradigm of gene expression programming (GEP). This enhanced system, called EGIPSYS, has features specially suited to deal with symbolic regression problems. Amongst the new features implemented in EGIPSYS are: new selection methods, chromosomes of variable length, a new approach to manipulating constants, new genetic operators and an adaptable fitness function. All the proposed improvements were tested separately, and proved to be advantageous over the basic GEP. EGIPSYS was also applied to four difficult identification problems and its performance was compared with a traditional implementation of genetic programming (LilGP). Overall, EGIPSYS was able to obtain consistently better results than the system using genetic programming, finding less complex solutions with less computational effort. The success obtained suggests the adaptation and extension of the system to other classes of problems.
+evolutionary computation, symbolic regression, mathematical modeling, systems identification

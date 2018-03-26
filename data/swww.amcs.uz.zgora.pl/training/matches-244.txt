@@ -1,0 +1,6 @@
+﻿2 - June 1996
+6 - 1996
+A full-stress technique for structural shape optimization
+Jose Herskovits, Gilberto P. Dias, Cristovao M. Mota Soares
+A technique for shape optimization based on a generalization of the Full-Stress Design approach is presented. Full-stress procedures for trusses design are based on the assumption that in an optimal structure each member is subjected to its allowable stress under at least one loading condition. We extend this criterion to shape optimization by assuming that a good shape design is obtained when the boundary is subjected to its allowable stress under at least one of the load cases. Based on this criterion, we present a procedure for plane structures, that, at the same time, avoids stress concentration in many parts of the contour caused by abrupt changes in the geometry and reduces the amount of structural material. Four illustrative test cases are solved and compared with the published results obtained with alternative models. In all the cases, good solutions are obtained in a very efficient way.
+-

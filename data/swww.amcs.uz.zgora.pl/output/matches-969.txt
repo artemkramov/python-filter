@@ -1,0 +1,6 @@
+﻿4 - December 2009
+19 - 2009
+Recursive identification algorithm for dynamic systems with output backlash and its convergence
+Ruili Dong, Qingyuan Tan, Yonghong Tan
+This paper proposes a recursive identification method for systems with output backlash that can be described by a pseudo- Wiener model. In this method, a novel description of the nonlinear part of the system, i.e., backlash, is developed. In this case, the nonlinear system is decomposed into a piecewise linearized model. Then, a modified recursive general identification algorithm (MRGIA) is employed to estimate the parameters of the proposed model. Furthermore, the convergence of the MRGIA for the pseudo-Wiener system with backlash is analysed. Finally, a numerical example is presented.
+nonlinear system, backlash, recursive identification, pseudo-Wiener model</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-009-0050-2">10.2478/v10006-009-0050-2</a>

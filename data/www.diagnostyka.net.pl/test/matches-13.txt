@@ -1,0 +1,15 @@
+﻿The-detection-of-anomalies-in-controlling-of-the-combustion-process-by-using-a-negative,81496
+1-2016,3238">1/2016 vol. 17
+Diagnostic-shell-expert-systems,81497,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/The-detection-of-anomalies-in-controlling-of-the-combustion-process-by-using-a-genetic,81495,0,2.html" title="PREVIOUS
+The detection of anomalies in controlling of the combustion process by using a negative selection alghorithm
+Jacek-Marciniak/74948">Jacek Marciniak
+null
+jacek.marciniak@meckoszalin.pl
+Katedra Systemów Cyfrowego Przetwarzania Sygnałów na Wydziale Elektroniki i Informatyki Politechnika Koszalińska, 75 - 453 Koszalin, ul Śniadeckich 2
+Publish date: 2017-12-21
+6;17(1):27–31
+81496-16988?filename=The detection of
+the+boiler/147043">the boiler<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-combustion/9673">combustion<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-control/126">control<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-negative+selection+algorithm/147044">negative selection algorithm<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-diagnose/66811">diagnose
+anomaly+detection/126052">anomaly detection
+The purpose of this paper is to present one of the ways to resolve the difficulties encountered during the use of the classical process control. The article presents the problem of a dynamically changing quality of fuel delivered to the water -grate boiler type WR-25, in which the combustion process takes place. The method of the measuremen t process variables related to this process was described. In the next part of the article, the author presents the basic concepts related to the natural im mune system, and also introduces the scheme, ideas and a negative selection algorithm. Also, the conditions were presented in which the proposed algorithm performs a detection of anomalies in the regulation burned. The solution of the problem and the results of the proposed solution where presented in the final section of the article.
+></div></div><div><div><div></div>Related articles</div><div><div><a href="http://www.diagnostyka.net.pl/The-detection-of-anomalies-in-controlling-of-the-combustion-process-by-using-a-genetic,81495,0,2.html">The detection of anomalies in controlling of the combustion process by using a genetic algorithm</a></div

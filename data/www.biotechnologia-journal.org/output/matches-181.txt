@@ -1,0 +1,17 @@
+﻿2/2014
+5
+Methods-of-ZnO-nanoparticles-synthesis,85,24536,0
+abstract:</div><div>Review paper
+Methods of ZnO nanoparticles synthesis
+h3>Kamila Żelechowska</h3><div>vol. 95(2) C pp. 150-159 C 2014
+4.48857">https://doi.org/10.5114/bta.2014.48857
+a>View full text</a
+24536
+Żelechowska K. Methods of ZnO nanoparticles synthesis. BioTechnologia. 2015;95(2):150-159. doi:10.5114/bta.2014.48857
+Żelechowska, K. (2015). Methods of ZnO nanoparticles synthesis. BioTechnologia, 95(2), 150-159. https://doi.org/10.5114/bta.2014.48857
+Żelechowska, Kamila. 2015. "Methods of ZnO nanoparticles synthesis". BioTechnologia 95 (2): 150-159. doi:10.5114/bta.2014.48857
+Żelechowska, K. (2015). Methods of ZnO nanoparticles synthesis. BioTechnologia, 95(2), pp.150-159. https://doi.org/10.5114/bta.2014.48857
+Żelechowska, Kamila. "Methods of ZnO nanoparticles synthesis." BioTechnologia, vol. 95, no. 2, 2015, pp. 150-159. doi:10.5114/bta.2014.48857
+/div><div>Zinc oxide nanostructures are interesting nanomaterials with a wide range of applications. Since the physical and<br><br>chemical properties of ZnO nanoparticles are influenced both by their shape and size, a control of morphology<br><br>of ZnO structures is needed for their commercial usage. Different chemical, physical, and biological methods used<br><br>to produce ZnO nanostructures can be found in the literature. The production of ZnO nanoparticles using so-called<br><br>green methods, using, for example, plant extracts or living organisms, is being investigated as these methods<br><br>are environmentally friendly and of low-cost. This review also discusses the trends in the biological synthesis of<br><br>semiconducting nanoparticles.<
+null
+keywords:</div><h3>biotemplating, green chemistry, ZnO nanoparticles, nanostructures, modified microorganisms, bioremediation</h3

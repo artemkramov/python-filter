@@ -1,0 +1,6 @@
+﻿4 - December 1993
+3 - 1993
+Constrained controllability of linear retarded dynamical systems
+Jerzy Klamka
+The main purpose of the paper is to study the constrained controllability for linear, time-invariant retarded dynamical systems defined in infinite-dimensional Banach or Hilbert spaces. First the brief theory of such dynamical systems is recalled. N ext, different definitions of controllability are presented and the relationships between them are explained. Using the general spectral theory of unbounded linear operators, many constrained controllability conditions are formulated and proved. Finally, a simple illustrative example is given. The results presented extend to the case of abstract retarded dynamical systems, constrained controllability conditions given in the literature for finite-dimensional case or systems without delays.
+-

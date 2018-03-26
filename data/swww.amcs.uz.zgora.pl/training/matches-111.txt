@@ -1,0 +1,6 @@
+﻿4 - December 1999
+9 - 1999
+Design and stability of fuzzy logic multi-regional output controllers
+Paweł Domański, Mieczysław A. Brdyś, Piotr Tatjewski
+Design and stability analysis of fuzzy multi-regional digital controllers is considered in the paper. The controllers are based on a notion of N ARMAX systems, very similar to the Takagi-Sugeno fuzzy model. The nonlinear system is approximated by a number of linear subsystems. Linear controllers are designed for all subsystems. It can be made in a classical way due to the subsystems linearity. The controllers are blended into one controller by employing fuzzy logic, the result being the fuzzy multi-regional controller (FuMR). The stability analysis of nonlinear systems with FuMR controllers composed of dynamic output feedback local linear controllers is provided. Examples illustrate the design procedure and the meaning of the stability criterion.
+nonlinear output control, fuzzy logic, Takagi-Sugeno models, stability conditions

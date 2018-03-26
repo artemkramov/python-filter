@@ -1,0 +1,6 @@
+﻿4 - December 2017
+27 - 2017
+Software reliability growth modeling for agile software development
+Shubham Rawat, Nupur Goyal, Mangey Ram
+The frequent incremental release of software in agile development impacts the overall reliability of the product. In this paper, we propose a generic software reliability model for the agile process, taking permanent and transient faults into consideration. The proposed model is implemented using the NHPP (non-homogenous Poisson process) and the Musa model. The comparison of the two implementations yields an effective, empirical and reliable model for agile software development.
+software reliability, testing, non-homogeneous poison process, transient faults, permanent faults, Musa model</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2017-0054">10.1515/amcs-2017-0054</a>

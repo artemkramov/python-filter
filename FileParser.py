@@ -287,3 +287,16 @@ class FileParserVisnykSoc(FileParser):
     path_test_files = "data\\visnyk.soc.univ.kiev.ua\\test\\"
 
     path_output_test_files = "data\\visnyk.soc.univ.kiev.ua\\output_test\\"
+
+
+class FileParserAmcs(FileParser):
+    training_mapper = [0, 0, 1, 1, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+    path_all_files = "data\\swww.amcs.uz.zgora.pl\\output\\"
+
+    path_training_files = "data\\swww.amcs.uz.zgora.pl\\training\\"
+
+    path_test_files = "data\\swww.amcs.uz.zgora.pl\\test\\"
+
+    path_output_test_files = "data\\swww.amcs.uz.zgora.pl\\output_test\\"
+

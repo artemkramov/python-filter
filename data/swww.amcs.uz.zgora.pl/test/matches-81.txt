@@ -1,0 +1,6 @@
+﻿2 - June 1999
+9 - 1999
+Robust stabilization for uncertain time-varying delay constrained systems with delay-dependence
+Qing-Long Han, Driss Mehdi
+This paper is concerned with the problem of robust stabilization of linear time-varying delay systems containing saturating actuators in the presence of nonlinear parametric perturbations. Based on Razumikhin's approach to the stability of functional differential equations, we determine upper bounds on the time-varying delay such that the uncertain system under consideration is robustly globally or locally asymptotically stabilizable via memoryless state feedback control laws. The obtained bounds are given in terms of solutions to Lyapunov equations. Two numerical examples are included to illustrate the results.
+time-delay systems, stabilization, robustness, nonlinear parametric perturbations, saturating actuators

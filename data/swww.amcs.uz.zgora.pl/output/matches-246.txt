@@ -1,0 +1,6 @@
+﻿3 - September 2016
+26 - 2016
+Vision based persistent localization of a humanoid robot for locomotion tasks
+Pablo A. Martínez, Mario Castelán, Gustavo Arechavaleta
+Typical monocular localization schemes involve a search for matches between reprojected 3D world points and 2D image features in order to estimate the absolute scale transformation between the camera and the world. Successfully calculating such transformation implies the existence of a good number of 3D points uniformly distributed as reprojected pixels around the image plane. This paper presents a method to control the march of a humanoid robot towards directions that are favorable for visual based localization. To this end, orthogonal diagonalization is performed on the covariance matrices of both sets of 3D world points and their 2D image reprojections. Experiments with the NAO humanoid platform show that our method provides persistence of localization, as the robot tends to walk towards directions that are desirable for successful localization. Additional tests demonstrate how the proposed approach can be incorporated into a control scheme that considers reaching a target position.
+robot localization, monocular vision, humanoid locomotion</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0046">10.1515/amcs-2016-0046</a>

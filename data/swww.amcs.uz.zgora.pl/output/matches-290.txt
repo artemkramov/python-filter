@@ -1,0 +1,6 @@
+﻿3 - September 2016
+26 - 2016
+The limit of inconsistency reduction in pairwise comparisons
+Waldemar W. Koczkodaj, Jacek Szybowski
+This study provides a proof that the limit of a distance-based inconsistency reduction process is a matrix induced by the vector of geometric means of rows when a distance-based inconsistent pairwise comparisons matrix is transformed into a consistent PC matrix by stepwise inconsistency reduction in triads. The distance-based inconsistency indicator was defined by Koczkodaj (1993) for pairwise comparisons. Its convergence was analyzed in 1996 (regretfully, with an incomplete proof) and finally completed in 2010. However, there was no interpretation provided for the limit of convergence despite its considerable importance. This study also demonstrates that the vector of geometric means and the right principal eigenvector are linearly independent for the pairwise comparisons matrix size greater than three, although both vectors are identical (when normalized) for a consistent PC matrix of any size.
+pairwise comparison, inconsistency reduction, convergence limit, decision making</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0050">10.1515/amcs-2016-0050</a>

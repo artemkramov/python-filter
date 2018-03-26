@@ -1,0 +1,6 @@
+﻿2 - June 2001
+11 - 2001
+On an invariant design of feedbacks for bilinear control systems of second order
+Vasiliy Ye. Belozyorov
+The problem of linear feedback design for bilinear control systems guaranteeing their conditional closed-loop stability is considered. It is shown that this problem can be reduced to investigating the conditional stability of solutions of quadratic systems of differential equations depending on parameters of the control law. Sufficient conditions for stability in the cone of a homogeneous quadratic system are obtained. For second-order systems, invariant conditions of conditional asymptotic stability are found.
+bilinear control systems, invariant design, asymptotic stability, second order systems

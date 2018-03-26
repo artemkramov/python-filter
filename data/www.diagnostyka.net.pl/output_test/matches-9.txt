@@ -1,0 +1,4 @@
+1-2016,3238">1/2016 vol. 17
+Testing of a data center environment with a generic model of a cloud-based telecommunication service
+81493-16985?filename=Testing of a data center
+The following article describes the issue of a Data Center environment testing with use of a generic model of a cloud-based telecommunication service. The Authors present a process of creation and selection of unique system properties, in order to design the generic model of a cloud-based telecommunication service. Layered structure of the presented model depicts complexity of resulting testing procedures. Definition of a genuine polynomial state equation of a cloud service, as well as a generic architecture of the cloud service testing environment are therein discussed.

@@ -1,0 +1,6 @@
+﻿2 - June 2016
+26 - 2016
+An<em>n</em>-ary<em>λ</em>-averaging based similarity classifier
+Onesfole Kurama, Pasi Luukka, Mikael Collan
+We introduce a new<em>n</em>-ary<em>λ</em>similarity classifier that is based on a new<em>n</em>-ary<em>λ</em>-averaging operator in the aggregation of similarities. This work is a natural extension of earlier research on similarity based classification in which aggregation is commonly performed by using the OWA-operator. So far<em>λ</em>-averaging has been used only in binary aggregation. Here the<em>λ</em>-averaging operator is extended to the<em>n</em>-ary aggregation case by using t-norms and t-conorms. We examine four different<em>n</em>-ary norms and test the new similarity classifier with five medical data sets. The new method seems to perform well when compared with the similarity classifier.
+similarity classifier with<em>λ</em>-averaging,<em>n</em>-ary<em>λ</em>-averaging operator,<em>n</em>-ary t-norm,<em>n</em>-ary t-conorm, classification</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0029">10.1515/amcs-2016-0029</a>

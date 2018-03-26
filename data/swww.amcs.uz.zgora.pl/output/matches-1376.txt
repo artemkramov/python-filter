@@ -1,0 +1,6 @@
+﻿2 - June 2001
+11 - 2001
+Regional detection and reconstruction of unknown internal or boundary sources
+Larbi Afifi, Abdelhaq El Jai, Malika Merry
+The purpose of this paper is to study the problem of regional detection, to characterize internal or boundary regionally detectable sources and regionally spy sensors, and to establish a relationship between these sensors and regionally strategic sensors. It is shown how to reconstruct a regionally detectable internal or a boundary source from a given output, with an extension to the case when the output is affected by an observation error. Numerical results are given in the case of a diffusion system.
+sources, detection, observation, region, sensors

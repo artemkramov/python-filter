@@ -1,0 +1,6 @@
+﻿2 - June 2007
+17 - 2007
+Falseness of the finiteness property of the spectral subradius
+Adam Czornik, Piotr Jurgaś
+We prove that there exist infinitely may values of the real parameter α for which the exact value of the spectral subradius of the set of two matrices (one matrix with ones above and on the diagonal and zeros elsewhere, and one matrix with α below and on the diagonal and zeros elsewhere, both matrices having two rows and two columns) cannot be calculated in a finite number of steps. Our proof uses only elementary facts from the theory of formal languages and from linear algebra, but it is not constructive because we do not show any explicit value of α that has described property. The problem of finding such values is still open.
+finiteness property, spectral subradius</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0016-1">10.2478/v10006-007-0016-1</a>

@@ -1,0 +1,6 @@
+﻿1 - March 2001
+11 - 2001
+Quasistatic problems in contact mechanics
+Meir Shillor
+We describe some of our recent results concerning the modeling and analysis of quasistatic contact problems between a deformable body and a foundation. We concentrate mainly on frictional contact, and in some of the problems thermal effects and the wear of the contacting surfaces are also taken into account. We describe the physical processes involved, the mathematical models, their variational formulation and then present statements of our results. We conclude with a description of some unresolved problems.
+quasistatic contact, unilateral contact, friction, wear, thermoriscoelastic, normal compliance

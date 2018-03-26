@@ -1,0 +1,7 @@
+Development of hammerhead ribozymes targeting miR-21
+a>View full text</a
+Belter A, Naskręt-Barciszewska M. Development of hammerhead ribozymes targeting miR-21. BioTechnologia. 2015;95(4):267-271. doi:10.5114/bta.2014.56599
+Belter, A., &amp; Naskręt-Barciszewska, M. (2015). Development of hammerhead ribozymes targeting miR-21. BioTechnologia, 95(4), 267-271. https://doi.org/10.5114/bta.2014.56599
+Belter, Agnieszka, and Mirosława Zofia Naskręt-Barciszewska. 2015. "Development of hammerhead ribozymes targeting miR-21". BioTechnologia 95 (4): 267-271. doi:10.5114/bta.2014.56599
+Belter, A., and Naskręt-Barciszewska, M. (2015). Development of hammerhead ribozymes targeting miR-21. BioTechnologia, 95(4), pp.267-271. https://doi.org/10.5114/bta.2014.56599
+The object of the invention are hammerhead ribozymes directed against the sequence of miR-21 and /or miR-21 precursors, having the ability to specifically cleave miR-21 and /or miR- 21 precursors, and wherein they have acatalytic core with a sequence as shown in SEQ ID No 1. The invention also relates to a composition comprising such ribozymes, a therapeutic agent comprising them, a use of such ribozymes and a method of selective cleavage of miR-21 and /or 1 miR-21 precursors employing such ribozymes.</div

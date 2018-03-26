@@ -1,0 +1,6 @@
+﻿3 - September 2003
+13 - 2003
+Logistic equations in tumour growth modelling
+Urszula Foryś, Anna Marciniak-Czochra
+The aim of this paper is to present some approaches to tumour growth modelling using the logistic equation. As the first approach the well-known ordinary differential equation is used to model the EAT in mice. For the same kind of tumour, a logistic equation with time delay is also used. As the second approach, a logistic equation with diffusion is proposed. In this case a delay argument in the reaction term is also considered. Some mathematical properties of the presented models are studied in the paper. The results are illustrated using computer simulations.
+logistic equation, delay differential equation, reaction-diffusion equation, stability, global stability, Hopf bifurcation, spatial pattern, Ehrlich ascities tumour

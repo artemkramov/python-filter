@@ -1,0 +1,17 @@
+﻿3/2016
+7
+Selection-of-methods-for-activated-sludge-bulking-control-using-a-molecular-biology-technique-combined-with-respirometric-tests,85,28337,0
+abstract:</div><div>RESEARCH PAPERS
+Selection of methods for activated sludge bulking control using a molecular biology technique combined with respirometric tests
+h3>Aleksandra Miłobędzka, Adam Muszyński</h3><div>vol. 97(3) C pp. 187-193 C 2016
+6.62356">https://doi.org/10.5114/bta.2016.62356
+a>View full text</a
+28337
+Miłobędzka A, Muszyński A. Selection of methods for activated sludge bulking control using a molecular biology technique combined with respirometric tests. BioTechnologia. 2016;97(3):187-193. doi:10.5114/bta.2016.62356
+Miłobędzka, A., &amp; Muszyński, A. (2016). Selection of methods for activated sludge bulking control using a molecular biology technique combined with respirometric tests. BioTechnologia, 97(3), 187-193. https://doi.org/10.5114/bta.2016.62356
+Miłobędzka, Aleksandra, and Adam Muszyński. 2016. "Selection of methods for activated sludge bulking control using a molecular biology technique combined with respirometric tests". BioTechnologia 97 (3): 187-193. doi:10.5114/bta.2016.62356
+Miłobędzka, A., and Muszyński, A. (2016). Selection of methods for activated sludge bulking control using a molecular biology technique combined with respirometric tests. BioTechnologia, 97(3), pp.187-193. https://doi.org/10.5114/bta.2016.62356
+Miłobędzka, Aleksandra et al. "Selection of methods for activated sludge bulking control using a molecular biology technique combined with respirometric tests." BioTechnologia, vol. 97, no. 3, 2016, pp. 187-193. doi:10.5114/bta.2016.62356
+/div><div>An excessive proliferation of certain groups of filamentous bacteria results in activated sludge (AS) bulking and foaming. Studies on the efficiency of specific and non-specific methods for AS bulking control were conducted. Polyaluminium compounds (PAX16 and PAX18) were used as specific methods, whereas changes in pH and in temperature were tested among non-specific methods. Floatation of AS was determined by the Alka-Seltzer-test, ability of AS to settle was measured as sludge volume index. Oxygen uptake rate tests were carried out to determine respiratory activity of AS. Fluorescence in situ hybridisation was applied to identify and quantify filamentous bacteria in AS, which cannot be obtained by the conventional method. Two dominant groups of filamentous bacteria – phylum Chloroflexi and genus Microthrix were found in AS samples, the latter was the causative agent for bulking. The nonspecific methods for sludge bulking control (pH/temperature changes) improved the settling properties, however they did not eliminate filamentous bacteria and in some cases decreased sludge respiratory activity. PAX16 (5.7 mg/kg SS) was the most efficient control strategy for bulking caused by Microthrix – it improved settling properties without increasing tendency to foam and did not decrease respiratory activity of AS.<
+null
+keywords:</div><h3>OUR, FISH, filamentous bacteria, Microthrix, Chloroflexi</h3

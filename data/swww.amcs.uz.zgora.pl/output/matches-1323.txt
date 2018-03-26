@@ -1,0 +1,6 @@
+﻿2 - June 2002
+12 - 2002
+Fuzzy logic gain scheduling for non-linear servo tracking
+Mieczysław A. Brdyś, Jonathan J. Littler
+This paper proposes the use of gain scheduling as a method of controlling a servo system with hard non-linear elements. The servo controls two elements of a tracker mounted on a ship at sea. There is stiction at the zero velocity point and non-linear friction against the motion of each tracker axis. A dual feedback loop control structure is employed. Fuzzy logic is used to provide smoothly varying non-linear scheduling functions to map the velocity of the servo relevant to the deck of the ship onto the rate loop controller parameters. Consideration is given to the use of a derivative signal as a secondary input to the fuzzy inference system. Results are presented which demonstrate that this method of controlling the servo system gives a dramatic improvement over the traditional linear control methodology for low velocity tracking performance. A linear PID controller is used in the outer loop and its design is also given some consideration.
+tracking, servo control, gain scheduling, fuzzy logic, stiction friction, hard non-linearities

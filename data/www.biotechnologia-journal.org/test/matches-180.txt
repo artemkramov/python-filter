@@ -1,0 +1,17 @@
+﻿2/2014
+5
+Molecular-mechanisms-of-lead-toxicity,85,24535,0
+abstract:</div><div>Review paper
+Molecular mechanisms of lead toxicity
+h3>Maciej Szymański</h3><div>vol. 95(2) C pp. 137-149 C 2014
+4.48856">https://doi.org/10.5114/bta.2014.48856
+a>View full text</a
+24535
+Szymański M. Molecular mechanisms of lead toxicity. BioTechnologia. 2015;95(2):137-149. doi:10.5114/bta.2014.48856
+Szymański, M. (2015). Molecular mechanisms of lead toxicity. BioTechnologia, 95(2), 137-149. https://doi.org/10.5114/bta.2014.48856
+Szymański, Maciej. 2015. "Molecular mechanisms of lead toxicity". BioTechnologia 95 (2): 137-149. doi:10.5114/bta.2014.48856
+Szymański, M. (2015). Molecular mechanisms of lead toxicity. BioTechnologia, 95(2), pp.137-149. https://doi.org/10.5114/bta.2014.48856
+Szymański, Maciej. "Molecular mechanisms of lead toxicity." BioTechnologia, vol. 95, no. 2, 2015, pp. 137-149. doi:10.5114/bta.2014.48856
+/div><div>Lead is a ubiquitous xenobiotic metal and because of its widespread industrial use is one of the most serious environmental<br><br>pollutants. Lead is highly toxic and exposure to even low doses can produce adverse effects on all<br><br>living organisms. In humans, lead exposure can affect virtually all body systems, resulting in severe health problems.<br><br>On a molecular level, lead can alter or interfere with the activity of proteins and nucleic acids, ultimately<br><br>resulting in changes in cell metabolism and physiology leading to pathologic states. Lead can also affect the<br><br>functions of macromolecules, directly or indirectly, by inducing oxidative stress, which is regarded as a primary<br><br>factor in pathophysiology of lead exposure.<
+null
+keywords:</div><h3>lead toxicity, heavy metal, oxidative stress, RNA damage, DNA damage, genomic instability</h3

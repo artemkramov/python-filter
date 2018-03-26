@@ -1,0 +1,6 @@
+﻿2 - June 1993
+3 - 1993
+A fixed point method in quasistatic rate-type viscoplasticity
+Seddik Djabi, Mircea Sofonea
+Two initial and boundary value problems describing the quasistatic evolution of semilinear rate-type viscoplastic models with/without internal state variables are considered. The existence and uniqueness of the solution is proved using only classical existence and uniqueness results for linear elasticity followed by a fixed point technique.
+-

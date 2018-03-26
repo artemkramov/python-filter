@@ -1,0 +1,6 @@
+﻿4 - December 2006
+16 - 2006
+Latent semantic indexing using eigenvalue analysis for efficient information retrieval
+Cherukuri Aswani Kumar, Suripeddi Srinivas
+Text retrieval using Latent Semantic Indexing (LSI) with truncated Singular Value Decomposition (SVD) has been intensively studied in recent years. However, the expensive complexity involved in computing truncated SVD constitutes a major drawback of the LSI method. In this paper, we demonstrate how matrix rank approximation can influence the effectiveness of information retrieval systems. Besides, we present an implementation of the LSI method based on an eigenvalue analysis for rank approximation without computing truncated SVD, along with its computational details. Significant improvements in computational time while maintaining retrieval accuracy are observed over the tested document collections.
+information retrieval, latent semantic indexing, eigenvalues, rank reduction, singular value decomposition,

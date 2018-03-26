@@ -1,0 +1,15 @@
+﻿Application-of-time-frequency-distributions-in-diagnostic-signal-processing-problems,63467
+2-2016,1600">2/2016 vol. 17
+Technical-diagnostics-of-hydropower-turbine-using-modern-measurement-techniques,62892,0,2.html" title="PREVIOUS
+Application of time-frequency distributions in diagnostic signal processing problems: a case study
+Andrzej-Katunin/37154">Andrzej Katunin
+null
+andrzej.katunin@polsl.pl
+Silesian University of Technology
+Publish date: 2016-06-04</div><div>Submission date: 2016-04-14</div><div>Final revision date: 2016-05-29</div><div>Acceptance date: 2016-05-31
+6;17(2):95–103
+63467-17835?filename=Application of
+signal+processing/6439">signal processing<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-time-frequency+distributions/76581">time-frequency distributions<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-multicomponent+identification/76582">multicomponent identification
+bearing+fault+diagnosis/76583">bearing fault diagnosis</a><div>&nbsp;</div></div><div>TOPICS:</div><div><a href="http://www.diagnostyka.net.pl/Topic-Signal+analysis/3949">Signal analysis<div></div></a><a href="http://www.diagnostyka.net.pl/Topic-Technical+diagnostics/3947">Technical diagnostics
+In this paper, the author analyzed an applicability of selected types of time-frequency distributions that belong to Cohen’s class and their reassignments for signals similar to those obtained during machinery diagnostics. At the first step of performed studies a synthetic multicomponent signal that contains both stationary and non-stationary components was analyzed using algorithms based on various time-frequency distributions. This allows for evaluating effectiveness of identification of particular components by applied time-frequency distributions and selecting a group of the most effective algorithms. At the second step, the selected time-frequency distributions were applied for analysis of signals acquired during diagnosis of rolling bearings in order to verify the effectiveness of identification of components responsible for a priori known faults occurred in bearings.</div><div>CORRESPONDING AUTHOR:</div><a href="http://www.diagnostyka.net.pl/Author-Andrzej-Katunin/37154">Andrzej Katunin</a>&nbsp;&nbsp;<a href="mailto:andrzej.katunin@polsl.pl"><div></div></a><div>Silesian University of Technology, Konarskiego 18A, 44-100 Gliwice, Polska
+></div></div><div><div><div></div>Related articles</div><div><div><a href="http://www.diagnostyka.net.pl/Localization-of-damage-in-beam-like-structures-applying-time-frequency-distributions,64885,0,2.html">Localization of damage in beam-like structures applying time-frequency distributions to modal shapes of vibration</a></div

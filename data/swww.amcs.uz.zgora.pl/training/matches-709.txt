@@ -1,0 +1,6 @@
+﻿1 - March 2012
+22 - 2012
+Fault-tolerant control strategy for actuator faults using LPV techniques: Application to a two degree of freedom helicopter
+Saúl Montes de Oca, Vicenç Puig, Marcin Witczak, Łukasz Dziekan
+In this paper, a Fault Tolerant Control (FTC) strategy for Linear Parameter Varying (LPV) systems that can be used in the case of actuator faults is proposed. The idea of this FTC method is to adapt the faulty plant instead of adapting the controller to the faulty plant. This approach can be seen as a kind of virtual actuator. An integrated FTC design procedure for the fault identification and fault-tolerant control schemes using LPV techniques is provided as well. Fault identification is based on the use of an<em>Unknown Input Observer</em>(UIO). The FTC controller is implemented as a state feedback controller and designed using polytopic LPV techniques and Linear Matrix Inequality (LMI) regions in such a way as to guarantee the closed-loop behavior in terms of several LMI constraints. To assess the performance of the proposed approach, a two degree of freedom helicopter is used.
+fault-tolerant control, linear parameter varying, virtual actuator, linear matrix inequality</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0012-y">10.2478/v10006-012-0012-y</a>

@@ -1,0 +1,6 @@
+﻿3 - September 1997
+7 - 1997
+Computing in<em>GF</em>(2<em><sup>m</sup></em>) using GAP
+Czesław Kościelny
+The GAP system supports, in principle, finite fields of size at most 2<sup>16</sup>. Therefore, the author discusses in the paper how to compute in larger Galois fields of characteristic 2, using the GAP interpreter. The proposed method of computing is based on the software implementation of operations in<em>GF</em>(2<em><sup>m</sup></em>) according to a technique typical of parallel finite field arithmetic logic circuits. The GAP functions for determining in<em>GF</em>(2<em><sup>m</sup></em>) the sum and the product of two arbitrary elements, the<em>k</em>-th power, the square and the multiplicative inverse of an element, even for<em>m</em>equal to several hundreds, are shown. A comprehensive example, concerning the structure investigation of<em>GF</em>(2<sup>63</sup>),<em>GF</em>(2<sup>100</sup>) and<em>GF</em>(2<sup>250</sup>), consisting in determining small subfields of these fields, is also presented.
+-

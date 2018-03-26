@@ -1,0 +1,15 @@
+﻿High-temperature-impact-assessment-on-the-shear-strength-of-adhesively-bonded-joints,81465
+3-2015,3236">3/2015 vol. 16
+The-strength-and-dynamic-analysis-of-the-prototype-of-Tesla-turbine,81466,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/Evaluation-of-patch-tests-results-research-and-development-of-technique-based-on,81464,0,2.html" title="PREVIOUS
+High temperature impact assessment on the shear strength of adhesively bonded joints in multi-material design
+Paweł-Zdziebko/74904">Paweł Zdziebko
+null
+zdziebko@agh.edu.pl
+>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Jakub-Korta/74905">Jakub Korta</a></span>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Tadeusz-Uhl/36468">Tadeusz Uhl</a></span
+AGH University of Science and Technology Faculty of Mechanical Engineering and Robotics Department of Robotics and Mechatronics, al. A. Mickiewicza 30, 30-059, Kraków, Poland
+Publish date: 2017-12-21
+5;16(3):9–15
+81465-16947?filename=High temperature impact
+glues/146958">glues<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-adhesives/67591">adhesives<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-bonding/9914">bonding<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-high+temperature/18221">high temperature
+multi-material+joints/146959">multi-material joints
+Multi-material joints are implemented in many fields, including automotive and aerospace in-dustries. Adhesive bonding technique allows for joining components made of different materials, which facilitates the implementation of lightweight materials in multi-material structures. In this study the shear strength of single lap, adhesively bonded joints was examined at room and high temperature (110⁰C). In the paper the influence of elevated temperature on epoxy adhesive joints in multi -materials structures is presented. A sensitivity of shear strength on material type of adher ents in adhesively bonded joints is considered. Prediction of the state of joints and knowledge on their degradation process are important for structural health monitoring of structures with adhe-sive joints. For the purposes of research, specimens consisting of adherents made of various materials were used (following were involved: aluminum alloy, CFRP and abrasive resistant steel) . Studies have demonstrated, that appliedepoxy adhesive considerably weakens atelevated temperature and it was observed that material type of adherentshas a large influence on the shear strength of adhe-sively bonded joints.

@@ -1,0 +1,6 @@
+﻿3 - September 2003
+13 - 2003
+Analysis of immunotherapy models in the context of cancer dynamics
+Zuzanna Szymańska
+A basic mathematical model of the immune response when cancer cells are recognized is proposed. The model consists of six ordinary differential equations. It is extended by taking into account two types of immunotherapy: active immunotherapy and adoptive immunotherapy. An analysis of the corresponding models is made to answer the question which of the presented methods of immunotherapy is better. The analysis is completed by numerical simulations which show that the method of adoptive immunotherapy seems better for the patient at least in some cases.
+dynamic systems, immune system, cancer, vaccination

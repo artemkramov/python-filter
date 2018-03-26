@@ -1,0 +1,17 @@
+﻿2/2017
+8
+Molecular-characterization-of-Iranian-black-cumin-Nigella-sativa-L-accessions-using-RAPD-marker,85,30106,0
+abstract:</div><div>RESEARCH PAPERS
+Molecular characterization of Iranian black cumin (<i>Nigella sativa</i>L.) accessions using RAPD marker
+h3>Mahmoud Ghorbanzadeh Neghab, Bahman Panahi</h3><div>BioTechnologia vol. 98(2) pp. 97-102 2017
+7.68308">https://doi.org/10.5114/bta.2017.68308
+a>View full text</a
+30106
+Neghab M, Panahi B. Molecular characterization of Iranian black cumin (&lt;i&gt;Nigella sativa &lt;/i&gt;L.) accessions using RAPD marker. BioTechnologia. 2017;98(2):97-102. doi:10.5114/bta.2017.68308
+Neghab, M., &amp; Panahi, B. (2017). Molecular characterization of Iranian black cumin (&lt;i&gt;Nigella sativa &lt;/i&gt;L.) accessions using RAPD marker. BioTechnologia, 98(2), 97-102. https://doi.org/10.5114/bta.2017.68308
+Neghab, Mahmoud Ghorbanzadeh, and Bahman Panahi. 2017. "Molecular characterization of Iranian black cumin (&lt;i&gt;Nigella sativa &lt;/i&gt;L.) accessions using RAPD marker". BioTechnologia 98 (2): 97-102. doi:10.5114/bta.2017.68308
+Neghab, M., and Panahi, B. (2017). Molecular characterization of Iranian black cumin (&lt;i&gt;Nigella sativa &lt;/i&gt;L.) accessions using RAPD marker. BioTechnologia, 98(2), pp.97-102. https://doi.org/10.5114/bta.2017.68308
+Neghab, Mahmoud Ghorbanzadeh et al. "Molecular characterization of Iranian black cumin (&lt;i&gt;Nigella sativa &lt;/i&gt;L.) accessions using RAPD marker." BioTechnologia, vol. 98, no. 2, 2017, pp. 97-102. doi:10.5114/bta.2017.68308
+/div><div><i>Nigella sativa</i>L. (2n = 12) is an annual flowering plant belonging to the family Ranunculaceae known for medicinal properties demonstrating valuable components that are widely used in food and pharmaceutical industries. Nine Random Amplified Polymorphic DNA markers (RAPD) were used in this study, in order to characterize the genetic variation of 16 black cumin varieties collected from Iran’s different regions. The amplification reaction produced 95 bands with sizes ranging from about 100 to 500 bp. The average frequency of bands was 20 while the averages of polymorphism were about 8.11 per primer. The Jaccard similarity coefficient and the Unweighted Pair-Group Method Analysis (UPGMA) clustering algorithm were applied to the RAPD data sets in order to understand the genetic relationships among the tested accessions. The accessions were categorized into three groups using cluster analysis. The results were supported by the Principal Coordinate Analysis (PCoA) cluster analysis. The results showed that the tested black cumin genotypes had a high genetic diversity and could be used in black cumin germplasm conservation programs. Moreover, the RAPD is a versatile approach to the diversity analysis of native accessions of black cumin.<
+null
+keywords:</div><h3>genetic diversity, Nigella sativa, RAPD, PCoA</h3

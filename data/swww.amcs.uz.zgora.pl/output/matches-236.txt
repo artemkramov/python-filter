@@ -1,0 +1,6 @@
+﻿1 - March 1996
+6 - 1996
+Crest factor minimization: A neural network approach
+Nikos E. Mastorakis
+In this paper, a state-space model is proposed for the minimization problem of the crest factor in the case of a multi sine signal. This state-space model provides a stable neural network and it can be studied using computer simulation.
+-

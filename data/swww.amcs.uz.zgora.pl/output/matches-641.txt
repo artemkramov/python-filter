@@ -1,0 +1,6 @@
+﻿1 - March 2013
+23 - 2013
+Scheduling problems with a common due window assignment: A survey
+Adam Janiak, Tomasz Kwiatkowski, Maciej Lichtenstein
+In this article a survey of studies on scheduling problems with a common due window assignment and earliness/tardiness penalty functions is presented. A due window is a generalization of the classical due date and describes a time interval in which a job should be finished. If a job is completed before or after the due window, it incurs an earliness or a tardiness penalty, respectively. In this survey we separately analyse the classical models with job-independent and job-dependent earliness/tardiness penalty functions and some other more complicated models. We describe the computational complexity of the problems and the main features of the approaches developed to solve them. Particular attention is paid to practical applications of the analysed models. As turns out, some complicated models combining classical scheduling problems with, e.g., learning and aging effects have no reasonable practical justification in the literature.
+scheduling, due window assignment, earliness/tardiness, practical example</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0018">10.2478/amcs-2013-0018</a>

@@ -1,0 +1,6 @@
+﻿2 - June 1999
+9 - 1999
+Variational analysis of a frictional contact problem for the Bingham fluid
+Bassam Awbi, Lynda Selmani, Mircea Sofonea
+We consider a mathematical model which describes the flow of a Bingham fluid with friction. . We assume a stationary flow and we model the contact with damped response and a local version of Coulomb's law of friction. The problem leads to a quasi-variational inequality for the velocity field. We establish the existence of a weak solution and, under additional assumptions, its uniqueness. The proofs are based on a new result obtained in (Motreanu and Sofonea, 1999). We also establish the continuous dependence of the solution with respect to the contact conditions.
+Bingham fluid, damped response, Coulomb's friction law, quasivariational inequality, weak solution

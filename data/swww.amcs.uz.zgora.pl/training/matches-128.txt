@@ -1,0 +1,6 @@
+﻿1 - March 1998
+8 - 1998
+Robust identification by dynamic neural networks using sliding mode learning
+Alexander S. Poznyak, Wen Yu, Edgar N. Sanchez, Hebertt Sira-Ramirez
+The problem of identification of continuous, uncertain nonlinear systems in the presence of bounded disturbances is implemented using dynamic neural networks. The proposed neural identifier guarantees a bound for the state estimation error. This bound turns out to be a linear combination of internal and external uncertainty levels. The neural net weights are updated on-line by a learning algorithm based on the sliding mode technique. To the best of the authors' knowledge, such a learning scheme is proposed for dynamic neural networks for the first time. Numerical simulations illustrate its effectiveness, even for highly nonlinear systems in the presence of important disturbances.
+-

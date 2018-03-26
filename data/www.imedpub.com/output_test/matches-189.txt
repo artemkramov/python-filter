@@ -1,2 +1,3 @@
 ﻿High-speed signal processing in a programmable propagation simulator
 The real–time channel simulator described is an experimental apparatus designed not only for modelling a wideband channel, but also as a flexible machine for experimentation in propagation models and effects. In this paper, we describe the signal processing techniques used to model fading phenomena as well as the use of highspeed quadrature signal processing in the front-end of the simulator.
+E. Ehinlafa, A. B. Shobo, D. O. Kehinde and G. A. Ibitolac

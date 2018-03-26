@@ -1,0 +1,6 @@
+﻿1 - March 2005
+15 - 2005
+Delay-dependent asymptotic stabilitzation for uncertain time-delay systems with saturating actuators
+Pin-Lin Liu
+This paper concerns the issue of robust asymptotic stabilization for uncertain time-delay systems with saturating actuators. Delay-dependent criteria for robust stabilization via linear memoryless state feedback have been obtained. The resulting upper bound on the delay time is given in terms of the solution to a Riccati equation subject to model transformation. Finally, examples are presented to show the effectiveness of our result.
+stability, delay-dependency, time delay system, Riccati equation

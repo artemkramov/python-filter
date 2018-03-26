@@ -1,0 +1,17 @@
+﻿2/2016
+7
+-Myo-inositol-1-phosphate-synthase-the-chosen-path-of-evolution,85,27818,0
+abstract:</div><div>RESEARCH PAPERS
+<i>Myo</i>-inositol 1-phosphate synthase – the chosen path of evolution
+h3>Anjan Hazra, Paramita Nandy (Datta)</h3><div>BioTechnologia vol. 97(2) C pp. 95-108 C 2016
+6.60780">https://doi.org/10.5114/bta.2016.60780
+a>View full text</a
+27818
+Hazra A, Nandy (Datta) P. &lt;i&gt;Myo&lt;/i&gt;-inositol 1-phosphate synthase – the chosen path of evolution. BioTechnologia. 2016;97(2):95-108. doi:10.5114/bta.2016.60780
+Hazra, A., &amp; Nandy (Datta), P. (2016). &lt;i&gt;Myo&lt;/i&gt;-inositol 1-phosphate synthase – the chosen path of evolution. BioTechnologia, 97(2), 95-108. https://doi.org/10.5114/bta.2016.60780
+Hazra, Anjan, and Paramita Nandy (Datta). 2016. "&lt;i&gt;Myo&lt;/i&gt;-inositol 1-phosphate synthase – the chosen path of evolution". BioTechnologia 97 (2): 95-108. doi:10.5114/bta.2016.60780
+Hazra, A., and Nandy (Datta), P. (2016). &lt;i&gt;Myo&lt;/i&gt;-inositol 1-phosphate synthase – the chosen path of evolution. BioTechnologia, 97(2), pp.95-108. https://doi.org/10.5114/bta.2016.60780
+Hazra, Anjan et al. "&lt;i&gt;Myo&lt;/i&gt;-inositol 1-phosphate synthase – the chosen path of evolution." BioTechnologia, vol. 97, no. 2, 2016, pp. 95-108. doi:10.5114/bta.2016.60780
+/div><div><i>myo</i>-inositol is a cyclohexanehexol containing cyclic polyol that has an important role in both abiotic and biotic stress responses, and it is specifically found to be accumulated in halophytes under salt stress where it acts as an osmolyte. Biosynthesis of<i>myo</i>-inositol is catalyzed by<i>myo</i>-inositol 1-zhosphate synthase (EC 5.5.1.4, MIPS). The enzyme has been reported from a wide range of organisms belonging to prokaryotes and eukaryotes. In the current investigation, the naturally most fit isoform (in terms of selection pressure) or sequence variety of MIPS, known so far, was identified from the highest evolved plant group angiosperm. Subsequently, homologues of this MIPS variety were analysed from each of the taxonomic groups of the plant kingdom. Two common domains in MIPS nucleotide sequences and six conserved domains in the amino acid sequences were isolated, of which two amino acid domains were found to be unique for plants. According to the phylogenetic tree analysis based on MIPS amino acid sequences, MIPS proteins under current study are found to be clustered in branches in a way that confirms a common plant taxonomical lineage. Molecular clock analysis confirmed a much higher relative time of divergence from the prokaryotic cyanobacteria to eukaryotes, than the divergence within the eukaryotic community. As revealed by our study, MIPS started evolving from the lowermost plant group and with some modification through time it attained its highest adapted state in angiosperm via all intermediate plant groups. Interestingly, Porteresia MIPS is reflected as an isolated entity from other angiospermic members.<
+null
+keywords:</div><h3><i>myo</i>-inositol 1-phosphate synthase, evolution, natural selection, conserveness, phylogenetic tree, time of divergence</h3

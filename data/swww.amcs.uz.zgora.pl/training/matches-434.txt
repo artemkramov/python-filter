@@ -1,0 +1,6 @@
+﻿4 - December 2016
+26 - 2016
+A comparison of hole-filling methods in 3D
+Emiliano Pérez, Santiago Salamanca, Pilar Merchán, Antonio Adán
+This paper presents a review of the most relevant current techniques that deal with hole-filling in 3D models. Contrary to earlier reports, which approach mesh repairing in a sparse and global manner, the objective of this review is twofold. First, a specific and comprehensive review of hole-filling techniques (as a relevant part in the field of mesh repairing) is carried out. We present a brief summary of each technique with attention paid to its algorithmic essence, main contributions and limitations. Second, a solid comparison between 34 methods is established. To do this, we define 19 possible meaningful features and properties that can be found in a generic hole-filling process. Then, we use these features to assess the virtues and deficiencies of the method and to build comparative tables. The purpose of this review is to make a comparative hole-filling state-of-the-art available to researchers, showing pros and cons in a common framework.
+survey, 3D polygonal models, repairing meshes, hole-filling, restoration algorithms</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0063">10.1515/amcs-2016-0063</a>

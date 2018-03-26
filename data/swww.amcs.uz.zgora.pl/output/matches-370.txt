@@ -1,0 +1,6 @@
+﻿4 - December 1994
+4 - 1994
+Automatic detection and correction of computational errors in programs
+P.A.D. de Maine, M.M. de Maine
+Two different kinds of methods that are frequently used to evaluate functions are: Regression (for single-valued parameters) and Iteration (for multi-valued parameters). Comprehensive tests have established that both regression and iteration methods can yield unexpected false answers because their criteria are , necessary but not sufficient conditions. Working algorithms that automatically detect and correct computational errors are described. For regression methods, in the Maximum Tolerance (MAXTOL) algorithm, the traditional question "Do these data describe this equation?" is replaced by "Do these data describe this equation within user stipulated limits of reliability for the raw data?" For iteration methods absolute measures for computational accuracy, determined from a general form of the Law of Conservation of Mass and Energy, have led to the development of the fully Automatic Error Detection and Corrective Action (EDCA) algorithm.
+-

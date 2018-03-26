@@ -1,0 +1,6 @@
+﻿3 - September 2012
+22 - 2012
+A survey of subpixel edge detection methods for images of heat-emitting metal specimens
+Anna Fabijańska
+In this paper the problem of accurate edge detection in images of heat-emitting specimens of metals is discussed. The images are provided by the computerized system for high temperature measurements of surface properties of metals and alloys. Subpixel edge detection is applied in the system considered in order to improve the accuracy of surface tension determination. A reconstructive method for subpixel edge detection is introduced. The method uses a Gaussian function in order to reconstruct the gradient function in the neighborhood of a coarse edge and to determine its subpixel position. Results of applying the proposed method in the measurement system considered are presented and compared with those obtained using different methods for subpixel edge detection.
+subpixel accuracy, edge detection, surface property, approximation, Gaussian function</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0052-3">10.2478/v10006-012-0052-3</a>

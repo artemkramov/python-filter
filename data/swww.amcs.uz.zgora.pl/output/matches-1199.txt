@@ -1,0 +1,6 @@
+﻿1 - March 2018
+28 - 2018
+Robust stabilization using a sampled-data strategy of uncertain neutral state-delayed systems subject to input limitations
+Nabil El Fezazi, Fatima El Haoussi, El Houssaine Tissir, Teresa Alvarez, Fernando Tadeo
+Stabilization of neutral systems with state delay is considered in the presence of uncertainty and input limitations in magnitude. The proposed solution is based on simultaneously characterizing a set of stabilizing controllers and the associated admissible initial conditions through the use of a free weighting matrix approach. From this mathematical characterization, state feedback gains that ensure a large set of admissible initial conditions are calculated by solving an optimization problem with LMI constraints. Some examples are presented to compare the results with previous approaches in the literature.
+robust stabilization, sampled-data, time-delay systems, input saturation, admissible initial conditions, LMI</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2018-0008">10.2478/amcs-2018-0008</a>

@@ -1,0 +1,17 @@
+﻿3/2012
+3
+RESEARCH-PAPER-Sensitivity-analysis-of-mathematical-models-r-nof-signaling-pathways,85,23910,0
+abstract:
+RESEARCH PAPER<br>Sensitivity analysis of mathematical models of signaling pathways
+h3>Agata Charzyńska, Anna Nałęcz, Mikołaj Rybiński, Anna Gambin</h3><div>BioTechnologia vol. 93(3) C pp. 291-308 C 2012
+2.46584">https://doi.org/10.5114/bta.2012.46584
+a>View full text</a
+23910
+Charzyńska A, Nałęcz A, Rybiński M, Gambin A. RESEARCH PAPER&lt;br&gt;Sensitivity analysis of mathematical models of signaling pathways. BioTechnologia. 2014;93(3):291-308. doi:10.5114/bta.2012.46584
+Charzyńska, A., Nałęcz, A., Rybiński, M., &amp; Gambin, A. (2014). RESEARCH PAPER&lt;br&gt;Sensitivity analysis of mathematical models of signaling pathways. BioTechnologia, 93(3), 291-308. https://doi.org/10.5114/bta.2012.46584
+Charzyńska, Agata, Anna Nałęcz, Mikołaj Rybiński, and Anna Gambin. 2014. "RESEARCH PAPER&lt;br&gt;Sensitivity analysis of mathematical models of signaling pathways". BioTechnologia 93 (3): 291-308. doi:10.5114/bta.2012.46584
+Charzyńska, A., Nałęcz, A., Rybiński, M., and Gambin, A. (2014). RESEARCH PAPER&lt;br&gt;Sensitivity analysis of mathematical models of signaling pathways. BioTechnologia, 93(3), pp.291-308. https://doi.org/10.5114/bta.2012.46584
+Charzyńska, Agata et al. "RESEARCH PAPER&lt;br&gt;Sensitivity analysis of mathematical models of signaling pathways." BioTechnologia, vol. 93, no. 3, 2014, pp. 291-308. doi:10.5114/bta.2012.46584
+/div><div>Modeling the dynamic behavior of signal transduction pathways is an important topic in systems biology. Mathematical<br><br>models complement experimental technologies used to identify the molecular components and interactions<br><br>in a system of interest. In this paper, we illustrate different types of mathematical approaches that are<br><br>used to model signaling network behavior. Here, we review the basic methods of sensitivity analysis and apply<br><br>them to the model of the system of membrane receptors. Four such receptors are considered: growth factor epidermal,<br><br>low density lipoprotein, transferrin and vitellogenin receptor. We argue that application of sensitivity analysis<br><br>methods provides an insight into how a signaling system controls the cell behavior.<
+null
+keywords:</div><h3>membrane receptors, ordinary differential equations, stochastic modeling, chemical master equation, sensitivity analysis</h3

@@ -1,0 +1,6 @@
+﻿4 - December 2005
+15 - 2005
+Neuro-fuzzy modelling based on a deterministic annealing approach
+Robert Czabański
+This paper introduces a new learning algorithm for artificial neural networks, based on a fuzzy inference system ANBLIR. It is a computationally effective neuro-fuzzy system with parametrized fuzzy sets in the consequent parts of fuzzy if-then rules, which uses a conjunctive as well as a logical interpretation of those rules. In the original approach, the estimation of unknown system parameters was made by means of a combination of both gradient and least-squares methods. The novelty of the learning algorithm consists in the application of a deterministic annealing optimization method. It leads to an improvement in the neuro-fuzzy modelling performance. To show the validity of the introduced method, two examples of application concerning chaotic time series prediction and system identification problems are provided.
+fuzzy systems, neural networks, neuro-fuzzy systems, rules extraction, deterministic annealing, prediction

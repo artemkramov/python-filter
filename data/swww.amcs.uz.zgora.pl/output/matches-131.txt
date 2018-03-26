@@ -1,0 +1,6 @@
+﻿1 - March 1998
+8 - 1998
+Composite adaptive SMC of nonlinear base isolated buildings with actuator dynamics
+Ningsu Luo, Manuel De La Sen, José Rodellar
+This paper addresses the problem of designing a robust active controller for nonlinear base isolated building structures in the presence of unknown seismic excitations, parametric uncertainties and actuator dynamics. A simple adaptation law is introduced to get available upper bounds for the unknown seismically excited nonlinearities. Adaptive composite output feedback sliding mode control schemes are proposed to drive the displacements of the base and structure to their zero equilibrium positions. A numerical simulation example is presented to illustrate the effectiveness of the proposed strategies to a ten-storey base isolated structure under the<em>El Centro</em>earthquake.
+-

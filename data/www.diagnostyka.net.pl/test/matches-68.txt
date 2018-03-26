@@ -1,0 +1,15 @@
+﻿Stable-distributions-generalised-entropy-and-fractal-diagnostic-models-of-mechanical,78814
+4-2017,2755">4/2017 vol. 18
+A-device-for-measuring-conveyor-belt-thickness-and-for-evaluating-the-changes-in,78348,0,2.html" title="PREVIOUS
+Stable distributions, generalised entropy, and fractal diagnostic models of mechanical vibration signals
+Andrzej-Puchalski/400">Andrzej Puchalski
+null
+</sup>&nbsp;&nbsp;<a href="mailto:andrzej.puchalski@uthrad.pl"><div></div></a>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Iwona-Komorska/70521">Iwona Komorska</a></span><sup>2
+iwona.komorska@uthrad.pl
+UTH Radom</span></div></td></tr><tr><td>2</td><td><div><span>University of Technology and Humanities in Radom, Radom, Poland
+Publish date: 2017-11-08</div><div>Submission date: 2017-07-31</div><div>Final revision date: 2017-09-06</div><div>Acceptance date: 2017-10-20
+7;18(4):103–110
+78814-17627?filename=Stable distributions_
+vibrodiagnostics/128380">vibrodiagnostics<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-multifractality/128381">multifractality
+parameterised+%28generalised%29+entropy/128382">parameterised (generalised) entropy</a><div>&nbsp;</div></div><div>TOPICS:</div><div><a href="http://www.diagnostyka.net.pl/Topic-Diagnosis+vehicle/3946">Diagnosis vehicle<div></div></a><a href="http://www.diagnostyka.net.pl/Topic-Diagnostic+systems/3943">Diagnostic systems<div></div></a><a href="http://www.diagnostyka.net.pl/Topic-Signal+analysis/3949">Signal analysis<div></div></a><a href="http://www.diagnostyka.net.pl/Topic-Technical+diagnostics/3947">Technical diagnostics
+Vibrodiagnostic analysis of wearing and/or defects of complex rotating systems confirms the presence of non-linear, nonstationary and multiscale properties as well as long-term correlations of real signals. The recorded time series of vibrations are often of an impulse character. Probability distributions are different than Gaussian distributions and exhibit heavy-tails. These are important sources of multifractal dynamics, requiring advanced, data-based modelling methods. The reliable numerical algorithms, used for calculations of functions of stable distributions and multifractal properties, were applied in the approach presented in the hereby paper. Relations between parameters of stable distributions and singularity spectra indicate the possibility of applying both methods for modelling mechanical vibrations signals in diagnostics of complex systems. The performed investigations confirmed the possibility of modelling and assessing the observed states of the powertrain of vehicles with SI engines, on the bases of parameters of alpha-stable distribution (ASD) and parameterised entropy of mechanical vibrations signals.</div><div>CORRESPONDING AUTHOR:</div><a href="http://www.diagnostyka.net.pl/Author-Andrzej-Puchalski/400">Andrzej Puchalski</a>&nbsp;&nbsp;<a href="mailto:andrzej.puchalski@uthrad.pl"><div></div></a><div>UTH Radom, ul.Chrobrego 45, 26-600 Radom, Polska

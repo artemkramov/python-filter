@@ -1,0 +1,16 @@
+﻿Uniformity-testing-of-complex-technical-system-operation-process-statistical-data,81494
+1-2016,3238">1/2016 vol. 17
+The-detection-of-anomalies-in-controlling-of-the-combustion-process-by-using-a-genetic,81495,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/Testing-of-a-data-center-environment-with-a-generic-model-of-a-cloud-based-telecommunication,81493,0,2.html" title="PREVIOUS
+Uniformity testing of complex technical system operation process statistical data sets
+Krzysztof-Kołowrocki/74924">Krzysztof Kołowrocki
+null
+katmatkk@am.gdynia.pl
+>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Joanna-Soszyńska-Budny/74947">Joanna Soszyńska-Budny</a></span
+Akademia Morska w Gdyni, 81-225 Gdynia, ul. Morska 81-87
+Publish date: 2017-12-21
+6;17(1):13–20
+81494-16986?filename=Uniformity testing of
+operation+process/147037">operation process<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-data+uniformity+testing/147038">data uniformity testing<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-identification/14901">identification<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-prediction/10453">prediction
+maritime+transport/147039">maritime transport
+The paper is concerned with the methods for statistical data uniformity testing and identifying unknown parameters of a general probability model of a complex technical system operation process and their practical application. The general model of a complex technical system operation process is constructed. The procedure of statistical data sets uniformity testing is proposed and applied to the empirical realizations of the system operation processes sojourn times at the operation states coming from the realizations of a maritime ferry operation process collected during spring and winter into separate two sets of data. After that, the identification of the maritime ferry technical system operation process is performed and moreover the identified process is applied to its operation characteristics prediction.
+></div></div><div><div><div></div>Related articles</div><div><div><a href="http://www.diagnostyka.net.pl/Statistical-identification-of-complex-technical-system-operation-process,81480,0,2.html">Statistical identification of complex technical system operation process</a></div

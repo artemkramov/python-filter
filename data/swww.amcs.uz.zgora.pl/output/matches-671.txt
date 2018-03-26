@@ -1,0 +1,6 @@
+﻿3 - September 2013
+23 - 2013
+Controlling a non-homogeneous Timoshenko beam with the aid of the torque
+Grigory M. Sklyar, Grzegorz Szkibiel
+Considered is the control and stabilizability of a slowly rotating non-homogeneous Timoshenko beam with the aid of a torque. It turns out that the beam is (approximately) controllable with the aid of the torque if and only if it is (approximately) controllable. However, the controllability problem appears to be a side-effect while studying the stabilizability. To build a stabilizing control one needs to go through the methods of correcting the operators with functionals so that they have finally the appropriate form and the results on<em>C</em><sup>0</sup>-continuous semigroups may be applied.
+Timoshenko beam, rotating beam control, approximate control, stabilizability</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0044">10.2478/amcs-2013-0044</a>

@@ -1,0 +1,6 @@
+﻿1 - March 2011
+21 - 2011
+Experimental analysis of some computation rules in a simple parallel reasoning system for the ALC description logic
+Adam Meissner
+A computation rule determines the order of selecting premises during an inference process. In this paper we empirically analyse three particular computation rules in a tableau-based, parallel reasoning system for the ALC description logic, which is built in the relational programming model in the Oz language. The system is constructed in the lean deduction style, namely, it has the form of a small program containing only basic mechanisms, which assure soundness and completeness of reasoning. In consequence, the system can act as a convenient test-bed for comparing various inference algorithms and their elements. We take advantage of this property and evaluate the studied methods of selecting premises with regard to their efficiency and speedup, which can be obtained by parallel processing.
+parallel reasoning, lean deduction, ALC description logic, Oz language</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-011-0006-1">10.2478/v10006-011-0006-1</a>

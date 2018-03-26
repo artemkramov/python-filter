@@ -1,0 +1,6 @@
+﻿1 - March 2004
+14 - 2004
+Generalized practical stability analysis of discontinuous dynamical systems
+Guisheng Zhai, Anthony N. Michel
+In practice, one is not only interested in the qualitative characterizations provided by the Lyapunov stability, but also in quantitative information concerning the system behavior, including estimates of trajectory bounds, possibly over finite time intervals. This type of information has been scertained in the past in a systematic manner using the concept of practical stability. In the present paper, we give a new definition of generalized practical stability (abbreviated as GP-stability) and establish some sufficient conditions concerning GP-stability for a wide class of discontinuous dynamical systems. As in the classical Lyapunov theory, our results constitute a Direct Method, making use of auxiliary scalar-valued Lyapunov-like functions. These functions, however, have properties that differ significantly from the usual Lyapunov functions. We demonstrate the applicability of our results by means of several specific examples.
+discontinuous dynamical system, quantitative analysis, generalized practical stability (GP-stability), Lyapunov-like

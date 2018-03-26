@@ -1,0 +1,6 @@
+﻿1 - March 1998
+8 - 1998
+The use of sliding modes to simplify the backstepping control method
+A.A. Stotsky, J .K. Hedrick, P.P. Yip
+A simple sliding mode based controller for nonlinear systems with mismatched uncertainties is proposed. The design methodology is similar to a backstepping and multiple surface control method, but with the inclusion of sliding mode filters for estimating the derivatives of the plant output.
+-

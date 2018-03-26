@@ -1,0 +1,6 @@
+﻿3 - September 2013
+23 - 2013
+A simple scheme for semi-recursive identification of Hammerstein system nonlinearity by Haar wavelets
+Przemysław Śliwiński, Zygmunt Hasiewicz, Paweł Wachel
+A simple semi-recursive routine for nonlinearity recovery in Hammerstein systems is proposed. The identification scheme is based on the Haar wavelet kernel and possesses a simple and compact form. The convergence of the algorithm is established and the asymptotic rate of convergence (independent of the input density smoothness) is shown for piecewise-Lipschitz nonlinearities. The numerical stability of the algorithm is verified. Simulation experiments for a small and moderate number of input-output data are presented and discussed to illustrate the applicability of the routine.
+Hammerstein system, non-parametric recursive identification, Haar orthogonal expansion, convergence analysis, numerical stability</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0039">10.2478/amcs-2013-0039</a>

@@ -1,0 +1,6 @@
+﻿3 - September 1994
+4 - 1994
+Application of a Boltzmann machine to timetable design
+Konrad Piwakowski, Marek Trojanowicz
+This paper contains a description of the construction of a Boltzmann machine that can be applied to obtain a class-teacher timetable. In particular, this approach concerns requirements that are characteristic to primary and secondary schools. The conditions of asymptotic convergence to an optimal solution are presented.
+-

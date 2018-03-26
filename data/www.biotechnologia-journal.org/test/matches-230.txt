@@ -1,0 +1,16 @@
+﻿1/2013
+4
+Inorganic-pyrophosphatase-PPase-r-nfrom-a-higher-plant,85,23825,0
+abstract:</div><div>Short communication
+Inorganic pyrophosphatase (PPase) from a higher plant
+h3>Marta Grzechowiak, Michał Sikorski, Mariusz Jaskolski</h3><div>BioTechnologia vol. 94(1) C pp. 35-37 C 2013
+3.46433">https://doi.org/10.5114/bta.2013.46433
+a>View full text</a
+23825
+Grzechowiak M, Sikorski M, Jaskolski M. Inorganic pyrophosphatase (PPase) from a higher plant. BioTechnologia. 2014;94(1):35-37. doi:10.5114/bta.2013.46433
+Grzechowiak, M., Sikorski, M., &amp; Jaskolski, M. (2014). Inorganic pyrophosphatase (PPase) from a higher plant. BioTechnologia, 94(1), 35-37. https://doi.org/10.5114/bta.2013.46433
+Grzechowiak, Marta, Michał Sikorski, and Mariusz Jaskolski. 2014. "Inorganic pyrophosphatase (PPase) from a higher plant". BioTechnologia 94 (1): 35-37. doi:10.5114/bta.2013.46433
+Grzechowiak, M., Sikorski, M., and Jaskolski, M. (2014). Inorganic pyrophosphatase (PPase) from a higher plant. BioTechnologia, 94(1), pp.35-37. https://doi.org/10.5114/bta.2013.46433
+Grzechowiak, Marta et al. "Inorganic pyrophosphatase (PPase) from a higher plant." BioTechnologia, vol. 94, no. 1, 2014, pp. 35-37. doi:10.5114/bta.2013.46433
+null
+<i>Arabidopsis thaliana</i>inorganic pyrophosphatase (AtPPA1) coding DNA (ppa1 gene) was cloned into bacterial expression<br><br>vector and overproduced in<i>E. Coli</i>cells as a His-tagged protein. The recombinant protein was purified<br><br>from the bacterial lysate by two consecutive chromatographic steps: chelating chromatography on Ni<sup>2+</sup>-charged<br><br>resin followed by FPLC size exclusion chromatography. The homogenous protein was submitted for crystallization.<br><br>X-Ray diffraction data extending to 1.9Å resolution were collected using synchrotron radiation. The structure<br><br>was solved by molecular replacement and refinement is in progress (R-factor below 20%). The structure of<br><br>AtPP1 represents an alpha+beta protein fold which overlaps with other structural models for known bacterial and<br><br>yeast inorganic pyrophosphatases.</div

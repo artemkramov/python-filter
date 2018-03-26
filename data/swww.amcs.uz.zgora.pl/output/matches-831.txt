@@ -1,0 +1,6 @@
+﻿4 - December 2011
+21 - 2011
+LMI-based adaptive fuzzy integral sliding mode control of mismatched uncertain systems
+Chaouki Mnasri, Moncef Gasmi
+Integral sliding mode design is considered for a class of uncertain systems in the presence of mismatched uncertainties in both state and input matrices, as well as norm-bounded nonlinearities and external disturbances. A sufficient condition for the robust stability of the sliding manifold is derived by means of linear matrix inequalities. The initial existence of the sliding mode is guaranteed by the proposed control law. The improvement of the proposed control scheme performances, such as chattering elimination and estimation of norm bounds of uncertainties, is then considered with the application of an adaptive fuzzy integral sliding mode control law. The validity and efficiency of the proposed approaches are investigated through a sixth order uncertain mechanical system.
+adaptive fuzzy control, integral sliding mode, LMI, mismatched uncertainties</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-011-0047-5">10.2478/v10006-011-0047-5</a>

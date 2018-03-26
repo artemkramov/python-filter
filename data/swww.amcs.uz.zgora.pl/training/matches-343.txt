@@ -1,0 +1,6 @@
+﻿3 - September 1994
+4 - 1994
+Multilayer perceptron networks: Selected aspects of training optimization
+Jacek M. Żurada, Aleksander Malinowski
+Training of Multilayer Perceptron Neural Networks using the popular error back propagation method can be modified and its performance improved. The modified original generalized delta learning rule has been found to considerably enhance the learning process. In addition, input layer size can be reducible through evaluation of the network sensitivity over the training/test data set. Minimum set size estimation based on the sampling theorem can also be performed to determine the optimum number of training patterns.
+-

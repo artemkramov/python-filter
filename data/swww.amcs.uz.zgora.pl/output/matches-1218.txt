@@ -1,0 +1,6 @@
+﻿3 - September 2004
+14 - 2004
+Time to the convergence of evolution in the space of population states
+Iwona Karcz-Dulęba
+Phenotypic evolution of two-element populations with proportional selection and normally distributed mutation is considered. Trajectories of the expected location of the population in the space of population states are investigated. The expected location of the population generates a discrete dynamical system. The study of its fixed points, their stability and time to convergence is presented. Fixed points are located in the vicinity of optima and saddles. For large values of the standard deviation of mutation, fixed points become unstable and periodical orbits arise. In this case, fixed points are also moved away from optima. The time to convergence to fixed points depends not only on the mutation rate, but also on the distance of the points from unstability. Results show that a population spends most time wandering slowly towards the optimum with mutation as the main evolution factor.
+phenotypic evolution, dynamical system, time to convergence, fixed points

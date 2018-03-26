@@ -1,0 +1,6 @@
+﻿2 - June 2003
+13 - 2003
+A fuzzy<em>if-then</em>rule-based nonlinear classifier
+Jacek Łęski
+This paper introduces a new classifier design method that is based on a modification of the classical Ho-Kashyap procedure. The proposed method uses the absolute error, rather than the squared error, to design a linear classifier. Additionally, easy control of the generalization ability and robustness to outliers are obtained. Next, an extension to a nonlinear classifier by the mixture-of-experts technique is presented. Each expert is represented by a fuzzy<em>if-then</em>rule in the Takagi-Sugeno-Kang form. Finally, examples are given to demonstrate the validity of the introduced method.
+classifier design, fuzzy<em>if-then</em>rules, generalization control, mixture of experts

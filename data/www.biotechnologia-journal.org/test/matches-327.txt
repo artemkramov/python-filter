@@ -1,0 +1,17 @@
+﻿4/2011
+2
+PERSPECTIVES-Transcriptome-sequencing-r-nnext-generation-approach-to-RNA-functional-analysis,85,23880,0
+abstract:
+PERSPECTIVES<br>Transcriptome sequencing: next generation approach to RNA functional analysis
+h3>Agnieszka Żmieńko, Paulina Jackowiak, Marek Figlerowicz</h3><div>BioTechnologia vol. 92(4) C pp. 311-319 C 2011
+1.46548">https://doi.org/10.5114/bta.2011.46548
+a>View full text</a
+23880
+Żmieńko A, Jackowiak P, Figlerowicz M. PERSPECTIVES&lt;br&gt;Transcriptome sequencing: next generation approach to RNA functional analysis. BioTechnologia. 2014;92(4):311-319. doi:10.5114/bta.2011.46548
+Żmieńko, A., Jackowiak, P., &amp; Figlerowicz, M. (2014). PERSPECTIVES&lt;br&gt;Transcriptome sequencing: next generation approach to RNA functional analysis. BioTechnologia, 92(4), 311-319. https://doi.org/10.5114/bta.2011.46548
+Żmieńko, Agnieszka, Paulina Jackowiak, and Marek Figlerowicz. 2014. "PERSPECTIVES&lt;br&gt;Transcriptome sequencing: next generation approach to RNA functional analysis". BioTechnologia 92 (4): 311-319. doi:10.5114/bta.2011.46548
+Żmieńko, A., Jackowiak, P., and Figlerowicz, M. (2014). PERSPECTIVES&lt;br&gt;Transcriptome sequencing: next generation approach to RNA functional analysis. BioTechnologia, 92(4), pp.311-319. https://doi.org/10.5114/bta.2011.46548
+Żmieńko, Agnieszka et al. "PERSPECTIVES&lt;br&gt;Transcriptome sequencing: next generation approach to RNA functional analysis." BioTechnologia, vol. 92, no. 4, 2014, pp. 311-319. doi:10.5114/bta.2011.46548
+/div><div>The most general definition of transcriptome assumes that it is a complete set of RNA molecules (transcripts)<br><br>that are formed in a given organism. In response to exogenous and endogenous stimuli, transcriptome undergoes<br><br>constant qualitative and quantitative changes. Monitoring these changes can provide information on how the living<br><br>organisms function and deal with the changing environmental conditions. Recently, a new approach, called<br><br>RNA sequencing or RNA-Seq has been applied to transcriptome-oriented studies. It is based on the next-generation<br><br>sequencing and allows transcript discovery and quantification. This new approach permits identification of<br><br>novel transcripts and products of their processing or partial degradation. Since RNA-Seq does not require information<br><br>about the sequence of the reference genome, it can be used for transcriptome analysis in any organism.<br><br>This feature combined with the high sensitivity and broad dynamic range of RNA-Seq experiments, make them<br><br>much more versatile for high-throughput studies as compared to DNA microarray technology.<
+null
+keywords:</div><h3>RNA-Seq, transcriptome, next-generation sequencing, isoforms</h3

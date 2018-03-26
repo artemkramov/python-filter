@@ -1,0 +1,6 @@
+﻿4 - December 2009
+19 - 2009
+Time-optimal control of infinite order hyperbolic systems with time delays
+Adam Kowalewski
+In this paper, the time-optimal control problem for infinite order hyperbolic systems in which time delays appear in the integral form both in state equations and in boundary conditions is considered. Optimal controls are characterized in terms of an adjoint system and shown to be unique and bang-bang. These results extend to certain cases of nonlinear control problems. The particular properties of optimal control are discussed.
+time-optimal control, infinite order, hyperbolic systems, time delays</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-009-0047-x">10.2478/v10006-009-0047-x</a>

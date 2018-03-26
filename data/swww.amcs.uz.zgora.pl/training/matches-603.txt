@@ -1,0 +1,6 @@
+﻿4 - December 2014
+24 - 2014
+Controllability of nonlinear implicit fractional integrodifferential systems
+Krishnan Balachandran, Shanmugam Divya
+In this paper, we study the controllability of nonlinear fractional integrodifferential systems with implicit fractional derivative. Sufficient conditions for controllability results are obtained through the notion of the measure of noncompactness of a set and Darbo’s fixed point theorem. Examples are included to verify the result.
+controllability, fractional derivative, integrodifferential equations, fixed point theorem</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0052">10.2478/amcs-2014-0052</a>

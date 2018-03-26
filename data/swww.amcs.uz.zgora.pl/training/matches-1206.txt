@@ -1,0 +1,6 @@
+﻿2 - June 2004
+14 - 2004
+Two-level stochastic control for a linear system with nonclassical information
+Zdzisław Duda, Witold Brandys
+A problem of control law design for large scale stochastic systems is discussed. Nonclassical information pattern is considered. A two-level hierarchical control structure with a coordinator on the upper level and local controllers on the lower level is proposed. A suboptimal algorithm with a partial decomposition of calculations and decentralized local control is obtained. A simple example is presented to illustrate the proposed approach.
+stochastic control, nonclassical information, hierarchical structure

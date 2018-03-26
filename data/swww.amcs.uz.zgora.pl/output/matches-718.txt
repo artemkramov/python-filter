@@ -1,0 +1,6 @@
+﻿2 - June 2012
+22 - 2012
+Topology optimization of quasistatic contact problems
+Andrzej Myśliński
+This paper deals with the formulation of a necessary optimality condition for a topology optimization problem for an elastic contact problem with Tresca friction. In the paper a quasistatic contact model is considered, rather than a stationary one used in the literature. The functional approximating the normal contact stress is chosen as the shape functional. The aim of the topology optimization problem considered is to find the optimal material distribution inside a design domain occupied by the body in unilateral contact with the rigid foundation to obtain the optimally shaped domain for which the normal contact stress along the contact boundary is minimized. The volume of the body is assumed to be bounded. Using the material derivative and asymptotic expansion methods as well as the results concerning the differentiability of solutions to quasistatic variational inequalities, the topological derivative of the shape functional is calculated and a necessary optimality condition is formulated.
+quasistatic contact problem, elasticity, Tresca friction, topology optimization</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0020-y">10.2478/v10006-012-0020-y</a>

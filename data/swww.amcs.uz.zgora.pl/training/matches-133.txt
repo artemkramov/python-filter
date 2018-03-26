@@ -1,0 +1,6 @@
+﻿2 - June 1998
+8 - 1998
+μ-Analysis and robust stability of positive linear systems
+Diederich Hinrichsen, Nguyen K. Son
+In this paper, we develop a μ-analysis for nonnegative matrices and apply the results to analyse robust stability of positive linear continuous-time systems under arbitrary affine parameter perturbations. It is shown that real and complex stability radii of positive systems coincide for arbitrary affine perturbation structures, in particular for block-diagonal disturbances. Estimates and computable formulae are derived for these stability radii. The results hold for arbitrary perturbation norms induced by absolute vector norms (e.g.<em>p</em>-norms, 1 ≤<em>p</em>≤ ∞).
+-

@@ -1,0 +1,6 @@
+﻿4 - December 2013
+23 - 2013
+Application of the partitioning method to specific Toeplitz matrices
+Predrag Stanimirović, Marko Miladinović, Igor Stojanović, Sladjana Miljković
+We propose an adaptation of the partitioning method for determination of the Moore–Penrose inverse of a matrix augmented by a block-column matrix. A simplified implementation of the partitioning method on specific Toeplitz matrices is obtained. The idea for observing this type of Toeplitz matrices lies in the fact that they appear in the linear motion blur models in which blurring matrices (representing the convolution kernels) are known in advance. The advantage of the introduced method is a significant reduction in the computational time required to calculate the Moore–Penrose inverse of specific Toeplitz matrices of an arbitrary size. The method is implemented in MATLAB, and illustrative examples are presented.
+Moore–Penrose inverse, partitioning method, Toeplitz matrices, MATLAB, image restoration</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0061">10.2478/amcs-2013-0061</a>

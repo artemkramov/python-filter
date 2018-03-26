@@ -1,0 +1,6 @@
+﻿1 - December 1991
+1 - 1991
+A database for distributed manufacturing control
+Alan Skinner, David Hutchison, Bruce Armitage
+This paper describes a database used for the control of a small manufacturing cell. The data used to control the manufacturing operation is distributed around the cell. Control is achieved by producing a piece of data (eg. the detection of a workpiece) at one node and duplicating that data on a second node. Access to the data is made via a Local Area Network (LAN). The user interface to the database allows the cell components, data variables, and the data flow to be defined. Once the cell has been defined any software required by remote nodes can be downloaded and the system set in operation. The work described in this paper adds an easy to use interface to a proprietary communications network. This greatly reduces the level of understanding of the communications protocol required to set up a working system and also simplifies the programming of network nodes.
+-

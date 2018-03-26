@@ -1,0 +1,17 @@
+﻿3/2011
+2
+REVIEW-PAPER-Ancient-history-of-X-ray-crystal-structure-r-nof-B-DNA-oligomers-and-its-perspective,85,23873,0
+abstract:
+REVIEW PAPER<br>Ancient history of X-ray crystal structure of B-DNA oligomers and its perspective
+h3>Kazimierz Grześkowiak, Hirofumi Ohishi</h3><div>BioTechnologia vol. 92(3) C pp. 243-248 C 2011
+1.46541">https://doi.org/10.5114/bta.2011.46541
+a>View full text</a
+23873
+Grześkowiak K, Ohishi H. REVIEW PAPER&lt;BR&gt;Ancient history of X-ray crystal structure of B-DNA oligomers and its perspective. BioTechnologia. 2014;92(3):243-248. doi:10.5114/bta.2011.46541
+Grześkowiak, K., &amp; Ohishi, H. (2014). REVIEW PAPER&lt;BR&gt;Ancient history of X-ray crystal structure of B-DNA oligomers and its perspective. BioTechnologia, 92(3), 243-248. https://doi.org/10.5114/bta.2011.46541
+Grześkowiak, Kazimierz, and Hirofumi Ohishi. 2014. "REVIEW PAPER&lt;BR&gt;Ancient history of X-ray crystal structure of B-DNA oligomers and its perspective". BioTechnologia 92 (3): 243-248. doi:10.5114/bta.2011.46541
+Grześkowiak, K., and Ohishi, H. (2014). REVIEW PAPER&lt;BR&gt;Ancient history of X-ray crystal structure of B-DNA oligomers and its perspective. BioTechnologia, 92(3), pp.243-248. https://doi.org/10.5114/bta.2011.46541
+Grześkowiak, Kazimierz et al. "REVIEW PAPER&lt;BR&gt;Ancient history of X-ray crystal structure of B-DNA oligomers and its perspective." BioTechnologia, vol. 92, no. 3, 2014, pp. 243-248. doi:10.5114/bta.2011.46541
+/div><div>This is a retrospective review on the anniversary of the first X-ray crystal structure of B-DNA dodecamer<br><br>CGCGAATTCGCG solved by R. Dickerson’s team at UCLA/CIT. Timely established conclusions, drawn from the<br><br>X-ray crystal structures of DNA oligomers, have explained some of the patterns of DNA oligomers interacting in<br><br>complex with DNA binding drugs and proteins. The studies provide us with the insight into sequence mechanics<br><br>and the sequence-dependent mode by which DNA double stranded helices interact with one another in a crystal.<br><br>How to extrapolate information from DNA X-ray crystal structures to physical characteristics and function of these<br><br>molecules in a solution remains a challenge. Nevertheless, these results are useful in the biophysical studies of<br><br>DNA molecules and may shed some light on how to approach nanotechnology from a fundamental science<br><br>perspective.<
+null
+keywords:</div><h3>X-ray crystal structures, DNA decamers, base methylation, nanotubes</h3

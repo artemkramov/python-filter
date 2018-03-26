@@ -1,0 +1,6 @@
+﻿4 - December 2011
+21 - 2011
+Adaptive control scheme based on the least squares support vector machine network
+Tarek A. Mahmoud
+Recently, a new type of neural networks called Least Squares Support Vector Machines (LS-SVMs) has been receiving increasing attention in nonlinear system identification and control due to its generalization performance. This paper develops a stable adaptive control scheme using the LS-SVM network. The developed control scheme includes two parts: the identification part that uses a modified structure of LS-SVM neural networks called the multi-resolution wavelet least squares support vector machine network (MRWLS-SVM) as a predictor model, and the controller part that is developed to track a reference trajectory. By means of the Lyapunov stability criterion, stability analysis for the tracking errors is performed. Finally, simulation studies are performed to demonstrate the capability of the developed approach in controlling a pH process.
+least squares support vector machine, multi-resolution wavelet least squares support vector machine neural network, nonlinear system modeling and control, pH control</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-011-0054-6">10.2478/v10006-011-0054-6</a>

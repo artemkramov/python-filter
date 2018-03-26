@@ -1,0 +1,6 @@
+﻿2 - June 2003
+13 - 2003
+An efficiency analysis of the parallel multitransputer implementation of two-level optimization algorithms
+Jan Sadecki
+The paper presents an approach to improve the efficiency of some two-level optimization algorithms by their implementation in parallel MIMD multiprocessor systems. Diagonal decomposition dynamic programming and parametric optimization methods are considered, and some concepts of their parallelization are discussed. Results regarding the implementation of computations in a parallel multitransputer system are presented. For the analysed problems, the obtained values of speedup are close to the theoretical maximum values.
+parallel computations, multitransputer systems, parallel optimization algorithms, two-level optimization methods

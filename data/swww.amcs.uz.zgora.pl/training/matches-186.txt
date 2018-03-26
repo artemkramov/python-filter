@@ -1,0 +1,6 @@
+﻿2 - June 1997
+7 - 1997
+Adaptive and robust control of flexible joint robots in constrained motion
+Tian Lin, Andrew A. Goldenberg
+This paper addresses motion and force control issues of flexible joint robots in constrained motion. A two-stage control scheme, consisting of a constrained motion controller and a joint torque controller, is established in a systematic way for general<em>n</em>-link flexible joint robots. To deal with uncertainties in the parameters of the robotic system, adaptive and robust control algorithms are developed assuming that all system parameters, including the joint flexibility values, are unknown except for some of their bounds. The system stability is analyzed via the Lyapunov stability theory. 'It is shown that with the proposed control method, the closed-loop system is uniformly stable, and motion and force tracking errors are uniformly ultimately bounded. Simulation results illustrate the effectiveness of the proposed control method.
+-

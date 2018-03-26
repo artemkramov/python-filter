@@ -1,0 +1,6 @@
+﻿3 - September 1997
+7 - 1997
+Gradient of the discretized energy method and discretized continuous gradient in electromagnetic shaping simulation
+Jean R. Roche
+The goal of this paper is to study the differences between two approaches to gradient computation in shape optimization. Simulation methods in shape optimization require computation of a local minimum of an energy function by descent methods, which involves the gradient computation with respect to shape perturbations. Two different approaches are mainly used in optimal shape computations. The first one consists in computing a zero of a continuous gradient approximation. The second one consists in computing a zero of the shape derivative of a discretized version of the cost function. In this paper, we study the differences between the two approaches in electromagnetic shaping simulation.
+-

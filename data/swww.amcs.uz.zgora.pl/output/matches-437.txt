@@ -1,0 +1,6 @@
+﻿4 - December 1993
+3 - 1993
+LINDHO – use of the object oriented programming paradigm for hardware description and simulation
+Aires Veloso, Antonio de Brito Ferrari
+This paper describes LINDHO, an object-oriented hardware description language supporting the description at the higher levels of abstraction, in particular at the architectural level. LINDHO, a much simpler and smaller language than VRDL, is based on C++, easy to be learned by electronic and computer engineers, and has expressive powers not inferior to VHDL. The language is presented informally through examples that try to convey its potential.
+-

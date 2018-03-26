@@ -1,0 +1,6 @@
+﻿1 - March 2003
+13 - 2003
+Stability analysis of solutions to an optimal control problem associated with a Goursat-Darboux problem
+Dariusz Idczak, Marek Majewski, Stanisław Walczak
+In the present paper, some results concerning the continuous dependence of optimal solutions and optimal values on data for an optimal control problem associated with a Goursat-Darboux problem and an integral cost functional are derived.
+Goursat-Darboux problem, optimal control, continuous dependence

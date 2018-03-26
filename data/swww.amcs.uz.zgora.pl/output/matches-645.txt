@@ -1,0 +1,6 @@
+﻿1 - March 2017
+27 - 2017
+Projection-based text line segmentation with a variable threshold
+Roman Ptak, Bartosz Żygadło, Olgierd Unold
+Document image segmentation into text lines is one of the stages in unconstrained handwritten document recognition. This paper presents a new algorithm for text line separation in handwriting. The developed algorithm is based on a method using the projection profile. It employs thresholding, but the threshold value is variable. This permits determination of low or overlapping peaks of the graph. The proposed technique is shown to improve the recognition rate relative to traditional methods. The algorithm is robust in text line detection with respect to different text line lengths.
+document image processing, handwritten text line segmentation, projection profile, off-line cursive script recognition</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2017-0014">10.1515/amcs-2017-0014</a>

@@ -1,0 +1,6 @@
+﻿4 - December 1994
+4 - 1994
+Towards automatic correctness verification of real-time programs
+Tomasz Szmuc, Piotr Szwed
+An algebraic approach to correctness verification of graphical software specifications is presented. LACATRE graphical language based on multitasking and providing real-time functions is considered as a specification tool. The verification process is distributed into four stages. The two initial ones are related to a translation of LACATRE specification into lower description level (Communicating Real-Time State Machines). The third stage deals with a generation of the process in the form of a graph of states and automatic relative correctness verification. The fourth stage is related to correctness verification for user-defined criteria. The proposed verification method examines the relative correctness concept introduced in former papers.
+-

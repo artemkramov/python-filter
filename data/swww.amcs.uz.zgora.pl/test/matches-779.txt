@@ -1,0 +1,6 @@
+﻿4 - December 2012
+22 - 2012
+Customized crossover in evolutionary sets of safe ship trajectories
+Rafał Szłapczyński, Joanna Szłapczyńska
+The paper presents selected aspects of evolutionary sets of safe ship trajectories—a method which applies evolutionary algorithms and some of the assumptions of game theory to solving ship encounter situations. For given positions and motion parameters of the ships, the method finds a near optimal set of safe trajectories of all ships involved in an encounter. The method works in real time and the solutions must be returned within one minute, which enforces speeding up the optimisation process. During the development of the method the authors tested various problem-dedicated crossover operators to obtain the best performance. The results of that research are given here. The paper includes a detailed description of these operators as well as statistical simulation results and examples of experiment results.
+evolutionary algorithms, ship collision avoidance, decision support systems</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0074-x">10.2478/v10006-012-0074-x</a>

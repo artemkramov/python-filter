@@ -1,0 +1,6 @@
+﻿2 - June 2014
+24 - 2014
+Tracking an omnidirectional evader with a differential drive robot at a bounded variable distance
+Ubaldo Ruiz, Jose Luis Marroquin, Rafael Murrieta-Cid
+In this paper, we address the pursuit-evasion problem of tracking an Omnidirectional Agent (OA) at a bounded variable distance using a Differential Drive Robot (DDR), in an Euclidean plane without obstacles. We assume that both players have bounded speeds, and that the DDR is faster than the evader, but due to its nonholonomic constraints it cannot change its motion direction instantaneously. Only a purely kinematic problem is considered, and any effect due to dynamic constraints (e.g., acceleration bounds) is neglected. We provide a criterion for partitioning the configuration space of the problem into two regions, so that in one of them the DDR is able to control the system, in the sense that, by applying a specific strategy (also provided), the DDR can achieve any inter-agent distance (within an error bound), regardless of the actions taken by the OA. Particular applications of these results include the capture of the OA by the DDR and maintaining surveillance of the OA at a bounded variable distance.
+pursuit-evasion, tracking, capturing, differential drive robot</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0028">10.2478/amcs-2014-0028</a>

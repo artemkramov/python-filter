@@ -1,0 +1,6 @@
+﻿1 - March 2006
+16 - 2006
+Nonlinear diagnostic filter design: Algebraic and geometric points of view
+Alexey Shumsky, Alexey Zhirabok
+The problem of diagnostic filter design is studied. Algebraic and geometric approaches to solving this problem are investigated. Some relations between these approaches are established. New definitions of fault detectability and isolability are formulated. On the basis of these definitions, a procedure for diagnostic filter design is given in both algebraic and geometric terms.
+diagnostic filter, nonlinear systems, geometric approach, algebraic approach, fault detection and isolation, observers

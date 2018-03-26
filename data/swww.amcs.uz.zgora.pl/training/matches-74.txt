@@ -1,0 +1,6 @@
+﻿1 - March 1999
+9 - 1999
+Adaptive predictive controller using orthonormal series functions
+Gustavo H.C. Oliveira, Wagner C. Amaral, Gerard Favier
+A constrained adaptive predictive control method that uses uncertain process modelling based on orthonormal series functions is considered. Such unstructured modelling is described as a weighted sum of orthonormal functions using approximate information about the time constant of the process. The orthonormal series functions model can thus be used to derive a<em>j</em>-step-ahead output prediction according to the constrained adaptive predictive control law. In relation to predictive controllers based on structured models, this approach presents the advantage of not requiring prior knowledge of the order or time delay, which decrease prediction errors and lead to a better closed loop performance when these parameters are not well known. Stability issues of the proposed control scheme are discussed and, finally, a simulation example is given to show the performance of the algorithm.
+model-based predictive control, adaptive control, uncertain process, orthonormal series functions

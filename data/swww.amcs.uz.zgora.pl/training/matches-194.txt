@@ -1,0 +1,6 @@
+﻿2 - June 1997
+7 - 1997
+Singularity avoidance in redundant robot kinematics: A dynamical system approach
+Krzysztof Tchoń
+This paper is concerned with avoid ability /unavoidability of singular configurations in the redundant manipulator's kinematics with an arbitrary degree of redundancy. The dynamical system approach has been adapted as a guiding line. A self-motion distribution has been defined, spanned by the so-called Hamiltonian vector fields associated with the given kinematics. The Hamiltonian vector fields are established to be divergence-free. Around singular configurations of corank 1 a reduction procedure is applied leading to a discovery of a common constant of motion of all vector fields belonging to the self-motion distribution. By examining the stability of the Hamiltonian vector fields sufficient conditions for avoid ability and unavoidability are derived, formulated in terms of the Hessian matrix of the constant of motion.
+-

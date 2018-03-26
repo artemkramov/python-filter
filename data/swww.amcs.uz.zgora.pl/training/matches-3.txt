@@ -1,0 +1,6 @@
+﻿5 - December 2001
+11 - 2001
+A homotopy approach to rational covariance extension with degree constraint
+Per Enqvist
+The solutions to the Rational Covariance Extension Problem (RCEP) are parameterized by the spectral zeros. The rational filter with a specified numerator solving the RCEP can be determined from a known convex optimization problem. However, this optimization problem may become ill-conditioned for some parameter values. A modification of the optimization problem to avoid the ill-conditioning is proposed and the modified problem is solved efficiently by a continuation method.
+stochastic realization theory, rational covariance extension problem, ARMA model design, continuation method, optimization

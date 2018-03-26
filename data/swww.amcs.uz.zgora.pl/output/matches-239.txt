@@ -1,0 +1,6 @@
+﻿2 - June 1996
+6 - 1996
+Theoretical and numerical estimates of instantaneous Lyapunov exponents of quasi-geostrophic ocean dynamics
+Christine Bernier, Eugene Kazantsev
+This paper deals with the problem of predictability of the ocean circulation. Theoretical estimates of instantaneous Lyapunov exponents of a quasi-geostrophic ocean model are developed and compared with calculated values. The comparison shows a rather good correlation of temporal variability of calculated exponents and their estimates.
+-

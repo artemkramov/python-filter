@@ -1,0 +1,3 @@
+Source localization and sensor placement in environmental monitoring
+Alexander Khapalov
+In this paper we discuss two closely related problems arising in environmental monitoring. The first is the source localization problem linked to the question<em>How can one find an unknown "contamination source"?</em>The second is an associated sensor placement problem:<em>Where should we place sensors that are capable of providing the necessary "adequate data" for that?</em>Our approach is based on some concepts and ideas developed in mathematical control theory of partial differential equations.

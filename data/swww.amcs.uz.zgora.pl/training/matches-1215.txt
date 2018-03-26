@@ -1,0 +1,6 @@
+﻿2 - June 2004
+14 - 2004
+An alternative extension of the<em>k</em>-means algorithm for clustering categorical data
+Ohn Mar San, Van-Nam Huynh, Yoshiteru Nakamori
+Most of the earlier work on clustering has mainly been focused on numerical data whose inherent geometric properties can be exploited to naturally define distance functions between data points. Recently, the problem of clustering categorical data has started drawing interest. However, the computational cost makes most of the previous algorithms unacceptable for clustering very large databases. The<em>k</em>-means algorithm is well known for its efficiency in this respect. At the same time, working only on numerical data prohibits them from being used for clustering categorical data. The main contribution of this paper is to show how to apply the notion of "cluster centers" on a dataset of categorical objects and how to use this notion for formulating the clustering problem of categorical objects as a partitioning problem. Finally, a<em>k</em>-means-like algorithm for clustering categorical data is introduced. The clustering performance of the algorithm is demonstrated with two well-known data sets, namely,<em>soybean disease</em>and<em>nursery</em>databases.
+cluster analysis, categorical data, data mining

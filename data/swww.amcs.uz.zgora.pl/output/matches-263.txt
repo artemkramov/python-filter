@@ -1,0 +1,6 @@
+﻿4 - December 1996
+6 - 1996
+Extremal transients in linear control systems
+Henryk Górecki
+The relation between extremal values of the error and the coefficients of its differential equations is one of the central problems of control systems in chemical industry, because extremal values of the error sometimes cause serious damages to the environment or to the system itself. Analytical formulae for the determination of these values are known only for the second-order systems. In this paper an approximate method which permits to determine extremal values of the error in higher-order systems is proposed.
+-

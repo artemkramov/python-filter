@@ -1,0 +1,15 @@
+﻿Modeling-and-simulation-of-bevel-gearboxes-in-cad-environment,81475
+3-2015,3236">3/2015 vol. 16
+Proposal-of-the-combined-exhaust-gas-heat-exchanger-and-the-muffler,81476,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/Increasing-uniformity-of-power-distribution-in-dual-path-gear-transmission,81474,0,2.html" title="PREVIOUS
+Modeling and simulation of bevel gearboxes in cad environment
+Adam-Marciniec/74888">Adam Marciniec
+null
+amarc@prz.edu.pl"><div></div></a>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Bartłomiej-Sobolewski/74889">Bartłomiej Sobolewski</a></span>&nbsp;&nbsp;<a href="mailto:b_sobolewski@prz.edu.pl
+Rzeszow University of Technology Faculty of Mechanical Engineering and Aeronautic Powstańców Warszawy Av.8, 35-959 Rzeszów, Poland
+Publish date: 2017-12-21
+5;16(3):69–72
+81475-16956?filename=Modeling and simulation
+CAD+model/72328">CAD model<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-simulation+cutting/146939">simulation cutting
+bevel+gears/146972">bevel gears
+Designing and manufacturing of aeronautic bevel gearboxes is a complicated and time -consuming process. This is due to the high quality requirements to the aviation industry products and the complex kinematic of the machining process. So far, in practice, this process has required a series of research and prototypes testing. The development, has been made in the field of Computer Aided Design systems, allows increasing use in design process and carry out the necessary research in the CAD environment. This approach simplifies and accelerates the aeronautic bevel gearboxes design process. The study presents process of gears solid models generating and carrying out simulate of cooperation bevel gearbox in the CAD environment. Solid models has been prepared by the solid machining simulation, while the performed analyzes are used to determine temporary tooth bearings, summary tooth bearing and motion graphs.
+></div></div><div><div><div></div>Related articles</div><div><div><a href="http://www.diagnostyka.net.pl/Application-development-for-analysis-of-bevel-gears-engagement-using-FEM,81471,0,2.html">Application development for analysis of bevel gears engagement using FEM</a></div><div><a href="http://www.diagnostyka.net.pl/Determine-the-precision-of-aviation-bevel-gear-made-by-the-selected-incremental-techniques,81444,0,2.html">Determine the precision of aviation bevel gear, made by the selected incremental techniques and using an optical scanner Atos II Triple scan</a></div

@@ -1,0 +1,6 @@
+﻿2 - June 1995
+5 - 1995
+Redundancy resolution of manipulator by global optimization
+Mirosław Galicki
+Global optimization in the redundancy resolution, involving direct dynamic equations of a manipulator, is presented. It is carried out by using the necessary and sufficient conditions for a minimum of integral-type criteria with a free upper limit of integration. Boundary conditions resulting from the manipulator task to be performed are taken into consideration. General transversality conditions corresponding to the boundary ones are derived. As a result, a closed system of boundary dependencies, fully specifying differential equations which result from the necessary conditions for a minimum, to find an extremal joint trajectory, is obtained. In order to verify the above extremal trajectory for optimality, (local) sufficient conditions are employed. A computer example involving a planar manipulator of three revolute kinematic pairs is presented.
+-

@@ -1,0 +1,6 @@
+﻿3 - September 2008
+18 - 2008
+Immunotherapy with interleukin-2: A study based on mathematical modeling
+Sandip Banerjee
+The role of interleukin-2 (IL-2) in tumor dynamics is illustrated through mathematical modeling, using delay differential equations with a discrete time delay (a modified version of the Kirshner-Panetta model). Theoretical analysis gives an expression for the discrete time delay and the length of the time delay to preserve stability. Numerical analysis shows that interleukin-2 alone can cause the tumor cell population to regress.
+effector cells, tumor cells, interleukin-2, discrete time delay</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0035-6">10.2478/v10006-008-0035-6</a>

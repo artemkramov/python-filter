@@ -1,0 +1,6 @@
+﻿2 - June 2010
+20 - 2010
+On one algorithm for solving the problem of source function reconstruction
+Vyacheslav Maksimov
+In the paper, the problem of source function reconstruction in a differential equation of the parabolic type is investigated. Using the semigroup representation of trajectories of dynamical systems, we build a finite-step iterative procedure for solving this problem. The algorithm originates from the theory of closed-loop control (the method of extremal shift). At every step of the algorithm, the sum of a quality criterion and a linear penalty term is minimized. This procedure is robust to perturbations in problems data.
+reconstruction, source function, feedback control</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-010-0017-3">10.2478/v10006-010-0017-3</a>

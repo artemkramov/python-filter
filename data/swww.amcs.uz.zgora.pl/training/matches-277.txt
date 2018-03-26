@@ -1,0 +1,6 @@
+﻿1 - March 1995
+5 - 1995
+Compensator design for the Kirchoff plate model with boundary control
+Erik Hendrickson
+This paper presents a compensator design problem in optimal control theory. An algorithm is developed to compute a finite-dimensional compensator based on the Kalman filter theory. The algorithm is implemented using a standard finite element scheme applied to a Kirchoff plate model with boundary control and boundary observation. Convergence of feedback and compensator gains is examined.
+-

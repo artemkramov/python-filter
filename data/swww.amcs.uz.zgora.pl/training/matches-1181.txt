@@ -1,0 +1,6 @@
+﻿4 - December 2005
+15 - 2005
+Hybrid stabilization of discrete-time LTI systems with two quantized signals
+Guisheng Zhai, Yuuki Matsumoto, Xinkai Chen, Joe Imae, Tomoaki Kobayashi
+We consider stabilizing a discrete-time LTI (linear time-invariant) system via state feedback where both the quantized state and control input signals are involved. The system under consideration is stabilizable and stabilizing state feedback has been designed without considering quantization, but the system’s stability is not guaranteed due to the quantization effect. For this reason, we propose a hybrid quantized state feedback strategy asymptotically stabilizing the system, where the values of the quantizer parameters are updated at discrete time instants. We also extend the result to the case of static output feedback.
+discrete-time LTI system, hybrid stabilization strategy, quantizer, state feedback, output feedback

@@ -1,0 +1,6 @@
+﻿4 - December 2005
+15 - 2005
+Proper feedback compensators for a strictly proper plant by polynomial equations
+Frank M. Callier, Ferdinand Kraffer
+<em>Please see the PDF file.</em>
+linear time-invariant feedback control systems, polynomial matrix systems, row-column-reduced polynomial matrices, feedback compensator design, flexible belt device

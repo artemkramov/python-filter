@@ -1,0 +1,6 @@
+﻿2 - June 1999
+9 - 1999
+Decentralized variable structure tracking for systems with time-domain dominance
+Andrea Balluchi, Antonio Bicchi
+In this paper, we consider the design of tracking controllers for linear MIMO systems described by an input-output model. The presence of known 'weak' interactions among SISO or MIMO subsystems may allow the designer to achieve objectives by using independent controllers of lower complexity than are necessary in general (control decentralization problem). Sufficient conditions for asymptotic tracking employing decentralized variable structure techniques are derived. The condition is shown to be closely related to (and in a sense, a time-domain counterpart of) dominance criteria used in frequency-domain techniques, as they have developed out of Rosenbrock's original diagonal dominance concept. The synthesis of a decentralized variable-structure controller for asymptotic tracking is illustrated for systems obeying some conditions on their nominal relative degrees.
+dominance conditions, decentralized control, robust control, variable structure control (VSC)

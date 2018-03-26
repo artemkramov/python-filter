@@ -1,0 +1,6 @@
+﻿3 - September 2010
+20 - 2010
+Parallel implementation of local thresholding in Mitrion-C
+Tomasz Kryjak, Marek Gorgoń
+Mitrion-C based implementations of three image processing algorithms: a look-up table operation, simple local thresholding and Sauvola's local thresholding are described. Implementation results, performance of the design and FPGA logic utilization are discussed.
+image processing, FPGA, Mitrion-C, local thresholding, reconfigurable systems</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-010-0042-2">10.2478/v10006-010-0042-2</a>

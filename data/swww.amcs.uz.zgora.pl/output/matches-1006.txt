@@ -1,0 +1,6 @@
+﻿3 - September 2008
+18 - 2008
+Mobile sensor routing for parameter estimation of distributed systems using the parallel tunneling method
+Tomasz Zięba, Dariusz Uciński
+The paper deals with the problem of optimal path planning for a sensor network with mutliple mobile nodes, whose measurements are supposed to be primarily used to estimate unknown parameters of a system modelled by a partial differential equation. The adopted framework permits to consider two- or three-dimensional spatial domains and correlated observations. Since the aim is to maximize the accuracy of the estimates, a general functional defined on the relevant Fisher information matrix is used as the design criterion. Central to the approach is the parameterization of the sensor trajectories based on cubic B-splines. The resulting finite-dimensional global optimization problem is then solved using a parallel version of the tunneling algorithm. A numerical example is included to clearly demonstrate the idea presented in the paper.
+sensor network, distributed parameter systems, optimum experimental design, tunneling algorithm, parallel computing</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0028-5">10.2478/v10006-008-0028-5</a>

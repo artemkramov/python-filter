@@ -1,0 +1,6 @@
+﻿2 - June 2015
+25 - 2015
+A fuzzy nonparametric Shewhart chart based on the bootstrap approach
+Dabuxilatu Wang, Olgierd Hryniewicz
+In this paper, we consider a nonparametric Shewhart chart for fuzzy data. We utilize the fuzzy data without transforming them into a real-valued scalar (a representative value). Usually fuzzy data (described by fuzzy random variables) do not have a distributional model available, and also the size of the fuzzy sample data is small. Based on the bootstrap methodology, we design a nonparametric Shewhart control chart in the space of fuzzy random variables equipped with some<em>L<sub>2</sub></em>metric, in which a novel approach for generating the control limits is proposed. The control limits are determined by the necessity index of strict dominance combined with the bootstrap quantile of the test statistic. An in-control bootstrap ARL of the proposed chart is also considered.
+Shewhart control chart, fuzzy data, bootstrap, average run length</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2015-0030">10.1515/amcs-2015-0030</a>

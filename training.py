@@ -2,7 +2,8 @@ import FileParser as fp
 from sklearn.externals import joblib
 from sklearn import svm
 
-parsers = [fp.FileParserIASA(), fp.FileParserIPRI(), fp.FileParserScholarPublish(), fp.FileParserBulletinEconomical()]
+parsers = [fp.FileParserIASA(), fp.FileParserIPRI(), fp.FileParserScholarPublish(), fp.FileParserBulletinEconomical(),
+           fp.FileParserAmcs()]
 
 training_vectors = []
 training_output = []

@@ -1,0 +1,6 @@
+﻿2 - June 2006
+16 - 2006
+A variable structure observer for the control of robot manipulators
+Abdelkader Abdessameud, Mohamed Fayçal Khelfi
+This paper deals with the application of a variable structure observer developed for a class of nonlinear systems to solve the trajectory tracking problem for rigid robot manipulators. The analyzed approach to observer design proposes a simple design methodology for systems having completely observable linear parts and bounded nonlinearities and/or uncertainties. This observer is basically the conventional Luenberger observer with an additional switching term that is used to guarantee robustness against modeling errors and system uncertainties. To solve the tracking problem, we use a control law developed for robot manipulators in the full information case. The closed loop system is shown to be globally asymptotically stable based on Lyapunov arguments. Simulation results on a 3-DOF robot manipulator show the asymptotic convergence of the vectors of observation and tracking errors.
+variable structure observers, switching-type observers, rigid robot manipulators, exponential stability, tracking control

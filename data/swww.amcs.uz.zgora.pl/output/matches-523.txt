@@ -1,0 +1,6 @@
+﻿3 - September 2015
+25 - 2015
+Computing with words with the use of inverse RDM models of membership functions
+Andrzej Piegat, Marcin Pluciński
+Computing with words is a way to artificial, human-like thinking. The paper shows some new possibilities of solving difficult problems of computing with words which are offered by relative-distance-measure RDM models of fuzzy membership functions. Such models are based on RDM interval arithmetic. The way of calculation with words was shown using a specific problem of<em>flight delay</em>formulated by Lotfi Zadeh. The problem seems easy at first sight, but according to the authors’ knowledge it has not been solved yet. Results produced with the achieved solution were tested. The investigations also showed that computing with words sometimes offers possibilities of achieving better problem solutions than with the human mind.
+computing with words, fuzzy arithmetic, RDM fuzzy arithmetic, granular computing</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2015-0049">10.1515/amcs-2015-0049</a>

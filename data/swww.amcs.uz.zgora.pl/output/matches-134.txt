@@ -1,0 +1,6 @@
+﻿2 - June 1998
+8 - 1998
+Stability and optimal control of nonlinear descriptor systems: A survey
+Peter C. Müller
+In recent years the analysis and synthesis of control systems in descriptor form have been established. This general description of dynamical systems is important for many applications in mechanics and mechatronics, in electrical and electronic engineering, and in chemical engineering as well. This contribution presents a survey of results on the stability analysis and on the optimal control design of such systems. Lyapunov's stability theory is generalized for descriptor systems based on the stability theory with respect to a part of variables. Similarly, the calculus of variations and Pontryagin's maximum principle are checked for a possible application in descriptor systems. Here, the notion of causality plays an important role in whether or not Pontryagin's maximum principle can be applied.
+-

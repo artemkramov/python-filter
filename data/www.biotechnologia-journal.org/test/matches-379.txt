@@ -1,0 +1,17 @@
+﻿2/2011
+2
+REVIEW-PAPER-An-overall-view-of-the-process-of-the-regulation-r-nof-human-iron-metabolism,85,23867,0
+abstract:
+REVIEW PAPER<br>An overall view of the process of the regulation of human iron metabolism
+h3>Dorota Formanowicz, Piotr Formanowicz</h3><div>BioTechnologia vol. 92(2) C pp. 193-207 C 2011
+1.46534">https://doi.org/10.5114/bta.2011.46534
+a>View full text</a
+23867
+Formanowicz D, Formanowicz P. REVIEW PAPER&lt;br&gt;An overall view of the process of the regulation of human iron metabolism. BioTechnologia. 2014;92(2):193-207. doi:10.5114/bta.2011.46534
+Formanowicz, D., &amp; Formanowicz, P. (2014). REVIEW PAPER&lt;br&gt;An overall view of the process of the regulation of human iron metabolism. BioTechnologia, 92(2), 193-207. https://doi.org/10.5114/bta.2011.46534
+Formanowicz, Dorota, and Piotr Formanowicz. 2014. "REVIEW PAPER&lt;br&gt;An overall view of the process of the regulation of human iron metabolism". BioTechnologia 92 (2): 193-207. doi:10.5114/bta.2011.46534
+Formanowicz, D., and Formanowicz, P. (2014). REVIEW PAPER&lt;br&gt;An overall view of the process of the regulation of human iron metabolism. BioTechnologia, 92(2), pp.193-207. https://doi.org/10.5114/bta.2011.46534
+Formanowicz, Dorota et al. "REVIEW PAPER&lt;br&gt;An overall view of the process of the regulation of human iron metabolism." BioTechnologia, vol. 92, no. 2, 2014, pp. 193-207. doi:10.5114/bta.2011.46534
+/div><div>Iron is a key component of many reactions in the human body, and by virtue of its ability to accept and donate<br><br>electrons, it is required for a variety of normal cellular functions and is vital for proper growth and development.<br><br>However, natural iron is rather insoluble and excess of iron is harmful since it can catalyze the formation of oxygen<br><br>radicals. Fortunately, there are also mechanisms for protecting human body from excess ‘free’ iron. This is<br><br>particularly important, given the fact that humans have very limited capacity to excrete iron. Therefore, cells have<br><br>developed mechanisms to improve the solubility of iron to control intracellular iron concentrations at the point<br><br>of iron absorption in the small intestine and other tissues. Since the described process is highly complex, a profound<br><br>understanding of all the relationships occurring among its components is possible when a systems approach<br><br>is applied to its analysis.<
+null
+keywords:</div><h3>iron, homeostasis, transferrin, hepcidin, formal models</h3

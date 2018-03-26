@@ -1,0 +1,17 @@
+﻿1/2017
+8
+Biotechnology-and-bioeconomy-of-complex-traits-r-nin-crop-plants,85,29647,0
+abstract:</div><div>REVIEW PAPER
+Biotechnology and bioeconomy of complex traits in crop plants
+h3>Jan Antoni Rafalski</h3><div>BioTechnologia vol. 98(1) C pp. 67-71 C 2017
+7.66618">https://doi.org/10.5114/bta.2017.66618
+a>View full text</a
+29647
+Rafalski J. Biotechnology and bioeconomy of complex traits in crop plants. BioTechnologia. 2017;98(1):67-71. doi:10.5114/bta.2017.66618
+Rafalski, J. (2017). Biotechnology and bioeconomy of complex traits in crop plants. BioTechnologia, 98(1), 67-71. https://doi.org/10.5114/bta.2017.66618
+Rafalski, Jan Antoni. 2017. "Biotechnology and bioeconomy of complex traits in crop plants". BioTechnologia 98 (1): 67-71. doi:10.5114/bta.2017.66618
+Rafalski, J. (2017). Biotechnology and bioeconomy of complex traits in crop plants. BioTechnologia, 98(1), pp.67-71. https://doi.org/10.5114/bta.2017.66618
+Rafalski, Jan Antoni. "Biotechnology and bioeconomy of complex traits in crop plants." BioTechnologia, vol. 98, no. 1, 2017, pp. 67-71. doi:10.5114/bta.2017.66618
+/div><div>Most important crop productivity traits, such as yield under normal and environmental stress conditions, are determined by a large number of genes, each with a small phenotypic effect. Genetic improvement of these traits through breeding or genetic engineering has been frustrating researchers in academia and industry. The reasons for this include the complexity of the traits, the difficulty of precise phenotyping and the lack of validated candidate genes. Different approaches to the discovery of the genetic architecture of such traits, such as Genetic Association Mapping and Genomic Selection and their engineering, are expected to yield benefits for farmers and consumers.<
+null
+keywords:</div><h3>plants, GMO, plant breeding, complex traits</h3

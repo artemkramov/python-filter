@@ -1,0 +1,6 @@
+﻿2 - June 1993
+3 - 1993
+Current minimization of the non-ideal voltage source with periodically time-varrying parameters by means of an active compensator
+Maciej Siwczyński, Marian Pasko, Radoslaw Kłosiński
+In this paper, the problem of matching a receiver to the real voltage source is solved for the first time. The active current has been correctly determined in the real source with an inner parametric impedance and a parametric receiver. It has also been shown that a compensatory circuit should be selected from a larger class of two-terminal networks with changeable parameters. The results have been obtained by means of optimization methods and variational principles in discrete time-domain. By employing proper algorithms, active current and the compensatory circuit with periodically changeable parameters are determined by a computer, which is able to analyze the situation in the network and to give the results in diagrams currently.
+-

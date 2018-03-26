@@ -1,0 +1,6 @@
+﻿2 - June 2000
+10 - 2000
+Solving parabolic equations by using the method of fast convergent iterations
+Victor Bondarenko, Peter Bidyuk, Julia Bernatska
+The paper describes an approach to solving parabolic partial differential equations that generalizes the well-known parametrix method. The iteration technique proposed exhibits faster convergence than the classical parametrix approach. A solution is constructed on a manifold with the application of the Laplace-Beltrami operator. A theorem is formulated and proved to provide a basis for finding a unique solution. Simulation results illustrate the superiority of the proposed approach in comparison with the classical parametrix method.
+parabolic equations, fundamental solution, Riemannian manifold, rate of convergence, iteration technique, numerical simulation

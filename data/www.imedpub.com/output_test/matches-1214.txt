@@ -1,4 +1,3 @@
 ﻿Prey-predator model with prey reserve
 The paper deals with the mathematical model to study the dynamics of a fishery resource system in an aquatic environment that consists of two zones, a free fishing zone and a reserve zone (where fishing is strictly prohibited). Criteria for local stability and global stability for system are derived.
 Dinesh Kumar Verma, V. H. Badshah and Suman Jain
-preypredator-model-with-prey-reserve.pdf" title="Prey-predator model with prey reserve

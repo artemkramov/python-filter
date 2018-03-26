@@ -1,0 +1,6 @@
+﻿1 - March 1993
+3 - 1993
+Impact of Tempus projects on the computer engineering courses at the Technical University of Wroclaw
+Wojciech Zamojski
+This paper describes the computer engineering education at the Electronics Faculty of the Technical University of Wroclaw. Special attention is paid to the Microprocessors and Microcomputer Systems Courses, which are mainly realized in the institute of Engineering Cybernetics. Two TEMPUS JEPs are conducted in this institute. A short presentation is given of the Informatics at the University, the Electronics Faculty and the institute. Two computer engineering curricula ("old" and "restructured") are presented and on this basis the influence of the TEMPUS projects on the computer engineering education is shown.
+-

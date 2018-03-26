@@ -1,0 +1,3 @@
+Integrated design of observer based fault detection for a class of uncertain nonlinear systems
+Wei Chen, Abdul Q. Khan, Muhammmad Abid, Steven X. Ding
+Integrated design of observer based Fault Detection (FD) for a class of uncertain nonlinear systems with Lipschitz nonlinearities is studied. In the context of norm based residual evaluation, the residual generator and evaluator are designed together in an integrated form, and, based on it, a trade-off FD system is finally achieved in the sense that, for a given Fault Detection Rate (FDR), the False Alarm Rate (FAR) is minimized. A numerical example is given to illustrate the effectiveness of the proposed design method.

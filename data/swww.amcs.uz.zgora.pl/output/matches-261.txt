@@ -1,0 +1,6 @@
+﻿3 - September 1996
+6 - 1996
+Fuzzy neural hybrid position/force control for robot manipulators
+Kazuo Kiguchi, Toshio Fukuda
+Hybrid position/force control is one of the most important and fundamental control methods of robot manipulators. However, there are some problems in providing a hybrid position/force controller for practical use since conventional controllers are not able to adapt to an unknown environment. Recently, a lot of research has been carried out on fuzzy neural control, the combination of neural networks control and fuzzy control, in order to make the controllers intelligent. The fuzzy neural controller is expected to perform more sophisticated control than a conventional one in an unknown environment owing to its adaptation ability. In this paper, we propose a fuzzy neural hybrid position/force control for robot manipulators in an unknown environment using fuzzy logic, neural network, and fuzzy neural network. Simulations have been done with the use of a 3DOF planar robot manipulator to confirm the effectiveness of the proposed method.
+-

@@ -1,0 +1,6 @@
+﻿1 - March 2000
+10 - 2000
+Optimal harvesting of the nonlinear population dynamics
+Sebastian Aniţa
+This paper deals with an optimal harvesting problem for a nonlinear age-dependent population dynamics. The existence and uniqueness of a positive solution for the model considered is demonstrated. The existence of an optimal harvesting effort and the convergence of a certain fractional step scheme are investigated. Necessary optimality conditions for some approximating problems are established.
+population dynamics, Carathéodory solution, optimal harvesting, fractional step scheme, necessary optimality conditions

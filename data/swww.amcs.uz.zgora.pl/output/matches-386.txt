@@ -1,0 +1,6 @@
+﻿1 - March 1993
+3 - 1993
+The computer architecture course in a common core in computer science and engineer degrees
+Alberto José Proença
+The computer architecture subject is part of any course structure on computer related degrees at most Universities. A comprehensive curriculum spawns from computer structure and organisation to concurrent architectures, including performance evaluation. The approach to this subject – top-down, from programming techniques to hardware issues, or bottom-up, from digital systems to instruction sets – and its contents and duration, vary from course to course, and often from University to University. The order of the presentations may also vary – from the generic concepts to the practice with specific devices, versus from programming a microprocessor to the generic concepts. The advantagesIdisadvantages of these approaches are discussed in the talk. An attempt to define a common core of topics, from concepts to laboratory practice, is presented here, based on 2 different sources: the results from a Working Party on Advanced Computer Architecture courses (whose goals are to define a common set of topics for the 6 cooperating Universities under TEMPUS), and the author experience in lecturing this subject to students in 2 different courses – Computer Science and Computer Systems Engineering.
+-

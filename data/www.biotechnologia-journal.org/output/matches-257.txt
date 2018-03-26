@@ -1,0 +1,17 @@
+﻿3/2017
+8
+Lunasin-a-bioactive-peptide-from-triticale-r-n-X-Triticosecale-Wittmack-seeds-inhibits-proliferation-r-nof-cancer-HeLa-and-SK-OV-3-cells,85,30832,0
+abstract:</div><div>RESEARCH PAPERS
+Lunasin – a bioactive peptide from triticale (X<i>Triticosecale Wittmack</i>) seeds, inhibits proliferation of cancer HeLa and SK-OV-3 cells
+h3>Mariola E. Galbas, Filip Porzucek, Marek Selwet, Agnieszka Nowak, Ryszard Slomski</h3><div>BioTechnologia vol. 98(3) C pp. 219-224 C 2017
+7.70800">https://doi.org/10.5114/bta.2017.70800
+a>View full text</a
+30832
+E. Galbas M, Porzucek F, Selwet M, Nowak A, Slomski R. Lunasin – a bioactive peptide from triticale (X &lt;i&gt;Triticosecale Wittmack&lt;/i&gt;) seeds, inhibits proliferation of cancer HeLa and SK-OV-3 cells. BioTechnologia. 2018;98(3):219-224. doi:10.5114/bta.2017.70800
+E. Galbas, M., Porzucek, F., Selwet, M., Nowak, A., &amp; Slomski, R. (2018). Lunasin – a bioactive peptide from triticale (X &lt;i&gt;Triticosecale Wittmack&lt;/i&gt;) seeds, inhibits proliferation of cancer HeLa and SK-OV-3 cells. BioTechnologia, 98(3), 219-224. https://doi.org/10.5114/bta.2017.70800
+E. Galbas, Mariola, Filip Porzucek, Marek Selwet, Agnieszka Nowak, and Ryszard Slomski. 2018. "Lunasin – a bioactive peptide from triticale (X &lt;i&gt;Triticosecale Wittmack&lt;/i&gt;) seeds, inhibits proliferation of cancer HeLa and SK-OV-3 cells". BioTechnologia 98 (3): 219-224. doi:10.5114/bta.2017.70800
+E. Galbas, M., Porzucek, F., Selwet, M., Nowak, A., and Slomski, R. (2018). Lunasin – a bioactive peptide from triticale (X &lt;i&gt;Triticosecale Wittmack&lt;/i&gt;) seeds, inhibits proliferation of cancer HeLa and SK-OV-3 cells. BioTechnologia, 98(3), pp.219-224. https://doi.org/10.5114/bta.2017.70800
+E. Galbas, Mariola et al. "Lunasin – a bioactive peptide from triticale (X &lt;i&gt;Triticosecale Wittmack&lt;/i&gt;) seeds, inhibits proliferation of cancer HeLa and SK-OV-3 cells." BioTechnologia, vol. 98, no. 3, 2018, pp. 219-224. doi:10.5114/bta.2017.70800
+/div><div>The presented study demonstrates the influence of lunasin, a bioactive peptide isolated from seeds of winter triticale, on the proliferation of neoplastic cells. In order to conduct investigations, 2S fraction low-molecular-weight albumin proteins were extracted. SDS-PAGE electrophoresis separation of extracts indicated the presence of a 5 kDa peptide in the crude extract, which corresponded to the weight of lunasin. The next stage of protein purification involved ion-exchange column chromatography in an FPLC system on DEAE Sepharose Fast Flow. The separation of biomolecules by means of 2D electrophoresis confirmed that a peptide with an isoelectric point was present in the area, with a pH of about 5.5 and molecular mass of about 5 kDa. The presence of lunasin in the purified samples was confirmed by Western blot. The lunasin peptide affected the proliferation of cervical cancer (HeLa) and ovarian cancer (SK-OV-3) cell lines. The average decrease in the HeLa cell proliferation rate was 17%. The SK-OV-3 cell line was more susceptible to inhibition by the protein fraction containing lunasin than HeLa cells, with an average decrease in the proliferation rate of 48%.<
+null
+keywords:</div><h3>triticale, lunasin, Western blotting, HeLa, SK-OV-3 cell lines</h3

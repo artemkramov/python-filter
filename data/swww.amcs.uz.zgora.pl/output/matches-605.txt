@@ -1,0 +1,6 @@
+﻿4 - December 2014
+24 - 2014
+Minimum energy control of fractional descriptor positive discrete-time linear systems
+Tadeusz Kaczorek
+Necessary and sufficient conditions for the positivity and reachability of fractional descriptor positive discrete-time linear systems are established. The minimum energy control problem for descriptor positive systems is formulated and solved. Sufficient conditions for the existence of a solution to the minimum energy control problem are given. A procedure for computation of optimal input sequences and a minimal value of the performance index is proposed and illustrated by a numerical example.
+fractional system, descriptor system, positive system, minimum energy control</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0054">10.2478/amcs-2014-0054</a>

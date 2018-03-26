@@ -1,0 +1,6 @@
+﻿1 - March 2006
+16 - 2006
+Niching mechanisms in evolutionary computations
+Zdzisław Kowalczuk, Tomasz Białaszewski
+Different types of niching can be used in genetic algorithms (GAs) or evolutionary computations (ECs) to sustain the diversity of the sought optimal solutions and to increase the effectiveness of evolutionary multi-objective optimization solvers. In this paper four schemes of niching are proposed, which are also considered in two versions with respect to the method of invoking: a continuous realization and a periodic one. The characteristics of these mechanisms are discussed, while as their performance and effectiveness are analyzed by considering exemplary multi-objective optimization tasks both of a synthetic and an engineering (FDI) design nature.
+niching, ranking, Pareto-optimality, genetic algorithms, evolutionary computations, multi-objective optimization, solutions diversity, engineering designs, detection observers

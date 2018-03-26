@@ -1,3 +1,4 @@
 ﻿Thermoelectric power (ÃÂ±) and I-V characteristics study of SnO2 thin films as a function of thickness
 Thin films of tin (Sn) of varying thicknesses have been deposited on glass substrates in a vacuum. After annealing thin films of tin were heated in an air, forms tin oxide (SnO2) films. Thickness dependent thermoelectric power (α) of the films has been measured. The current for different voltages and different thicknesses of SnO2 thin films were measured. The current and voltage characteristics of SnO2 thin films for different thickness have been predicted
 U. P. Shinde and H. S. Aher
+thermoelectric-power--and-iv-characteristics-study-of-sno2-thin-filmsas-a-function-of-thickness.pdf" title="Thermoelectric power (ÃÂ±) and I-V characteristics study of SnO2 thin filmsas a function of thickness

@@ -1,0 +1,6 @@
+﻿2 - June 2008
+18 - 2008
+Time-optimal boundary control of an infinite order parabolic system with time lags
+Adam Kowalewski, Anna Krakowiak
+In this paper the time-optimal boundary control problem is presented for a distributed infinite order parabolic system in which time lags appear in the integral form both in the state equation and in the boundary condition. Some specific properties of the optimal control are discussed.
+time-optimal boundary control, infinite order, parabolic system, time lags</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0017-8">10.2478/v10006-008-0017-8</a>

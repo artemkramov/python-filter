@@ -1,0 +1,6 @@
+﻿4 - December 1997
+7 - 1997
+The diameter of the reachability set for a 2-D continuous-discrete linear system with disturbances
+Ewa Krasoń
+The methods are presented for computing the support functions and diameters of reachability sets for a certain type of 2-D continuous-discrete linear system with disturbances limited to a rectangle and an ellipsoid. These methods are based on the idea of the reachability set for 1-D systems with disturbances and the 2-D continuous-discrete linear system theory.
+-

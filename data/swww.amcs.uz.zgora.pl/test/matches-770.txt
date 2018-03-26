@@ -1,0 +1,6 @@
+﻿4 - December 2012
+22 - 2012
+A modified state variable diagram method for determination of positive realizations of linear continuous-time systems with delays
+Tadeusz Kaczorek
+A new modified state variable diagram method is proposed for determination of positive realizations of linear continuous-time systems with delays in state and input vectors. Using the method, it is possible to find a positive realization with reduced numbers of delays for a given transfer matrix. Sufficient conditions for the existence of positive realizations of given proper transfer matrices are established. The proposed method is demonstrated on numerical examples.
+state diagram method, determination, linear, continuous-time, delay, realization</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0066-x">10.2478/v10006-012-0066-x</a>

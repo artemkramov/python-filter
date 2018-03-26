@@ -1,0 +1,6 @@
+﻿3 - September 2017
+27 - 2017
+The interval Shapley value of an M/M/1 service system
+Cheng-Guo E, Quan-Lin Li, Shiyong Li
+Service systems and their cooperation are one of the most important and hot topics in management and information sciences. To design a reasonable allocation mechanism of service systems is the key issue in the cooperation of service systems. In this paper, we systematically introduce the interval Shapley value as cost allocation of cooperative interval games 〈<em>N, V</em>〉 arising from cooperation in a multi-server service system, and provide an explicit expression for the interval Shapley value of cooperative interval games 〈<em>N, V</em>〉. We construct an interval game 〈<em>N, W</em>〉 of a service system which shares the same value for the grand coalition with the original interval game, by using the characteristic function which is dominated by the function of the original interval game. Finally, we prove that the interval game 〈<em>N, W</em>〉 is concave, which means that the interval Shapley value of the interval game 〈<em>N, W</em>〉 is in the interval core of this interval game,
+M/M/1 service system, cooperative interval game, cost allocation, Shapley value</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2017-0039">10.1515/amcs-2017-0039</a>

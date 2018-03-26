@@ -1,0 +1,6 @@
+﻿4 - December 2016
+26 - 2016
+A metaheuristic for a numerical approximation to the mass transfer problem
+Martha L. Avendaño-Garrido, José R. Gabriel-Argüelles, Ligia Quintana-Torres, Efrén Mezura-Montes
+This work presents an improvement of the approximation scheme for the Monge–Kantorovich (MK) mass transfer problem on compact spaces, which is studied by Gabriel et al. (2010), whose scheme discretizes the MK problem, reduced to solve a sequence of finite transport problems. The improvement presented in this work uses a metaheuristic algorithm inspired by scatter search in order to reduce the dimensionality of each transport problem. The new scheme solves a sequence of linear programming problems similar to the transport ones but with a lower dimension. The proposed metaheuristic is supported by a convergence theorem. Finally, examples with an exact solution are used to illustrate the performance of our proposal.
+Monge–Kantorovich mass transfer problem, finite dimensional linear programming, transport problem, metaheuristic algorithm, scatter search</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0053">10.1515/amcs-2016-0053</a>

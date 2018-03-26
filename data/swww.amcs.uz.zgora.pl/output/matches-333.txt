@@ -1,0 +1,6 @@
+﻿2 - June 1994
+4 - 1994
+Controllability of non-linear models in modelling population dynamics
+Jerzy Klamka
+In the paper a mathematical model of two interacting biological populations is considered. U sing techniques adopted from functional analysis such as Schauder's fixed-point theorem, a sufficient condition for local controllability is formulated and proved. Moreover, some additional remarks and comments on controllability problem are given.
+-

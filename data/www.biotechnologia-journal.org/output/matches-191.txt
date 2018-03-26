@@ -1,0 +1,17 @@
+﻿3/2017
+8
+Indirect-organogenesis-in-milkweed-Calotropis-procera-r-nfrom-mature-zygotic-embryo-explants,85,30829,0
+abstract:</div><div>RESEARCH PAPERS
+Indirect organogenesis in milkweed (<i><i>Calotropis procera</i></i>) from mature zygotic embryo explants
+h3>Hojatollah Abbasi</h3><div>BioTechnologia vol. 98(3) C pp. 189-194 C 2017
+7.70797">https://doi.org/10.5114/bta.2017.70797
+a>View full text</a
+30829
+Abbasi H. Indirect organogenesis in milkweed (&lt;i&gt;&lt;i&gt;Calotropis procera&lt;/i&gt;&lt;/i&gt;) from mature zygotic embryo explants. BioTechnologia. 2018;98(3):189-194. doi:10.5114/bta.2017.70797
+Abbasi, H. (2018). Indirect organogenesis in milkweed (&lt;i&gt;&lt;i&gt;Calotropis procera&lt;/i&gt;&lt;/i&gt;) from mature zygotic embryo explants. BioTechnologia, 98(3), 189-194. https://doi.org/10.5114/bta.2017.70797
+Abbasi, Hojatollah. 2018. "Indirect organogenesis in milkweed (&lt;i&gt;&lt;i&gt;Calotropis procera&lt;/i&gt;&lt;/i&gt;) from mature zygotic embryo explants". BioTechnologia 98 (3): 189-194. doi:10.5114/bta.2017.70797
+Abbasi, H. (2018). Indirect organogenesis in milkweed (&lt;i&gt;&lt;i&gt;Calotropis procera&lt;/i&gt;&lt;/i&gt;) from mature zygotic embryo explants. BioTechnologia, 98(3), pp.189-194. https://doi.org/10.5114/bta.2017.70797
+Abbasi, Hojatollah. "Indirect organogenesis in milkweed (&lt;i&gt;&lt;i&gt;Calotropis procera&lt;/i&gt;&lt;/i&gt;) from mature zygotic embryo explants." BioTechnologia, vol. 98, no. 3, 2018, pp. 189-194. doi:10.5114/bta.2017.70797
+/div><div>Milkweed (<i><i>Calotropis procera</i></i>) is a valuable medicinal plant which grows in many regions of Iran. Its significant medicinal properties have made it an important crop which is cultivated commercially. This plant is propagated from seeds as well as root and shoot cuttings. Due to problems in the usage of these reproduction methods, new propagation methods such as tissue culturing should be developed. This study was aimed at obtaining appropriate concentrations of plant hormones for indirect organogenesis of milkweed. The experiment was arranged in a completely randomized design (CRD) with 3 replications. The effects of various concentrations of (2,4-dichlorophenoxyacetic acid) 2,4-D (0.1, 0.5, 1, 2 and 3 mg/l) were studied in terms of callus induction and shoot regeneration on an MS based medium supplemented with BA (benzyl amino purine) and NAA (naphthalene acetic acid) at the same concentration. Mature embryos were used as explants and morphological traits such as embryo size, callus size, number and size of shoots and roots were recorded. The results showed that 2,4-D significantly increased the size of cultured embryos (P &lt; 0.05). The largest embryo volume was observed in cultures treated with 3 mg/l 2,4-D. The highest callusing was recorded in 2 mg/l 2,4-D. The effects of BA and NAA concentrations on shoot regeneration were significant and the highest values were observed for a combination of 1 mg/l BA and 2 mg/l NAA. 1 mg/l IBA (Indole 3-butyric acid) was able to induce the highest number of better quality roots and shoots.<
+null
+keywords:</div><h3>milkweed, BA, NAA, callus formation and rooting</h3

@@ -1,0 +1,3 @@
+Regional control problem for distributed bilinear systems: Approach and simulations
+Karima Ztot, El Hassan Zerrik, Hamid Bourray
+This paper investigates the regional control problem for infinite dimensional bilinear systems. We develop an approach that characterizes the optimal control and leads to a numerical algorithm. The obtained results are successfully illustrated by simulations.

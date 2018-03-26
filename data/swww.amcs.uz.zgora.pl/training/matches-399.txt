@@ -1,0 +1,6 @@
+﻿2 - June 1993
+3 - 1993
+Semi-analytical solutions of ordinary differential equations
+Krzysztof Goździewski, Andrzej J. Maciejewski
+We describe the method that allows, in many cases, to solve effectively a wide class of ordinary differential equations describing a mechanical system. The method is based upon the idea of normalization procedure. We present its implementation and some examples of its applications.
+-

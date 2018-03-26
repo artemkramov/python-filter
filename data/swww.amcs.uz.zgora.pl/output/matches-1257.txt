@@ -1,0 +1,6 @@
+﻿2 - June 2003
+13 - 2003
+The relationship between the infinite eigenvalue assignment for singular systems and the solvability of polynomial matrix equations
+Tadeusz Kaczorek
+Two related problems, namely the problem of the infinite eigenvalue assignment and that of the solvability of polynomial matrix equations are considered. Necessary and sufficient conditions for the existence of solutions to both the problems are established. The relationships between the problems are discussed and some applications from the field of the perfect observer design for singular linear systems are presented.
+assignment, infinite eigenvalue, singular, polynomial matrix equation, system, relationship

@@ -1,0 +1,6 @@
+﻿4 - December 2003
+13 - 2003
+Bilateral polynomial equations with unimodular right-hand-side matrices
+Tadeusz Kaczorek
+Necessary and sufficient conditions are established for the existence of a solution to some bilateral polynomial matrix equations with unimodular right-hand-side matrices. A procedure for the computation of the solution is derived and illustrated by a numerical example. Two examples of applications of bilateral polynomial matrix equations are presented.
+bilateral, polynomial equation, unimodular procedure, solution

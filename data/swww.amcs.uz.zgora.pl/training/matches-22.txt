@@ -1,0 +1,6 @@
+﻿1 - March 2000
+10 - 2000
+Sustainable exploitation of biological populations
+Joran Grasman
+For a system of nonlinear difference equations that models the dynamics of exploited biological populations, a locally optimal periodic solution is constructed. If this solution is unstable, a stabilizing feedback in the harvesting is introduced. The method is applied to an age-structured population model in fishery as well as to a host-parasitoid system for which the number of hosts and the number of introduced parasitoids should be minimized.
+optimal harvesting, system of nonlinear difference equations, fishery, host-parasitoid system, stabilizing feedback

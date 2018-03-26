@@ -1,0 +1,6 @@
+﻿1 - March 1996
+6 - 1996
+Computing a cover for projected functional dependencies from a Boolean expression
+Wojciech Zawadzki
+This paper gives the solution to a problem of finding an expression for a cover for π<em><sub>R</sub></em>(<em>F</em>), where<em>F</em>is a set of functional dependencies, using Boolean functions as a formal tool. Another approach to represent a set of functional dependencies<em>F</em>by a Boolean function φ (<em>R</em>), where<em>R = {A,B, ... }</em>stands for a relation schema, is presented. The main result is an algorithm of transformation: φ(<em>R</em>) → φ(π<sub><em>X</em></sub>(<em>R</em>)) → π<sub><em>X</em></sub>(<em>F</em>). It is shown that such a transformation is equivalent to the decomposition of a Boolean function. The algorithm employs a number of optimization steps to reduce its complexity and to avoid redundancies resulting from the augmentation rule. A paper is being prepared (Zawadzki, 1995) in which the algorithm will be implemented and some estimation of time complexity will be given. It is conjectured that it may run in polynomial time unless the number of non-redundant dependencies is itself an exponential function of |<em>X</em>|. To the author's knowledge, there is only one algorithm (Gottlob, 1987) for the above problem, but it is not guaranteed to run in polynomial time.
+-

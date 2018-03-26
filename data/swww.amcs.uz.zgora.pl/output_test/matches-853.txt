@@ -1,0 +1,3 @@
+Positivity and stabilization of fractional 2D linear systems described by the Roesser model
+Tadeusz Kaczorek, Krzysztof Rogowski
+A new class of fractional 2D linear discrete-time systems is introduced. The fractional difference definition is applied to each dimension of a 2D Roesser model. Solutions of these systems are derived using a 2D<em>Z</em>-transform. The classical Cayley-Hamilton theorem is extended to 2D fractional systems described by the Roesser model. Necessary and sufficient conditions for the positivity and stabilization by the state-feedback of fractional 2D linear systems are established. A procedure for the computation of a gain matrix is proposed and illustrated by a numerical example.

@@ -1,0 +1,6 @@
+﻿1 - March 1993
+3 - 1993
+EUROCHIP in action: A case study
+Antonio de Brito Ferrari
+This paper describes the experience of the Department of Electronics and Communications Engineering, Universidade de Aveiro, as a EUROCHIP Participating Institution (PI). The emphasis is on the analysis of the impact of EUROCHIP participation on' the curricula of the degree courses run by the department. In a short time the curricula has changed from a traditional one, with 110 VLSI contents, to one where VLSI design is becoming a very strong presence. What has been achieved so far through EUROCHIP is described as well as the plans for the near future.
+-

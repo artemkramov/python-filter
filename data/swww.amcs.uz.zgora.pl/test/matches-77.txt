@@ -1,0 +1,6 @@
+﻿2 - June 1999
+9 - 1999
+Constrained controllability of dynamic systems
+Jerzy Klamka
+The present paper is devoted to a study of constrained controllability and controllability for linear dynamic systems if the controls are taken to be nonnegative. By analogy to the usual definition of controllability it is possible to introduce the concept of positive controllability. We shall concentrate on approximate positive controllability for linear infinite-dimensional dynamic systems when the values of controls are taken from a positive closed convex cone and the operator of the system is normal and has pure discrete point spectrum. Special attention is paid to positive infinite-dimensional linear dynamic systems. General approximate constrained controllability results are then applied to distributed-parameter dynamic systems described by linear partial-differential equations of parabolic type with various kinds of boundary conditions. Several remarks and comments on the relationships between different concepts of controllability are given. Finally, a simple illustrative example is also presented.
+constrained controllability, infinite-dimensional systems, distributed-parameter systems, positive dynamic systems

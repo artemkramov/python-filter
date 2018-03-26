@@ -1,0 +1,6 @@
+﻿3 - September 1994
+4 - 1994
+Statistical physics approach to optimization problems
+Leszek Ciepliński, Czesław Jędrzejek
+Methods of statistical physics are applied to the Travelling Salesman Problem. The starting point is the Hopfield-type Hamiltonian and the most representative benchmark is the 318-city TSP. We find that the recent Ising model neural network implementation by Mehta and Fulop (1993) can be made fully equivalent to the Potts representation proposed by Peterson and Sodeberg (1989). Our calculations using the mean-field method for the Potts representation are more effective (average cost 58000, the best 55000) than the Ising model neural network implementation by Mehta and Fulop (the cost from 64552 to 61337). In terms of the tour cost a genetic-type algorithm always gives better results than the Hopfield approach. We relate distribution of energy in the population during the evolution to the quality of genetic algorithm.
+-

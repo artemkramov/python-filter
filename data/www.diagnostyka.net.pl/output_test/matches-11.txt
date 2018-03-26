@@ -1,0 +1,5 @@
+1-2016,3238">1/2016 vol. 17
+The detection of anomalies in controlling of the combustion process by using a genetic algorithm
+Katedra Systemów Cyfrowego Przetwarzania Sygnałów na Wydziale Elektroniki i Informatyki Politechnika Koszalińska, 75-453 Koszalin, ul Śniadeckich 2
+81495-16987?filename=The detection of
+The article presents the problem of dynamically changing fuel quality during the control of combustion process. The way of the measurement process variables related with this process was described. In the next part of the article schematics, ideas and genetic algorithm were presented by the author. They are also presented conditions in which the above anomaly detection algorithm perform in the regulation of combustion. The results of these solution were presented in the final section.

@@ -1,0 +1,6 @@
+﻿4 - December 2007
+17 - 2007
+The choice of the forms of Lyapunov functions for a positive 2D Roesser model
+Tadeusz Kaczorek
+The appropriate choice of the forms of Lyapunov functions for a positive 2D Roesser model is addressed. It is shown that for the positive 2D Roesser model: (i) a linear form of the state vector can be chosen as a Lyapunov function, (ii) there exists a strictly positive diagonal matrix<em>P</em>such that the matrix<em>A<sup>T</sup>P A − P</em>is negative definite. The theoretical deliberations will be illustrated by numerical examples.
+Lyapunov function, positive 2D Roesser model, asymptotic stability</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0039-7">10.2478/v10006-007-0039-7</a>

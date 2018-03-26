@@ -1,0 +1,6 @@
+﻿1 - March 1996
+6 - 1996
+Volterra series expansion for state quadratic systems
+Mohieddine Jelali, Helmut Schwarz
+A review of two methods to compute the kernels of a Volterra series expansion via flow and by the Carleman bilinearization for non-linear analytic systems with linear control is presented. We give explicit formulae especially for state quadratic systems. Furthermore, illustrative examples are given, and the two methods are briefly compared.
+-

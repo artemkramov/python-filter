@@ -1,0 +1,6 @@
+﻿2 - June 2009
+19 - 2009
+Optimization schemes for wireless sensor network localization
+Ewa Niewiadomska-Szynkiewicz, Michał Marks
+Many applications of wireless sensor networks (WSN) require information about the geographical location of each sensor node. Self-organization and localization capabilities are one of the most important requirements in sensor networks. This paper provides an overview of centralized distance-based algorithms for estimating the positions of nodes in a sensor network. We discuss and compare three approaches: semidefinite programming, simulated annealing and two-phase stochastic optimization—a hybrid scheme that we have proposed. We analyze the properties of all listed methods and report the results of numerical tests. Particular attention is paid to our technique—the two-phase method—that uses a combination of trilateration, and stochastic optimization for performing sensor localization. We describe its performance in the case of centralized and distributed implementations.
+wireless sensor networks, localization, stochastic optimization, simulated annealing</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-009-0025-3">10.2478/v10006-009-0025-3</a>

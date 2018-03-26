@@ -1,0 +1,6 @@
+﻿4 - December 2013
+23 - 2013
+Robust observer design for Sugeno systems with incremental quadratic nonlinearity in the consequent
+Hoda Moodi, Mohammad Farrokhi
+This paper is concerned with observer design for nonlinear systems that are modeled by T–S fuzzy systems containing parametric and nonparametric uncertainties. Unlike most Sugeno models, the proposed method contains nonlinear functions in the consequent part of the fuzzy IF-THEN rules. This will allow modeling a wider class of systems with smaller modelling errors. The consequent part of each rule contains a linear part plus a nonlinear term, which has an incremental quadratic constraint. This constraint relaxes the conservativeness introduced by other regular constraints for nonlinearities such as the Lipschitz conditions. To further reduce the conservativeness, a nonlinear injection term is added to the observer dynamics. Simulation examples show the effectiveness of the proposed method compared with the existing techniques reported in well-established journals.
+nonlinear Sugeno model, incremental quadratic constraint, robust observer</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0053">10.2478/amcs-2013-0053</a>

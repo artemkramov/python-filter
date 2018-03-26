@@ -1,0 +1,6 @@
+﻿3 - September 2000
+10 - 2000
+Time-domain synthesis of linear circuits with periodically variable parameters
+Maciej Siwczyński
+A novel synthesis method of linear electric networks with periodically variable parameters is presented. These types of networks can be implemented as resistance-parametric, (conductance-capacitance)-parametric or (resistanceinductance)- parametric multiports. The time-varying parameters are determined so as to extremize some specific optimisation criteria. Consequently, the synthesis task has a unique solution. The starting point of the solution method is the original theorem proved in the paper, which deals with the minimum-energy networks.
+parametric circuits, synthesis, optimisation

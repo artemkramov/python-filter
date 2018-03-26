@@ -1,0 +1,6 @@
+﻿1 - March 2008
+18 - 2008
+Local correlation and entropy maps as tools for detecting defects in industrial images
+Ewa Skubalska-Rafajłowicz
+The aim of this paper is to propose two methods of detecting defects in industrial products by an analysis of gray level images with low contrast between the defects and their background. An additional difficulty is the high nonuniformity of the background in different parts of the same image. The first method is based on correlating subimages with a nondefective reference subimage and searching for pixels with low correlation. To speed up calculations, correlations are replaced by a map of locally computed inner products. The second approach does not require a reference subimage and is based on estimating local entropies and searching for areas with maximum entropy. A nonparametric estimator of local entropy is also proposed, together with its realization as a bank of RBF neural networks. The performance of both methods is illustrated with an industrial image.
+defects detection, image processing, local correlation, entropy map</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0004-0">10.2478/v10006-008-0004-0</a>

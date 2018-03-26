@@ -9,7 +9,8 @@ clf = joblib.load('svm.pkl')
 # print(clf.predict([vector.to_array()]))
 parsers = [("ipri", fp.FileParserIPRI()), ("iasa", fp.FileParserIASA()), ("infotelesc", fp.FileParserInfotelesc()),
            ("bulletin-economical", fp.FileParserBulletinEconomical()), ("visnyk-soc", fp.FileParserVisnykSoc()),
-           ("scholar-publish", fp.FileParserScholarPublish()), ("imed-pub", fp.FileParserImedPub())]
+           ("scholar-publish", fp.FileParserScholarPublish()), ("imed-pub", fp.FileParserImedPub()),
+           ("amcs.uz.zgora.pl", fp.FileParserAmcs())]
 for name, parser in parsers:
     parser.read_data_test()
     errors = parser.count_error(clf)

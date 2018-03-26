@@ -1,0 +1,6 @@
+﻿1 - March 2001
+11 - 2001
+On network models and the symbolic solution of network equations
+Kurt J. Reinschke
+This paper gives an overview of the formulation and solution of network equations, with emphasis on the historical development of this area. Networks are mathematical models. The three ingredients of network descriptions are discussed. It is shown how the network equations of one-dimensional multi-port networks can be formulated and solved symbolically. If necessary, the network graph is modified so as to obtain an admittance representation for all kinds of multi-ports.<em>N</em>-dimensional networks are defined as graphs with the algebraic structure of<em>N</em>-dimensional vectors. In civil engineering, framed structures in two and three spatial dimensions can be modeled as 3-dimensional or 6-dimensional networks. The separation of geometry from topology is a characteristic feature of such networks.
+history of network theory, network graphs, network equations, modified nodal analysis, admittance representation of multi-ports, multidimensional networks

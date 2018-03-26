@@ -1,0 +1,6 @@
+﻿2 - June 1997
+7 - 1997
+On the stability of nonlinear PD control
+Brian Armstrong, Joseph McPherson, Yonggang Li
+A construction of nonlinear-PD control (NPD control) is considered which applies increased control effort when the system output is moving away from its desired value and reduced effort when the output is moving toward the goal point. Such NPD control has been described previously in the literature and experimentally demonstrated; but to date, no stability proof has been given. For strictly proper, time invariant SISO systems with NPD control, stability is established by demonstrating a Lyapunov function. Design, and implementation issues are addressed and design examples are presented.
+-

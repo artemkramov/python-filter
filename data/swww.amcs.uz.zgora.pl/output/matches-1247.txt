@@ -1,0 +1,6 @@
+﻿1 - March 2003
+13 - 2003
+Controllability and reconstructability of a system described by the<em>N</em>-D Roesser model
+Jerzy E. Kurek
+The controllability and reconstructability (global) of the system described by a digital<em>N</em>-D Roesser model are defined. Then, necessary and sufficient conditions for system controllability and reconstructability are given. The conditions constitute a generalization of the corresponding conditions for 1-D systems.
+<em>N</em>-D systems, Roesser model, controllability, reconstructability

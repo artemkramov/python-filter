@@ -1,0 +1,6 @@
+﻿4 - December 2011
+21 - 2011
+Partitioned iterated function systems with division and a fractal dependence graph in recognition of 2D shapes
+Krzysztof Gdawiec, Diana Domańska
+One of the approaches in pattern recognition is the use of fractal geometry. The property of self-similarity of fractals has been used as a feature in several pattern recognition methods. All fractal recognition methods use global analysis of the shape. In this paper we present some drawbacks of these methods and propose fractal local analysis using partitioned iterated function systems with division. Moreover, we introduce a new fractal recognition method based on a dependence graph obtained from the partitioned iterated function system. The proposed method uses local analysis of the shape, which improves the recognition rate. The effectiveness of our method is shown on two test databases. The first one was created by the authors and the second one is the MPEG7 CE-Shape-1PartB database. The obtained results show that the proposed methodology has led to a significant improvement in the recognition rate.
+fractal, partitioned iterated function system, shape recognition, dependence graph</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-011-0060-8">10.2478/v10006-011-0060-8</a>

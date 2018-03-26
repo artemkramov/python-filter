@@ -1,0 +1,17 @@
+﻿3/2012
+3
+RESEARCH-PAPER-Annotating-a-non-model-plant-genome-r-n-a-study-on-the-narrow-leafed-lupin,85,23912,0
+abstract:
+RESEARCH PAPER<br>Annotating a non-model plant genome – a study on the narrow-leafed lupin
+h3>Andrzej Zieleziński, Piotr Potarzycki, Michał Książkiewicz, Wojciech M. Karłowski</h3><div>BioTechnologia vol. 93(3) C pp. 318-332 C 2012
+2.46586">https://doi.org/10.5114/bta.2012.46586
+a>View full text</a
+23912
+Zieleziński A, Potarzycki P, Książkiewicz M, Karłowski W. RESEARCH PAPER&lt;br&gt;Annotating a non-model plant genome – a study on the narrow-leafed lupin. BioTechnologia. 2014;93(3):318-332. doi:10.5114/bta.2012.46586
+Zieleziński, A., Potarzycki, P., Książkiewicz, M., &amp; Karłowski, W. (2014). RESEARCH PAPER&lt;br&gt;Annotating a non-model plant genome – a study on the narrow-leafed lupin. BioTechnologia, 93(3), 318-332. https://doi.org/10.5114/bta.2012.46586
+Zieleziński, Andrzej, Piotr Potarzycki, Michał Książkiewicz, and Wojciech M. Karłowski. 2014. "RESEARCH PAPER&lt;br&gt;Annotating a non-model plant genome – a study on the narrow-leafed lupin". BioTechnologia 93 (3): 318-332. doi:10.5114/bta.2012.46586
+Zieleziński, A., Potarzycki, P., Książkiewicz, M., and Karłowski, W. (2014). RESEARCH PAPER&lt;br&gt;Annotating a non-model plant genome – a study on the narrow-leafed lupin. BioTechnologia, 93(3), pp.318-332. https://doi.org/10.5114/bta.2012.46586
+Zieleziński, Andrzej et al. "RESEARCH PAPER&lt;br&gt;Annotating a non-model plant genome – a study on the narrow-leafed lupin." BioTechnologia, vol. 93, no. 3, 2014, pp. 318-332. doi:10.5114/bta.2012.46586
+/div><div>We present here a highly portable and easy-to-use gene annotation system CEL (Computational Environment for<br><br>annotation of Legume genomes) that can be used to annotate any type of genomic sequence -- from BAC ends to<br><br>complete chromosomes. CEL’s core engine is modular and hierarchically organized with an open-source structure,<br><br>permitting maximum customization -- users can assemble an individualized annotation pipeline by selecting<br><br>computational components that best suit their annotation needs. The tool is designed to speed up genomic analyses<br><br>and features an algorithm that substitutes for a biologist’s expertise at various steps of gene structure prediction.<br><br>This allows more complete automation of the labor-intensive and time-consuming annotation process.<br><br>The system collects and prioritizes multiple sources of de novo gene predictions and gene expression evidence<br><br>according to the confidence value of underlying supporting evidence, as a result producing high-quality genemodel<br><br>sets. The data produced by CEL pipeline is suitable for direct visualization in any genome browser tool that<br><br>supports GFF annotation format (e.g. Apollo, Artemis, Genome Browser etc.). This provides an easy means to<br><br>view and edit individual contigs and BACs using just mouse’s clicks and drag-and-drop features. Finally, we show<br><br>that CEL produces accurate annotations for novel draft genomes,of low quality or mostly non-existent, as in<br><br>the case of narrow-leafed lupin where the training-data are limited.<
+null
+keywords:</div><h3>genome annotation, pipeline, software, narrow-leafed lupin, draft-genome, plant genome</h3

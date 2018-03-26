@@ -1,0 +1,6 @@
+a>View full text</a
+Lewandowski D, Urbanowicz A, Figlerowicz M. The fruitful coexistence of &lt;i&gt;Borrelia burgdorferi&lt;/i&gt; and &lt;i&gt;Ixodes&lt;/i&gt; ticks. BioTechnologia. 2014;94(1):31-33. doi:10.5114/bta.2013.46432
+Lewandowski, D., Urbanowicz, A., &amp; Figlerowicz, M. (2014). The fruitful coexistence of &lt;i&gt;Borrelia burgdorferi&lt;/i&gt; and &lt;i&gt;Ixodes&lt;/i&gt; ticks. BioTechnologia, 94(1), 31-33. https://doi.org/10.5114/bta.2013.46432
+Lewandowski, Dominik, Anna Urbanowicz, and Marek Figlerowicz. 2014. "The fruitful coexistence of &lt;i&gt;Borrelia burgdorferi&lt;/i&gt; and &lt;i&gt;Ixodes&lt;/i&gt; ticks". BioTechnologia 94 (1): 31-33. doi:10.5114/bta.2013.46432
+Lewandowski, D., Urbanowicz, A., and Figlerowicz, M. (2014). The fruitful coexistence of &lt;i&gt;Borrelia burgdorferi&lt;/i&gt; and &lt;i&gt;Ixodes&lt;/i&gt; ticks. BioTechnologia, 94(1), pp.31-33. https://doi.org/10.5114/bta.2013.46432
+Lewandowski, Dominik et al. "The fruitful coexistence of &lt;i&gt;Borrelia burgdorferi&lt;/i&gt; and &lt;i&gt;Ixodes&lt;/i&gt; ticks." BioTechnologia, vol. 94, no. 1, 2014, pp. 31-33. doi:10.5114/bta.2013.46432

@@ -1,0 +1,6 @@
+﻿2 - June 2005
+15 - 2005
+Global stability of linearizing control with a new robust nonlinear observer of the induction motor
+Mohammed Chenafa, Abdellah Mansouri, Abderrahmane Bouhenna, Eric Etien, Abdelkader Belaidi, Mouloud Azzedine Denai
+This paper mainly deals with the design of an advanced control law with an observer for a special class of nonlinear systems. We design an observer with a gain as a function of speed. We study the solution to the output feedback torque and rotor fluxtracking problem for an induction motor model given in the natural frame. We propose a new robust nonlinear observer and prove the global stability of the interlaced controller-observer system. The control algorithm is studied through simulations and applied in many configurations (various set points, flux and speed profiles and torque disturbances), and is shown to be very efficient.
+nonlinear observer, linearizing control, induction motor, global stability

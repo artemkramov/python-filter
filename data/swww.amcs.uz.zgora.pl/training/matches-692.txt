@@ -1,0 +1,6 @@
+﻿4 - December 2013
+23 - 2013
+Using a graph grammar system in the finite element method
+Barbara Strug, Anna Paszyńska, Maciej Paszyński, Ewa Grabska
+The paper presents a system of Composite Graph Grammars (CGGs)modelling adaptive two dimensional<em>hp</em>Finite Element Method (<em>hp</em>-FEM) algorithms with rectangular finite elements. A computational mesh is represented by a composite graph. The operations performed over the mesh are defined by the graph grammar rules. The CGG system contains different graph grammars defining different kinds of rules of mesh transformations. These grammars allow one to generate the initial mesh, assign values to element nodes and perform<em>h</em>- and<em>p</em>-adaptations. The CGG system is illustrated with an example from the domain of geophysics.
+graph grammar system, automatic<em>hp</em>adaptivity, finite element method</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0063">10.2478/amcs-2013-0063</a>

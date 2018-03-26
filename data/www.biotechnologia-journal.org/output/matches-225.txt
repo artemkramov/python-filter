@@ -1,0 +1,16 @@
+﻿1/2013
+4
+Animal-Dicer-and-plant-Dicer-like-proteins,85,23822,0
+abstract:</div><div>Review paper
+Animal Dicer and plant Dicer-like proteins
+h3>Aleksander Tworak, Anna Urbanowicz, Jan Podkowinski, Marek Figlerowicz</h3><div>BioTechnologia vol. 94(1) C pp. 22-26 C 2013
+3.46429">https://doi.org/10.5114/bta.2013.46429
+a>View full text</a
+23822
+Tworak A, Urbanowicz A, Podkowinski J, Figlerowicz M. Animal Dicer and plant Dicer-like proteins. BioTechnologia. 2014;94(1):22-26. doi:10.5114/bta.2013.46429
+Tworak, A., Urbanowicz, A., Podkowinski, J., &amp; Figlerowicz, M. (2014). Animal Dicer and plant Dicer-like proteins. BioTechnologia, 94(1), 22-26. https://doi.org/10.5114/bta.2013.46429
+Tworak, Aleksander, Anna Urbanowicz, Jan Podkowinski, and Marek Figlerowicz. 2014. "Animal Dicer and plant Dicer-like proteins". BioTechnologia 94 (1): 22-26. doi:10.5114/bta.2013.46429
+Tworak, A., Urbanowicz, A., Podkowinski, J., and Figlerowicz, M. (2014). Animal Dicer and plant Dicer-like proteins. BioTechnologia, 94(1), pp.22-26. https://doi.org/10.5114/bta.2013.46429
+Tworak, Aleksander et al. "Animal Dicer and plant Dicer-like proteins." BioTechnologia, vol. 94, no. 1, 2014, pp. 22-26. doi:10.5114/bta.2013.46429
+null
+</div

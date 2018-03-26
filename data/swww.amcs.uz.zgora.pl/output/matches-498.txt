@@ -1,0 +1,6 @@
+﻿2 - June 2015
+25 - 2015
+A generalization of the graph Laplacian with application to a distributed consensus algorithm
+Guisheng Zhai
+In order to describe the interconnection among agents with multi-dimensional states, we generalize the notion of a graph Laplacian by extending the adjacency weights (or weighted interconnection coefficients) from scalars to matrices. More precisely, we use positive definite matrices to denote full multi-dimensional interconnections, while using nonnegative definite matrices to denote partial multi-dimensional interconnections. We prove that the generalized graph Laplacian inherits the spectral properties of the graph Laplacian. As an application, we use the generalized graph Laplacian to establish a distributed consensus algorithm for agents described by multi-dimensional integrators.
+graph Laplacian, generalized graph Laplacian, adjacency weights, distributed consensus algorithm, cooperative control</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2015-0027">10.1515/amcs-2015-0027</a>

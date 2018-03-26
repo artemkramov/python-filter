@@ -1,0 +1,6 @@
+﻿3 - September 2013
+23 - 2013
+Design of unknown input fractional-order observers for fractional-order systems
+Ibrahima N’Doye, Mohamed Darouach, Holger Voos, Michel Zasadzinski
+This paper considers a method of designing fractional-order observers for continuous-time linear fractional-order systems with unknown inputs. Conditions for the existence of these observers are given. Sufficient conditions for the asymptotical stability of fractional-order observer errors with the fractional order α satisfying 0 &lt; α &lt; 2 are derived in terms of linear matrix inequalities. Two numerical examples are given to demonstrate the applicability of the proposed approach, where the fractional order α belongs to 1 ≤ α &lt; 2 and 0 &lt; α ≤1, respectively. A stability analysis of the fractional-order error system is made and it is shown that the fractional-order observers are as stable as their integer order counterpart and guarantee better convergence of the estimation error.
+fractional calculus, fractional-order systems, fractional-order observers, existence condition, linear matrix inequality, unknown input, stability</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0037">10.2478/amcs-2013-0037</a>

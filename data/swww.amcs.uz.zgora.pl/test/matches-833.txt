@@ -1,0 +1,6 @@
+﻿3 - September 2017
+27 - 2017
+On an algorithm for the problem of tracking a trajectory of a parabolic equation
+Marina Blizorukova, Vyacheslav Maksimov
+In this paper, we consider the problem of tracking a solution of a reference parabolic equation by a solution of another equation. A stable algorithm based on the extremal shift method is proposed for this problem. The algorithm is designed to work on a sufficiently large time interval where both equations operate.
+parabolic equation, tracking problem, unknown disturbance</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2017-0031">10.1515/amcs-2017-0031</a>

@@ -1,0 +1,6 @@
+﻿4 - December 2002
+12 - 2002
+Continuity of solutions of Riccati equations for the discrete-time JLQP
+Adam Czornik, Andrzej Świerniak
+The continuity of the solutions of difference and algebraic coupled Riccati equations for the discrete-time Markovian jump linear quadratic control problem as a function of coefficients is verified. The line of reasoning goes through the use of the minimum property formulated analogously to the one for coupled continuous Riccati equations presented by Wonham and a set of comparison theorems.
+coupled algebraic Ricatti equations, jump parameter system, quadratic control, stochastic stabilizability, observability,

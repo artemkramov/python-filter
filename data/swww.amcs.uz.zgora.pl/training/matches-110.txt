@@ -1,0 +1,6 @@
+﻿4 - December 1999
+9 - 1999
+Feedback stabilization of continuous systems by adding an integrator
+R. Outbib, W. Aggoune
+This note is devoted to the problem of global stabilization of continuous systems by adding an integrator. The goal is to prove that if a continuous non-linear system<em>x = f(x, u)</em>is globally asymptotically stable at the origin for<em>u</em>≡ 0, then the augmented system obtained by adding an integrator is stabilizable by means of a continuous feedback.
+feedback stabilization, nonlinear systems, continuous systems, Lyapunov function

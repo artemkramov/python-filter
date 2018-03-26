@@ -1,0 +1,6 @@
+﻿3 - September 2006
+16 - 2006
+Time-optimal boundary control of a parabolic system with time lags given in integral form
+Adam Kowalewski, Anna Krakowiak
+In this paper, the time-optimal boundary control problem for a distributed parabolic system in which time lags appear in integral form in both the state equation and the boundary condition is presented. Some particular properties of optimal control are discussed.
+time-optimal boundary control, parabolic system, time lags

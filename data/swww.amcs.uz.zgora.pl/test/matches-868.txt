@@ -1,0 +1,6 @@
+﻿2 - June 2010
+20 - 2010
+A unified approach to stability analysis of switched linear descriptor systems under arbitrary switching
+Guisheng Zhai, Xuping Xu
+We establish a unified approach to stability analysis for switched linear descriptor systems under arbitrary switching in both continuous-time and discrete-time domains. The approach is based on common quadratic Lyapunov functions incorporated with linear matrix inequalities (LMIs). We show that if there is a common quadratic Lyapunov function for the stability of all subsystems, then the switched system is stable under arbitrary switching. The analysis results are natural extensions of the existing results for switched linear state space systems.
+switched linear descriptor systems, stability, arbitrary switching, linear matrix inequalities (LMIs), common quadratic Lyapunov functions</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-010-0018-2">10.2478/v10006-010-0018-2</a>

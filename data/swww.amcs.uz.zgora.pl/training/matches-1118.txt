@@ -1,0 +1,6 @@
+﻿3 - September 2006
+16 - 2006
+Extraction of fuzzy rules using deterministic annealing integrated with<em>ε</em>-insensitive learning
+Robert Czabański
+A new method of parameter estimation for an artificial neural network inference system based on a logical interpretation of fuzzy if-then rules (ANBLIR) is presented. The novelty of the learning algorithm consists in the application of a deterministic annealing method integrated with<em>ε</em>-insensitive learning. In order to decrease the computational burden of the learning procedure, a deterministic annealing method with a "freezing" phase and<em>ε</em>-insensitive learning by solving a system of linear inequalities are applied. This method yields an improved neuro-fuzzy modeling quality in the sense of an increase in the generalization ability and robustness to outliers. To show the advantages of the proposed algorithm, two examples of its application concerning benchmark problems of identification and prediction are considered.
+fuzzy systems, neural networks, neuro-fuzzy systems, rules extraction, deterministic annealing,<em>ε</em>-insensitive

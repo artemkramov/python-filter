@@ -1,0 +1,6 @@
+﻿4 - December 2008
+18 - 2008
+Suboptimal fault tolerant control design with the use of discrete optimization
+Zdzisław Kowalczuk, Krzysztof E. Oliński
+This paper presents a concept of designing fault tolerant control systems with the use of suboptimal methods. We assume that a given (nonlinear) dynamical process is described in a state space. The method consists in searching (at the off-line stage) for a trajectory of operational points of the system state space. The sought trajectory can be constrained by certain conditions, which can express faults or failures already detected. Within this approach, we are able to use the autonomous dynamics of the process in order to minimize a control cost index (a sub-optimality property). The search itself is based on finding a cheapest path in a graph structure, which represents the system’s dynamics described in the state space. Such a cheapest path (if it exists) represents the sought trajectory. Another (on-line) design stage consists in tracking this trajectory by an executive controller.
+optimal control, fault tolerant systems, nonlinear models, operations research, discrete optimization</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0049-0">10.2478/v10006-008-0049-0</a>

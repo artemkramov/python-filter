@@ -1,0 +1,6 @@
+﻿4 - December 1995
+5 - 1995
+Temporal representation of white noise
+Marek Kozień
+A signal being a model of white noise in the time domain is proposed. It has the form of an infinite sequence of Dirac's impulses with random, Poisson-distributed distances between them. Then, the influence of two parameters, existing during a realization, on the form of the two-sided power spectral density is discussed. These quantities are the length of impulses and the average distance between them. Finally, the form of the power spectral density for a signal being a realization of white noise in the time domain, performed on the basis of the presented definition, is shown.
+-

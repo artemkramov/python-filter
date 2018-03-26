@@ -1,0 +1,6 @@
+﻿2 - June 2011
+21 - 2011
+Energy characteristic of a processor allocator and a network-on-chip
+Dawid Zydek, Henry Selvaraj, Grzegorz Borowik, Tadeusz Łuba
+Energy consumption in a ChipMultiProcessor (CMP) is one of the most important costs. It is related to design aspects such as thermal and power constrains. Besides efficient on-chip processing elements, a well-designed Processor Allocator (PA) and a Network-on-Chip (NoC) are also important factors in the energy budget of novel CMPs. In this paper, the authors propose an energy model for NoCs with 2D-mesh and 2D-torus topologies. All important NoC architectures are described and discussed. Energy estimation is presented for PAs. The estimation is based on synthesis results for PAs targeting FPGA. The PAs are driven by allocation algorithms that are studied as well. The proposed energy model is employed in a simulation environment, where exhaustive experiments are performed. Simulation results show that a PA with an IFF allocation algorithm for mesh systems and a torus-based NoC with express-virtual-channel flow control are very energy efficient. Combination of these two solutions is a clear choice for modern CMPs.
+CMP, PA, energy model, processor allocation</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-011-0029-7">10.2478/v10006-011-0029-7</a>

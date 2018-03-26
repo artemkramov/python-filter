@@ -1,0 +1,6 @@
+﻿1 - March 1998
+8 - 1998
+Sliding mode control with directly learned feedforward compensation
+Jian-Xin Xu, Yanbin Song
+A new control method synthesizing direct learning control (DLC) with sliding mode control (SMC) is proposed for the tracking problem of a class of non-linear high order systems. Sliding mode control is used to provide the control system with indispensable robustness in the presence of strong system uncertainties. A new learning control method, the direct learning control method, is developed and used to generate the desired feedforward compensation for SMC. It can be shown that the combined scheme can successfully retain the advantages of both control methods. By virtue of SMC, the global asymptotic stability is ensured. Meanwhile, DLC provides an effective way to anticipate the necessary control signals for a new trajectory in terms of past control profiles which may correspond to different trajectories. In comparison with SMC alone, the synthesized control scheme achieves higher tracking accuracy and smoother control efforts.
+-

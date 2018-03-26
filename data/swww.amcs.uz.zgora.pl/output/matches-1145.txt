@@ -1,0 +1,6 @@
+﻿1 - March 2005
+15 - 2005
+A new definition of the fuzzy set
+Andrzej Piegat
+The present fuzzy arithmetic based on Zadeh's possibilistic extension principle and on the classic definition of a fuzzy set has many essential drawbacks. Therefore its application to the solution of practical tasks is limited. In the paper a new definition of the fuzzy set is presented. The definition allows for a considerable fuzziness decrease in the number of arithmetic operations in comparison with the results produced by the present fuzzy arithmetic.
+fuzzy set theory, fuzzy arithmetic, possibility

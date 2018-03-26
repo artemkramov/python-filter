@@ -1,0 +1,6 @@
+﻿1 - March 2001
+11 - 2001
+Automatic control of mechatronic systems
+Kurt Schlacher, Andreas Kugi
+This contribution deals with different concepts of nonlinear control for mechatronic systems. Since most physical systems are nonlinear in nature, it is quite obvious that an improvement in the performance of the closed loop can often be achieved only by means of control techniques that take the essential nonlinearities into consideration. Nevertheless, it can be observed that industry often hesitates to implement these nonlinear controllers, despite all advantages existing from the theoretical point of view. On the basis of three different applications, a PWM-controlled dc-to-dc converter, namely the Ćuk-converter, the problem of hydraulic gap control in steel rolling, and the design of smart structures with piezolelectric sensor and actuator layers, we will demonstrate how one can overcome these problems by exploiting the physical structure of the mathematical models of the considered plants.
+mechatronic systems, differential geometry, nonlinear<em>H<sub>∞</sub></em>-control, passivity, input/output linearization

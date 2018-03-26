@@ -1,0 +1,6 @@
+﻿1 - March 2008
+18 - 2008
+Detection of moving objects in image sequences using 3D velocity filters
+Sam Schauland, Joerg Velten, Anton Kummert
+A movement analysis of objects contained in visual scenes can be performed by means of linear multidimensional filters, which have already been analyzed in the past. While the soundness of the results was convincing, interest in those systems declined due to the limited computational power of contemporary computers. Recent advances in design and implementation of integrated circuits and hardware architectures allow realizing velocity filters if the<em>n</em>-D system is carefully adapted to the analyzed problem. In this paper, the fundamental principles of visual scene analysis by linear multidimensional filters are examined with respect to possible sources of degradation. The extraction of movement information and its practical use are demonstrated using a wave digital filter (WDF) implementation.
+multidimensional signal processing, velocity filters, motion filters, object detection, wave digital filters</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0002-2">10.2478/v10006-008-0002-2</a>

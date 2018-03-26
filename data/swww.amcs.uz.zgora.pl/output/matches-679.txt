@@ -1,0 +1,6 @@
+﻿3 - September 2013
+23 - 2013
+A modified convolution and product theorem for the linear canonical transform derived by representation transformation in quantum mechanics
+Navdeep Goel, Kulbir Singh
+The Linear Canonical Transform (LCT) is a four parameter class of integral transform which plays an important role in many fields of signal processing. Well-known transforms such as the Fourier Transform (FT), the FRactional Fourier Transform (FRFT), and the FreSnel Transform (FST) can be seen as special cases of the linear canonical transform. Many properties of the LCT are currently known but the extension of FRFTs and FTs still needs more attention. This paper presents a modified convolution and product theorem in the LCT domain derived by a representation transformation in quantum mechanics, which seems a convenient and concise method. It is compared with the existing convolution theorem for the LCT and is found to be a better and befitting proposition. Further, an application of filtering is presented by using the derived results.
+linear canonical transform, convolution and product theorem, quantum mechanical representation</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0051">10.2478/amcs-2013-0051</a>

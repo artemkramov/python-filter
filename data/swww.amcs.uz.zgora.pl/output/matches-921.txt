@@ -1,0 +1,6 @@
+﻿1 - March 2009
+19 - 2009
+On the realization theory of polynomial matrices and the algebraic structure of pure generalized state space systems
+Antonis - Ioannis G. Vardulakis, Nicholas P. Karampetakis, Efstathios N. Antoniou, Evangelia Tictopoulou
+We review the realization theory of polynomial (transfer function) matrices via ''pure'' generalized state space system models. The concept of an<em>irreducible-at-infinity</em>generalized state space realization of a polynomial matrix is defined and the mechanism of the ''cancellations'' of ''decoupling zeros at infinity'' is closely examined. The difference between the concepts of<em>irreducibility</em>and<em>minimality</em>of generalized state space realizations of polynomial (transfer function) matrices is pointed out and the associated concepts of<em>dynamic</em>and<em>non-dynamic</em>variables appearing in generalized state space realizations are also examined.
+polynomial matrices, realization theory, minimality, irreducibility, generalized state space, infinite decoupling zeros</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-009-0007-5">10.2478/v10006-009-0007-5</a>

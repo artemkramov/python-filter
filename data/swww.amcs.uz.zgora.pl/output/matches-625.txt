@@ -1,0 +1,6 @@
+﻿1 - March 2013
+23 - 2013
+Application of the Drazin inverse to the analysis of descriptor fractional discrete-time linear systems with regular pencils
+Tadeusz Kaczorek
+The Drazin inverse of matrices is applied to find the solutions of the state equations of descriptor fractional discrete-time systems with regular pencils. An equality defining the set of admissible initial conditions for given inputs is derived. The proposed method is illustrated by a numerical example.
+Drazin inverse, descriptor, fractional system, discrete-time system, linear system</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0003">10.2478/amcs-2013-0003</a>

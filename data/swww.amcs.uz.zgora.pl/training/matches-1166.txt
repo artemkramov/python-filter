@@ -1,0 +1,6 @@
+﻿1 - March 2016
+26 - 2016
+Positivity and stability of fractional descriptor time-varying discrete-time linear systems
+Tadeusz Kaczorek
+The Weierstrass–Kronecker theorem on the decomposition of the regular pencil is extended to fractional descriptor time-varying discrete-time linear systems. A method for computing solutions of fractional systems is proposed. Necessary and sufficient conditions for the positivity of these systems are established.
+fractional system, descriptor system, time-varying system, positive system, discrete-time system</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0001">10.1515/amcs-2016-0001</a>

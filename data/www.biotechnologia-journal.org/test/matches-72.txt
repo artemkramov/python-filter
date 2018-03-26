@@ -1,0 +1,17 @@
+﻿2/2016
+7
+A-review-on-Dickeya-solani-a-new-pathogenic-bacterium-causing-loss-in-potato-yield-in-Europe,85,27819,0
+abstract:</div><div>REVIEW PAPER
+A review on<i>Dickeya solani</i>, a new pathogenic bacterium causing loss in potato yield in Europe
+h3>Małgorzata Golanowska, Ewa Łojkowska</h3><div>BioTechnologia vol. 97(2) C pp. 109-127 C 2016
+6.60781">https://doi.org/10.5114/bta.2016.60781
+a>View full text</a
+27819
+Golanowska M, Łojkowska E. A review on &lt;i&gt;Dickeya solani&lt;/i&gt;, a new pathogenic bacterium causing loss in potato yield in Europe. BioTechnologia. 2016;97(2):109-127. doi:10.5114/bta.2016.60781
+Golanowska, M., &amp; Łojkowska, E. (2016). A review on &lt;i&gt;Dickeya solani&lt;/i&gt;, a new pathogenic bacterium causing loss in potato yield in Europe. BioTechnologia, 97(2), 109-127. https://doi.org/10.5114/bta.2016.60781
+Golanowska, Małgorzata, and Ewa Łojkowska. 2016. "A review on &lt;i&gt;Dickeya solani&lt;/i&gt;, a new pathogenic bacterium causing loss in potato yield in Europe". BioTechnologia 97 (2): 109-127. doi:10.5114/bta.2016.60781
+Golanowska, M., and Łojkowska, E. (2016). A review on &lt;i&gt;Dickeya solani&lt;/i&gt;, a new pathogenic bacterium causing loss in potato yield in Europe. BioTechnologia, 97(2), pp.109-127. https://doi.org/10.5114/bta.2016.60781
+Golanowska, Małgorzata et al. "A review on &lt;i&gt;Dickeya solani&lt;/i&gt;, a new pathogenic bacterium causing loss in potato yield in Europe." BioTechnologia, vol. 97, no. 2, 2016, pp. 109-127. doi:10.5114/bta.2016.60781
+/div><div>A pectinolytic bacteria of the genera<i>Dickeya</i>and a<i>Pectobacterium</i>(formerly, pectinolytic<i>Erwinia</i>) are the two causal agents of blackleg and soft rot diseases of potato and soft rot of other economically important vegetables and ornamental plants.<i>Dickeya</i>and Pectobacterium are in a group of top ten bacterial pathogens causing great damage and important economic losses of different crops. Potato yield reduction caused by<i>Dickeya</i>species has significantly increased in recent years. These bacteria have been frequently and increasingly isolated from diseased potato plants in Poland, Finland, France, the Netherlands, Switzerland, and other European countries, as well as Israel. Until the end of the last century, the only species of<i>Dickeya</i>genus that had caused disease symptoms on potato plants in Europe was<i>Dickeya</i>dianthicola. According to our current knowledge, since the beginning of the 21st century, bacteria showing characteristics typical of<i>Dickeya</i>solani have been isolated from potato in Europe. In Poland, they were isolated for the first time in 2005. Yet, it was only in 2014 that the<i>D. solani</i>species was established. Recent results indicate that<i>D. solani</i>strains can efficiently infect potato and cause disease symptoms in temperate climate.<i>D. solani</i>strains are considered to be more aggressive than other blackleg-causing bacteria. There is a need for intense research on the pathogenicity of<i>D. solani</i>, not only because it is fast spreading across Europe or because of its better adaptation to various climatic conditions, but also because of the lack of efficient means to control the pectinolytic bacteria during plant vegetation, transport of the potato tubers, and their storage.<
+null
+keywords:</div><h3>blackleg, soft rot, pathogenicity, pectinolytic bacteria</h3

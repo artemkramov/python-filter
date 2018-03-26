@@ -1,0 +1,6 @@
+﻿4 - December 1997
+7 - 1997
+A new perspective on controllability properties for dynamical systems
+Paula Rocha, Jeffrey Wood
+In this paper, we study the properties of weak and strong controllability as newly defined in (Rocha, 1995) for delay-differential systems in a behavioural setting, now for the multidimensional case. Further, we give an overview of the relationships between these properties and the original behavioural controllability concept introduced in (Willems, 1988).
+-

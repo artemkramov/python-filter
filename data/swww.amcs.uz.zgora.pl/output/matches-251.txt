@@ -1,0 +1,6 @@
+﻿3 - September 1996
+6 - 1996
+The role of virus infection in a virus-evolutionary genetic algorithm
+Naoyuki Kubota, Koji Shimojima, Toshio Fukuda
+This paper deals with a genetic algorithm based on virus theory of evolution (VEGA). The VEGA realizes horizontal propagation and vertical inheritance of genetic information in a population with virus infection operators and genetic operators. The main operator of the VEGA is a reverse transcription one, which plays the role of a crossover and a selection simultaneously. Therefore this virus infection with reverse transcription is the key mechanism of the VEGA. The convergence and genetic diversity of the VEGA depend on the frequency of the virus infection. In this paper, we apply the VEGA to function optimization problems and a knapsack problem, and discuss the effectiveness of the virus infection through numerical simulation results.
+-

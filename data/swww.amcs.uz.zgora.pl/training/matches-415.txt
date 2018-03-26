@@ -1,0 +1,6 @@
+﻿3 - September 1993
+3 - 1993
+Analytical redundancy methods for diagnosing electric motors
+Thomson Bradatsch, Clemens Gühmann, Karsten Röpke, Cristian Schneider, Dieter Filbert
+This paper deals with two different diagnostic methods for electric motors. The diagnosis can either be used for quality control or on-line monitoring. The most important requirements are a fast and reliable detection and isolation of failures (FDI) of the whole motor. Furthermore, the measurements should be simple to make. These requirements cannot be fulfilled with conventional test systems, but with analytical redundancy methods based on signal and system theory. Two different model based techniques are presented: parameter estimation and a fault sensitive filter bank technique. Finally, evaluations of measurements are given.
+-

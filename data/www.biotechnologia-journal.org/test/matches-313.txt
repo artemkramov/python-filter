@@ -1,0 +1,17 @@
+﻿1/2012
+3
+RESEARCH-PAPER-Computational-analysis-of-alternative-spliced-genes-r-non-maize-chromosome-1,85,23893,0
+abstract:
+RESEARCH PAPER<br>Computational analysis of alternative spliced genes on maize chromosome 1
+h3>Joanna Gracz, Aleksandra Świercz, Tomasz Twardowski</h3><div>BioTechnologia vol. 93(1) C pp. 41-47 C 2012
+2.46567">https://doi.org/10.5114/bta.2012.46567
+a>View full text</a
+23893
+Gracz J, Świercz A, Twardowski T. RESEARCH PAPER&lt;br&gt;Computational analysis of alternative spliced genes on maize chromosome 1. BioTechnologia. 2014;93(1):41-47. doi:10.5114/bta.2012.46567
+Gracz, J., Świercz, A., &amp; Twardowski, T. (2014). RESEARCH PAPER&lt;br&gt;Computational analysis of alternative spliced genes on maize chromosome 1. BioTechnologia, 93(1), 41-47. https://doi.org/10.5114/bta.2012.46567
+Gracz, Joanna, Aleksandra Świercz, and Tomasz Twardowski. 2014. "RESEARCH PAPER&lt;br&gt;Computational analysis of alternative spliced genes on maize chromosome 1". BioTechnologia 93 (1): 41-47. doi:10.5114/bta.2012.46567
+Gracz, J., Świercz, A., and Twardowski, T. (2014). RESEARCH PAPER&lt;br&gt;Computational analysis of alternative spliced genes on maize chromosome 1. BioTechnologia, 93(1), pp.41-47. https://doi.org/10.5114/bta.2012.46567
+Gracz, Joanna et al. "RESEARCH PAPER&lt;br&gt;Computational analysis of alternative spliced genes on maize chromosome 1." BioTechnologia, vol. 93, no. 1, 2014, pp. 41-47. doi:10.5114/bta.2012.46567
+/div><div>Alternative splicing is an important part of mRNA processing which results in protein diversity in all eukaryotes.<br><br>In plants, this process is still poorly understood, however recent computational analysis has shown that alternative<br><br>splicing is far more prevalent than previously thought. For better characterization of alternative splicing in maize,<br><br>one of the most important crop species, we used AUGUSTUS (web-application deployed on local or remote host)<br><br>to predict multiple transcripts and alternative splicing events from maize chromosome 1 sequence. From over<br><br>300 million bp of chromosome 1, AUGUSTUS software predicted ab initio 46 400 genes and 20% of the estimated<br><br>genes have at least two transcripts. For 412 genes with three transcripts we performed additional analysis<br><br>including EST's alignment, protein identification and comparative evaluation with genes predicted using F genesh<br><br>and Gramene software. In consequence we have identified alternative splicing events for 42 genes from maize<br><br>chromosome 1.<
+null
+keywords:</div><h3><i>Zea mays</i>, alternative splicing, AUGUSTUS, expressed sequence tags</h3

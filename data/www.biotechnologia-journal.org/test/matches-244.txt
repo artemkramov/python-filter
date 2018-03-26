@@ -1,0 +1,16 @@
+﻿1/2013
+4
+A-new-division-of-bacterial-UvrA-homologues,85,23831,0
+abstract:</div><div>Commentary
+A new division of bacterial UvrA homologues
+h3>Marta Marszałkowska, Magdalena Bil, Łukasz Kreft, Marcin Olszewski</h3><div>BioTechnologia vol. 94(1) C pp. 54-56 C 2013
+3.46439">https://doi.org/10.5114/bta.2013.46439
+a>View full text</a
+23831
+Marszałkowska M, Bil M, Kreft Ł, Olszewski M. A new division of bacterial UvrA homologues. BioTechnologia. 2014;94(1):54-56. doi:10.5114/bta.2013.46439
+Marszałkowska, M., Bil, M., Kreft, Ł., &amp; Olszewski, M. (2014). A new division of bacterial UvrA homologues. BioTechnologia, 94(1), 54-56. https://doi.org/10.5114/bta.2013.46439
+Marszałkowska, Marta, Magdalena Bil, Łukasz Kreft, and Marcin Olszewski. 2014. "A new division of bacterial UvrA homologues". BioTechnologia 94 (1): 54-56. doi:10.5114/bta.2013.46439
+Marszałkowska, M., Bil, M., Kreft, Ł., and Olszewski, M. (2014). A new division of bacterial UvrA homologues. BioTechnologia, 94(1), pp.54-56. https://doi.org/10.5114/bta.2013.46439
+Marszałkowska, Marta et al. "A new division of bacterial UvrA homologues." BioTechnologia, vol. 94, no. 1, 2014, pp. 54-56. doi:10.5114/bta.2013.46439
+null
+The UvrA protein is a DNA-binding and damage-recognition enzyme which participates in the prokaryotic type<br><br>nucleotide excision repair (NER) pathway. It has recently been noted that some bacterial genomes comprise<br><br>additional uvrA genes which encode five distinct types of UvrA homologue. We investigated the sequences of over<br><br>2400 bacterial genomes and found 130 examples of bacteria containing<i>uvrA2</i>genes. The sequence analyses<br><br>conducted on these UvrA homologues revealed that the previously established division of UvrA proteins might<br><br>be based on some incorrect assumptions. In this paper, we present the reasons for our creation of a new division<br><br>of UvrA homologues and a description of the four UvrA classes we have created.</div

@@ -1,0 +1,6 @@
+﻿1 - March 1994
+4 - 1994
+Decomposition of multiple-valued Boolean functions
+Tadeusz Łuba, Robert Lasocki
+In this paper we consider the problem of decomposition of Multiple-Valued Boolean functions and its implementation using Programmable Logic Arrays (PLAs) as examples. The main reason behind using the described method is its economic realization of logic circuits in PLA implementations and in all the other applications of multiple-valued logic systems. The procedure is very general and suitable for various implementation styles, including standard PLAs, PLDs and PLAs with two-bit decoders.
+-

@@ -1,0 +1,6 @@
+﻿2 - June 2015
+25 - 2015
+Ant-based extraction of rules in simple decision systems over ontological graphs
+Krzysztof Pancerz, Arkadiusz Lewicki, Ryszard Tadeusiewicz
+In the paper, the problem of extraction of complex decision rules in simple decision systems over ontological graphs is considered. The extracted rules are consistent with the dominance principle similar to that applied in the dominance-based rough set approach (DRSA). In our study, we propose to use a heuristic algorithm, utilizing the ant-based clustering approach, searching the semantic spaces of concepts presented by means of ontological graphs. Concepts included in the semantic spaces are values of attributes describing objects in simple decision systems.
+ant-based clustering, decision systems, DRSA, ontological graphs, rule extraction</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2015-0029">10.1515/amcs-2015-0029</a>

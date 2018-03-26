@@ -1,0 +1,6 @@
+﻿1 - March 2017
+27 - 2017
+Area-oriented technology mapping for LUT-based logic blocks
+Marcin Kubica, Dariusz Kania
+One of the main aspects of logic synthesis dedicated to FPGA is the problem of technology mapping, which is directly associated with the logic decomposition technique. This paper focuses on using configurable properties of CLBs in the process of logic decomposition and technology mapping. A novel theory and a set of efficient techniques for logic decomposition based on a BDD are proposed. The paper shows that logic optimization can be efficiently carried out by using multiple decomposition. The essence of the proposed synthesis method is multiple cutting of a BDD. A new diagram form called an SMTBDD is proposed. Moreover, techniques that allow finding the best technology mapping oriented to configurability of CLBs are presented. In the experimental section, the presented method (MultiDec) is compared with academic and commercial tools. The experimental results show that the proposed technology mapping strategy leads to good results in terms of the number of CLBs.
+SMTBDD, FPGA, synthesis, decomposition</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2017-0015">10.1515/amcs-2017-0015</a>

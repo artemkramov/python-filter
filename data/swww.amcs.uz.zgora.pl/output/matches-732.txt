@@ -1,0 +1,6 @@
+﻿2 - June 2012
+22 - 2012
+Hand gesture recognition based on free-form contours and probabilistic inference
+Włodzimierz Kasprzak, Artur Wilkowski, Karol Czapnik
+A computer vision system is described that captures color image sequences, detects and recognizes static hand poses (i.e., “letters”) and interprets pose sequences in terms of gestures (i.e., “words”). The hand object is detected with a double-active contour-based method. A tracking of the hand pose in a short sequence allows detecting “modified poses”, like diacritic letters in national alphabets. The static hand pose set corresponds to hand signs of a thumb alphabet. Finally, by tracking hand poses in a longer image sequence, the pose sequence is interpreted in terms of gestures. Dynamic Bayesian models and their inference methods (particle filter and Viterbi search) are applied at this stage, allowing a bi-driven control of the entire system.
+active contours, hand pose detection, hand tracking, image sequence analysis, stochastic inference</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0033-6">10.2478/v10006-012-0033-6</a>

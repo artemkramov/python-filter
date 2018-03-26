@@ -1,0 +1,6 @@
+﻿2 - June 2012
+22 - 2012
+Ergodic theory approach to chaos: Remarks and computational aspects
+Paweł J. Mitkowski, Wojciech Mitkowski
+We discuss basic notions of the ergodic theory approach to chaos. Based on simple examples we show some characteristic features of ergodic and mixing behaviour. Then we investigate an infinite dimensional model (delay differential equation) of erythropoiesis (red blood cell production process) formulated by Lasota. We show its computational analysis on the previously presented theory and examples. Our calculations suggest that the infinite dimensional model considered possesses an attractor of a nonsimple structure, supporting an invariant mixing measure. This observation verifies Lasota’s conjecture concerning nontrivial ergodic properties of the model.
+ergodic theory, chaos, invariant measures, attractors, delay differential equations</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0019-4">10.2478/v10006-012-0019-4</a>

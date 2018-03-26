@@ -1,0 +1,17 @@
+﻿1/2014
+5
+Validation-of-a-flow-cytometry-based-assay-for-monitoring-r-ncomplement-dependent-cytotoxicity-of-an-anti-CD20-r-nbiosimilar-candidate-antibody,85,23802,0
+abstract:</div><div>Review paper
+Validation of a flow cytometry-based assay for monitoring complement-dependent cytotoxicity of an anti-CD20 biosimilar candidate antibody
+h3>Rancés Blanco-Santana, Mercedes Cedeńo-Arias, Zulia Garcìa-Perez, Dayana Columbié-Gilbert, Alejandro Portillo-Vaquer, Enrique Rengifo-Calzado</h3><div>BioTechnologia vol. 95(1) C pp. 17-26 C 2014
+4.46409">https://doi.org/10.5114/bta.2014.46409
+a>View full text</a
+23802
+Blanco-Santana R, Cedeńo-Arias M, Garcìa-Perez Z, Columbié-Gilbert D, Portillo-Vaquer A, Rengifo-Calzado E. Validation of a flow cytometry-based assay for monitoring complement-dependent cytotoxicity of an anti-CD20 biosimilar candidate antibody. BioTechnologia. 2014;95(1):17-26. doi:10.5114/bta.2014.46409
+Blanco-Santana, R., Cedeńo-Arias, M., Garcìa-Perez, Z., Columbié-Gilbert, D., Portillo-Vaquer, A., &amp; Rengifo-Calzado, E. (2014). Validation of a flow cytometry-based assay for monitoring complement-dependent cytotoxicity of an anti-CD20 biosimilar candidate antibody. BioTechnologia, 95(1), 17-26. https://doi.org/10.5114/bta.2014.46409
+Blanco-Santana, Rancés, Mercedes Cedeńo-Arias, Zulia Garcìa-Perez, Dayana Columbié-Gilbert, Alejandro Portillo-Vaquer, and Enrique Rengifo-Calzado. 2014. "Validation of a flow cytometry-based assay for monitoring complement-dependent cytotoxicity of an anti-CD20 biosimilar candidate antibody". BioTechnologia 95 (1): 17-26. doi:10.5114/bta.2014.46409
+Blanco-Santana, R., Cedeńo-Arias, M., Garcìa-Perez, Z., Columbié-Gilbert, D., Portillo-Vaquer, A., and Rengifo-Calzado, E. (2014). Validation of a flow cytometry-based assay for monitoring complement-dependent cytotoxicity of an anti-CD20 biosimilar candidate antibody. BioTechnologia, 95(1), pp.17-26. https://doi.org/10.5114/bta.2014.46409
+Blanco-Santana, Rancés et al. "Validation of a flow cytometry-based assay for monitoring complement-dependent cytotoxicity of an anti-CD20 biosimilar candidate antibody." BioTechnologia, vol. 95, no. 1, 2014, pp. 17-26. doi:10.5114/bta.2014.46409
+/div><div>Appropriate validation of any bioassay to be used in the characterization of biological products is critical. In this<br><br>study, we report a validation study of a flow cytometry-based assay to measure the complement-dependent cytotoxicity<br><br>(CDC) of a biosimilar candidate monoclonal antibody (Mab) directed to CD20 antigen, as indicative of its<br><br>biological activity. The assay was validated by examining: assay robustness, specificity, repeatability and intermediate<br><br>precision. It demonstrated to be robust for all factors evaluated. It also showed a high level of specificity<br><br>and was found to be free of interference through the validation process. The degree of precision (Cvs &lt; 7%) obtained<br><br>in this study was satisfactory. The presented work demonstrated that a flow cytometry-based cytotoxicity<br><br>assay is a suitable method in the lot to lot quality control monitoring of the culture supernatant and an active<br><br>pharmaceutical ingredient of 1B8 Mab.<
+null
+keywords:</div><h3>flow cytometry, complement-dependent cytotoxicity, validation study, therapeutic anti-CD20 Mab, Biosimilar</h3

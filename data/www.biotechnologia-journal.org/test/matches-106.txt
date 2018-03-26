@@ -1,0 +1,17 @@
+﻿4/2015
+6
+Activity-of-selected-components-of-antioxidant-system-in-grass-pea-and-yellow-lupine-protoplasts-after-enzymatic-isolation,85,26899,0
+abstract:</div><div>RESEARCH PAPERS
+Activity of selected components of antioxidant system in grass pea and yellow lupine protoplasts after enzymatic isolation
+h3>Alina Wiszniewska, Barbara Piwowarczyk</h3><div>BioTechnologia vol. 96(4) C pp. 285-292 C 2015
+5.57733">https://doi.org/10.5114/bta.2015.57733
+a>View full text</a
+26899
+Wiszniewska A, Piwowarczyk B. Activity of selected components of antioxidant system in grass pea and yellow lupine protoplasts after enzymatic isolation. BioTechnologia. 2016;96(4):285-292. doi:10.5114/bta.2015.57733
+Wiszniewska, A., &amp; Piwowarczyk, B. (2016). Activity of selected components of antioxidant system in grass pea and yellow lupine protoplasts after enzymatic isolation. BioTechnologia, 96(4), 285-292. https://doi.org/10.5114/bta.2015.57733
+Wiszniewska, Alina, and Barbara Piwowarczyk. 2016. "Activity of selected components of antioxidant system in grass pea and yellow lupine protoplasts after enzymatic isolation". BioTechnologia 96 (4): 285-292. doi:10.5114/bta.2015.57733
+Wiszniewska, A., and Piwowarczyk, B. (2016). Activity of selected components of antioxidant system in grass pea and yellow lupine protoplasts after enzymatic isolation. BioTechnologia, 96(4), pp.285-292. https://doi.org/10.5114/bta.2015.57733
+Wiszniewska, Alina et al. "Activity of selected components of antioxidant system in grass pea and yellow lupine protoplasts after enzymatic isolation." BioTechnologia, vol. 96, no. 4, 2016, pp. 285-292. doi:10.5114/bta.2015.57733
+/div><div>In this study, the performance of the antioxidant system in protoplasts of grass pea (<i>Lathyrus sativus</i>L.) and yellow lupine (<i>Lupinus luteus</i>L.) isolated using solutions of different compositions was evaluated. Protoplasts were isolated from leaves of grass pea and cotyledons of yellow lupine seedlings grown in vitro. Hydrolytic enzymes were dissolved in three different solutions (ultrapure water, inorganic salt solution (CPW), and inorganic salt solution with organic additives (C)). Protoplasts purified using these solutions were subjected to the analyses of peroxidase (POD) and radical scavenging activities. Phenolic profile was also determined. In grass pea, the highest POD was determined in protoplasts isolated in CPW salt solution, while in yellow lupine, the other two solutions were found superior. Protoplasts isolated in CPW salt solution had the highest content of phenolic compounds, ranging from 28.8 to 40.1 and from 32.0 to 58.0 mg/g fresh weight (f.w.) in lupine and grass pea, respectively. Moreover, in protoplasts obtained using CPW solution, the total antioxidant activity was the highest in all tested genotypes as expressed by high proportion of scavenged 2,2,-diphenyl-1-picrylhydrazyl (DPPH) radical. The<br><br>results showed that changes in composition of the isolation solutions affected the level and activity of selected components belonging to cell antioxidant system in legume protoplasts. Considering the recalcitrance of two studied plants in protoplast culture, this finding is an important piece of information because events occurring at the stage of isolation may affect further development of protoplasts in the culture.<
+null
+keywords:</div><h3><i>Lathyrus sativus</i>L,<i>Lupinus luteus</i>L, peroxidase, phenolic compounds, radical scavenging activity, oxidative stress</h3

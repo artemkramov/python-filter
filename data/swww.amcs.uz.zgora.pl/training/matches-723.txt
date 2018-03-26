@@ -1,0 +1,6 @@
+﻿2 - June 2012
+22 - 2012
+A Lyapunov functional for a system with a time-varying delay
+Józef Duda
+The paper presents a method to determine a Lyapunov functional for a linear time-invariant system with an interval time-varying delay. The functional is constructed for the system with a time-varying delay with a given time derivative, which is calculated on the system trajectory. The presented method gives analytical formulas for the coefficients of the Lyapunov functional.
+Lyapunov functional, time delay system, LTI system</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0024-7">10.2478/v10006-012-0024-7</a>

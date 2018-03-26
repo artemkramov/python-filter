@@ -1,0 +1,18 @@
+﻿1/2014
+5
+Application-of-epoxy-functional-silanes-r-nin-the-preparation-of-DNA-microarrays,85,23801,0
+abstract:</div><div>Review paper
+Application of epoxy functional silanes in the preparation of DNA microarrays
+h3>Emilia Frydrych-Tomczak, Barbara Uszczyńska, Tomasz Ratajczak, Wojciech T. Markiewicz, Marek Figlerowicz, Marek Nowicki, Hieronim Maciejewski, Marcin K. Chmielewski</h3><div>BioTechnologia vol. 95(1) C pp. 5-16 C 2014
+4.46408">https://doi.org/10.5114/bta.2014.46408
+a>View full text</a
+23801
+Frydrych-Tomczak E, Uszczyńska B, Ratajczak T, et al. Application of epoxy functional silanes in the preparation of DNA microarrays. BioTechnologia. 2014;95(1):5-16. doi:10.5114/bta.2014.46408
+Frydrych-Tomczak, E., Uszczyńska, B., Ratajczak, T., Markiewicz, W., Figlerowicz, M., &amp; Nowicki, M. et al. (2014). Application of epoxy functional silanes in the preparation of DNA microarrays. BioTechnologia, 95(1), 5-16. https://doi.org/10.5114/bta.2014.46408
+Frydrych-Tomczak, Emilia, Barbara Uszczyńska, Tomasz Ratajczak, Wojciech T. Markiewicz, Marek Figlerowicz, Marek Nowicki, and Hieronim Maciejewski et al. 2014. "Application of epoxy functional silanes in the preparation of DNA microarrays". BioTechnologia 95 (1): 5-16. doi:10.5114/bta.2014.46408
+Frydrych-Tomczak, E., Uszczyńska, B., Ratajczak, T., Markiewicz, W., Figlerowicz, M., Nowicki, M., Maciejewski, H., and Chmielewski, M. (2014). Application of epoxy functional silanes in the preparation of DNA microarrays. BioTechnologia, 95(1), pp.5-16. https://doi.org/10.5114/bta.2014.46408
+Frydrych-Tomczak, Emilia et al. "Application of epoxy functional silanes in the preparation of DNA microarrays." BioTechnologia, vol. 95, no. 1, 2014, pp. 5-16. doi:10.5114/bta.2014.46408
+Frydrych-Tomczak E, Uszczyńska B, Ratajczak T, Markiewicz W, Figlerowicz M, Nowicki M et al. Application of epoxy functional silanes in the preparation of DNA microarrays. BioTechnologia. 2014;95(1):5-16. doi:10.5114/bta.2014.46408
+/div><div>Nucleic acid microarrays have recently become one of the basic techniques in the study of gene expression.<br><br>Owing to progress in the field of miniaturization, thousands of oligonucleotides differing in terms of their sequences<br><br>can be systematically placed on a small area of a solid support (usually glass). These probes are capable of<br><br>simultaneously interacting with a large number of longer nucleic acids from particular genes. Nucleic acid microarray<br><br>construction technology consists, primarily, of the appropriate functionalization of a glass surface with the<br><br>use of organofunctional silanes. Oligonucleotides known as probes are attached to a functionalized surface using,<br><br>for instance, the lithography technique and, after being linked to the surface, they are subjected to hybridization<br><br>with complementary and labelled fragments of nucleic acids known as samples of unknown sequences. In this<br><br>paper, we present a method for constructing DNA microarrays that is based on the use of microscopic slides modified<br><br>with epoxy functional group-containing silanes. This study was aimed at optimizing the production of DNA<br><br>microarrays. The study tested the usefulness of four different epoxy functional silanes with one or three alkoxy<br><br>groups. In addition, slides were silanized with the use of alkylsilane. The glass slides were characterized using<br><br>a goniometer and an atomic force microscope (AFM). The synthesized amino linker-containing oligonucleotide<br><br>probes were printed onto the glass slides in order to check the effectiveness of their attachment to the solid<br><br>surface.<
+null
+keywords:</div><h3>DNA microarrays, organofunctional silanes, glass supports, oligonucleotides</h3

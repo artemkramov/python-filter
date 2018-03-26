@@ -1,0 +1,6 @@
+﻿2 - June 2006
+16 - 2006
+Node assignment problem in Bayesian networks
+Joanna Polanska, Damian Borys, Andrzej Polanski
+This paper deals with the problem of searching for the best assignments of random variables to nodes in a Bayesian network (BN) with a given topology. Likelihood functions for the studied BNs are formulated, methods for their maximization are described and, finally, the results of a study concerning the reliability of revealing BNs' roles are reported. The results of BN node assignments can be applied to problems of the analysis of gene expression profiles.
+biostatistics, Bayesian networks, maximum likelihood, confidence intervals

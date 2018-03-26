@@ -1,0 +1,6 @@
+﻿1 - March 2009
+19 - 2009
+Notes on a linguistic description as the basis for automatic image understanding
+Ryszard Tadeusiewicz, Marek R. Ogiela, Piotr S. Szczepaniak
+The main paradigm of image understanding and a concept for its practical machine realisation are presented. The crucial elements of the presented approach are the formalisation of human knowledge about the class of images that are to be automatically interpreted, a linguistic description and the realization of cognitive resonance.
+automatic understanding, computer vision, digital images, semantics, image processing</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-009-0013-7">10.2478/v10006-009-0013-7</a>

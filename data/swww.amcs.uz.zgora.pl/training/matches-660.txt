@@ -1,0 +1,6 @@
+﻿2 - June 2013
+23 - 2013
+Random projections and Hotelling’s<em>T<sup>2</sup></em>statistics for change detection in high-dimensional data streams
+Ewa Skubalska-Rafajłowicz
+The method of change (or anomaly) detection in high-dimensional discrete-time processes using a multivariate Hotelling chart is presented. We use normal random projections as a method of dimensionality reduction. We indicate diagnostic properties of the Hotelling control chart applied to data projected onto a random subspace of ℝ<em><sup>n</sup></em>. We examine the random projection method using artificial noisy image sequences as examples.
+change detection, multidimensional control charts, dimensionality reduction, random projections, process monitoring</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0034">10.2478/amcs-2013-0034</a>

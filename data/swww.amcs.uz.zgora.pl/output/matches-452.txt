@@ -1,0 +1,6 @@
+﻿2 - December 1992
+2 - 1992
+Temporal logic as a tool for program correctness analysis
+Radosław Klimek
+The paper deals with temporal logic and analysis of correctness properties of programs. A classification of program properties is presented. Verification by temporal logic is shown on the examples of synchronization in the producer-consumer problem and a sample parallel system of robots. The analysis of the system concerns three types of safety property.
+-

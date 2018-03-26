@@ -1,0 +1,6 @@
+﻿2 - June 2014
+24 - 2014
+Artificial intelligence methods in diagnostics of analog systems
+Piotr Bilski, Jacek Wojciechowski
+The paper presents the state of the art and advancement of artificial intelligence methods in analog systems diagnostics. Firstly, the diagnostic domain is introduced and its problems explained. Then, computational intelligence approaches usable for fault detection and identification are reviewed. Particular groups of methods are presented in detail, explaining their usefulness and drawbacks. Examples, such as the induction motor or the electronic filter, are provided to show the applicability of the presented approaches for monitoring the state of analog objects from engineering domains. The discussion section reviews the presented approaches, their future prospects and problems to be solved.
+fault detection, artificial intelligence, analog systems</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0020">10.2478/amcs-2014-0020</a>

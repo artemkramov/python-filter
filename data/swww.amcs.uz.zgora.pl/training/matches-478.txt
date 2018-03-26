@@ -1,0 +1,6 @@
+﻿1 - March 2018
+28 - 2018
+Large-scale hyperspectral image compression via sparse representations based on online learning
+İrem Ülkü, Ersin Kizgut
+In this study, proximity based optimization algorithms are used for lossy compression of hyperspectral images that are inherently large scale. This is the first time that such proximity based optimization algorithms are implemented with an online dictionary learning method. Compression performances are compared with the one obtained by various sparse representation algorithms. As a result, proximity based optimization algorithms are listed among the three best ones in terms of compression performance values for all hyperspectral images. Additionally, the applicability of anomaly detection is tested on the reconstructed images.
+hyperspectral imaging, compression algorithms, dictionary learning, sparse coding</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2018-0015">10.2478/amcs-2018-0015</a>

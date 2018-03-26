@@ -1,0 +1,6 @@
+﻿2 - June 1994
+4 - 1994
+Deterministic and stochastic modelling of tumour growth and optimal chemotherapy
+Rimantas Eidukevicius
+One-dimensional mathematical models of tumour growth based on ordinary differential and stochastic differential equations are presented. Optimal cancer chemotherapy is compared in both models. The technique of dynamic programming and method of optimal switching among a finite number of Markov processes are used to obtain a sequence of optimal drug doses. A multidimensional stochastic model of tumour growth based on cell cycle is proposed. A hypothesis about interaction of two tumours is also presented.
+-

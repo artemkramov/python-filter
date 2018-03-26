@@ -1,0 +1,6 @@
+﻿3 - September 2001
+11 - 2001
+Knowledge, vagueness and logic
+Urszula Wybraniec-Skardowska
+<em>Dedicated to Professor Zdzisław Pawlak.</em><br>The aim of the paper is to outline an idea of solving the problem of the vagueness of concepts. The starting point is a definition of the concept of vague knowledge. One of the primary goals is a formal justification of the classical viewpoint on the controversy about the truth and object reference of expressions including vague terms. It is proved that grasping the vagueness in the language aspect is possible through the extension of classical logic to the logic of sentences which may contain vague terms. The theoretical framework of the conception refers to the theory of Pawlak's rough sets and is connected with Zadeh's fuzzy set theory as well as bag (or multiset) theory. In the considerations formal logic means and the concept system of set theory have been used. The paper can be regarded as an outline of the logical theory of vague concepts.
+vague knowledge, fuzzy sets, rough sets, vague sets, formal logic

@@ -1,0 +1,6 @@
+﻿1 - March 2009
+19 - 2009
+Nonlinear filtering for Markov systems with delayed observations
+Antonella Calzolari, Patrick Florchinger, Giovanna Nappo
+This paper deals with nonlinear filtering problems with delays, i.e., we consider a system (<em><strong>X</strong>,<strong>Y</strong></em>), which can be represented by means of a system (<em><strong>X</strong>,<strong>Ŷ</strong></em>), in the sense that<em>Y<sub>t</sub>= Ŷ<sub>a(t)</sub></em>, where<em>a(t)</em>is a delayed time transformation. We start with<strong>X</strong>being a Markov process, and then study Markovian systems, not necessarily diffusive, with correlated noises. The interest is focused on the existence of explicit representations of the corresponding filters as functionals depending on the observed trajectory. Various assumptions on the function<em>a(t)</em>are considered.
+nonlinear filtering, jump processes, diffusion processes, Markov processes, stochastic delay differential equation</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-009-0004-8">10.2478/v10006-009-0004-8</a>

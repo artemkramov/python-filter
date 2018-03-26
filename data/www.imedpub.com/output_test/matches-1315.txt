@@ -1,3 +1,4 @@
 ﻿Fixed point theorem in pseudo compact space
 In this paper, the concepts of metric space and pseudo compact tichonov space has been introduced. We have proved some fixed point theorems for the self mapping satisfying a new contractive condition in compact metric spaces and pseudo compact metric spaces
 Rajesh Shrivastava, K. Qureshi and Kiran Rathore
+fixed-point-theorem-in-pseudo-compact-space.pdf" title="Fixed point theorem in pseudo compact space

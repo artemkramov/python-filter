@@ -1,0 +1,6 @@
+﻿3 - September 2008
+18 - 2008
+New challenges in dynamical systems: The networked case
+Peter H. Bauer
+This paper describes new technical challenges that arise from networking dynamical systems. In particular, the paper takes a look at the underlying phenomena and the resulting modeling problems that arise in such systems. Special emphasis is placed on the problem of synchronization, since this problem has not received as much attention in the literature as the phenomena of packet drop, delays, etc. The paper then discusses challenges arising in prominent areas such as congestion control, sensor networks, as well as vehicle networks and swarms.
+networked systems, sensor networks, swarms, cogestion control, synchronization</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0025-8">10.2478/v10006-008-0025-8</a>

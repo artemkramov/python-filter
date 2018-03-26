@@ -1,0 +1,6 @@
+﻿4 - December 2011
+21 - 2011
+Observer-based fault-tolerant control against sensor failures for fuzzy systems with time delays
+Shaocheng Tong, Gengjiao Yang, Wei Zhang
+This paper addresses the problems of robust fault estimation and fault-tolerant control for Takagi–Sugeno (T–S) fuzzy systems with time delays and unknown sensor faults. A fuzzy augmented state and fault observer is designed to achieve the system state and sensor fault estimates simultaneously. Furthermore, based on the information of on-line fault estimates, an observer-based dynamic output feedback fault-tolerant controller is developed to compensate for the effect of faults by stabilizing the resulting closed-loop system. Sufficient conditions for the existence of both a state observer and a fault-tolerant controller are given in terms of linear matrix inequalities. A simulation example is given to illustrate the effectiveness of the proposed approach.
+fuzzy time-delay systems, sensor faults, state observer, fault-tolerant control, linear matrix inequalities, stability analysis</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-011-0048-4">10.2478/v10006-011-0048-4</a>

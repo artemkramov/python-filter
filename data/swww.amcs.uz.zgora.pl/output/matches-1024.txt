@@ -1,0 +1,6 @@
+﻿4 - December 2008
+18 - 2008
+A method for sensor placement taking into account diagnosability criteria
+Abed Alrahim Yassine, Stéphane Ploix, Jean-Marie Flaus
+This paper presents a new approach to sensor placement based on diagnosability criteria. It is based on the study of structural matrices. Properties of structural matrices regarding detectability, discriminability and diagnosability are established in order to be used by sensor placement methods. The proposed approach manages any number of constraints modelled by linear or nonlinear equations and it does not require the design of analytical redundancy relations. Assuming that a constraint models a component and that the cost of the measurement of each variable is defined, a method determining sensor placements satisfying diagnosability specifications, where all the diagnosable, discriminable and detectable constraint sets are specified, is proposed. An application example dealing with a dynamical linear system is presented.
+fault diagnosis, diagnosability, sensor placement, structural modelling</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0044-5">10.2478/v10006-008-0044-5</a>

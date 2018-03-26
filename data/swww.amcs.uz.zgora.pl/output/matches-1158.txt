@@ -1,0 +1,6 @@
+﻿2 - June 2005
+15 - 2005
+A fuzzy system with<em>ε</em>-insensitive learning of premises and consequences of if-then rules
+Jacek M. Łęski, Tomasz Czogała
+First, a fuzzy system based on if-then rules and with parametric consequences is recalled. Then, it is shown that the global and local<em>ε</em>-insensitive learning of the above fuzzy system may be presented as a combination of both an<em>ε</em>-insensitive gradient method and solving a system of linear inequalities. Examples are given of using the introduced method to design fuzzy models of real-life data. Simulation results show an improvement in the generalization ability of a fuzzy system trained by the new method compared with the traditional and other<em>ε</em>-insensitive learning methods.
+fuzzy system, generalization ability, global and local<em>ε</em>-insensitive learning, extraction of fuzzy if-then rules

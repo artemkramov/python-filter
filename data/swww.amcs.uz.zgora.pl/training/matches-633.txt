@@ -1,0 +1,6 @@
+﻿1 - March 2017
+27 - 2017
+Abnormal prediction of dense crowd videos by a purpose-driven lattice Boltzmann model
+Yiran Xue, Peng Liu, Ye Tao, Xianglong Tang
+In the field of intelligent crowd video analysis, the prediction of abnormal events in dense crowds is a well-known and challenging problem. By analysing crowd particle collisions and characteristics of individuals in a crowd to follow the general trend of motion, a purpose-driven lattice Boltzmann model (LBM) is proposed. The collision effect in the proposed method is measured according to the variation in crowd particle numbers in the image nodes; characteristics of the crowd following a general trend are incorporated by adjusting the particle directions. The model predicts dense crowd abnormal events in different intervals through iterations of simultaneous streaming and collision steps. Few initial frames of a video are needed to initialize the proposed model and no training procedure is required. Experimental results show that our purpose-driven LBM performs better than most state-of-the-art methods.
+video surveillance, crowd analysis, abnormal events, lattice Boltzmann model, purpose-driven strategy</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2017-0013">10.1515/amcs-2017-0013</a>

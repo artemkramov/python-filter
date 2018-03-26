@@ -1,0 +1,6 @@
+﻿1 - March 2007
+17 - 2007
+FSM encoding for BDD representations
+Wilsin Gosti, Tiziano Villa, Alex Saldanha, Alberto L. Sangiovanni-Vincentelli
+We address the problem of encoding the state variables of a finite state machine such that the BDD representing the next state function and the output function has the minimum number of nodes. We present an exact algorithm to solve this problem when only the present state variables are encoded. We provide results on MCNC benchmark circuits.
+binary decision diagram, encoding, finite state machine, logic synthesis, formal verification, logic representation</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0011-6">10.2478/v10006-007-0011-6</a>

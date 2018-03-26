@@ -1,0 +1,6 @@
+﻿3 - September 2011
+21 - 2011
+New stability conditions for positive continuous-discrete 2D linear systems
+Tadeusz Kaczorek
+New necessary and sufficient conditions for asymptotic stability of positive continuous-discrete 2D linear systems are established. Necessary conditions for the stability are also given. The stability tests are demonstrated on numerical examples.
+positive systems, 2D linear systems, continuous-discrete systems</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-011-0040-z">10.2478/v10006-011-0040-z</a>

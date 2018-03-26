@@ -1,0 +1,6 @@
+﻿3 - September 1994
+4 - 1994
+Applications of neural-type structured networks for solving algebraic matrix equations and computation of the Drazin inverse
+Andrzej Cichocki, Tadeusz Kaczorek
+An overview of the methods of solving algebraic matrix equations and computation of the Drazin inverse of a singular matrix with the use of neural-type structured networks is presented. Algebraic matrix equations of the form<em>A<sub>1</sub>XB<sub>1</sub>+ A<sub>2</sub>XB<sub>2</sub>+ ... + A<sub>n</sub>XB<sub>n</sub>= C</em>and the algebraic Riccati equation<em>A<sup>T</sup>X + XA - XWX + Q = 0</em>with one unknown matrix<em>X</em>and the matrix equations<em>AX - YB = C</em>with two unknown matrices<em>X, Y</em>are considered. An extension for polynomial matrix equations of the form<em>AXB = C</em>is also presented. The presented algorithms are based on the gradient optimization technique and the standard back-propagation learning algorithm.
+-

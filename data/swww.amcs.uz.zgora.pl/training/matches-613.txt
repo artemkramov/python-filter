@@ -1,0 +1,6 @@
+﻿4 - December 2014
+24 - 2014
+Nonlinear control for a diesel engine: A CLF-based approach
+Olena Kuzmych, Abdel Aitouche, Ahmed El Hajjaji, Jerome Bosche
+In this paper, we propose a control Lyapunov function based on a nonlinear controller for a turbocharged diesel engine. A model-based approach is used which predicts the experimentally observed engine performance for a biodiesel. The basic idea is to develop an inverse optimal control and to employ a Lyapunov function in order to achieve good performances. The obtained controller gain guarantees the global convergence of the system and regulates the flows for the variable geometry turbocharger as well as exhaust gas recirculation systems in order to minimize the<em>NO<sub>x</sub></em>emission and the smoke of a biodiesel engine. Simulation of the control performances based on professional software and experimental results show the effectiveness of this approach.
+turbocharged diesel engine, control Lyapunov function, nonlinear control design, stability analysis, diesel virtual test bench</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0061">10.2478/amcs-2014-0061</a>

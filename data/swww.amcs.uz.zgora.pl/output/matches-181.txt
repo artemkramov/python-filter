@@ -1,0 +1,6 @@
+﻿1 - March 1997
+7 - 1997
+Optimization and sensitivity of stepped columns under circulatory load
+Szymon Imielowski, Oskar Mahrenholtz
+This paper deals with the optimal design and sensitivity analysis of a stepped column subjected to a nonconservative circulatory loading. The analysis is focused on maximization of the critical force under the constraint of constant volume. A considerable increase in the critical load is achieved by introducing, in the middle of the column span, an infinitesimal segment. It follows from the sensitivity analysis that the stability of the system is extremely sensitive with respect to the direction of loading application, while an increase in the stiffness of the infinitesimal segment improves the reliability and safety of the whole system. A generalized condition of multimodal design optimization is proposed in the paper. The analysis is based on the transfer matrix method.
+-

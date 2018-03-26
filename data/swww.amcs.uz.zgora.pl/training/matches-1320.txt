@@ -1,0 +1,6 @@
+﻿2 - June 2002
+12 - 2002
+Externally and internally positive singular discrete-time linear systems
+Tadeusz Kaczorek
+Notions of externally and internally positive singular discrete-time linear systems are introduced. It is shown that a singular discrete-time linear system is externally positive if and only if its impulse response matrix is non-negative. Sufficient conditions are established under which a single-output singular discrete-time system with matrices in canonical forms is internally positive. It is shown that if a singular system is weakly positive (all matrices<em>E, A, B, C</em>are non-negative), then it is not internally positive.
+externally, internally, positive, singular, linear, system

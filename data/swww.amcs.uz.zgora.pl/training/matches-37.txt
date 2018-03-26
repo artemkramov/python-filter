@@ -1,0 +1,6 @@
+﻿2 - June 2000
+10 - 2000
+Sensor characterization for regional boundary observability
+El Hassane Zerrik, Layachi Badraoui
+The purpose of this paper is to report some original results on regional boundary observation and boundary strategic sensors. Characterization of such sensors is related to their spatial structure and location, and aims at achieving regional boundary observability for parabolic systems. An application to a two-dimensional diffusion process and various illustrative examples are demonstrated.
+parabolic systems, regional boundary observability, boundary strategic sensors

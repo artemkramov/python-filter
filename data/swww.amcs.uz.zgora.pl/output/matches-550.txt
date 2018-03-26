@@ -1,0 +1,6 @@
+﻿1 - March 2014
+24 - 2014
+From the slit-island method to the Ising model: Analysis of irregular grayscale objects
+Przemysław Mazurek, Dorota Oszutowska-Mazurek
+The Slit Island Method (SIM) is a technique for the estimation of the fractal dimension of an object by determining the area– perimeter relations for successive slits. The SIM could be applied for image analysis of irregular grayscale objects and their classification using the fractal dimension. It is known that this technique is not functional in some cases. It is emphasized in this paper that for specific objects a negative or an infinite fractal dimension could be obtained. The transformation of the input image data from unipolar to bipolar gives a possibility of reformulated image analysis using the Ising model context. The polynomial approximation of the obtained area-perimeter curve allows object classification. The proposed technique is applied to the images of cervical cell nuclei (Papanicolaou smears) for the preclassification of the correct and atypical cells.
+slit island method, area-perimeter method, Ising model, image analysis, cervical cancer</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0004">10.2478/amcs-2014-0004</a>

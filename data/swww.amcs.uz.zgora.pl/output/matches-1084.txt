@@ -1,0 +1,6 @@
+﻿1 - March 2006
+16 - 2006
+Soft computing in model-based predictive control
+Piotr Tatjewski, Maciej Ławryńczuk
+The application of fuzzy reasoning techniques and neural network structures to model-based predictive control (MPC) is studied. First, basic structures of MPC algorithms are reviewed. Then, applications of fuzzy systems of the Takagi-Sugeno type in explicit and numerical nonlinear MPC algorithms are presented. Next, many techniques using neural network modeling to improve structural or computational properties of MPC algorithms are presented and discussed, from a neural network model of a process in standard MPC structures to modeling parts or entire MPC controllers with neural networks. Finally, a simulation example and conclusions are given.
+process control, model predictive control, nonlinear systems, fuzzy systems, neural networks

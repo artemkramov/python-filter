@@ -1,0 +1,6 @@
+﻿1 - March 2017
+27 - 2017
+Object-parameter approaches to predicting unknown data in an incomplete fuzzy soft set
+Yaya Liu, Keyun Qin, Chang Rao, Mahamuda Alhaji Mahamadu
+The research on incomplete fuzzy soft sets is an integral part of the research on fuzzy soft sets and has been initiated recently. In this work, we first point out that an existing approach to predicting unknown data in an incomplete fuzzy soft set suffers from some limitations and then we propose an improved method. The hidden information between both objects and parameters revealed in our approach is more comprehensive. Furthermore, based on the similarity measures of fuzzy sets, a new adjustable object-parameter approach is proposed to predict unknown data in incomplete fuzzy soft sets. Data predicting converts an incomplete fuzzy soft set into a complete one, which makes the fuzzy soft set applicable not only to decision making but also to other areas. The compared results elaborated through rate exchange data sets illustrate that both our improved approach and the new adjustable object-parameter one outperform the existing method with respect to forecasting accuracy.
+fuzzy soft set, incomplete fuzzy soft set, object-parameter approach, prediction, similarity measures</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2017-0011">10.1515/amcs-2017-0011</a>

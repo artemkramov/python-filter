@@ -1,0 +1,6 @@
+﻿2 - June 2003
+13 - 2003
+Beta fuzzy logic systems: Approximation properties in the MIMO case
+Adel M. Alimi, Radhia Hassine, Mohamed Selmi
+Many researches have been interested in the approximation properties of Fuzzy Logic Systems (FLS), which, like neural networks, can be seen as approximation schemes. Almost all of them tackled the Mamdani fuzzy model, which was shown to have many interesting approximation features. However, only in few cases the Sugeno fuzzy model was considered. In this paper, we are interested in the zero-order Multi-Input–Multi-Output (MIMO) Sugeno fuzzy model with Beta membership functions. This leads to Beta Fuzzy Logic Systems (BFLS). We show that BFLSs are universal approximators. We also prove that they possess the best approximation property and the interpolation characteristic.
+Beta function, universal approximation property, best approximation property, interpolation property, Sugeno fuzzy model, MIMO systems

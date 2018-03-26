@@ -1,0 +1,6 @@
+﻿2 - June 2014
+24 - 2014
+Regularized nonnegative matrix factorization: Geometrical interpretation and application to spectral unmixing
+Rafał Zdunek
+Nonnegative Matrix Factorization (NMF) is an important tool in data spectral analysis. However, when a mixing matrix or sources are not sufficiently sparse, NMF of an observation matrix is not unique. Many numerical optimization algorithms, which assure fast convergence for specific problems, may easily get stuck into unfavorable local minima of an objective function, resulting in very low performance. In this paper, we discuss the Tikhonov regularized version of the Fast Combinatorial NonNegative Least Squares (FC-NNLS) algorithm (proposed by Benthem and Keenan in 2004), where the regularization parameter starts from a large value and decreases gradually with iterations. A geometrical analysis and justification of this approach are presented. The numerical experiments, carried out for various benchmarks of spectral signals, demonstrate that this kind of regularization, when applied to the FC-NNLS algorithm, is essential to obtain good performance.
+blind source separation, nonnegative matrix factorization, active-set algorithm, regularized NMF, polytope approximation</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0017">10.2478/amcs-2014-0017</a>

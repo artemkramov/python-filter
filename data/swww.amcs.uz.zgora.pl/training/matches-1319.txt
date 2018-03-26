@@ -1,0 +1,6 @@
+﻿2 - June 2002
+12 - 2002
+Controllability, observability and optimal control of continuous-time 2-D systems
+Gerhard Jank
+We consider linear 2-D systems of Fornasini-Marchesini type in the continuous-time case with non-constant coefficients. Using an explicit representation of the solutions by utilizing the Riemann-kernel of the equation under consideration, we obtain controllability and observability criteria in the case of the inhomogeneous equation, where control is obtained by choosing the inhomogeneity appropriately, but also for the homogeneous equation, where control is obtained by steering with Goursat data. The optimal control problem with a quadratic cost functional is also solved.
+2-D continuous-time systems, controllability, observability, optimal control, quadratic cost

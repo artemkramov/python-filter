@@ -1,0 +1,6 @@
+﻿4 - December 1999
+9 - 1999
+A quasigroup-based public-key cryptosystem
+Czesław Kościelny, Gary L. Mullen
+A public-key cryptosystem, using generalized quasigroup-based streamciphers is presented. It is shown that such a cryptosystem allows one to transmit securely both a cryptogram and a secret portion of the enciphering key using the same insecure channel. The system is illustrated by means of a simple, but non-trivial, example.
+quasigroups, latin squares, cryptography, streamciphers

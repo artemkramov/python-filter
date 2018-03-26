@@ -1,0 +1,17 @@
+﻿2/2016
+7
+Metabolomics-and-fluxomics-in-biotechnology-r-ncurrent-trends,85,27821,0
+abstract:</div><div>REVIEW PAPER
+Metabolomics and fluxomics in biotechnology: current trends
+h3>Wojciech Wojtowicz, Piotr Mlynarz</h3><div>BioTechnologia vol. 97(2) C pp. 137-144 C 2016
+6.60783">https://doi.org/10.5114/bta.2016.60783
+a>View full text</a
+27821
+Wojtowicz W, Mlynarz P. Metabolomics and fluxomics in biotechnology: current trends. BioTechnologia. 2016;97(2):137-144. doi:10.5114/bta.2016.60783
+Wojtowicz, W., &amp; Mlynarz, P. (2016). Metabolomics and fluxomics in biotechnology: current trends. BioTechnologia, 97(2), 137-144. https://doi.org/10.5114/bta.2016.60783
+Wojtowicz, Wojciech, and Piotr Mlynarz. 2016. "Metabolomics and fluxomics in biotechnology: current trends". BioTechnologia 97 (2): 137-144. doi:10.5114/bta.2016.60783
+Wojtowicz, W., and Mlynarz, P. (2016). Metabolomics and fluxomics in biotechnology: current trends. BioTechnologia, 97(2), pp.137-144. https://doi.org/10.5114/bta.2016.60783
+Wojtowicz, Wojciech et al. "Metabolomics and fluxomics in biotechnology: current trends." BioTechnologia, vol. 97, no. 2, 2016, pp. 137-144. doi:10.5114/bta.2016.60783
+/div><div>Metabolomics and fluxomics are two very rapidly developing fields of science. They provide a wide range of information on different biological systems and are the last link in the biology “omics” studies chain: genomics-transcriptomics-proteomics-metabolomics. Metabolomics belongs to systems biology and it refers to changes occurring in low molecular weight compounds (&lt;1500 Da) and reveals significant information about the actual state of examined organisms in relation to a reference group. Metabolic flux analysis provides very important information about the flux metabolites in a pathway of a living organism based on 13C enriched isotopically substrates. Both these sciences use very advanced mathematical approaches in order to gain the highest possible output originating from living systems. All features of both methods allow their use in with adopting of appropriate methodology, in a particular field of biotechnology, including medicine, pharmaceutical science and industry, food processing, toxicology, plant cultivation, and animal breeding.<
+null
+keywords:</div><h3>metabolomics, fluxomics, biotechnology, metabolites</h3

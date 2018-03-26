@@ -1,0 +1,6 @@
+﻿1 - March 2018
+28 - 2018
+Stabilization of an epidemic model via an<em>N</em>-periodic approach
+Begoña Cantó, Carmen Coll, Elena Sánchez
+We analyze the evolution of an infectious disease by combining different groups of a population when the route of transmission is via encounters with free-living virulent organisms that can survive for a long time outside the individual. This study involves matrix analysis of lower triangular block matrices and some of their spectral properties. We propose an<em>N</em>-periodic control strategy in order to stabilize the disease around the disease-free equilibrium point.
+nonnegative matrix, stability, reducible matrix, seasonality, epidemic process</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2018-0014">10.2478/amcs-2018-0014</a>

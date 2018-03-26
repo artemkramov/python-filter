@@ -1,0 +1,6 @@
+﻿1 - March 2000
+10 - 2000
+Cellular automata and many-particle systems modeling aggregation behavior among populations
+Daniela Morale
+A cellular automaton model is presented in order to describe mutual interactions among the individuals of a population due to social decisions. The scheme is used for getting qualitative results, comparable to field experiments carried out on a population of ants which present an aggregative behavior. We also present a second description of a biological spatially structured population of<em>N</em>individuals by a system of stochastic differential equations of Itô type. A 'law of large numbers' to a continuum dynamics described by an integro-differential equation is given.
+cellular automata, individual-based models, stochastic differential equations, law of large numbers, density-dependence, nonlinear integrodifferential equations

@@ -1,0 +1,6 @@
+﻿4 - December 2002
+12 - 2002
+Enlarged exact compensation in distributed systems
+Larbi Afifi, Abdelhakim Chafiai, Abdelaziz Bel Fekih
+In this work, we examine, through the observation of a class of linear distributed systems, the possibility of reducing the effect of disturbances (pollution, etc.), by making observations within a given margin of tolerance using a control term. This problem is called enlarged exact remediability. We show that with a convenient choice of input and output operators (actuators and sensors, respectively), the considered control problem has a unique optimal solution, which will be given. We also study the relationship between the notion of remediability, introduced in previous works, and that of enlarged exact remediability. ala ęóąśłżźćń
+distributed systems, remediability, control, actuators, sensors

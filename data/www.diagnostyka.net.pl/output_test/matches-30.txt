@@ -1,0 +1,5 @@
+4-2015,3237">4/2015 vol. 16
+Early detection of cracks in rear suspension beam with the use of time domain estimates of vibration during the fatigue testing
+BOSMAL Automotive Research and Development Institute Ltd ul. Sarni Stok 93, 43-300 Bielsko-Biała
+81488-16980?filename=Early detection of cracks
+In this article an early crack detection method during fatigue testing has been described. The test object was a beam mounted on a durability test bench. Piezoelectric accelerometers were mounted on to the beam. With observation of the signals from the accelerometers it was determined what change of the signal was caused by crack appearance during the test. Three car beams were tested. The measurement method and testing bench are described in this work. To determine the change of the signal and show potential cracks, time domain estimates have been used: RMS, peak, peak-peak, Crest Factor and Kurtosis. Results for all these estimates are listed in tables. Conclusions were drawn according to their variations in part icular time ranges.

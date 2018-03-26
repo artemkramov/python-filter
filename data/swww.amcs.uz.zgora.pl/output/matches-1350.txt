@@ -1,0 +1,6 @@
+﻿4 - December 2002
+12 - 2002
+Two observer-based tracking algorithms for a unicycle mobile robot
+Janusz Jakubiak, Erjen Lefeber, Krzysztof Tchoń, Henk Nijmeijer
+A trajectory tracking problem for the three-dimensional kinematic model of a unicycle-type mobile robot is considered. It is assumed that only two of the tracking error coordinates are measurable. By means of cascaded systems theory we develop observers for each of the error coordinates and show the<em>К</em>-exponential convergence of the tracking error in combined closed-loop observer-controller systems. The results are illustrated with computer simulations.
+observer, trajectory tracking, mobile robot

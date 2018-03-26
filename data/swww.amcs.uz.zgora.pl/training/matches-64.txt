@@ -1,0 +1,6 @@
+﻿4 - December 2000
+10 - 2000
+Beta fuzzy logic systems: Approximation properties in the SISO case
+Adel M. Alimi, Radhia Hassine, Mohamed Selmi
+In this paper, a Single-Input Single-Output (SISO) Sugeno fuzzy model of the zeroth order with Beta membership functions for input variables is adopted. After the introduction of Beta Fuzzy Logic Systems (BFLS) a constructive theory is developed to establish the fact that they are universal approximators. Based on this theory, an algorithm, which can actually construct a BFLS approximating a given continuous function with an arbitrary degree of accuracy, is described. We then show that BFLSs satisfy more critical properties which are the best approximation property and the interpolation property. We complete the paper with a series of numerical comparisons between the approximation performances of BFLSs and other classes of widely used fuzzy logic systems. These comparisons confirm that BFLSs perform best in all the cases studied.
+Beta function, universal approximation property, best approximation property, interpolation property, Sugeno fuzzy model, SISO systems

@@ -1,0 +1,6 @@
+﻿1 - March 2016
+26 - 2016
+Modelling DNA and RNA secondary structures using matrix insertion–deletion systems
+Lakshmanan Kuppusamy, Anand Mahendran
+Insertion and deletion are operations that occur commonly in DNA processing and RNA editing. Since biological macromolecules can be viewed as symbols, gene sequences can be represented as strings and structures can be interpreted as languages. This suggests that the bio-molecular structures that occur at different levels can be theoretically studied by formal languages. In the literature, there is no unique grammar formalism that captures various bio-molecular structures. To overcome this deficiency, in this paper, we introduce a simple grammar model called the<em>matrix insertion–deletion system</em>, and using it we model several bio-molecular structures that occur at the intramolecular, intermolecular and RNA secondary levels.
+bio-molecular structures, insertion–deletion systems, intermolecular, intramolecular, secondary structures</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0017">10.1515/amcs-2016-0017</a>

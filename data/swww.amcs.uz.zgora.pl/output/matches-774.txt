@@ -1,0 +1,6 @@
+﻿4 - December 2012
+22 - 2012
+Data-driven models for fault detection using kernel PCA: A water distribution system case study
+Adam Nowicki, Michał Grochowski, Kazimierz Duzinkiewicz
+Kernel Principal Component Analysis (KPCA), an example of machine learning, can be considered a non-linear extension of the PCA method. While various applications of KPCA are known, this paper explores the possibility to use it for building a data-driven model of a non-linear system—the water distribution system of the Chojnice town (Poland). This model is utilised for fault detection with the emphasis on water leakage detection. A systematic description of the system’s framework is followed by evaluation of its performance. Simulations prove that the presented approach is both flexible and efficient.
+machine learning, kernel PCA, fault detection, monitoring, water leakage detection</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0070-1">10.2478/v10006-012-0070-1</a>

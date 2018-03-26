@@ -1,0 +1,6 @@
+﻿3 - September 1995
+5 - 1995
+Disturbance decoupling for non-linear structured systems
+Torsten Wey, Ferdinand Svaricek
+A structural approach to the disturbance decoupling problem of non-linear systems is introduced. For this purpose, in analogy to linear systems theory, a structural description of non-linear systems is defined. In associating a directed graph to such a system, two important system properties, the differential output rank and the structure at infinity, can be characterized in terms of input-output paths. Based on this concept, the disturbance rejection problem can be easily solved. Moreover, necessary conditions valid for general – non structured – systems can be defined in a graph-theoretic way. The advantages of this approach are demonstrated by illustrative examples.
+-

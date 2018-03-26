@@ -1,0 +1,6 @@
+﻿2 - June 2012
+22 - 2012
+Adaptive control of cluster-based Web systems using neuro-fuzzy models
+Krzysztof Zatwarnicki
+A significant development of Web technologies requires the application of more and more complex systems and algorithms for maintaining high quality of Web services. Presently, not only simple decision-making tools but also complex adaptation algorithms using artificial intelligence techniques are applied for controlling HTTP request traffic. The paper presents a new LFNRD (Local Fuzzy-Neural Adaptive Request Distribution) algorithm for request distribution in cluster-based Web systems using neuro-fuzzy models of Web servers in the decision-making process. The neuro-fuzzy model which is applied is discussed in detail and a design of the Web switch using the proposed solution is presented. Finally, a testbed is described and the results of a comparative simulation study on the LFNRD algorithm, and other algorithms known from the literature and used in the industry, are presented and discussed.
+neuro-fuzzy model, request distribution, Web cluster, QoWS</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0027-4">10.2478/v10006-012-0027-4</a>

@@ -1,0 +1,6 @@
+﻿2 - June 2005
+15 - 2005
+Strict maximum separability of two finite sets: An algorithmic approach
+Dorota Cendrowska
+The paper presents a recursive algorithm for the investigation of a strict, linear separation in the Euclidean space. In the case when sets are linearly separable, it allows us to determine the coefficients of the hyperplanes. An example of using this algorithm as well as its drawbacks are shown. Then the algorithm of determining an optimal separation (in the sense of maximizing the distance between the two sets) is presented.
+binary classifiers, recursive methods, optimal separability

@@ -1,0 +1,6 @@
+﻿1 - March 1997
+7 - 1997
+And/or/not causal graphs – a model for diagnostic reasoning
+Antoni Ligęza, Pilar Fuster Parra
+The paper addresses the issues of diagnostic reasoning based on abductive analysis of causal structures. It is based on ideas emerging from an engineering approach to diagnosis of complex systems. A diagnostic process is considered as a multistage backward search procedure supported by sequential testing and ordering strategies. A basic, core, and uniform model for representing causal behavior of diagnosed systems is proposed; it has the form of an AND/OR/NOT causal graph allowing for the specification of causality types reflecting the basic logical operations. A multistage approach to diagnostic reasoning is outlined. The discussion covers initial failure detection (with the use of an expected behavior approach rather than the complete model of the system), diagnostic reasoning based on search of the graph, and a final validation stage of generated possible diagnoses. Finally, possibilities of further extensions and related work are pointed out.
+-

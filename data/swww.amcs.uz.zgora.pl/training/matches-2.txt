@@ -1,0 +1,6 @@
+﻿2 - June 2016
+26 - 2016
+The control of drilling vibrations: A coupled PDE-ODE modeling approach
+Belem Saldivar, Sabine Mondié, Juan Carlos Ávila Vilchis
+The main purpose of this contribution is the control of both torsional and axial vibrations occurring along a rotary oilwell drilling system. The model considered consists of a wave equation coupled to an ordinary differential equation (ODE) through a nonlinear function describing the rock–bit interaction. We propose a systematic method to design feedback controllers guaranteeing ultimate boundedness of the system trajectories and leading consequently to the suppression of harmful dynamics. The proposal of a Lyapunov–Krasovskii functional provides stability conditions stated in terms of the solution of a set of linear and bilinear matrix inequalities (LMIs, BMIs). Numerical simulations illustrate the efficiency of the obtained control laws.
+drilling vibrations, LMI approach, ultimate boundedness, coupled wave-ODE system</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0024">10.1515/amcs-2016-0024</a>

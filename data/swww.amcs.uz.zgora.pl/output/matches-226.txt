@@ -1,0 +1,6 @@
+﻿1 - March 1996
+6 - 1996
+Stabilization of linear descriptor systems by state-feedback controllers
+Tadeusz Kaczorek
+The necessary and sufficient conditions are established for the existence of a solution to the stabilization problem for linear continuous-time descriptor systems. A new procedure is presented for designing a state-feedback controller such that the closed-loop system is asymptotically stable and its response is impulse-free.
+-

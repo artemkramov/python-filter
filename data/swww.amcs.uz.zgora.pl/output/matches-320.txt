@@ -1,0 +1,6 @@
+﻿1 - March 1994
+4 - 1994
+Time-optimal control of parabolic time lag system
+Adam Kowalewski, Anna Krakowiak
+A time-optimal control problem for a distributed parabolic system in which constant time lags appear both in the state equation and in the boundary condition is presented. Some particular properties of the optimal control are discussed.
+-

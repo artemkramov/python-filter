@@ -1,0 +1,6 @@
+﻿4 - December 1999
+9 - 1999
+Mean squared load criteria for scheduling independent tasks
+Gintautas Dzemyda
+Results of this paper extend the set of criteria which characterize the scheduling quality as well as the set of possible scheduling strategies. A new view on the minimum makespan criterion is presented in terms of the mean squared load of processing units. This leads in turn to the development of new scheduling algorithms. The interaction between processes of minimizing the new criteria and the maximum finishing time (makespan of the schedule) was discovered. We show the possibility of minimizing the maximum finishing time by minimizing the new criteria that characterize the mean squared load of processing units. Moreover, the optimal workload of processing units determined with the use of the proposed criteria is usually smoother (more balanced) than that found for traditional ones.
+parallel processing, scheduling, combinatorial problems, minimum makespan problem, mean squared load

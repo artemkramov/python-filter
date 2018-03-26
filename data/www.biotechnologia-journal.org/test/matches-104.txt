@@ -1,0 +1,17 @@
+﻿4/2015
+6
+A-new-method-for-detecting-cross-inhibition-effects-in-the-environmental-biocatalytic-processes,85,26898,0
+abstract:</div><div>RESEARCH PAPERS
+A new method for detecting cross-inhibition effects in the environmental biocatalytic processes
+h3>Zoltán Herke, Thomas Maskow, Zsolt István Németh</h3><div>BioTechnologia vol. 96(4) C pp. 279-284 C 2015
+5.57732">https://doi.org/10.5114/bta.2015.57732
+a>View full text</a
+26898
+Herke Z, Maskow T, Németh Z. A new method for detecting cross-inhibition effects in the environmental biocatalytic processes. BioTechnologia. 2016;96(4):279-284. doi:10.5114/bta.2015.57732
+Herke, Z., Maskow, T., &amp; Németh, Z. (2016). A new method for detecting cross-inhibition effects in the environmental biocatalytic processes. BioTechnologia, 96(4), 279-284. https://doi.org/10.5114/bta.2015.57732
+Herke, Zoltán, Thomas Maskow, and Zsolt István Németh. 2016. "A new method for detecting cross-inhibition effects in the environmental biocatalytic processes". BioTechnologia 96 (4): 279-284. doi:10.5114/bta.2015.57732
+Herke, Z., Maskow, T., and Németh, Z. (2016). A new method for detecting cross-inhibition effects in the environmental biocatalytic processes. BioTechnologia, 96(4), pp.279-284. https://doi.org/10.5114/bta.2015.57732
+Herke, Zoltán et al. "A new method for detecting cross-inhibition effects in the environmental biocatalytic processes." BioTechnologia, vol. 96, no. 4, 2016, pp. 279-284. doi:10.5114/bta.2015.57732
+/div><div>Biocatalytic processes based on the use of different microbial seed cultures and enzyme mixtures are of steadily increasing interest for cleaning contaminated sites. Commercially available “biocatalysts” acting on various target pollutant mixtures have an extremely wide range of application. The situation is aggravated by the fact that these “biocatalysts” often consist of a badly defined mixture of microorganisms and enzymes. The reaction rate and efficiency of biodegradation processes depend on several variables (e.g. bioavailability of nutrients and terminal electron acceptors, pH, temperature, composition of the contamination, or water activity). In addition, an important influencing factor is the inhibition of key enzymes by the composition of the reaction mixture (pollutants) of the contaminated site. The inhibitors often change the reaction kinetics in a very complex way. This paper describes a study on a new method that allows to identify and describe the inhibition effects easily and fast, without resorting to any specific enzyme kinetic evaluating software. This issue is especially important because the method should also be adaptable for badly defined “biocatalysts”. The method utilizes latent information in the biocatalytic kinetic data sets. It condenses the complex degradation behavior which is a simple linear relation providing the information about the occurrence and strength of potential inhibition effects. Furthermore, principal component analysis also proved to serve information about the inhibition effects. The applicability of our evaluation strategy<br><br>has been successfully confirmed using the experimental results as well as model calculations.<
+null
+keywords:</div><h3>bioremediation, inhibition effect, modeling, regression analysis, principal component analysis (PCA)</h3

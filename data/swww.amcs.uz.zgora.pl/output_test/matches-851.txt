@@ -1,0 +1,3 @@
+On classification with missing data using rough-neuro-fuzzy systems
+Robert K. Nowicki
+The paper presents a new approach to fuzzy classification in the case of missing data. Rough-fuzzy sets are incorporated into logical type neuro-fuzzy structures and a rough-neuro-fuzzy classifier is derived. Theorems which allow determining the structure of the rough-neuro-fuzzy classifier are given. Several experiments illustrating the performance of the rough-neuro-fuzzy classifier working in the case of missing features are described.

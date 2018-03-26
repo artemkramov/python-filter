@@ -1,0 +1,6 @@
+﻿2 - June 2000
+10 - 2000
+The Gram-Schmidt method in the identification of a generalized control system
+Hubert Wysocki
+This article discusses the identification of a generalized linear control system described in the Bittner operational calculus by an abstract linear differential equation with constant coefficients. The identification problem leads to that of the best approximation in the vector space<em>l<sub>m</sub><sup>2</sup></em>and is solved by using the Gram-Schmidt orthonormalization method. The classical Strejc method and the Shinbrot modulating function method are generalized here.
+operational calculus, derivative, integral, limit condition, control system, identification, orthonormalization method

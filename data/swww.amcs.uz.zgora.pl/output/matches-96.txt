@@ -1,0 +1,6 @@
+﻿3 - September 1999
+9 - 1999
+Application of sensitivity theory to fuzzy logic based FDI
+Tracy Dalton, Petra Klotzek, Paul M. Frank
+This paper describes an application of sensitivity theory to the analysis of a certain class of fuzzy systems which can be used for fault detection and isolation (FDI). The work is divided into three main tasks. The first is the mathematical representation of some class of fuzzy systems. This is followed by an application of sensitivity theory to fuzzy systems based on the approach detailed in the first part. Finally, this method is applied to a fuzzy fault diagnosis scheme for the two-tank system, and the results compared with those achieved by the application of sensitivity theory to a non-fuzzy diagnosis scheme for the same system. Simulation results for the fuzzy and non-fuzzy fault diagnosis schemes are presented, which verify the results obtained via the application of sensitivity theory.
+fuzzy systems, fault detection and isolation, fuzzy inference, sensitivity theory, residual analysis, two-tank system

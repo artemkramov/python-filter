@@ -1,0 +1,16 @@
+﻿Life-time-assessment-of-clamp-forming-machine-boom-durability,81490
+4-2015,3237">4/2015 vol. 16
+Automatic-method-for-spectral-pattern-association-with-characteristic-frequencies,81491,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/The-influence-of-degradation-on-the-viscosity-and-molecular-mass-of-poly-lactide,81489,0,2.html" title="PREVIOUS
+Life time assessment of clamp-forming machine boom durability
+Leonid-Polishchuk/74939">Leonid Polishchuk
+null
+</sup>&nbsp;&nbsp;<a href="mailto:leo.polishchuk@gmail.com"><div></div></a>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Orest-Bilyy/74940">Orest Bilyy</a></span><sup>2
+borest@ipm.lviv.ua
+>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Yevhen-Kharchenko/49224">Yevhen Kharchenko</a></span
+Vinnytsia Natioanl Technical University, Khmelnycke Shose 95, 21021 Vinnytsia, Ukraine, e-mail:</span></div></td></tr><tr><td>2</td><td><div><span>G.V. Karpenko Physical-Mechanical Institute of the Academy of Science of Ukraine, Naukova 5, 79060 Lviv, Ukraina
+Publish date: 2017-12-21
+5;16(4):71–76
+81490-16982?filename=Life time assessment of
+clamp-forming+machine/147029">clamp-forming machine<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-boom+carriage/147030">boom carriage<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-a+fatigue+crack/147031">a fatigue crack
+durability/35070">durability
+The problem of assessment of main carrying elements (belts) of clamp-forming machine boom made of the angle 45×45×5 mm (Steel 3) in the process of diagnostics is considered. The fragment of the belt is modelled by means of a plate, hawing the crack with typical sizes. Analytical relations are given, stresses intensity factors (SIF) K1 and rates of their change dK1/da near the apex of a crack are investigated. Six cases of potentially possible crack-like defects initiation are considered, criteria lengths of cracks are determined for them, proceeding from the obtained experimental data.

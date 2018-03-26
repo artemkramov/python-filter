@@ -1,0 +1,17 @@
+﻿2/2011
+2
+REVIEW-PAPER-Role-of-iron-in-pathogenesis-of-Parkinson-disease,85,23863,0
+abstract:
+REVIEW PAPER<br>Role of iron in pathogenesis of Parkinson disease
+h3>Jolanta Gałązka-Friedman, Andrzej Friedman</h3><div>BioTechnologia vol. 92(2) C pp. 153-158 C 2011
+1.46530">https://doi.org/10.5114/bta.2011.46530
+a>View full text</a
+23863
+Gałązka-Friedman J, Friedman A. REVIEW PAPER&lt;br&gt;Role of iron in pathogenesis of Parkinson disease. BioTechnologia. 2014;92(2):153-158. doi:10.5114/bta.2011.46530
+Gałązka-Friedman, J., &amp; Friedman, A. (2014). REVIEW PAPER&lt;br&gt;Role of iron in pathogenesis of Parkinson disease. BioTechnologia, 92(2), 153-158. https://doi.org/10.5114/bta.2011.46530
+Gałązka-Friedman, Jolanta, and Andrzej Friedman. 2014. "REVIEW PAPER&lt;br&gt;Role of iron in pathogenesis of Parkinson disease". BioTechnologia 92 (2): 153-158. doi:10.5114/bta.2011.46530
+Gałązka-Friedman, J., and Friedman, A. (2014). REVIEW PAPER&lt;br&gt;Role of iron in pathogenesis of Parkinson disease. BioTechnologia, 92(2), pp.153-158. https://doi.org/10.5114/bta.2011.46530
+Gałązka-Friedman, Jolanta et al. "REVIEW PAPER&lt;br&gt;Role of iron in pathogenesis of Parkinson disease." BioTechnologia, vol. 92, no. 2, 2014, pp. 153-158. doi:10.5114/bta.2011.46530
+/div><div>Parkinson’s disease is one of the most frequent human neurodegenerations. Motor symptoms of Parkinson’s disease<br><br>are the consequence of the destruction of nervous cells in the substantia nigra (SN), a small (about 500 mg)<br><br>structure located deep in human brain. The concentration of iron in SN is comparable to that in liver and is equal<br><br>to about 180 ± 60 ng/mg of wet tissue and the iron in SN is mostly bound to ferritin. For many years it has been<br><br>believed that the degeneration of nervous cells in SN in Parkinson’s disease is related to an important increase<br><br>in the concentration of iron. Our own studies based on Mössbauer spectroscopy and other studies conducted with<br><br>the use of various techniques have not confirmed this finding. The ratio of the concentration of iron in PD vs.<br><br>control SN evaluated by Mössbauer spectroscopy was found to be equal 1.00±0.13. We also confirmed that most<br><br>of iron in SN is located within ferritin. ELISA studies demonstrated a significant decrease in L ferritin in parkinsonian<br><br>SN compared to the control group. As L-ferritin is related to safe keeping of iron within the ferritin shell,<br><br>its decrease may lead to an efflux of iron and increase in the concentration of labile iron. Indeed our studies did<br><br>show a difference in the concentration of labile iron between PD and control SN (135 ± 10 ng/g vs. 76 ± 5 ng/g).<br><br>This labile iron, which may initiate Fenton reaction, may be the cause of the oxidative stress leading to the death<br><br>of nervous cells in PD.<
+null
+keywords:</div><h3>iron, Parkinson disease, oxidative stress, Mössbauer spectroscopy, electron microscopy, ELISA</h3

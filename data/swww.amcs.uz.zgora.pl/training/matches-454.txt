@@ -1,0 +1,6 @@
+﻿2 - December 1992
+2 - 1992
+Self-programming of neural networks for indexing and function approximation tasks
+M.B. Zaremba, E. Porada
+The problem of non-iterative mapping of stimulus-response associations directly onto an association matrix is addressed in this paper. The procedures presented are designed for the calculation of connection weights in multilayer, feedforward neural networks. Two distinct situations from the standpoint of object separability are analyzed in more detail. The first can be defined in the context of content addressable memories, where the network performs essentially indexing or classification tasks. The properties of the self-programming procedure are illustrated using a character recognition network as an example with the intermediate layer of dipoles incorporated into the network architecture. The second situation relates to cases where the approximation capabilities of a single output network are of principal importance.
+-

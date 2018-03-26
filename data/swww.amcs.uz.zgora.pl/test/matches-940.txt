@@ -1,0 +1,6 @@
+﻿2 - June 2009
+19 - 2009
+On directional change and anti-windup compensation in multivariable control systems
+Dariusz Horla
+The paper presents a novel description of the interplay between the windup phenomenon and directional change in controls for multivariable systems (including plants with an uneven number of inputs and outputs), usually omitted in the literature. The paper also proposes a new classification of anti-windup compensators with respect to the method of generating the constrained control signal.
+windup phenomenon, multivariable systems, optimal control</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-009-0024-4">10.2478/v10006-009-0024-4</a>

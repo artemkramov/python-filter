@@ -1,0 +1,6 @@
+﻿2 - June 1993
+3 - 1993
+Program change analysis
+Bogdan Korel
+Software maintenance involves making changes to a program to correct errors, to improve efficiency, or to extend the program functionality. For large programs, understanding the influence of program changes can be very aggravating. Program change analysis is a method of analyzing the differences between the original program and its modified version in order to determine the scope and effect of a modification. The goal of program change analysis is to provide support for programers to understand program modifications (e.g., the influence of a modification on the selected program outputs) or to understand possible unintended influences introduced by the modification. In addition, the change analysis is used to automatically detect anomalies or errors related to the modification in order to indicate possible problems with the modification. The program change analysis presented in this paper is based on the program dependence analysis. First, different classes of possible modifications that are made to the program are identified. Then, based on the type of modification, program dependence analysis is used to determine the affected parts of the program and possible unintended influences. A prototype of the change analysis tool has been recently implemented for Pascal programs.
+-

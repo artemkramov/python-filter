@@ -1,0 +1,6 @@
+a>View full text</a
+Mohammady N, El-Sayed H, El-Kassas H, Elsherbiny B. A preliminary study on some &lt;i&gt;Chlorella&lt;/i&gt; spp. for biodiesel production. BioTechnologia. 2018;98(4):323-331. doi:10.5114/bta.2017.72294
+Mohammady, N., El-Sayed, H., El-Kassas, H., &amp; Elsherbiny, B. (2018). A preliminary study on some &lt;i&gt;Chlorella&lt;/i&gt; spp. for biodiesel production. BioTechnologia, 98(4), 323-331. https://doi.org/10.5114/bta.2017.72294
+Mohammady, Nagwa G.-E., Heba S. El-Sayed, Hala Y. El-Kassas, and Basma A. Elsherbiny. 2018. "A preliminary study on some &lt;i&gt;Chlorella&lt;/i&gt; spp. for biodiesel production". BioTechnologia 98 (4): 323-331. doi:10.5114/bta.2017.72294
+Mohammady, N., El-Sayed, H., El-Kassas, H., and Elsherbiny, B. (2018). A preliminary study on some &lt;i&gt;Chlorella&lt;/i&gt; spp. for biodiesel production. BioTechnologia, 98(4), pp.323-331. https://doi.org/10.5114/bta.2017.72294
+Mohammady, Nagwa G.-E. et al. "A preliminary study on some &lt;i&gt;Chlorella&lt;/i&gt; spp. for biodiesel production." BioTechnologia, vol. 98, no. 4, 2018, pp. 323-331. doi:10.5114/bta.2017.72294

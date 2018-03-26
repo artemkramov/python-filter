@@ -1,0 +1,6 @@
+﻿2 - June 2002
+12 - 2002
+A general solution to the output-zeroing problem for MIMO LTI systems
+Jerzy Tokarzewski
+The problem of zeroing the output in an arbitrary linear continuous-time system<em>S(A,B,C,D)</em>with a nonvanishing transfer function is discussed and necessary conditions for output-zeroing inputs are formulated. All possible real-valued inputs and real initial conditions which produce the identically zero system response are characterized. Strictly proper and proper systems are discussed separately.
+linear multivariable systems, state-space methods, output-zeroing problem, invariant zeros

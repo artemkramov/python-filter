@@ -1,0 +1,6 @@
+﻿4 - December 2005
+15 - 2005
+Stability of a class of adaptive nonlinear systems
+Andrzej Dzieliński
+This paper presents a research effort focused on the problem of robust stability of the closed-loop adaptive system. It is aimed at providing a general framework for the investigation of continuous-time, state-space systems required to track a (stable) reference model. This is motivated by the model reference adaptive control (MRAC) scheme, traditionally considered in such a setting. The application of differential inequlities results to the analysis of the Lyapunov stability for a class of nonlinear systems is investigated and it is shown how the problem of model following control may be tackled using this methodology.
+nonlinear systems, Lyapunov stability, adaptive systems

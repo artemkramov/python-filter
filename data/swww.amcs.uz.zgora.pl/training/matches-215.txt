@@ -1,0 +1,6 @@
+﻿4 - December 1997
+7 - 1997
+Regularisation of singular 2D linear models by state-feedbacks
+Tadeusz Kaczorek
+New necessary and sufficient conditions are established under which the singular 2D first Fornasini-Marchesini model and the singular 2D Roesser model can be regularised by state feedbacks. Some procedures for computation of the respective feedback matrices are given and illustrated by numerical examples.
+-

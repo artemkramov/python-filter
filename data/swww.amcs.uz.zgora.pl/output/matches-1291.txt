@@ -1,0 +1,6 @@
+﻿4 - December 2003
+13 - 2003
+Locally positive nonlinear systems
+Tadeusz Kaczorek
+The notion of locally positive nonlinear time-varying linear systems is introduced. Necessary and sufficient conditions for the local positiveness of nonlinear time-varying systems are established. The concept of local reachability in the direction of a cone is introduced, and sufficient conditions for local reachability in the direction of a cone of this class of nonlinear systems are presented.
+local positiveness, time-varying, nonlinear system, local reachability in the direction of a cone

@@ -1,0 +1,6 @@
+﻿3 - September 1994
+4 - 1994
+Model reference adaptive control of unknown plants using dynamic neural networks
+George A. Rovithakis, Manolis A. Christodoulou
+A direct non-linear adaptive controller solving the tracking problem for unknown dynamic systems which are modelled by dynamic neural networks is discussed. A complete model matching case is examined and convergence of the control error to zero plus boundedness of all signals in the closed loop are ensured.
+-

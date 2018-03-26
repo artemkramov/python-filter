@@ -1,0 +1,6 @@
+﻿4 - December 2011
+21 - 2011
+Novel optimal recursive filter for state and fault estimation of linear stochastic systems with unknown disturbances
+Karim Khémiri, Fayçal Ben Hmida, José Ragot, Moncef Gossa
+This paper studies recursive optimal filtering as well as robust fault and state estimation for linear stochastic systems with unknown disturbances. It proposes a new recursive optimal filter structure with transformation of the original system. This transformation is based on the singular value decomposition of the direct feedthrough matrix distribution of the fault which is assumed to be of an arbitrary rank. The resulting filter is optimal in the sense of the unbiased minimum-variance criteria. Two numerical examples are given in order to illustrate the proposed method, in particular to solve the estimation of the simultaneous actuator and sensor fault problem and to make a comparison with the existing literature results.
+Kalman filtering, minimum-variance estimation, state estimation, fault estimation, unknown disturbances, linear discrete-time systems</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-011-0049-3">10.2478/v10006-011-0049-3</a>

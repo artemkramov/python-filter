@@ -1,0 +1,6 @@
+﻿2 - June 1994
+4 - 1994
+Some control problems for simplest differential models of proliferation cycle
+Andrzej Świerniak
+This paper presents probably the simplest models of chemotherapy considered as a control problem. The first-order tumour growth kinetic models both of Malthusian and Gompertzian type are discussed, and their "degenerated" control properties are indicated.
+-

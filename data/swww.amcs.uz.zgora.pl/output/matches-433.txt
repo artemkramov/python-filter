@@ -1,0 +1,6 @@
+﻿4 - December 1993
+3 - 1993
+Estimation and prediction of pollutant concentrations involved in nitrogen oxides cycles a doubly stochastic model
+P. Kazimierczyk, Paweł J. Szabłowski, K. Twardowska
+The purpose of this paper is to present a new type of model that forecasts the instantaneous concentrations of several species involved in the NO<sub>x</sub>cycle in the lower atmosphere, by treating the trajectories of pollutants' particles as trajectories of stochastic processes, and which takes all the advantages of filtering theory. The previous filtering models were found to be of limited use because of complicated chemical reactions for NO<sub>x</sub>. Basing on the model considered here one can also identify the sources that participate in the up-crossings of the critical values of concentrations (the so-called alarm model).
+-

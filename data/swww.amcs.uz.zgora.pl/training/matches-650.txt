@@ -1,0 +1,6 @@
+﻿2 - June 2013
+23 - 2013
+Asynchronous distributed state estimation for continuous-time stochastic processes
+Zdzisław Kowalczuk, Mariusz Domżalski
+The problem of state estimation of a continuous-time stochastic process using an Asynchronous Distributed multi-sensor Estimation (ADE) system is considered. The state of a process of interest is estimated by a group of local estimators constituting the proposed ADE system. Each estimator is based, e.g., on a Kalman filter and performs single sensor filtration and fusion of its local results with the results from other/remote processors to compute possibly the best state estimates. In performing data fusion, however, two important issues need to be addressed namely, the problem of asynchronism of local processors and the issue of unknown correlation between asynchronous data in local processors. Both the problems, along with their solutions, are investigated in this paper. Possible applications and effectiveness of the proposed ADE approach are illustrated by simulated experiments, including a non-complete connection graph of such a distributed estimation system.
+continuous-time stochastic processes, distributed systems, state estimation, Kalman filtering</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0025">10.2478/amcs-2013-0025</a>

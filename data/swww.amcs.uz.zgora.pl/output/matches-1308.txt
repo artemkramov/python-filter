@@ -1,0 +1,6 @@
+﻿1 - March 2002
+12 - 2002
+Non-smoothness in the asymptotics of thin shells and propagation of singularities. Hyperbolic case
+Philippe Karamian, Jacqueline Sanchez-Hubert, Évariste Sanchez Palencia
+We consider the limit behaviour of elastic shells when the relative thickness tends to zero. We address the case when the middle surface has principal curvatures of opposite signs and the boundary conditions ensure the geometrical rigidity. The limit problem is hyperbolic, but enjoys peculiarities which imply singularities of unusual intensity. We study these singularities and their propagation for several cases of loading, giving a somewhat complete description of the solution.
+hyperbolic systems, propagation of singularities, shells

@@ -1,0 +1,6 @@
+﻿1 - March 1996
+6 - 1996
+The rate distortion region for coding in stationary systems
+Ilan Sadeh
+We present the idea of process assignment as a basic tool to provide operational compression bounds. We give a simple proof for the operational rate distortion function using process assignment arguments for ergodic and stationary systems. We generalize the problem to multiterminal systems. A terse review of random process theory is followed by two examples in communications and computers industry, where this theory supplies key bounds to the network performance. Coupling the process definitions with the mathematical stochastic representation of process assignment provides a new and simple proof of the achievable rate region for a degraded diversity system, or a multiple-description system. The proof can be extended to more complicated communications networks. The equivalence of Shannon-type and operational bounds is also addressed.
+-

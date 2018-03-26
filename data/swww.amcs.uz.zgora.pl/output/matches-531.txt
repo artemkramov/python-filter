@@ -1,0 +1,6 @@
+﻿4 - December 2015
+25 - 2015
+Observability and controllability analysis for sandwich systems with backlash
+Na Luo, Yonghong Tan, Ruili Dong
+In this paper, an approach to analyze the observability and controllability of sandwich systems with backlash is proposed. In this method, a non-smooth state-space function is used to describe the sandwich systems with backlash which are also non-smooth non-linear systems. Then, a linearization method based on non-smooth optimization is proposed to derive a linearized state-space function to approximate the non-smooth sandwich systems within a bounded region around the equilibrium point that we are interested in. Afterwards, both observability and controllability matrices are constructed and the methods to analyze the observability as well as controllability of sandwich system with backlash are derived. Finally, numerical examples are presented to validate the proposed method.
+backlash, sandwich systems, non-smooth systems, state-space equations, observability, controllability</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2015-0057">10.1515/amcs-2015-0057</a>

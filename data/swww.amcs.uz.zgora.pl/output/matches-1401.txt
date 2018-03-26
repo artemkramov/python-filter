@@ -1,0 +1,6 @@
+﻿4 - October 2001
+11 - 2001
+Optimization problems with convex epigraphs. Application to optimal control
+Arkadii V. Kryazhimskii
+For a class of infinite-dimensional minimization problems with nonlinear equality constraints, an iterative algorithm for finding global solutions is suggested. A key assumption is the convexity of the "epigraph", a set in the product of the image spaces of the constraint and objective functions. A convexification method involving randomization is used. The algorithm is based on the extremal shift control principle due to N.N. Krasovskii. An application to a problem of optimal control for a bilinear control system is described.
+nonconvex optimization, global optimization methods

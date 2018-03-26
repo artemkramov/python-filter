@@ -1,0 +1,6 @@
+﻿1 - December 1991
+1 - 1991
+Existence of solutions of boundary value problems of differential inclusions
+Michał Kisielewicz, Jerzy Motyl
+We are interested in the necessary and sufficient conditions for the existence of solutions of differential inclusions<em>x(t) ∈ F(t, x(t))</em>for a.e.<em>t ∈ [0, T]</em>satisfying boundary conditions<em>x(0) = x<sub>0</sub></em>and<em>x(T) = x<sub>1</sub></em>.
+-

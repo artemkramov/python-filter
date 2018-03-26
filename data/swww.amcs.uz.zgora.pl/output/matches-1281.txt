@@ -1,0 +1,6 @@
+﻿3 - September 2003
+13 - 2003
+Dynamics of the tumor - immune system competition - the effect of time delay
+Magda Gałach
+The model analyzed in this paper is based on the model set forth by V.A. Kuznetsov and M.A. Taylor, which describes a competition between the tumor and immune cells. Kuznetsov and Taylor assumed that tumor-immune interactions can be described by a Michaelis-Menten function. In the present paper a simplified version of the Kuznetsov-Taylor model (where immune reactions are described by a bilinear term) is studied. On the other hand, the effect of time delay is taken into account in order to achieve a better compatibility with reality.
+mathematical model, tumor growth, differential equation, time delay

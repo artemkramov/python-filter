@@ -1,0 +1,6 @@
+﻿2 - June 2003
+13 - 2003
+Quantitative<em>L<sup>p</sup></em>stability analysis of a class of linear time-varying feedback systems
+Pini Gurfil
+The<em>L<sup>p</sup></em>stability of linear feedback systems with a single time-varying sector-bounded element is considered. A sufficient condition for<em>L<sup>p</sup></em>stability, with<em>1 ≤ p ≤ ∞</em>, is obtained by utilizing the well-known small gain theorem. Based on the stability measure provided by this theorem, quantitative results that describe output-to-input relations are obtained. It is proved that if the linear time-invariant part of the system belongs to the class of proper positive real transfer functions with a single pole at the origin, the upper bound on the output-to-input ratio is constant. Thus, an explicit closed-form calculation of this bound for some simple particular case provides a powerful generalization for the more complex cases. The importance of the results is illustrated by an example taken from missile guidance theory.
+<em>L<sup>p</sup></em>stability, time-varying Lur'e systems, functional analysis

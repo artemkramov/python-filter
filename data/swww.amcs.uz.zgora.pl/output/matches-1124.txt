@@ -1,0 +1,6 @@
+﻿4 - December 2006
+16 - 2006
+A quadratic optimal control problem for a class of linear discrete distributed systems
+Mostafa Rachik, Mustapha Lhous, Ouafa El Kahlaoui, Elhoussine Labriji, Hasna Jourhmane
+A linear quadratic optimal control problem for a class of discrete distributed systems is analyzed. To solve this problem, we introduce an adequate topology and establish that optimal control can be determined though an inversion of the appropriate isomorphism. An example and a numerical approach are given.
+discrete distributed system, Hilbert uniqueness method, linear system, optimal control

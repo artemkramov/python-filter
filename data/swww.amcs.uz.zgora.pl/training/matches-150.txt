@@ -1,0 +1,6 @@
+﻿3 - September 1998
+8 - 1998
+An extension of the Cayley-Hamilton theorem for a standard pair of block matrices
+Tadeusz Kaczorek
+The Cayley-Hamilton theorem is extended for a standard pair of matrices partitioned into blocks that commute in pairs. The Victoria theorem (Victoria, 1982) is a particular case for<em>E = I</em>of the extended Cayley-Hamilton theorem. The new theorem is illustrated by an example. Some remarks on extension of the theorem for non-square block matrices are also given.
+-

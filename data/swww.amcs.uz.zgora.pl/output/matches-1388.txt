@@ -1,0 +1,6 @@
+﻿2 - June 2016
+26 - 2016
+An optimal path planning problem for heterogeneous multi-vehicle systems
+Martin Klaučo, Slavomír Blažek, Michal Kvasnica
+A path planning problem for a heterogeneous vehicle is considered. Such a vehicle consists of two parts which have the ability to move individually, but one of them has a shorter range and is therefore required to keep in a close distance to the main vehicle. The objective is to devise an optimal path of minimal length under the condition that at least one part of the heterogeneous system visits all desired waypoints exactly once. Two versions of the problem are considered. One assumes that the order in which the waypoints are visited is known<em>a priori</em>. In such a case we show that the optimal path can be found by solving a mixed-integer second-order cone problem. The second version assumes that the order in which the waypoints are visited is not known<em>a priori</em>, but can be optimized so as to shorten the length of the path. Two approaches to solve this problem are presented and evaluated with respect to computational complexity.
+path planning, multi-vehicle system, mixed-integer programming</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0021">10.1515/amcs-2016-0021</a>

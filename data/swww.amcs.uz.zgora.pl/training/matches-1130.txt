@@ -1,0 +1,6 @@
+﻿4 - December 2006
+16 - 2006
+Application of coupled neural oscillators for image texture segmentation and modeling of biological rhythms
+Paweł Strumiłło, Michał Strzelecki
+The role of relaxation oscillator models in application fields such as modeling dynamic systems and image analysis is discussed. A short review of the Van der Pol, Wilson-Cowan and Terman-Wang relaxation oscillators is given. The key property of such nonlinear oscillators, i.e., the oscillator phase shift (called the Phase Response Curve) as a result of external pulse stimuli is indicated as a fundamental mechanism to achieve and sustain synchrony in networks of coupled oscillators. It is noted that networks of such oscillators resemble a variety of naturally occurring phenomena (e.g., in electrophysiology) and dynamics arising in engineering systems. Two types of oscillator networks exhibiting synchronous behaviors are discussed. The network of oscillators connected in series for modeling a cardiac conduction system is used to explain causes of important cardiac abnormal rhythms. Finally, it is shown that a 2D network of coupled oscillators is an effective tool for segmenting image textures in biomedical images.
+biological rhythms, nonlinear oscillations, networks of synchronised oscillators, texture segmentation, cardiac pacemakers

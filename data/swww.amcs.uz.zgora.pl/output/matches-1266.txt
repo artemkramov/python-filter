@@ -1,0 +1,6 @@
+﻿1 - March 2016
+26 - 2016
+A mathematical model for file fragment diffusion and a neural predictor to manage priority queues over BitTorrent
+Christian Napoli, Giuseppe Pappalardo, Emiliano Tramontana
+BitTorrent splits the files that are shared on a P2P network into fragments and then spreads these by giving the highest priority to the rarest fragment. We propose a mathematical model that takes into account several factors such as the peer distance, communication delays, and file fragment availability in a future period also by using a neural network module designed to model the behaviour of the peers. The ensemble comprising the proposed mathematical model and a neural network provides a solution for choosing the file fragments that have to be spread first, in order to ensure their continuous availability, taking into account that some peers will disconnect.
+P2P model, neural network, wavelet, diffusion, file sharing</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0010">10.1515/amcs-2016-0010</a>

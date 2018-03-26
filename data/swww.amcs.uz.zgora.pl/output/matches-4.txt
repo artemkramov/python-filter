@@ -1,0 +1,6 @@
+﻿5 - December 2001
+11 - 2001
+Measuring and maintaining consistency: A hybrid FTF algorithm
+James R. Bunch, Richard C. Le Borne, Ian K. Proudler
+Due to the versatility as well as its ease of implementation, the Fast Transversal Filters algorithm is attractive for many adaptive filtering applications. However, it is not widely used because of its undesirable tendency to diverge when operating in finite precision arithmetic. To compensate, modifications to the algorithm have been introduced that are either occasional (performed when a predefined condition(s) is violated) or structured as part of the normal update iteration. However, in neither case is any confidence explicitly given that the computed parameters are in fact close to the desired ones. Here, we introduce a time invariant parameter that provides the user with more exibility in establishing confidence in the consistency of the updated filter parameters. Additionally, we provide evidence through the introduction of a hybrid FTF algorithm that when sufficient time is given prior to catastrophic divergence, the update parameters of the FTF algorithm can be adjusted so that consistency can be acquired and maintained.
+FTF, numerical stability, consistency

@@ -1,0 +1,6 @@
+﻿2 - June 2003
+13 - 2003
+Computer aided design of mechatronic systems
+Zbigniew Mrozek
+Any successful company must react quickly to changing trends in the market. New products should be designed and manufactured quicker and cheaper than counter partners do. A shorter design time provides a distinct competitive advantage. The paper describes two approaches towards designing interdisciplinary mechatronic systems: the first is visual modeling with the UML, the second is physical modelling with Modelica.
+mechatronics, UML, physical modelling, Modelica, Dymola, Simulink, Stateflow

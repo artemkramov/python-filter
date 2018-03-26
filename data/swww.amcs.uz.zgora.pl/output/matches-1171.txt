@@ -1,0 +1,6 @@
+﻿3 - September 2005
+15 - 2005
+Bayes sharpening of imprecise information
+Piotr Kulczycki, Małgorzata Charytanowicz
+A complete algorithm is presented for the sharpening of imprecise information, based on the methodology of kernel estimators and the Bayes decision rule, including conditioning factors. The use of the Bayes rule with a nonsymmetrical loss function enables the inclusion of different results of an under- and overestimation of a sharp value (real number), as well as minimizing potential losses. A conditional approach allows to obtain a more precise result thanks to using information entered as the assumed (e.g. current) values of conditioning factors of continuous and/or binary types. The nonparametric methodology of statistical kernel estimators freed the investigated procedure from arbitrary assumptions concerning the forms of distributions characterizing both imprecise information and conditioning random variables. The concept presented here is universal and can be applied in a wide range of tasks in contemporary engineering, economics, and medicine.
+imprecise information, sharpening, conditioning factors, kernel estimators, Bayes decision rule, nonsymmetrical loss function, numerical calculations

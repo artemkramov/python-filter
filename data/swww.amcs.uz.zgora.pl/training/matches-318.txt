@@ -1,0 +1,6 @@
+﻿4 - December 1995
+5 - 1995
+Modelling software systems in configuration management
+Mária Bieliková, Pavol Návrat
+A model of a software system is presented. It is on the one hand sufficiently rich to represent the architectural and development-induced relations which are decisive in building the configuration, and on the other hand simple enough to allow efficient processing. We distinguish variants and revisions as two kinds of components. Systems are represented by two kinds of nodes in an AND/OR-type graph. The model forms a basis for a method to build a configuration.
+-

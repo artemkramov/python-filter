@@ -1,0 +1,6 @@
+﻿4 - December 2007
+17 - 2007
+Estimation of the output deviation norm for uncertain, discrete-time nonlinear systems in a state dependent form
+Przemysław Orłowski
+Numerical evaluation of the optimal nonlinear robust control requires estimating the impact of parameter uncertainties on the system output. The main goal of the paper is to propose a method for estimating the norm of an output trajectory deviation from the nominal trajectory for nonlinear uncertain, discrete-time systems. The measure of the deviation allows us to evaluate the robustness of any designed controller. The first part of the paper concerns uncertainty modelling for nonlinear systems given in the state space dependent form. The method for numerical estimation of the maximal norm of the output trajectory deviation with applications to robust control synthesis is proposed based on the introduced three-term additive uncertainty model. Theoretical deliberations are complemented with a numerical, water-tank system example.
+uncertain systems, uncertain estimates, discrete-time systems, nonlinear systems</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0042-z">10.2478/v10006-007-0042-z</a>

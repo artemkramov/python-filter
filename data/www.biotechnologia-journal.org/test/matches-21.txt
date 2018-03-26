@@ -1,0 +1,17 @@
+﻿4/2016
+7
+The-possibilities-of-water-purification-using-phytofiltration-methods-a-review-of-recent-progress,85,28884,0
+abstract:</div><div>REVIEW PAPER
+The possibilities of water purification using phytofiltration methods: a review of recent progress
+h3>Ewa J. Hanus-Fajerska, Aleksandra Koźmińska</h3><div>BioTechnologia vol. 97(4) C pp. 315-322 C 2016
+6.64549">https://doi.org/10.5114/bta.2016.64549
+a>View full text</a
+28884
+Hanus-Fajerska E, Koźmińska A. The possibilities of water purification using phytofiltration methods: a review of recent progress. BioTechnologia. 2017;97(4):315-322. doi:10.5114/bta.2016.64549
+Hanus-Fajerska, E., &amp; Koźmińska, A. (2017). The possibilities of water purification using phytofiltration methods: a review of recent progress. BioTechnologia, 97(4), 315-322. https://doi.org/10.5114/bta.2016.64549
+Hanus-Fajerska, Ewa J., and Aleksandra Koźmińska. 2017. "The possibilities of water purification using phytofiltration methods: a review of recent progress". BioTechnologia 97 (4): 315-322. doi:10.5114/bta.2016.64549
+Hanus-Fajerska, E., and Koźmińska, A. (2017). The possibilities of water purification using phytofiltration methods: a review of recent progress. BioTechnologia, 97(4), pp.315-322. https://doi.org/10.5114/bta.2016.64549
+Hanus-Fajerska, Ewa J. et al. "The possibilities of water purification using phytofiltration methods: a review of recent progress." BioTechnologia, vol. 97, no. 4, 2017, pp. 315-322. doi:10.5114/bta.2016.64549
+/div><div>Contaminated water can be purified using mechanical, chemical, or biological methods. Environmentally safe technology of phytoremediation involving plant metabolism is also an alternative solution. Phytofiltration, classified as one of the most promising among phytoremediation, is a technique that relies on remediation of contaminated water through absorption or precipitation and further concentration of pollutants. Currently, only very few plant species are known to be fully suitable to be used for this technology. Such species can efficiently remove toxic metal ions from a solution because of rapidly grown biomass. The selection of suitable plant material for phytofiltration is still considered the most difficult step, especially when purification of groundwater contaminated with a mixture of compounds is concerned. The advantages of this technique are presented herein, especially in relation to water reservoirs contaminated with trace metals.<
+null
+keywords:</div><h3>phytoremediation, phytofiltration, water pollution, plant species, trace metals</h3

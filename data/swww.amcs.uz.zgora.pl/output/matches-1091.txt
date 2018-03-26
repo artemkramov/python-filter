@@ -1,0 +1,6 @@
+﻿1 - March 2006
+16 - 2006
+Advances in model-based fault diagnosis with evolutionary algorithms and neural networks
+Marcin Witczak
+Challenging design problems arise regularly in modern fault diagnosis systems. Unfortunately, the classical analytical techniques often cannot provide acceptable solutions to such difficult tasks. This explains why soft computing techniques such as evolutionary algorithms and neural networks become more and more popular in industrial applications of fault diagnosis. The main objective of this paper is to present recent developments regarding the application of evolutionary algorithms and neural networks to fault diagnosis. In particular, a brief introduction to these computational intelligence paradigms is presented, and then a review of their fault detection and isolation applications is performed. Close attention is paid to techniques that integrate the classical and soft computing methods. A selected group of them is carefully described in the paper. The performance of the presented approaches is illustrated with the use of the DAMADICS fault detection benchmark that deals with a valve actuator.
+fault diagnosis, evolutionary algorithms, neural networks, robustness

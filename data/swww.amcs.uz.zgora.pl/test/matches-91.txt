@@ -1,0 +1,6 @@
+﻿3 - September 1999
+9 - 1999
+Artificial intelligence approaches to fault diagnosis for dynamic systems
+Ron J. Patton, Carlos J. Lopez-Toribio, Faisel J. Uppal
+Recent approaches to fault detection and isolation (FDI) for dynamic systems using methods of integrating quantitative and qualitative model information, based upon artificial intelligence (AI) techniques are surveyed. In this study, the use of AI methods is considered an important extension to the quantitative model-based approach for residual generation in FDI. When quantitative models are not readily available, a correctly trained artificial neural network (ANN) can be used as a non-linear dynamic model of the system. However, the neural network does not easily provide insight into model behaviour; the model is explicit rather than implicit in form. This main difficulty can be overcome using qualitative modelling or rule-based inference methods. For example, fuzzy logic can be used together with state-space models or neural networks to enhance FDI diagnostic reasoning capabilities. The paper discusses the properties of several methods of combining quantitative and qualitative system information and their practical value for fault diagnosis of real process systems.
+artificial intelligence methods, fault-diagnosis, residual generation, fuzzy modelling, neuro-fuzzy systems

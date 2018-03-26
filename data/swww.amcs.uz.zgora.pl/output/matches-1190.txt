@@ -1,0 +1,6 @@
+﻿1 - March 2004
+14 - 2004
+Infinite eigenvalue assignment by an output feedback for singular systems
+Tadeusz Kaczorek
+The problem of an infinite eigenvalue assignment by an output feedback is considered. Necessary and sufficient conditions for the existence of a solution are established. A procedure for the computation of the output-feedback gain matrix is given and illustrated with a numerical example.
+infinite eigenvalue assignment, feedback, singular system

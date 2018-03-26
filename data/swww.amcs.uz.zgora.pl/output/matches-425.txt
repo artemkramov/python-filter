@@ -1,0 +1,6 @@
+﻿3 - September 1993
+3 - 1993
+Knowledge-based fault detection and isolation system for power plant simulator
+Józef Korbicz, Dariusz Uciński, Andrzej Pieczyński, Grażyna Marczewska
+A knowledge-based fault detection and isolation computer system for the power plant simulator in which the power boiler with 380<em>t/h</em>capacity collaborates with 125<em>MW</em>power turbine has been developed and implemented with the use of the expert system shell EXSYS. This system is designed to assist the operator during the power plant nominal work and is fully separated from the model of the process to be diagnosed. The set of rules (heuristic knowledge of the plant, operator's knowledge) as well as mathematical models and algorithms (analytical knowledge) create two-part coupled knowledge base of the computer system regarding the power plant processes. Such a combined knowledge of the power plant on one hand increases the complexity of the knowledge base, but on the other hand it gives possibilities for a more efficient process of inference and making a decision by the system. The efficiency of the proposed fault detection and isolation computer system is shown for a few typical faults occuring in the power plant.
+-

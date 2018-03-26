@@ -1,0 +1,6 @@
+﻿3 - September 2008
+18 - 2008
+Application of triple correlation and bispectrum for interference immunity improvement in telecommunications systems
+Pavel Molchanov, Alexandr Totsky
+This paper presents a new noise immunity encoding/decoding technique by using the features of triple correlation and bispectrum widely employed in digital signal processing systems operating in noise environments. The triple correlation- and bispectrum-based encoding/decoding algorithm is tested for a digital radio telecommunications binary frequency shift keying system. The errorless decoding probability was analyzed by means of computer simulation for the transmission and reception of a test message in a radio channel disturbed by both additive white Gaussian noise (AWGN) and a mixture of an AWGN and an impulsive noise. Computer simulation results obtained for varying and less than unity signal-to-noise ratios at the demodulator input demonstrate a considerable improvement in the noise immunity of the technique suggested in comparison with the traditional redundant linear block encoding/decoding technique.
+telecommunications, frequency shift keying, redundant encoding, triple correlation, bispectrum</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0032-9">10.2478/v10006-008-0032-9</a>

@@ -1,0 +1,6 @@
+﻿4 - December 2017
+27 - 2017
+Exploring complex and big data
+Jerzy Stefanowski, Krzysztof Krawiec, Robert Wrembel
+This paper shows how big data analysis opens a range of research and technological problems and calls for new approaches. We start with defining the essential properties of big data and discussing the main types of data involved. We then survey the dedicated solutions for storing and processing big data, including a data lake, virtual integration, and a polystore architecture. Difficulties in managing data quality and provenance are also highlighted. The characteristics of big data imply also specific requirements and challenges for data mining algorithms, which we address as well. The links with related areas, including data streams and deep learning, are discussed. The common theme that naturally emerges from this characterization is complexity. All in all, we consider it to be the truly defining feature of big data (posing particular research and technological challenges), which ultimately seems to be of greater importance than the sheer data volume.
+big data, complex data, data integration, data provenance, data streams, deep learning</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2017-0046">10.1515/amcs-2017-0046</a>

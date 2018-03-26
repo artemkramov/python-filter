@@ -1,0 +1,6 @@
+﻿1 - March 2008
+18 - 2008
+Nonlinear image processing and filtering: A unified approach based on vertically weighted regression
+Ewaryst Rafajłowicz, Mirosław Pawlak, Angsar Steland
+A class of nonparametric smoothing kernel methods for image processing and filtering that possess edge-preserving properties is examined. The proposed approach is a nonlinearly modified version of the classical nonparametric regression estimates utilizing the concept of vertical weighting. The method unifies a number of known nonlinear image filtering and denoising algorithms such as bilateral and steering kernel filters. It is shown that vertically weighted filters can be realized by a structure of three interconnected radial basis function (RBF) networks. We also assess the performance of the algorithm by studying industrial images.
+image filtering, vertically weighted regression, nonlinear filters</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0005-z">10.2478/v10006-008-0005-z</a>

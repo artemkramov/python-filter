@@ -1,0 +1,17 @@
+﻿3/2017
+8
+Identification-of-novel-genes-potentially-involved-r-nin-rice-Oryza-sativa-L-drought-tolerance,85,30830,0
+abstract:</div><div>RESEARCH PAPERS
+Identification of novel genes potentially involved in rice (<i>Oryza sativa</i>L.) drought tolerance
+h3>Zahra Zinati</h3><div>BioTechnologia vol. 98(3) C pp. 195-208 C 2017
+7.70798">https://doi.org/10.5114/bta.2017.70798
+a>View full text</a
+30830
+Zinati Z. Identification of novel genes potentially involved in rice (&lt;i&gt;Oryza sativa&lt;/i&gt; L.) drought tolerance. BioTechnologia. 2018;98(3):195-208. doi:10.5114/bta.2017.70798
+Zinati, Z. (2018). Identification of novel genes potentially involved in rice (&lt;i&gt;Oryza sativa&lt;/i&gt; L.) drought tolerance. BioTechnologia, 98(3), 195-208. https://doi.org/10.5114/bta.2017.70798
+Zinati, Zahra. 2018. "Identification of novel genes potentially involved in rice (&lt;i&gt;Oryza sativa&lt;/i&gt; L.) drought tolerance". BioTechnologia 98 (3): 195-208. doi:10.5114/bta.2017.70798
+Zinati, Z. (2018). Identification of novel genes potentially involved in rice (&lt;i&gt;Oryza sativa&lt;/i&gt; L.) drought tolerance. BioTechnologia, 98(3), pp.195-208. https://doi.org/10.5114/bta.2017.70798
+Zinati, Zahra. "Identification of novel genes potentially involved in rice (&lt;i&gt;Oryza sativa&lt;/i&gt; L.) drought tolerance." BioTechnologia, vol. 98, no. 3, 2018, pp. 195-208. doi:10.5114/bta.2017.70798
+/div><div>Drought is a major constraint affecting rice production and causing yield reduction of up to 60% in the major growing areas of Asia. Developing drought-tolerant cultivars in rice is an appropriate strategy to provide food security and hinder the harmful effects of drought. Therefore, particular attention must be directed toward identifying drought-responsive genes. In the present study, based on the microarray analysis results of two rice genotypes with contrasting response to drought stress, 308 probe sets are uniquely upregulated with equal to or greater than 3 symmetric fold changes in drought-tolerant genotype upon exposure to drought stress. As the next step, mapping of the corresponding genes of these probe sets via the web-based tool “QlicRice” is expected to reveal the genes within the drought stress-associated QTLs (quantitative trait loci). To determine the number of probe sets annotated to the transcription factors in various families, the plant transcription factor database (PlnTFDB) is relatively utilized. Finally, the biclustering analysis using Genevestigator is at hand to unveil the biclusters along with the embedded probe sets annotated to 3 transcription factors in different drought stress studies. The survey is also aimed at determining the possible relationships between up- and co-regulated genes and the transcription factors in the obtained biclusters through plant promoter analysis navigator (PlantPAN). To substantiate how the exploration of transcriptomic changes of the genotypes with contrasting drought tolerance could uncover a number of genes associated with rice drought stress is the ultimate goal of the present study.<
+null
+keywords:</div><h3>biclustering analysis, drought, transcription factor,<i>Oryza sativa</i>L, transcriptomic analysis</h3

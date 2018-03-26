@@ -1,0 +1,6 @@
+﻿4 - December 2013
+23 - 2013
+Addendum to "The well-posedness of a swimming model in the 3-D incompressible fluid governed by the nonstationary Stokes equation"
+Alexander Khapalov
+In this addendum we address some unintentional omission in the description of the swimming model in our recent paper (Khapalov, 2013).
+swimming models, coupled PDE/ODE systems, nonstationary Stokes equation</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0067">10.2478/amcs-2013-0067</a>

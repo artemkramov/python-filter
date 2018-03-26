@@ -1,0 +1,6 @@
+﻿3 - September 2017
+27 - 2017
+Conservative finite volume element schemes for the complex modified Korteweg–de Vries equation
+Jin-Liang Yan, Liang-Hong Zheng
+The aim of this paper is to build and validate a class of energy-preserving schemes for simulating a complex modified Korteweg–de Vries equation. The method is based on a combination of a discrete variational derivative method in time and finite volume element approximation in space. The resulting scheme is accurate, robust and energy-preserving. In addition, for comparison, we also develop a momentum-preserving finite volume element scheme and an implicit midpoint finite volume element scheme. Finally, a complete numerical study is developed to investigate the accuracy, conservation properties and long time behaviors of the energy-preserving scheme, in comparison with the momentum-preserving scheme and the implicit midpoint scheme, for the complex modified Korteweg–de Vries equation.
+mass, energy, momentum, finite volume element method, complex modified Korteweg–de Vries equation</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2017-0036">10.1515/amcs-2017-0036</a>

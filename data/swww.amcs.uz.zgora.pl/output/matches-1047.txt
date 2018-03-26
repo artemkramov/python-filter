@@ -1,0 +1,6 @@
+﻿2 - June 2007
+17 - 2007
+Construction of sampling and interpolating sequences for multi-band signals. The two-band case
+Sergei Avdonin, Anna Bulanova, William Moran
+Recently several papers have related the production of sampling and interpolating sequences for multi-band signals to the solution of certain kinds of Wiener-Hopf equations. Our approach is based on connections between exponential Riesz bases and the controllability of distributed parameter systems. For the case of two-band signals we derive an operator whose invertibility is equivalent to the existence of a sampling and interpolating sequence, and prove the invertibility of this operator.
+sampling and interpolation, multi-band signals, Riesz bases, families of exponentials, Wiener-Hopf equations</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0013-4">10.2478/v10006-007-0013-4</a>

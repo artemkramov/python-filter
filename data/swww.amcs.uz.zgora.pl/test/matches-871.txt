@@ -1,0 +1,6 @@
+﻿2 - June 2010
+20 - 2010
+Visual simultaneous localisation and map-building supported by structured landmarks
+Robert Bączyk, Andrzej Kasiński
+Visual simultaneous localisation and map-building systems which take advantage of some landmarks other than point-wise environment features are not frequently reported. In the following paper the method of using the operational map of robot surrounding, which is complemented with visible structured passive landmarks, is described. These landmarks are used to improve self-localisation accuracy of the robot camera and to reduce the size of the Kalman-filter state-vector with respect to the vector size involving point-wise environment features only. Structured landmarks reduce the drift of the camera pose estimate and improve the reliability of the map which is built on-line. Results of simulation experiments are described, proving advantages of such an approach.
+mobile robots, navigation, SLAM, artificial landmarks</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-010-0021-7">10.2478/v10006-010-0021-7</a>

@@ -1,0 +1,6 @@
+﻿1 - March 1998
+8 - 1998
+A symbolic computation toolbox for the design of dynamical adaptive nonlinear controllers
+E. Miguel Rios-Bolívar, Alan S.I. Zinober
+We describe a new symbolic computation toolbox BACKDSMC developed using the MATLAB Symbolic Toolbox and intended for the design of dynamical adaptive nonlinear controllers for regulation and tracking tasks of a class of observable minimum phase uncertain nonlinear systems. This toolbox also allows us to design non-adaptive controllers for systems without uncertainty, and adaptive sliding mode controllers (SMC) to provide robustness in the presence of disturbances. The design procedure employs the basic ideas of the adaptive backstepping algorithm with tuning functions via input-output linearization, and is applicable to both triangular and nontriangular systems.
+-

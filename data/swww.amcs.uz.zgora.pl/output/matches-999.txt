@@ -1,0 +1,6 @@
+﻿2 - June 2008
+18 - 2008
+Inferring graph grammars by detecting overlap in frequent subgraphs
+Jacek P. Kukluk, Lawrence B. Holder, Diane J. Cook
+In this paper we study the inference of node and edge replacement graph grammars. We search for frequent subgraphs and then check for an overlap among the instances of the subgraphs in the input graph. If the subgraphs overlap by one node, we propose a node replacement graph grammar production. If the subgraphs overlap by two nodes or two nodes and an edge, we propose an edge replacement graph grammar production. We can also infer a hierarchy of productions by compressing portions of a graph described by a production and then inferring new productions on the compressed graph. We validate the approach in experiments where we generate graphs from known grammars and measure how well the approach infers the original grammar from the generated graph. We show graph grammars found in biological molecules, biological networks, and analyze learning curves of the algorithm.
+grammar induction, graph grammars, graph mining, multi-relational data mining</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0022-y">10.2478/v10006-008-0022-y</a>

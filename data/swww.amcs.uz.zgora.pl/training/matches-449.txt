@@ -1,0 +1,6 @@
+﻿1 - June 1992
+2 - 1992
+Automation of decision making in management systems
+Maria Lewandowska, Sergej Zevnovak
+A model of decision making aimed at automation of an enterprise management system is presented. On the base of this model a procedure of decision making, taking into account the conditions of dynamically changing environment, was worked out.
+-

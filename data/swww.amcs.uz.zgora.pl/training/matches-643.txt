@@ -1,0 +1,6 @@
+﻿2 - June 2013
+23 - 2013
+An analytical and numerical approach to a bilateral contact problem with nonmonotone friction
+Mikaël Barboteu, Krzysztof Bartosz, Piotr Kalita
+We consider a mathematical model which describes the contact between a linearly elastic body and an obstacle, the so-called foundation. The process is static and the contact is bilateral, i.e., there is no loss of contact. The friction is modeled with a nonmotonone law. The purpose of this work is to provide an error estimate for the Galerkin method as well as to present and compare two numerical methods for solving the resulting nonsmooth and nonconvex frictional contact problem. The first approach is based on the nonconvex proximal bundle method, whereas the second one deals with the approximation of a nonconvex problem by a sequence of nonsmooth convex programming problems. Some numerical experiments are realized to compare the two numerical approaches.
+linearly elastic material, bilateral contact, nonmonotone friction law, hemivariational inequality, finite element method, error estimate, nonconvex proximal bundle method, quasi-augmented Lagrangian method, Newton method</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0020">10.2478/amcs-2013-0020</a>

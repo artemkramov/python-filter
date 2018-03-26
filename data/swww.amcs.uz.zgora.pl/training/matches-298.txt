@@ -1,0 +1,6 @@
+﻿3 - September 1995
+5 - 1995
+Decentralized feedback controllers for uncertain interconnected systems with Markovian jumping parameters
+El-Kebir Boukas, Andrzej Świerniak, Hailang Yang
+This paper addresses the problem of design of decentralized controllers for a class of interconnected linear systems with Markovian jumping parameters and unknown but structured uncertainties. Results of Trinh and Aldeen (1993) are extended to a stochastic class of piecewise deterministic systems. Under the assumption that the Markovian jump process (disturbance) is irreducible and the complete access to the system's state and its mode is realizable, we establish the conditions which enable us to obtain a robust decentralized controller. An estimation method for the difference between the cost for the real system under our control law and the optimal performance for the nominal model is also presented.
+-

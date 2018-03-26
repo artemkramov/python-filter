@@ -1,0 +1,6 @@
+﻿2 - June 2005
+15 - 2005
+On naive Bayes in speech recognition
+László Tóth, András Kocsor, János Csirik
+The currently dominant speech recognition technology, hidden Markov modeling, has long been criticized for its simplistic assumptions about speech, and especially for the naive Bayes combination rule inherent in it. Many sophisticated alternative models have been suggested over the last decade. These, however, have demonstrated only modest improvements and brought no paradigm shift in technology. The goal of this paper is to examine why HMM performs so well in spite of its incorrect bias due to the naive Bayes assumption. To do this we create an algorithmic framework that allows us to experiment with alternative combination schemes and helps us understand the factors that influence recognition performance. From the findings we argue that the bias peculiar to the naive Bayes rule is not really detrimental to phoneme classification performance. Furthermore, it ensures consistent behavior in outlier modeling, allowing efficient management of insertion and deletion errors.
+naive Bayes, segment-based speech recognition, hidden Markov model

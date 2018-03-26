@@ -1,0 +1,6 @@
+﻿2 - June 2014
+24 - 2014
+An efficient algorithm for adaptive total variation based image decomposition and restoration
+Xinwu Liu, Lihong Huang
+With the aim to better preserve sharp edges and important structure features in the recovered image, this article researches an improved adaptive total variation regularization and<em>H<sup>−1</sup></em>norm fidelity based strategy for image decomposition and restoration. Computationally, for minimizing the proposed energy functional, we investigate an efficient numerical algorithm—the split Bregman method, and briefly prove its convergence. In addition, comparisons are also made with the classical OSV (Osher–Sole–Vese) model (Osher et al., 2003) and the TV-Gabor model (Aujol et al., 2006), in terms of the edge-preserving capability and the recovered results. Numerical experiments markedly demonstrate that our novel scheme yields significantly better outcomes in image decomposition and denoising than the existing models.
+image decomposition, image restoration, adaptive total variation,<em>H<sup>−1</sup></em>norm, split Bregman method</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0031">10.2478/amcs-2014-0031</a>

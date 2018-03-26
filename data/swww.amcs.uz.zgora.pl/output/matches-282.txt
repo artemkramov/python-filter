@@ -1,0 +1,6 @@
+﻿1 - March 1995
+5 - 1995
+Spurious Galois fields
+Czesław Kościelny
+An algebraic system consisting of a finite set of<em>q</em>elements (<em>q</em>– any integer ≥ 2) with two internal binary operations of addition and multiplication is studied. For the described system, which satisfies all the axioms of the fields except for the axiom of associativity of addition, which may, but need not, be assured, the name spurious Galois field and the symbol<em>SGF(q)</em>are proposed. The spurious Galois fields constitute a class of algebraic systems, containing all the Galois fields as its small subclass; therefore, the presented problem can be considered as a generalization of finite fields. The way of forming the spurious Galois fields, the approach to computing in<em>SGF(q)</em>as well as some possibilities of applications of this algebraic structure in cryptography are discussed.
+-

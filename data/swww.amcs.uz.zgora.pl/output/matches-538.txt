@@ -1,0 +1,6 @@
+﻿4 - December 2015
+25 - 2015
+Nonlinear system identification with a real-coded genetic algorithm (RCGA)
+Imen Cherif, Farhat Fnaiech
+This paper is devoted to the blind identification problem of a special class of nonlinear systems, namely, Volterra models, using a real-coded genetic algorithm (RCGA). The model input is assumed to be a stationary Gaussian sequence or an independent identically distributed (i.i.d.) process. The order of the Volterra series is assumed to be known. The fitness function is defined as the difference between the calculated cumulant values and analytical equations in which the kernels and the input variances are considered. Simulation results and a comparative study for the proposed method and some existing techniques are given. They clearly show that the RCGA identification method performs better in terms of precision, time of convergence and simplicity of programming.
+blind nonlinear identification, Volterra series, higher order cumulants, real-coded genetic algorithm</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2015-0062">10.1515/amcs-2015-0062</a>

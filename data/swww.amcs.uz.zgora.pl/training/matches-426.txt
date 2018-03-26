@@ -1,0 +1,6 @@
+﻿3 - September 1993
+3 - 1993
+An expert system for diagnostics of agricultural machines
+Ryszard Michalski
+On the basis of the knowledge about agricultural machine exploitation a Diagnostic Expert System (DES) was developed which consists of the following modules: knowledge acquisition, knowledge representation, mechanism of inference, interface of controlling of the user interrogation and system of explanations. In this work the principles and development stages were described. With the sample data the procedure of knowledge acquisition and diagnostic principles were presented.
+-

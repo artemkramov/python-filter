@@ -1,0 +1,6 @@
+﻿4 - December 1994
+4 - 1994
+Group sequencing subject to precedence constraints
+Mikhail Y. Kovalyov, Alexander V. Tuzikov
+The problem of sequencing jobs for processing on a single machine to minimize maximum penalty is studied. It is assumed that the jobs are classified into several families on the basis of group technology. Precedence constraints are specified on the set of jobs for each family and on the set of families. The Lawler's polynomial time algorithm is generalized to solve this problem and some problems with two ordered criteria.
+-

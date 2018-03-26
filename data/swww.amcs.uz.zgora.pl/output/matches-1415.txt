@@ -1,0 +1,6 @@
+﻿5 - December 2001
+11 - 2001
+Optimization and pole assignment in control system design
+Eric K. Chu
+<em>Please see the PDF file.</em>
+condition number, linear feedback, pole assignment, robustness

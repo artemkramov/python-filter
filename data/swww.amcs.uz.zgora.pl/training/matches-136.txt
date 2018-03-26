@@ -1,0 +1,6 @@
+﻿2 - June 1998
+8 - 1998
+Uniform decay rates for solutions to a structural acoustics model with nonlinear dissipation
+George Avalos, Irena Lasiecka
+In this work, the asymptotic behavior of solutions to a coupled hyperbolic/parabolic-like system is investigated. It is shown that with both components of the equation being subjected to nonlinear damping (boundary damping for the wave component, interior for the beam), a global uniform stability is attained for all (weak) solutions.
+-

@@ -1,0 +1,6 @@
+﻿2 - June 2012
+22 - 2012
+A modified filter SQP method as a tool for optimal control of nonlinear systems with spatio-temporal dynamics
+Ewaryst Rafajłowicz, Krystyn Styczeń, Wojciech Rafajłowicz
+Our aim is to adapt Fletcher’s filter approach to solve optimal control problems for systems described by nonlinear Partial Differential Equations (PDEs) with state constraints. To this end, we propose a number of modifications of the filter approach, which are well suited for our purposes. Then, we discuss possible ways of cooperation between the filter method and a PDE solver, and one of them is selected and tested.
+filter approach, nonlinear programming, optimal control, partial differential equations</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0023-8">10.2478/v10006-012-0023-8</a>

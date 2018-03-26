@@ -1,0 +1,6 @@
+﻿1 - March 2004
+14 - 2004
+Time-varying time-delay estimation for nonlinear systems using neural networks
+Yonghong Tan
+Nonlinear dynamic processes with time-varying time delays can often be encountered in industry. Time-delay estimation for nonlinear dynamic systems with time-varying time delays is an important issue for system identification. In order to estimate the dynamics of a process, a dynamic neural network with an external recurrent structure is applied in the modeling procedure. In the case where a delay is time varying, a useful way is to develop on-line time-delay estimation mechanisms to track the time-delay variation. In this paper, two schemes called direct and indirect time-delay estimators are proposed. The indirect time-delay estimator considers the procedure of time-delay estimation as a nonlinear programming problem. On the other hand, the direct time-delay estimation scheme applies a neural network to construct a time-delay estimator to track the time-varying time-delay. Finally, a numerical example is considered for testing the proposed methods.
+modelling, time delay, nonlinear systems, neural networks, estimation

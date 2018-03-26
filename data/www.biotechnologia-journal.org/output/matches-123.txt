@@ -1,0 +1,17 @@
+﻿3/2017
+8
+-In-vitro-propagation-of-Althaea-officinalis-r-nthe-role-of-plant-growth-regulators-in-morphogenesis,85,30826,0
+abstract:</div><div>RESEARCH PAPERS
+<i>In vitro</i>propagation of Althaea officinalis : the role of plant growth regulators in morphogenesis
+h3>A. Mujib, Tanu Pipal, Muzamil Ali, Dipti Tonk, Nadia Zafar, Basit Gulzar</h3><div>BioTechnologia vol. 98(3) C pp. 167-173 C 2017
+7.70794">https://doi.org/10.5114/bta.2017.70794
+a>View full text</a
+30826
+Mujib A, Pipal T, Ali M, Tonk D, Zafar N, Gulzar B. &lt;i&gt;In vitro&lt;/i&gt; propagation of Althaea officinalis : the role of plant growth regulators in morphogenesis. BioTechnologia. 2018;98(3):167-173. doi:10.5114/bta.2017.70794
+Mujib, A., Pipal, T., Ali, M., Tonk, D., Zafar, N., &amp; Gulzar, B. (2018). &lt;i&gt;In vitro&lt;/i&gt; propagation of Althaea officinalis : the role of plant growth regulators in morphogenesis. BioTechnologia, 98(3), 167-173. https://doi.org/10.5114/bta.2017.70794
+Mujib, A., Tanu Pipal, Muzamil Ali, Dipti Tonk, Nadia Zafar, and Basit Gulzar. 2018. "&lt;i&gt;In vitro&lt;/i&gt; propagation of Althaea officinalis : the role of plant growth regulators in morphogenesis". BioTechnologia 98 (3): 167-173. doi:10.5114/bta.2017.70794
+Mujib, A., Pipal, T., Ali, M., Tonk, D., Zafar, N., and Gulzar, B. (2018). &lt;i&gt;In vitro&lt;/i&gt; propagation of Althaea officinalis : the role of plant growth regulators in morphogenesis. BioTechnologia, 98(3), pp.167-173. https://doi.org/10.5114/bta.2017.70794
+Mujib, A. et al. "&lt;i&gt;In vitro&lt;/i&gt; propagation of Althaea officinalis : the role of plant growth regulators in morphogenesis." BioTechnologia, vol. 98, no. 3, 2018, pp. 167-173. doi:10.5114/bta.2017.70794
+/div><div><i>Althaea officinalis L.</i>(marshmallow) belonging to the Malvaceae family, is an important plant that contains a variety of important phytocompounds including asparagine, pectin, flavonoids, polyphenolic acid, and scopoletin. The yield of these compounds can be improved using biotechnological methods that allow for a steady and continuous regeneration of plant material. To the best of our knowledge, thus far, the<i>In vitro</i>clonal multiplication of marshmallow has not been attempted on a large scale. Therefore, in this study, we developed callus induction and multiple shoot regeneration protocols from explants. All the explants, i.e., roots, nodes, and leaves, evoked compact white or yellow calli in a medium supplemented with 2,4-dichlorophenoxyacetic acid (2,4-D), which grew vigorously. The callus induction frequency was the highest (62.1%) from stem nodes, followed by leaves (39.1%) and roots (27.5%). The differential behavior of explants in response to various plant growth regulators (PGRs) was studied. The calli from leaves and roots were noted to be non-organogenic/embryogenic in media containing different PGR concentrations and have been described in this communication. The stem nodes used were cultured on MS media amended with different concentrations of benzyl-amino-purine (BAP: 0.5, 1.0, and 2.0 mg/l). Multiple shoots were formed at variable numbers, the maximum being in a medium supplemented with 1.0 mg/l of BAP. The induced shoots were rooted in IBA-, NAA-, and IAA-amended media, where IBA at 0.5 mg/l induced a maximum number of roots (8.8 roots/shoot). The regenerated plants were transferred to plastic pots, filled with soilrite and soil (1 : 1), and finally, transferred to outdoor conditions.<
+null
+keywords:</div><h3>callus induction, 2,4-D, multiple shoot, BAP, IBA, NAA, rooting</h3

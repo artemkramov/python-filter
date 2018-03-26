@@ -1,0 +1,6 @@
+﻿1 - March 2005
+15 - 2005
+Discrete-time predictive control with overparameterized delay-plant models and an identified cancellation order
+Zdzisław Kowalczuk, Piotr Suchomski
+The paper presents several solutions to the discrete-time generalized predictive (GPC) controller problem, including an anticipative filtration mechanism, which are suitable for plants with nonzero transportation delays. Necessary modifications of the GPC design procedure required for controlling plants based on their non-minimal models are discussed in detail. Although inevitably invoking the troublesome pole-zero cancellation problem, such models can be used in adaptive systems as a remedy for the uncertainty or variability of the model order. The purpose of this paper is to present a complete GPC controller design for delay plants that is robust to the overparameterization of the plant model. Refined conditions for the existence and stability of GPC control solutions in terms of pertinent design parameters are given, and explicit forms of closed-loop characteristic polynomials are provided. The issue of identifying the model cancellation order is also considered, and practical solutions are proposed. The presented ideas are illustrated numerically.
+delay plants, overparameterization, system design, predictive control, robust control synthesis, adaptive control

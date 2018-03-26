@@ -1,0 +1,6 @@
+﻿1 - March 2009
+19 - 2009
+Stochastic controllability of systems with multiple delays in control
+Jerzy Klamka
+Finite-dimensional stationary dynamic control systems described by linear stochastic ordinary differential state equations with multiple point delays in control are considered. Using the notation, theorems and methods used for deterministic controllability problems for linear dynamic systems with delays in control as well as necessary and sufficient conditions for various kinds of stochastic relative controllability in a given time interval are formulated and proved. It will be proved that, under suitable assumptions, relative controllability of an associated deterministic linear dynamic system is equivalent to stochastic relative exact controllability and stochastic relative approximate controllability of the original linear stochastic dynamic system. As a special case, relative stochastic controllability of dynamic systems with a single point delay is also considered. Some remarks and comments on the existing results for stochastic controllability of linear dynamic systems are also presented.
+controllability, linear control systems, stochastic control systems, delayed controls, multiple delays</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-009-0003-9">10.2478/v10006-009-0003-9</a>

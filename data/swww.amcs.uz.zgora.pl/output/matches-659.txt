@@ -1,0 +1,6 @@
+﻿2 - June 2013
+23 - 2013
+Sensitivity of computer support game algorithms of safe ship control
+Józef Lisowski
+The paper investigates the sensitivity of safe ship control to inaccurate data from the ARPA anti-collision radar system and to changes in the process control parameters. The system structure of safe ship control in collision situations and computer support programmes exploring information from the ARPA anti-collision radar are presented. Sensitivity characteristics of the multistage positional non-cooperative and cooperative game and kinematics optimization control algorithms are determined through examples of navigational situations with restricted visibility at sea.
+differential games, positional games, matrix games, dual linear programming</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0033">10.2478/amcs-2013-0033</a>

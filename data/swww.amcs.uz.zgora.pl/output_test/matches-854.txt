@@ -1,0 +1,3 @@
+On the convergence of the wavelet-Galerkin method for nonlinear filtering
+Łukasz D. Nowak, Monika Pasławska-Południak, Krystyna Twardowska
+The aim of the paper is to examine the wavelet-Galerkin method for the solution of filtering equations. We use a wavelet biorthogonal basis with compact support for approximations of the solution. Then we compute the Zakai equation for our filtering problem and consider the implicit Euler scheme in time and the Galerkin scheme in space for the solution of the Zakai equation. We give theorems on convergence and its rate. The method is numerically much more efficient than the classical Galerkin method.

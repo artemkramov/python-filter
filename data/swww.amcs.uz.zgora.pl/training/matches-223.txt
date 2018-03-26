@@ -1,0 +1,6 @@
+﻿1 - March 2018
+28 - 2018
+Iterative methods for efficient sampling-based optimal motion planning of nonlinear systems
+Jung-Su Ha, Han-Lim Choi, Jeong Hwan Jeon
+This paper extends the RRT* algorithm, a recently developed but widely used sampling based optimal motion planner, in order to effectively handle nonlinear kinodynamic constraints. Nonlinearity in kinodynamic differential constraints often leads to difficulties in choosing an appropriate distance metric and in computing optimized trajectory segments in tree construction. To tackle these two difficulties, this work adopts the affine quadratic regulator-based pseudo-metric as the distance measure and utilizes iterative two-point boundary value problem solvers to compute the optimized segments. The proposed extension then preserves the inherent asymptotic optimality of the RRT* framework, while efficiently handling a variety of kinodynamic constraints. Three numerical case studies validate the applicability of the proposed method.
+optimal motion planning, sampling-based algorithm, nonlinear dynamics</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2018-0012">10.2478/amcs-2018-0012</a>

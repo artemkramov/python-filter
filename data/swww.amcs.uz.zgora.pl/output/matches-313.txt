@@ -1,0 +1,6 @@
+﻿4 - December 1995
+5 - 1995
+Optimal trajectory design for the identification of robot and load dynamics
+Krzysztof Kozłowski, Piotr Dutkiewicz
+In this paper, we discuss the issue of the optimal trajectory design for the purpose of identification of the inertial and load parameters of a robot. Two dynamical models have been introduced: differential and integral; both of them can be used to estimate the robot dynamic parameters in which they appear to be linear. Functions associated with the parameters are highly non-linear which in general involve joint positions, velocities and accelerations. A standard sequential least-squares technique can be used to estimate the unknown parameters. This method requires an information matrix which has to be inverted. For particular joint signals this matrix is singular. In this paper, we propose to optimize the condition number of this matrix in both formulations: differential and integral. This work illustrates the difficulty of maintaining persistent excitation during the experimental identification of robot and load dynamic parameters.
+-

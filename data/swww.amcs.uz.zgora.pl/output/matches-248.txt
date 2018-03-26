@@ -1,0 +1,6 @@
+﻿2 - June 1996
+6 - 1996
+Domain optimization problem for stationary heat equation
+Antoine Henrot, Werner Horn, Jan Sokołowski
+In the paper, the support of a Radon measure is selected in an optimal way. The solution of the second-order elliptic equation depends on the measure via the mixed-type boundary conditions. The existence of a solution for a class of domain optimization problems is shown. A relaxed formulation of the optimization problems is proposed. The first-order necessary optimality conditions are derived.
+-

@@ -1,0 +1,6 @@
+﻿4 - December 2008
+18 - 2008
+Active fault diagnosis based on stochastic tests
+Niels K. Poulsen, Henrik Niemann
+The focus of this paper is on stochastic change detection applied in connection with active fault diagnosis (AFD). An auxiliary input signal is applied in AFD. This signal injection in the system will in general allow us to obtain a fast change detection/isolation by considering the output or an error output from the system. The classical cumulative sum (CUSUM) test will be modified with respect to the AFD approach applied. The CUSUM method will be altered such that it will be able to detect a change in the signature from the auxiliary input signal in an (error) output signal. It will be shown how it is possible to apply both the gain and the phase change of the output signal in CUSUM tests. The method is demonstrated using an example.
+active fault diagnosis, parametric faults, stochastic change detection, closed-loop systems, parameterization</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0043-6">10.2478/v10006-008-0043-6</a>

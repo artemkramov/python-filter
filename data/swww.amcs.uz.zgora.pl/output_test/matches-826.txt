@@ -1,0 +1,3 @@
+An operational Haar wavelet method for solving fractional Volterra integral equations
+Habibollah Saeedi, Nasibeh Mollahasani, Mahmoud Mohseni Moghadam, Gennady N. Chuev
+A Haar wavelet operational matrix is applied to fractional integration, which has not been undertaken before. The Haar wavelet approximating method is used to reduce the fractional Volterra and Abel integral equations to a system of algebraic equations. A global error bound is estimated and some numerical examples with smooth, nonsmooth, and singular solutions are considered to demonstrate the validity and applicability of the developed method.

@@ -1,0 +1,6 @@
+﻿4 - December 2017
+27 - 2017
+A hierarchical inferential method for indoor scene classification
+Jingzhe Jiang, Peng Liu, Zhipeng Ye, Wei Zhao, Xianglong Tang
+Indoor scene classification forms a basis for scene interaction for service robots. The task is challenging because the layout and decoration of a scene vary considerably. Previous studies on knowledge-based methods commonly ignore the importance of visual attributes when constructing the knowledge base. These shortcomings restrict the performance of classification. The structure of a semantic hierarchy was proposed to describe similarities of different parts of scenes in a fine-grained way. Besides the commonly used semantic features, visual attributes were also introduced to construct the knowledge base. Inspired by the processes of human cognition and the characteristics of indoor scenes, we proposed an inferential framework based on the Markov logic network. The framework is evaluated on a popular indoor scene dataset, and the experimental results demonstrate its effectiveness.
+indoor scene classification, semantic hierarchical structure, rule-based inference, Markov logic network</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2017-0059">10.1515/amcs-2017-0059</a>

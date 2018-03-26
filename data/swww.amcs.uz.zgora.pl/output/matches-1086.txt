@@ -1,0 +1,6 @@
+﻿1 - March 2006
+16 - 2006
+What is not clear in fuzzy control systems?
+Andrzej Piegat
+The paper presents a number of unclear, unsolved or partly solved problems of fuzzy logic, which hinder precise transformation of expert knowledge about proper control of a plant in a fuzzy controller. These vague problems comprise the realization of logical and arithmetic operations and another basic problem, i.e., the construction of membership functions. The paper also indicates how some of the above problems can be solved.
+fuzzy control, fuzzy systems, fuzzy arithmetic, fuzzy logic, necessity, possibility

@@ -1,0 +1,6 @@
+﻿1 - March 2007
+17 - 2007
+A new fuzzy Lyapunov approach to non-quadratic stabilization of Takagi-Sugeno fuzzy models
+Ibtissem Abdelmalek, Noureddine Goléa, Mohamed Laid Hadjili
+In this paper, new non-quadratic stability conditions are derived based on the parallel distributed compensation scheme to stabilize Takagi-Sugeno (T-S) fuzzy systems. We use a non-quadratic Lyapunov function as a fuzzy mixture of multiple quadratic Lyapunov functions. The quadratic Lyapunov functions share the same membership functions with the T-S fuzzy model. The stability conditions we propose are less conservative and stabilize also fuzzy systems which do not admit a quadratic stabilization. The proposed approach is based on two assumptions. The first one relates to a proportional relation between multiple Lyapunov functions and the second one considers an upper bound to the time derivative of the premise membership functions. To illustrate the advantages of our proposal, four examples are given.
+T-S fuzzy systems, non-quadratic stability conditions, linear matrix inequalities, parallel distributed compensation, stabilization</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0005-4">10.2478/v10006-007-0005-4</a>

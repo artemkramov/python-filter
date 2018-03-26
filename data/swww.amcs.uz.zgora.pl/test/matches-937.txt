@@ -1,0 +1,6 @@
+﻿2 - June 2009
+19 - 2009
+Independence of asymptotic stability of positive 2D linear systems with delays of their delays
+Tadeusz Kaczorek
+It is shown that the asymptotic stability of positive 2D linear systems with delays is independent of the number and values of the delays and it depends only on the sum of the system matrices, and that the checking of the asymptotic stability of positive 2D linear systems with delays can be reduced to testing that of the corresponding positive 1D systems without delays. The effectiveness of the proposed approaches is demonstrated on numerical examples.
+2D systems, systems with delays, asymptotic stability, positive systems</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-009-0021-7">10.2478/v10006-009-0021-7</a>

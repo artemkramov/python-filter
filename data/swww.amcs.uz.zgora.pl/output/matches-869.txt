@@ -1,0 +1,6 @@
+﻿2 - June 2010
+20 - 2010
+Numerical solutions to integral equations equivalent to differential equations with fractional time
+Bartosz Bandrowski, Anna Karczewska, Piotr Rozmej
+This paper presents an approximate method of solving the fractional (in the time variable) equation which describes the processes lying between heat and wave behavior. The approximation consists in the application of a finite subspace of an infinite basis in the time variable (Galerkin method) and discretization in space variables. In the final step, a large-scale system of linear equations with a non-symmetric matrix is solved with the use of the iterative GMRES method.
+fractional equations, Galerkin method, anomalous diffusion</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-010-0019-1">10.2478/v10006-010-0019-1</a>

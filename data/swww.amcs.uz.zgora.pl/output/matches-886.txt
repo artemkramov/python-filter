@@ -1,0 +1,6 @@
+﻿3 - September 2010
+20 - 2010
+Supervisory predictive control and on-line set-point optimization
+Piotr Tatjewski
+The subject of this paper is to discuss selected effective known and novel structures for advanced process control and optimization. The role and techniques of model-based predictive control (MPC) in a supervisory (advanced) control layer are first shortly discussed. The emphasis is put on algorithm efficiency for nonlinear processes and on treating uncertainty in process models, with two solutions presented: the structure of nonlinear prediction and successive linearizations for nonlinear control, and a novel algorithm based on fast model selection to cope with process uncertainty. Issues of cooperation between MPC algorithms and on-line steady-state set-point optimization are next discussed, including integrated approaches. Finally, a recently developed two-purpose supervisory predictive set-point optimizer is discussed, designed to perform simultaneously two goals: economic optimization and constraints handling for the underlying unconstrained direct controllers.
+predictive control, nonlinear control, linearization, model uncertainty, constrained control, set-point optimization</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-010-0035-1">10.2478/v10006-010-0035-1</a>

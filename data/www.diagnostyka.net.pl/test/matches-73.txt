@@ -1,0 +1,15 @@
+﻿Assessment-of-negative-effects-of-a-coach-running-with-the-wheel-flat-on-a-track,76186
+3-2017,2581">3/2017 vol. 18
+A-discrete-model-for-nonlinear-vibrations-of-a-simply-supported-cracked-beams-resting,74442,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/Anomaly-detection-in-a-cutting-tool-by-K-Means-clustering-and-Support-Vector-Machines,75479,0,2.html" title="PREVIOUS
+Assessment of negative effects of a coach running with the wheel-flat on a track by means of simulation computations
+Ján-Dižo/35261">Ján Dižo
+null
+jan.dizo@fstroj.uniza.sk
+>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Miroslav-Blatnický/35262">Miroslav Blatnický</a></span><sup>1</sup>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Stasys-Steišūnas/64605">Stasys Steišūnas</a></span><sup>2</sup
+University of Žilina, Faculty of Mechanical Engineering</span></div></td></tr><tr><td>2</td><td><div><span>Vilnius Gediminas Technical University, Faculty of Transport Engineering
+Publish date: 2017-09-25</div><div>Submission date: 2017-06-08</div><div>Acceptance date: 2017-08-01
+7;18(3):31–37
+76186-17641?filename=Assessment of negative
+coach/122259">coach<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-wheel-flat/122260">wheel-flat<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-simulation+computations/122261">simulation computations
+dynamic+analysis/122262">dynamic analysis</a><div>&nbsp;</div></div><div>TOPICS:</div><div><a href="http://www.diagnostyka.net.pl/Topic-Diagnosis+vehicle/3946">Diagnosis vehicle<div></div></a><a href="http://www.diagnostyka.net.pl/Topic-Signal+analysis/3949">Signal analysis
+The objective of this paper is focused on the computer modelling and dynamic simulation of a coach with damaged wheel and the assessment of these negative effects on a track. The article is composed of two parts. Firstly, problems about the operation of rolling stocks with damaged wheels are described. There are also mentioned diagnostic systems installed on a track for detection and assessment their negative impacts on a track. The second part of the article is dedicated to computer modelling of a coach running on a railway track with the damaged wheel, in this case with the wheel-flat. For these purposes the virtual model of a coach were created. After simulations of its running there were performed analyses needed for the evaluation of its negative impacts on a railway track.</div><div>CORRESPONDING AUTHOR:</div><a href="http://www.diagnostyka.net.pl/Author-Ján-Dižo/35261">Ján Dižo</a>&nbsp;&nbsp;<a href="mailto:jan.dizo@fstroj.uniza.sk"><div></div></a><div>University of Žilina, Faculty of Mechanical Engineering, Univerzitná 8215/1, 010 26 Žilina, Slovak Republic

@@ -1,0 +1,6 @@
+﻿2 - June 2003
+13 - 2003
+Comparison of the stability boundary and the frequency response stability condition in learning and repetitive control
+Szathys Songschon, Richard W. Longman
+In iterative learning control (ILC) and in repetitive control (RC) one is interested in convergence to zero tracking error as the repetitions of the command or the periods in the command progress. A condition based on steady state frequency response modeling is often used, but it does not represent the true stability boundary for convergence. In this paper we show how this useful condition differs from the true stability boundary in ILC and RC, and show that in applications of RC the distinction between these conditions is of no practical significance. In ILC satisfying this frequency condition is important for good learning transients, even though the true stability boundary is very different.
+iterative learning control, repetitive control, stability, monotonic convergence

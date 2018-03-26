@@ -1,0 +1,6 @@
+﻿1 - March 2014
+24 - 2014
+Approximation of phenol concentration using novel hybrid computational intelligence methods
+Paweł Pławiak, Ryszard Tadeusiewicz
+This paper presents two innovative evolutionary-neural systems based on feed-forward and recurrent neural networks used for quantitative analysis. These systems have been applied for approximation of phenol concentration. Their performance was compared against the conventional methods of artificial intelligence (artificial neural networks, fuzzy logic and genetic algorithms). The proposed systems are a combination of data preprocessing methods, genetic algorithms and the Levenberg–Marquardt (LM) algorithm used for learning feed forward and recurrent neural networks. The initial weights and biases of neural networks chosen by the use of a genetic algorithm are then tuned with an LM algorithm. The evaluation is made on the basis of accuracy and complexity criteria. The main advantage of proposed systems is the elimination of random selection of the network weights and biases, resulting in increased efficiency of the systems.
+soft computing, neural networks, genetic algorithms, fuzzy systems, evolutionary-neural systems, pattern recognition, chemometrics</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0013">10.2478/amcs-2014-0013</a>

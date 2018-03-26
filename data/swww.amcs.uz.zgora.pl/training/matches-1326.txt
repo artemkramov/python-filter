@@ -1,0 +1,6 @@
+﻿2 - June 2002
+12 - 2002
+Parallel dynamic programming algorithms: Multitransputer systems
+Jan Sadecki
+The present paper discusses real parallel computations. On the basis of a selected group of dynamic programming algorithms, a number of factors affecting the efficiency of parallel computations such as, e.g., the way of distributing tasks, the interconnection structure between particular elements of the parallel system or the way of organizing of interprocessor communication are analyzed. Computations were implemented in the parallel multitransputer SUPER NODE 1000 system using from 5 to 50 transputers.
+dynamic programming, parallel computations, transputers, multitransputer systems, parallel optimization algorithms

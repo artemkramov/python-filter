@@ -1,0 +1,6 @@
+﻿3 - September 1999
+9 - 1999
+Neural network evaluation of model-based residuals in fault detection of time delay systems
+Pavel Zítek, Renata Mánková, Jaroslav Hlava
+Model-based fault detection becomes rather questionable if a supervised plant belongs to the class of systems with distributed parameters and significant delays. Two methods of fault detection have been developed for this class of plants, namely a method of functional (anisochronic) state observer and a modified internal model control scheme adopted for that purpose. Both these model schemes are employed to generate residuals, i.e. differences suitable to watch whether a malfunction of the control operation has occurred. Continuous evaluation of residuals is provided by means of a dynamic application of artificial neural networks (ANNs). This evaluation is carried out on the basis of prediction of time series evolution, where the accordance obtained between the prediction and measured outputs is used as a classification criterion. Implementation of both the methods is demonstrated on a laboratory-scale heat transfer set-up, making use of the Real-Time Matlab software.
+model-based fault detection, anisochronic model, state observer, internal model control, artificial neural networks

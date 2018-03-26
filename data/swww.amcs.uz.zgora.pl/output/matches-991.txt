@@ -1,0 +1,6 @@
+﻿2 - June 2008
+18 - 2008
+A new approach to image reconstruction from projections using a recurrent neural network
+Robert Cierniak
+A new neural network approach to image reconstruction from projections considering the parallel geometry of the scanner is presented. To solve this key problem in computed tomography, a special recurrent neural network is proposed. The reconstruction process is performed during the minimization of the energy function in this network. The performed computer simulations show that the neural network reconstruction algorithm designed to work in this way outperforms conventional methods in the obtained image quality.
+image reconstruction from projections, neural networks, recurrent net</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0014-y">10.2478/v10006-008-0014-y</a>

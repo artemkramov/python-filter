@@ -1,0 +1,6 @@
+﻿4 - December 2002
+12 - 2002
+Reliability design of complex systems by minimizing the lifetime variance
+Ewa Łobos, Michał Momot
+The problem considered in this paper is the minimization of the lifetime variance of a complex system subject to its expected life and economic constraints. The example of a bridge network, in which all elements have constant failure rates, illustrates the problem. A numerical algorithm for solving this optimization problem by using exact formulae for system lifetime moments is included. Using this algorithm, we can obtain results better than the solutions known from earlier papers.
+reliability, constant failure rate, redundancy

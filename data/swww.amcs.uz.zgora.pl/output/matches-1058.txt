@@ -1,0 +1,6 @@
+﻿2 - June 2007
+17 - 2007
+Selected multicriteria shortest path problems: An analysis of complexity, models and adaptation of standard algorithms
+Zbigniew Tarapata
+The paper presents selected multicriteria (multiobjective) approaches to shortest path problems. A classification of multiobjective shortest path (MOSP) problems is given. Different models of MOSP problems are discussed in detail. Methods of solving the formulated optimization problems are presented. An analysis of the complexity of the presented methods and ways of adapting of classical algorithms for solving multiobjective shortest path problems are described. A comparison of the effectiveness of solving selected MOSP problems defined as mathematical programming problems (using the CPLEX 7.0 solver) and multi-weighted graph problems (using modified Dijkstra's algorithm) is given. Experimental results of using the presented methods for multicriteria path selection in a terrain-based grid network are given.
+multiobjective shortest path, stochastic shortest path, algorithm complexity, routing problem, terrain-based</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0023-2">10.2478/v10006-007-0023-2</a>

@@ -1,0 +1,6 @@
+﻿4 - December 1998
+8 - 1998
+Contribution plots: A missing link in multivariate quality control
+Paige Miller, Ronald E. Swanson, Charles E. Heckler
+Most multivariate quality control techniques involve plotting and analysis of a set of surrogate variables, such as T2, scores and residuals. The number of these surrogate variables can be considerably smaller than the number of original variables. However, it is often difficult to determine the source of a problem when the process is identified as being out of control by one of the surrogate variables. We have called this difficulty the "missing link" in multivariate quality control. In this article, contributions and contribution plots are introduced as a simple method to correct this problem and enhance the interpretation of the multivariate results, exploration of data and identification of special causes.
+-

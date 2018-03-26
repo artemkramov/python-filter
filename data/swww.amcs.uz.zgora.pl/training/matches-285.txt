@@ -1,0 +1,6 @@
+﻿2 - June 1995
+5 - 1995
+Smooth feedback posture stabilization of a class of mobile robots
+Guy Campion, Georges Bastin, Robert E. Mahony
+The problem of smooth state feedback posture stabilization of the posture kinematic models of a class of restricted mobility robots is addressed. Three techniques are presented: the first two methods (output linearization and Lyapunov design) ensure the posture stabilization with internal stability of the system while the third one (time-varying smooth state feedback) ensures the stabilization of the full state.
+-

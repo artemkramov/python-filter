@@ -1,0 +1,6 @@
+﻿1 - March 1998
+8 - 1998
+Unit sliding mode control in infinite dimensional systems
+Yuri Orlov, Vadim I. Utkin
+In contrast to the conventional component-wise design of sliding mode control, a new approach is developed for infinite-dimensional systems. The conventional approach is not applicable since, generally speaking, the infinite-dimensional control may not be represented in the component form as well as a sliding manifold. The concept of "unit control", previously introduced for finite-dimensional systems, does not depend on the dimension of control and is generalized for the dynamic processes governed by differential equations in Banach and Hilbert spaces. The design methods for heat and mechanical distributed processes are given.
+-

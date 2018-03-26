@@ -1,0 +1,6 @@
+﻿4 - December 1994
+4 - 1994
+Strategic sensors and spy sensors
+Larbi Afifi, Abdelhaq El Jai
+The purpose of this paper is to give general results on regional observation and regional detection of distributed systems. This leads to the so called strategic sensors and spy sensors. Characterizations of such sensors are also given as well as the relationship between these two notions. The scanning sensor case and the minimum time detection problem are also examined. Various examples illustrate the different results and an application to a bidimensional diffusion system is given.
+-

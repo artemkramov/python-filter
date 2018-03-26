@@ -1,0 +1,6 @@
+﻿2 - June 2012
+22 - 2012
+Neuro-rough-fuzzy approach for regression modelling from missing data
+Krzysztof Simiński
+Real life data sets often suffer from missing data. The neuro-rough-fuzzy systems proposed hitherto often cannot handle such situations. The paper presents a neuro-fuzzy system for data sets with missing values. The proposed solution is a complete neuro-fuzzy system. The system creates a rough fuzzy model from presented data (both full and with missing values) and is able to elaborate the answer for full and missing data examples. The paper also describes the dedicated clustering algorithm. The paper is accompanied by results of numerical experiments.
+neuro-fuzzy, ANNBFIS, missing values, marginalisation, imputation, rough fuzzy set, clustering</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0035-4">10.2478/v10006-012-0035-4</a>

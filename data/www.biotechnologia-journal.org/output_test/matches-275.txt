@@ -1,0 +1,6 @@
+a>View full text</a
+Egetenmeyer S, Geiger E, Richert C. RESEARCH PAPER&lt;br&gt;Segmented hybridization probes: modulating target affinity and base pairing selectivity. BioTechnologia. 2014;93(3):309-317. doi:10.5114/bta.2012.46585
+Egetenmeyer, S., Geiger, E., &amp; Richert, C. (2014). RESEARCH PAPER&lt;br&gt;Segmented hybridization probes: modulating target affinity and base pairing selectivity. BioTechnologia, 93(3), 309-317. https://doi.org/10.5114/bta.2012.46585
+Egetenmeyer, Simone, Elena Geiger, and Clemens Richert. 2014. "RESEARCH PAPER&lt;br&gt;Segmented hybridization probes: modulating target affinity and base pairing selectivity". BioTechnologia 93 (3): 309-317. doi:10.5114/bta.2012.46585
+Egetenmeyer, S., Geiger, E., and Richert, C. (2014). RESEARCH PAPER&lt;br&gt;Segmented hybridization probes: modulating target affinity and base pairing selectivity. BioTechnologia, 93(3), pp.309-317. https://doi.org/10.5114/bta.2012.46585
+Egetenmeyer, Simone et al. "RESEARCH PAPER&lt;br&gt;Segmented hybridization probes: modulating target affinity and base pairing selectivity." BioTechnologia, vol. 93, no. 3, 2014, pp. 309-317. doi:10.5114/bta.2012.46585

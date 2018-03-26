@@ -1,0 +1,6 @@
+﻿1 - March 2002
+12 - 2002
+A nonlinear model of a turbine blade by asymptotic analysis
+José M. Rodrí­guez
+In this paper we obtain a limit model for a turbine blade fixed to a 3D solid. This model is a three-dimensional linear elasticity problem in the 3D part of the piece (the rotor) and a two-dimensional problem (the nonlinear shallow shell equations) in the 2D part (the turbine blade), with junction conditions in the part of the turbine blade fixed to the rotor. To obtain this model, we perform an asymptotic analysis, starting with the nonlinear three-dimensional elasticity equations on all the pieces and taking as a small parameter the thickness of the blade.
+asymptotic analysis, nonlinear elasticity, junctions, shallow shells, multistructures

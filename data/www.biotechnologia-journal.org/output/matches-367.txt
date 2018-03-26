@@ -1,0 +1,17 @@
+﻿2/2011
+2
+REVIEW-PAPER-Obesity-and-iron-metabolism,85,23862,0
+abstract:
+REVIEW PAPER<br>Obesity and iron metabolism
+h3>Ewa Żekanowska, Joanna Boinska, Paulina Giemza-Kucharska, Justyna Kwapisz</h3><div>BioTechnologia vol. 92(2) C pp. 147-152 C 2011
+1.46528">https://doi.org/10.5114/bta.2011.46528
+a>View full text</a
+23862
+Żekanowska E, Boinska J, Giemza-Kucharska P, Kwapisz J. REVIEW PAPER&lt;br&gt;Obesity and iron metabolism. BioTechnologia. 2014;92(2):147-152. doi:10.5114/bta.2011.46528
+Żekanowska, E., Boinska, J., Giemza-Kucharska, P., &amp; Kwapisz, J. (2014). REVIEW PAPER&lt;br&gt;Obesity and iron metabolism. BioTechnologia, 92(2), 147-152. https://doi.org/10.5114/bta.2011.46528
+Żekanowska, Ewa, Joanna Boinska, Paulina Giemza-Kucharska, and Justyna Kwapisz. 2014. "REVIEW PAPER&lt;br&gt;Obesity and iron metabolism". BioTechnologia 92 (2): 147-152. doi:10.5114/bta.2011.46528
+Żekanowska, E., Boinska, J., Giemza-Kucharska, P., and Kwapisz, J. (2014). REVIEW PAPER&lt;br&gt;Obesity and iron metabolism. BioTechnologia, 92(2), pp.147-152. https://doi.org/10.5114/bta.2011.46528
+Żekanowska, Ewa et al. "REVIEW PAPER&lt;br&gt;Obesity and iron metabolism." BioTechnologia, vol. 92, no. 2, 2014, pp. 147-152. doi:10.5114/bta.2011.46528
+/div><div>Obesity and overweight have become a global problem affecting not only high income countries but also developing<br><br>countries. According to the World Health Organization (WHO) more than 1 billion adults are overweight and<br><br>at least 300 million of them are obese. Experimental and clinical studies indicate that there is a relationship between<br><br>iron metabolism and weight status. Iron deficiency is significantly more prevalent among obese individuals<br><br>compared to non-obese ones. Adipose tissue produces many pro-inflammatory cytokines (interleukin-1, interleukin-<br><br>6, tumor necrosis factor-α) and adipokines (leptin, adiponectin, resistin) that influence iron homeostasis.<br><br>According to recent studies, hepcidin, the main regulator of iron metabolism, can also be synthesized by the adipocytes.<br><br>Development of iron deficiency among obese and overweight children has potentially harmful effects,<br><br>which can lead to behavioral and learning problems as well as lowered resistance to infections. For this reason,<br><br>screening for iron status among children with elevated BMI should be recommended.<
+null
+keywords:</div><h3>obesity, iron metabolism, hepcidin</h3

@@ -1,0 +1,6 @@
+﻿3 - September 2002
+12 - 2002
+Imposing restrictions on density functions utilised in computing with words
+Marcus Gemeinder
+Applying the generalised extension principle within the area of Computing with Words typically leads to complex maximization problems. If distributed quantities - such as, e.g., size distributions within human populations - are considered, density functions representing these distributions become involved. Very often the optimising density functions do not resemble those found in nature; for instance, an optimising density function could consist of two single Dirac pulses positioned near the opposite bounds of the interval limiting the possible values of the quantity considered. Therefore, in this article, density functions with certain shapes which enable us to overcome this lack of resemblance are considered. Furthermore, some considerations on solving the resulting maximisation problems are reported.
+computing with words, approximate reasoning, generalised extension principle, resemblance

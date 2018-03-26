@@ -1,0 +1,6 @@
+﻿2 - June 1994
+4 - 1994
+A model of cell growth and possibilities of tumour treatment by selective protein depletion
+Slobodan Tepic, Paweł Pyk
+A simple model of a self-enlarging synthesizing unit with the growth-limiting assumptions on precursor transport losses and product turnover is used as a prototype dynamic system for a cell growth model. The model successfully describes the main features of cell growth and allows for a rational discussion of the cell cycle. The cell is viewed as a non-linear capacitance damped by transport losses. If transformation results in a fundamental dynamic difference in growth parameters of the cell, an intriguing possibility exists that a mixed pool of normal and transformed cells connected to a common source of nutrients may constitute a point-wise controllable system. Most of the cell mass is protein, the building blocks are amino acids and the systemic concentration of one of the essential acids is proposed as the control input. A rather simple strategy of control capitalizes on the presumed difference in the cycle dynamics and suggests a possibility for a selective protein depletion of transformed cells based on what underscores the very danger of tumours – their propensity to grow and proliferate under conditions in which normal cells would not do so.
+-

@@ -1,0 +1,6 @@
+﻿4 - December 2006
+16 - 2006
+Pipelined architectures for the frequency domain linear equalizer
+George-Othon Glentis, Kristina Georgoulakis
+In this paper, novel pipelined architectures for the implementation of the frequency domain linear equalizer are presented. The Frequency Domain (FD) LMS algorithm is utilized for the adaptation of equalizer coefficients. The pipelining of the FD LMS linear equalizer is achieved by introducing an amount of time delay into the original adaptive scheme, and following proper delay retiming. Simulation results are presented that illustrate the performance of the effect of the time delay introduced into the adaptation algorithm. The proposed architectures for efficient pipelining of the FD LMS linear equalization algorithm are suitable for implementation on special purpose hardware by means of the ASIC, ASIP or FPGA VLSI processors.
+adaptive equalization, frequency domain LMS, pipelined implementation

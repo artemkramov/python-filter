@@ -1,0 +1,6 @@
+﻿3 - September 2006
+16 - 2006
+Analysis of some dual properties in discrete dynamic systems
+Aleksey Zhirabok
+The problem of duality in nonlinear and linear systems is considered. In addition to the known duality between controllability and observability, new dual notions and their properties are investigated. A way to refine these properties through an isomorphic transformation of the original systems is suggested.
+nonlinear and linear systems, algebraic approach, error correction, reachability, duality

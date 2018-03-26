@@ -1,0 +1,6 @@
+Prediction of protein subcellular localization using support vector machine with the choice of proper kernel
+a>View full text</a
+Mehedi Hasan A, Ahmad S, Molla K. Prediction of protein subcellular localization using support vector machine with the choice of proper kernel. BioTechnologia. 2017;98(2):85-96. doi:10.5114/bta.2017.68307
+Mehedi Hasan, A., Ahmad, S., &amp; Molla, K. (2017). Prediction of protein subcellular localization using support vector machine with the choice of proper kernel. BioTechnologia, 98(2), 85-96. https://doi.org/10.5114/bta.2017.68307
+Mehedi Hasan, A., Ahmad, S., and Molla, K. (2017). Prediction of protein subcellular localization using support vector machine with the choice of proper kernel. BioTechnologia, 98(2), pp.85-96. https://doi.org/10.5114/bta.2017.68307
+Mehedi Hasan, Al et al. "Prediction of protein subcellular localization using support vector machine with the choice of proper kernel." BioTechnologia, vol. 98, no. 2, 2017, pp. 85-96. doi:10.5114/bta.2017.68307

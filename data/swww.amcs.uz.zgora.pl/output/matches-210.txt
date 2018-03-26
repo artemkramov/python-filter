@@ -1,0 +1,6 @@
+﻿3 - September 1997
+7 - 1997
+Towards similarities of interpretations of temporal logic formulae
+Radosław Klimek
+The paper deals with similarities of interpretations of temporal logic formulae. Two basic similarities are defined and some theorems towards these similarities are given. An application of similarities is presented based on the example of a typical car ferry. The analysis of the system employs the model checking method.
+-

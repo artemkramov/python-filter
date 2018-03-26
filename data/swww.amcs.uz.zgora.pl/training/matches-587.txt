@@ -1,0 +1,6 @@
+﻿3 - September 2014
+24 - 2014
+Analysis of an<em>M|G|1|R</em>queue with batch arrivals and two hysteretic overload control policies
+Yuliya Gaidamaka, Alexander Pechinkin, Rostislav Razumchik, Konstantin Samouylov, Eduard Sopin
+Hysteretic control of arrivals is one of the most easy-to-implement and effective solutions of overload problems occurring in SIP-servers. A mathematical model of an SIP server based on the queueing system<em>M<sup>[X]</sup>|G|1〈L,H〉|〈H,R〉</em>with batch arrivals and two hysteretic loops is being analyzed. This paper proposes two analytical methods for studying performance characteristics related to the number of customers in the system. Two control policies defined by instants when it is decided to change the system’s mode are considered. The expression for an important performance characteristic of each policy (the mean time between changes in the system mode) is presented. Numerical examples that allow comparison of the efficiency of both policies are given.
+queueing system, batch arrival, general service time, overload, hysteretic load control</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0038">10.2478/amcs-2014-0038</a>

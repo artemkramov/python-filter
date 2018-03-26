@@ -1,0 +1,6 @@
+﻿4 - December 1998
+8 - 1998
+The implicit daisy-chaining property of constrained predictive control
+Jan M. Maciejowski
+Systems with redundant control actuators are sometimes arranged so that a new actuator comes into play if the one normally used becomes saturated. We call this 'daisy-chaining.' Such an arrangement also provides a degree of fault-tolerance against actuator failures. This paper points out that a similar property is implicit in constrained predictive control, as it is usually formulated. Predictive control therefore has a degree of implicit fault-tolerance. In order to obtain this property the predictive control must have explicit constraints on the input levels (actuator positions) and the usual disturbance model, which results in integral action arising in the controller. The general considerations dealt with in the paper are illustrated by a simplified example, based on the liquefaction of natural gas.
+-

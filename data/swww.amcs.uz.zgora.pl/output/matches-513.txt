@@ -1,0 +1,6 @@
+﻿3 - September 2015
+25 - 2015
+Analysis of the descriptor Roesser model with the use of the Drazin inverse
+Tadeusz Kaczorek
+A method of analysis for a class of descriptor 2D discrete-time linear systems described by the Roesser model with a regular pencil is proposed. The method is based on the transformation of the model to a special form with the use of elementary row and column operations and on the application of a Drazin inverse of matrices to handle the model. The method is illustrated with a numerical example.
+Drazin inverse, descriptor, Roesser model, descriptor-time, 2D linear system</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2015-0040">10.1515/amcs-2015-0040</a>

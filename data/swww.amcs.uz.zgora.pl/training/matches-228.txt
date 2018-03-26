@@ -1,0 +1,6 @@
+﻿1 - March 1996
+6 - 1996
+Discretization chaos: Variable structure systems with finite switching values
+Xing H. Yu
+Discretization chaos in a class of variable structure control systems with finite switching values is discussed in this paper. It is shown that for the linear oscillatory systems with a certain Class of sampling periods, discretized variable structure control enables periodic motions whose periods can be determined. The patterns of behaviours of the discretized system vary depending upon initial conditions as well as sampling periods. Simulation results are presented to show various behaviours.
+-

@@ -1,0 +1,15 @@
+﻿Elastic-wave-propagation-in-diagnostics-of-self-drilling-system-of-grouted-anchors,71559
+2-2017,2313">2/2017 vol. 18
+High-and-medium-speed-marine-diesel-engines-injection-installation-vibration-diagnostics,73793,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/Pipeline-stress-analysis-under-supporting-structure-vibrations,74209,0,2.html" title="PREVIOUS
+Elastic wave propagation in diagnostics of self-drilling system of grouted anchors
+Beata-Zima/37814">Beata Zima</a></span><sup>1</sup>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Magdalena-Rucka/35064">Magdalena Rucka
+null
+mrucka@pg.gda.pl
+Politechnika Gdańska
+Publish date: 2017-06-21</div><div>Submission date: 2017-03-09</div><div>Acceptance date: 2017-05-11
+7;18(2):31–36
+71559-17655?filename=Elastic wave propagation
+self-drilling+system/108128">self-drilling system<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-grouted+anchor/108129">grouted anchor<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-elastic+wave+propagation/108130">elastic wave propagation
+non-destructive+diagnostics/65838">non-destructive diagnostics</a><div>&nbsp;</div></div><div>TOPICS:</div><div><a href="http://www.diagnostyka.net.pl/Topic-Diagnostics+of+buildings/3945">Diagnostics of buildings
+The paper presents an experimental investigation of elastic wave propagation in a self-drilling hollow bar system, which is commonly used in geotechnical industry as the element of grouted ground anchors and soil nails. The single self-drilling hollow bar and self-drilling system of two bars connected by a coupler were considered. Longitudinal waves were excited at one end of the bar and registered at both ends, by means of PZT plate transducers. Additionally, in the case of connected bars, the transducer was also located at the coupler. The main aim of the study was to analyse the wave attenuation because of discontinuities in the form of mounting connections occurring along the bar length. The differences in wave propagation signals registered at single bar and the system of two bars were indicated and discussed.</div><div>CORRESPONDING AUTHOR:</div><a href="http://www.diagnostyka.net.pl/Author-Magdalena-Rucka/35064">Magdalena Rucka</a>&nbsp;&nbsp;<a href="mailto:mrucka@pg.gda.pl"><div></div></a><div>Politechnika Gdańska, ul. Narutowicza 11/12, 80-233 Gdańsk, Polska
+></div></div><div><div><div></div>Related articles</div><div><div><a href="http://www.diagnostyka.net.pl/Application-of-GPR-method-in-diagnostics-of-reinforced-concrete-structures,81455,0,2.html">Application of GPR method in diagnostics of reinforced concrete structures</a></div><div><a href="http://www.diagnostyka.net.pl/Application-of-GPR-method-in-diagnostics-of-reinforced-concrete-structures,81385,0,2.html">Application of GPR method in diagnostics of reinforced concrete structures</a></div><div><a href="http://www.diagnostyka.net.pl/Detection-of-debonding-in-steel-bars-embedded-in-concrete-using-guided-wave-propagation,63670,0,2.html">Detection of debonding in steel bars embedded in concrete using guided wave propagation</a></div

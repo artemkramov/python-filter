@@ -1,0 +1,6 @@
+﻿2 - June 2004
+14 - 2004
+Ternary wavelets and their applications to signal compression
+Ghulam Mustafa, Falai Chen, Zhangjin Huang
+We introduce ternary wavelets, based on an interpolating 4-point<em>C</em><sup>2</sup>ternary stationary subdivision scheme, for compressing fractal-like signals. These wavelets are tightly squeezed and therefore they are more suitable for compressing fractal-like signals. The error in compressing fractal-like signals by ternary wavelets is at most half of that given by four-point wavelets (Wei and Chen, 2002). However, for compressing regular signals we further classify ternary wavelets into 'odd ternary' and 'even ternary' wavelets. Our odd ternary wavelets are better in part for compressing both regular and fractal-like signals than four-point wavelets. These ternary wavelets are locally supported, symmetric and stable. The analysis and synthesis algorithms have linear time complexity.
+subdivision, wavelets, multiresolution, signal compression

@@ -1,0 +1,6 @@
+﻿3 - September 1994
+4 - 1994
+Texture segmentation and classification using neural network technology
+Marijke F. Augusteijn
+Texture is an important characteristic used in the identification of objects and regions in images. Textured regions can be classified as belonging to one of a finite set of categories. This requires the supervised training of a classifier to associate the values of a set of texture features with the appropriate texture categories. Alternatively, an image can be segmented into regions showing the same texture without categorization. An unsupervised clustering technique is often used to group the feature vectors for this purpose. Neural networks can be used to achieve both the supervised texture classification as well as the unsupervised segmentation. The paper discusses how the cascade-correlation architecture can be used for both texture classification and segmentation. This supervised neural network architecture is shown to be capable to segment images containing textures not used for training the classifier. The usefulness of several texture representations is also investigated.
+-

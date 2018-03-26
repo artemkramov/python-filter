@@ -1,0 +1,6 @@
+﻿6 - December 2001
+11 - 2001
+Szegő's first limit theorem in terms of a realization of a continuous-time time-varying system
+Pablo A. Iglesias, Guoqiang Zang
+It is shown that the limit in an abstract version of Szegő's limit theorem can be expressed in terms of the antistable dynamics of the system. When the system dynamics are regular, it is shown that the limit equals the difference between the antistable Lyapunov exponents of the system and those of its inverse. In the general case, the elements of the dichotomy spectrum give lower and upper bounds.
+time-varying systems, exponential dichotomies, coprime, inner/outer factorizations

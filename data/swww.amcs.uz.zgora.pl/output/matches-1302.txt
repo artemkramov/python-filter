@@ -1,0 +1,6 @@
+﻿1 - March 2002
+12 - 2002
+Dynamic contact problems with velocity conditions
+Oanh Chau, Viorica Venera Motreanu
+We consider dynamic problems which describe frictional contact between a body and a foundation. The constitutive law is viscoelastic or elastic and the frictional contact is modelled by a general subdifferential condition on the velocity, including the normal damped responses. We derive weak formulations for the models and prove existence and uniqueness results. The proofs are based on the theory of second-order evolution variational inequalities. We show that the solutions of the viscoelastic problems converge to the solution of the corresponding elastic problem as the viscosity tensor tends to zero and when the frictional potential function converges to the corresponding function in the elastic problem.
+viscoelastic, elastic, subdifferential boundary condition, dynamic process, nonlinear hyperbolic variational inequality, maximal monotone operator, weak solution

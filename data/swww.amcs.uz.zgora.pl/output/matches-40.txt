@@ -1,0 +1,6 @@
+﻿2 - June 2000
+10 - 2000
+Relationship between energy and information
+Henryk Górecki
+Two ways of speed stabilization of the D.C. motor are considered. One way consists in the use of additional kinetic energy accumulated in a wheel with a large moment of inertia<em>J</em>. The other consists in the use of additional information supplied by a feedback loop with gain<em>K</em>. In both the cases the motor is under the influence of the same white Gaussion noise. These two ways of stabilization are compared under the assumption of the same value of the speed error in the steady state.
+entropy of information, energy, stabilization, D.C. motor, white noise

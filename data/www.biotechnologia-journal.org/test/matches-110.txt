@@ -1,0 +1,17 @@
+﻿4/2015
+6
+Changes-in-microbial-dehydrogenase-activity-and-pH-during-bioremediation-of-fuel-contaminated-soil,85,27082,0
+abstract:</div><div>RESEARCH PAPERS
+Changes in microbial dehydrogenase activity and pH during bioremediation of fuel contaminated soil
+h3>Dorota Wieczorek, Olga Marchut-Mikołajczyk, Tadeusz Antczak</h3><div>BioTechnologia vol. 96(4) C pp. 293-306 C 2015
+5.58377">https://doi.org/10.5114/bta.2015.58377
+a>View full text</a
+27082
+Wieczorek D, Marchut-Mikołajczyk O, Antczak T. Changes in microbial dehydrogenase activity and pH during bioremediation of fuel contaminated soil. BioTechnologia. 2016;96(4):293-306. doi:10.5114/bta.2015.58377
+Wieczorek, D., Marchut-Mikołajczyk, O., &amp; Antczak, T. (2016). Changes in microbial dehydrogenase activity and pH during bioremediation of fuel contaminated soil. BioTechnologia, 96(4), 293-306. https://doi.org/10.5114/bta.2015.58377
+Wieczorek, Dorota, Olga Marchut-Mikołajczyk, and Tadeusz Antczak. 2016. "Changes in microbial dehydrogenase activity and pH during bioremediation of fuel contaminated soil". BioTechnologia 96 (4): 293-306. doi:10.5114/bta.2015.58377
+Wieczorek, D., Marchut-Mikołajczyk, O., and Antczak, T. (2016). Changes in microbial dehydrogenase activity and pH during bioremediation of fuel contaminated soil. BioTechnologia, 96(4), pp.293-306. https://doi.org/10.5114/bta.2015.58377
+Wieczorek, Dorota et al. "Changes in microbial dehydrogenase activity and pH during bioremediation of fuel contaminated soil." BioTechnologia, vol. 96, no. 4, 2016, pp. 293-306. doi:10.5114/bta.2015.58377
+/div><div>Commercialization of biodiesel and its blends with diesel oil may lead to the appearance of spills during transport or the leakage of contaminated wastewater into soil. The impact of biodiesel, either pure or blended with diesel oil, on natural habitats has been poorly characterized. The goal of this study was to assess the potential of a bacterial strain,<i>Gordonia alkanivorans S7</i>, for remediation of soil contaminated with biodiesel, traditional fossil fuels or their blends (diesel oil, B20 diesel oil/biodiesel blends, P31 petroleum fraction). This was achieved by evaluating the changes in fuel concentration and the activity of extracellular microbial dehydrogenases in soil, as well as measuring the soil’s pH under controlled conditions. The removal of biodiesel from contaminated soil, in the event of its 4% initial concentration, was almost complete (99%), but in cases of higher concentrations (5% or 8% w/w) the efficiency of Fatty Acid Methyl Ester (FAME) degradation was 90% and 60%, respectively, after 90 days biodegradation. In soil samples contaminated with biodiesel, the activity of dehydrogenase was very low in the initial stage of the process (only 10 μmol triphenylformazan (TPF) per g of dry weight (g<sub>dw</sub><sup>-1</sup>) after 20h (TPF g<sub>dw</sub><sup>-1</sup>× 20 h<sup>-1</sup>) and dropped to 0 after 6 weeks. In soil contaminated with other fuels (diesel oil, B20), the activities of dehydrogenase were higher and reached 40-46 μmol TPF g<sub>dw</sub><sup>-1</sup>× 20 h<sup>-1</sup>. The pH of soil contaminated with biodiesel decreased from 6.7 down to 4.9 within 9 weeks. The results of this study demonstrate that the presence of intermediate metabolites of biodiesel degradation may cause significant changes in the environmental conditions and negatively influence the microorganisms present in the environment.<
+null
+keywords:</div><h3>bacteria, biodiesel, bioremediation, dehydrogenase, fuel, soil</h3

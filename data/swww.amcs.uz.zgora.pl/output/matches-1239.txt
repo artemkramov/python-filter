@@ -1,0 +1,6 @@
+﻿4 - December 2004
+14 - 2004
+Convergence of the Lagrange-Newton method for optimal control problems
+Kazimierz D. Malanowski
+Convergence results for two Lagrange-Newton-type methods of solving optimal control problems are presented. It is shown how the methods can be applied to a class of optimal control problems for nonlinear ODEs, subject to mixed control-state constraints. The first method reduces to an SQP algorithm. It does not require any information on the structure of the optimal solution. The other one is the shooting method, where information on the structure of the optimal solution is exploited. In each case, conditions for well-posedness and local quadratic convergence are given. The scope of applicability is briefly discussed.
+optimal control, nonlinear ODEs, mixed constraints, Lagrange-Newton method

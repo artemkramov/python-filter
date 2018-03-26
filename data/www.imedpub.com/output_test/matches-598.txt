@@ -1,4 +1,3 @@
 ﻿Some Results of Intuitionistic Fuzzy Soft Matrix Theory
 The concept of soft set is one of the recent topics developed for dealing with the uncertainties present in most of our real life situations. The parametrization tool of soft set theory enhance the flexibility of its applications. In this paper, we define intuitionistic fuzzy soft matrices and their operations which are more functional to make theoretical studies in the intuitionistic fuzzy soft set theory. We also define five types of products and some results are established.
 B. Chetia and P. K. Das
-some-results-of-intuitionistic-fuzzy-soft-matrix-theory.pdf" title="Some Results of Intuitionistic Fuzzy Soft Matrix Theory

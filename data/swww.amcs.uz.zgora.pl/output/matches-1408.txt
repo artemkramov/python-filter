@@ -1,0 +1,6 @@
+﻿4 - October 2001
+11 - 2001
+Approximation of a solidification problem
+Rajae Aboulaїch, Ilham Haggouch, Ali Souissi
+A two-dimensional Stefan problem is usually introduced as a model of solidification, melting or sublimation phenomena. The two-phase Stefan problem has been studied as a direct problem, where the free boundary separating the two regions is eliminated using a variational inequality (Baiocchi, 1977; Baiocchi et al., 1973; Rodrigues, 1980; Saguez, 1980; Srunk and Friedman, 1994), the enthalpy function (Ciavaldini, 1972; Lions, 1969; Nochetto et al., 1991; Saguez, 1980), or a control problem (El Bagdouri, 1987; Peneau, 1995; Saguez, 1980). In the present work, we provide a new formulation leading to a shape optimization problem. For a semidiscretization in time, we consider an Euler scheme. Under some restrictions related to stability conditions, we prove an<em>L<sup>2</sup></em>-rate of convergence of order 1 for the temperature. In the last part, we study the existence of an optimal shape, compute the shape gradient, and suggest a numerical algorithm to approximate the free boundary. The numerical results obtained show that this method is more effcient compared with the others.
+Stefan problem, free boundary, shape optimization, Euler method, finite-element method

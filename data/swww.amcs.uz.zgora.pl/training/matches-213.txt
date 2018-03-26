@@ -1,0 +1,6 @@
+﻿4 - December 1997
+7 - 1997
+Control systems theory for linear repetitive processes – recent progress and open research problems
+Eric Rogers, Krzysztof Gałkowski, David H. Owens
+The unique feature of a repetitive process is a series of sweeps, termed passes, through a set of dynamics defined over a finite duration known as the pass length. On each pass an output, termed the pass profile, is produced which acts as a forcing function on, and hence contributes to, the next pass profile. This, in turn, is the source of the unique control problem for these processes in that the output sequence of pass profiles can contain oscillations that increase in amplitude in the pass to pass direction. It has long been recognised that this general problem cannot be removed by standard control action and hence the need for a rigorous control theory for these processes which are of both theoretical and applications interest. This paper critically reviews progress to date and identifies a number of key areas for short to medium term further research/ development work.
+-

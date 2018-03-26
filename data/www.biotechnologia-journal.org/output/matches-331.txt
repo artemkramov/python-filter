@@ -1,0 +1,17 @@
+﻿4/2011
+2
+REVIEW-PAPER-Structure-and-functions-of-lampbrush-chromosomes,85,23882,0
+abstract:
+REVIEW PAPER<br>Structure and functions of lampbrush chromosomes
+h3>Katarzyna Andraszek, Elżbieta Smalec</h3><div>BioTechnologia vol. 92(4) C pp. 337-344 C 2011
+1.46550">https://doi.org/10.5114/bta.2011.46550
+a>View full text</a
+23882
+Andraszek K, Smalec E. REVIEW PAPER&lt;br&gt;Structure and functions of lampbrush chromosomes. BioTechnologia. 2014;92(4):337-344. doi:10.5114/bta.2011.46550
+Andraszek, K., &amp; Smalec, E. (2014). REVIEW PAPER&lt;br&gt;Structure and functions of lampbrush chromosomes. BioTechnologia, 92(4), 337-344. https://doi.org/10.5114/bta.2011.46550
+Andraszek, Katarzyna, and Elżbieta Smalec. 2014. "REVIEW PAPER&lt;br&gt;Structure and functions of lampbrush chromosomes". BioTechnologia 92 (4): 337-344. doi:10.5114/bta.2011.46550
+Andraszek, K., and Smalec, E. (2014). REVIEW PAPER&lt;br&gt;Structure and functions of lampbrush chromosomes. BioTechnologia, 92(4), pp.337-344. https://doi.org/10.5114/bta.2011.46550
+Andraszek, Katarzyna et al. "REVIEW PAPER&lt;br&gt;Structure and functions of lampbrush chromosomes." BioTechnologia, vol. 92, no. 4, 2014, pp. 337-344. doi:10.5114/bta.2011.46550
+/div><div>Lampbrush Chromosomes (LBCs) are present in the oocytes of birds, lower vertebrata and invertebrates during<br><br>the prolonged prophase of the first meiotic division. Their name stems from their similarity to bottle brushes.<br><br>Lampbrush chromosome of the early prophase is a bivalent, made up of two conjugating homologues. The axis<br><br>of each homologous chromosome is formed by sister chromatids that are differentiated into regions of transcriptionally<br><br>active and inactive chromatin. Transcription activity of LBCs is observed as a mantle of symmetrically<br><br>distributed side loops along the chromosome axis. Changes in transcriptional activity are reflected in changes in<br><br>their morphology. Transcriptional activity of LBCs is directly connected with physiological processes of the body<br><br>and shows in the morphological structure of the chromosomes. The use of cytogenetic techniques and in situ<br><br>hybridization have made it possible to identify unique and repeating sequences as well as DNA replication proteins<br><br>in LBCs. Particularly, interesting prospects are offered by the possibility of using LBCs in studies of transcriptional<br><br>activity, cytogenetic investigations of karyotype evolution and genome mapping.<
+null
+keywords:</div><h3>meiotic chromosome, lampbrush chromosome, transcription</h3

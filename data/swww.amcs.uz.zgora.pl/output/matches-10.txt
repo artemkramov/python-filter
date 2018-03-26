@@ -1,0 +1,6 @@
+﻿6 - December 2001
+11 - 2001
+Reduced order controllers for Burgers' equation with a nonlinear observer
+Jeanne A. Atwell, Jeffrey T. Borggaard, Belinda B. King
+A method for reducing controllers for systems described by partial differential equations (PDEs) is applied to Burgers' equation with periodic boundary conditions. This approach differs from the typical approach of reducing the model and then designing the controller, and has developed over the past several years into its current form. In earlier work it was shown that functional gains for the feedback control law served well as a dataset for reduced order basis generation via the proper orthogonal decomposition (POD). However, the test problem was the two-dimensional heat equation, a problem in which the physics dominates the system in such a way that controller efficacy is difficult to generalize. Here, we additionally incorporate a nonlinear observer by including the nonlinear terms of the state equation in the differential equation for the compensator.
+Burgers' equation, reduced order controllers, proper orthogonal decomposition, minmax control design, stabilized finite elements

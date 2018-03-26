@@ -1,0 +1,6 @@
+﻿1 - December 1991
+1 - 1991
+Numerical method of construction the quadratic discrimination criterion minimizing the maximum of variation
+V.Y. Shelekhoya, Y.P. Yurachkoyski
+The problem of adequate regression function choice is considered. The concept of normalized quadratic discrimination criterion (NQDC) is introduced. Numerical method based on the theory of linear operators eigenvalues disturbances for the purpose of construction the NQDC with minimum of its maximum variation is offered. Examples illustrating offered method applications are given.
+-

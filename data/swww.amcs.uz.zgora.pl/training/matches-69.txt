@@ -1,0 +1,6 @@
+﻿1 - March 1999
+9 - 1999
+Analytical design of stable continuous-time generalised predictive control
+Zdzisław Kowalczuk, Piotr Suchomski
+With a recently renewed interest in the continuous-time approach to control system design the continuous-time generalised predictive control (CGPC) is also worth considering. The main objective of this presentation is the development of an analytical perspective that results in explicit design procedures for stable control of both minimum-phase and non-minimum-phase 8180 systems. The basic project idea is founded on a set of closed-loop prototype characteristics with definite time-domain specifications.
+continuous-time systems, design specifications, non-minimum-phase systems, predictive control, stability, system design

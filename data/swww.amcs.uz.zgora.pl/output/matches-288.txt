@@ -1,0 +1,6 @@
+﻿2 - June 1995
+5 - 1995
+Robot dynamics models in terms of generalized and quasi-coordinates: A comparison
+Krzysztof Kozłowski
+Lagrangian robot dynamics derived by making use of the generalized and quasi-coordinates is discussed. A comparison between two sets of equations is presented, which is motivated by recently developed (Jain and Rodriguez, 1994) diagonalized equations of motion for multibody open kinematic chains with<em>N</em>degrees of freedom. These equations are derived by making use of new joint velocity variables<em>v<sub>i</sub></em>which can be viewed as time derivatives of the Lagrangian 'quasi-coordinates, similar to those in classical mechanics. Several remarks, which simplify the derivation of the new set of equations are presented. Next, physical interpretation of both sets of equations is widely discussed. A detailed computational complexity analysis of the standard and diagonalized Lagrangian robot dynamics algorithms is presented in the paper. The results have been compared with those existing in the literature on robotics.
+-

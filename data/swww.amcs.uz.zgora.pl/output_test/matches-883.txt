@@ -1,0 +1,3 @@
+Protector control: Extension to a class of nonlinear distributed systems
+Youssef Qaraai, Abdes Samed Bernoussi
+We present an extension of the protector control scheme introduced for the linear case in a previous work to a class of nonlinear systems. The systems considered are assumed to have a finite propagation velocity while the initial state is subject to a spreading disturbance. We characterize such a control first by using the remediability approach to the resulting nonlinear delay system, and then by coupling families of transformations and the delay approach. To illustrate this work, we provide a simulation example.

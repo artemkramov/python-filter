@@ -1,0 +1,6 @@
+﻿3 - September 2013
+23 - 2013
+A fuzzy approach to option pricing in a Levy process setting
+Piotr Nowak, Maciej Romaniuk
+In this paper the problem of European option valuation in a Levy process setting is analysed. In our model the underlying asset follows a geometric Levy process. The jump part of the log-price process, which is a linear combination of Poisson processes, describes upward and downward jumps in price. The proposed pricing method is based on stochastic analysis and the theory of fuzzy sets.We assume that some parameters of the financial instrument cannot be precisely described and therefore they are introduced to the model as fuzzy numbers. Application of fuzzy arithmetic enables us to consider various sources of uncertainty, not only the stochastic one. To obtain the European call option pricing formula we use the minimal entropy martingale measure and Levy characteristics.
+option pricing, Levy processes, minimal entropy martingale measure, fuzzy sets, Monte Carlo simulation</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0046">10.2478/amcs-2013-0046</a>

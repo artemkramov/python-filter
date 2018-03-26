@@ -1,0 +1,6 @@
+﻿2 - June 2000
+10 - 2000
+Dynamic algorithm for linear quadratic Gaussian predictive control
+Andrzej W. Ordys, Mads E. Hangstrup, Michael J. Grimble
+In this paper, the optimal control law is derived for a multi-variable state-space Linear Quadratic Gaussian Predictive Controller (LQGPC). A dynamic performance index is utilized resulting in an optimal steady-state controller. Knowledge of future reference values is incorporated into the controller design and the solution is derived using the method of Lagrange multipliers. It is shown how the well-known GPC controller can be obtained as a special case of the LQGPC controller design. The important advantage of using the LQGPC framework for designing predictive controllers is that, based on stabilizing properties of LQG control, it enables a systematic approach to selection of the design parameters to yield a stable closed-loop system. The system model considered in this paper can be further extended to also include direct feed-through and knowledge about future external inputs.
+state-space design, multi-variable control, linear quadratic Gaussian predictive control, generalized predictive control

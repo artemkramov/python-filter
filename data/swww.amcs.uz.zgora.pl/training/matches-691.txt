@@ -1,0 +1,6 @@
+﻿4 - December 2013
+23 - 2013
+A method of constructing the frame of a directed graph
+Ichiro Hofuku, Kunio Oshima
+In web search engines, such as Google, the ranking of a particular keyword is determined by mathematical tools, e.g., Pagerank or Hits. However, as the size of the network increases, it becomes increasingly difficult to use keyword ranking to quickly find the information required by an individual user. One reason for this phenomenon is the interference of superfluous information with the link structure. The WorldWideWeb can be expressed as an enormous directed graph. The purpose of the present study is to provide tools for studying the web as a directed graph in order to find clues to the solution of the problem of interference from superfluous information, and to reform the directed graph to clarify the relationships between the nodes.
+directed graph, node clustering, Perron–Frobenius theorem, information retrieval</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0062">10.2478/amcs-2013-0062</a>

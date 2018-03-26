@@ -1,0 +1,6 @@
+﻿1 - March 2001
+11 - 2001
+Convergence analysis for principal component flows
+Shintaro Yoshizawa, Uwe Helmke, Konstantin Starkov
+A common framework for analyzing the global convergence of several flows for principal component analysis is developed. It is shown that flows proposed by Brockett, Oja, Xu and others are all gradient flows and the global convergence of these flows to single equilibrium points is established. The signature of the Hessian at each critical point is determined.
+principal component analysis, neural networks, gradient flows, phase portrait, Hessians

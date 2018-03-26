@@ -1,0 +1,6 @@
+﻿1 - December 1991
+1 - 1991
+Partial and total relative correctness for analysis of real-time systems
+Tomasz Szmuc
+This paper is a continuation of the former works dealing with the correctness verification of concurrent systems. The correctness in the sense of criterion (relative correctness) is a basic notion in these investigations. Two classes of the problem: partial and total relative correctness are considered. Formal tools and conception of computer support for the correctness verification are developed.
+-

@@ -1,0 +1,6 @@
+﻿3 - September 2002
+12 - 2002
+Computing with words and life data
+Przemysław Grzegorzewski, Olgierd Hryniewicz
+The problem of statistical inference on the mean lifetime in the presence of vague data is considered. Situations with fuzzy lifetimes and an imprecise number of failures are discussed.
+computing with words, life data, vague data, estimation, hypotheses testing

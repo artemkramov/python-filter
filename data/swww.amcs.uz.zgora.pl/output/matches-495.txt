@@ -1,0 +1,6 @@
+﻿2 - June 2015
+25 - 2015
+Event monitoring of parallel computations
+Alexander M. Gruzlikov, Nikolai V. Kolesov, Marina V. Tolmacheva
+The paper considers the monitoring of parallel computations for detection of abnormal events. It is assumed that computations are organized according to an event model, and monitoring is based on specific test sequences.
+parallel computations, monitoring, discrete event system, real time systems</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2015-0024">10.1515/amcs-2015-0024</a>

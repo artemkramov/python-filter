@@ -1,0 +1,6 @@
+﻿2 - June 2013
+23 - 2013
+A general transfer function representation for a class of hyperbolic distributed parameter systems
+Krzysztof Bartecki
+Results of transfer function analysis for a class of distributed parameter systems described by dissipative hyperbolic partial differential equations defined on a one-dimensional spatial domain are presented. For the case of two boundary inputs, the closed-form expressions for the individual elements of the 2×2 transfer function matrix are derived both in the exponential and in the hyperbolic form, based on the decoupled canonical representation of the system. Some important properties of the transfer functions considered are pointed out based on the existing results of semigroup theory. The influence of the location of the boundary inputs on the transfer function representation is demonstrated. The pole-zero as well as frequency response analyses are also performed. The discussion is illustrated with a practical example of a shell and tube heat exchanger operating in parallel- and countercurrent-flow modes.
+distributed parameter system, hyperbolic system, partial differential equation, transfer function, heat exchanger</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0022">10.2478/amcs-2013-0022</a>

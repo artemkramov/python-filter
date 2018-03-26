@@ -1,0 +1,3 @@
+Weak and exact domination in distributed systems
+Larbi Afifi, El Mostafa Magri, Abdelhaq El Jai
+In this work, we introduce and examine the notion of domination for a class of linear distributed systems. This consists in studying the possibility to make a comparison between input or output operators. We give the main algebraic properties of such relations, as well as characterizations of exact and weak domination. We also study the case of actuators, and various situations are examined. Applications and illustrative examples are also given. By duality, we extend this study to observed systems. We obtain similar results and properties, and the case of sensors is equally examined.

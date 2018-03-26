@@ -1,0 +1,6 @@
+﻿3 - September 1994
+4 - 1994
+Application of switched-capacitor circuits to realization of neuron-like binary hamming classifier
+Zdzisław Korzec, Tomasz Kacprzak
+In the paper, based on the literature and our own research, a concept of application of switched-capacitor circuits for designing neural networks with constant weights has been presented. The solution is attractive, especially in view of designing simple classifiers and pattern recognition systems implemented in a semiconductor very large scale technology (VLSI).
+-

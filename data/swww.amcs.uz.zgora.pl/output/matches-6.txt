@@ -1,0 +1,6 @@
+﻿6 - December 2001
+11 - 2001
+Factorization of the Popov function of a multivariable linear distributed parameter system in the non-coercive case: A penalization approach
+Luciano Pandolfi
+We study the construction of an outer factor to a positive definite Popov function ∏<em>(iω)</em>of a distributed parameter system. We assume that ∏<em>(iω)</em>is a non-negative definite matrix with non-zero determinant. Coercivity is not assumed. We present a penalization approach which gives an outer factor just in the case when there exists any outer factor.
+linear distributed systems, dissipative systems, factorization, outer factor, Popov function

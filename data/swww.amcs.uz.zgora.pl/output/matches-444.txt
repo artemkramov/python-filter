@@ -1,0 +1,6 @@
+﻿1 - June 1992
+2 - 1992
+Approximate controllability of second order dynamical systems
+Jerzy Klamka
+In the paper linear, infinite-dimensional second-order dynamical systems defined in a separable Hilbert spaces are considered. U sing the spectral theory for linear, unbounded operators, necessary and sufficient conditions for various types of approximate controllability are formulated and proved. As an illustrative example approximate controllability of flexible mechanical dynamical system described by linear partial differential equations is investigated. Some additional remarks and comments on approximate controllability for different types of second-order abstract dynamical systems are also given. Approximate controllability conditions presented in this paper extend to the case of second-order dynamical systems the results given in some previous papers.
+-

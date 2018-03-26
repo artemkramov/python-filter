@@ -1,0 +1,6 @@
+﻿3 - September 1996
+6 - 1996
+Self-organizing neuro-fuzzy control of complex systems
+Toao Fabro, Fernando Gomide
+An autonomous system control creates a need for classes of control systems whose behaviour should emerge as a consequence of its interaction with the environment. Autonomous systems must be able to adapt continuously to new and unpredictable situations and to be successful in accomplishing their tasks. In this paper, a self-organizing, neuro-fuzzy control architecture for complex systems is presented. The emphasis is on an autonomous-vehicle navigation problem that has been recognized to be of considerable challenge. The aim is to find target positions without colliding with obstacles within an unknown environment. The architecture combines neural networks and fuzzy systems with the theory of neuronal group selection to acquire navigation skills. Neuro-fuzzy sensor information builds up adaptive fields whose intensity triggers fuzzy control actions in response to the environment characteristics. The control system develops emergent, adaptive behaviour from the interactions between the vehicle, environment, and learning strategies. Simulation results show that the control system is able to learn efficiently navigation strategies, to re-adapt in different environments and to perform better than alternative schemes.
+-

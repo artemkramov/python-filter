@@ -1,0 +1,6 @@
+﻿1 - March 2012
+22 - 2012
+Nonlinear model predictive control of a boiler unit: A fault tolerant control study
+Krzysztof Patan, Józef Korbicz
+This paper deals with a nonlinear model predictive control designed for a boiler unit. The predictive controller is realized by means of a recurrent neural network which acts as a one-step ahead predictor. Then, based on the neural predictor, the control law is derived solving an optimization problem. Fault tolerant properties of the proposed control system are also investigated. A set of eight faulty scenarios is prepared to verify the quality of the fault tolerant control. Based of different faulty situations, a fault compensation problem is also investigated. As the automatic control system can hide faults from being observed, the control system is equipped with a fault detection block. The fault detection module designed using the one-step ahead predictor and constant thresholds informs the user about any abnormal behaviour of the system even in the cases when faults are quickly and reliably compensated by the predictive controller.
+recurrent neural networks, process model, predictive control, fault detection, boiler unit</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0017-6">10.2478/v10006-012-0017-6</a>

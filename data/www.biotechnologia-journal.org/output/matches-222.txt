@@ -1,0 +1,16 @@
+﻿1/2013
+4
+Identification-of-amino-acid-sequences-r-nvia-X-ray-crystallography-a-mini-review-of-case-studies,85,23820,0
+abstract:</div><div>Review paper
+Identification of amino acid sequences via X-ray crystallography: a mini review of case studies
+h3>Agnieszka J. Pietrzyk, Anna Bujacz, Mariusz Jaskolski, Grzegorz Bujacz</h3><div>BioTechnologia vol. 94(1) C pp. 9-14 C 2013
+3.46427">https://doi.org/10.5114/bta.2013.46427
+a>View full text</a
+23820
+Pietrzyk A, Bujacz A, Jaskolski M, Bujacz G. Identification of amino acid sequences via X-ray crystallography: a mini review of case studies. BioTechnologia. 2014;94(1):9-14. doi:10.5114/bta.2013.46427
+Pietrzyk, A., Bujacz, A., Jaskolski, M., &amp; Bujacz, G. (2014). Identification of amino acid sequences via X-ray crystallography: a mini review of case studies. BioTechnologia, 94(1), 9-14. https://doi.org/10.5114/bta.2013.46427
+Pietrzyk, Agnieszka J., Anna Bujacz, Mariusz Jaskolski, and Grzegorz Bujacz. 2014. "Identification of amino acid sequences via X-ray crystallography: a mini review of case studies". BioTechnologia 94 (1): 9-14. doi:10.5114/bta.2013.46427
+Pietrzyk, A., Bujacz, A., Jaskolski, M., and Bujacz, G. (2014). Identification of amino acid sequences via X-ray crystallography: a mini review of case studies. BioTechnologia, 94(1), pp.9-14. https://doi.org/10.5114/bta.2013.46427
+Pietrzyk, Agnieszka J. et al. "Identification of amino acid sequences via X-ray crystallography: a mini review of case studies." BioTechnologia, vol. 94, no. 1, 2014, pp. 9-14. doi:10.5114/bta.2013.46427
+null
+The sequencing of a protein is a complicated issue. Several methods have been developed in order to establish<br><br>the amino acid sequences of proteins, including Edman degradation, LC/MS/MS and cDNA sequencing. A number<br><br>of examples confirm that X-ray crystallography could also be a useful tool for the identification of an amino acid<br><br>sequence of unknown proteins. Here, we present a short review summarizing the application of crystallography<br><br>for protein sequence determination and identification.</div

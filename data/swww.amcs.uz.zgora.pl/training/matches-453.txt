@@ -1,0 +1,6 @@
+﻿2 - December 1992
+2 - 1992
+Approximation of a mean time of the slot transfer in the Cambridge ring
+Abdul K.A.N. Al-Aloosy, Adam Krzyżak, Wojciech Zamojski
+In the paper, a popular version of the LAN called the Cambridge Ring is considered. Performance parameters of the Ring depend on its organization, size, number of users as well as on the Ring reliability. A mean time of the slot transfer, as measure of a perform ability (performance + reliability) of the Ring is proposed. The Stochastic Timed Inhibited Petri Net model of the Ring is used to derive an approximation of the mean time of the slot transfer.
+-

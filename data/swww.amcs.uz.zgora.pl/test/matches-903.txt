@@ -1,0 +1,6 @@
+﻿4 - December 2010
+20 - 2010
+Analytic solution of transcendental equations
+Henryk Górecki
+A decomposition technique of the solution of an<em>n</em>-th order linear differential equation into a set of solutions of 2-nd order linear differential equations is presented.
+transcendental equations, zeros, extrema</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-010-0050-2">10.2478/v10006-010-0050-2</a>

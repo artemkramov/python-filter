@@ -1,0 +1,6 @@
+﻿1 - March 1997
+7 - 1997
+An infinitesimal observability test for invariant systems on Lie groups
+Nikolaos Apostolou, Demosthenes Kazakos
+This paper deals with infinitesimal observability for invariant control systems on Lie groups having an invariant output function. For this class of systems an infinitesimal observability criterion is stated and proved. It is also shown how this criterion can be applied in order to conclude more general observability results for such systems.
+-

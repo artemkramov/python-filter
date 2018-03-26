@@ -1,0 +1,6 @@
+﻿3 - September 2000
+10 - 2000
+On Pareto and Salukwadze optimization problems
+Wiesław Kotarski
+n the paper, some problems of vector optimization are considered. Vector optimality is understood in the Pareto sense. Using the notion of Ponstein convexity, we formulate a ‘scalarization’ theorem. Two examples (vector optimization in R<sup>2</sup>and an optimal-control problem for a parabolic equation with a vector performance index) are discussed. A Pareto boundary and a Salukwadze optimum are obtained for each of them. Additionally, for some vector optimization problems in R<sup>2</sup>, a criterion space is found. All calculations are performed with the use of Maple V. In the Appendix, a sketch of the proof of the main theorem on ‘scalarization’ is given.
+Pareto and Salukwadze optima, Pareto boundary, criterion space, scalarizarion

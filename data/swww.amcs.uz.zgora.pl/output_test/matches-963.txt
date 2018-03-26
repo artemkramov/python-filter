@@ -1,0 +1,3 @@
+Simultaneous localization and mapping: A feature-based probabilistic approach
+Piotr Skrzypczyński
+This article provides an introduction to Simultaneous Localization And Mapping (SLAM), with the focus on probabilistic SLAM utilizing a feature-based description of the environment. A probabilistic formulation of the SLAM problem is introduced, and a solution based on the Extended Kalman Filter (EKF-SLAM) is shown. Important issues of convergence, consistency, observability, data association and scaling in EKF-SLAM are discussed from both theoretical and practical points of view. Major extensions to the basic EKF-SLAM method and some recent advances in SLAM are also presented.

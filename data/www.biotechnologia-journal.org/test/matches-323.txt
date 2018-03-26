@@ -1,0 +1,16 @@
+﻿4/2011
+2
+EDITORIAL-Beyond-sequence-similarity-r-n-the-curious-case-of-GW-WG-protein-domain,85,23878,0
+abstract:
+EDITORIAL<br>Beyond sequence similarity – the curious case of GW/WG protein domain
+h3>Wojciech M. Karlowski</h3><div>BioTechnologia vol. 92(4) C pp. 303-305 C 2011
+1.46546">https://doi.org/10.5114/bta.2011.46546
+a>View full text</a
+23878
+Karlowski W. EDITORIAL&lt;br&gt;Beyond sequence similarity – the curious case of GW/WG protein domain. BioTechnologia. 2014;92(4):303-305. doi:10.5114/bta.2011.46546
+Karlowski, W. (2014). EDITORIAL&lt;br&gt;Beyond sequence similarity – the curious case of GW/WG protein domain. BioTechnologia, 92(4), 303-305. https://doi.org/10.5114/bta.2011.46546
+Karlowski, Wojciech M. 2014. "EDITORIAL&lt;br&gt;Beyond sequence similarity – the curious case of GW/WG protein domain". BioTechnologia 92 (4): 303-305. doi:10.5114/bta.2011.46546
+Karlowski, W. (2014). EDITORIAL&lt;br&gt;Beyond sequence similarity – the curious case of GW/WG protein domain. BioTechnologia, 92(4), pp.303-305. https://doi.org/10.5114/bta.2011.46546
+Karlowski, Wojciech M. "EDITORIAL&lt;br&gt;Beyond sequence similarity – the curious case of GW/WG protein domain." BioTechnologia, vol. 92, no. 4, 2014, pp. 303-305. doi:10.5114/bta.2011.46546
+null
+</div

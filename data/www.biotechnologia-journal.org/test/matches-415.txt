@@ -1,0 +1,17 @@
+﻿2/2017
+8
+Overexpression-of-stress-related-genes-in-Cuscuta-campestris-in-response-to-host-defense-reactions,85,30110,0
+abstract:</div><div>RESEARCH PAPERS
+Overexpression of stress-related genes in<i>Cuscuta campestris</i>in response to host defense reactions
+h3>Hamed Rezaei, Khalil Alamisaeed, Cobra Moslemkhani</h3><div>BioTechnologia vol. 98(2) pp. 131-139 2017
+7.68312">https://doi.org/10.5114/bta.2017.68312
+a>View full text</a
+30110
+Rezaei H, Alamisaeed K, Moslemkhani C. Overexpression of stress-related genes in &lt;i&gt;Cuscuta campestris&lt;/i&gt; in response to host defense reactions. BioTechnologia. 2017;98(2):131-139. doi:10.5114/bta.2017.68312
+Rezaei, H., Alamisaeed, K., &amp; Moslemkhani, C. (2017). Overexpression of stress-related genes in &lt;i&gt;Cuscuta campestris&lt;/i&gt; in response to host defense reactions. BioTechnologia, 98(2), 131-139. https://doi.org/10.5114/bta.2017.68312
+Rezaei, Hamed, Khalil Alamisaeed, and Cobra Moslemkhani. 2017. "Overexpression of stress-related genes in &lt;i&gt;Cuscuta campestris&lt;/i&gt; in response to host defense reactions". BioTechnologia 98 (2): 131-139. doi:10.5114/bta.2017.68312
+Rezaei, H., Alamisaeed, K., and Moslemkhani, C. (2017). Overexpression of stress-related genes in &lt;i&gt;Cuscuta campestris&lt;/i&gt; in response to host defense reactions. BioTechnologia, 98(2), pp.131-139. https://doi.org/10.5114/bta.2017.68312
+Rezaei, Hamed et al. "Overexpression of stress-related genes in &lt;i&gt;Cuscuta campestris&lt;/i&gt; in response to host defense reactions." BioTechnologia, vol. 98, no. 2, 2017, pp. 131-139. doi:10.5114/bta.2017.68312
+/div><div>Herb dodder (<i>Cuscuta</i>spp.) is one of the most important parasitic plants that can severely affect crop yields in the world. So far, interactions of this parasitic plant with hosts were not investigated adequately. Here, we conducted a differential expression analyzes and identified a number of genes that were differentially expressed in haustorium tissue compared with the stem of<i>Cuscuta campestris</i>growing on Alfalfa. We obtained 439 cDNA fragments from haustoria (parasite-host connection zone) and stems (25 cm away from connections zones) using the cDNA-AFLP (Amplified Fragment Length Polymorphism) method with eight different primer combinations. Of 439 transcript-derived fragments (TDFs) that were detected, 145 fragments were identified as differentially expressed genes. Five TDF sequences were similar to known functional genes involved in signal transduction, metabolism, respiration, and stress responses. Genes encoding DEAD-box ATP-dependent RNA helicase, potential heme-binding protein, lysine-specific demethylase 5A were selected for qRT-PCR. The qRT-PCR analyzes confirmed the results obtained using cDNA-AFLP. Our findings shed light on the elicitation of dodder defense responses in the connection zone to overcome plant defense reactions.<
+null
+keywords:</div><h3><i>Cuscuta campestris</i>, cDNA-AFLP, haustorium, Alfalfa</h3

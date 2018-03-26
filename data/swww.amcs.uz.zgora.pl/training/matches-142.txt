@@ -1,0 +1,6 @@
+﻿2 - June 1998
+8 - 1998
+Positive solutions to polynomial matrix equations
+Tadeusz Kaczorek
+Necessary and sufficient conditions are established for the existence of positive solutions to polynomial matrix equations. Two methods are proposed for determination of such solutions. As an example of applications it is shown that the determination of the transfer matrix of a positive controller for a dosed-loop system with a given transfer matrix can be reduced to finding solutions to two suitable polynomial matrix equations.
+-

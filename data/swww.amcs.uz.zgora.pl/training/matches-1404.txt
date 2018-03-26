@@ -1,0 +1,6 @@
+﻿4 - October 2001
+11 - 2001
+Robust identification of parasitic feedback disturbances for linear lumped parameter systems
+Vyacheslav Maksimov, Luciano Pandolfi
+We study the problem of identification of an input to a linear finite-dimensional system. We assume that the input has a feedback form, which is related to a problem often encountered in fault detection. The method we use is to embed the identification problem in a class of inverse problems of dynamics for controlled systems. Two algorithms for identification of a feedback matrix based on the method of feedback control with a model are constructed. These algorithms are stable with respect to noise-corrupted observations and computational errors.
+input identification, feedback control, fault detection

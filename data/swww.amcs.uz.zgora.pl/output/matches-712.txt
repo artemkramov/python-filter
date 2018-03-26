@@ -1,0 +1,6 @@
+﻿1 - March 2012
+22 - 2012
+Nonlinear actuator fault estimation observer: An inverse system approach via a T–S fuzzy model
+Dezhi Xu, Bin Jiang, Peng Shi
+Based on a Takagi–Sugeno (T–S) fuzzy model and an inverse system method, this paper deals with the problem of actuator fault estimation for a class of nonlinear dynamic systems. Two different estimation strategies are developed. Firstly, T–S fuzzy models are used to describe nonlinear dynamic systems with an actuator fault. Then, a robust sliding mode observer is designed based on a T–S fuzzy model, and an inverse system method is used to estimate the actuator fault. Next, the second fault estimation strategy is developed. Compared with some existing techniques, such as adaptive and sliding mode methods, the one presented in this paper is easier to be implemented in practice. Finally, two numerical examples are given to demonstrate the efficiency of the proposed techniques.
+actuator fault estimation, Takagi–Sugeno fuzzy models, robust sliding mode observer, inverse system method</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0014-9">10.2478/v10006-012-0014-9</a>

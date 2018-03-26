@@ -1,0 +1,6 @@
+﻿1 - March 2001
+11 - 2001
+Analytic interpolation and the degree constraint
+Tryphon T. Georgiou
+Analytic interpolation problems arise quite naturally in a variety of engineering applications. This is due to the fact that analyticity of a (transfer) function relates to the stability of a corresponding dynamical system, while positive realness and contractiveness relate to passivity. On the other hand, the degree of an interpolant relates to the dimension of the pertinent system, and this motivates our interest in constraining the degree of interpolants. The purpose of the present paper is to make an overview of recent developments on the subject as well as to highlight an application of the theory.
+analytic interpolation, uniformly optimal control, spectral analysis of time-series

@@ -1,0 +1,6 @@
+﻿3 - September 2012
+22 - 2012
+The Fan–Raspaud conjecture: A randomized algorithmic approach and application to the pair assignment problem in cubic networks
+Piotr Formanowicz, Krzysztof Tanaś
+It was conjectured by Fan and Raspaud (1994) that every bridgeless cubic graph contains three perfect matchings such that every edge belongs to at most two of them. We show a randomized algorithmic way of finding Fan–Raspaud colorings of a given cubic graph and, analyzing the computer results, we try to find and describe the Fan–Raspaud colorings for some selected classes of cubic graphs. The presented algorithms can then be applied to the pair assignment problem in cubic computer networks. Another possible application of the algorithms is that of being a tool for mathematicians working in the field of cubic graph theory, for discovering edge colorings with certain mathematical properties and formulating new conjectures related to the Fan–Raspaud conjecture.
+cubic graph, edge coloring, perfect matching, randomized algorithms, computer networks</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0057-y">10.2478/v10006-012-0057-y</a>

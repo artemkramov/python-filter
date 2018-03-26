@@ -1,0 +1,6 @@
+﻿1 - June 1992
+2 - 1992
+Fault detection in coal fired power plants using nonlinear filtering
+Zohreh Fathi, Józef Korbicz, W. Fred Ramirez
+On the contrary to many recent attempts using knowledge-based system techniques where diagnostic analysis is based solely on measurable and observable data, in this work we propose to investigate the adaptive inclusion of a state and/or parameter estimation module in the diagnostic reasoning loop, in addition to employing information based on measurable data. The design methodology is a new layered knowledge base that houses heuristics knowledge in the high-levels and the process-general estimation knowledge in the low-levels. The purpose of this paper is to present the failure detection issues of the deaerator control subsystem for the coal fired power plant. The main emphasis is placed upon the model-based redundancy methods which create the low-levels of the knowledge base. Due to the highly nonlinear nature of the power plant dynamic, the modified extended Kalman filters are designed for use as detection filters. The developed approach is shown to be effective in detecting and isolating failures of a subsystem of a power plant with an appropriate degree of complexity.
+-

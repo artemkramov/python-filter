@@ -1,0 +1,6 @@
+﻿1 - March 2013
+23 - 2013
+An unscented Kalman filter in designing dynamic GMDH neural networks for robust fault detection
+Marcin Mrugalski
+This paper presents an identification method of dynamic systems based on a group method of data handling approach. In particular, a new structure of the dynamic multi-input multi-output neuron in a state-space representation is proposed. Moreover, a new training algorithm of the neural network based on the unscented Kalman filter is presented. The final part of the work contains an illustrative example regarding the application of the proposed approach to robust fault detection of a tunnel furnace.
+robust fault detection, non-linear system identification, dynamic GMDH neural network, unscented Kalman filter</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0013">10.2478/amcs-2013-0013</a>

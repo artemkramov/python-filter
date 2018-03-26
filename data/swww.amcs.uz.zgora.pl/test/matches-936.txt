@@ -1,0 +1,6 @@
+﻿2 - June 2009
+19 - 2009
+Design of the state predictive model following control system with time-delay
+Dazhong Wang, Shujing Wu, Shigenori Okubo
+Time-delay systems exist in many engineering fields such as transportation systems, communication systems, process engineering and, more recently, networked control systems. It usually results in unsatisfactory performance and is frequently a source of instability, so the control of time-delay systems is practically important. In this paper, a design of the state predictive model following control system (PMFCS) with time-delay is discussed. The bounded property of the internal states for the control is given, and the utility of this control design is guaranteed. Finally, examples are given to illustrate the effectiveness of the proposed method, and state predictive control techniques are applied to congestion control synthesis problems for a TCP/AQM network.
+state predictive control, time-delay, model following control system (MFCS), TCP/AQM network, congestion control</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-009-0020-8">10.2478/v10006-009-0020-8</a>

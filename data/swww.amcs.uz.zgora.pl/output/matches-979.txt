@@ -1,0 +1,6 @@
+﻿1 - March 2008
+18 - 2008
+Image based analysis of complex microstructures of engineering materials
+Tomasz Wejrzanowski, Wojciech Leon Spychalski, Krzysztof Rożniatowski, Krzysztof Jan Kurzydłowski
+The paper presents various methods for quantitative description of material structures. The main focus is on direct methods of description based on image analysis. In particular, techniques for the estimation of the size, shape and spatial distribution of structural elements observed by different microscopic techniques are described. The application of these methods for the characterization of the structures of engineering materials is demonstrated on a stainless steel used in petrochemical installations. It is shown that the methods applied are useful for the assessment of service degradation of materials.
+image analysis, quantitative description, microstructure</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0003-1">10.2478/v10006-008-0003-1</a>

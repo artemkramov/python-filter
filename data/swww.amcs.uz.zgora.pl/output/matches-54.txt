@@ -1,0 +1,6 @@
+﻿4 - December 2000
+10 - 2000
+Implication-based neuro-fuzzy architectures
+Danuta Rutkowska, Robert Nowicki
+This paper presents connectionist multi-layer architectures of neuro-fuzzy systems based on various fuzzy implications. The well-known Mamdani approach (constructive) and the logical approach (destructive) are considered. Two kinds of architectures, a simpler and a more general one, are distinguished. Examples of application to classification and control problems are provided.
+neuro-fuzzy systems, fuzzy implications, fuzzy inference, Mamdani approach, logical approach, connectionist architectures

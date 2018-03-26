@@ -1,0 +1,17 @@
+﻿3/2012
+3
+RESEARCH-PAPER-Segmented-hybridization-probes-modulating-target-affinity-r-nand-base-pairing-selectivity,85,23911,0
+abstract:
+RESEARCH PAPER<br>Segmented hybridization probes: modulating target affinity and base pairing selectivity
+h3>Simone Egetenmeyer, Elena Geiger, Clemens Richert</h3><div>BioTechnologia vol. 93(3) C pp. 309-317 C 2012
+2.46585">https://doi.org/10.5114/bta.2012.46585
+a>View full text</a
+23911
+Egetenmeyer S, Geiger E, Richert C. RESEARCH PAPER&lt;br&gt;Segmented hybridization probes: modulating target affinity and base pairing selectivity. BioTechnologia. 2014;93(3):309-317. doi:10.5114/bta.2012.46585
+Egetenmeyer, S., Geiger, E., &amp; Richert, C. (2014). RESEARCH PAPER&lt;br&gt;Segmented hybridization probes: modulating target affinity and base pairing selectivity. BioTechnologia, 93(3), 309-317. https://doi.org/10.5114/bta.2012.46585
+Egetenmeyer, Simone, Elena Geiger, and Clemens Richert. 2014. "RESEARCH PAPER&lt;br&gt;Segmented hybridization probes: modulating target affinity and base pairing selectivity". BioTechnologia 93 (3): 309-317. doi:10.5114/bta.2012.46585
+Egetenmeyer, S., Geiger, E., and Richert, C. (2014). RESEARCH PAPER&lt;br&gt;Segmented hybridization probes: modulating target affinity and base pairing selectivity. BioTechnologia, 93(3), pp.309-317. https://doi.org/10.5114/bta.2012.46585
+Egetenmeyer, Simone et al. "RESEARCH PAPER&lt;br&gt;Segmented hybridization probes: modulating target affinity and base pairing selectivity." BioTechnologia, vol. 93, no. 3, 2014, pp. 309-317. doi:10.5114/bta.2012.46585
+/div><div>Short hybridization probes bind their targets with greater base pairing fidelity, but with lower affinity than longer<br><br>probes. Furthermore, their target sequence is shorter, and thus more likely not to be unique in a given genome.<br><br>Long hybridization probes provide increased affinity, and their sequences are more unique, but their duplexes<br><br>tolerate mismatches more readily, without a significant depression in melting point. It was reasoned that segmenting<br><br>longer hybridization probes by introducing flexible, abasic linkers might lead to oligonucleotides that<br><br>retain some of the sequence selectivity of short probes without losing too much of the target affinity of their unsegmented<br><br>counterparts. A model study led to 1,3-propandiol-phosphates as linker residues. These spacer residues<br><br>were introduced at different positions of hybridization probes 8-20 residues in length and their hybridization<br><br>properties were studied in UV-melting curves with RNA or DNA target strands. Increases in base pairing selectivity<br><br>(ΔΔTm of up to -7.4°C for a single mismatch) and decreased target affinities (ΔΔ<i>Tm</i>between -15 and -25°C)<br><br>were found for the segmented probes when compared to their unsegmented counterparts, and so was a decreased<br><br>selectivity for insertions at the site of the linker. Also, the increases in selectivity are not uniform in their<br><br>magnitude and depend on sequence context and position. A favorable case appears to be a hybridization probe<br><br>that contains two spacers, with one octamer as core segment, flanked by a heptamer and a pentamer as terminal<br><br>segments.<
+null
+keywords:</div><h3>oligonucleotides, DNA, RNA, hybridization, base pairing</h3

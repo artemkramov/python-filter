@@ -1,0 +1,15 @@
+﻿Increasing-uniformity-of-power-distribution-in-dual-path-gear-transmission,81474
+3-2015,3236">3/2015 vol. 16
+Modeling-and-simulation-of-bevel-gearboxes-in-cad-environment,81475,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/Evaluation-of-the-quality-of-steel-cord-belt-splices-based-on-belt-condition-examination,81473,0,2.html" title="PREVIOUS
+Increasing uniformity of power distribution in dual-path gear transmission
+Bogdan-Kozik/74799">Bogdan Kozik
+null
+bogkozik@prz.edu.pl
+>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Mariusz-Sobolak/384">Mariusz Sobolak</a></span
+Politechnika Rzeszowska im. I. Łukasiewicza, Katedra Konstrukcji Maszyn Al.Powstańców Warszawy 8, 35-959
+Publish date: 2017-12-21
+5;16(3):65–68
+81474-16955?filename=Increasing uniformity of
+identifying+sources+of+potential+risk/146981">identifying sources of potential risk<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-constructional+diagnostics/146982">constructional diagnostics
+dual-path+gear+transmission/146983">dual-path gear transmission
+One of the phases of existence of machinery according to [5], isamong others, constructing.The aim of constructional diagnostics used in this case is to identify sources of potential risks.In a dual-path gear transmission power is transferred by two parallel paths. Due to backlash and precision of making the whole gearing, the power is not transferred evenly along both paths. It creates potential risk which makes it necessary to create such gearing with higher module. This in turn causes an increase in dimensions and weight of the gearing. The paper presents a technical solution that allows to delete backlash on teeth on all stages of the gear transmission and thus increase the uniformity of power distribution into two paths . The solution consists in applying an intermediary split shaft whose parts can be exactly positioned angularly in relation to each other in the process of assembling the gear transmission.

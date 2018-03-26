@@ -1,0 +1,6 @@
+﻿4 - December 1993
+3 - 1993
+New algorithms for the multiplication of series of rectangular matrices and their parallel implementations
+Roman Wyrzykowski, Henryk Piech, Juri Kanevski, Vladimir Lepecha
+In the paper, two algorithms are proposed for the multiplication of series of rectangular matrices. Using the associative property of matrix multiplications, these algorithms allow us to decrease the complexity of computations in comparison with the direct algorithm. Parallel implementations of all the algorithms are then discussed for a linear array architecture. Finally, the efficiency of these parallel implementations is discussed.
+-

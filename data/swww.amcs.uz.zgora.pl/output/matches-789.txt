@@ -1,0 +1,6 @@
+﻿2 - June 2017
+27 - 2017
+A hybrid scheduler for many task computing in big data systems
+Laura Vasiliu, Florin Pop, Catalin Negru, Mariana Mocanu, Valentin Cristea, Joanna Kolodziej
+With the rapid evolution of the distributed computing world in the last few years, the amount of data created and processed has fast increased to petabytes or even exabytes scale. Such huge data sets need data-intensive computing applications and impose performance requirements to the infrastructures that support them, such as high scalability, storage, fault tolerance but also efficient scheduling algorithms. This paper focuses on providing a hybrid scheduling algorithm for many task computing that addresses big data environments with few penalties, taking into consideration the deadlines and satisfying a data dependent task model. The hybrid solution consists of several heuristics and algorithms (min-min, min-max and earliest deadline first) combined in order to provide a scheduling algorithm that matches our problem. The experimental results are conducted by simulation and prove that the proposed hybrid algorithm behaves very well in terms of meeting deadlines.
+many task computing, scheduling heuristics, QoS, big data systems, simulation</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2017-0027">10.1515/amcs-2017-0027</a>

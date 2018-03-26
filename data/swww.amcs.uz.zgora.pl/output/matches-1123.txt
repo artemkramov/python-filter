@@ -1,0 +1,6 @@
+﻿4 - December 2006
+16 - 2006
+Operator-splitting and Lagrange multiplier domain decomposition methods for numerical simulation of two coupled Navier-Stokes fluids
+Didier Bresch, Jonas Koko
+We present a numerical simulation of two coupled Navier-Stokes flows, using operator-splitting and optimization-based nonoverlapping domain decomposition methods. The model problem consists of two Navier-Stokes fluids coupled, through a common interface, by a nonlinear transmission condition. Numerical experiments are carried out with two coupled fluids; one with an initial linear profile and the other in rest. As expected, the transmission condition generates a recirculation within the fluid in rest.
+domain decomposition, duality, conjugate gradient, Navier-Stokes flows

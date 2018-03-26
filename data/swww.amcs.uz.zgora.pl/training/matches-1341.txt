@@ -1,0 +1,6 @@
+﻿3 - September 2002
+12 - 2002
+Fuzzy-arithmetic-based Lyapunov synthesis in the design of stable fuzzy controllers: A computing-with-words approach
+Changjiu Zhou
+A novel approach to designing stable fuzzy controllers with perception-based information using fuzzy-arithmetic-based Lyapunov synthesis in the frame of computing with words (CW) is presented. It is shown that a set of conventional fuzzy control rules can be derived from the perception-based information using the standard-fuzzy-arithmetic-based Lyapunov synthesis approach. On the other hand, a singleton fuzzy controller can be devised by using a constrained-fuzzy-arithmetic-based Lyapunov synthesis approach. Furthermore, the stability of the fuzzy controllers can be guaranteed by means of the fuzzy version of Lyapunov stability analysis. Moreover, by introducing standard and constrained fuzzy arithmetic in CW, the "words" represented by fuzzy numbers could be efficiently manipulated to design fuzzy controllers. The results obtained are illustrated with the design of stable fuzzy controllers for an autonomous pole balancing mobile robot.
+fuzzy control, standard fuzzy arithmetic, constrained fuzzy arithmetic, Lyapunov synthesis, stability, computing with words, perception-based information, pole balancing mobile robot

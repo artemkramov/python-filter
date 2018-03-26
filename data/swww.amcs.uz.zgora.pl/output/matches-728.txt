@@ -1,0 +1,6 @@
+﻿2 - June 2012
+22 - 2012
+Existence and determination of the set of Metzler matrices for given stable polynomials
+Tadeusz Kaczorek
+The problem of the existence and determination of the set of Metzler matrices for given stable polynomials is formulated and solved. Necessary and sufficient conditions are established for the existence of the set of Metzler matrices for given stable polynomials. A procedure for finding the set of Metzler matrices for given stable polynomials is proposed and illustrated with numerical examples.
+determination, existence, Metzler matrix, polynomial, stability</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/0.2478/v10006-012-0029-2">0.2478/v10006-012-0029-2</a>

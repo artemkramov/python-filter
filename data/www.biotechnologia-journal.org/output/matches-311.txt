@@ -1,0 +1,17 @@
+﻿1/2012
+3
+REVIEW-PAPER-Cellular-light-memory-photo-electrochemical-r-nand-redox-retrograde-signaling-in-plants,85,23892,0
+abstract:
+REVIEW PAPER<br>Cellular light memory, photo-electrochemical and redox retrograde signaling in plants
+h3>Stanisław Karpiński, Magdalena Szechyńska-Hebda</h3><div>BioTechnologia vol. 93(1) C pp. 27-39 C 2012
+2.46566">https://doi.org/10.5114/bta.2012.46566
+a>View full text</a
+23892
+Karpiński S, Szechyńska-Hebda M. REVIEW PAPER&lt;br&gt;Cellular light memory, photo-electrochemical and redox retrograde signaling in plants. BioTechnologia. 2014;93(1):27-39. doi:10.5114/bta.2012.46566
+Karpiński, S., &amp; Szechyńska-Hebda, M. (2014). REVIEW PAPER&lt;br&gt;Cellular light memory, photo-electrochemical and redox retrograde signaling in plants. BioTechnologia, 93(1), 27-39. https://doi.org/10.5114/bta.2012.46566
+Karpiński, Stanisław, and Magdalena Szechyńska-Hebda. 2014. "REVIEW PAPER&lt;br&gt;Cellular light memory, photo-electrochemical and redox retrograde signaling in plants". BioTechnologia 93 (1): 27-39. doi:10.5114/bta.2012.46566
+Karpiński, S., and Szechyńska-Hebda, M. (2014). REVIEW PAPER&lt;br&gt;Cellular light memory, photo-electrochemical and redox retrograde signaling in plants. BioTechnologia, 93(1), pp.27-39. https://doi.org/10.5114/bta.2012.46566
+Karpiński, Stanisław et al. "REVIEW PAPER&lt;br&gt;Cellular light memory, photo-electrochemical and redox retrograde signaling in plants." BioTechnologia, vol. 93, no. 1, 2014, pp. 27-39. doi:10.5114/bta.2012.46566
+/div><div>Plant chloroplasts emit signals that regulate the expression of nuclear-encoded genes, a process known as<i>retrograde<br><br>signaling</i>. Environmental stresses, such as rapid and dynamic changes in light intensity and quality, temperature,<br><br>relative humidity, water and CO2 availability, cause excess absorption of light energy (EEE) and induce<br><br>chlorophyll fluorescence and heat dissipation, which lead to the generation of singlet stages of dioxygen, chlorophyll<br><br>and carotenoid molecules. These primary quantum events in photosynthesis induce secondary redox reactions<br><br>in photosystems, e.g. electrical charge separation, chloroplast lumen acidification and activation of<br><br>the xanthophyll cycle by means of non-photochemical quenching (NPQ), redox reactions between the photosynthetic<br><br>electron carriers (electron transport), and formation of reactive oxygen species. These, in turn, induce cascades<br><br>of physiologically regulated redox reactions in the chloroplast stroma metabolism that regulate cellular light<br><br>memory. Recently published data suggest that plants, with the help of EEE, NPQ, photoelectrochemical-redox<br><br>retrograde signaling and cellular light memory, are able to perform biological processing in order to optimize their<br><br>photosynthesis, transpiration, light acclimatory and defense responses, and in consequence, their Darwinian<br><br>fitness. Understanding of the above-mentioned processes is crucial for future biotechnological amelioration of<br><br>crop production.<
+null
+keywords:</div><h3>cellular light memory, non-photochemical quenching, quantum-redox reactions, photosynthetic electron transport, reactive oxygen species, retrograde photo-electrochemical and hormonal signaling</h3

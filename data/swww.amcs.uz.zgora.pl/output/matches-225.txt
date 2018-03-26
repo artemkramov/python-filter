@@ -1,0 +1,6 @@
+﻿1 - March 1996
+6 - 1996
+Approximate relative controllability of retarded dynamical systems
+Jerzy Klamka
+In this paper, linear abstract retarded dynamical systems defined in infinite-dimensional Hilbert spaces are considered. Using frequency-domain methods and spectral analysis for linear self-adjoint operators, the necessary and sufficient conditions for approximate relative controllability are formulated and proved. The method presented in the paper allows one to verify approximate relative controllability for abstract retarded dynamical systems by considering approximate controllability of simplified abstract dynamical systems without delays. Moreover, as an illustrative example, approximate relative controllability of a retarded distributed-parameter dynamical system is investigated. The presented results generalize to an infinite-dimensional class of retarded dynamical systems some controllability theorems which are known in the literature only for the finite-dimensional case.
+-

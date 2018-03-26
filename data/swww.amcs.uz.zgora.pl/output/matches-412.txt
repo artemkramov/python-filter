@@ -1,0 +1,6 @@
+﻿4 - December 2016
+26 - 2016
+An advance in infinite graph models for the analysis of transportation networks
+Martín Cera, Eugenio M. Fedriani
+This paper extends to infinite graphs the most general extremal issues, which are problems of determining the maximum number of edges of a graph not containing a given subgraph. It also relates the new results with the corresponding situations for the finite case. In particular, concepts from ‘finite’ graph theory, like the average degree and the extremal number, are generalized and computed for some specific cases. Finally, some applications of infinite graphs to the transportation of dangerous goods are presented; they involve the analysis of networks and percolation thresholds.
+infinite graph, average degree, extremal problems, road transport network, percolation</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0061">10.1515/amcs-2016-0061</a>

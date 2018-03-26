@@ -1,0 +1,6 @@
+a>View full text</a
+Drożdżyńska A, Leja K, Czaczyk K. RESEARCH PAPER&lt;br&gt;Biotechnological production of 1,3-propanediol from crude glycerol. BioTechnologia. 2014;92(1):92-100. doi:10.5114/bta.2011.46521
+Drożdżyńska, A., Leja, K., &amp; Czaczyk, K. (2014). RESEARCH PAPER&lt;br&gt;Biotechnological production of 1,3-propanediol from crude glycerol. BioTechnologia, 92(1), 92-100. https://doi.org/10.5114/bta.2011.46521
+Drożdżyńska, Agnieszka, Katarzyna Leja, and Katarzyna Czaczyk. 2014. "RESEARCH PAPER&lt;br&gt;Biotechnological production of 1,3-propanediol from crude glycerol". BioTechnologia 92 (1): 92-100. doi:10.5114/bta.2011.46521
+Drożdżyńska, A., Leja, K., and Czaczyk, K. (2014). RESEARCH PAPER&lt;br&gt;Biotechnological production of 1,3-propanediol from crude glycerol. BioTechnologia, 92(1), pp.92-100. https://doi.org/10.5114/bta.2011.46521
+Drożdżyńska, Agnieszka et al. "RESEARCH PAPER&lt;br&gt;Biotechnological production of 1,3-propanediol from crude glycerol." BioTechnologia, vol. 92, no. 1, 2014, pp. 92-100. doi:10.5114/bta.2011.46521

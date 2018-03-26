@@ -1,0 +1,6 @@
+﻿3 - September 1993
+3 - 1993
+Model-based damage detection, localization and assessment of structures the extended system identification methodology
+H.G. Natke, J.T.P. Yao
+System analysis and system identification are the basis of damage detection, localization and assessment. The (global) dynamic mathematical model with generally many fewer degrees of freedom than the static model is used for stability and dynamic qualification. It is also the basis for identification, which refers to the correction and validation of the mathematical model by using measurements of the existing structure. When this is done at several instances in the lifetime of the structure, these validated models can be taken as a knowledge base for damage detection, localization, and for making decisions for further actions. No better knowledge base exists than that of a validated mathematical model using the recent state of the structure itself. Assessment of the structure in every state can be done with the dynamic model based on fault investigations. The possible application of neural networks and fuzzy logic in this context is mentioned here. Active and smart structures are also open for further study with the use of the measuring devices and control circuits.
+-

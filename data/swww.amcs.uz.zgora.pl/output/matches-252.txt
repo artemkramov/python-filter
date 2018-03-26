@@ -1,0 +1,6 @@
+﻿3 - September 1996
+6 - 1996
+Image compression by competitive learning neural networks and predictive vector quantization
+Leszek Rutkowski, Robert Cierniak
+This paper presents a combination of the vector quantization (VQ) technique with traditional (scalar) differential pulse code modulation (DPCM). A new algorithm for image compression, called predictive vector quantization (PVQ), is developed based on competitive neural networks and optimal linear predictors. The experimental results are presented and the performance of the algorithm is discussed.
+-

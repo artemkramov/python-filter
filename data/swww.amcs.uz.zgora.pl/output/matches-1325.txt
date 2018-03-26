@@ -1,0 +1,6 @@
+﻿2 - June 2002
+12 - 2002
+Neural network-based NARX models in non-linear adaptive control
+Andrzej Dzieliński
+The applicability of approximate NARX models of non-linear dynamic systems is discussed. The models are obtained by a new version of Fourier analysis-based neural network also described in the paper. This constitutes a reformulation of a known method in a recursive manner, i.e. adapted to account for incoming data on-line. The method allows us to obtain an approximate model of the non-linear system. The estimation of the influence of the modelling error on the discrepancy between the model and real system outputs is given. Possible applications of this approach to the design of BIBO stable closed-loop control are proposed.
+neural networks, adaptive control, nonlinear systems

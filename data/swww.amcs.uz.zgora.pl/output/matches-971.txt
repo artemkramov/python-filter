@@ -1,0 +1,6 @@
+﻿4 - December 2009
+19 - 2009
+Synthesis of finite state machines for CPLDs
+Robert Czerwiński, Dariusz Kania
+The paper presents a new two-step approach to FSM synthesis for PAL-based CPLDs that strives to find an optimum fit of an FSM to the structure of the CPLD. The first step, the original state assignment method, includes techniques of two-level minimization and aims at area minimization. The second step, PAL-oriented multi-level optimization, is a search for implicants that can be shared by several functions. It is based on the graph of outputs. Results of experiments prove that the presented approach is especially effective for PAL-based CPLD structures containing a low number of product terms.
+logic synthesis, FSM, state assignment, logic optimization, CPLD</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-009-0052-0">10.2478/v10006-009-0052-0</a>

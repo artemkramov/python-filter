@@ -1,0 +1,6 @@
+﻿1 - March 1995
+5 - 1995
+Analysis and application of output robustness for non-linear systems
+Gao Feng, Sun Youxian
+This paper studies the problem of robustness for non-linear control systems using the differential geometric method. First of all, the paper proposes the concepts of output robustness and feedback output robustness, and gives the sufficient and necessary conditions for them. Furthermore, the paper studies the application of them to the robust disturbance decoupling, robust input-output decoupling and robust asymptotic tracking, such that the main robustness problems in non-linear control systems can be dealt with by a unified method.
+-

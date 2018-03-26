@@ -1,0 +1,17 @@
+﻿2/2015
+6
+Assessment-of-winter-oilseed-rape-DH-lines-using-r-nuni-and-multivariate-methods-of-quantitative-genetics-r-nand-mathematical-methods,85,25776,0
+abstract:</div><div>Review paper
+Assessment of winter oilseed rape DH lines using uni- and multivariate methods of quantitative genetics and mathematical methods
+h3>Laurencja Szała, Zygmunt Kaczmarek, Elżbieta Adamska, Teresa Cegielska-Taras</h3><div>vol. 96(2) C pp. 171-177 C 2015
+5.54201">https://doi.org/10.5114/bta.2015.54201
+a>View full text</a
+25776
+Szała L, Kaczmarek Z, Adamska E, Cegielska-Taras T. Assessment of winter oilseed rape DH lines using uni- and multivariate methods of quantitative genetics and mathematical methods. BioTechnologia. 2015;96(2):171-177. doi:10.5114/bta.2015.54201
+Szała, L., Kaczmarek, Z., Adamska, E., &amp; Cegielska-Taras, T. (2015). Assessment of winter oilseed rape DH lines using uni- and multivariate methods of quantitative genetics and mathematical methods. BioTechnologia, 96(2), 171-177. https://doi.org/10.5114/bta.2015.54201
+Szała, Laurencja, Zygmunt Kaczmarek, Elżbieta Adamska, and Teresa Cegielska-Taras. 2015. "Assessment of winter oilseed rape DH lines using uni- and multivariate methods of quantitative genetics and mathematical methods". BioTechnologia 96 (2): 171-177. doi:10.5114/bta.2015.54201
+Szała, L., Kaczmarek, Z., Adamska, E., and Cegielska-Taras, T. (2015). Assessment of winter oilseed rape DH lines using uni- and multivariate methods of quantitative genetics and mathematical methods. BioTechnologia, 96(2), pp.171-177. https://doi.org/10.5114/bta.2015.54201
+Szała, Laurencja et al. "Assessment of winter oilseed rape DH lines using uni- and multivariate methods of quantitative genetics and mathematical methods." BioTechnologia, vol. 96, no. 2, 2015, pp. 171-177. doi:10.5114/bta.2015.54201
+/div><div>The development and improvement of an<i>in vitro</i>androgenesis of oilseed rape has allowed to obtain doubled haploid (DH) populations on a large scale. It has become possible to use DH lines in a genetic analysis of quantitative traits. Among the other benefits of DHs, homozygous state allowed to use them in a series of experiments aiming at the efficient selection of desired genotypes and their examination for adaptation in various environments. This is a review of our earlier studies which have confirmed numerous possibilities of using winter oilseed rape DH lines in a statistical analysis. Populations of DHs were used for: estimation of genetic parameters, transgression effects as well as a general and specific combining ability, genetic variation in DH populations or effects of the cross direction. In this paper, possibilities of a comprehensive multidirectional assessment of DHs lines of oilseed rape through the application of uni- and multivariate methods of quantitative genetics and mathematical methods are also presented.<
+null
+keywords:</div><h3><i>Brassica napus</i>L, doubled haploids, uni- and multivariate methods, transgression, genetic variation</h3

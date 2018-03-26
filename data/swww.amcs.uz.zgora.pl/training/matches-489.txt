@@ -1,0 +1,6 @@
+﻿1 - March 2018
+28 - 2018
+An accurate fingerprint reference point determination method based on curvature estimation of separated ridges
+Rafal Doroz, Krzysztof Wrobel, Piotr Porwik
+This paper presents an effective method for the detection of a fingerprint’s reference point by analyzing fingerprint ridges’ curvatures. The proposed approach is a multi-stage system. The first step extracts the fingerprint ridges from an image and transforms them into chains of discrete points. In the second step, the obtained chains of points are processed by a dedicated algorithm to detect corners and other points of highest curvature on their planar surface. In a series of experiments we demonstrate that the proposed method based on this algorithm allows effective determination of fingerprint reference points. Furthermore, the proposed method is relatively simple and achieves better results when compared with the approaches known from the literature. The reference point detection experiments were conducted using publicly available fingerprint databases FVC2000, FVC2002, FVC2004 and NIST.
+biometrics, image processing, fingerprint recognition, Kolmogorov–Smirnov statistical test, reference point</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2018-0016">10.2478/amcs-2018-0016</a>

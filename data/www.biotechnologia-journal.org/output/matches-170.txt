@@ -1,0 +1,16 @@
+﻿3/2014
+5
+The-correlation-of-structural-features-of-mature-miRNAs-r-nwith-their-biological-function,85,25958,0
+abstract:</div><div>Review paper
+The correlation of structural features of mature miRNAs with their biological function
+h3>Agnieszka Belter, Mirosława Zofia Naskręt-Barciszewska</h3><div>vol. 95(3) C pp. 187-191 C 2014
+4.54793">https://doi.org/10.5114/bta.2014.54793
+a>View full text</a
+25958
+Belter A, Naskręt-Barciszewska M. The correlation of structural features of mature miRNAs with their biological function. BioTechnologia. 2015;95(3):187-191. doi:10.5114/bta.2014.54793
+Belter, A., &amp; Naskręt-Barciszewska, M. (2015). The correlation of structural features of mature miRNAs with their biological function. BioTechnologia, 95(3), 187-191. https://doi.org/10.5114/bta.2014.54793
+Belter, Agnieszka, and Mirosława Zofia Naskręt-Barciszewska. 2015. "The correlation of structural features of mature miRNAs with their biological function". BioTechnologia 95 (3): 187-191. doi:10.5114/bta.2014.54793
+Belter, A., and Naskręt-Barciszewska, M. (2015). The correlation of structural features of mature miRNAs with their biological function. BioTechnologia, 95(3), pp.187-191. https://doi.org/10.5114/bta.2014.54793
+Belter, Agnieszka et al. "The correlation of structural features of mature miRNAs with their biological function." BioTechnologia, vol. 95, no. 3, 2015, pp. 187-191. doi:10.5114/bta.2014.54793
+null
+miRNAs are short non-protein coding RNAs, being though a crucial regulators of gene expression of up to 90%<br><br>of human genes (Friedmann et al., 2009; Guo et al., 2010; Perron and Provost, 2010; Bartel, 2009; Esquela-Kerscher<br><br>and Slack, 2006; Bartel, 2006; Kozomara and Griffiths-Jones, 2011; Selbach et al., 2008). These tiny RNA<br><br>molecules tune cell growth, tissue differentiation, cell proliferation, embryonic development, apoptosis and cellular<br><br>signaling (Gaur et al., 2007; Godlewski et al., 2012; Kim et al., 2010; Cui et al., 2006). Even slight shift in<br><br>miRNA level could lead to significant changes of transcriptome, and in a result of cell phenotype. In the last decade,<br><br>over 30 000 mature miRNA sequences were deposited in miRBase (Griffiths-Jones et al., 2006). The function<br><br>of many of them have been found and anti-miRNA tools, as potential therapy approach have been designed.<br><br>Despite of an enormous data of miRNA, there are still many questions concerning miRNA function to be solved.<br><br>Following Francis Crick’s famous statement “If you want to understand function, study structure”, we were<br><br>looking for structure of mature miRNAs (Belter et al., 2014).</div

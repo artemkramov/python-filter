@@ -1,0 +1,17 @@
+﻿1/2011
+2
+RESEARCH-PAPER-Biotechnological-production-of-1-3-propanediol-r-nfrom-crude-glycerol,85,23855,0
+abstract:
+RESEARCH PAPER<br>Biotechnological production of 1,3-propanediol from crude glycerol
+h3>Agnieszka Drożdżyńska, Katarzyna Leja, Katarzyna Czaczyk</h3><div>BioTechnologia vol. 92(1) C pp. 92-100 C 2011
+1.46521">https://doi.org/10.5114/bta.2011.46521
+a>View full text</a
+23855
+Drożdżyńska A, Leja K, Czaczyk K. RESEARCH PAPER&lt;br&gt;Biotechnological production of 1,3-propanediol from crude glycerol. BioTechnologia. 2014;92(1):92-100. doi:10.5114/bta.2011.46521
+Drożdżyńska, A., Leja, K., &amp; Czaczyk, K. (2014). RESEARCH PAPER&lt;br&gt;Biotechnological production of 1,3-propanediol from crude glycerol. BioTechnologia, 92(1), 92-100. https://doi.org/10.5114/bta.2011.46521
+Drożdżyńska, Agnieszka, Katarzyna Leja, and Katarzyna Czaczyk. 2014. "RESEARCH PAPER&lt;br&gt;Biotechnological production of 1,3-propanediol from crude glycerol". BioTechnologia 92 (1): 92-100. doi:10.5114/bta.2011.46521
+Drożdżyńska, A., Leja, K., and Czaczyk, K. (2014). RESEARCH PAPER&lt;br&gt;Biotechnological production of 1,3-propanediol from crude glycerol. BioTechnologia, 92(1), pp.92-100. https://doi.org/10.5114/bta.2011.46521
+Drożdżyńska, Agnieszka et al. "RESEARCH PAPER&lt;br&gt;Biotechnological production of 1,3-propanediol from crude glycerol." BioTechnologia, vol. 92, no. 1, 2014, pp. 92-100. doi:10.5114/bta.2011.46521
+/div><div>1,3-Propanediol (1,3-PD) is one of the important products used in chemical industry, in particular for polyesters<br><br>production (e.g. polyethers and polyurethanes). Using crude glycerol for producing 1,3-PD is a good solution from<br><br>the economical as well as ecological point of view. Glycerol produced by cleavage of natural fats can be microbially<br><br>converted to 1.3-propanediol by, among others, Citrobacter, Klebsiella, Lactobacillus, Enterobacter, and Clostridium<br><br>strains. Biotechnological production of 1,3-PD from waste biomass is a promising and attractive alternative<br><br>to the traditional chemical synthesis. The production of 1,3-PD by glycerol fermentation was already reported in<br><br>1881. The microbiological bioconversion pathway of glycerol to 1,3-PD has been known for long but the microorganisms<br><br>taking part in this fermentation are not efficient. In addition, they are pathogenic. Consequently, natural<br><br>producers of 1,3-PD are still being sought. In this review we present a historical outline of 1,3-PD production,<br><br>as well as the microorganisms and their metabolic pathways that are involved in glycerol fermentation to<br><br>1,3-PD.<
+null
+keywords:</div><h3>bioconversion, glycerol, HPLC, 1,3-propanediol</h3

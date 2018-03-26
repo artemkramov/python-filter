@@ -1,0 +1,6 @@
+﻿4 - December 2009
+19 - 2009
+Trajectory tracking for a mobile robot with skid-slip compensation in the vector-field-orientation control system
+Maciej Michałek, Piotr Dutkiewicz, Marcin Kiełczewski, Dariusz Pazderski
+The article is devoted to a motion control problem for a differentially driven mobile robot in the task of trajectory tracking in the presence of skid-slip effects. The kinematic control concept presented in the paper is the Vector Field Orientation (VFO) feedback approach with a nonlinear feed-forward skid-slip influence compensation scheme. The VFO control law guarantees asymptotic convergence of the position tracking error to zero in spite of the disturbing influence of skid-slip phenomena. The paper includes a control law design description, stability and convergence analysis of a closed-loop system, and practical verification of the proposed control concept. The experimental results illustrate control quality obtained on a laboratory setup equipped with vision feedback, where the Kalman filter algorithm was used in order to practically estimate skid-slip components.
+differentially driven mobile robot, skid-slip compensation, trajectory tracking, vector fields</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-009-0043-1">10.2478/v10006-009-0043-1</a>

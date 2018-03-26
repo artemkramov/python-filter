@@ -1,0 +1,6 @@
+﻿3 - September 2015
+25 - 2015
+Bottom-up learning of hierarchical models in a class of deterministic POMDP environments
+Hideaki Itoh, Hisao Fukumoto, Hiroshi Wakuya, Tatsuya Furukawa
+The theory of partially observable Markov decision processes (POMDPs) is a useful tool for developing various intelligent agents, and learning hierarchical POMDP models is one of the key approaches for building such agents when the environments of the agents are unknown and large. To learn hierarchical models, bottom-up learning methods in which learning takes place in a layer-by-layer manner from the lowest to the highest layer are already extensively used in some research fields such as hidden Markov models and neural networks. However, little attention has been paid to bottom-up approaches for learning POMDP models. In this paper, we present a novel bottom-up learning algorithm for hierarchical POMDP models and prove that, by using this algorithm, a perfect model (i.e., a model that can perfectly predict future observations) can be learned at least in a class of deterministic POMDP environments.
+partially observable Markov decision processes, hierarchical models, bottom-up learning</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2015-0044">10.1515/amcs-2015-0044</a>

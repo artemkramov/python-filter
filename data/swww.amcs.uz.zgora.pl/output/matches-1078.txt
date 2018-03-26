@@ -1,0 +1,6 @@
+﻿4 - December 2007
+17 - 2007
+Reliability modeling of fault tolerant control systems
+Hongbin Li, Qing Zhao, Zhenyu Yang
+This paper proposes a novel approach to reliability evaluation for active Fault Tolerant Control Systems (FTCSs). By introducing a reliability index based on the control performance and hard deadline, a semi-Markov process model is proposed to describe system operation for reliability evaluation. The degraded performance of FTCSs in the presence of imperfect Fault Detection and Isolation (FDI) is reflected by semi-Markov states. The semi-Markov kernel, the key parameter of the process, is determined by four probabilistic parameters based on the Markovian model of FTCSs. Computed from the transition probabilities of the semi-Markov process, the reliability index incorporates control objectives, hard deadline, and the effects of imperfect FDI, a suitable quantitative measure of the overall performance.
+fault tolerant control, reliability evaluation, semi-Markov processes</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0041-0">10.2478/v10006-007-0041-0</a>

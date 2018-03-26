@@ -1,0 +1,6 @@
+﻿3 - September 1998
+8 - 1998
+Computing in the composite<em>GF(q<sup>m</sup>)</em>of characteristic 2 formed by means of an irreducible binomial
+Czesław Kościelny
+Since the operation of reduction modulo a polynomial needed for parallel computing in<em>GF(q<sup>m</sup>)</em>is the simplest possible in the case of a binomial, in this paper the main properties of irreducible binomials over<em>GF(q)</em>of characteristic 2 are given. It is shown that<em>P(x) = x<sup>m</sup>– P<sub>0</sub></em>is irreducible over<em>GF(q)</em>for<em>q</em>= 2<em><sup>s</sup></em>,<em>s</em>&gt; 1 if<em>m</em>≥ 3 divides<em>q</em>–1. The method of performing all multiplicative operations in<em>GF(q<sup>m</sup>)</em>of characteristic 2 (multiplication, rising to an arbitrary power, multiplicative inversion) formed by means of an irreducible polynomial is also presented. The use of irreducible binomials may be attractive for those engineers and researches who deal with implementation of hardware and microprogrammed devices for computing in<em>GF(q<sup>m</sup>)</em>, even if<em>m</em>and<em>q</em>are large.
+-

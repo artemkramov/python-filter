@@ -1,0 +1,6 @@
+﻿2 - June 1997
+7 - 1997
+Parameter identification in robot control
+Carsten Schmidt, Martin Prüfer
+This paper discusses practical problems of robot dynamics identification. The problems as well as possible solutions are illustrated by records from an experimental direct drive arm and a geared industrial robot. Questions regarding measurement noise, biased estimates, poor identifiability conditions, and the concepts of on-line and off-line identification are also discussed. The main contributions of the paper are a computationally cheap procedure for on-line identifiability supervision and a scheme which permits to reduce the bias of the least-squares estimator.
+-

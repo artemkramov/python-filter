@@ -1,0 +1,6 @@
+﻿4 - December 2005
+15 - 2005
+Realization problem for a class of positive continuous-time systems with delays
+Tadeusz Kaczorek
+The realization problem for a class of positive, continuous-time linear SISO systems with one delay is formulated and solved. Sufficient conditions for the existence of positive realizations of a given proper transfer function are established. A procedure for the computation of positive minimal realizations is presented and illustrated by an example.
+positive realization, continuous-time system, delay, existence, computation

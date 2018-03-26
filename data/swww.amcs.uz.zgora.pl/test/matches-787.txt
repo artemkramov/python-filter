@@ -1,0 +1,6 @@
+﻿1 - March 2011
+21 - 2011
+Stability and Hopf bifurcation analysis for a Lotka–Volterra predator-prey model with two delays
+Changjin Xu, Maoxin Liao, Xiaofei He
+In this paper, a two-species Lotka–Volterra predator-prey model with two delays is considered. By analyzing the associated characteristic transcendental equation, the linear stability of the positive equilibrium is investigated and Hopf bifurcation is demonstrated. Some explicit formulae for determining the stability and direction of Hopf bifurcation periodic solutions bifurcating from Hopf bifurcations are obtained by using normal form theory and center manifold theory. Some numerical simulations for supporting the theoretical results are also included.
+predator-prey model, delay, stability, Hopf bifurcation</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-011-0007-0">10.2478/v10006-011-0007-0</a>

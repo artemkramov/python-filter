@@ -1,0 +1,6 @@
+﻿2 - June 1996
+6 - 1996
+Domain optimization problems for parabolic control systems
+Samjra El Yacoubi, Jan Sokołowski
+In the paper, a class of shape optimization problems associated with the optimal location of distributed controls for parabolic systems is considered. The existence of solutions to optimization problems is established using a regularization technique. The first-order optimality conditions are obtained by an application of the material-derivative method. A relaxation method is proposed and the resulting parametric optimization problems are analysed.
+-

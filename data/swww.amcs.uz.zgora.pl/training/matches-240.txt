@@ -1,0 +1,6 @@
+﻿2 - June 1996
+6 - 1996
+Shape optimal design for a fluid-heat coupled system
+Denise Chenais, Jérôme Monnier, Jean-Paul Vila
+This paper deals with the shape optimal design problem for a fluid-heat coupled system used in the car industry. For modelling, we assume that the flow is stationary, potential and incompressible, and we consider the thermal transfer by convection, diffusion and radiation with multiple reflexions. The whole model is a non-linear integro-differential system of two partial differential equations and one integral equation. These three equations are coupled. We present the mathematical analysis of this model (the existence, uniqueness and regularity of the solution) as well as its numerical analysis. Then we present the shape optimal-design problem: we seek to minimize, with respect to the domain in which the equations are defined, a cost function which depends on the fluid temperature. This control problem is solved by a descent algorithm. We prove that, under some physical assumption, the solution of the system is differentiable with respect to the domain. We introduce the adjoint state equation and we give an expression for the differential of the exact cost function.
+-

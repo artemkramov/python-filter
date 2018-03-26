@@ -1,0 +1,6 @@
+﻿4 - December 2010
+20 - 2010
+Approach to the design of robust networked control systems
+Michał Morawski, Antoni M. Zajączkowski
+The paper describes the application of the traffic engineering framework together with application layer procedures as mechanisms for the reduction of network latency lags. These mechanisms allow using standard and inexpensive hardware and software technologies typically applied for office networking as a means of realising networked control systems (NCSs) with high dynamic control plants, where a high dynamic control plant is the one that requires the sampling period several times shorter than communication lags induced by a network. The general discussion is illustrated by experimental results obtained in a laboratory NCS with the magnetic levitation system (MLS), which is an example of a structurally unstable plant of high dynamics.
+networked control systems, traffic engineering, industrial communication</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-010-0052-0">10.2478/v10006-010-0052-0</a>

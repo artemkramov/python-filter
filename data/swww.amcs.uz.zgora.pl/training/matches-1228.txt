@@ -1,0 +1,6 @@
+﻿3 - September 2004
+14 - 2004
+Scheduling electric power generators using particle swarm optimization combined with the Lagrangian relaxation method
+Huseyin Hakan Balci, Jorge F. Valenzuela
+This paper describes a procedure that uses particle swarm optimization (PSO) combined with the Lagrangian Relaxation (LR) framework to solve a power-generator scheduling problem known as the unit commitment problem (UCP). The UCP consists of determining the schedule and production amount of generating units within a power system subject to operating constraints. The LR framework is applied to relax coupling constraints of the optimization problem. Thus, the UCP is separated into independent optimization functions for each generating unit. Each of these sub-problems is solved using Dynamic Programming (DP). PSO is used to evolve the Lagrangian multipliers. PSO is a population based search technique, which belongs to the swarm intelligence paradigm that is motivated by the simulation of social behavior to manipulate individuals towards better solution areas. The performance of the PSO-LR procedure is compared with results of other algorithms in the literature used to solve the UCP. The comparison shows that the PSO-LR approach is efficient in terms of computational time while providing good solutions.
+particle swarm optimization, unit commitment, Lagrange relaxation

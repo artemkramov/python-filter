@@ -1,0 +1,6 @@
+﻿3 - September 1994
+4 - 1994
+A neural network approach to genome sequence alignment
+Roman W. Świniarski, D. Waagen
+A technique for the alignment of genome sequences based on an adaptive nonlinear dynamic neural network is proposed. We present an extension to the fixed weight Hopfield neural network, creating a non-linear dynamic neural network, with weights values adaptively changing during neural processing. The weights of the proposed neural network are not fixed during the processing, but are continuously updated to achieve the minimal alignment according to the minimal sequence distance criterion. The binary coding of the alignment process has been adopted from the original work of Sellers (1979) to adaptive dynamic neural processing. The behaviour of the proposed neural network is modelled by computer simulation and the corresponding results are discussed.
+-

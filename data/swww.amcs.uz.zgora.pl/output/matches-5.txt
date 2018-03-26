@@ -1,0 +1,6 @@
+﻿6 - December 2001
+11 - 2001
+Exact controllability of an elastic membrane coupled with a potential fluid
+Scott Hansen
+We consider the problem of boundary control of an elastic system with coupling to a potential equation. The potential equation represents the linearized motions of an incompressible inviscid fluid in a cavity bounded in part by an elastic membrane. Sufficient control is placed on a portion of the elastic membrane to insure that the uncoupled membrane is exactly controllable. The main result is that if the density of the uid is sufficiently small, then the coupled system is exactly controllable.
+exact controllability, fluid-elastic interaction, fluid-structure interaction, potential fluid

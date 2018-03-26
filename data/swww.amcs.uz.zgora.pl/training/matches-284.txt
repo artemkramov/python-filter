@@ -1,0 +1,6 @@
+﻿2 - June 1995
+5 - 1995
+Finite element dynamic model of multilink flexible manipulators
+Wiesław Beres, Jerzy Z. Sasiadek
+Lagrange's finite element approach is used to formulate the dynamic model of a flexible manipulator system in the three-dimensional space. All manipulator links are considered as slim beams connected in one d.o.f. frictionless revolute joints. Beam-type finite elements, with interpolating polynomials of degree three and six generalized perturbation coordinates per finite element nodal point, are used for description of the link small displacement field. The Denavit-Hartenberg 4 x 4 matrix method is used to describe the flexible manipulator kinematics. Joint and link transformation matrices, describing the transformation of coordinate systems between the ends of the deformed manipulator link, have been applied. The resulting equations of motion take into account a coupling between the rigid body motion and elastic deformations of links.
+-

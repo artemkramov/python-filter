@@ -1,0 +1,6 @@
+﻿1 - March 1996
+6 - 1996
+On convex combinations of Hurwitz polynomials
+Jiří Gregor, Jaroslav Tišer
+The zero set of a convex hull of two polynomials is investigated with special attention to the class of Hurwitz polynomials. New necessary and sufficient conditions are given for a convex hull of these polynomials to belong to the same class. An algorithm of construction of Hurwitz interval polynomials containing a given Hurwitz polynomial is formulated.
+-

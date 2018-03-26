@@ -1,0 +1,6 @@
+﻿4 - December 1995
+5 - 1995
+Methods for computation of solutions to regular discrete-time linear systems
+Tadeusz Kaczorek
+Two new methods for the computation of solutions to regular discrete-time linear systems are presented. The first of them is an extension of the Diasesquista method for regular discrete-time linear systems. The other is based on an expansion in a series of the inverse matrix [<em>Ez – A</em>]<sup>-1</sup>. The methods are compared with the Weierstrass-Kronecker decomposition method and the Drazin inverse method. Relationships between the coefficient matrices of the four methods are established. A new mixed method is presented.
+-

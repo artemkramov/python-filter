@@ -1,0 +1,6 @@
+﻿1 - March 1993
+3 - 1993
+Functional simulation in teaching microprocessors architecture
+Jacek Majewski, Włodzimierz Barański
+The paper considers the problem of simulation the microprocessor hardware functions in the JBM PC/AT computer graphics. The simulation has been based on the assumption that the electric hardware details of microprocessors are not important from functional point of view. Control programs, Mitten by the users, for simulated environment and for real hardware must be the same. Of course is very important that simulated environment is invisible for the students. The paper considers as an example the process of preparation a control program for the model of plotter. The control plotter programs are written in 8086 assembler and compiled by real compiler: Borland TASM.
+-

@@ -1,0 +1,6 @@
+﻿4 - December 2010
+20 - 2010
+Use of semidefinite programming for solving the LQR problem subject to rectangular descriptor systems
+Muhafzan
+This paper deals with the Linear Quadratic Regulator (LQR) problem subject to descriptor systems for which the semidefinite programming approach is used as a solution. We propose a new sufficient condition in terms of primal dual semidefinite programming for the existence of the optimal state-control pair of the problem considered. The results show that semidefinite programming is an elegant method to solve the problem under consideration. Numerical examples are given to illustrate the results.
+rectangular descriptor system, LQR problem, restricted system equivalent, semidefinite programming</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-010-0048-9">10.2478/v10006-010-0048-9</a>

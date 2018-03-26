@@ -1,0 +1,6 @@
+﻿1 - March 2006
+16 - 2006
+Comparison of supervised learning methods for spike time coding in spiking neural networks
+Andrzej Kasiński, Filip Ponulak
+In this review we focus our attention on supervised learning methods for spike time coding in Spiking Neural Networks (SNNs). This study is motivated by recent experimental results regarding information coding in biological neural systems, which suggest that precise timing of individual spikes may be essential for efficient computation in the brain. We are concerned with the fundamental question: What paradigms of neural temporal coding can be implemented with the recent learning methods? In order to answer this question, we discuss various approaches to the learning task considered. We shortly describe the particular learning algorithms and report the results of experiments. Finally, we discuss the properties, assumptions and limitations of each method. We complete this review with a comprehensive list of pointers to the literature.
+supervised learning, spiking neural networks, time coding, temporal sequences of spikes

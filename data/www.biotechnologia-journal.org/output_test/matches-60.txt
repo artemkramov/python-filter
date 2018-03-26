@@ -1,0 +1,7 @@
+Production of an active human AID enzyme in a bacterial system
+a>View full text</a
+Budzko L, Jackowiak P, Figlerowicz M. Production of an active human AID enzyme in a bacterial system. BioTechnologia. 2016;97(3):235-239. doi:10.5114/bta.2016.62360
+Budzko, L., Jackowiak, P., &amp; Figlerowicz, M. (2016). Production of an active human AID enzyme in a bacterial system. BioTechnologia, 97(3), 235-239. https://doi.org/10.5114/bta.2016.62360
+Budzko, L., Jackowiak, P., and Figlerowicz, M. (2016). Production of an active human AID enzyme in a bacterial system. BioTechnologia, 97(3), pp.235-239. https://doi.org/10.5114/bta.2016.62360
+Budzko, Lucyna et al. "Production of an active human AID enzyme in a bacterial system." BioTechnologia, vol. 97, no. 3, 2016, pp. 235-239. doi:10.5114/bta.2016.62360
+The aim of our invention is to characterize a modified gene of human activation-induced cytidine deaminase (hAID ), a method of modification of hAID gene, a composition showing hAID activity, and a method of preparation of such composition in a bacterial system. In particular, the invention concerns a modified hAID gene for the production of an active enzyme in a bacterial system as well as use of such composition for the analyzes of DNA/RNA amination/deamination, and/or methylation/demethylation.</div

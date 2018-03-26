@@ -1,0 +1,17 @@
+﻿3/2013
+4
+Identification-of-miRNAs-and-their-potential-targets-r-nin-halophyte-plant-Thellungiella-halophila-,85,23815,0
+abstract:</div><div>Short communication
+Identification of miRNAs and their potential targets in halophyte plant<i>Thellungiella halophila</i>
+h3>Bahman Panahi, Seyed Abolgasem Mohammadi, Esmaiil Ebrahimie</h3><div>BioTechnologia vol. 94(3) C pp. 285-290 C 2013
+3.46422">https://doi.org/10.5114/bta.2013.46422
+a>View full text</a
+23815
+Panahi B, Mohammadi S, Ebrahimie E. Identification of miRNAs and their potential targets in halophyte plant &lt;i&gt;Thellungiella halophila&lt;/i&gt;. BioTechnologia. 2014;94(3):285-290. doi:10.5114/bta.2013.46422
+Panahi, B., Mohammadi, S., &amp; Ebrahimie, E. (2014). Identification of miRNAs and their potential targets in halophyte plant &lt;i&gt;Thellungiella halophila&lt;/i&gt;. BioTechnologia, 94(3), 285-290. https://doi.org/10.5114/bta.2013.46422
+Panahi, Bahman, Seyed Abolgasem Mohammadi, and Esmaiil Ebrahimie. 2014. "Identification of miRNAs and their potential targets in halophyte plant &lt;i&gt;Thellungiella halophila&lt;/i&gt;". BioTechnologia 94 (3): 285-290. doi:10.5114/bta.2013.46422
+Panahi, B., Mohammadi, S., and Ebrahimie, E. (2014). Identification of miRNAs and their potential targets in halophyte plant &lt;i&gt;Thellungiella halophila&lt;/i&gt;. BioTechnologia, 94(3), pp.285-290. https://doi.org/10.5114/bta.2013.46422
+Panahi, Bahman et al. "Identification of miRNAs and their potential targets in halophyte plant &lt;i&gt;Thellungiella halophila&lt;/i&gt;." BioTechnologia, vol. 94, no. 3, 2014, pp. 285-290. doi:10.5114/bta.2013.46422
+/div><div>MicroRNAs (miRNAs) are a class of non-coding RNAs with important role in gene regulation in various organisms.<br><br>These RNAs regulate gene expression at the post-transcriptional level. To date, several hundred plant miRNAs<br><br>have been deposited in the miRBase database. Many of them are conserved during the evolution of terrestrial<br><br>plants, suggesting that the well-conserved miRNAs may also retain homologous target interactions. So far, there<br><br>has been no experimental or computational identification of miRNAs and their target genes in<i>Thellungiella halophila</i>.<br><br>Here, using a computational homology based search approach and according to a series of filtering criteria,<br><br>a total of 8 miRNAs belonging to 4 miRNA families were detected from the Expressed Sequence Tags (EST) databases.<br><br>Potential target genes of these predicted miRNAs were subsequently assessed. Our findings showed that<br><br>among the target genes, most of them encode transcription factors and enzymes that participate in regulation<br><br>of development, growth and other physiological processes.<
+null
+keywords:</div><h3><i>Thellungiella halophila</i>, Expressed Sequence Tags, microRNA, target genes</h3

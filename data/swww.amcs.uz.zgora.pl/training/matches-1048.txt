@@ -1,0 +1,6 @@
+﻿2 - June 2007
+17 - 2007
+Regularization parameter selection in discrete ill-posed problems - The use of the U–curve
+Dorota Krawczyk-Stańdo, Marek Rudnicki
+To obtain smooth solutions to ill-posed problems, the standard Tikhonov regularization method is most often used. For the practical choice of the regularization parameter α we can then employ the well-known L-curve criterion, based on the L-curve which is a plot of the norm of the regularized solution versus the norm of the corresponding residual for all valid regularization parameters. This paper proposes a new criterion for choosing the regularization parameter α, based on the so-called U-curve. A comparison of the two methods made on numerical examples is additionally included.
+ill-posed problems, Tikhonov regularization, regularization parameter, L-curve, U-curve</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0014-3">10.2478/v10006-007-0014-3</a>

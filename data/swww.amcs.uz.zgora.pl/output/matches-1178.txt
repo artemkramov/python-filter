@@ -1,0 +1,6 @@
+﻿4 - December 2005
+15 - 2005
+Image retrieval based on hierarchical Gabor filters
+Tomasz Andrysiak, Michał Choraś
+Content Based Image Retrieval (CBIR) is now a widely investigated issue that aims at allowing users of multimedia information systems to automatically retrieve images coherent with a sample image. A way to achieve this goal is the computation of image features such as the color, texture, shape, and position of objects within images, and the use of those features as query terms. We propose to use Gabor filtration properties in order to find such appropriate features. The article presents multichannel Gabor filtering and a hierarchical image representation. Then a salient (characteristic) point detection algorithm is presented so that texture parameters are computed only in a neighborhood of salient points. We use Gabor texture features as image content descriptors and efficiently emply them to retrieve images.
+Gabor filters, image retrieval, texture feature extraction, hierarchical representation

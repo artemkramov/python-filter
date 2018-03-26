@@ -1,0 +1,15 @@
+﻿Raman-scattering-utilization-for-distributed-temperature-measurement-in-optical-fibres,81470
+3-2015,3236">3/2015 vol. 16
+Application-development-for-analysis-of-bevel-gears-engagement-using-FEM,81471,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/Application-of-selected-frequency-characteristics-of-vibration-signal-for-the-evaluation,81469,0,2.html" title="PREVIOUS
+Raman scattering utilization for distributed temperature measurement in optical fibres
+Robert-Cybulski/74919">Robert Cybulski
+null
+R.Cybulski@tele.pw.edu.pl
+>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Krzysztof-Perlicki/74920">Krzysztof Perlicki</a></span>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Mirosław-Siergiejczyk/35752">Mirosław Siergiejczyk</a></span><sup>2</sup
+Warsaw University of Technology, Faculty of Electronics and Information Technology,</span></div></td></tr><tr><td>2</td><td><div><span>arsaw University of Technology, Faculty of Transport
+Publish date: 2017-12-21
+5;16(3):39–46
+81470-16951?filename=Raman scattering
+scattering/6859">scattering<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-Raman/57980">Raman<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-temperature/10891">temperature
+measurement/16293">measurement
+Concept of fibre spontaneous Raman scattering utilizing for distributed temperature sensing is presented. Chosen approach uses both backscattered Stokes as reference and anti-Stokes as detection signals. The analysis is carried out towards Stokes and anti-Stokes bands temperature dependence. In order to achieve best measurement accuracy influence of maximum modulation frequency on spatial resolution is verified. Analysed technique allows to calculate temperature along the fibre with 5 m space precision and 1°C temperature precision. Simulations involve 200 m standard single mode fibre in temperatures in range &lt; -5°C , 60 °C&gt; with 2x1100 m reference fibremaintained in 22°C.

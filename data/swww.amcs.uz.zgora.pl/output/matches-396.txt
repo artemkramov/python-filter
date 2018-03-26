@@ -1,0 +1,6 @@
+﻿1 - March 1993
+3 - 1993
+Some diagnostic properties of reconfigurable integrated circuits with boundary scan
+Jerzy Kern
+The paper presents a solution of the self-diagnostic problem of digital system by application of reconfigurable integrated circuits and boundary scan architecture. The implemented method of Built-In Self Test (BIST) is non-concurrent one and bases on the reconfiguration of the digital system, when the test mode has to be introduced. The author, with a microcontroller system as an example, shows an idea of improving the system diagnosability with minimum hardware overhead, by introducing reprogrammable gate arrays (FPGA) with modified functions, including adaptable BIST functions.
+-

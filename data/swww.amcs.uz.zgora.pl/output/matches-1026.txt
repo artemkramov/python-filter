@@ -1,0 +1,6 @@
+﻿4 - December 2008
+18 - 2008
+Fault diagnosis of networked control systems
+Christophe Aubrun, Dominique Sauter, Joseph Yamé
+Networked Control Systems (NCSs) deal with feedback control systems with loops closed via data communication networks. Control over a network has many advantages compared with traditionally controlled systems, such as a lower implementation cost, reduced wiring, simpler installation and maintenance and higher reliability. Nevertheless, the network-induced delay, packet dropout, asynchronous behavior and other specificities of networks will degrade the performance of closed-loop systems. In this context, it is necessary to develop a new theory for systems that operate in a distributed and asynchronous environment. Research on Fault Detection and Isolation (FDI) for NCSs has received increasing attention in recent years. This paper reviews the state of the art in this topic.
+networked control systems, fault diagnosis, fault tolerant control, network-induced time delays, packet losses, limited communication</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0046-3">10.2478/v10006-008-0046-3</a>

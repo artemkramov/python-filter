@@ -1,0 +1,6 @@
+﻿1 - March 1995
+5 - 1995
+Analog neural networks for solving in real-time linear inverse and total least squares problems
+Andrzej Cichocki, Tadeusz Kaczorek, Janusz Mazurek
+A class of simplified low-cost artificial neural networks with on-line adaptive learning algorithms are discussed for solving large system of algebraic equations and related problems in real-time. The proposed learning algorithms for Least Squares (LS), Total Least Squares (TLS) and Data Least Squares (DLS) problems can be considered as an extension and generalization of the well known Least Mean Squares (LMS) and Kaczmarz algorithms. A generalized maximum entropy and minimum<em>p-norm</em>criteria are used as a principle for reconstructing images and/or signals from noisy and incomplete projection data. The inverse problem is reformulated as a suitable optimization problem and solved by a unified neural network.
+-

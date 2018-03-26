@@ -1,0 +1,15 @@
+﻿The-detection-of-anomalies-in-controlling-of-the-combustion-process-by-using-a-genetic,81495
+1-2016,3238">1/2016 vol. 17
+The-detection-of-anomalies-in-controlling-of-the-combustion-process-by-using-a-negative,81496,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/Uniformity-testing-of-complex-technical-system-operation-process-statistical-data,81494,0,2.html" title="PREVIOUS
+The detection of anomalies in controlling of the combustion process by using a genetic algorithm
+Jacek-Marciniak/74948">Jacek Marciniak
+null
+jacek.marciniak@meckoszalin.pl
+Katedra Systemów Cyfrowego Przetwarzania Sygnałów na Wydziale Elektroniki i Informatyki Politechnika Koszalińska, 75-453 Koszalin, ul Śniadeckich 2
+Publish date: 2017-12-21
+6;17(1):21–27
+81495-16987?filename=The detection of
+genetic+algorithm/34359">genetic algorithm<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-diagnose/66811">diagnose
+anomaly+detection/126052">anomaly detection
+The article presents the problem of dynamically changing fuel quality during the control of combustion process. The way of the measurement process variables related with this process was described. In the next part of the article schematics, ideas and genetic algorithm were presented by the author. They are also presented conditions in which the above anomaly detection algorithm perform in the regulation of combustion. The results of these solution were presented in the final section.
+></div></div><div><div><div></div>Related articles</div><div><div><a href="http://www.diagnostyka.net.pl/The-detection-of-anomalies-in-controlling-of-the-combustion-process-by-using-a-negative,81496,0,2.html">The detection of anomalies in controlling of the combustion process by using a negative selection alghorithm</a></div

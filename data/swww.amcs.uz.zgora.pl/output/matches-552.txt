@@ -1,0 +1,6 @@
+﻿1 - March 2014
+24 - 2014
+On attaining the prescribed quality of a controlled fourth order system
+Vladimir Kapustyan, Vyacheslav Maksimov
+In this paper, we discuss a method of auxiliary controlled models and its application to solving some robust control problems for a system described by differential equations. As an illustration, a system of nonlinear differential equations of the fourth order is used. A solution algorithm, which is stable with respect to informational noise and computational errors, is presented. The algorithm is based on a combination of online state/input reconstruction and feedback control methods.
+auxiliary models, feedback control, online reconstruction</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0006">10.2478/amcs-2014-0006</a>

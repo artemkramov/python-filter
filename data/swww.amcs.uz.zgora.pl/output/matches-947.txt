@@ -1,0 +1,6 @@
+﻿2 - June 2009
+19 - 2009
+Statistical estimation of the dynamics of watershed dams
+Zbisław Tabor
+In the present study the notion of watershed contour dynamics, defined within the framework of mathematical morphology, is examined. It is shown that the dynamics are a direct measure of the "sharpness" of transition between neighboring watershed basins. The expressions for the expected value and the statistical error of the estimation of contour dynamics are derived in the presence of noise, based on extreme value theory. The sensitivity of contour dynamics to noise is studied. A statistical approach to the notion of contour dynamics is developed and a definition of statistical dynamics is proposed.
+hierarchical segmentation, contour dynamics, mathematical morphology, statistical analysis</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-009-0030-6">10.2478/v10006-009-0030-6</a>

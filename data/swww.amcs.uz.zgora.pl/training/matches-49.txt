@@ -1,0 +1,6 @@
+﻿3 - September 2000
+10 - 2000
+EHMAC – A new simple tool for robust linear multivariable control
+Krzysztof J. Latawiec, Ryszard Rojek
+A combination of long range predictive control-originated EHPC and internal model control-structured MAC is shown to produce a new, simple but effective Extended Horizon Model Algorithmic Control (EHMAC). The EHMAC strategy can be used to robustly control open-loop stable non-minimum phase (possibly non-square) MIMO systems under very large model-plant mismatches. Robust EHMAC design is made straightforward by means of a separate selection of a single prediction horizon and an IMC filter parameter, which can be easily auto-tuned.
+internal model control, model-based predictive control, multivariable control, orthonormal basis functions, robust control

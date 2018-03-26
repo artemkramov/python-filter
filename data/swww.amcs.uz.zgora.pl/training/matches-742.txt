@@ -1,0 +1,6 @@
+﻿3 - September 2012
+22 - 2012
+<em>H-infinity</em>control of discrete-time linear systems constrained in state by equality constraints
+Anna Filasová, Dušan Krokavec
+In this paper, stabilizing problems in control design are addressed for linear discrete-time systems, reflecting equality constraints tying together some state variables. Based on an enhanced representation of the bounded real lemma for discrete-time systems, the existence of a state feedback control for such conditioned stabilization is proven, and an LMI-based design procedure is provided. The control law gain computation method used circumvents generally an ill-conditioned singular design task. The principle, when compared with previously published results, indicates that the proposed method outperforms the existing approaches, guarantees feasibility, and improves the steady-state accuracy of the control. Furthermore, better performance is achieved with essentially reduced design effort. The approach is illustrated on simulation examples, where the validity of the proposed method is demonstrated using one state equality constraint.
+equality constraints, discrete-time systems, linear matrix inequality, state feedback, control algorithms, quadratic stability, singular systems</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0042-5">10.2478/v10006-012-0042-5</a>

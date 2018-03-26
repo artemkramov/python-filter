@@ -1,0 +1,6 @@
+﻿2 - June 2004
+14 - 2004
+Minimal realization for positive multivariable linear systems with delay
+Tadeusz Kaczorek, Mikołaj Busłowicz
+The realization problem for positive multivariable discrete-time systems with one time delay is formulated and solved. Conditions for the solvability of the realization problem are established. A procedure for the computation of a minimal positive realization of a proper rational matrix is presented and illustrated by an example.
+positive realization, discrete-time system, time delay, existence, computation

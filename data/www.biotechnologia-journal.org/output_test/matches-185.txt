@@ -1,0 +1,7 @@
+Determining the structural amino acid attributes which are important in both protein thermostability and alkalophilicity: a case study on xylanase
+a>View full text</a
+Delavari A, Zare S, Ghaemi M, et al. Determining the structural amino acid attributes which are important in both protein thermostability and alkalophilicity: a case study on xylanase. BioTechnologia. 2015;95(2):161-173. doi:10.5114/bta.2014.48858
+Delavari, A., Zare, S., Ghaemi, M., Kashfi, R., Ebrahimi, M., &amp; Tahmasebi, A. et al. (2015). Determining the structural amino acid attributes which are important in both protein thermostability and alkalophilicity: a case study on xylanase. BioTechnologia, 95(2), 161-173. https://doi.org/10.5114/bta.2014.48858
+Delavari, Azar, Sajjad Zare, Mohammad Reza Ghaemi, Rafieh Kashfi, Mahdi Ebrahimi, Ahmad Tahmasebi, and Mansour Ebrahimi et al. 2015. "Determining the structural amino acid attributes which are important in both protein thermostability and alkalophilicity: a case study on xylanase". BioTechnologia 95 (2): 161-173. doi:10.5114/bta.2014.48858
+Delavari, A., Zare, S., Ghaemi, M., Kashfi, R., Ebrahimi, M., Tahmasebi, A., Ebrahimi, M., and Ebrahimie, E. (2015). Determining the structural amino acid attributes which are important in both protein thermostability and alkalophilicity: a case study on xylanase. BioTechnologia, 95(2), pp.161-173. https://doi.org/10.5114/bta.2014.48858
+>sequence-derived amino acid attributes using data mining.<

@@ -1,0 +1,6 @@
+﻿2 - June 1995
+5 - 1995
+On the existence of an optimally failure tolerant 7R manipulator Jacobian
+Anthony A. Maciejewski, Rodney G. Roberts
+Kinematically redundant manipulators have been proposed for use in remote or hazardous environments due to their potential for tolerance to joint failures. This article defines a local measure of failure tolerance based on the worst-case dexterity following a locked joint failure. Optimal values of this measure are identified and related to the required structure of a Jacobian matrix. It is shown that it is trivial to derive manipulator configurations that correspond to the desired Jacobians with the single exception of a manipulator with seven rotational joints that is required to perform tasks which require fully general linear and rotational velocities of the end effector.
+-

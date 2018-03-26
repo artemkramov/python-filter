@@ -1,0 +1,6 @@
+﻿1 - March 2011
+21 - 2011
+Algebraic approach for model decomposition: Application to fault detection and isolation in discrete-event systems
+Denis Berdjag, Vincent Cocquempot, Cyrille Christophe, Alexey Shumsky, Alexey Zhirabok
+This paper presents a constrained decomposition methodology with output injection to obtain decoupled partial models. Measured process outputs and decoupled partial model outputs are used to generate structured residuals for Fault Detection and Isolation (FDI). An algebraic framework is chosen to describe the decomposition method. The constraints of the decomposition ensure that the resulting partial model is decoupled from a given subset of inputs. Set theoretical notions are used to describe the decomposition methodology in the general case. The methodology is then detailed for discrete-event model decomposition using pair algebra concepts, and an extension of the output injection technique is used to relax the conservatism of the decomposition.
+algebraic approaches, decomposition methods, decoupling, discrete-event systems</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-011-0008-z">10.2478/v10006-011-0008-z</a>

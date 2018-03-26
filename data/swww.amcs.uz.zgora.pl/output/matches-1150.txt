@@ -1,0 +1,6 @@
+﻿2 - June 2005
+15 - 2005
+Output stabilization for infinite-dimensional bilinear systems
+El Hassan Zerrik, Mohamed Ouzahra
+The purpose of this paper is to extend results on regional internal stabilization for infinite bilinear systems to the case where the subregion of interest is a part of the boundary of the system evolution domain. Then we characterize either stabilizing control on a boundary part, or the one minimizing a given cost of performance. The obtained results are illustrated with numerical examples.
+infinite bilinear systems, output stabilization, regional stabilization

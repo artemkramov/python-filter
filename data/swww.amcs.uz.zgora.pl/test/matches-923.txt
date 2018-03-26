@@ -1,0 +1,6 @@
+﻿1 - March 2009
+19 - 2009
+Reachability of cone fractional continuous-time linear systems
+Tadeusz Kaczorek
+A new class of cone fractional continuous-time linear systems is introduced. Necessary and sufficient conditions for a fractional linear system to be a cone fractional one are established. Sufficient conditions for the reachability of cone fractional systems are given. The discussion is illustrated with an example of linear cone fractional systems.
+cone fractional system, linear systems, reachability</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-009-0008-4">10.2478/v10006-009-0008-4</a>

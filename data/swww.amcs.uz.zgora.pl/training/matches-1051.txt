@@ -1,0 +1,6 @@
+﻿2 - June 2007
+17 - 2007
+Iterative estimators of parameters in linear models with partially variant coefficients
+Shaolin Hu, Karl Meinke, Rushan Chen, Ouyang Huajiang
+A new kind of linear model with partially variant coefficients is proposed and a series of iterative algorithms are introduced and verified. The new generalized linear model includes the ordinary linear regression model as a special case. The iterative algorithms efficiently overcome some difficulties in computation with multidimensional inputs and incessantly appending parameters. An important application is described at the end of this article, which shows that this new model is reasonable and applicable in practical fields.
+linear model, parameter estimation, iterative algorithms, variant coefficients</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0017-0">10.2478/v10006-007-0017-0</a>

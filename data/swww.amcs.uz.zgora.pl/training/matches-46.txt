@@ -1,0 +1,6 @@
+﻿2 - June 2016
+26 - 2016
+Exact and heuristic approaches to solve the Internet shopping optimization problem with delivery costs
+Mario C. Lopez-Loces, Jedrzej Musial, Johnatan E. Pecero, Hector J. Fraire-Huacuja, Jacek Blazewicz, Pascal Bouvry
+Internet shopping has been one of the most common online activities, carried out by millions of users every day. As the number of available offers grows, the difficulty in getting the best one among all the shops increases as well. In this paper we propose an integer linear programming (ILP) model and two heuristic solutions, the MinMin algorithm and the cellular processing algorithm, to tackle the Internet shopping optimization problem with delivery costs. The obtained results improve those achieved by the state-of-the-art heuristics, and for small real case scenarios ILP delivers exact solutions in a reasonable amount of time.
+Internet shopping optimization, integer linear programming, cellular processing algorithm, heuristic algorithms, optimization in e-commerce</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0028">10.1515/amcs-2016-0028</a>

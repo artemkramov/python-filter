@@ -1,0 +1,6 @@
+a>View full text</a
+Afshar B, Golkar P. Mucilage synthesis by &lt;i&gt;in vitro &lt;/i&gt;cell culture in different species of &lt;i&gt;Alyssum&lt;/i&gt;. BioTechnologia. 2016;97(2):79-86. doi:10.5114/bta.2016.60778
+Afshar, B., &amp; Golkar, P. (2016). Mucilage synthesis by &lt;i&gt;in vitro &lt;/i&gt;cell culture in different species of &lt;i&gt;Alyssum&lt;/i&gt;. BioTechnologia, 97(2), 79-86. https://doi.org/10.5114/bta.2016.60778
+Afshar, Bahareh, and Pooran Golkar. 2016. "Mucilage synthesis by &lt;i&gt;in vitro &lt;/i&gt;cell culture in different species of &lt;i&gt;Alyssum&lt;/i&gt;". BioTechnologia 97 (2): 79-86. doi:10.5114/bta.2016.60778
+Afshar, B., and Golkar, P. (2016). Mucilage synthesis by &lt;i&gt;in vitro &lt;/i&gt;cell culture in different species of &lt;i&gt;Alyssum&lt;/i&gt;. BioTechnologia, 97(2), pp.79-86. https://doi.org/10.5114/bta.2016.60778
+Afshar, Bahareh et al. "Mucilage synthesis by &lt;i&gt;in vitro &lt;/i&gt;cell culture in different species of &lt;i&gt;Alyssum&lt;/i&gt;." BioTechnologia, vol. 97, no. 2, 2016, pp. 79-86. doi:10.5114/bta.2016.60778

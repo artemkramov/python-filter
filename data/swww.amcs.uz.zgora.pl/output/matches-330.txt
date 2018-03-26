@@ -1,0 +1,6 @@
+﻿2 - June 1994
+4 - 1994
+Rapid genome evolution, cancer and heritable diseases: a modelling perspective
+Marek Kimmel
+Rapid changes in composition and amount of human DNA are accompanying diseases like cancer or certain heritable disorders. Dynamics of these changes can be better understood if viewed using probabilistic models. The agreement between the mathematical model and the experimental data lends credence to the biological theories devised to explain experimental observations.
+-

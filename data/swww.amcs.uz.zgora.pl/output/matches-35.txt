@@ -1,0 +1,6 @@
+﻿2 - June 2016
+26 - 2016
+A discrete-time queueing system with changes in the vacation times
+Ivan Atencia
+This paper considers a discrete-time queueing system in which an arriving customer can decide to follow a last come first served (LCFS) service discipline or to become a negative customer that eliminates the one at service, if any. After service completion, the server can opt for a vacation time or it can remain on duty. Changes in the vacation times as well as their associated distribution are thoroughly studied. An extensive analysis of the system is carried out and, using a probability generating function approach, steady-state performance measures such as the first moments of the busy period of the queue content and of customers delay are obtained. Finally, some numerical examples to show the influence of the parameters on several performance characteristics are given.
+: discrete-time queueing theory, changes in the remaining vacation times, busy period, sojourn times</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0027">10.1515/amcs-2016-0027</a>

@@ -1,0 +1,6 @@
+﻿3 - September 1999
+9 - 1999
+Evolutionary multi-objective Pareto optimisation of diagnostic state observers
+Zdzisław Kowalczuk, Piotr Suchomski, Tomasz Białaszewski
+A multi-objective Pareto-optimisation procedure for the design of residual generators which constitute a primary instrument for model-based fault detection and isolation (FDI) in systems of plant monitoring and control is considered. An evolutionary approach to the underlying multi-objective optimisation problem is utilised. The resulting robust observer detector allows for FDI, taking into account the issue of false alarms.
+diagnostics, fault detection and isolation, genetic algorithms, multiobjective optimisation, Pareto-optimality, residuals, state observers

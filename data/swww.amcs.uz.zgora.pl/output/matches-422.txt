@@ -1,0 +1,6 @@
+﻿3 - September 1993
+3 - 1993
+Group method of data handling in technical diagnostic tasks
+Janusz Kuś, Zbigniew Banaszak
+The work presents a certain concept of an advisory system, which assists in making decisions in the technical diagnostic tasks. To this end, as a mathematical formalizm, the Group Method of Data Handling (GMDH), from the class of genetic algorithms has been adopted. The rules of the knowledge base creation and the stages of the algorithm GMDH realization have been discussed and commented. Following this theoretical basis, the assumption of the computer-aided diagnostic of technical objects system has been formulated. The work has been completed with an example illustrating advantages and disadvantages of the solution proposed.
+-

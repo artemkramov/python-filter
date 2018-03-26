@@ -1,0 +1,17 @@
+﻿4/2012
+3
+REVIEW-PAPER-How-to-study-G-quadruplex-structures,85,23918,0
+abstract:
+REVIEW PAPER<br>How to study G-quadruplex structures
+h3>Magdalena Małgowska, Dorota Gudanis, Anna Teubert, Grażyna Dominiak, Zofia Gdaniec</h3><div>BioTechnologia vol. 93(4) C pp. 381-390 C 2012
+2.46592">https://doi.org/10.5114/bta.2012.46592
+a>View full text</a
+23918
+Małgowska M, Gudanis D, Teubert A, Dominiak G, Gdaniec Z. REVIEW PAPER&lt;br&gt;How to study G-quadruplex structures. BioTechnologia. 2014;93(4):381-390. doi:10.5114/bta.2012.46592
+Małgowska, M., Gudanis, D., Teubert, A., Dominiak, G., &amp; Gdaniec, Z. (2014). REVIEW PAPER&lt;br&gt;How to study G-quadruplex structures. BioTechnologia, 93(4), 381-390. https://doi.org/10.5114/bta.2012.46592
+Małgowska, Magdalena, Dorota Gudanis, Anna Teubert, Grażyna Dominiak, and Zofia Gdaniec. 2014. "REVIEW PAPER&lt;br&gt;How to study G-quadruplex structures". BioTechnologia 93 (4): 381-390. doi:10.5114/bta.2012.46592
+Małgowska, M., Gudanis, D., Teubert, A., Dominiak, G., and Gdaniec, Z. (2014). REVIEW PAPER&lt;br&gt;How to study G-quadruplex structures. BioTechnologia, 93(4), pp.381-390. https://doi.org/10.5114/bta.2012.46592
+Małgowska, Magdalena et al. "REVIEW PAPER&lt;br&gt;How to study G-quadruplex structures." BioTechnologia, vol. 93, no. 4, 2014, pp. 381-390. doi:10.5114/bta.2012.46592
+/div><div>All guanine-rich DNA and RNA molecules tend to fold into inter- and intra-molecular structures called G-quadruplexes.<br><br>The core of a G-quadruplex is composed of at least two adjacent G-tetrads stabilized by monovalent cations.<br><br>While it has been suggested that there could potentially be over 375 000 quadruplex forming sequences<br><br>in the human genome alone, only a small number of three-dimensional G-quadruplex structures are known. More<br><br>structural data are needed to explain their presence and function<i>in vivo</i>. We offer here a short review of experimental<br><br>methods commonly used to determine G-quadruplex topologies.<
+null
+keywords:</div><h3>G-quadruplex, UV spectroscopy, CD spectroscopy, mass spectrometry, NMR spectroscopy</h3

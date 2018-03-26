@@ -1,0 +1,6 @@
+﻿3 - September 2003
+13 - 2003
+Population genetics models for the statistics of DNA samples under different demographic scenarios - Maximum likelihood versus approximate methods
+Andrzej Polański, Marek Kimmel
+The paper reviews the basic mathematical methodology of modeling neutral genetic evolution, including the statistics of the Fisher-Wright process, models of mutation and the coalescence method under various demographic scenarios. The basic approach is the use of maximum likelihood techniques. However, due to computational problems, intuitive or approximate methods are also of great importance.
+DNA samples, demography, coalescence

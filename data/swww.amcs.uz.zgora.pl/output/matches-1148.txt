@@ -1,0 +1,6 @@
+﻿1 - March 2005
+15 - 2005
+Monomial subdigraphs of reachable and controllable positive discrete-time systems
+Rafael Bru, Louis Caccetta, Ventsi G. Rumchev
+A generic structure of reachable and controllable positive linear systems is given in terms of some characteristic components (monomial subdigraphs) of the digraph of a non-negative a pair. The properties of monomial subdigraphs are examined and used to derive reachability and controllability criteria in a digraph form for the general case when the system matrix<em>A</em>may contain zero columns. The graph-theoretic nature of these criteria makes them computationally more efficient than their known equivalents. The criteria identify not only the reachability and controllability properties of positive linear systems, but also their reachable and controllable parts (subsystems) when the system does not possess such properties.
+positive linear systems, reachability, controllability, system structure, monomial subdigraphs

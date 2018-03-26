@@ -2,4 +2,3 @@ Adaptive Normalization of Normal Vectors During Diffuse and Specular Color Compo
 Romanyuk A.N., Melnikov A.М.
 The problems of normal vectors adaptive normalization during three-dimensional graphic figures shading using Phong method are considered. It is offered to execute normalization of normal vectors in boundary dots of digital segments, with consequent calculation of intermediate normals values with usage of linear interpolating subject to the condition that their deflection from a unit size does not exceed set value. Fig.: 4. Refs: 6 titles
 shading, rendering, normalization, normal vectors.
-vidstan10.doc

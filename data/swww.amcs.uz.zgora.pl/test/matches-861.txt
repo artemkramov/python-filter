@@ -1,0 +1,6 @@
+﻿1 - March 2010
+20 - 2010
+A new efficient and flexible algorithm for the design of testable subsystems
+Stéphane Ploix, Abed Alrahim Yassine, Jean-Marie Flaus
+In complex industrial plants, there are usually many sensors and the modeling of plants leads to lots of mathematical relations. This paper presents a general method for finding all the possible testable subsystems, i.e., sets of relations that can lead to various types of detection tests. This method, which is based on structural analysis, provides the constraints that have to be used for the design of each detection test and manages situations where constraints contain non-deductible variables and where some constraints cannot be gathered in the same test. Thanks to these results, it becomes possible to select the most interesting testable subsystems regarding detectability and diagnosability criteria. Application examples dealing with a road network, a digital counter and an electronic circuit are presented.
+automatic test design, structural approach, fault diagnosis, analytical redundancy relations, relational algebra</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-010-0013-7">10.2478/v10006-010-0013-7</a>

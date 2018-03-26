@@ -1,0 +1,6 @@
+﻿3 - September 2012
+22 - 2012
+Optimal estimator of hypothesis probability for data mining problems with small samples
+Andrzej Piegat, Marek Landowski
+<em>Please see the paper file.</em>
+single-case problem, probability, probability estimation, frequency interpretation of probability, completeness interpretation of probability, uncertainty theory</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0048-z">10.2478/v10006-012-0048-z</a>

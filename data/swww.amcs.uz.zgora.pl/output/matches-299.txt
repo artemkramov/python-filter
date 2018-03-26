@@ -1,0 +1,6 @@
+﻿3 - September 1995
+5 - 1995
+Partially defined control systems. Controllability and stabilizability
+Zbigniew Bartosiewicz
+The paper gives a setting for studying controllability and stabilizability of partially defined systems. Some results known for globally defined systems are transferred to this more general setting, some are shown to be not valid for partially defined systems. Global reachability and local stabilizability for partially defined linear systems are studied in more detail.
+-

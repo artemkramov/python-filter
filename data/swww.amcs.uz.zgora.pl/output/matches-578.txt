@@ -1,0 +1,6 @@
+﻿1 - March 2017
+27 - 2017
+Machine-learning in optimization of expensive black-box functions
+Yoel Tenne
+Modern engineering design optimization often uses computer simulations to evaluate candidate designs. For some of these designs the simulation can fail for an unknown reason, which in turn may hamper the optimization process. To handle such scenarios more effectively, this study proposes the integration of classifiers, borrowed from the domain of machine learning, into the optimization process. Several implementations of the proposed approach are described. An extensive set of numerical experiments shows that the proposed approach improves search effectiveness.
+simulations, metamodels, classifiers, machine learning</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2017-0008">10.1515/amcs-2017-0008</a>

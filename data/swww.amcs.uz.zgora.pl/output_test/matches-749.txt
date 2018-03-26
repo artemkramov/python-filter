@@ -1,0 +1,3 @@
+Optimal estimator of hypothesis probability for data mining problems with small samples
+Andrzej Piegat, Marek Landowski
+Please see the paper file.</em>

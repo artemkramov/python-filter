@@ -1,0 +1,17 @@
+﻿1/2017
+8
+Detection-and-characteristics-r-nof-sulfamethoxazole-resistant-bacteria-r-nin-constructed-wetlands-treating-r-nsulfamethoxazole-rich-wastewater,85,29642,0
+abstract:</div><div>RESEARCH PAPERS
+Detection and characteristics of sulfamethoxazole-resistant bacteria in constructed wetlands treating sulfamethoxazole-rich wastewater
+h3>Aleksandra Ziembińska-Buczyńska, Karolina Wyszyńska, Korneliusz Miksch</h3><div>BioTechnologia vol. 98(1) C pp. 15-23 C 2017
+7.66613">https://doi.org/10.5114/bta.2017.66613
+a>View full text</a
+29642
+Ziembińska-Buczyńska A, Wyszyńska K, Miksch K. Detection and characteristics of sulfamethoxazole-resistant bacteria in constructed wetlands treating sulfamethoxazole-rich wastewater. BioTechnologia. 2017;98(1):15-23. doi:10.5114/bta.2017.66613
+Ziembińska-Buczyńska, A., Wyszyńska, K., &amp; Miksch, K. (2017). Detection and characteristics of sulfamethoxazole-resistant bacteria in constructed wetlands treating sulfamethoxazole-rich wastewater. BioTechnologia, 98(1), 15-23. https://doi.org/10.5114/bta.2017.66613
+Ziembińska-Buczyńska, Aleksandra, Karolina Wyszyńska, and Korneliusz Miksch. 2017. "Detection and characteristics of sulfamethoxazole-resistant bacteria in constructed wetlands treating sulfamethoxazole-rich wastewater". BioTechnologia 98 (1): 15-23. doi:10.5114/bta.2017.66613
+Ziembińska-Buczyńska, A., Wyszyńska, K., and Miksch, K. (2017). Detection and characteristics of sulfamethoxazole-resistant bacteria in constructed wetlands treating sulfamethoxazole-rich wastewater. BioTechnologia, 98(1), pp.15-23. https://doi.org/10.5114/bta.2017.66613
+Ziembińska-Buczyńska, Aleksandra et al. "Detection and characteristics of sulfamethoxazole-resistant bacteria in constructed wetlands treating sulfamethoxazole-rich wastewater." BioTechnologia, vol. 98, no. 1, 2017, pp. 15-23. doi:10.5114/bta.2017.66613
+/div><div>Constructed wetlands (CW) are one of the biological wastewater treatment systems that reflect the natural processes occurring in swamps. Constructed wetlands use microbiological and physico-chemical processes as well as plant metabolism in order to purify wastewater. In such treatment systems, the role of microorganisms is crucial. In this experiment, synthetic communal wastewater containing sulfamethoxazole (SMX; chemotherapeutic) at a concentration of 5 mg/l was applied in the CW systems, both unplanted and planted with<i>Phalaris arundinacea</i>, also known as reed canary grass. Fourteen Gram-positive SMX-resistant bacteria strains were isolated from the CW column fillings and the plant rhizosphere. All of these were identified as representatives of<i>Bacillus sp</i>. based on 16S rRNA sequencing. Despite this molecular identification, the isolates differed significantly in their biochemical features. All 14 isolates presented resistance toward sulfamethoxazole and all 14 strains possessed a<i>sul1</i>gene, while only 4 gave positive results in<i>sul2</i>and 3 in<i>sul3</i>PCR tests. None of the isolated strains possessed all three<i>sul</i>genes. A PCR-DGGE based analysis of the presence of SMX-resistant bacteria in the CW community was undertaken. It was found that none of the isolates represented the dominant genotype in the bacterial community.<
+null
+keywords:</div><h3>biochemical characterization of SMX-resistant bacteria, lab-scale constructed wetlands, PCR-DGGE, sulfamethoxazole-resistant bacteria</h3

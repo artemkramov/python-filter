@@ -1,0 +1,6 @@
+﻿3 - September 1994
+4 - 1994
+An extension of adaptation algorithms for 2-D feedforward neural networks
+Tadeusz Kaczorek
+The generalized weight adaptation algorithms presented in (Kuschewski et al., 1993; Zak and Sira-Ramirez, 1990) are extended for 2-D madaline and 2-D two-layer FNN's.
+-

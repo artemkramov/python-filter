@@ -1,0 +1,17 @@
+﻿1/2011
+2
+RESEARCH-PAPER-Optimization-of-activated-sludge-storage-before-RNA-isolation,85,23856,0
+abstract:
+RESEARCH PAPER<br>Optimization of activated sludge storage before RNA isolation
+h3>Agnieszka Cydzik-Kwiatkowska, Marta Wnuk</h3><div>BioTechnologia vol. 92(1) C pp. 101-105 C 2011
+1.46522">https://doi.org/10.5114/bta.2011.46522
+a>View full text</a
+23856
+Cydzik-Kwiatkowska A, Wnuk M. RESEARCH PAPER&lt;br&gt;Optimization of activated sludge storage before RNA isolation. BioTechnologia. 2014;92(1):101-105. doi:10.5114/bta.2011.46522
+Cydzik-Kwiatkowska, A., &amp; Wnuk, M. (2014). RESEARCH PAPER&lt;br&gt;Optimization of activated sludge storage before RNA isolation. BioTechnologia, 92(1), 101-105. https://doi.org/10.5114/bta.2011.46522
+Cydzik-Kwiatkowska, Agnieszka, and Marta Wnuk. 2014. "RESEARCH PAPER&lt;br&gt;Optimization of activated sludge storage before RNA isolation". BioTechnologia 92 (1): 101-105. doi:10.5114/bta.2011.46522
+Cydzik-Kwiatkowska, A., and Wnuk, M. (2014). RESEARCH PAPER&lt;br&gt;Optimization of activated sludge storage before RNA isolation. BioTechnologia, 92(1), pp.101-105. https://doi.org/10.5114/bta.2011.46522
+Cydzik-Kwiatkowska, Agnieszka et al. "RESEARCH PAPER&lt;br&gt;Optimization of activated sludge storage before RNA isolation." BioTechnologia, vol. 92, no. 1, 2014, pp. 101-105. doi:10.5114/bta.2011.46522
+/div><div>Proper sample storage before RNA isolation is crucial for a reliable assessment of microbial activity in activated<br><br>sludge. In our studies, different amounts of activated sludge expressed in mg of total suspended solids (TSS) were<br><br>fixed with a constant volume of RNA<i>later</i>RNA Stabilization Reagent (QIAGEN, Germantown, MD, USA) and<br><br>stored for 3 or 6 months. The results obtained point out that for the best RNA recovery, 1 mg of activated sludge<br><br>TSS should be fixed with 33 μl of the RNA<i>later</i>. It was also observed that a longer storage period (6 vs. 3 months)<br><br>of the activated sludge in RNA<i>later</i>lowered RNA recovery by, on average, 25 ± 15% although bacterial diversity<br><br>in all samples remained unaltered.<
+null
+keywords:</div><h3>activated sludge, RNA<i>later</i>, RNA isolation</h3

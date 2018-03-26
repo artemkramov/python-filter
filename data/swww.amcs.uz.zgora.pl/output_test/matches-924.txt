@@ -1,0 +1,3 @@
+Positive 2D discrete-time linear Lyapunov systems
+Przemysław Przyborowski, Tadeusz Kaczorek
+Two models of positive 2D discrete-time linear Lyapunov systems are introduced. For both the models necessary and sufficient conditions for positivity, asymptotic stability, reachability and observability are established. The discussion is illustrated with numerical examples.

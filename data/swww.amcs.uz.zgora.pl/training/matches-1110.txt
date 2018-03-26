@@ -1,0 +1,6 @@
+﻿2 - June 2006
+16 - 2006
+Dedicated spectral method of Boolean function decomposition
+Piotr Porwik, Radomir S. Stanković
+Spectral methods constitute a useful tool in the analysis and synthesis of Boolean functions, especially in cases when other methods reduce to brute-force search procedures. There is renewed interest in the application of spectral methods in this area, which extends also to the closely connected concept of the autocorrelation function, for which spectral methods provide fast calculation algorithms. This paper discusses the problem of spectral decomposition of Boolean functions using the Walsh transform and autocorrelation characteristics.
+Boolean function, Walsh spectrum, autocorrelation coefficients, disjoint decomposition

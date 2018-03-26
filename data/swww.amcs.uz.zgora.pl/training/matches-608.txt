@@ -1,0 +1,6 @@
+﻿4 - December 2014
+24 - 2014
+Analytic results for oscillatory systems with extremal dynamic properties
+Henryk Górecki, Mieczysław Zaczyk
+The maximal value of the error is the most important criterion in system design. It is also the most difficult one. For that reason there exist many other criteria. The extreme value of the error represents the attainable accuracy which can be obtained and the corresponding extreme time gives information about how fast the transients are. The extreme values of the error and the corresponding time are treated here as functions of the roots of the characteristic equation. The proposed analytical formulae allow designing systems with prescribed dynamic properties.
+extremal dynamic properties, oscillatory systems, extremal time</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0057">10.2478/amcs-2014-0057</a>

@@ -1,0 +1,6 @@
+﻿3 - September 1995
+5 - 1995
+Mean-deviational versus incremental models in adaptive control
+Krzysztof Latawiec
+Mean-deviational and incremental formulations of the familiar adaptive control algorithms, incorporating the recursive 1S estimator coupled with different optimal single-step controllers, are extensively examined when controlling various complex SISO plants governed by the ARMAX model. In the conclusive recommendations based on a number of simulation runs, we emphasize that the mean-deviational controllers can surpass the incremental ones with respect to robustness which is the most important requirement for adaptive controllers.
+-

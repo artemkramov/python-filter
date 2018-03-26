@@ -1,0 +1,6 @@
+﻿2 - June 2011
+21 - 2011
+A study on new right/left inverses of nonsquare polynomial matrices
+Wojciech P. Hunek, Krzysztof J. Latawiec
+This paper presents several new results on the inversion of full normal rank nonsquare polynomial matrices. New analytical right/left inverses of polynomial matrices are introduced, including the so-called<em>τ</em>-inverses,<em>σ</em>-inverses and, in particular,<em>S</em>-inverses, the latter providing the most general tool for the design of various polynomial matrix inverses. The application-oriented problem of selecting stable inverses is also solved. Applications in inverse-model control, in particular robust minimum variance control, are exploited, and possible applications in signal transmission/recovery in various types of MIMO channels are indicated.
+multivariable systems, right/left inverses of polynomial matrices, Smith factorization, minimum variance control</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-011-0025-y">10.2478/v10006-011-0025-y</a>

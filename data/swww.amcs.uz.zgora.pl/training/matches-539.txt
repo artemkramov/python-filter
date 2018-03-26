@@ -1,0 +1,6 @@
+﻿4 - December 2015
+25 - 2015
+A comparative and experimental study on gradient and genetic optimization algorithms for parameter identification of linear MIMO models of a drilling vessel
+Stanisław Bańka, Michał Brasel, Paweł Dworak, Krzysztof Jaroszewski
+The paper presents algorithms for parameter identification of linear vessel models being in force for the current operating point of a ship. Advantages and disadvantages of gradient and genetic algorithms in identifying the model parameters are discussed. The study is supported by presentation of identification results for a nonlinear model of a drilling vessel.
+MIMO dynamic plant, identification, nonlinear system</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2015-0063">10.1515/amcs-2015-0063</a>

@@ -1,0 +1,6 @@
+﻿5 - December 2001
+11 - 2001
+Computing generalized inverse systems using matrix pencil methods
+Andras Varga
+We address the numerically reliable computation of generalized inverses of rational matrices in descriptor state-space representation. We put particular emphasis on two classes of inverses: the weak generalized inverse and the Moore-Penrose pseudoinverse. By combining the underlying computational techniques, other types of inverses of rational matrices can be computed as well. The main computational ingredient to determine generalized inverses is the orthogonal reduction of the system matrix pencil to appropriate Kronecker-like forms.
+system inversion, rational matrices, descriptor systems, numerical methods

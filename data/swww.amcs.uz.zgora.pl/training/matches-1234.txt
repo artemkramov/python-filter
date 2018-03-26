@@ -1,0 +1,6 @@
+﻿4 - December 2004
+14 - 2004
+Tracking control algorithms for a laboratory aerodynamical system
+Przemysław Gorczyca, Krystyn Hajduk
+The tracking control problem of a strongly nonlinear MIMO system is presented. The system shares some features with a helicopter, such as important interactions between the vertical and horizontal motions. The dedicated I/O board allows for control, measurements and communication with a PC. The RTWT toolbox in the MATLAB environment is used to perform real-time experiments. The control task is to track a predefined reference trajectory. A mathematical model of the system, containing experimental characteristics, is used to design the controllers: a multidimensional PD, a suboptimal controller in the sense of a quadratic performance index and a variable gain controller.
+nonlinear systems, real-time control, tracking control, suboptimal controller

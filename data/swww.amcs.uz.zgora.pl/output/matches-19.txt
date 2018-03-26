@@ -1,0 +1,6 @@
+﻿1 - March 2000
+10 - 2000
+On the dynamics of a chemostat model with delayed nutrient recycling
+Paolo Fergola, Liqiang Jiang, Zhien Ma
+This paper studies the dynamics of a chemostat model with<em>n</em>populations competing for one nutrient which can be recycled due to decomposition of dead biomass. Several kinds of results about local and global stability of non-negative equilibria, uniform persistence and control of populations are obtained.
+chemostat model, delayed nutrient recycling, stability, uniform persistence, population control

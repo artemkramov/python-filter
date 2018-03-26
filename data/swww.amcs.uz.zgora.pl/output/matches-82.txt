@@ -1,0 +1,6 @@
+﻿2 - June 1999
+9 - 1999
+LQR-based nonlinear tuning relay control design with fast convergence
+Xinghuo Yu, Yang Xia, Gerard Ledwich, Wardina Oghanna
+In this article, we present a relay control scheme based on LQR design with fast convergence. This scheme provides a practical and simple way to achieve fast convergence based on the well-known LQR design principle. The controller is a global stabiliser in the sense that for any given initial condition, we can always initialize the controller to drive the system to reach the origin. This controller is tunable in accordance with the position of the system state: the closer to the origin, the larger the control gains, which results in a fast control that maintains bounded control magnitude. It has also been shown that setting matrix<em>Q</em>can significantly influence the tendency of eigenvalues to switch the hyperplane. The relation between matrix<em>Q</em>and the tendency of those eigenvalues has been identified. Simulation results are presented to demonstrate the effectiveness of the scheme.
+switching control, LQR, relay control, sliding mode

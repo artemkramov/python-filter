@@ -1,0 +1,6 @@
+﻿4 - December 2002
+12 - 2002
+Design of linear feedback for bilinear control systems
+Vasiliy Ye. Belozyorov
+Sufficient conditions for the conditional stability of trivial solutions for quadratic systems of ordinary differential equations are obtained. These conditions are then used to design linear control laws on the output for a bilinear system of any order. In the case of a homogeneous system, a domain of the conditional stability is also indicated (it is a cone). Some examples are given.
+system of ordinary quadratic differential equations, bilinear control system, linear control law, cone of stability,

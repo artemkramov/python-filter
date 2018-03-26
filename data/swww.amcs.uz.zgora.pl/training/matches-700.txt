@@ -1,0 +1,6 @@
+﻿2 - June 2017
+27 - 2017
+Fault detection in nonlinear systems via linear methods
+Alexey Zhirabok, Alexey Shumsky, Sergey Solyanik, Alexey Suvorov
+The problem of robust linear and nonlinear diagnostic observer design is considered. A method is suggested to construct the observers that are disturbance decoupled or have minimal sensitivity to the disturbances. The method is based on a logic-dynamic approach which allows us to consider systems with non-differentiable nonlinearities in the state equations by methods of linear algebra.
+nonlinear dynamic systems, diagnostic observers, robustness, non-differentiable nonlinearities, logic-dynamic approach</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2017-0019">10.1515/amcs-2017-0019</a>

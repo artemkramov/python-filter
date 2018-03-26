@@ -1,0 +1,6 @@
+﻿4 - December 2012
+22 - 2012
+Observer-based controller design of time-delay systems with an interval time-varying delay
+Mai Viet Thuan, Vu Ngoc Phat, Hieu Trinh
+This paper considers the problem of designing an observer-based output feedback controller to exponentially stabilize a class of linear systems with an interval time-varying delay in the state vector. The delay is assumed to vary within an interval with known lower and upper bounds. The time-varying delay is not required to be differentiable, nor should its lower bound be zero. By constructing a set of Lyapunov–Krasovskii functionals and utilizing the Newton–Leibniz formula, a delay-dependent stabilizability condition which is expressed in terms of Linear Matrix Inequalities (LMIs) is derived to ensure the closed-loop system is exponentially stable with a prescribed α-convergence rate. The design of an observer-based output feedback controller can be carried out in a systematic and computationally efficient manner via the use of an LMI-based algorithm. A numerical example is given to illustrate the design procedure.
+observer-based feedback control, interval time-varying delay, linear matrix inequalities, Lyapunov–Krasovskii functionals, exponential stability</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0068-8">10.2478/v10006-012-0068-8</a>

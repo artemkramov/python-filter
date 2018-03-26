@@ -1,0 +1,6 @@
+﻿2 - June 2005
+15 - 2005
+A method for constructing<em>ε</em>-value functions for the Bolza problem of optimal control
+Jan Pustelnik
+The problem considered is that of approximate minimisation of the Bolza problem of optimal control. Starting from Bellman's method of dynamic programming, we define the<em>ε</em>-value function to be an approximation to the value function being a solution to the Hamilton-Jacobi equation. The paper shows an approach that can be used to construct an algorithm for calculating the values of an<em>ε</em>-value function at given points, thus approximating the respective values of the value function.
+non-linear optimisation, Bolza problem, optimal control, Hamilton-Jacobi equation, dynamic programming,

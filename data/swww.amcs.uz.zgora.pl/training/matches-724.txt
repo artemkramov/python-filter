@@ -1,0 +1,6 @@
+﻿2 - June 2012
+22 - 2012
+LMI optimization problem of delay-dependent robust stability criteria for stochastic systems with polytopic and linear fractional uncertainties
+Pagavathigounder Balasubramaniam, Shanmugam Lakshmanan, Rajan Rakkiyappan
+This paper studies an LMI optimization problem of delay-dependent robust stability criteria for stochastic systems with polytopic and linear fractional uncertainties. The delay is assumed to be time-varying and belong to a given interval, which means that lower and upper bounds of this interval time-varying delay are available. The uncertainty under consideration includes polytopic-type uncertainty and linear fractional norm-bounded uncertainty. Based on the new Lyapunov–Krasovskii functional, some inequality techniques and stochastic stability theory, delay-dependent stability criteria are obtained in terms of Linear Matrix Inequalities (LMIs). Moreover, the derivative of time delays is allowed to take any value. Finally, four numerical examples are given to illustrate the effectiveness of the proposed method and to show an improvement over some results found in the literature.
+delay-dependent stability, linear matrix inequality, Lyapunov–Krasovskii functional, stochastic systems</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0025-6">10.2478/v10006-012-0025-6</a>

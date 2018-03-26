@@ -1,4 +1,3 @@
 ﻿On the stability results for solutions of some fifth order non-linear differential equations
 The objective of this paper is to give sufficient conditions for the existence of globally exponentially stable, bounded and periodic and almost periodic for some fifth order non-linear differential equations
 Ebiendele, E.P.
-on-the-stability-results-for-solutions-of-some-fifth-order-nonlinear-differential-equations.pdf" title="On the stability results for solutions of some fifth order non-linear differential equations

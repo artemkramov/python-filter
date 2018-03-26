@@ -1,0 +1,6 @@
+﻿4 - December 2002
+12 - 2002
+Inequality-based approximation of matrix eigenvectors
+András Kocsor, József Dombi, Imre Bálint
+A novel procedure is given here for constructing non-negative functions with zero-valued global minima coinciding with eigenvectors of a general real matrix<em>A</em>. Some of these functions are distinct because all their local minima are also global, offering a new way of determining eigenpairs by local optimization. Apart from describing the framework of the method, the error bounds given separately for the approximation of eigenvectors and eigenvalues provide a deeper insight into the fundamentally different nature of their approximations.
+eigenvectors, eigenvalues, inequalities, error bounds, iterative methods

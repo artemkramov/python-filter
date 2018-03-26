@@ -1,0 +1,6 @@
+﻿1 - March 1993
+3 - 1993
+Key issues in VLSI education
+Peter J. Hicks
+Barely ten years have passed since VLSI was first introduced into the syllabuses of Electronic Engineering and Computer Science courses following the pioneering work of Carver Mead and Lynne Conway in the late 1970s and early '80s. Since that time the technology has progressed to the point where chips containing millions of transistors are routinely produced and the silicon industry is confidently predicting that hundreds of millions of transistors on a. single chip will be attainable by the end of the decade. It is worth examining the ways in which attitudes to VLSI education have developed over the past ten years and what further changes the future may have in store. The purpose of this paper is to try and identify some of the key issues that need to be addressed in designing syllabuses for VLSI design courses.
+-

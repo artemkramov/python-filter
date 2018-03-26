@@ -1,0 +1,6 @@
+﻿3 - September 2005
+15 - 2005
+Non-quadratic performance design for Takagi-Sugeno fuzzy systems
+Miguel Bernal, Petr Hušek
+This paper improves controller synthesis of discrete Takagi-Sugeno fuzzy systems based on non-quadratic Lyapunov functions, making it possible to accomplish various kinds of control performance specifications such as decay rate conditions, requirements on control input and output and disturbance rejection. These extensions can be implemented via linear matrix inequalities, which are numerically solvable with commercially available software. The controller design is illustrated with an example.
+fuzzy control, Lyapunov functions, LMIs

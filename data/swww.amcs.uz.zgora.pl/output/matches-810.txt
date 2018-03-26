@@ -1,0 +1,6 @@
+﻿2 - June 2011
+21 - 2011
+Singular fractional linear systems and electrical circuits
+Tadeusz Kaczorek
+A new class of singular fractional linear systems and electrical circuits is introduced. Using the Caputo definition of the fractional derivative, the Weierstrass regular pencil decomposition and the Laplace transformation, the solution to the state equation of singular fractional linear systems is derived. It is shown that every electrical circuit is a singular fractional system if it contains at least one mesh consisting of branches only with an ideal supercapacitor and voltage sources or at least one node with branches with supercoils.
+singular, fractional system, linear circuit, regular pencil, supercapacitor, supercoil</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-011-0028-8">10.2478/v10006-011-0028-8</a>

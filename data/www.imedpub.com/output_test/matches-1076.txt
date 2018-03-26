@@ -1,3 +1,4 @@
 ﻿Flow of blood through stenosed artery: A peripheral layer model
 The present paper deals with a mathematical model of blood flow through stenosed artery. The flowing blood has been represented by a two – layered model. Analytical expressions have been obtained for resistance to flow and wall shear stress. The impact of concerned parameters have been examined and depicted through graphs for different values of interest. The outcomes of this paper are compared with previous known results. The model can be useful for approximation of diseased arterial system.
 Padma Joshi and Garima Gadkari
+flow-of-blood-through-stenosed-artery-a-peripheral-layer-model.pdf" title="Flow of blood through stenosed artery: A peripheral layer model

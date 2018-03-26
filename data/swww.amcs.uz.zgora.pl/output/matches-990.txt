@@ -1,0 +1,6 @@
+﻿2 - June 2008
+18 - 2008
+Model based analysis of signaling pathways
+Jarosław Śmieja
+The paper is concerned with application of mathematical modeling to the analysis of signaling pathways. Two issues, deterministic modeling of gene transcription and model-driven discovery of regulatory elements, are dealt with. First, the biological background is given and the importance of the stochastic nature of biological processes is addressed. The assumptions underlying deterministic modeling are presented. Special emphasis is put on describing gene transcription. A framework for including unknown processes activating gene transcription by means of first-order lag elements is introduced and discussed. Then, a particular interferon-<em>β</em>induced pathway is introduced, limited to early events that precede activation of gene transcription. It is shown how to simplify the system description based on the goals of modeling. Further, a computational analysis is presented, facilitating better understanding of the mechanisms underlying regulation of key components in the pathway. The analysis is illustrated by a comparison of simulation and experimental data.
+signaling pathways, dynamical systems, systems biology, interferon-beta</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0013-z">10.2478/v10006-008-0013-z</a>

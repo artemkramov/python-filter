@@ -1,0 +1,6 @@
+﻿1 - March 2013
+23 - 2013
+Stability analysis of high-order Hopfield-type neural networks based on a new impulsive differential inequality
+Yang Liu, Rongjiang Yang, Jianquan Lu, Bo Wu, Xiushan Cai
+This paper is devoted to studying the globally exponential stability of impulsive high-order Hopfield-type neural networks with time-varying delays. In the process of impulsive effect, nonlinear and delayed factors are simultaneously considered. A new impulsive differential inequality is derived based on the Lyapunov–Razumikhin method and some novel stability criteria are then given. These conditions, ensuring the global exponential stability, are simpler and less conservative than some of the previous results. Finally, two numerical examples are given to illustrate the advantages of the obtained results.
+impulsive differential inequality, globally exponential stability, high-order Hopfield-type neural network</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0016">10.2478/amcs-2013-0016</a>

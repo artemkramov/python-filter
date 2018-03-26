@@ -1,0 +1,6 @@
+﻿3 - September 2000
+10 - 2000
+Kinematic approximation of robotic manipulators
+Ignacy Dulęba
+A kinematic approximation of the nominal, reference kinematics of a manipulator is addressed. The approximation task leads to a minimax optimization problem. Some modifications facilitating the implementation of the algorithm in search spaces of high dimensionalities are presented. A sub-gradient mesh algorithm of solving the minimax task is given in detail. The approximation of the CYBOTECH manipulator with a ULB robot is provided based on the use of the Chebyshev metric. As an alternative, some measures of proximity of manipulators are also introduced.
+manipulator, kinematics, approximation, metrics, ULB robot

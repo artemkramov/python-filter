@@ -1,4 +1,3 @@
 ﻿Peristaltic transport of a conducting fluid through a porous medium in an asymmetric vertical channel.
 The aim of this problem is to study the peristaltic motion of a viscous conducting fluid through a porous medium in an asymmetric vertical channel by using Lubrication approach. The expressions for velocity and pressure rise are obtained. The effects of Darcy number, phase shipt and Hartmann number on flow characteristics are studied in detail.
 G. Rami Reddy and S. Venkataramana
-peristaltic-transport-of-a-conducting-fluid-through-a-porous-medium-in-an-asymmetric-vertical-channel.pdf" title="Peristaltic transport of a conducting fluid through a porous medium in an asymmetric vertical channel.

@@ -1,0 +1,3 @@
+NTGsim: A graphical user interface and a 3D simulator for nonlinear trajectory generation methodology
+Lyall Jonathan Di Trapani, Tamer Inanc
+Nonlinear Trajectory Generation (NTG), developed by Mark Milam, is a software algorithm used to generate trajectories of constrained nonlinear systems in real-time. The goal of this paper is to present an approach to make NTG more user-friendly. To accomplish this, we have programmed a Graphical User Interface (GUI) in Java, using object oriented design, which wraps the NTG software and allows the user to quickly and efficiently alter the parameters of NTG. This new program, called NTGsim, eliminates the need to reprogram the NTG algorithm explicitly each time the user wishes to change a parameter.

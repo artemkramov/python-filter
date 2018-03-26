@@ -1,0 +1,6 @@
+﻿2 - June 2011
+21 - 2011
+Data intensive scientific analysis with grid computing
+Olivier Terzo, Lorenzo Mossucca, Manuela Cucca, Riccardo Notarpietro
+At the end of September 2009, a new Italian GPS receiver for radio occultation was launched from the Satish Dhawan Space Center (Sriharikota, India) on the Indian Remote Sensing OCEANSAT-2 satellite. The Italian Space Agency has established a set of Italian universities and research centers to implement the overall processing radio occultation chain. After a brief description of the adopted algorithms, which can be used to characterize the temperature, pressure and humidity, the contribution will focus on a method for automatic processing these data, based on the use of a distributed architecture. This paper aims at being a possible application of grid computing for scientific research.
+grid computing, GPS radio occultation, scheduler, agent, e-science</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-011-0016-z">10.2478/v10006-011-0016-z</a>

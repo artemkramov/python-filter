@@ -1,3 +1,4 @@
 ﻿Study of simple SIR epidemic model
 In the present paper, we proposed and analyzed an SIRS compartment model with Vaccination. Determine the steady state of the model and Stability analysis is carried out. Equilibrium analysis is presented and it is found that in each case the equilibrium Points are locally asymptotically stable under certain conditions The stability of the equilibriums are studied by using the Routh-Hurwitz criteria
 Pradeep Porwal, Preeti Shrivastava and S. K. Tiwari
+study-of-simple-sir-epidemic-model.pdf" title="Study of simple SIR epidemic model

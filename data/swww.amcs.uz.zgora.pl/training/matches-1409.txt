@@ -1,0 +1,6 @@
+﻿4 - October 2001
+11 - 2001
+Externally and internally positive time-varying linear systems
+Tadeusz Kaczorek
+The notions of externally and internally positive time-varying linear systems are introduced. Necessary and sufficient conditions for the external and internal positivities of time-varying linear systems are established. Moreover, sufficient conditions for the reachability of internally positive time-varying linear systems are presented.
+-

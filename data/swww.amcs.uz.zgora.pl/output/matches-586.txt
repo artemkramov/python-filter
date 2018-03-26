@@ -1,0 +1,6 @@
+﻿3 - September 2014
+24 - 2014
+On truncations for weakly ergodic inhomogeneous birth and death processes
+Alexander Zeifman, Yacov Satin, Victor Korolev, Sergey Shorgin
+We investigate a class of exponentially weakly ergodic inhomogeneous birth and death processes. We consider special transformations of the reduced intensity matrix of the process and obtain uniform (in time) error bounds of truncations. Our approach also guarantees that we can find limiting characteristics approximately with an arbitrarily fixed error. As an example, we obtain the respective bounds of the truncation error for an<em>Mt/Mt/S</em>queue for<em>any</em>number of servers S. Arbitrary intensity functions instead of periodic ones can be considered in the same manner.
+birth and death process, weak ergodicity, truncation, forward Kolmogorov system, nonstationary Markovian queueing models</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0037">10.2478/amcs-2014-0037</a>

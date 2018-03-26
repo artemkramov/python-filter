@@ -1,0 +1,6 @@
+﻿2 - June 2011
+21 - 2011
+Random perturbation of the projected variable metric method for nonsmooth nonconvex optimization problems with linear constraints
+Abdelkrim El Mouatasim, Rachid Ellaia, Eduardo Souza de Cursi
+We present a random perturbation of the projected variable metric method for solving linearly constrained nonsmooth (i.e., nondifferentiable) nonconvex optimization problems, and we establish the convergence to a global minimum for a locally Lipschitz continuous objective function which may be nondifferentiable on a countable set of points. Numerical results show the effectiveness of the proposed approach.
+global optimization, linear constraints, variable metric method, stochastic perturbation, nonsmooth optimization</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-011-0024-z">10.2478/v10006-011-0024-z</a>

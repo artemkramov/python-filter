@@ -1,0 +1,16 @@
+﻿4/2014
+5
+RNA-oligomers-as-microRNA-production-process-regulators,85,26434,0
+abstract:</div><div>Short communication
+RNA oligomers as microRNA production process regulators
+h3>Anna Kurzynska-Kokorniak, Natalia Koralewska, Agata Tyczewska, Tomasz Twardowski, Marek Figlerowicz</h3><div>vol. 95(4) C pp. 272-275 C 2014
+4.56600">https://doi.org/10.5114/bta.2014.56600
+a>View full text</a
+26434
+Kurzynska-Kokorniak A, Koralewska N, Tyczewska A, Twardowski T, Figlerowicz M. RNA oligomers as microRNA production process regulators. BioTechnologia. 2015;95(4):272-275. doi:10.5114/bta.2014.56600
+Kurzynska-Kokorniak, A., Koralewska, N., Tyczewska, A., Twardowski, T., &amp; Figlerowicz, M. (2015). RNA oligomers as microRNA production process regulators. BioTechnologia, 95(4), 272-275. https://doi.org/10.5114/bta.2014.56600
+Kurzynska-Kokorniak, Anna, Natalia Koralewska, Agata Tyczewska, Tomasz Twardowski, and Marek Figlerowicz. 2015. "RNA oligomers as microRNA production process regulators". BioTechnologia 95 (4): 272-275. doi:10.5114/bta.2014.56600
+Kurzynska-Kokorniak, A., Koralewska, N., Tyczewska, A., Twardowski, T., and Figlerowicz, M. (2015). RNA oligomers as microRNA production process regulators. BioTechnologia, 95(4), pp.272-275. https://doi.org/10.5114/bta.2014.56600
+Kurzynska-Kokorniak, Anna et al. "RNA oligomers as microRNA production process regulators." BioTechnologia, vol. 95, no. 4, 2015, pp. 272-275. doi:10.5114/bta.2014.56600
+null
+The present invention relates to an RNA oligomer, methods for regulating’a microRNA (miRNA) production process and RNA oligomers used as miRNA production process regulators. More precisely, the present invention relates to use of RNA oligomers disrupting a pre- iRNA structure as miRNA production process regulators. Oligomer interactions with a miRNA precursor (pre-miRNA) change the precursor’s secondary and tertiary structure. In consequence, the pre-miRNA is not specifically recognised and cleaved by the Dicer ribonuclease, and the specific miRNA is not produced</div

@@ -1,0 +1,6 @@
+﻿2 - June 2006
+16 - 2006
+Set membership estimation of parameters and variables in dynamic networks by recursive algorithms with a moving measurement window
+Kazimierz Duzinkiewicz
+The paper considers a set membership joint estimation of variables and parameters in complex dynamic networks based on parametric uncertain models and limited hard measurements. A recursive estimation algorithm with a moving measurement window is derived that is suitable for on-line network monitoring. The window allows stabilising the classic recursive estimation algorithm and significantly improves estimate tightness. The estimator is validated on a case study regarding a water distribution network. Tight set estimates of unmeasured pipe flows, nodal heads, tank level and pipe resistances are obtained.
+set membership estimation, uncertainty, complexity, networks, water distribution

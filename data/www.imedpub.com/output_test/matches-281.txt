@@ -1,4 +1,3 @@
 ﻿Effects of Ligand on the Absorbance and Transmittance of Chemical Bath Deposited Zinc Sulphide Thin Film
 Zinc sulphide thin films have been grown by chemical bath deposition using zinc acetate (Zn(CH3COO)2) and thiourea (SC(NH2)2) as starting materials and ammonia solution (NH4OH) as ligand. The absorbance and transmittance spectra of the films were obtained using a Janway 6405 uv/visible spectrophotometer. Structural and surface characterization of the films were carried out using an x-ray diffractometer with Cukα radiation and Olumpus optical microscope respectively. XRD spectrum indicates that the films have cubic zinc blend structure.
 Ezenwa I. A. and Okereke N. A.
-effects-of-ligand-on-the-absorbance-and-transmittance-of-chemical-bathdeposited-zinc-sulphide-thin-film.pdf" title="Effects of Ligand on the Absorbance and Transmittance of Chemical BathDeposited Zinc Sulphide Thin Film

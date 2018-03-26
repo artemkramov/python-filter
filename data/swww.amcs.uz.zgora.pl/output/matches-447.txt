@@ -1,0 +1,6 @@
+﻿1 - June 1992
+2 - 1992
+Order optimal real-time observers for completely observable control systems
+Arkadii Kryazhimskii
+For a complety observable control system governed by a nonlinear ordinary differential equation, we consider dynamical (real-time) observation operators stable with respect to small input perturbations. We treat them as regularizing operators on an appropriate set of well-posedness. Two solutions order optimal with respect to the perturbation accuracy are described. The tool is based on the idea of guided models from the theory of closed-loop differential games, and the lower bounds for the unimprovable observation accuracy.
+-

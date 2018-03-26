@@ -1,0 +1,17 @@
+﻿4/2016
+7
+A-novel-approach-for-identifying-DNA-repair-pathways-proteins-using-an-evolutionary-approach-Plasmodium-falciparum-case-study,85,28878,0
+abstract:</div><div>RESEARCH PAPERS
+A novel approach for identifying DNA repair pathways proteins using an evolutionary approach:<i>Plasmodium falciparum</i>case study
+h3>Kaja Milanowska, Justyna Wojtczak</h3><div>BioTechnologia vol. 97(4) C pp. 245-260 C 2016
+6.64542">https://doi.org/10.5114/bta.2016.64542
+a>View full text</a
+28878
+Milanowska K, Wojtczak J. A novel approach for identifying DNA repair pathways proteins using an evolutionary approach: &lt;i&gt;Plasmodium falciparum&lt;/i&gt; case study. BioTechnologia. 2017;97(4):245-260. doi:10.5114/bta.2016.64542
+Milanowska, K., &amp; Wojtczak, J. (2017). A novel approach for identifying DNA repair pathways proteins using an evolutionary approach: &lt;i&gt;Plasmodium falciparum&lt;/i&gt; case study. BioTechnologia, 97(4), 245-260. https://doi.org/10.5114/bta.2016.64542
+Milanowska, Kaja, and Justyna Wojtczak. 2017. "A novel approach for identifying DNA repair pathways proteins using an evolutionary approach: &lt;i&gt;Plasmodium falciparum&lt;/i&gt; case study". BioTechnologia 97 (4): 245-260. doi:10.5114/bta.2016.64542
+Milanowska, K., and Wojtczak, J. (2017). A novel approach for identifying DNA repair pathways proteins using an evolutionary approach: &lt;i&gt;Plasmodium falciparum&lt;/i&gt; case study. BioTechnologia, 97(4), pp.245-260. https://doi.org/10.5114/bta.2016.64542
+Milanowska, Kaja et al. "A novel approach for identifying DNA repair pathways proteins using an evolutionary approach: &lt;i&gt;Plasmodium falciparum&lt;/i&gt; case study." BioTechnologia, vol. 97, no. 4, 2017, pp. 245-260. doi:10.5114/bta.2016.64542
+/div><div>Analysis of evolution-related proteins is one of the most effective methods for assigning functions to newly discovered proteins. We present a novel approach for identifying homologues that can be involved in DNA repair mechanisms in organisms without proteome annotation. This approach is based on the profiles built with sequences and secondary structures of proteins with known and well-described function. For this analysis, the profiles of DNA repair proteins from three model organisms (Homo sapiens, Saccharomyces cerevisiae, and Escherichia coli ) were prepared and deposited in the DNA repair pathways database – REPAIRtoire (http://repairtoire.genesilico.pl) (Milanowska et al., 2011). The methodology formulated was used to analyze all proteins from<br><br>Plasmodium falciparum and annotate those with unreviewed status that were recognized as taking part in DNA repair. The analysis identified novel proteins that have neither been previously described in the InParanoid database (O’Brien et al., 2005) as homologous or orthologous for the chosen model organisms, nor been identified by the HHsearch program (Soding, 2005). This approach is included as a search module on the REPAIRtoire website (http://repairtoire.genesilico.pl/homologs) and is available for usage.<
+null
+keywords:</div><h3>DNA repair pathways, homologs detection, orthologs, pipeline, Plasmodium falciparum</h3

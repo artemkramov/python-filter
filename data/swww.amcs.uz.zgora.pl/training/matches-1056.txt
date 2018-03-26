@@ -1,0 +1,6 @@
+﻿2 - June 2007
+17 - 2007
+Fuzzy feedback linearizing controller and its equivalence with the fuzzy nonlinear internal model control structure
+Reda Boukezzoula, Sylvie Galichet, Laurent Foulloy
+This paper examines the inverse control problem of nonlinear systems with stable dynamics using a fuzzy modeling approach. Indeed, based on the ability of fuzzy systems to approximate any nonlinear mapping, the nonlinear system is represented by a Takagi-Sugeno (<em>TS</em>) fuzzy system, which is then inverted for designing a fuzzy controller. As an application of the proposed inverse control methodology, two popular control structures, namely, feedback linearization and Nonlinear Internal Model Control (NIMC) are investigated. Moreover, the paper points out that, under some conditions, both of the control structures are equivalent and naturally implement a Smith predictor in the presence of time delays.
+fuzzy control, inverse control, feedback linearization, internal model control</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0021-4">10.2478/v10006-007-0021-4</a>

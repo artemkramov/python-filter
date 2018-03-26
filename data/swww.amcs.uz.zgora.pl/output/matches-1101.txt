@@ -1,0 +1,6 @@
+﻿2 - June 2006
+16 - 2006
+Some properties of the spectral radius of a set of matrices
+Adam Czornik, Piotr Jurgaś
+In this paper we show new formulas for the spectral radius and the spectral subradius of a set of matrices. The advantage of our results is that we express the spectral radius of any set of matrices by the spectral radius of a set of symmetric positive definite matrices. In particular, in one of our formulas the spectral radius is expressed by singular eigenvalues of matrices, whereas in the existing results it is expressed by eigenvalues.In this paper we show new formulas for the spectral radius and the spectral subradius of a set of matrices. The advantage of our results is that we express the spectral radius of any set of matrices by the spectral radius of a set of symmetric positive definite matrices. In particular, in one of our formulas the spectral radius is expressed by singular eigenvalues of matrices, whereas in the existing results it is expressed by eigenvalues.
+spectral radius, spectral subradius, symmetric matrices

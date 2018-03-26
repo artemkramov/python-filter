@@ -1,0 +1,6 @@
+﻿1 - March 2005
+15 - 2005
+Image recall using a large scale generalized Brain-State-in-a-Box neural network
+Cheolhwan Oh, Stanisław H. Żak
+An image recall system using a large scale associative memory employing the generalized Brain-State-in-a-Box (gBSB) neural network model is proposed. The gBSB neural network can store binary vectors as stable equilibrium points. This property is used to store images in the gBSB memory. When a noisy image is presented as an input to the gBSB network, the gBSB net processes it to filter out the noise. The overlapping decomposition method is utilized to efficiently process images using their binary representation. Furthermore, the uniform quantization is employed to reduce the size of the data representation of the images. Simulation results for monochrome gray scale and color images are presented. Also, a hybrid gBSB-McCulloch-Pitts neural model is introduced and an image recall system is built around this neural net. Simulation results for this model are presented and compared with the results for the system employing the gBSB neural model.
+associative memory, Brain-State-in-a-Box (BSB) neural network, overlapping decomposition, image recall

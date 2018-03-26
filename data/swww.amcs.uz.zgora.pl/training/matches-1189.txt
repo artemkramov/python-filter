@@ -1,0 +1,6 @@
+﻿1 - March 2004
+14 - 2004
+Newton's iteration with a conjugate gradient based decomposition method for an elliptic PDE with a nonlinear boundary condition
+Jonas Koko
+Newton's iteration is studied for the numerical solution of an elliptic PDE with nonlinear boundary conditions. At each iteration of Newton's method, a conjugate gradient based decomposition method is applied to the matrix of the linearized system. The decomposition is such that all the remaining linear systems have the same constant matrix. Numerical results confirm the savings with respect to the computational cost, compared with the classical Newton method with factorization at each step.
+Newton's method, conjugate gradient method, nonlinear PDE

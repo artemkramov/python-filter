@@ -1,0 +1,6 @@
+﻿1 - March 1995
+5 - 1995
+Controllability and minimum energy control of 2-D continuous-discrete linear systems
+Tadeusz Kaczorek
+A general 2-D continuous-discrete model of linear systems and its particular cases the models of Fornasini-Marchesini type and Attasi type are introduced. A general 2-D continuous-discrete model of Roesser type is also introduced. A solution and the general response formula to the regular general 2-D model are derived. The necessary and sufficient conditions for the local reachability and the local controllability of the regular general 2-D model are established. The minimum energy control of the regular general 2-D model is solved.
+-

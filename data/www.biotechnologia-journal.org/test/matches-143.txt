@@ -1,0 +1,17 @@
+﻿1/2015
+6
+Electroporation-and-morphogenic-potential-r-nof-Gentiana-kurroo-Royle-embryogenic-cell-r-nsuspension-protoplasts,85,25767,0
+abstract:</div><div>Review paper
+Electroporation and morphogenic potential of<i>Gentiana kurroo</i>(Royle) embryogenic cell suspension protoplasts
+h3>Anna Wójcik, Jan J. Rybczyński</h3><div>vol. 96(1) C pp. 19-29 C 2015
+5.54170">https://doi.org/10.5114/bta.2015.54170
+a>View full text</a
+25767
+Wójcik A, Rybczyński J. Electroporation and morphogenic potential of &lt;i&gt;Gentiana kurroo&lt;/i&gt; (Royle) embryogenic cell suspension protoplasts. BioTechnologia. 2015;96(1):19-29. doi:10.5114/bta.2015.54170
+Wójcik, A., &amp; Rybczyński, J. (2015). Electroporation and morphogenic potential of &lt;i&gt;Gentiana kurroo&lt;/i&gt; (Royle) embryogenic cell suspension protoplasts. BioTechnologia, 96(1), 19-29. https://doi.org/10.5114/bta.2015.54170
+Wójcik, Anna, and Jan J. Rybczyński. 2015. "Electroporation and morphogenic potential of &lt;i&gt;Gentiana kurroo&lt;/i&gt; (Royle) embryogenic cell suspension protoplasts". BioTechnologia 96 (1): 19-29. doi:10.5114/bta.2015.54170
+Wójcik, A., and Rybczyński, J. (2015). Electroporation and morphogenic potential of &lt;i&gt;Gentiana kurroo&lt;/i&gt; (Royle) embryogenic cell suspension protoplasts. BioTechnologia, 96(1), pp.19-29. https://doi.org/10.5114/bta.2015.54170
+Wójcik, Anna et al. "Electroporation and morphogenic potential of &lt;i&gt;Gentiana kurroo&lt;/i&gt; (Royle) embryogenic cell suspension protoplasts." BioTechnologia, vol. 96, no. 1, 2015, pp. 19-29. doi:10.5114/bta.2015.54170
+/div><div>This article presents our further in vitro studies into the morphogenic potential of gentian cells, organs, and tissues after modification of their genome. The objective was to study the effect of electroporation and the introduction of foreign genes on the morphogenic potential of<i>Gentiana kurroo</i>embryogenic cell suspension protoplasts. Protoplasts were electroporated with DNA plasmids carrying nptII and bar genes. The stability of cell membranes, the contents of electroporation buffer, the length of electric pulse, the number of pulses and the strength of the electric field were studied. We determined the highest electroporation efficiency by evaluating the highest protoplast survival rate under specific physical conditions. The best results were achieved in the presence of EB1 electroporation buffer where the viability of protoplasts was 70.1%. Protoplast survival at this higher level required culture temperatures near 0EC, and a 20 μs electric pulse with an electric field of 1.0 kV/cm. After seven days of agarose embedded protoplast culture, a selective agent – kanamycin – was introduced to the medium. The cell transformation effect was improved by a long term culture of callus, regenerated somatic embryos and transformants in the presence of 50 mg/l kanamycin.<
+null
+keywords:</div><h3>electroporation buffer, electric field, electric pulse, kanamycin resistance protoplast viability, plating efficiency, transformant regeneration</h3

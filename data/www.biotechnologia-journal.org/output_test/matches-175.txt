@@ -1,0 +1,6 @@
+a>View full text</a
+Klonowska K, Ratajska M, Wojciechowska M, Kozlowski P. Genetic predisposition to breast and/or ovarian cancer – focus on the candidate &lt;i&gt;BARD1 &lt;/i&gt;gene. BioTechnologia. 2015;95(3):203-214. doi:10.5114/bta.2014.54796
+Klonowska, K., Ratajska, M., Wojciechowska, M., &amp; Kozlowski, P. (2015). Genetic predisposition to breast and/or ovarian cancer – focus on the candidate &lt;i&gt;BARD1 &lt;/i&gt;gene. BioTechnologia, 95(3), 203-214. https://doi.org/10.5114/bta.2014.54796
+Klonowska, Katarzyna, Magdalena Ratajska, Marzena Wojciechowska, and Piotr Kozlowski. 2015. "Genetic predisposition to breast and/or ovarian cancer – focus on the candidate &lt;i&gt;BARD1 &lt;/i&gt;gene". BioTechnologia 95 (3): 203-214. doi:10.5114/bta.2014.54796
+Klonowska, K., Ratajska, M., Wojciechowska, M., and Kozlowski, P. (2015). Genetic predisposition to breast and/or ovarian cancer – focus on the candidate &lt;i&gt;BARD1 &lt;/i&gt;gene. BioTechnologia, 95(3), pp.203-214. https://doi.org/10.5114/bta.2014.54796
+Klonowska, Katarzyna et al. "Genetic predisposition to breast and/or ovarian cancer – focus on the candidate &lt;i&gt;BARD1 &lt;/i&gt;gene." BioTechnologia, vol. 95, no. 3, 2015, pp. 203-214. doi:10.5114/bta.2014.54796

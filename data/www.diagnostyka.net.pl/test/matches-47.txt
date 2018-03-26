@@ -1,0 +1,16 @@
+﻿Proposal-of-the-combined-exhaust-gas-heat-exchanger-and-the-muffler,81476
+3-2015,3236">3/2015 vol. 16
+The-effectiveness-of-modal-balancing-of-flexible-rotors,81478,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/Modeling-and-simulation-of-bevel-gearboxes-in-cad-environment,81475,0,2.html" title="PREVIOUS
+Proposal of the combined exhaust gas heat exchanger and the muffler
+Miloš-Brezáni/74922">Miloš Brezáni
+null
+brezani@fstroj.uniza.sk
+>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Peter-Baran/74878">Peter Baran</a></span>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Róbert-Labuda/74923">Róbert Labuda</a></span
+University of Zilina, Faculty of Mechanical Engineering Univerzitná 1, 010 26 Žilina, Slovakia, e-mail: milos.
+Publish date: 2017-12-21
+5;16(3):73–78
+81476-16957?filename=Proposal of the combined
+exhaust+gas+heat+exchanger/146985">exhaust gas heat exchanger<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-muffler/146986">muffler<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-simulation/6742">simulation<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-3D+model/57236">3D model
+structural+design/128607">structural design
+The article discusses about the design of a combined exhaust gas heat exchanger with muffler. The first stage deals with the calculation of the exhaust gas heat exchanger according to the required parameters. The next step addresses the structural design of the exhaust gas heat exchanger according to the parameters of the calculation. Subsequently creation a 3D model, which will be used for the simulation of flow of the working substance in the heat exchanger and heat transfer simulation of the media. The simulations are solved in a 3D simulation program COMSOL Multiphysics 5.0. Further solves the structural design of muffler, which will form a part of the exhaust gas heat exchanger. Subsequently execution of the measurements on the real model of the combined exhaust gas heat exchanger to verify the accuracy of calculations, simulations and structural designs.
+></div></div><div><div><div></div>Related articles</div><div><div><a href="http://www.diagnostyka.net.pl/Simulation-of-the-potential-and-electric-field-distribution-on-high-voltage-insulator,86414,0,2.html">Simulation of the potential and electric field distribution on high voltage insulator using the finite element method</a></div><div><a href="http://www.diagnostyka.net.pl/Diagnosing-of-fatigue-lifespan-using-the-modern-method-of-welding-simulating,78346,0,2.html">Diagnosing of fatigue lifespan using the modern method of welding simulating</a></div

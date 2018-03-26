@@ -1,0 +1,6 @@
+﻿4 - December 2015
+25 - 2015
+Application of cubic box spline wavelets in the analysis of signal singularities
+Waldemar Rakowski
+In the subject literature, wavelets such as the Mexican hat (the second derivative of a Gaussian) or the quadratic box spline are commonly used for the task of singularity detection. The disadvantage of the Mexican hat, however, is its unlimited support; the disadvantage of the quadratic box spline is a phase shift introduced by the wavelet, making it difficult to locate singular points. The paper deals with the construction and properties of wavelets in the form of cubic box splines which have compact and short support and which do not introduce a phase shift. The digital filters associated with cubic box wavelets that are applied in implementing the discrete dyadic wavelet transform are defined. The filters and the<em>algorithme à trous</em>of the discrete dyadic wavelet transform are used in detecting signal singularities and in calculating the measures of signal singularities in the form of a Lipschitz exponent. The article presents examples illustrating the use of cubic box spline wavelets in the analysis of signal singularities.
+cubic box splines, wavelets, dyadic wavelet transform, singularity detection</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2015-0066">10.1515/amcs-2015-0066</a>

@@ -1,0 +1,6 @@
+﻿2 - June 2017
+27 - 2017
+Reduced-order perfect nonlinear observers of fractional descriptor discrete-time nonlinear systems
+Tadeusz Kaczorek
+The purpose of this work is to propose and characterize fractional descriptor reduced-order perfect nonlinear observers for a class of fractional descriptor discrete-time nonlinear systems. Sufficient conditions for the existence of these observers are established. The design procedure of the observers is given and demonstrated on a numerical example.
+fractional, descriptor, nonlinear, discrete-time, design, reduced-order, perfect observer</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2017-0017">10.1515/amcs-2017-0017</a>

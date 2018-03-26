@@ -1,0 +1,6 @@
+﻿1 - March 2006
+16 - 2006
+Fuzzy diagnostic reasoning that takes into account the uncertainty of the relation between faults and symptoms
+Jan Maciej Kościelny, Michał Syfert
+Knowledge about the relation between faults and the observed symptoms is necessary for fault isolation. Such a relation can be expressed in various forms, including binary diagnostic matrices or information systems. The paper presents the use of fuzzy logic for diagnostic reasoning. This method enables us to take into account various kinds of uncertainties connected with diagnostic reasoning, including the uncertainty of the faults-symptoms relation. The presented methods allow us to determine the fault certainty factor as well as certainty factors of the normal and unknown process states. The unknown process state factor groups all the states with unknown and multiple faults with the states with improper residual values, while the normal state factor indicates similarity between the observed state and the pattern fault-free state.
+fault isolation, fuzzy logic, diagnostic relation, uncertainty

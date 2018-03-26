@@ -1,0 +1,6 @@
+﻿3 - September 2009
+19 - 2009
+Reliable robust path planning with application to mobile robots
+Romain Pepy, Michel Kieffer, Eric Walter
+This paper is devoted to path planning when the safety of the system considered has to be guaranteed in the presence of bounded uncertainty affecting its model. A new path planner addresses this problem by combining Rapidly-exploring Random Trees (RRT) and a set representation of uncertain states. An idealized algorithm is presented first, before a description of one of its possible implementations, where compact sets are wrapped into boxes. The resulting path planner is then used for nonholonomic path planning in robotics.
+interval analysis, path planning, robust control, state-space models</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-009-0034-2">10.2478/v10006-009-0034-2</a>

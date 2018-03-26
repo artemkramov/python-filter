@@ -1,0 +1,6 @@
+﻿3 - September 2005
+15 - 2005
+Non-cooperative game approach to multi-robot planning
+Adam Gałuszka, Andrzej Świerniak
+A multi-robot environment with a STRIPS representation is considered. Under some assumptions such problems can be modelled as a STRIPS language (for instance, a Block World environment) with one initial state and a disjunction of goal states. If the STRIPS planning problem is invertible, then it is possible to apply the machinery for planning in the presence of incomplete information to solve the inverted problem and then to find a solution to the original problem. In the paper a planning algorithm that solves the problem described above is proposed and its computational complexity is analyzed. To make the plan precise, non-cooperative strategies are used.
+planning problems, multi-robot environment, STRIPS language, non-cooperative games, planning complexity

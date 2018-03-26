@@ -1,0 +1,6 @@
+﻿1 - March 1998
+8 - 1998
+Adaptive reduction of the control effort in chattering-free sliding-mode control of uncertain nonlinear systems
+Giorgio Bartolini, Antonella Ferrara, Alessandro Pisano, Elio Usai
+In previous papers, the authors presented a control procedure, based on second-order sliding modes, for the solution to the chattering problem in variable-structure control of uncertain systems. When the extremal values of the sliding variable are estimated by using a digital device with time delay δ, only a δ<sup>2</sup>- vicinity of the sliding manifold can be reached. This fact implies that the resulting continuous control has residual oscillations which are the higher the larger the amplitude of the discontinuous derivative of the actual control plant is. In this paper, Utkin's concept of equivalent control is extended to second-order sliding modes and a method to evaluate their estimate by means of a proper high bandwidth filter is discussed. The knowledge of the estimate of the equivalent control is the basis of an adaptation mechanism which is able to modulate the amplitude of the discontinuous control so that a reduction in the boundary layer and in the corresponding oscillations of the plant input is attained. The proposed adaptive procedure is applied to a simple mechanical system as an example.
+-

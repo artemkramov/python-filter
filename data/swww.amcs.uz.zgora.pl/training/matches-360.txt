@@ -1,0 +1,6 @@
+﻿4 - December 1994
+4 - 1994
+Extensions of the Cayley-Hamilton theorem for 2-D continuous-discrete linear systems
+Tadeusz Kaczorek
+The Cayley-Hamilton theorem is extended for new classes of 2-D continuous-discrete linear systems.
+-

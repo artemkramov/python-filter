@@ -1,0 +1,6 @@
+﻿2 - June 2016
+26 - 2016
+Robust aperiodic-disturbance rejection in an uncertain modified repetitive-control system
+Lan Zhou, Jinhua She, Chaoyi Li, Changzhong Pan
+This paper concerns the problem of designing an EID-based robust output-feedback modified repetitive-control system (ROFMRCS) that provides satisfactory aperiodic-disturbance rejection performance for a class of plants with time-varying structured uncertainties. An equivalent-input-disturbance (EID) estimator is added to the ROFMRCS that estimates the influences of all types of disturbances and compensates them. A continuous-discrete two-dimensional model is built to describe the EID-based ROFMRCS that accurately presents the features of repetitive control, thereby enabling the control and learning actions to be preferentially adjusted. A robust stability condition for the closed-loop system is given in terms of a linear matrix inequality. It yields the parameters of the repetitive controller, the output-feedback controller, and the EID-estimator. Finally, a numerical example demonstrates the validity of the method.
+repetitive control, equivalent input disturbance, two-dimensional system, singular-value decomposition, linear matrix inequality</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0020">10.1515/amcs-2016-0020</a>

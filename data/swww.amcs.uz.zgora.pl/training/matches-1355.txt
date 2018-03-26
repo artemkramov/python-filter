@@ -1,0 +1,6 @@
+﻿2 - June 2016
+26 - 2016
+Schauder’s fixed-point theorem in approximate controllability problems
+Artur Babiarz, Jerzy Klamka, Michał Niezabitowski
+The main objective of this article is to present the state of the art concerning approximate controllability of dynamic systems in infinite-dimensional spaces. The presented investigation focuses on obtaining sufficient conditions for approximate controllability of various types of dynamic systems using Schauder’s fixed-point theorem. We describe the results of approximate controllability for nonlinear impulsive neutral fuzzy stochastic differential equations with nonlocal conditions, impulsive neutral functional evolution integro-differential systems, stochastic impulsive systems with control-dependent coefficients, nonlinear impulsive differential systems, and evolution systems with nonlocal conditions and semilinear evolution equation.
+approximate controllability, Banach space, Hilbert space, Schauder’s fixed-point theorem, infinite-dimensional space</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0018">10.1515/amcs-2016-0018</a>

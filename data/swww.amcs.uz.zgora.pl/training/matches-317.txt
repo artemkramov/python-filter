@@ -1,0 +1,6 @@
+﻿4 - December 1995
+5 - 1995
+On the robustness of learning in the multi-layer perceptron
+Paul Williams, Andrew W.G. Duller
+The back-propagation algorithm, for training multi-layer perceptrons tends to be slow to converge to a final solution and many methods have been proposed for improving this. One technique takes advantage of an alternative training error criterion, however, we show that this reduces the robustness of the learning in the presence of outliers in the input data. Two examples are used to show the characteristics of the learning methods, one a test problem and the other from a "real-world" problem.
+-

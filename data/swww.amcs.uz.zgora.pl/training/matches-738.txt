@@ -1,0 +1,6 @@
+﻿3 - September 2012
+22 - 2012
+An approach to the analysis of observability and controllability in nonlinear systems via linear methods
+Alexey Zhirabok, Alexey Shumsky
+The paper is devoted to the problem of observability and controllability analysis in nonlinear dynamic systems. Both continuous- and discrete-time systems described by nonlinear differential or difference equations, respectively, are considered. A new approach is developed to solve this problem whose features include (i) consideration of systems with non-differentiable nonlinearities and (ii) the use of relatively simple linear methods which may be supported by existing programming systems, e.g., Matlab. Sufficient conditions are given for nonlinear unobservability/uncontrollability analysis. To apply these conditions, one isolates the linear part of the system which is checked to be unobservable/uncontrollable and, if the answer is positive, it is examined whether or not existing nonlinear terms violate the unobservability/uncontrollability property.
+nonlinear dynamic systems, observability, controllability, linear systems, decomposition</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0038-1">10.2478/v10006-012-0038-1</a>

@@ -1,0 +1,6 @@
+Identification of amino acid sequences via X-ray crystallography: a mini review of case studies
+a>View full text</a
+Pietrzyk A, Bujacz A, Jaskolski M, Bujacz G. Identification of amino acid sequences via X-ray crystallography: a mini review of case studies. BioTechnologia. 2014;94(1):9-14. doi:10.5114/bta.2013.46427
+Pietrzyk, A., Bujacz, A., Jaskolski, M., &amp; Bujacz, G. (2014). Identification of amino acid sequences via X-ray crystallography: a mini review of case studies. BioTechnologia, 94(1), 9-14. https://doi.org/10.5114/bta.2013.46427
+Pietrzyk, A., Bujacz, A., Jaskolski, M., and Bujacz, G. (2014). Identification of amino acid sequences via X-ray crystallography: a mini review of case studies. BioTechnologia, 94(1), pp.9-14. https://doi.org/10.5114/bta.2013.46427
+The sequencing of a protein is a complicated issue. Several methods have been developed in order to establish<br><br>the amino acid sequences of proteins, including Edman degradation, LC/MS/MS and cDNA sequencing. A number<br><br>of examples confirm that X-ray crystallography could also be a useful tool for the identification of an amino acid<br><br>sequence of unknown proteins. Here, we present a short review summarizing the application of crystallography<br><br>for protein sequence determination and identification.</div

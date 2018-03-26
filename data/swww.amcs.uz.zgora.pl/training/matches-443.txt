@@ -1,0 +1,6 @@
+﻿1 - June 1992
+2 - 1992
+Optimal sensors location for parameter identification of distributed systems
+Dariusz Uciński
+A computational method is proposed for optimal sensors location in parameter identification of two-dimensional parabolic distributed systems with noise-contaminated outputs. After a short survey, the concepts of optimality are discussed, followed by a derivation of the Fisher information matrix for systems with spatially varying parameters to be identified. The determinant of the information matrix and the sensitivity criterion are taken as measures of identification accuracy. Numerical examples illustrate the proposed approach.
+-

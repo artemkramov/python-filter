@@ -1,0 +1,6 @@
+﻿4 - December 1996
+6 - 1996
+An example of non-existence of a cone approximation to the set of feasible states for an optimal control problem
+Uldis Raitums
+The paper considers optimal control problems for linear elliptic systems with a standard set<em>S</em>of admissible controls σ. In the case where the principal part of the operator depends on controls, it is shown that the set<em>Z(S)</em>of all solutions<em>u</em>(σ) of the state equations with σ ∈<em>S</em>cannot be approximated, in general, by cones, i.e. for a given with σ<sub>0</sub>∈<em>S</em>there is, in general, neither element<em>h</em>nor family {σ<sub>ε</sub>} ⊂<em>S</em>such that<em>u</em>(σ<sub>ε</sub>) =<em>u</em>(σ<sub>0</sub>) + ε<em>h</em>+<em>o</em>(ε) as ε → 0.
+-

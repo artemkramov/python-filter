@@ -1,0 +1,6 @@
+﻿1 - March 2002
+12 - 2002
+Error estimation and adaptivity for nonlinear FE analysis
+Antonio Huerta, Antonio Rodrí­guez-Ferran, Pedro Dí­ez
+An adaptive strategy for nonlinear finite-element analysis, based on the combination of error estimation and<em>h</em>-remeshing, is presented. Its two main ingredients are a residual-type error estimator and an unstructured quadrilateral mesh generator. The error estimator is based on simple local computations over the elements and the so-called patches. In contrast to other residual estimators, no flux splitting is required. The adaptive strategy is illustrated by means of a complex nonlinear problem: the failure analysis of a single-edge notched beam. The quasi-brittle response of concrete is modelled by means of a nonlocal damage model.
+finite elements, error estimation, adaptivity, nonlinearity, quality of FE solutions, damage models

@@ -1,0 +1,17 @@
+﻿3/2016
+7
+Cell-based-assays-in-high-throughput-mode-HTS-,85,28545,0
+abstract:</div><div>REVIEW PAPER
+Cell-based assays in high-throughput mode (HTS)
+h3>Kalyani Rajalingham</h3><div>vol. 97(3) C pp. 227-234 C 2016
+6.62927">https://doi.org/10.5114/bta.2016.62927
+a>View full text</a
+28545
+Rajalingham K. Cell-based assays in high-throughput mode (HTS). BioTechnologia. 2016;97(3):227-234. doi:10.5114/bta.2016.62927
+Rajalingham, K. (2016). Cell-based assays in high-throughput mode (HTS). BioTechnologia, 97(3), 227-234. https://doi.org/10.5114/bta.2016.62927
+Rajalingham, Kalyani. 2016. "Cell-based assays in high-throughput mode (HTS)". BioTechnologia 97 (3): 227-234. doi:10.5114/bta.2016.62927
+Rajalingham, K. (2016). Cell-based assays in high-throughput mode (HTS). BioTechnologia, 97(3), pp.227-234. https://doi.org/10.5114/bta.2016.62927
+Rajalingham, Kalyani. "Cell-based assays in high-throughput mode (HTS)." BioTechnologia, vol. 97, no. 3, 2016, pp. 227-234. doi:10.5114/bta.2016.62927
+/div><div>Typically, novel compounds are screened by the millions, a process known as high-throughput screening (HTS). HTS allows for the screening of millions of potential drugs in a relatively short period of time. All compounds are initially subjected to various tests to determine safety and efficacy. At the molecular level, typically two types of tests are available: in vitro and cell-based assays (i.e., in vivo ). The distinction between a cell-based assay and an in vitro screening is that the cell-based assay utilizes live cells – approximately 50 000 cells are seeded onto the floor of the well. Cell-based assays are used to measure proliferation, toxicity, marker production, motility, activation of signaling pathways, and changes in morphology. In such cases, other factors such as 2D versus 3D culture or static versus profusion cultures might also contribute to the results obtained. This study emphasizes the positive aspects of using cell-based assays in high-throughput mode.<
+null
+keywords:</div><h3>cell-based assay, high-throughput screening, drug discovery</h3

@@ -1,0 +1,6 @@
+﻿2 - June 2012
+22 - 2012
+An SQP trust region method for solving the discrete-time linear quadratic control problem
+El-Sayed M.E. Mostafa
+In this paper, a sequential quadratic programming method combined with a trust region globalization strategy is analyzed and studied for solving a certain nonlinear constrained optimization problem with matrix variables. The optimization problem is derived from the infinite-horizon linear quadratic control problem for discrete-time systems when a complete set of state variables is not available. Moreover, a parametrization approach is introduced that does not require starting a feasible solution to initiate the proposed SQP trust region method. To demonstrate the effectiveness of the method, some numerical results are
+output feedback control design, sequential quadratic programming, trust region method</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0026-5">10.2478/v10006-012-0026-5</a>

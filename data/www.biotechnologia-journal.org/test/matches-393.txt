@@ -1,0 +1,17 @@
+﻿1/2011
+2
+REVIEW-PAPER-3D-domain-swapping-implications-r-nfor-conformational-disorders-and-ways-of-control,85,23849,0
+abstract:
+REVIEW PAPER<br>3D domain swapping – implications for conformational disorders and ways of control
+h3>Mariusz Jaskólski</h3><div>BioTechnologia vol. 92(1) C pp. 34-44 C 2011
+1.46515">https://doi.org/10.5114/bta.2011.46515
+a>View full text</a
+23849
+Jaskólski M. REVIEW PAPER&lt;br&gt;3D domain swapping – implications for conformational disorders and ways of control. BioTechnologia. 2014;92(1):34-44. doi:10.5114/bta.2011.46515
+Jaskólski, M. (2014). REVIEW PAPER&lt;br&gt;3D domain swapping – implications for conformational disorders and ways of control. BioTechnologia, 92(1), 34-44. https://doi.org/10.5114/bta.2011.46515
+Jaskólski, Mariusz. 2014. "REVIEW PAPER&lt;br&gt;3D domain swapping – implications for conformational disorders and ways of control". BioTechnologia 92 (1): 34-44. doi:10.5114/bta.2011.46515
+Jaskólski, M. (2014). REVIEW PAPER&lt;br&gt;3D domain swapping – implications for conformational disorders and ways of control. BioTechnologia, 92(1), pp.34-44. https://doi.org/10.5114/bta.2011.46515
+Jaskólski, Mariusz. "REVIEW PAPER&lt;br&gt;3D domain swapping – implications for conformational disorders and ways of control." BioTechnologia, vol. 92, no. 1, 2014, pp. 34-44. doi:10.5114/bta.2011.46515
+/div><div>3D Domain swapping is a mechanism of protein aggregation, in which a structural element of a protein fold is replaced<br><br>by an identical element from another subunit. Some proteins, for instance RNase A, can assume many domain-<br><br>swapped forms, thus undermining the dogma, “one sequence – one structure” in a particularly spectacular<br><br>way. Completed in a mutual fashion, it is a mechanism of protein oligomerization. In an open-ended fashion, 3D<br><br>domain swapping could be a mechanism of amyloid fibril formation. In another mechanism, possibly operating<br><br>together with domain swapping, a specific sequence, such as a glutamine expansion, could form a β-spine of the<br><br>fibril in a motif called steric zipper. The first connection between 3D domain swapping and amyloidogenicity was<br><br>established in human cystatin C (HCC), the second - in the prion protein (PrP). In both cases, a disulfide bridge<br><br>(natural in PrP, engineered in HCC) can be used for redox control of 3D domain swapping and to demonstrate<br><br>that it is indeed involved in amyloid fibril formation. HCC has a naturally occurring L68Q mutant with drastically<br><br>increased propensity for aggregation. The L68Q mutation occurs at the closed interface, or protein core. Mutations<br><br>in other areas, such as the flexible hinge (especially deletions and insertions) can also be used to control<br><br>3D domain swapping and aggregation. Paradoxically, 3D domain swapping can also be used by Nature for prevention<br><br>of nucleation processes that lead to high-order aggregates or crystals. Such a situation exists in the eye lens,<br><br>where despite astronomical concentration of crystallins, the solution remains clear. One of the Nature’s tricks<br><br>to achieve polydispersity is to use a palindromic sequence for the swapped domain, thereby frustrating the growth<br><br>of aggregates by constantly changing the interaction topology.<
+null
+keywords:</div><h3>protein aggregation, mutagenesis, amyloid, fibril, cross-β structure, steric zipper, amylome, ribonuclease A, human cystatin C, prion protein, crystallins</h3

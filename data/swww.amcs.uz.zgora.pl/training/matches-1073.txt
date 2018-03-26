@@ -1,0 +1,6 @@
+﻿4 - December 2007
+17 - 2007
+Optimal approximation, simulation and analog realization of the fundamental fractional order transfer function
+Abdelbaki Djouambi, Abdelfatah Charef, Alina Voda Besançon
+This paper provides an optimal approximation of the fundamental linear fractional order transfer function using a distribution of the relaxation time function. Simple methods, useful in systems and control theories, which can be used to approximate the irrational transfer function of a class of fractional systems for a given frequency band by a rational function are presented. The optimal parameters of the approximated model are obtained by minimizing simultaneously the gain and the phase error between the irrational transfer function and its rational approximation. A simple analog circuit which can serve as a fundamental analog fractional system is obtained. Illustrative examples are presented to show the quality and usefulness of the approximation method.
+fractional systems, approximation, simulation and distribution of the relaxation times function</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0037-9">10.2478/v10006-007-0037-9</a>

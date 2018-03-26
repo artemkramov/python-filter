@@ -1,0 +1,17 @@
+﻿3/2017
+8
+The-mRNA-sequence-polymorphisms-of-flowering-key-genes-r-nin-bolting-sensitive-or-tolerant-sugar-beet-genotypes,85,30831,0
+abstract:</div><div>RESEARCH PAPERS
+The mRNA sequence polymorphisms of flowering key genes in bolting sensitive or tolerant sugar beet genotypes
+h3>Maryam Alimirzaee, Asghar Mirzaie-Asl, Mohammad Reza Abdollahi, Hassan Ebrahimi Kolaei, Parviz Fasahat</h3><div>BioTechnologia vol. 98(3) C pp. 209-217 C 2017
+7.70799">https://doi.org/10.5114/bta.2017.70799
+a>View full text</a
+30831
+Alimirzaee M, Mirzaie-Asl A, Reza Abdollahi M, Kolaei H, Fasahat P. The mRNA sequence polymorphisms of flowering key genes in bolting sensitive or tolerant sugar beet genotypes. BioTechnologia. 2018;98(3):209-217. doi:10.5114/bta.2017.70799
+Alimirzaee, M., Mirzaie-Asl, A., Reza Abdollahi, M., Kolaei, H., &amp; Fasahat, P. (2018). The mRNA sequence polymorphisms of flowering key genes in bolting sensitive or tolerant sugar beet genotypes. BioTechnologia, 98(3), 209-217. https://doi.org/10.5114/bta.2017.70799
+Alimirzaee, Maryam, Asghar Mirzaie-Asl, Mohammad Reza Abdollahi, Hassan Ebrahimi Kolaei, and Parviz Fasahat. 2018. "The mRNA sequence polymorphisms of flowering key genes in bolting sensitive or tolerant sugar beet genotypes". BioTechnologia 98 (3): 209-217. doi:10.5114/bta.2017.70799
+Alimirzaee, M., Mirzaie-Asl, A., Reza Abdollahi, M., Kolaei, H., and Fasahat, P. (2018). The mRNA sequence polymorphisms of flowering key genes in bolting sensitive or tolerant sugar beet genotypes. BioTechnologia, 98(3), pp.209-217. https://doi.org/10.5114/bta.2017.70799
+Alimirzaee, Maryam et al. "The mRNA sequence polymorphisms of flowering key genes in bolting sensitive or tolerant sugar beet genotypes." BioTechnologia, vol. 98, no. 3, 2018, pp. 209-217. doi:10.5114/bta.2017.70799
+/div><div>One of the most important characteristics of sugar beet planting in temperate climates is the tolerance against early bolting. Understanding the genetic control of sugar beet flowering can help to develop the bolting-tolerant cultivars. In this study, the transcript sequences of 2<i>VIN3</i>copies, frigida,<i>VRN1, EMF2, BvFT1</i>, and<i>BTC1</i>genes in 4 bolting tolerant and sensitive sugar beet genotypes were evaluated. Leaf samples were taken from plants in 2 growing stages, before and during cold exposure. The amplified fragments of both tolerant and sensitive genotypes were similar in length and the comparison of their transcript sequence showed polymorphism. In overall, 18 mutations comprising 1 mutation in frigida sequence, 14 single nucleotide polymorphisms (SNPs) in 2 copies of BvVIN3 sequence, 2 SNPs in<i>BvFT1</i>sequence, and 1 insertion/deletion mutation for<i>BTC1</i>were characterized. The last one caused a frameshift in the encoded protein. Despite the key role of the above mentioned genes, results showed that SNPs identified in this study were not associated with bolting tolerance or sensitivity. There may be differences in the expression levels of these proteins, which necessitates further exploration.<
+null
+keywords:</div><h3>sugar beet, bolting, single nucleotide polymorphism</h3

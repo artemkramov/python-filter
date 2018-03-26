@@ -1,0 +1,6 @@
+﻿4 - December 2000
+10 - 2000
+Adaptation of regularization parameters in NM-Delta networks
+Piotr Gołąbek, Witold Kosiński
+The paper describes an application of regularization techniques to an automatic choice of parameters driving the learning process in the NM-Delta neural network architecture. The heterogeneous learning algorithm is identified as very similar to the Levenberg-Marquardt method but with a considerably smaller computational cost and different justification of parameter selection. The performance of the modified algorithm proves to be comparable with that of the Levenberg-Marquardt.
+NM-Delta, M-Delta, regularization, Levenberg-Marquardt, quasi-Newton

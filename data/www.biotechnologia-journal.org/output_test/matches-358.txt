@@ -1,0 +1,6 @@
+a>View full text</a
+Kistowski M, Gambin A. RESEARCH PAPER&lt;br&gt;Optimization algorithm for&lt;i&gt; de novo&lt;/i&gt; analysis of tandem mass spectrometry data. BioTechnologia. 2014;92(3):296-300. doi:10.5114/bta.2011.46545
+Kistowski, M., &amp; Gambin, A. (2014). RESEARCH PAPER&lt;br&gt;Optimization algorithm for&lt;i&gt; de novo&lt;/i&gt; analysis of tandem mass spectrometry data. BioTechnologia, 92(3), 296-300. https://doi.org/10.5114/bta.2011.46545
+Kistowski, Michał, and Anna Gambin. 2014. "RESEARCH PAPER&lt;br&gt;Optimization algorithm for&lt;i&gt; de novo&lt;/i&gt; analysis of tandem mass spectrometry data". BioTechnologia 92 (3): 296-300. doi:10.5114/bta.2011.46545
+Kistowski, M., and Gambin, A. (2014). RESEARCH PAPER&lt;br&gt;Optimization algorithm for&lt;i&gt; de novo&lt;/i&gt; analysis of tandem mass spectrometry data. BioTechnologia, 92(3), pp.296-300. https://doi.org/10.5114/bta.2011.46545
+Kistowski, Michał et al. "RESEARCH PAPER&lt;br&gt;Optimization algorithm for&lt;i&gt; de novo&lt;/i&gt; analysis of tandem mass spectrometry data." BioTechnologia, vol. 92, no. 3, 2014, pp. 296-300. doi:10.5114/bta.2011.46545

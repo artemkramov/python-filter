@@ -1,0 +1,6 @@
+﻿3 - September 1998
+8 - 1998
+Frictional contact problems for nonlinear elastic materials
+Mohamed Rochdi, Boudjemaa Teniou
+We are interested in the static problem of modelling the frictional contact between an elastic body and a rigid foundation. We assume that the elastic constitutive law is nonlinear, that the contact is bilateral and that the friction is described by Tresca's law. Two equivalent weak formulations of the problem are established and the existence of a unique solution is proved in each case. A regularized problem is also studied and a strong convergence result is proved.
+-

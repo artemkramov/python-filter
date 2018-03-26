@@ -1,0 +1,6 @@
+﻿4 - December 1998
+8 - 1998
+Source identification in distributed parameter systems
+Mikhail Skliar, W. Fred Ramirez
+In this paper, we solve the problem of the pointwise source identification of the convection-diffusion transport processes. This is done by converting the identification problem into an optimization problem of finding a spatial location and the capacity of a point source which results in the best match of model-predicted measurements to actual observed measurements.
+-

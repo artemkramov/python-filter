@@ -1,0 +1,6 @@
+﻿4 - December 2000
+10 - 2000
+Comparison of two construction algorithms for Takagi-Sugeno fuzzy models
+Oliver Nelles, Alexander Fink, Robert Babuška, Magne Setnes
+This paper compares two different approaches to the construction of Takagi-Sugeno fuzzy models from data. These models approximate nonlinear systems by means of interpolation between local linear models. The main issue in the construction of Takagi-Sugeno models is the decomposition of the operating space into validity regions for the local models. The way this decomposition is done influences the complexity, accuracy and transparency of the obtained model. The first of the presented methods, the local linear model tree (LOLIMOT) algorithm generates incrementally the fuzzy model by axis-orthogonal decomposition of the input space. In the other method, product-space fuzzy clustering (the Gustafson-Kessel algorithm) is used to partition the available data into fuzzy subsets. The fundamental advantages and drawbacks of both the alternative strategies are pointed out. Their properties and real-world applicability are illustrated by building a dynamic model of a truck Diesel engine turbocharger.
+modeling, identification, Takagi-Sugeno fuzzy models, local linear models, turbocharger

@@ -1,0 +1,6 @@
+﻿2 - June 2014
+24 - 2014
+A 2D system approach to the design of a robust modified repetitive-control system with a dynamic output-feedback controller
+Lan Zhou, Jinhua She, Shaowu Zhou
+This paper is concerned with the problem of designing a robust modified repetitive-control system with a dynamic output feedback controller for a class of strictly proper plants. Employing the continuous lifting technique, a continuous-discrete two-dimensional (2D) model is built that accurately describes the features of repetitive control. The 2D control input contains the direct sum of the effects of control and learning, which allows us to adjust control and learning preferentially. The singular-value decomposition of the output matrix and Lyapunov stability theory are used to derive an asymptotic stability condition based on a Linear Matrix Inequality (LMI). Two tuning parameters in the LMI manipulate the preferential adjustment of control and learning. A numerical example illustrates the tuning procedure and demonstrates the effectiveness of the method.
+repetitive control, dynamic output-feedback, two-dimensional system, singular-value decomposition, linear matrix inequality</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2014-0024">10.2478/amcs-2014-0024</a>

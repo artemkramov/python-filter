@@ -1,0 +1,6 @@
+﻿1 - March 2013
+23 - 2013
+On parameter estimation in the bass model by nonlinear least squares fitting the adoption curve
+Darija Marković, Dragan Jukić
+The Bass model is one of the most well-known and widely used first-purchase diffusion models in marketing research. Estimation of its parameters has been approached in the literature by various techniques. In this paper, we consider the parameter estimation approach for the Bass model based on nonlinear weighted least squares fitting of its derivative known as the adoption curve. We show that it is possible that the least squares estimate does not exist. As a main result, two theorems on the existence of the least squares estimate are obtained, as well as their generalization in the<em>l<sub>s</sub></em>norm<em>(1 ≤ s &lt; ∞)</em>. One of them gives necessary and sufficient conditions which guarantee the existence of the least squares estimate. Several illustrative numerical examples are given to support the theoretical work.
+Bass model, least squares estimate, existence problem, data fitting</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0012">10.2478/amcs-2013-0012</a>

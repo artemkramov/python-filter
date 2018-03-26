@@ -1,0 +1,6 @@
+﻿1 - March 2004
+14 - 2004
+A linear programming based analysis of the CP-rank of completely positive matrices
+Yingbo Li, Anton Kummert, Andreas Frommer
+<em>Please see the PDF file.</em>
+completely positive matrices, cp-rank, linear programming, simplex algorithm, basic feasible solution, pivot

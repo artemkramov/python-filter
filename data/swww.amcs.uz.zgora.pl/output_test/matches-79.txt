@@ -1,0 +1,3 @@
+A modified K3M thinning algorithm
+Marek Tabedzki, Khalid Saeed, Adam Szczepański
+The K3M thinning algorithm is a general method for image data reduction by skeletonization. It had proved its feasibility in most cases as a reliable and robust solution in typical applications of thinning, particularly in preprocessing for optical character recognition. However, the algorithm had still some weak points. Since then K3M has been revised, addressing the best known drawbacks. This paper presents a modified version of the algorithm. A comparison is made with the original one and two other thinning approaches. The proposed modification, among other things, solves the main drawback of K3M, namely, the results of thinning an image after rotation with various angles.

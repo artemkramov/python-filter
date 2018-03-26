@@ -1,0 +1,6 @@
+﻿1 - December 1991
+1 - 1991
+Multiple time scale and parameter estimation for stochastic distributed parameter systems
+M.Z. Zgurovsky, W. Fred Ramirez
+The main idea of this work is to use combined experience and complementary work to jointly investigate the combination of separation/duality concepts and singular perturbation methods in order to develop new algorithms for the simultaneous estimation of stochastic distributed parameter process state and model parameters when both can experience multiple and different time domains. Besides the development of general theoretical concepts, specific process applications are considered both computationally and experimentally.
+-

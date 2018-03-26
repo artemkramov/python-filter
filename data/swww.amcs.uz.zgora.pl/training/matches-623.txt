@@ -1,0 +1,6 @@
+﻿1 - March 2013
+23 - 2013
+Attainability analysis in the problem of stochastic equilibria synthesis for nonlinear discrete systems
+Irina Bashkirtseva, Lev Ryashko
+A nonlinear discrete-time control system forced by stochastic disturbances is considered. We study the problem of synthesis of the regulator which stabilizes an equilibrium of the deterministic system and provides required scattering of random states near this equilibrium for the corresponding stochastic system. Our approach is based on the stochastic sensitivity functions technique. The necessary and important part of the examined control problem is an analysis of attainability. For 2D systems, a detailed investigation of attainability domains is given. A parametrical description of the attainability domains for various types of control inputs in a stochastic Henon model is presented. Application of this technique for suppression of noise-induced chaos is demonstrated.
+stochastic sensitivity function, attainability, chaos suppression</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0001">10.2478/amcs-2013-0001</a>

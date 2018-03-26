@@ -1,0 +1,6 @@
+﻿4 - December 2004
+14 - 2004
+The problems of collision avoidance at sea in the formulation of complex motion principles
+Bogdan Żak
+The paper presents a mathematical model of a collision situation for objects afloat based on the rules of a multiple complex motion. It also contains an analysis of the presented model and draws some conclusions from it. The method used to determine the minimum-time control of ships in a situation of colliding with other objects afloat is presented for a mathematical model of a collision situation. It also includes the results of a simulation study conducted by means of this method. A parallel approach of a ship to an encountered object was studied, i.e., a situation generating a critical case which is the collision of two ships.
+collision situation, modelling, anti-collision systems, time-optimal control

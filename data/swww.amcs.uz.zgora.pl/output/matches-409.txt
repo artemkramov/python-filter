@@ -1,0 +1,6 @@
+﻿2 - June 1993
+3 - 1993
+Comparison of optimal and suboptimal synthesis of ordered binary decision diagrams
+Vaclav Dvorak
+The minimum cost ordered (binary) decision diagrams (OBDD's) are difficult to find due to high computational cost. The optimal synthesis of ordered binary decision diagrams is compared with the suboptimal synthesis based on the level minimization technique. Using a set of popular benchmarks, it is shown, that despite much higher computational effort, the optimal synthesis does not yield corresponding difference in quality (size) of the resulting diagrams.
+-

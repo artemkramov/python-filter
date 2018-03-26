@@ -1,0 +1,6 @@
+﻿3 - September 2002
+12 - 2002
+An architecture for making judgments using computing with words
+Jerry M. Mendel
+Our thesis is that computing with words needs to account for the uncertainties associated with the meanings of words, and that these uncertainties require using type-2 fuzzy sets. Doing this leads to a proposed architecture for making<em>judgments</em>by means of computing with words, i.e., to a<em>perceptual computer</em>- the Per-C. The Per-C includes an encoder, a type-2 rulebased fuzzy logic system, and a decoder. It lets all human-computer interactions be performed using words. In this paper, a quantitative language is established for the Per-C, and many open issues about the perceptual computer are described.
+computing with words, footprint of uncertainty, perceptual computer, type-2 fuzzy logic system, judgments

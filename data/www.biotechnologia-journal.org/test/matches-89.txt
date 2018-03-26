@@ -1,0 +1,17 @@
+﻿1/2016
+7
+Enzyme-mediated-protoplast-formation-of-Cuninghamella-echinulata-preliminary-studies,85,27117,0
+abstract:</div><div>RESEARCH PAPERS
+Enzyme-mediated protoplast formation of<i>Cuninghamella echinulata</i>– preliminary studies
+h3>Małgorzata Brzezińska-Rodak, Magdalena Klimek-Ochab, Ewa Żymańczyk-Duda</h3><div>BioTechnologia vol. 97(1) C pp. 27-32 C 2016
+6.58541">https://doi.org/10.5114/bta.2016.58541
+a>View full text</a
+27117
+Brzezińska-Rodak M, Klimek-Ochab M, Żymańczyk-Duda E. Enzyme-mediated protoplast formation of &lt;i&gt;Cuninghamella echinulata&lt;/i&gt; – preliminary studies. BioTechnologia. 2016;97(1):27-32. doi:10.5114/bta.2016.58541
+Brzezińska-Rodak, M., Klimek-Ochab, M., &amp; Żymańczyk-Duda, E. (2016). Enzyme-mediated protoplast formation of &lt;i&gt;Cuninghamella echinulata&lt;/i&gt; – preliminary studies. BioTechnologia, 97(1), 27-32. https://doi.org/10.5114/bta.2016.58541
+Brzezińska-Rodak, Małgorzata, Magdalena Klimek-Ochab, and Ewa Żymańczyk-Duda. 2016. "Enzyme-mediated protoplast formation of &lt;i&gt;Cuninghamella echinulata&lt;/i&gt; – preliminary studies". BioTechnologia 97 (1): 27-32. doi:10.5114/bta.2016.58541
+Brzezińska-Rodak, M., Klimek-Ochab, M., and Żymańczyk-Duda, E. (2016). Enzyme-mediated protoplast formation of &lt;i&gt;Cuninghamella echinulata&lt;/i&gt; – preliminary studies. BioTechnologia, 97(1), pp.27-32. https://doi.org/10.5114/bta.2016.58541
+Brzezińska-Rodak, Małgorzata et al. "Enzyme-mediated protoplast formation of &lt;i&gt;Cuninghamella echinulata&lt;/i&gt; – preliminary studies." BioTechnologia, vol. 97, no. 1, 2016, pp. 27-32. doi:10.5114/bta.2016.58541
+/div><div>In this report, we have presented the analysis of the enzymatic methods of protoplasts formation of Cunninghamella echinulata. Hydrolytic enzymes of different origin (i.e. prokaryotic and eukaryotic) such as chitinase (EC.3.2.1.14), lyticase (mix of lytic enzymes), and proteinase K (EC 3.4.21.64) were used for fungal cell wall disruption. An effective protoplast formation was achieved with the following enzyme solutions: chitinase (0.33 U A ml!1), proteinase K (1.8-3.6 U A ml!1), and lyticase (160 UA ml!1). Fluorescent microscopy was used to evaluate the ability of the tested enzymes to effectively produce protoplasts.<
+null
+keywords:</div><h3>fungal protoplasts,<i>Cuninghamella echinulata</i>, protoplast formation</h3

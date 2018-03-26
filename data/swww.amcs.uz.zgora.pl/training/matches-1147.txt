@@ -1,0 +1,6 @@
+﻿1 - March 2005
+15 - 2005
+Design of Mealy finite-state machines with the transformation of object codes
+Alexander A. Barkalov, Alexander A. Barkalov, Jr.
+An optimization method of the logic circuit of a Mealy finite-state machine is proposed. It is based on the transformation of object codes. The objects of the Mealy FSM are internal states and sets of microoperations. The main idea is to express the states as some functions of sets of microoperations (internal states) and tags. The application of this method is connected with the use of a special code converter in the logic circuit of an FSM. An example of application is given. The effectiveness of the proposed method is also studied.
+finite-state machine, programmable logic device, object, design, logic circuit

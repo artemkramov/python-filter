@@ -1,0 +1,6 @@
+﻿1 - March 2012
+22 - 2012
+Sliding mode methods for fault detection and fault tolerant control with application to aerospace systems
+Christopher Edwards, Halim Alwi, Chee Pin Tan
+Sliding mode methods have been historically studied because of their strong robustness properties with regard to a certain class of uncertainty, achieved by employing nonlinear control/injection signals to force the system trajectories to attain in finite time a motion along a surface in the state-space. This paper will consider how these ideas can be exploited for fault detection (specifically fault signal estimation) and subsequently fault tolerant control. It will also describe applications of these ideas to aerospace systems, including piloted flight simulator results associated with the GARTEUR AG16 Action Group on Fault Tolerant Control. The results demonstrate a successful real-time implementation of the proposed fault tolerant control scheme on a motion flight simulator configured to represent the post-failure EL-AL aircraft.
+sliding modes, fault detection, fault tolerant control, control allocation</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-012-0008-7">10.2478/v10006-012-0008-7</a>

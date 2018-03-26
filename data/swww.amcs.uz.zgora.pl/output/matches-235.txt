@@ -1,0 +1,6 @@
+﻿3 - September 2016
+26 - 2016
+Automatic parametric fault detection in complex analog systems based on a method of minimum node selection
+Adrian Bilski, Jacek Wojciechowski
+The aim of this paper is to introduce a strategy to find a minimal set of test nodes for diagnostics of complex analog systems with single parametric faults using the support vector machine (SVM) classifier as a fault locator. The results of diagnostics of a video amplifier and a low-pass filter using tabu search along with genetic algorithms (GAs) as node selectors in conjunction with the SVM fault classifier are presented. General principles of the diagnostic procedure are first introduced, and then the proposed approach is discussed in detail. Diagnostic results confirm the usefulness of the method and its computational requirements. Conclusions on its wider applicability are provided as well.
+complex analog systems, support vector machine, tabu search, genetic algorithm, parametric fault detection</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0045">10.1515/amcs-2016-0045</a>

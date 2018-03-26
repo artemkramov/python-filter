@@ -1,0 +1,6 @@
+﻿4 - December 2016
+26 - 2016
+Set-membership identifiability of nonlinear models and related parameter estimation properties
+Carine Jauberthie, Louise Travé-Massuyès, Nathalie Verdière
+Identifiability guarantees that the mathematical model of a dynamic system is well defined in the sense that it maps unambiguously its parameters to the output trajectories. This paper casts identifiability in a set-membership (SM) framework and relates recently introduced properties, namely, SM-identifiability,<em>μ</em>-SM-identifiability, and<em>ε</em>-SM-identifiability, to the properties of parameter estimation problems. Soundness and<em>ε</em>-consistency are proposed to characterize these problems and the solution returned by the algorithm used to solve them. This paper also contributes by carefully motivating and comparing SM-identifiability,<em>μ</em>-SM-identifiability and<em>ε</em>-SM-identifiability with related properties found in the literature, and by providing a method based on differential algebra to check these properties.
+identifiability, bounded uncertainty, set-membership estimation, nonlinear dynamic models</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2016-0057">10.1515/amcs-2016-0057</a>

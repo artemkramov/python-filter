@@ -1,0 +1,6 @@
+﻿4 - December 2003
+13 - 2003
+WWW-based Boolean function minimization
+Sebastian P. Tomaszewski, Ilgaz U. Celik, George E. Antoniou
+In this paper a Boolean minimization algorithm is considered and implemented as an applet in Java. The application is based on the Quine-McCluskey simplification technique with some modifications. The given application can be accessed on line since it is posted on the World Wide Web (WWW), with up to four variables, at the URL</p><pre>http://www.csam.montclair.edu/~antoniou/bs.</pre>After extensive testing, the performance of the algorithm has been found to be excellent. The proposed application is a useful aid for students and professors in the fields of electrical and computer engineering and computer science as well as a valuable tool for digital designers.<p>
+digital logic, logic design, Boolean functions, Boolean minimization, Quine-McCluskey method

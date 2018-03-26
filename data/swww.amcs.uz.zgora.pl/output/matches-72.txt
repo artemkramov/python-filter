@@ -1,0 +1,6 @@
+﻿1 - March 1999
+9 - 1999
+On fast state-space algorithms for predictive control
+Marian J. Błachuta
+A Riccati-equation-based solution to a class of receding-horizon predictive control problems for an explicit-delay state-space model of an ARMAX system is found and the corresponding vector Chandrasekhar-type equations are derived for both filter and controller gains to improve the computational efficiency.
+Riccati equation, Chandrasekhar equation, LQG control, predictive control

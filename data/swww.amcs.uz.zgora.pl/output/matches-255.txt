@@ -1,0 +1,6 @@
+﻿3 - September 1996
+6 - 1996
+An introduction to fuzzy systems
+Didier Dubois, Henri Prade
+This short paper introduces the notion of fuzzy sets as a tool for modelling sets with ill-defined boundaries. Fuzzy sets naturally appear when describing the meaning of natural language words pertaining to quantitative scales, or when modelling the notion of typicality. Three main semantics for fuzzy sets are respectively recalled: similarity, preference and uncertainty. Each semantics underlies a particular class of applications. Similarity notions are exploited in clustering analysis and fuzzy controllers. Uncertainty is captured by fuzzy sets in the framework of possibility theory. The membership function of a fuzzy set is sometimes also a kind of utility function that represents flexible constraints in decision problems.
+-

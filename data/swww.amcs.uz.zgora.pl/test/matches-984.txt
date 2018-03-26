@@ -1,0 +1,6 @@
+﻿1 - March 2008
+18 - 2008
+Circular object detection using a modified Hough transform
+Marcin Smereka, Ignacy Dulęba
+A practical modification of the Hough transform is proposed that improves the detection of low-contrast circular objects. The original circular Hough transform and its numerous modifications are discussed and compared in order to improve both the efficiency and computational complexity of the algorithm. Medical images are selected to verify the algorithm. In particular, the algorithm is applied to localize cell nuclei of cytological smears visualized using a phase contrast microscope.
+Hough transform, medical imaging, image processing, circular shape recognition</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-008-0008-9">10.2478/v10006-008-0008-9</a>

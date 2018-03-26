@@ -1,3 +1,3 @@
 ﻿Peristaltic pumping of couple stress fluid through non - erodible porous lining tube wall with thickness of porous material
 This paper is devoted to study the effect of thickness of porous material on the peristaltic pumping of couple stress fluid when the tube wall is provided with non- erodible porous lining. Long wavelength and low Reynolds number approximation is used to linearize the governing equations. The expression for axial velocity, pressure gradient and frictional force are obtained by using Beavers-Joseph Boundary conditions. The effect of various parameters on pumping characteristics is discussed with the help of graphs.
-peristaltic-pumping-of-couple-stress-fluid-through-non--erodible-porous-liningtube-wall-with-thickness-of-porous-material.pdf" title="Peristaltic pumping of couple stress fluid through non - erodible porous liningtube wall with thickness of porous material
+V. P. Rathod, N. G. Sridhar and Mahadev. M.

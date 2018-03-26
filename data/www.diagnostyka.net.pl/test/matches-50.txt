@@ -1,0 +1,15 @@
+﻿Proposal-of-new-maintenance-scheme-of-air-brake-system-on-semi-trailer-combination,81446
+2-2015,3235">2/2015 vol. 16
+Problems-in-estimation-of-hand-grip-force-based-on-EMG-signal,81452,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/Directionality-detection-of-delaminations-basing-on-analysis-of-CT-slices-using-wavelet,81445,0,2.html" title="PREVIOUS
+Proposal of new maintenance scheme of air brake system on semi-trailer combination
+František-Ruman/74795">František Ruman</a></span><sup>1</sup>&nbsp;&nbsp;<a href="mailto:frantisek.ruman@fstroj.uniza.sk"><div></div></a>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Juraj-Grenčík/74797">Juraj Grenčík
+null
+juraj.grencik@fstroj.uniza.sk
+Department of Transport and Handling Machines, University of Zilina, Univerzitná 1, 010 26 ŽILINA, Slovakia
+Publish date: 2017-12-20
+5;16(2):11–19
+81446-16936?filename=Proposal of new
+air+brake+system/146769">air brake system<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-FMECA/146770">FMECA<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-RPN/15363">RPN<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-semi+%E2%80%93+trailer+combination/146771">semi – trailer combination
+maintenance/57971">maintenance
+The paper deals with the proposal of new maintenance scheme of air brake system on a semi-trailer combination. The structure of semi-trailer and the current maintenance scheme of trailers are described with focus on the basic air brake system design. Analysis of wear and damage of air brake system components used on the semi-trailer combination based on real experience from practice and creation of the FMECA analysis of the system using software support are presented. Based on the analysis performed, a new scheme of maintenance was designed which was aimed at reduction of the risk related to failure consequences. Main objective was to reduce the impact of any failure in any component on the air brake system. Proposed intervals of preventive maintenance execution are based on the cal culation of the total costs associated with the consequences of failures that may arise from them and compared with costs associat ed with service inspections carried out on the analysed semi-trailer fleet.
+></div></div><div><div><div></div>Related articles</div><div><div><a href="http://www.diagnostyka.net.pl/Proposal-of-new-maintenance-scheme-of-air-brake-system-on-semi-trailer-combination,81382,0,2.html">Proposal of new maintenance scheme of air brake system on semi-trailer combination</a></div

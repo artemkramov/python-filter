@@ -1,0 +1,6 @@
+﻿2 - June 2017
+27 - 2017
+The effect of viscosity and heterogeneity on propagation of G-type waves
+Shishir Gupta, Smita
+Earthquakes yield motions of massive rock layers accompanied by vibrations which travel in waves. This paper analyses the possibility of G-type wave propagation along the plane surface at the interface of two different media which is assumed to be heterogeneous and viscoelastic. The upper layer is considered to be viscoelastic and the lower half space is considered to be an initially stressed heterogeneous half space. The dispersion equation, as well as the phase and group velocities, is obtained in closed form. The dispersion equation agrees with the classical Love type wave. The effects of the nonhomogeneity of the parameters and the initial stress on the phase and group velocities are expressed by means of a graph.
+G-type wave, dispersion equation, heterogeneity</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2017-0018">10.1515/amcs-2017-0018</a>

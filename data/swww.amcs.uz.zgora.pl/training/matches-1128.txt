@@ -1,0 +1,6 @@
+﻿4 - December 2006
+16 - 2006
+Quasi-hierarchical evolution algorithm for flow assignment in survivable connection-oriented networks
+Michał Przewoźniczek, Krzysztof Walkowiak
+The main objective of this paper is to develop an effective evolutionary algorithm (EA) for the path-assignment problem in survivable connection-oriented networks. We assume a single-link failure scenario, which is the most common and frequently reported failure event. Since the network flow is modeled as a non-bifurcated multicommodity flow, the discussed optimization problem is NP-complete. Thus, we develop an effective heuristic algorithm based on an evolutionary algorithm. The main novelty of this work is that the proposed evolutionary algorithm consists of two levels. The "high" level applies typical EA operators. The "low" level is based on the idea of a hierarchical algorithm. However, the presented approach is not a classical hierarchical algorithm. Therefore, we call the algorithm quasi-hierarchical. We present its description and the results of simulation runs over various networks.
+evolution algorithm, optimization, connection-oriented networks

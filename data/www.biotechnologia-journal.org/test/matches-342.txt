@@ -1,0 +1,16 @@
+﻿3/2011
+2
+EDITORIAL-On-the-border-between-biology-r-nmathematics-and-computer-science,85,23869,0
+abstract:
+EDITORIAL<br>On the border between biology, mathematics and computer science
+h3>Piotr Formanowicz</h3><div>BioTechnologia vol. 92(3) C pp. 217-220 C 2011
+1.46536">https://doi.org/10.5114/bta.2011.46536
+a>View full text</a
+23869
+Formanowicz P. EDITORIAL&lt;br&gt;On the border between biology, mathematics and computer science. BioTechnologia. 2014;92(3):217-220. doi:10.5114/bta.2011.46536
+Formanowicz, P. (2014). EDITORIAL&lt;br&gt;On the border between biology, mathematics and computer science. BioTechnologia, 92(3), 217-220. https://doi.org/10.5114/bta.2011.46536
+Formanowicz, Piotr. 2014. "EDITORIAL&lt;br&gt;On the border between biology, mathematics and computer science". BioTechnologia 92 (3): 217-220. doi:10.5114/bta.2011.46536
+Formanowicz, P. (2014). EDITORIAL&lt;br&gt;On the border between biology, mathematics and computer science. BioTechnologia, 92(3), pp.217-220. https://doi.org/10.5114/bta.2011.46536
+Formanowicz, Piotr. "EDITORIAL&lt;br&gt;On the border between biology, mathematics and computer science." BioTechnologia, vol. 92, no. 3, 2014, pp. 217-220. doi:10.5114/bta.2011.46536
+null
+</div

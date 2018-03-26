@@ -1,0 +1,6 @@
+﻿3 - September 1999
+9 - 1999
+CMAC and its extensions for efficient system modelling
+Tamás Szabó, Gábor Horváth
+This paper deals with the family of CMAC neural networks. The most important properties of this family are the extremely fast learning capability and a special architecture that makes effective digital hardware implementation possible. The paper gives an overview of the classical binary CMAC, shows the limitations of its modelling capability, gives a critical survey of its different extensions and suggests two further modifications. The aim of these modifications is to improve the modelling capability while maintaining the possibility of an effective realization. The basic element of the first suggested hardware structure is a new matrix-vector multiplier which is based on a canonical signed digit (CSD) number representation and a distributed arithmetic. In the other version, a hierarchical network structure and a special sequential training method are proposed which can constitute a trade-off between the approximation error and generalization. The proposed versions (among them a dynamic extension of the originally static CMAC) are suitable for embedded applications where the low cost and relatively high speed operation are the most important requirements.
+CMAC, neural networks, B-splines, hardware implementation

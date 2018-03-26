@@ -1,0 +1,6 @@
+﻿4 - December 1994
+4 - 1994
+Application of MATLAB™ software package for identification of mechanical systems modal models
+Tadeusz Uhl, Wojciech Lisowski
+Application of MATLAB Software Package for identification of mechanical systems modal models is considered as an example of its scientific and engineering use. The main features of MATLAB package and foundations of modal modelling are presented. An algorithm of using MATLAB in modal model identification procedure is formulated. The results of application of the algorithm to identification of the modal model of a simple real system (single link elastic robot arm) are included.
+-

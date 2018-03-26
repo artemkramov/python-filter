@@ -1,0 +1,6 @@
+﻿2 - June 1997
+7 - 1997
+Controllability for mechanical systems with symmetries and constraints
+Jim P. Ostrowski, Joel W. Burdick
+This paper derives controllability tests for a large class of mechanical systems characterized by nonholonomic constraints and symmetries. Recent research in geometric mechanics has led to a single, simplified framework that describes this class of systems, which includes examples such as wheeled mobile robots; undulatory robotic and biological locomotion systems, such as paramecia, inchworms, and snakes; as well as the reorientation of satellites and underwater vehicles. This geometric framework has also been applied to more unusual examples, such as the snakeboard robot, the wobblestone, and the reorientation of a falling cat. Using results from modern nonlinear control theory, we develop accessibility and controllability tests based on this reduced geometric structure. We also discuss parallels between these tests and the construction of open-loop control algorithms, with analogies to the generation of locomotive gaits for robotic systems.
+-

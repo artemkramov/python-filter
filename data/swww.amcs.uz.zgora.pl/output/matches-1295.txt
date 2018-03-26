@@ -1,0 +1,6 @@
+﻿4 - December 2003
+13 - 2003
+Application of a Java-based framework to parallel simulation of large-scale systems
+Ewa Niewiadomska-Szynkiewicz, Maciej Żmuda, Krzysztof Malinowski
+Large-scale systems, such as computer and telecommunication networks, complex control systems and many others, operate in inherently parallel environments. It follows that there are many opportunities to admit parallelism into both the algorithm of control implementation and simulation of the system operation considered. The paper addresses issues associated with the application of parallel discrete event simulation (PDES). We discuss the PDES terminology and methodology. Particular attention is paid to the software environment CSA&amp;S/PV<em>(Complex Systems Analysis &amp; Simulation - Parallel Version)</em>, which provides a framework for simulation experiments performed on parallel computers. CSA&amp;S/PV was applied to investigate several real-life problems. The case studies are presented for both computer and water networks.
+parallel computations, simulation, large-scale systems, computer systems, computer-aided system design

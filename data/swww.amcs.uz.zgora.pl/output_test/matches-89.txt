@@ -1,0 +1,3 @@
+Architectures of granular information and their robustness properties: A shadowed sets approach
+Witold Pedrycz
+This paper addresses an important issue of information of granulation and relationships between the size of information granules and the ensuing robustness aspects. The use of shadowed sets helps identify and quantify absorption properties of set-based information granules. Discussed is also a problem of determining an optimal level of information granulation arising in the presence of noisy data. The study proposes a new architecture of granular computing involving continuous and granulated variables. Numerical examples are also included.

@@ -1,0 +1,6 @@
+﻿1 - March 2002
+12 - 2002
+Analysis of a viscoelastic antiplane contact problem with slip-dependent friction
+Thierry-Vincent Hoarau-Mantel, Andaluzia Matei
+We study a mathematical problem modelling the antiplane shear deformation of a viscoelastic body in frictional contact with a rigid foundation. The contact is bilateral and is modelled with a slip-dependent friction law. We present the classical formulation for the antiplane problem and write the corresponding variational formulation. Then we establish the existence of a unique weak solution to the model, by using the Banach fixed-point theorem and classical results for elliptic variational inequalities. Finally, we prove that the solution converges to the solution of the corresponding elastic problem as the viscosity converges to zero.
+antiplane problem, slip-dependent friction law, viscoelastic law

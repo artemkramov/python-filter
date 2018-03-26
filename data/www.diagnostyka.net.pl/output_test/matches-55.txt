@@ -1,0 +1,5 @@
+2-2015,3235">2/2015 vol. 16
+Application of wavelet transform in analysis of guided wave propagation signals for damage detection in a steel plate
+Gdańsk University of Technology, Faculty of Civil and Environmental Engineering, Department of Structural Mechanics, Narutowicza 11/12, 80-233 Gdańsk, Poland
+81458-16941?filename=Application of wavelet
+The paper presents results of experimental investigations on damage detection using guided wave propagation technique. The tested specimen was a steel plate with a defect in the form of a rectangular notch. Lamb waves were excited by a PZT actuator and sensed by a laser vibrometer. Since reflections from damage in registered signals are often masked by measurement noise, for identification of time of reflections from damage, continuous wavelet transform (CWT) was used. Obtained results indicated that application of wavelet signal processing enabled precise reconstruction of reflected wavefront from damage.

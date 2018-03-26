@@ -1,0 +1,6 @@
+﻿2 - June 2015
+25 - 2015
+Pointwise completeness and pointwise degeneracy of positive fractional descriptor continuous-time linear systems with regular pencils
+Tadeusz Kaczorek
+Pointwise completeness and pointwise degeneracy of positive fractional descriptor continuous-time linear systems with regular pencils are addressed. Conditions for pointwise completeness and pointwise degeneracy of the systems are established and illustrated by an example.
+pointwise completeness, pointwise degeneracy, descriptor system, fractional system, positive system</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.1515/amcs-2015-0016">10.1515/amcs-2015-0016</a>

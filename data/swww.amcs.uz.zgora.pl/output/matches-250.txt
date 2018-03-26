@@ -1,0 +1,6 @@
+﻿3 - September 1996
+6 - 1996
+Evolutionary computation: Main paradigms and current directions
+Zbigniew Michalewicz, Maciej Michalewicz
+Evolutionary computation techniques, which are based on a powerful principle of evolution: survival of the fittest, constitute an interesting category of heuristic search. Evolutionary computation techniques are stochastic algorithms whose search methods model some natural phenomena: genetic inheritance and Darwinian strife for survival. This paper discusses the main paradigms of evolutionary computation techniques (genetic algorithms, evolution strategies, evolutionary programming, genetic programming) as well as other methods, which are hard to classify. Also, we discuss the major current trends in this field.
+-

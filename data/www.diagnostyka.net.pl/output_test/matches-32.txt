@@ -1,0 +1,4 @@
+4-2015,3237">4/2015 vol. 16
+Life time assessment of clamp-forming machine boom durability
+81490-16982?filename=Life time assessment of
+The problem of assessment of main carrying elements (belts) of clamp-forming machine boom made of the angle 45×45×5 mm (Steel 3) in the process of diagnostics is considered. The fragment of the belt is modelled by means of a plate, hawing the crack with typical sizes. Analytical relations are given, stresses intensity factors (SIF) K1 and rates of their change dK1/da near the apex of a crack are investigated. Six cases of potentially possible crack-like defects initiation are considered, criteria lengths of cracks are determined for them, proceeding from the obtained experimental data.

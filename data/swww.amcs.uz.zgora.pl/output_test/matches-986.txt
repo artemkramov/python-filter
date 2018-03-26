@@ -1,0 +1,3 @@
+Remarks on hardware implementation of image processing algorithms
+Marek Wnuk
+Image processing in industrial vision systems requires both real-time speed and robustness. Modern computers, which fulfill the first demand, are sensitive to hard industrial environment conditions and require considerable amounts of energy. Programmable logic chips are available, which can realize many simple, still time-consuming operations in a parallel or a pipelined manner. The paper discusses particular features of the pipelined architecture and presents selected techniques of implementing early image processing procedures in hardware.

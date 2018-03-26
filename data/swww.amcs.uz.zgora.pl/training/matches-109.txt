@@ -1,0 +1,6 @@
+﻿4 - December 1999
+9 - 1999
+A numerical algorithm for filtering and state observation
+Salim Ibrir
+This paper deals with a numerical method for data fitting and estimation of continuous higher-order derivatives of a given signal from its non-exact sampled data. The proposed algorithm is a generalization of the algorithm proposed by Reinsch (1967). This algorithm is conceived as a key element in the structure of the numerical observer discussed in our recent papers. Satisfactory results are obtained which prove the efficiency of the proposed approach.
+spline functions, numerical differentiation, observers, smooth filters

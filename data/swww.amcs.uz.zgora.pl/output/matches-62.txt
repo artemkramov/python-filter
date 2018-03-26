@@ -1,0 +1,6 @@
+﻿4 - December 2000
+10 - 2000
+A fuzzy logic based approach to linguistic summaries of databases
+Janusz Kacprzyk, Ronald R. Yager, Slawomir Zadrożny
+this paper, we present basic ideas and perspectives related to the use of fuzzy logic for the derivation of linguistic summaries of data (databases). We concentrate on the issue of how to measure the goodness of a linguistic summary, and on how to embed data summarization within the fuzzy querying environment, for an effective and efficient implementation. In particular, we propose how to efficiently implement Kacprzyk and Yager's (2000) new quality indicators of linguistic summaries to derive summaries via Kacprzyk and Zadrożny's (1994; 1995a; 1995b; 1996) fuzzy querying add-on. Finally, we present an implementation for deriving linguistic summaries of a sales database at a computer retailer, and show how the linguistic summaries obtained can be useful for supporting decisions of the business owner.
+fuzzy logic, linguistic summary, computing with words, data mining, fuzzy querying

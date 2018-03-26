@@ -1,0 +1,6 @@
+﻿1 - March 1993
+3 - 1993
+VLSI implementation of cellular automata: Modulo-arithmetic units
+T.A. York, B. Srisuchinwong, P.J Hicks, Ph. Tsalides, A. Thanailakis
+Cellular Automata (CA) and their natural affinity for VLSI are discussed. Group behaviour of CA is related to that for modulo-arithmetic units and this leads to an architecture for modulo multiplication. Implementation of a mod-127 multiplier using two techniques, ful1 custom CMOS design and Xilinx programmable gate arrays is described. The principle of operation is based on two identical 12x12, null-bounded, CA each having semi-group order 126. In practice, implementation utilises the data compression capabilities to reduce the area required by these arrays by about 90%. This is achieved by using triangular CA, each comprising 15 cells that have appropriately chosen initial boundary conditions. Encoding and decoding is performed on-chip and the complexity of this task is significantly reduced by observing only critical cells. Performance and area requirements for this modest function are revealed such that predictions can then be made for more substantial units.
+-

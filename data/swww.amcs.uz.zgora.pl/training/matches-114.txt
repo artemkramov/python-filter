@@ -1,0 +1,6 @@
+﻿4 - December 1999
+9 - 1999
+Iterative construction and optimization of fuzzy models
+Noureddine Goléa, Krier Benmahammed
+In this paper, a constructive approach to the fuzzy model selection problem is developed. First, the selection of membership functions is decoupled from parameter calculations using an orthogonalization procedure. Since each membership function depends only on its own parameters, the selection of rules is performed in a sequential manner. At each learning step, a new membership function is created and its parameters are optimized. The resulting parameter calculation boils down to the solution of a triangular system. This approach reduces significantly the computational complexity, and allows for the derivation of a simple optimization algorithm. In addition, optimization of the membership functions is related to the approximation accuracy. Simulation results, when compared with the orthogonal least-squares algorithm, show that this approach is less sensitive to the size of the training data and converges rapidly.
+fuzzy approximation, decoupled learning, iterative optimization

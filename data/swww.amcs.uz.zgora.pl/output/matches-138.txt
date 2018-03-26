@@ -1,0 +1,6 @@
+﻿2 - June 1998
+8 - 1998
+A fast converging algorithm for Landau's output error method
+Moritz Harteneck, Robert W. Stewart
+In this paper an approach to on-line ARMA parameter estimation based on a pseudo-linear regression and a<em>QR</em>matrix decomposition is developed. The algorithm has proven to be stable and has fast convergence properties if the unknown ARMA model satisfies the strictly positive real condition. The derivation of the algorithm is straightforward and the computational complexity is<em>O(N<sup>2</sup>)</em>, however, fast versions of<em>O(N)</em>computational complexity are readily available.
+-

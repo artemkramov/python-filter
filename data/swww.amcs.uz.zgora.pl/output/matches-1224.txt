@@ -1,0 +1,6 @@
+﻿3 - September 2004
+14 - 2004
+Diagnosing corporate stability using grammatical evolution
+Anthony Brabazon, Michael O'Neill
+Grammatical Evolution (GE) is a novel data-driven, model-induction tool, inspired by the biological gene-to-protein mapping process. This study provides an introduction to GE, and demonstrates the methodology by applying it to construct a series of models for the prediction of bankruptcy, employing information drawn from financial statements. Unlike prior studies in this domain, the raw financial information is not preprocessed into pre-determined financial ratios. Instead, the ratios to be incorporated into the classification rule are evolved from the raw financial data. This allows the creation and subsequent evolution of alternative ratio-based representations of the financial data. A sample of 178 publicly quoted, US firms, drawn from the period 1991 to 2000 are used to train and test the model. The best evolved model correctly classified 86 (77)% of the firms in the in-sample training set (out-of-sample validation set), one year prior to failure.
+grammatical evolution, corporate failure prediction

@@ -1,0 +1,6 @@
+﻿4 - December 1998
+8 - 1998
+Neural network signal interpretation for optimization of chromatographic protein purifications
+Eric J. Klein, Sheyla L. Rivera
+Mobile phase pH and salt gradient steepness are optimized for the separation of protein mixtures using gradient elution ion-exchange chromatography. The optimization method utilizes a factorial experimental design to generate an experimental matrix. The resulting chromatographic peaks are classified into six distinct classes based on peak geometry by a vector quantizing neural network (VQN). A modified chromatographic optimization function (COF), which accounts for the neural net classification as well as peak separation and total analysis time, is used to rank chromatograms in order of desirability. Results of the COF analysis are fit to a second order polynomial model, which is optimized in the experimental parameters using an advanced simplex algorithm.
+-

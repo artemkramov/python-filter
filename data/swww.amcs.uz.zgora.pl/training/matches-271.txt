@@ -1,0 +1,6 @@
+﻿4 - December 1996
+6 - 1996
+Optimal control of fair discrete-event systems
+Yonghua Li
+In this paper, we formulate and solve a class of optimal control problems for discrete-event systems modelled as finite-state automata. The controlled discrete-event system is considered optimal if the performance index consisting of a behaviour gain and a control cost is maximized, plus that the controller satisfies a structural constraint. A hybrid computational algorithm is devised to reduce the solution space for the optimal controller design. An example is given to illustrate the results.
+-

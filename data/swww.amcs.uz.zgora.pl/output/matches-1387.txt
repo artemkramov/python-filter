@@ -1,0 +1,6 @@
+﻿2 - June 2001
+11 - 2001
+Transformation of dynamic aspects of UML models into LOTOS behaviour expressions
+Bogumiła Hnatkowska, Zbigniew Huzar
+The lack of formal semantics for the UML creates many ambiguity problems, especially when real-time systems are specified. The paper proposes an approach to a formal definition of UML statecharts. Main features of the UML statecharts are described, and next, a transformation of the UML statecharts into LOTOS is defined.
+statecharts, UML, LOTOS

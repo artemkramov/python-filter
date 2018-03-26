@@ -1,0 +1,6 @@
+﻿1 - March 2010
+20 - 2010
+Analysis of multibackground memory testing techniques
+Ireneusz Mrozek
+March tests are widely used in the process of RAM testing. This family of tests is very efficient in the case of simple faults such as stuck-at or transition faults. In the case of a complex fault model—such as pattern sensitive faults—their efficiency is not sufficient. Therefore we have to use other techniques to increase fault coverage for complex faults. Multibackground memory testing is one of such techniques. In this case a selected March test is run many times. Each time it is run with new initial conditions. One of the conditions which we can change is the initial memory background. In this paper we compare the efficiency of multibackground tests based on four different algorithms of background generation.
+RAM testing, pattern sensitive faults, March tests, multibackground testing</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-010-0014-6">10.2478/v10006-010-0014-6</a>

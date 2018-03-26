@@ -1,0 +1,6 @@
+﻿2 - June 2011
+21 - 2011
+Constrained controllability of nonlinear stochastic impulsive systems
+Shanmugasundaram Karthikeyan, Krishnan Balachandran
+This paper is concerned with complete controllability of a class of nonlinear stochastic systems involving impulsive effects in a finite time interval by means of controls whose initial and final values can be assigned in advance. The result is achieved by using a fixed-point argument.
+complete controllability, nonlinear stochastic system, impulsive effect, Banach contraction principle</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-011-0023-0">10.2478/v10006-011-0023-0</a>

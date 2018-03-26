@@ -1,0 +1,6 @@
+﻿1 - March 1993
+3 - 1993
+Real-time vision-aided traffic monitoring
+E.L. Dagless, A.T. Ali
+Image processing systems are becoming more suitable for surveillance and traffic monitoring. The paper reports on some techniques for monitoring traffic flow on motorways, using a moving object detector operating in small windows. Traffic monitoring is demonstrated using a relaxed coincidence search technique, and successful results are reported from video of a busy complex junction layout.
+-

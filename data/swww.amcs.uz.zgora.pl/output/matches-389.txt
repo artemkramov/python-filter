@@ -1,0 +1,6 @@
+﻿1 - March 1993
+3 - 1993
+Architectures for computer vision
+David Milford
+This paper discusses the problems underlying the design of hardware for the task of computer vision and describes an architecture which has been developed at the University of Bristol for use in a variety of applications. A modular heterogeneous architecture is shown to provide an effective and flexible solution to the problem of algoritlunic diversity which is characteristic of computer vision applications.
+-

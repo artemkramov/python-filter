@@ -1,0 +1,6 @@
+﻿4 - October 2001
+11 - 2001
+Simulations of gravity wave induced turbulence using 512 PE Cray T3E
+Joseph M. Prusa, Piotr K. Smolarkiewicz, Andrzej A. Wyszogrodzki
+A 3D nonhydrostatic, Navier-Stokes solver has been employed to simulate gravity wave induced turbulence at mesopause altitudes. This paper extends our earlier 2D study reported in the literature to three spatial dimensions while maintaining fine resolution required to capture essential physics of the wave breaking. The calculations were performed on the 512 processor Cray T3E machine at the National Energy Research Scientific Computing Center (NERSC) in Berkeley. The physical results of this study clearly demonstrate advantages of highly parallel technologies. We briey outline the physical outcome of the study, as well as compare the relative model performance across several machines using both MPI and Shmem communication software.
+nonhydrostatic gravity wave turbulence, parallel Navier-Stokes solver

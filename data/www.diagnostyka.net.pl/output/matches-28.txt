@@ -1,0 +1,15 @@
+﻿The-pilot-helicopter-environment-properties-in-safety-terms,81486
+4-2015,3237">4/2015 vol. 16
+The-concept-of-monitoring-a-teletransmission-track-of-the-highway-emergency-response,81487,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/Applying-methods-of-acquisition-of-information-from-vehicle-electronic-components,81484,0,2.html" title="PREVIOUS
+The pilot-helicopter-environment properties in safety terms
+Tadeusz-Dąbrowski/74934">Tadeusz Dąbrowski
+null
+tadeusz.dabrowski@wat.edu.pl
+>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Wiktor-Olchowik/74935">Wiktor Olchowik</a></span>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Sławomir-Augustyn/74936">Sławomir Augustyn</a></span><sup>2</sup
+Military University of Technology, Electronics Faculty, 2 gen. Kaliskiego Str., 00-908 Warsaw</span></div></td></tr><tr><td>2</td><td><div><span>National Defence University, Management and Defence Faculty, Aviation and Air Defence Institute, 103 gen. Chruściela Av., 00-910 Warsaw
+Publish date: 2017-12-21
+5;16(4):43–48
+81486-16978?filename=The
+stability+item/147010">stability item<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-potential+of+safety/147011">potential of safety
+potential+criterion+of+airworthiness+safety/147012">potential criterion of airworthiness safety
+This paper is devoted to deliberations on transmittance measurement system properties and potential Pilot-Helicopter-Environment (P-H-E), in the security context of this system. Based on the operator’s transmission of the Pilot-Helicopter (P-H) and the results of the stability studies, it is possible to obtain the answer about the scope of acceptable - for safety reasons - changes the operator’s transmission coefficients. On the other hand, the potential recognition allows the inference about the properties of the P-H-E system in safety and reliability areas. The basis of this interference is the assumption concerning the system which is suitable for the safe implementation of tasks in certain conditions and if the P-H system has a required stability supply at the specified time.

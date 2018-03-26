@@ -1,0 +1,6 @@
+﻿4 - December 1996
+6 - 1996
+A rounding technique to construct approximation algorithms for knapsack and partition-type problems
+Mikhail Y. Kovalyov
+A technique to develop E-approximation schemes for mathematical programming problems is described based on the examples of knapsack and partition-type problems. The technique consists in the application of the dynamic programming algorithm to a relaxed problem constructed from the original one by rounding the values of the objective function and variables. The technique is applied to construct fully polynomial approximation schemes for some single and parallel machine scheduling problems with batch set-up times.
+-

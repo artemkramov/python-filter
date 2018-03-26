@@ -1,0 +1,6 @@
+﻿3 - September 2013
+23 - 2013
+An adaptive output feedback motion tracking controller for robot manipulators: Uniform global asymptotic stability and experimentation
+Antonio Yarza, Victor Santibanez, Javier Moreno-Valenzuela
+This paper deals with two important practical problems in motion control of robot manipulators: the measurement of joint velocities, which often results in noisy signals, and the uncertainty of parameters of the dynamic model. Adaptive output feedback controllers have been proposed in the literature in order to deal with these problems. In this paper, we prove for the first time that Uniform Global Asymptotic Stability (UGAS) can be obtained from an adaptive output feedback tracking controller, if the reference trajectory is selected in such a way that the regression matrix is persistently exciting. The new scheme has been experimentally implemented with the aim of confirming the theoretical results.
+adaptive control, robot control, nonlinear control, output feedback, Lyapunov UGAS stability</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/amcs-2013-0045">10.2478/amcs-2013-0045</a>

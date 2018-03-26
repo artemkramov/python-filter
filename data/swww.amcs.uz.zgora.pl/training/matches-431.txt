@@ -1,0 +1,6 @@
+﻿4 - December 1993
+3 - 1993
+FFT in calculating nonparametric regression estimate based on trigonometric series
+Ewaryst Rafajłowicz, Ewa Skubalska-Rafajłowicz
+In the paper the computational algorithm for nonparametric regression function estimation is proposed. The algorithm is based on using the Fast Fourier Transform method twice and is suited to calculate trigonometric series estimators. Its computational complexity is 0(<em>n</em>log<em>n</em>), which yields essential savings in comparison to direct calculations of this estimator.
+-

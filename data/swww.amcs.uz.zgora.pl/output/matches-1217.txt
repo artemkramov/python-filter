@@ -1,0 +1,6 @@
+﻿2 - June 2004
+14 - 2004
+A new approach to the ElGamal encryption scheme
+Czesław Kościelny
+The ElGamal encryption scheme can be used for both digital signatures and encryption, and its security results from the difficulty of calculating discrete logarithms in a finite field. This algorithm usually works in a multiplicative group of<em>GF(p)</em>and in this case the progress in the discrete logarithm problem forces the users of such a basic ElGamal public key cryptosystem to permanently increase a prime modulus<em>p</em>in order to ensure the desired security. But the task of finding a multiplicative group of<em>GF(p)</em>is unfeasible for an ordinary user. It is possible to overcome this inconvenience by forming an ElGamal encryption scheme which works in a multiplicative group of<em>GF(p<sup>m</sup>)</em>. Therefore, it is shown in the paper how to implement this cryptosystem for work in the multiplicative group of<em>GF(p<sup>m</sup>)</em>, in its subgroup, and in an algebraic system named the spurious multiplicative group of<em>GF(p<sup>m</sup>)</em>.
+public-key encryption, ElGamal cipher, block ciphers

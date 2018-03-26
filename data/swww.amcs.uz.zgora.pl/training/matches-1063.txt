@@ -1,0 +1,6 @@
+﻿3 - September 2007
+17 - 2007
+Hermite spline interpolation on patches for parallelly solving the Vlasov-Poisson equation
+Nicolas Crouseilles, Guillaume Latu, Eric Sonnendrücker
+This work is devoted to the numerical simulation of the Vlasov equation using a phase space grid. In contrast to Particle-In-Cell (PIC) methods, which are known to be noisy, we propose a semi-Lagrangian-type method to discretize the Vlasov equation in the two-dimensional phase space. As this kind of method requires a huge computational effort, one has to carry out the simulations on parallel machines. For this purpose, we present a method using patches decomposing the phase domain, each patch being devoted to a processor. Some Hermite boundary conditions allow for the reconstruction of a good approximation of the global solution. Several numerical results demonstrate the accuracy and the good scalability of the method with up to 64 processors. This work is a part of the CALVI project.
+Vlasov-Poisson equation, semi-Lagrangian method, parallelism</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-007-0028-x">10.2478/v10006-007-0028-x</a>

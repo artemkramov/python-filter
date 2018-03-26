@@ -1,0 +1,6 @@
+﻿2 - June 2003
+13 - 2003
+Remarks about energy transfer in an<em>RC</em>ladder network
+Wojciech Mitkowski
+The problem of energy transfer in an<em>RC</em>-ladder network is considered. Using the maximum principle, an algorithm for constructing optimal control is proposed, where the cost function is the energy delivered to the network. In the case considered, optimal control exists. Numerical simulations were performed using Matlab.
+optimal control, energy transfer, approximation of an<em>RC</em>-long line

@@ -1,0 +1,6 @@
+﻿2 - June 2003
+13 - 2003
+Inversion of square matrices in processors with limited calculation abilities
+Krzysztof B. Janiszowski
+An iterative inversion algorithm for a class of square matrices is derived and tested. The inverted matrix can be defined over both real and complex fields. This algorithm is based only on the operations of addition and multiplication. The numerics of the algorithm can cope with a short number representation and therefore can be very useful in the case of processors with limited possibilities, like different neuro-computers and accelerator cards. The quality of inversion can be traced and tested. The algorithm can be used in the case of singular matrices, and then it automatically produces a result that contains the inverse of this part of the processed matrix which can be inverted. An example of the inversion of a six-order square matrix is presented and discussed.
+exponential matrix series, matrix inversion, neuro-processors

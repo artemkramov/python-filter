@@ -1,0 +1,17 @@
+﻿2/2016
+7
+Metalloproteinases-of-the-extracellular-matrix-and-their-inhibitors,85,27820,0
+abstract:</div><div>REVIEW PAPER
+Metalloproteinases of the extracellular matrix and their inhibitors
+h3>Dominika Maria Kudaka, Przemysław Kamil Łodej, Andrea Baier, Ryszard Szyszka</h3><div>BioTechnologia vol. 97(2) C pp. 129-136 C 2016
+6.60782">https://doi.org/10.5114/bta.2016.60782
+a>View full text</a
+27820
+Kudaka D, Łodej P, Baier A, Szyszka R. Metalloproteinases of the extracellular matrix and their inhibitors. BioTechnologia. 2016;97(2):129-136. doi:10.5114/bta.2016.60782
+Kudaka, D., Łodej, P., Baier, A., &amp; Szyszka, R. (2016). Metalloproteinases of the extracellular matrix and their inhibitors. BioTechnologia, 97(2), 129-136. https://doi.org/10.5114/bta.2016.60782
+Kudaka, Dominika Maria, Przemysław Kamil Łodej, Andrea Baier, and Ryszard Szyszka. 2016. "Metalloproteinases of the extracellular matrix and their inhibitors". BioTechnologia 97 (2): 129-136. doi:10.5114/bta.2016.60782
+Kudaka, D., Łodej, P., Baier, A., and Szyszka, R. (2016). Metalloproteinases of the extracellular matrix and their inhibitors. BioTechnologia, 97(2), pp.129-136. https://doi.org/10.5114/bta.2016.60782
+Kudaka, Dominika Maria et al. "Metalloproteinases of the extracellular matrix and their inhibitors." BioTechnologia, vol. 97, no. 2, 2016, pp. 129-136. doi:10.5114/bta.2016.60782
+/div><div>The dynamic equilibrium between the synthesis and degradation of the extracellular matrix is to a large extent mediated by matrix metalloproteinase (MMP) enzymes, which are antagonized by tissue inhibitors of metalloproteinases (TIMPs). Tissue-degrading enzymes of the metalloproteinase family have been implicated in the pathogenesis of several conditions involving the extracellular matrix. MMPs are a family of zinc-dependent endopeptidases capable of degrading practically all components of the extracellular matrix. Recent insights suggest that MMPs may also have a broader spectrum of functions, including regulation of the inflammatory response and cytokine signaling. MMPs have been subdivided according to their main degradation activity and the continuously growing list of known substrates. Metalloproteinases are promising drug targets, and they are subjected to pharmacological inhibition by clinically available drugs such as tetracyclines and bisphosphonates. Interest in MMPs has recently increased, because their expression is frequently related to tumor progression. As such, metalloproteinases have diagnostic potential as markers to predict the outcome of disease processes. This review introduces the members of the MMP family and discusses their domain structure and function, their significance in physiology and pathology and the mechanism of inhibition by TIMPs.<
+null
+keywords:</div><h3>extracellular matrix, metalloproteinase, degradation, substrate, tissue inhibitors of metalloproteinases</h3

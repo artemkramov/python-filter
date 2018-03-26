@@ -1,0 +1,15 @@
+﻿Thermographic-investigation-of-the-cogenerative-ORC-system-with-low-boiling-medium,81468
+3-2015,3236">3/2015 vol. 16
+Application-of-selected-frequency-characteristics-of-vibration-signal-for-the-evaluation,81469,0,2.html" title="NEXT"><div></div></a><div></div><a href="http://www.diagnostyka.net.pl/The-strength-and-dynamic-analysis-of-the-prototype-of-Tesla-turbine,81466,0,2.html" title="PREVIOUS
+Thermographic investigation of the cogenerative ORC system with low-boiling medium
+Tomasz-Kaczmarczyk/74917">Tomasz Z. Kaczmarczyk
+null
+tkaczmarczyk@imp.gda.pl
+>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Grzegorz-Żywica/35705">Grzegorz Żywica</a></span>,&nbsp;&nbsp;</div><div><span><a href="http://www.diagnostyka.net.pl/Author-Eugeniusz-Ihnatowicz/74918">Eugeniusz Ihnatowicz</a></span
+The Szewalski Institute of Fluid-Flow Machinery, Polish Academy of Sciences Centre of Mechanics of Machines, Department of Turbine Dynamics and Diagnostics Gen. J. Fiszera 14 st., 80-231 Gdańsk, Poland
+Publish date: 2017-12-21
+5;16(3):25–32
+81468-16949?filename=Thermographic
+organic+Rankine+cycle/69610">organic Rankine cycle<div></div></a><a href="http://www.diagnostyka.net.pl/Keyword-low-boiling+medium/146968">low-boiling medium
+thermographic/146969">thermographic
+The paper presents the results of experimental investigations of the ORC system equipped with the expansion valve simulating microturbine operation. The aim of the research was to verify the correct functioning of the installation compone nts and to access the technical condition of the thermal insulation in the heating and cooling mode with regard to the design assumptions. The research was conducted for different values of medium flow rates. The images were acquired using the thermal imaging camera FLIR E50, which is equipped with a specialized software. On the basis of the experimental results, the heat losses have been estimated, together with the places which were the major source of loss (the so-called thermal bridges). It was shown experimentally that the application of a thermal imaging camera can constitute a simple and fast thermal diagnostics method for installations of this type.

@@ -1,0 +1,6 @@
+﻿1 - March 1996
+6 - 1996
+A method of constructing quasigroup-based stream-ciphers
+Czesław Kościelny
+A method for constructing endomorphic stream-ciphers over the alphabet of an arbitrary finite order<em>q</em>, based on quasigroups, is described. The presented ciphers, due to their simplicity, can be easily implemented, giving in consequence a very fast speed of enciphering and deciphering. The ciphers are also much more secure than the stream-cipher over<em>GF</em>(2), because, if<em>q</em>&gt; 2, the method allows one to form many invertible transformations which may be used to encipher and decipher; the number of these transformations increases very rapidly with respect to<em>q</em>.
+-

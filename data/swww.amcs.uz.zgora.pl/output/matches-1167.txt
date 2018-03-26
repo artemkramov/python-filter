@@ -1,0 +1,6 @@
+﻿3 - September 2005
+15 - 2005
+Stochastic multivariable self-tuning tracker for non-Gaussian systems
+Vojislav Filipovic
+This paper considers the properties of a minimum variance self-tuning tracker for MIMO systems described by ARMAX models. It is assumed that the stochastic noise has a non-Gaussian distribution. Such an assumption introduces into a recursive algorithm a nonlinear transformation of the prediction error. The system under consideration is minimum phase with different dimensions for input and output vectors. In the paper the concept of Kronecker's product is used, which allows us to represent unknown parameters in the form of vectors. For parameter estimation a stochastic approximation algorithm is employed. Using the concept of the stochastic Lyapunov function, global stability and optimality of the feedback system are established.
+ARMAX model, self-tuning tracker, non-Gaussian noise, robust statistics, global stability, optimality

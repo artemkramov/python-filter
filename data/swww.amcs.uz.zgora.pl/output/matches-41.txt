@@ -1,0 +1,6 @@
+﻿2 - June 2000
+10 - 2000
+A method for determining the properties of multi-screen interfaces
+David Chek Ling Ngo, Lian Seng Teo, John G. Byrne
+An important aspect of screen design is aesthetic evaluation of screen layouts. While it is conceivable to define a set of variables that characterize the key attributes of many alphanumeric display formats, such a task seems difficult for graphic displays because of their much greater complexity. This article proposes a theoretical approach to capture the essence of artists' insights with seven aesthetic measures for graphic displays. The formalized measures include , sequence, cohesion, regularity, homogeneity, rhythm, and order and complexity. The paper concludes with some thoughts on the direction which future research should take.
+screen design, interface aesthetics, aesthetic measures, aesthetic characteristics, multi-screen interfaces

@@ -1,0 +1,6 @@
+﻿2 - June 1996
+6 - 1996
+LAPACK for Fortran 90
+Jack J. Dongarra, Jeremy Du Croz, Sven Hammarling, Jerzy Waśniewski, Adam Zemla
+The aim of this paper is to discuss the design of a Fortran 90 interface to LAPACK. Our emphasis at this stage is on the design of an improved userinterface to the package, taking advantage of considerable simplifications allowed by Fortran 90. The proposed design makes use of assumed-shape arrays, optional arguments, and generic interfaces. The new interface can be implemented initially by writing Fortran 90 jackets to call the existing Fortran 77 code. Eventually, we hope that the LAPACK code will be rewritten to take advantage of the new features of Fortran 90, but this will be an enormous task. We intend to design an interface which can persist unchanged while the underlying code is rewritten. We aim at maintaining the same level of performance as with the Fortran 77 code. In this paper, we use as an example a group of both driver and computational LAPACK routines for solving systems of linear equations<em>AX = B</em>with a general matrix<em>A</em>.
+-

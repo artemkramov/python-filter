@@ -1,0 +1,6 @@
+﻿4 - December 2009
+19 - 2009
+Zeros in linear systems with time delay in state
+Jerzy Tokarzewski
+The concept of invariant zeros in a linear time-invariant system with state delay is considered. In the state-space framework, invariant zeros are treated as triples: complex number, nonzero state-zero direction, input-zero direction. Such a treatment is strictly related to the output-zeroing problem and in that spirit the zeros can be easily interpreted. The problem of zeroing the system output is discussed. For systems of uniform rank, the first nonzero Markov parameter comprises a certain amount of information concerning invariant zeros, output-zeroing inputs and zero dynamics. General formulas for output-zeroing inputs and zero dynamics are provided.
+linear systems, time delay in state, state-space methods, output-zeroing problem, invariant zeros</p><p><strong>DOI</strong><br><a href="http://dx.doi.org/10.2478/v10006-009-0048-9">10.2478/v10006-009-0048-9</a>

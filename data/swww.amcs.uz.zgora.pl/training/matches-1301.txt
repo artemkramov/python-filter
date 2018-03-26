@@ -1,0 +1,6 @@
+﻿1 - March 2002
+12 - 2002
+Mesh<em>r</em>-adaptation for unilateral contact problems
+Pierre Béal, Jonas Koko, Rachid Touzani
+We present a mesh adaptation method by node movement for two-dimensional linear elasticity problems with unilateral contact. The adaptation is based on a hierarchical estimator on finite element edges and the node displacement techniques use an analogy of the mesh topology with a spring network. We show, through numerical examples, the efficiency of the present adaptation method.
+unilateral contact, linear elasticity, mesh adaptivity, node movement

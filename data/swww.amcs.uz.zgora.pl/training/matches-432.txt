@@ -1,0 +1,6 @@
+﻿4 - December 1993
+3 - 1993
+Inverse polynomial matrix approximation
+Jerzy Kisilewicz
+A computational algorithm for matrix<em>C(z)</em>which approximates the inverse of a given matrix<em>Y(z)</em>is described in this paper. Finite degree polynomials as the entries of the matrices<em>C(z)</em>and<em>Y(z)</em>are assumed. The sum of squares of coefficients of polynomials, which are the elements of difference<em>C(z)Y(z) – Iz<sup>–h</sup></em>is assumed as a criterion of the approximation quality, where<em>I</em>is an adequate unit matrix.
+-

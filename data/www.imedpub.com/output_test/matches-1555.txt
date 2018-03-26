@@ -1,2 +1,3 @@
+﻿Thermal studies of some niobium(V) phenoxides
 The niobium (V) phenoxides of composition NbCl4(OAr1,2) and Nb(OAr1,2)5 (where OAr1= OC6H4-C6H5-2 and OAr2= OC6H3-But-2-OMe-4) synthesized from the reactions of niobium pentachloride with 2-phenylphenol and 2-tert-butyl-4-methoxyphenol in metal : ligand 1:1 and 1:5 molar ratios in carbon tetrachloride have been studied by TG and DTA techniques. The TG profiles of complexes showed these to undergo decomposition in single step, yielding Nb2O5 as the final product of decomposition based on % mass loss and authenticated by IR spectra. The single step decomposition is substantiated by exothermic peaks in DTA curve.
 Amit Pathania and Neeraj Sharma

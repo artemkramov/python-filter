@@ -1,0 +1,6 @@
+﻿2 - June 2002
+12 - 2002
+On the discrete time-varying JLQG problem
+Adam Czornik, Andrzej Świerniak
+In the present paper optimal time-invariant state feedback controllers are designed for a class of discrete time-varying control systems with Markov jumping parameter and quadratic performance index. We assume that the coefficients have limits as time tends to infinity and the boundary system is absolutely observable and stabilizable. Moreover, following the same line of reasoning, an adaptive controller is proposed in the case when system parameters are unknown but their strongly consistent estimators are available.
+jump linear systems, optimal control, time-varying systems, coupled Riccati equations
